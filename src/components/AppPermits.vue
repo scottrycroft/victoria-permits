@@ -14,6 +14,9 @@ const filters = ref({
     primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH }
 });
 
+const formatDate = (unixDate: number) => {
+    return new Date(unixDate * 1000).toString().split(" ").slice(0,4).slice(1).join(" ");
+}
 
 const filteredData = ref(permitInfo.permits);
 
@@ -37,7 +40,11 @@ const globalFilter = ref([]);
             <Column field="applicant" header="Applicant" :sortable="true"></Column>
             <Column field="applicationType" header="Application Type" :sortable="true"></Column>
             <Column field="folderNumber" header="Folder Number" :sortable="true"></Column>
-            <Column field="applicationDate" header="Application Date" :sortable="true"></Column>
+            <Column field="applicationDate" header="Application Date" :sortable="true">
+                <template #body="{ data }">
+                    {{ formatDate(data.applicationDate) }}
+                </template>
+            </Column>
             <Column field="addresses" header="Addresses" :sortable="true">
                 <template #body="{ data }">
                     <div v-for="address in data.addresses" :key="address">
@@ -49,7 +56,11 @@ const globalFilter = ref([]);
             <Column field="purpose" header="Purpose" :sortable="true"></Column>
             <Column field="withDistrictDays" header="With District Days" :sortable="true"></Column>
             <Column field="withApplicantDays" header="With Applicant Days" :sortable="true"></Column>
-            <Column field="lastUpdated" header="Last Updated" :sortable="true"></Column>
+            <Column field="lastUpdated" header="Last Updated" :sortable="true">
+                <template #body="{ data }">
+                    {{ formatDate(data.lastUpdated) }}
+                </template>
+            </Column>
         </DataTable>
     </main>
 </template>
