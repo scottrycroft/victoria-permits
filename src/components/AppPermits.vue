@@ -18,8 +18,8 @@ const filters = ref({
     primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH }
 });
 
-const formatDate = (unixDate?: number):string => {
-    if(!unixDate) {
+const formatDate = (unixDate?: number): string => {
+    if (!unixDate) {
         return '';
     }
     return new Date(unixDate * 1000).toString().split(" ").slice(0, 4).slice(1).join(" ");
@@ -42,7 +42,7 @@ const viewPermit = (permitData: any) => {
 <template>
     <main>
         <DataTable :value="filteredData" width="100%" v-model:filters="filters" :globalFilter="globalFilter"
-            filterDisplay="menu" stripedRows 
+            filterDisplay="menu" stripedRows
             :globalFilterFields="['primaryStreetName', 'applicant', 'applicationType', 'status', 'applicationType', 'folderNumber', 'status', 'addresses', 'purpose',]"
             :rowsPerPageOptions="[5, 10, 20, 50]" :rows="5" paginator
             paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
@@ -60,7 +60,8 @@ const viewPermit = (permitData: any) => {
                     <Button icon="pi pi-search" outlined rounded title="View Permit" @click="viewPermit(data)" />
                 </template>
             </Column>
-            <Column field="primaryStreetName" filterField="primaryStreetName" header="Primary Address" :sortable="true" class="w-2" >
+            <Column field="primaryStreetName" filterField="primaryStreetName" header="Primary Address" :sortable="true"
+                class="w-2">
             </Column>
             <Column field="applicant" header="Applicant" :sortable="true" class="w-2"></Column>
             <Column field="applicationType" header="Application Type" :sortable="true" class="w-2"></Column>
@@ -146,15 +147,19 @@ const viewPermit = (permitData: any) => {
                 <div class="col-12 field">
                     <label>Task Progress</label>
                     <div>
-                        <DataTable stripedRows  :value="permit.progressSections">
+                        <DataTable stripedRows :value="permit.progressSections">
                             <Column field="taskType" header="Type"></Column>
                             <Column field="taskDescription" header="Description"></Column>
-                            <Column field="startDate" header="Start Date"><template #body="{ data }">
+                            <Column field="startDate" header="Start Date">
+                                <template #body="{ data }">
                                     {{ formatDate(data.startDate) }}
-                                </template></Column>
-                            <Column field="endDate" header="End Date"><template #body="{ data }">
+                                </template>
+                            </Column>
+                            <Column field="endDate" header="End Date">
+                                <template #body="{ data }">
                                     {{ formatDate(data.endDate) }}
-                                </template></Column>
+                                </template>
+                            </Column>
                         </DataTable>
                     </div>
                 </div>
