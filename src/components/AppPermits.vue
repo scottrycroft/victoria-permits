@@ -2,15 +2,17 @@
 import { ref } from 'vue';
 
 import { FilterMatchMode } from 'primevue/api';
+import Button from 'primevue/button';
 import Column from 'primevue/column';
 import DataTable from 'primevue/datatable';
-import InputText from 'primevue/inputtext';
-import Button from 'primevue/button';
 import Dialog from 'primevue/dialog';
+import InputText from 'primevue/inputtext';
 
+import type { PermitsEntity } from '@/types/Permits';
 
 // @ts-ignore: seems like a TS bug?? https://github.com/microsoft/TypeScript/issues/43784
 import permitInfo from "@/permitInfo.json";
+
 const filters = ref({
     global: { value: null, matchMode: FilterMatchMode.CONTAINS },
     primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH }
@@ -26,7 +28,7 @@ const globalFilter = ref([]);
 
 
 // Permit Dialog
-const permit = ref({});
+const permit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
 const viewPermit = (permitData: any) => {
     permit.value = { ...permitData };
@@ -83,7 +85,7 @@ const viewPermit = (permitData: any) => {
             </Column>
         </DataTable>
 
-        <Dialog v-model:visible="permitDialogVisible" :style="{ 'min-width': '450px' }" header="Permit Details"
+        <Dialog v-if=permit v-model:visible="permitDialogVisible" :style="{ 'min-width': '450px' }" header="Permit Details"
             :modal="true" class="p-fluid">
             <h3>Permit</h3>
             <div class="">
