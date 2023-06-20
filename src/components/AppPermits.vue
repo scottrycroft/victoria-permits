@@ -65,6 +65,7 @@ const viewPermit = (permitData: any) => {
             sortField="lastUpdated" :sortOrder="-1">
             <template #header>
                 <div class="flex justify-content-between">
+                    <h2 class="mt-0">Permit Applications</h2>
                     <div>
                         Data retrieved on {{ formatDate(dateRetrieved) }}
                     </div>
@@ -95,7 +96,7 @@ const viewPermit = (permitData: any) => {
                         :options="applicationTypes" placeholder="Any" :maxSelectedLabels="1"  />
                 </template>
             </Column>
-            <Column field="status" header="Status" :sortable="true" class="w-2" :showFilterMenu="false">
+            <Column field="status" header="Status" :sortable="true" style="width: 13%" :showFilterMenu="false">
                 <template #filter="{ filterModel, filterCallback }">
                     <Dropdown @change=filterCallback() v-model="filterModel.value" :showClear="true"
                         :options="statuses" placeholder="Any" :maxSelectedLabels="1"  />
@@ -168,7 +169,7 @@ const viewPermit = (permitData: any) => {
                 </div>
             </div>
             <div class="grid mt-3">
-                <div class="col-2 field">
+                <div class="col-12 field">
                     <label>Documents</label>
                     <div class="font-bold">
                         <div v-for="document in permit.documents" :key="document.docName">
