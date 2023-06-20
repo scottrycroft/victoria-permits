@@ -12,6 +12,7 @@ export interface PermitsEntity {
   withDistrictDays: number;
   withApplicantDays: number;
   lastUpdated: number;
+  city: string;
 }
 
 export interface ProgressSectionsEntity {

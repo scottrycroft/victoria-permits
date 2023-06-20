@@ -20,7 +20,8 @@ const filters = ref({
     global: { value: null, matchMode: FilterMatchMode.CONTAINS },
     primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
     applicationType: { value: null, matchMode: FilterMatchMode.IN },
-    status: { value: null, matchMode: FilterMatchMode.EQUALS }
+    status: { value: null, matchMode: FilterMatchMode.EQUALS },
+    city: { value: null, matchMode: FilterMatchMode.EQUALS }
 });
 
 const applicationTypes = ref([
@@ -31,6 +32,11 @@ const applicationTypes = ref([
 const statuses = ref([
     "ACTIVE",
     "ARCHIVED",
+]);
+
+const cities = ref([
+    "Saanich",
+    "Victoria"
 ]);
 
 const formatDate = (unixDate?: number): string => {
@@ -59,7 +65,7 @@ const viewPermit = (permitData: any) => {
     <main>
         <DataTable :value="filteredData" width="100%" v-model:filters="filters" :globalFilter="globalFilter"
             filterDisplay="row" stripedRows
-            :globalFilterFields="['primaryStreetName', 'applicant', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose',]"
+            :globalFilterFields="['primaryStreetName', 'applicant', 'city', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose',]"
             :rowsPerPageOptions="[5, 10, 20, 50]" :rows="5" paginator
             paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
             sortField="lastUpdated" :sortOrder="-1">
@@ -88,7 +94,12 @@ const viewPermit = (permitData: any) => {
                         placeholder="Search by address" />
                 </template>
             </Column>
-            <Column field="applicant" header="Applicant" :sortable="true" class="w-2"></Column>
+            <Column field="city" header="City" :sortable="true" class="w-2">
+                <template #filter="{ filterModel, filterCallback }">
+                    <Dropdown @change=filterCallback() v-model="filterModel.value" :showClear="true"
+                        :options="cities" placeholder="Any" :maxSelectedLabels="1"  />
+                </template>
+            </Column>
             <Column field="applicationType" header="Application Type" :sortable="true" class="w-2 max-w-20rem"
             :showFilterMenu="false" >
                 <template #filter="{ filterModel, filterCallback }">
@@ -119,12 +130,12 @@ const viewPermit = (permitData: any) => {
                     <div class="font-bold">{{ permit.primaryStreetName }}</div>
                 </div>
                 <div class="col-2 field">
-                    <label>Status</label>
-                    <div class="font-bold">{{ permit.status }}</div>
+                    <label>City</label>
+                    <div class="font-bold">{{ permit.city }}</div>
                 </div>
                 <div class="col-2 field">
-                    <label>Applicant</label>
-                    <div class="font-bold">{{ permit.applicant }}</div>
+                    <label>Status</label>
+                    <div class="font-bold">{{ permit.status }}</div>
                 </div>
                 <div class="col-2 field">
                     <label>Application Type</label>
@@ -151,9 +162,9 @@ const viewPermit = (permitData: any) => {
                         </div>
                     </div>
                 </div>
-                <div class="col-4 field">
-                    <label>Purpose</label>
-                    <div class="font-bold">{{ permit.purpose }}</div>
+                <div class="col-2 field">
+                    <label>Applicant</label>
+                    <div class="font-bold">{{ permit.applicant }}</div>
                 </div>
                 <div class="col-2 field">
                     <label>With District Days</label>
@@ -169,7 +180,11 @@ const viewPermit = (permitData: any) => {
                 </div>
             </div>
             <div class="grid mt-3">
-                <div class="col-12 field">
+                <div class="col-6 field">
+                    <label>Purpose</label>
+                    <div class="font-bold">{{ permit.purpose }}</div>
+                </div>
+                <div class="col-4 field">
                     <label>Documents</label>
                     <div class="font-bold">
                         <div v-for="document in permit.documents" :key="document.docName">
