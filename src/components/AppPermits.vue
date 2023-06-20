@@ -12,11 +12,26 @@ import type { PermitsEntity } from '@/types/Permits';
 
 // @ts-ignore: seems like a TS bug?? https://github.com/microsoft/TypeScript/issues/43784
 import permitInfo from "@/permitInfo.json";
+import MultiSelect from 'primevue/multiselect';
+import Dropdown from 'primevue/dropdown';
+
 
 const filters = ref({
     global: { value: null, matchMode: FilterMatchMode.CONTAINS },
-    primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH }
+    primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    applicationType: { value: null, matchMode: FilterMatchMode.IN },
+    status: { value: null, matchMode: FilterMatchMode.EQUALS }
 });
+
+const applicationTypes = ref([
+    "REZONING",
+    "DEVELOPMENT PERMIT",
+]);
+
+const statuses = ref([
+    "ACTIVE",
+    "ARCHIVED",
+]);
 
 const formatDate = (unixDate?: number): string => {
     if (!unixDate) {
@@ -25,6 +40,7 @@ const formatDate = (unixDate?: number): string => {
     return new Date(unixDate * 1000).toString().split(" ").slice(0, 4).slice(1).join(" ");
 }
 
+const dateRetrieved = ref(permitInfo.dateRetrieved);
 const filteredData = ref(permitInfo.permits);
 
 const globalFilter = ref();
@@ -42,16 +58,20 @@ const viewPermit = (permitData: any) => {
 <template>
     <main>
         <DataTable :value="filteredData" width="100%" v-model:filters="filters" :globalFilter="globalFilter"
-            filterDisplay="menu" stripedRows
-            :globalFilterFields="['primaryStreetName', 'applicant', 'applicationType', 'status', 'applicationType', 'folderNumber', 'status', 'addresses', 'purpose',]"
+            filterDisplay="row" stripedRows
+            :globalFilterFields="['primaryStreetName', 'applicant', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose',]"
             :rowsPerPageOptions="[5, 10, 20, 50]" :rows="5" paginator
             paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
             sortField="lastUpdated" :sortOrder="-1">
             <template #header>
-                <div class="flex justify-content-end">
+                <div class="flex justify-content-between">
+                    <div>
+                        Data retrieved on {{ formatDate(dateRetrieved) }}
+                    </div>
                     <span class="p-input-icon-left">
                         <i class="pi pi-search" />
-                        <InputText v-model="filters['global'].value" placeholder="Keyword Search" />
+                        <InputText v-model="filters['global'].value" placeholder="Keyword Search"
+                            style="width: 50vw; min-width: 250px;" />
                     </span>
                 </div>
             </template>
@@ -62,10 +82,25 @@ const viewPermit = (permitData: any) => {
             </Column>
             <Column field="primaryStreetName" filterField="primaryStreetName" header="Primary Address" :sortable="true"
                 class="w-2">
+                <template #filter="{ filterModel, filterCallback }">
+                    <InputText v-model="filterModel.value" type="text" @input="filterCallback()" class="p-column-filter"
+                        placeholder="Search by address" />
+                </template>
             </Column>
             <Column field="applicant" header="Applicant" :sortable="true" class="w-2"></Column>
-            <Column field="applicationType" header="Application Type" :sortable="true" class="w-2"></Column>
-            <Column field="status" header="Status" :sortable="true" class="w-1"></Column>
+            <Column field="applicationType" header="Application Type" :sortable="true" class="w-2 max-w-20rem"
+            :showFilterMenu="false" >
+                <template #filter="{ filterModel, filterCallback }">
+                    <MultiSelect @change=filterCallback() v-model="filterModel.value" display="comma" :showClear="true" 
+                        :options="applicationTypes" placeholder="Any" :maxSelectedLabels="1"  />
+                </template>
+            </Column>
+            <Column field="status" header="Status" :sortable="true" class="w-2" :showFilterMenu="false">
+                <template #filter="{ filterModel, filterCallback }">
+                    <Dropdown @change=filterCallback() v-model="filterModel.value" :showClear="true"
+                        :options="statuses" placeholder="Any" :maxSelectedLabels="1"  />
+                </template>
+            </Column>
             <Column field="withDistrictDays" header="With District Days" :sortable="true" class="w-1"></Column>
             <Column field="withApplicantDays" header="With Applicant Days" :sortable="true" class="w-1"></Column>
             <Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-auto">
