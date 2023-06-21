@@ -47,7 +47,7 @@ const formatDate = (unixDate?: number): string => {
 }
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
-const filteredData = ref(permitInfo.permits);
+const permitApplications = ref(permitInfo.permits);
 
 const globalFilter = ref();
 
@@ -63,7 +63,7 @@ const viewPermit = (permitData: any) => {
 
 <template>
     <main>
-        <DataTable :value="filteredData" width="100%" v-model:filters="filters" :globalFilter="globalFilter"
+        <DataTable :value="permitApplications" width="100%" v-model:filters="filters" :globalFilter="globalFilter"
             filterDisplay="row" stripedRows
             :globalFilterFields="['primaryStreetName', 'applicant', 'city', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose',]"
             :rowsPerPageOptions="[5, 10, 20, 50]" :rows="5" paginator
