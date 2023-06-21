@@ -24,10 +24,16 @@ const filters = ref({
     city: { value: null, matchMode: FilterMatchMode.EQUALS }
 });
 
-const applicationTypes = ref([
-    "REZONING",
-    "DEVELOPMENT PERMIT",
-]);
+const applicationTypes = ref(getApplicationTypes(permitInfo.permits));
+
+function getApplicationTypes( permitApplications: PermitsEntity[]) {
+    const set = new Set<string>();
+    for(const application of permitApplications) {
+        set.add(application.applicationType);
+    }
+    const applicationTypes = [ ...set.values() ];
+    return applicationTypes;
+}
 
 const statuses = ref([
     "ACTIVE",
@@ -55,10 +61,20 @@ const globalFilter = ref();
 // Permit Dialog
 const permit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
-const viewPermit = (permitData: any) => {
+const viewPermit = (permitData: PermitsEntity) => {
     permit.value = { ...permitData };
     permitDialogVisible.value = true;
 };
+
+const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
+    if(permitApplication.city === 'Saanich') {
+        return 'https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
+    } else if(permitApplication.city === 'Victoria') {
+        return 'https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
+    }
+    return '';
+};
+
 </script>
 
 <template>
@@ -68,7 +84,7 @@ const viewPermit = (permitData: any) => {
             :globalFilterFields="['primaryStreetName', 'applicant', 'city', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose',]"
             :rowsPerPageOptions="[5, 10, 20, 50]" :rows="5" paginator
             paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
-            sortField="lastUpdated" :sortOrder="-1">
+            sortField="lastUpdated" :sortOrder="-1" currentPageReportTemplate="{first} to {last} of {totalRecords}">
             <template #header>
                 <div class="flex justify-content-between">
                     <h2 class="mt-0">Permit Applications</h2>
@@ -144,7 +160,7 @@ const viewPermit = (permitData: any) => {
                 <div class="col-2 field">
                     <label>Folder Number</label>
                     <div class="font-bold">
-                        <a :href="`https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=${permit.folderNumber}`"
+                        <a :href="getPermitApplicationLink(permit)"
                             target="_blank">{{ permit.folderNumber }}</a>
                     </div>
                 </div>
