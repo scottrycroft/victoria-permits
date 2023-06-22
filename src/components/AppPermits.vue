@@ -26,7 +26,7 @@ const filters = ref({
 
 const applicationTypes = ref(getApplicationTypes(permitInfo.permits));
 
-function getApplicationTypes( permitApplications: PermitsEntity[]) {
+function getApplicationTypes( permitApplications: PermitsEntity[]): string[] {
     const set = new Set<string>();
     for(const application of permitApplications) {
         set.add(application.applicationType);
@@ -35,15 +35,27 @@ function getApplicationTypes( permitApplications: PermitsEntity[]) {
     return applicationTypes;
 }
 
-const statuses = ref([
-    "ACTIVE",
-    "ARCHIVED",
-]);
+const statuses = ref(getStatuses(permitInfo.permits));
 
-const cities = ref([
-    "Saanich",
-    "Victoria"
-]);
+function getStatuses( permitApplications: PermitsEntity[]): string[] {
+    const set = new Set<string>();
+    for(const application of permitApplications) {
+        set.add(application.status);
+    }
+    const statuses = [ ...set.values() ];
+    return statuses;
+}
+
+const cities = ref(getCities(permitInfo.permits));
+
+function getCities( permitApplications: PermitsEntity[]): string[]  {
+    const set = new Set<string>();
+    for(const application of permitApplications) {
+        set.add(application.city);
+    }
+    const cities = [ ...set.values() ];
+    return cities;
+}
 
 const formatDate = (unixDate?: number): string => {
     if (!unixDate) {
@@ -110,7 +122,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                         placeholder="Search by address" />
                 </template>
             </Column>
-            <Column field="city" header="City" :sortable="true" class="w-2">
+            <Column field="city" header="City" :sortable="true" :showFilterMenu="false" class="w-2" >
                 <template #filter="{ filterModel, filterCallback }">
                     <Dropdown @change=filterCallback() v-model="filterModel.value" :showClear="true"
                         :options="cities" placeholder="Any" :maxSelectedLabels="1"  />
@@ -119,11 +131,11 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
             <Column field="applicationType" header="Application Type" :sortable="true" class="w-2 max-w-20rem"
             :showFilterMenu="false" >
                 <template #filter="{ filterModel, filterCallback }">
-                    <MultiSelect @change=filterCallback() v-model="filterModel.value" display="comma" :showClear="true" 
+                    <MultiSelect @change=filterCallback() v-model="filterModel.value" display="comma" 
                         :options="applicationTypes" placeholder="Any" :maxSelectedLabels="1"  />
                 </template>
             </Column>
-            <Column field="status" header="Status" :sortable="true" style="width: 13%" :showFilterMenu="false">
+            <Column field="status" header="Status" :sortable="true" :showFilterMenu="false" style="width: 13%" >
                 <template #filter="{ filterModel, filterCallback }">
                     <Dropdown @change=filterCallback() v-model="filterModel.value" :showClear="true"
                         :options="statuses" placeholder="Any" :maxSelectedLabels="1"  />
