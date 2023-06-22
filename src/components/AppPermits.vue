@@ -15,7 +15,6 @@ import permitInfo from "@/permitInfo.json";
 import MultiSelect from 'primevue/multiselect';
 import Dropdown from 'primevue/dropdown';
 
-
 const filters = ref({
     global: { value: null, matchMode: FilterMatchMode.CONTAINS },
     primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
@@ -111,10 +110,10 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                 </div>
             </template>
             <Column :exportable="false" class="w-min">
-                <template #body="{ data }">
+                <template #body="{ data }: { data: PermitsEntity }">
                     <Button icon="pi pi-search" outlined rounded title="View Permit" @click="viewPermit(data)" />
                 </template>
-            </Column>
+            </Column>2
             <Column field="primaryStreetName" filterField="primaryStreetName" header="Primary Address" :sortable="true"
                 class="w-2">
                 <template #filter="{ filterModel, filterCallback }">
@@ -134,6 +133,9 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                     <MultiSelect @change=filterCallback() v-model="filterModel.value" display="comma" 
                         :options="applicationTypes" placeholder="Any" :maxSelectedLabels="1"  />
                 </template>
+                <template #body="{ data }: { data: PermitsEntity }">
+                    <span :title="data.cityApplicationType">{{ data.applicationType }}</span>
+                </template>
             </Column>
             <Column field="status" header="Status" :sortable="true" :showFilterMenu="false" style="width: 13%" >
                 <template #filter="{ filterModel, filterCallback }">
@@ -144,7 +146,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
             <Column field="withDistrictDays" header="With District Days" :sortable="true" class="w-1"></Column>
             <Column field="withApplicantDays" header="With Applicant Days" :sortable="true" class="w-1"></Column>
             <Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-auto">
-                <template #body="{ data }">
+                <template #body="{ data }: { data: PermitsEntity }">
                     {{ formatDate(data.lastUpdated) }}
                 </template>
             </Column>
@@ -167,7 +169,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                 </div>
                 <div class="col-2 field">
                     <label>Application Type</label>
-                    <div class="font-bold">{{ permit.applicationType }}</div>
+                    <div class="font-bold" :title="permit.cityApplicationType" >{{ permit.applicationType }}</div>
                 </div>
                 <div class="col-2 field">
                     <label>Folder Number</label>

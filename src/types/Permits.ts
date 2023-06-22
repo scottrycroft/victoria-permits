@@ -2,6 +2,7 @@ export interface PermitsEntity {
   primaryStreetName: string;
   applicant: string;
   applicationType: string;
+  cityApplicationType?: string;
   folderNumber: string;
   applicationDate: number;
   addresses: string[];
