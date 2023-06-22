@@ -113,7 +113,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                 <template #body="{ data }: { data: PermitsEntity }">
                     <Button icon="pi pi-search" outlined rounded title="View Permit" @click="viewPermit(data)" />
                 </template>
-            </Column>2
+            </Column>
             <Column field="primaryStreetName" filterField="primaryStreetName" header="Primary Address" :sortable="true"
                 class="w-2">
                 <template #filter="{ filterModel, filterCallback }">
