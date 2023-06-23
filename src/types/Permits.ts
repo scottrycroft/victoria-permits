@@ -10,8 +10,8 @@ export interface PermitsEntity {
   purpose: string;
   progressSections: ProgressSectionsEntity[];
   documents: DocumentsEntity[];
-  withDistrictDays: number;
-  withApplicantDays: number;
+  withDistrictDays: number | null;
+  withApplicantDays: number | null;
   lastUpdated: number;
   city: string;
 }

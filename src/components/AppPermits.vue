@@ -111,7 +111,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                     </span>
                 </div>
             </template>
-            <Column :exportable="false" class="w-min">
+            <Column :exportable="false" class="w-1">
                 <template #body="{ data }: { data: PermitsEntity }">
                     <Button icon="pi pi-search" outlined rounded title="View Permit" @click="viewPermit(data)" />
                 </template>
@@ -147,11 +147,17 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
             </Column>
             <Column field="withDistrictDays" header="With Municipality Days" :sortable="true" class="w-1"></Column>
             <Column field="withApplicantDays" header="With Applicant Days" :sortable="true" class="w-1"></Column>
-            <Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-auto">
+            <Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-1">
                 <template #body="{ data }: { data: PermitsEntity }">
                     {{ formatDate(data.lastUpdated) }}
                 </template>
             </Column>
+            <Column field="applicationDate" header="Application Date" :sortable="true" class="w-auto">
+                <template #body="{ data }: { data: PermitsEntity }">
+                    {{ formatDate(data.applicationDate) }}
+                </template>
+            </Column>
+
         </DataTable>
 
         <Dialog v-if=permit v-model:visible="permitDialogVisible" :style="{ 'width': '90vw' }" header="Permit Details"
