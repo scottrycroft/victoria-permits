@@ -82,6 +82,8 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
         return 'https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
     } else if(permitApplication.city === 'Victoria') {
         return 'https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
+    } else if(permitApplication.city === 'Oak Bay') {
+        return 'https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
     }
     return '';
 };
@@ -143,7 +145,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                         :options="statuses" placeholder="Any" :maxSelectedLabels="1"  />
                 </template>
             </Column>
-            <Column field="withDistrictDays" header="With District Days" :sortable="true" class="w-1"></Column>
+            <Column field="withDistrictDays" header="With Municipality Days" :sortable="true" class="w-1"></Column>
             <Column field="withApplicantDays" header="With Applicant Days" :sortable="true" class="w-1"></Column>
             <Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-auto">
                 <template #body="{ data }: { data: PermitsEntity }">
@@ -197,7 +199,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                     <div class="font-bold">{{ permit.applicant }}</div>
                 </div>
                 <div class="col-2 field">
-                    <label>With District Days</label>
+                    <label>With Municipality Days</label>
                     <div class="font-bold">{{ permit.withDistrictDays }}</div>
                 </div>
                 <div class="col-2 field">
