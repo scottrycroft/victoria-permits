@@ -34,6 +34,8 @@ function getApplicationTypes( permitApplications: PermitsEntity[]): string[] {
     return applicationTypes;
 }
 
+const permitMap = ref(getPermitMap(permitInfo.permits));
+
 const statuses = ref(getStatuses(permitInfo.permits));
 
 function getStatuses( permitApplications: PermitsEntity[]): string[] {
@@ -61,6 +63,15 @@ const formatDate = (unixDate?: number): string => {
         return '';
     }
     return new Date(unixDate * 1000).toString().split(" ").slice(0, 4).slice(1).join(" ");
+}
+
+function getPermitMap( permitApplications: PermitsEntity[]): Map<string, PermitsEntity>  {
+    const permitMap = new Map<string, PermitsEntity>();
+    
+    for(const application of permitApplications) {
+        permitMap.set(application.folderNumber, application);
+    }
+    return permitMap;
 }
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
@@ -147,14 +158,14 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
             </Column>
             <Column field="withDistrictDays" header="With Municipality Days" :sortable="true" class="w-1"></Column>
             <Column field="withApplicantDays" header="With Applicant Days" :sortable="true" class="w-1"></Column>
-            <Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-1">
-                <template #body="{ data }: { data: PermitsEntity }">
-                    {{ formatDate(data.lastUpdated) }}
-                </template>
-            </Column>
             <Column field="applicationDate" header="Application Date" :sortable="true" class="w-auto">
                 <template #body="{ data }: { data: PermitsEntity }">
                     {{ formatDate(data.applicationDate) }}
+                </template>
+            </Column>
+            <Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-1">
+                <template #body="{ data }: { data: PermitsEntity }">
+                    {{ formatDate(data.lastUpdated) }}
                 </template>
             </Column>
 
@@ -249,6 +260,15 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                                     {{ formatDate(data.endDate) }}
                                 </template>
                             </Column>
+                        </DataTable>
+                    </div>
+                </div>
+                <div class="col-12 field">
+                    <label>Related Permits</label>
+                    <div>
+                        <DataTable stripedRows :value="permit.relatedPermits || []">
+                            <Column field="relatedPermitID" header="ID"></Column>
+                            <Column field="relatedPermitType" header="Type"></Column>
                         </DataTable>
                     </div>
                 </div>

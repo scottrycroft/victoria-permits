@@ -14,6 +14,12 @@ export interface PermitsEntity {
   withApplicantDays: number | null;
   lastUpdated: number;
   city: string;
+  relatedPermits?: RelatedPermit[];
+}
+
+export interface RelatedPermit {
+  relatedPermitID: string;
+  relatedPermitType: string;
 }
 
 export interface ProgressSectionsEntity {
