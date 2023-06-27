@@ -8,6 +8,11 @@ const router = createRouter({
       path: '/',
       name: 'home',
       component: AppPermitsVue
+    },
+    {
+      path: '/p/:city/:permitID',
+      name: 'view_permit',
+      component: AppPermitsVue
     }
   ]
 })

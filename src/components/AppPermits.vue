@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
+import { useRoute, useRouter } from 'vue-router'
 
 import { FilterMatchMode } from 'primevue/api';
 import Button from 'primevue/button';
@@ -14,6 +15,10 @@ import type { PermitsEntity } from '@/types/Permits';
 import permitInfo from "@/permitInfo.json";
 import MultiSelect from 'primevue/multiselect';
 import Dropdown from 'primevue/dropdown';
+
+
+const route = useRoute();
+const router = useRouter();
 
 const filters = ref({
     global: { value: null, matchMode: FilterMatchMode.CONTAINS },
@@ -34,7 +39,7 @@ function getApplicationTypes( permitApplications: PermitsEntity[]): string[] {
     return applicationTypes;
 }
 
-const permitMap = ref(getPermitMap(permitInfo.permits));
+const permitMap = ref(createPermitMap(permitInfo.permits));
 
 const statuses = ref(getStatuses(permitInfo.permits));
 
@@ -65,13 +70,27 @@ const formatDate = (unixDate?: number): string => {
     return new Date(unixDate * 1000).toString().split(" ").slice(0, 4).slice(1).join(" ");
 }
 
-function getPermitMap( permitApplications: PermitsEntity[]): Map<string, PermitsEntity>  {
+function createPermitMap( permitApplications: PermitsEntity[]): Map<string, PermitsEntity>  {
     const permitMap = new Map<string, PermitsEntity>();
     
     for(const application of permitApplications) {
-        permitMap.set(application.folderNumber, application);
+        permitMap.set(getApplicationID(application), application);
     }
     return permitMap;
+}
+
+function getApplicationID(application: PermitsEntity): string {
+    return createApplicationID(application.city, application.folderNumber);
+}
+
+function createApplicationID(city: string, folderNumber: string): string {
+    return city + "-" + folderNumber;
+}
+
+function getApplicationByID(city: string, folderNumber: string): PermitsEntity | undefined {
+    const id = createApplicationID(city, folderNumber);
+    const permit = permitMap.value.get(id);
+    return permit;
 }
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
@@ -87,6 +106,37 @@ const viewPermit = (permitData: PermitsEntity) => {
     permit.value = { ...permitData };
     permitDialogVisible.value = true;
 };
+function onDialogHide() {
+    router.push({ name: 'home' });
+}
+
+// fetch the user information when params change
+watch(
+      () => route.params.city,
+      async city => {
+        setViewedPA(city as string, route.params.permitID as string);
+      },
+      { 
+        immediate: true
+      }
+    );
+watch(
+    () => route.params.permitID,
+    async permitID => {
+        setViewedPA(route.params.city as string, permitID as string);
+    },
+      { 
+        immediate: true
+      }
+);
+
+
+function setViewedPA(city: string, permitID: string) {
+    const permit = getApplicationByID(city, permitID);
+    if(permit) {
+        viewPermit(permit);
+    }
+}
 
 const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
     if(permitApplication.city === 'Saanich') {
@@ -124,7 +174,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
             </template>
             <Column :exportable="false" class="w-1">
                 <template #body="{ data }: { data: PermitsEntity }">
-                    <Button icon="pi pi-search" outlined rounded title="View Permit" @click="viewPermit(data)" />
+                    <router-link :to="{ name: 'view_permit', params: { city: data.city, permitID: data.folderNumber } }"><Button icon="pi pi-search" outlined rounded title="View Permit" /></router-link>
                 </template>
             </Column>
             <Column field="primaryStreetName" filterField="primaryStreetName" header="Primary Address" :sortable="true"
@@ -171,7 +221,7 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
 
         </DataTable>
 
-        <Dialog v-if=permit v-model:visible="permitDialogVisible" :style="{ 'width': '90vw' }" header="Permit Details"
+        <Dialog v-if=permit @after-hide="onDialogHide" v-model:visible="permitDialogVisible" :dismissableMask="true" :style="{ 'width': '90vw' }" header="Permit Details"
             :modal="true" class="p-fluid">
             <div class="grid">
                 <div class="col-2 field">
