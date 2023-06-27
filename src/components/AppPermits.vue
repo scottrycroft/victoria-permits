@@ -10,7 +10,7 @@ import Dialog from 'primevue/dialog';
 import InputText from 'primevue/inputtext';
 import { useToast } from "primevue/usetoast";
 
-import type { PermitsEntity } from '@/types/Permits';
+import type { PermitsEntity, RelatedPermit } from '@/types/Permits';
 
 // @ts-ignore: seems like a TS bug?? https://github.com/microsoft/TypeScript/issues/43784
 import permitInfo from "@/permitInfo.json";
@@ -328,7 +328,11 @@ function showToast() {
                     <label>Related Permits</label>
                     <div>
                         <DataTable stripedRows :value="permit.relatedPermits || []">
-                            <Column field="relatedPermitID" header="ID"></Column>
+                            <Column field="relatedPermitID" header="ID">
+                                <template #body="{ data }: { data: RelatedPermit }">
+                                    <router-link :to="{ name: 'view_permit', params: { city: permit.city, permitID: data.relatedPermitID } }">{{ data.relatedPermitID }}</router-link>
+                                </template>
+                            </Column>
                             <Column field="relatedPermitType" header="Type"></Column>
                         </DataTable>
                     </div>
