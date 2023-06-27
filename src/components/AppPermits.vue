@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref, watch, nextTick  } from 'vue';
 import { useRoute, useRouter } from 'vue-router'
 
 import { FilterMatchMode } from 'primevue/api';
@@ -8,6 +8,7 @@ import Column from 'primevue/column';
 import DataTable from 'primevue/datatable';
 import Dialog from 'primevue/dialog';
 import InputText from 'primevue/inputtext';
+import { useToast } from "primevue/usetoast";
 
 import type { PermitsEntity } from '@/types/Permits';
 
@@ -15,6 +16,7 @@ import type { PermitsEntity } from '@/types/Permits';
 import permitInfo from "@/permitInfo.json";
 import MultiSelect from 'primevue/multiselect';
 import Dropdown from 'primevue/dropdown';
+import Toast from 'primevue/toast';
 
 
 const route = useRoute();
@@ -135,6 +137,10 @@ function setViewedPA(city: string, permitID: string) {
     const permit = getApplicationByID(city, permitID);
     if(permit) {
         viewPermit(permit);
+    } else {
+        nextTick(() => {
+            //showToast();
+        });
     }
 }
 
@@ -149,6 +155,11 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
     return '';
 };
 
+const toast = useToast();
+function showToast() {
+    debugger;
+    toast.add({ severity: "error", summary: "Hello " });
+}
 </script>
 
 <template>
@@ -324,5 +335,6 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
                 </div>
             </div>
         </Dialog>
+        <Toast />
     </main>
 </template>

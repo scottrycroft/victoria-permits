@@ -14,9 +14,12 @@ import PrimeVue from 'primevue/config';
 import App from './App.vue'
 import router from './router'
 
+import ToastService from 'primevue/toastservice';
+
 const app = createApp(App)
 
 app.use(router)
+app.use(ToastService);
 app.use(PrimeVue);
 
 app.mount('#app')
