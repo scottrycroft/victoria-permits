@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1687861882,
+  "dateRetrieved": 1687948274,
   "permits": [
     {
       "primaryStreetName": "2024 OAK BAY AVE",
@@ -64,7 +64,7 @@
         }
       ],
       "withDistrictDays": 91,
-      "withApplicantDays": 14,
+      "withApplicantDays": 15,
       "city": "Oak Bay",
       "lastUpdated": 1686207600,
       "relatedPermits": []
@@ -127,7 +127,7 @@
       ],
       "documents": [],
       "withDistrictDays": 106,
-      "withApplicantDays": 6,
+      "withApplicantDays": 7,
       "city": "Oak Bay",
       "lastUpdated": 1678172400,
       "relatedPermits": [
@@ -202,7 +202,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 88,
+      "withDistrictDays": 89,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1680591600,
@@ -270,7 +270,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 14,
+      "withDistrictDays": 15,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1686726000,
@@ -278,6 +278,74 @@
         {
           "relatedPermitID": "ZON00046",
           "relatedPermitType": "ZONING BYLAW AMENDMENT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3475 BEACH DR",
+      "applicant": "FORMWERKS",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000046",
+      "applicationDate": 1687849200,
+      "addresses": [
+        "3475 BEACH DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit. See ADP00161",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.  \n",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1687849200,
+          "endDate": 1687849200
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff. \n",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application. \n",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application. \n",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed. \n",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": 1,
+      "withApplicantDays": 0,
+      "city": "Oak Bay",
+      "lastUpdated": 1687849200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ADP00161",
+          "relatedPermitType": "ADVISORY DESIGN PANEL"
         }
       ]
     },
@@ -339,7 +407,7 @@
       ],
       "documents": [],
       "withDistrictDays": 26,
-      "withApplicantDays": 461,
+      "withApplicantDays": 462,
       "city": "Oak Bay",
       "lastUpdated": 1648018800,
       "relatedPermits": []
@@ -406,7 +474,7 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=C6B8944D-D461-4686-B9F3-312C2C08D69E&folderId=60719C230303115446137387"
         }
       ],
-      "withDistrictDays": 116,
+      "withDistrictDays": 117,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1677826800,
@@ -438,15 +506,15 @@
           "endDate": 1679382000
         },
         {
+          "taskDescription": "Meeting date of Council for initial consideration of the application\n",
+          "taskType": "COUNCIL MEETING # 1",
+          "startDate": 1687762800,
+          "endDate": 1687849200
+        },
+        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": 1681196400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application\n",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -474,10 +542,10 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=61907C230315130826588151&folderId=61889C230315114557846321"
         }
       ],
-      "withDistrictDays": 104,
+      "withDistrictDays": 105,
       "withApplicantDays": 0,
       "city": "Oak Bay",
-      "lastUpdated": 1679382000,
+      "lastUpdated": 1687849200,
       "relatedPermits": [
         {
           "relatedPermitID": "BP015353",
@@ -547,7 +615,7 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=62242C230320145324110689&folderId=61955C230315161756419097"
         }
       ],
-      "withDistrictDays": 48,
+      "withDistrictDays": 49,
       "withApplicantDays": 56,
       "city": "Oak Bay",
       "lastUpdated": 1686639600,
@@ -615,7 +683,7 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=62134C230317123936359345&folderId=62043C230316162301844892"
         }
       ],
-      "withDistrictDays": 103,
+      "withDistrictDays": 104,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1679036400,
@@ -688,7 +756,7 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=67668C230516131120875123&folderId=63505C230331145337674107"
         }
       ],
-      "withDistrictDays": 88,
+      "withDistrictDays": 89,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1680591600,
@@ -765,7 +833,7 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=70569C230609115831973017&folderId=63505C230331145440304848"
         }
       ],
-      "withDistrictDays": 22,
+      "withDistrictDays": 23,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1685948400,
@@ -838,7 +906,7 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=72076C230623142512674967&folderId=71909C230622150508025419"
         }
       ],
-      "withDistrictDays": 5,
+      "withDistrictDays": 6,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1687503600,
@@ -944,7 +1012,7 @@
         }
       ],
       "withDistrictDays": 106,
-      "withApplicantDays": 6,
+      "withApplicantDays": 7,
       "city": "Oak Bay",
       "lastUpdated": 1678345200,
       "relatedPermits": [
@@ -1049,7 +1117,7 @@
         }
       ],
       "withDistrictDays": 83,
-      "withApplicantDays": 5,
+      "withApplicantDays": 6,
       "city": "Oak Bay",
       "lastUpdated": 1687330800,
       "relatedPermits": []
@@ -1135,7 +1203,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 14,
+      "withDistrictDays": 15,
       "withApplicantDays": 0,
       "city": "Oak Bay",
       "lastUpdated": 1686726000,
@@ -1197,7 +1265,7 @@
         }
       ],
       "withDistrictDays": 93,
-      "withApplicantDays": 250,
+      "withApplicantDays": 251,
       "city": "Saanich",
       "lastUpdated": 1666249200,
       "relatedPermits": []
@@ -1278,7 +1346,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D1134793-A58D-4F2B-AD9F-D2039F8F6D6C&folderId=10496C220720125933147567"
         }
       ],
-      "withDistrictDays": 132,
+      "withDistrictDays": 133,
       "withApplicantDays": 210,
       "city": "Saanich",
       "lastUpdated": 1686812400,
@@ -1366,7 +1434,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4DBA1C5D-C321-42F3-8241-A2513AC321B9&folderId=10496C220720140947073844"
         }
       ],
-      "withDistrictDays": 219,
+      "withDistrictDays": 220,
       "withApplicantDays": 123,
       "city": "Saanich",
       "lastUpdated": 1678258800,
@@ -1571,7 +1639,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2E68F4F1-BCD3-4421-B3F6-B3907A6696D7&folderId=13879C220727145432781569"
         }
       ],
-      "withDistrictDays": 213,
+      "withDistrictDays": 214,
       "withApplicantDays": 122,
       "city": "Saanich",
       "lastUpdated": 1684134000,
@@ -1636,7 +1704,7 @@
         }
       ],
       "withDistrictDays": 56,
-      "withApplicantDays": 271,
+      "withApplicantDays": 272,
       "city": "Saanich",
       "lastUpdated": 1664175600,
       "relatedPermits": []
@@ -1696,7 +1764,7 @@
         }
       ],
       "withDistrictDays": 68,
-      "withApplicantDays": 253,
+      "withApplicantDays": 254,
       "city": "Saanich",
       "lastUpdated": 1665039600,
       "relatedPermits": []
@@ -1780,7 +1848,7 @@
         }
       ],
       "withDistrictDays": 135,
-      "withApplicantDays": 180,
+      "withApplicantDays": 181,
       "city": "Saanich",
       "lastUpdated": 1681455600,
       "relatedPermits": []
@@ -1868,7 +1936,7 @@
         }
       ],
       "withDistrictDays": 179,
-      "withApplicantDays": 121,
+      "withApplicantDays": 122,
       "city": "Saanich",
       "lastUpdated": 1683874800,
       "relatedPermits": []
@@ -1932,7 +2000,7 @@
         }
       ],
       "withDistrictDays": 74,
-      "withApplicantDays": 224,
+      "withApplicantDays": 225,
       "city": "Saanich",
       "lastUpdated": 1666162800,
       "relatedPermits": []
@@ -1976,7 +2044,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 286,
+      "withDistrictDays": 287,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1663138800,
@@ -2024,7 +2092,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 279,
+      "withDistrictDays": 280,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1668409200,
@@ -2106,7 +2174,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=5AB42B44-5CA3-4FBE-A311-9BB497E47F36&folderId=37462C221012132713214799"
         }
       ],
-      "withDistrictDays": 138,
+      "withDistrictDays": 139,
       "withApplicantDays": 120,
       "city": "Saanich",
       "lastUpdated": 1687244400,
@@ -2249,7 +2317,7 @@
         }
       ],
       "withDistrictDays": 171,
-      "withApplicantDays": 86,
+      "withApplicantDays": 87,
       "city": "Saanich",
       "lastUpdated": 1686812400,
       "relatedPermits": [
@@ -2314,7 +2382,7 @@
         }
       ],
       "withDistrictDays": 102,
-      "withApplicantDays": 154,
+      "withApplicantDays": 155,
       "city": "Saanich",
       "lastUpdated": 1673247600,
       "relatedPermits": []
@@ -2391,7 +2459,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AEAC1593-D1D7-4C18-86E3-50F31BAAF9F2&folderId=38265C221014132754380914"
         }
       ],
-      "withDistrictDays": 157,
+      "withDistrictDays": 158,
       "withApplicantDays": 99,
       "city": "Saanich",
       "lastUpdated": 1687244400,
@@ -2456,7 +2524,7 @@
         }
       ],
       "withDistrictDays": 59,
-      "withApplicantDays": 193,
+      "withApplicantDays": 194,
       "city": "Saanich",
       "lastUpdated": 1669791600,
       "relatedPermits": []
@@ -2543,7 +2611,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=15492DB2-A51B-48B8-94ED-CB78B910DFE1&folderId=48612C221118090553875993"
         }
       ],
-      "withDistrictDays": 208,
+      "withDistrictDays": 209,
       "withApplicantDays": 13,
       "city": "Saanich",
       "lastUpdated": 1677049200,
@@ -2625,7 +2693,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BA8BB180-467F-4B3F-8C55-33D4406AAC99&folderId=48612C221118105332297432"
         }
       ],
-      "withDistrictDays": 112,
+      "withDistrictDays": 113,
       "withApplicantDays": 109,
       "city": "Saanich",
       "lastUpdated": 1686034800,
@@ -2730,7 +2798,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=19E692EF-883D-4702-8D34-839214CB879E&folderId=48612C221123085659284828"
         }
       ],
-      "withDistrictDays": 140,
+      "withDistrictDays": 141,
       "withApplicantDays": 76,
       "city": "Saanich",
       "lastUpdated": 1687244400,
@@ -2900,7 +2968,7 @@
         }
       ],
       "withDistrictDays": 80,
-      "withApplicantDays": 131,
+      "withApplicantDays": 132,
       "city": "Saanich",
       "lastUpdated": 1676530800,
       "relatedPermits": []
@@ -2981,7 +3049,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=70FA9B2D-AD9D-436C-A771-787F55BEAF17&folderId=52784C221202103835307863"
         }
       ],
-      "withDistrictDays": 134,
+      "withDistrictDays": 135,
       "withApplicantDays": 73,
       "city": "Saanich",
       "lastUpdated": 1687762800,
@@ -3058,7 +3126,7 @@
         }
       ],
       "withDistrictDays": 76,
-      "withApplicantDays": 131,
+      "withApplicantDays": 132,
       "city": "Saanich",
       "lastUpdated": 1675926000,
       "relatedPermits": []
@@ -3116,7 +3184,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A5FF4CB2-1627-4FC7-BFBB-AF861334D4D8&folderId=53224C221205152720550063"
         }
       ],
-      "withDistrictDays": 204,
+      "withDistrictDays": 205,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1678086000,
@@ -3182,7 +3250,7 @@
         }
       ],
       "withDistrictDays": 87,
-      "withApplicantDays": 109,
+      "withApplicantDays": 110,
       "city": "Saanich",
       "lastUpdated": 1678431600,
       "relatedPermits": []
@@ -3260,7 +3328,7 @@
         }
       ],
       "withDistrictDays": 126,
-      "withApplicantDays": 62,
+      "withApplicantDays": 63,
       "city": "Saanich",
       "lastUpdated": 1683788400,
       "relatedPermits": [
@@ -3430,7 +3498,7 @@
         }
       ],
       "withDistrictDays": 77,
-      "withApplicantDays": 91,
+      "withApplicantDays": 92,
       "city": "Saanich",
       "lastUpdated": 1679986800,
       "relatedPermits": []
@@ -3513,7 +3581,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=92438200-DEBF-4D5C-8F8A-227DC70A6D5C&folderId=61004C230110122204999106"
         }
       ],
-      "withDistrictDays": 85,
+      "withDistrictDays": 86,
       "withApplicantDays": 83,
       "city": "Saanich",
       "lastUpdated": 1687503600,
@@ -3595,7 +3663,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=61EDE859-9471-426E-A71E-1895AEAFFC5B&folderId=62704C230117101310993507"
         }
       ],
-      "withDistrictDays": 159,
+      "withDistrictDays": 160,
       "withApplicantDays": 2,
       "city": "Saanich",
       "lastUpdated": 1687330800,
@@ -3672,7 +3740,7 @@
         }
       ],
       "withDistrictDays": 72,
-      "withApplicantDays": 76,
+      "withApplicantDays": 77,
       "city": "Saanich",
       "lastUpdated": 1680159600,
       "relatedPermits": []
@@ -3736,7 +3804,7 @@
         }
       ],
       "withDistrictDays": 122,
-      "withApplicantDays": 22,
+      "withApplicantDays": 23,
       "city": "Saanich",
       "lastUpdated": 1685948400,
       "relatedPermits": []
@@ -3893,7 +3961,7 @@
         }
       ],
       "withDistrictDays": 70,
-      "withApplicantDays": 67,
+      "withApplicantDays": 68,
       "city": "Saanich",
       "lastUpdated": 1682060400,
       "relatedPermits": []
@@ -3957,7 +4025,7 @@
         }
       ],
       "withDistrictDays": 88,
-      "withApplicantDays": 45,
+      "withApplicantDays": 46,
       "city": "Saanich",
       "lastUpdated": 1683529200,
       "relatedPermits": [
@@ -4006,7 +4074,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 79,
+      "withDistrictDays": 80,
       "withApplicantDays": 54,
       "city": "Saanich",
       "lastUpdated": 1682406000,
@@ -4076,7 +4144,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=08275EE4-8693-4568-BA7A-F6E8A037175F&folderId=71448C230214134732012137"
         }
       ],
-      "withDistrictDays": 91,
+      "withDistrictDays": 92,
       "withApplicantDays": 42,
       "city": "Saanich",
       "lastUpdated": 1686812400,
@@ -4200,7 +4268,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=B62965BC-2F4D-4ADD-A390-3A13A0EE4317&folderId=75182C230224145647895125"
         }
       ],
-      "withDistrictDays": 123,
+      "withDistrictDays": 124,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1678518000,
@@ -4268,7 +4336,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=690115E1-26F6-4D19-90CE-77A9CEF797D2&folderId=76884C230228155742073499"
         }
       ],
-      "withDistrictDays": 119,
+      "withDistrictDays": 120,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1687503600,
@@ -4349,7 +4417,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=0CAC4884-558C-48AE-8110-414B7220B1F9&folderId=77263C230307093449509780"
         }
       ],
-      "withDistrictDays": 112,
+      "withDistrictDays": 113,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1686034800,
@@ -4410,7 +4478,7 @@
         }
       ],
       "withDistrictDays": 64,
-      "withApplicantDays": 33,
+      "withApplicantDays": 34,
       "city": "Saanich",
       "lastUpdated": 1684998000,
       "relatedPermits": []
@@ -4458,7 +4526,7 @@
         }
       ],
       "withDistrictDays": 17,
-      "withApplicantDays": 80,
+      "withApplicantDays": 81,
       "city": "Saanich",
       "lastUpdated": 1679468400,
       "relatedPermits": []
@@ -4511,7 +4579,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1856146E-6FA0-4326-BD5D-11F7509F0A26&folderId=86524C230329132836998747"
         }
       ],
-      "withDistrictDays": 90,
+      "withDistrictDays": 91,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1686207600,
@@ -4586,7 +4654,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C997FD06-234F-45EF-969D-DE220F8E34B0&folderId=87004C230330133255831817"
         }
       ],
-      "withDistrictDays": 85,
+      "withDistrictDays": 86,
       "withApplicantDays": 4,
       "city": "Saanich",
       "lastUpdated": 1685689200,
@@ -4660,7 +4728,7 @@
         }
       ],
       "withDistrictDays": 60,
-      "withApplicantDays": 22,
+      "withApplicantDays": 23,
       "city": "Saanich",
       "lastUpdated": 1685948400,
       "relatedPermits": []
@@ -4730,7 +4798,7 @@
         }
       ],
       "withDistrictDays": 48,
-      "withApplicantDays": 28,
+      "withApplicantDays": 29,
       "city": "Saanich",
       "lastUpdated": 1685430000,
       "relatedPermits": []
@@ -4783,7 +4851,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9974DEBA-566C-4F5A-AD51-855A58CD663E&folderId=91584C230417092949045337"
         }
       ],
-      "withDistrictDays": 71,
+      "withDistrictDays": 72,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1686726000,
@@ -4831,7 +4899,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=42116E9D-41B5-4EE7-918F-3B0491CF1F8B&folderId=92000C230418110237605030"
         }
       ],
-      "withDistrictDays": 70,
+      "withDistrictDays": 71,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1684134000,
@@ -4889,7 +4957,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1261AF16-394D-41C8-8147-A33C1BB2E7B3&folderId=92000C230418111739799985"
         }
       ],
-      "withDistrictDays": 70,
+      "withDistrictDays": 71,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1687762800,
@@ -4928,7 +4996,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 14,
+      "withDistrictDays": 15,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1687762800,
@@ -5024,7 +5092,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 319,
+      "withDistrictDays": 320,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1660287600,
@@ -5067,7 +5135,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 246,
+      "withDistrictDays": 247,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1667545200,
@@ -5105,7 +5173,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 232,
+      "withDistrictDays": 233,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1667804400,
@@ -5147,7 +5215,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 207,
+      "withDistrictDays": 208,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1671433200,
@@ -5186,7 +5254,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 204,
+      "withDistrictDays": 205,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1670223600,
@@ -5224,7 +5292,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 188,
+      "withDistrictDays": 189,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1671606000,
@@ -5294,7 +5362,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 138,
+      "withDistrictDays": 139,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1677049200,
@@ -5326,7 +5394,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 133,
+      "withDistrictDays": 134,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1677913200,
@@ -5365,7 +5433,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 123,
+      "withDistrictDays": 124,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1681628400,
@@ -5408,7 +5476,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 119,
+      "withDistrictDays": 120,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1677567600,
@@ -5446,7 +5514,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 89,
+      "withDistrictDays": 90,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1681974000,
@@ -5488,7 +5556,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 53,
+      "withDistrictDays": 54,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1683270000,
@@ -5535,7 +5603,7 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=42E4B2E5-F64D-4BD0-AC41-7DAD34A7F619&folderId=99953C230510101321013664"
         }
       ],
-      "withDistrictDays": 48,
+      "withDistrictDays": 49,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1685084400,
@@ -5568,7 +5636,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 47,
+      "withDistrictDays": 48,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1685516400,
@@ -5604,7 +5672,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 14,
+      "withDistrictDays": 15,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1686639600,
@@ -5642,7 +5710,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 14,
+      "withDistrictDays": 15,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1686812400,
@@ -5675,7 +5743,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 14,
+      "withDistrictDays": 15,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1686812400,
@@ -5695,7 +5763,7 @@
       "purpose": "N/A",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 11,
+      "withDistrictDays": 12,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1686898800,
@@ -5722,7 +5790,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 5,
+      "withDistrictDays": 6,
       "withApplicantDays": 0,
       "city": "Saanich",
       "lastUpdated": 1687417200,
@@ -8585,7 +8653,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=67386C221020085032282484&folderId=67386C221020083735029355"
         }
       ],
-      "withDistrictDays": 245,
+      "withDistrictDays": 246,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1666681200,
@@ -8722,7 +8790,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11135C230404082045242877&folderId=93941C230202085347036097"
         }
       ],
-      "withDistrictDays": 96,
+      "withDistrictDays": 97,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1679554800,
@@ -8905,7 +8973,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12142C230406161405332137&folderId=11869C230405151323115626"
         }
       ],
-      "withDistrictDays": 82,
+      "withDistrictDays": 83,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1680764400,
@@ -8952,7 +9020,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=25052C230524100229480931&folderId=22017C230512111125868087"
         }
       ],
-      "withDistrictDays": 33,
+      "withDistrictDays": 34,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1684998000,
@@ -8992,7 +9060,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=26746C230530150416065098&folderId=24648C230523133956836555"
         }
       ],
-      "withDistrictDays": 27,
+      "withDistrictDays": 28,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1685516400,
@@ -9042,7 +9110,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=26066C230526123820350020&folderId=26066C230526123644749977"
         }
       ],
-      "withDistrictDays": 25,
+      "withDistrictDays": 26,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1685689200,
@@ -9076,7 +9144,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4489B470-902B-477B-82D4-CFE7416164F1&folderId=33876C230621091234369898"
         }
       ],
-      "withDistrictDays": 1,
+      "withDistrictDays": 2,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1687762800,
@@ -9907,7 +9975,7 @@
       "purpose": "NOTE: SEE CONCURRENT REZONING APPLICATION #REZ00710 FOR PROJECT DETAILS. The City is considering a Development Permit with Variances application.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 1429,
+      "withDistrictDays": 1430,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1564383600,
@@ -10042,7 +10110,7 @@
       "purpose": "The City is considering a Development Permit application for a six-storey hotel with attached restaurant, indoor pool and below grade parkade. The existing four-storey hotel would be retained on site. See REZ00717 for project details.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 1331,
+      "withDistrictDays": 1332,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1572850800,
@@ -10802,7 +10870,7 @@
       "purpose": "See REZ#00762 for project details. The City is considering a Development Permit application to construct attached dwellings.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 881,
+      "withDistrictDays": 882,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1611730800,
@@ -10905,7 +10973,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 853,
+      "withDistrictDays": 854,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1614150000,
@@ -10935,7 +11003,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00768 FOR PROJECT DETAILS. The City is considering a Development Permit application to develop a seven unit townhouse building.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 848,
+      "withDistrictDays": 849,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1614582000,
@@ -10964,7 +11032,7 @@
       "purpose": "See REZ00771 for project details. The City is considering a Development Permit application to construct a duplex with two secondary suites.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 831,
+      "withDistrictDays": 832,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1616050800,
@@ -11056,7 +11124,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00787 FOR PROJECT DETAILS. The City is considering a Development Permit application to construct a garden suite with the existing duplex.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 749,
+      "withDistrictDays": 750,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1623135600,
@@ -11313,7 +11381,7 @@
       "purpose": "The City is considering a Development Permit application to construct an attached dwelling building. SEE CONCURRENT REZONING APPLICATION #REZ00795 FOR PROJECT DETAILS.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 613,
+      "withDistrictDays": 614,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1634886000,
@@ -11575,7 +11643,7 @@
       "purpose": "The City is considering a Development Permit application to construct attached dwellings. See REZ00807 for project details.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 517,
+      "withDistrictDays": 518,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1643180400,
@@ -11645,7 +11713,7 @@
         }
       ],
       "withDistrictDays": 23,
-      "withApplicantDays": 494,
+      "withApplicantDays": 495,
       "city": "Victoria",
       "lastUpdated": 1643266800,
       "relatedPermits": []
@@ -11705,7 +11773,7 @@
         }
       ],
       "withDistrictDays": 28,
-      "withApplicantDays": 488,
+      "withApplicantDays": 489,
       "city": "Victoria",
       "lastUpdated": 1645686000,
       "relatedPermits": []
@@ -11785,7 +11853,7 @@
       "purpose": "See REZ00810 for project details. The City is considering a Development Permit application to construct an assisted living building.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 497,
+      "withDistrictDays": 498,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1644908400,
@@ -11962,7 +12030,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E47F4BEA-E41C-40AA-9D1F-D3A7A3DD226A&folderId=00588C220216073151046637"
         }
       ],
-      "withDistrictDays": 167,
+      "withDistrictDays": 168,
       "withApplicantDays": 329,
       "city": "Victoria",
       "lastUpdated": 1685602800,
@@ -12106,7 +12174,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00818 FOR PROJECT DETAILS. The City is considering a Development Permit application to construct a duplex with two secondary suites.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 432,
+      "withDistrictDays": 433,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1650524400,
@@ -12135,7 +12203,7 @@
       "purpose": "SEE REZ00822 FOR PROJECT DETAILS. The City is considering a Development Permit application to add an addition to the existing building and convert it to a duplex, and construct two garden suites.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 385,
+      "withDistrictDays": 386,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1654585200,
@@ -12235,7 +12303,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION # REZ00830 FOR PROJECT DETAILS. The City is considering a Development Permit application to construct a seniors rental building.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 273,
+      "withDistrictDays": 274,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1664262000,
@@ -12322,7 +12390,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E824CC34-ED43-4C57-BC4D-8BA779FF1980&folderId=77930C221201145515741601"
         }
       ],
-      "withDistrictDays": 118,
+      "withDistrictDays": 119,
       "withApplicantDays": 96,
       "city": "Victoria",
       "lastUpdated": 1687762800,
@@ -12342,7 +12410,7 @@
       "purpose": "The City is considering a Development Permit application to construct a residential building. SEE CONCURRENT REZONING APPLICATION #REZ00838 FOR PROJECT DETAILS.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 168,
+      "withDistrictDays": 169,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1673334000,
@@ -12419,7 +12487,7 @@
         }
       ],
       "withDistrictDays": 25,
-      "withApplicantDays": 123,
+      "withApplicantDays": 124,
       "city": "Victoria",
       "lastUpdated": 1677222000,
       "relatedPermits": []
@@ -12445,7 +12513,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 117,
+      "withDistrictDays": 118,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1678777200,
@@ -12528,7 +12596,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DC222558-E39E-47A0-8A0A-484D7BC0305B&folderId=07697C230322083153206401"
         }
       ],
-      "withDistrictDays": 64,
+      "withDistrictDays": 65,
       "withApplicantDays": 33,
       "city": "Victoria",
       "lastUpdated": 1684393200,
@@ -12556,7 +12624,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 96,
+      "withDistrictDays": 97,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1679900400,
@@ -12650,7 +12718,7 @@
       "purpose": "The City is considering a Development Permit application to construct an attached dwelling. See REZ00852 for project details.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 41,
+      "withDistrictDays": 42,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1684306800,
@@ -13211,7 +13279,7 @@
       ],
       "documents": [],
       "withDistrictDays": 313,
-      "withApplicantDays": 1917,
+      "withApplicantDays": 1918,
       "city": "Victoria",
       "lastUpdated": 1495782000,
       "relatedPermits": [
@@ -13690,7 +13758,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=641E4F47-191A-42C6-892B-442189668B7D&folderId=76975C170809111720510000"
         }
       ],
-      "withDistrictDays": 557,
+      "withDistrictDays": 558,
       "withApplicantDays": 1591,
       "city": "Victoria",
       "lastUpdated": 1684306800,
@@ -16571,7 +16639,7 @@
       "purpose": "NOTE: SEE CONCURRENT REZONING APPLICATION # REZ00685 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application for a new multiple dwelling building.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 1617,
+      "withDistrictDays": 1618,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1548140400,
@@ -17933,7 +18001,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9561F51B-56C8-4629-ABA2-5A420B8A733B&folderId=58133C190905153234045738"
         }
       ],
-      "withDistrictDays": 533,
+      "withDistrictDays": 534,
       "withApplicantDays": 864,
       "city": "Victoria",
       "lastUpdated": 1686812400,
@@ -18934,7 +19002,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 1201,
+      "withDistrictDays": 1202,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1584082800,
@@ -18966,7 +19034,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 1217,
+      "withDistrictDays": 1218,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1585292400,
@@ -19751,7 +19819,7 @@
       "purpose": "The City is considering a Development Permit with Variance application to construct a multiple dwelling building. SEE CONCURRENT REZONING APPLICATION #REZ00753 FOR PROJECT DETAILS.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 1000,
+      "withDistrictDays": 1001,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1601449200,
@@ -20485,7 +20553,7 @@
       "purpose": "The City is considering a Development Permit with Variance application to relax the rear yard setback requirement for a Single Family Dwelling. Concurrent with REZ00778.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 797,
+      "withDistrictDays": 798,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1618988400,
@@ -20517,7 +20585,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 769,
+      "withDistrictDays": 770,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1621407600,
@@ -20576,7 +20644,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 767,
+      "withDistrictDays": 768,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1621580400,
@@ -20910,7 +20978,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DDD6EB05-8EF5-4D38-B7B7-3E843F1D54FF&folderId=44220C210721155234030057"
         }
       ],
-      "withDistrictDays": 706,
+      "withDistrictDays": 707,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1638428400,
@@ -21053,7 +21121,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 643,
+      "withDistrictDays": 644,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1632294000,
@@ -21083,7 +21151,7 @@
       "purpose": "See REZ00794 for project details. The City is considering a Development Permit with Variance application to construct a mixed use building with a parking variance.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 636,
+      "withDistrictDays": 637,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1632898800,
@@ -21332,7 +21400,7 @@
       "purpose": "See REZ00800 for project details. The City is considering a Development Permit with Variance application to construct a duplex with two secondary suites with a parking variance.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 566,
+      "withDistrictDays": 567,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1638946800,
@@ -21361,7 +21429,7 @@
       "purpose": "SEE REZ#00801 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to reduce the number of vehicle parking spaces from 8 to 6.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 561,
+      "withDistrictDays": 562,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1639378800,
@@ -21392,7 +21460,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION REZ#00805 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application for a new strata apartment building.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 552,
+      "withDistrictDays": 553,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1640156400,
@@ -21429,7 +21497,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00804 FOR PROJECT DETAILS. The City is considering a Rezoning application to a site-specific zone for a new development which includes commercial and residential uses. The proposal requires an amendment to the Official Community Plan.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 552,
+      "withDistrictDays": 553,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1640156400,
@@ -21477,7 +21545,7 @@
       "purpose": "SEE REZ00806 FOR PROJECT INFORMATION. The City is considering a Development Permit with Variance application concurrent with rezoning application to retain the existing two-storey building façade and construct an 11-storey building consisting of ground floor commercial and residential above.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 550,
+      "withDistrictDays": 551,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1640329200,
@@ -21626,7 +21694,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FDEE21E4-55A9-44EE-B41A-BFB49616CFBE&folderId=91234C220117123447781976"
         }
       ],
-      "withDistrictDays": 128,
+      "withDistrictDays": 129,
       "withApplicantDays": 398,
       "city": "Victoria",
       "lastUpdated": 1682406000,
@@ -21647,7 +21715,7 @@
       "purpose": "The City is considering a Development Permit with Variance application concurrent with Rezoning Application #00803 SEE CONCURRENT REZONING APPLICATION #REZ00803 FOR PROJECT DETAILS.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 557,
+      "withDistrictDays": 558,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1639724400,
@@ -21683,7 +21751,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 497,
+      "withDistrictDays": 498,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1644994800,
@@ -21818,7 +21886,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 482,
+      "withDistrictDays": 483,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1646290800,
@@ -21935,9 +22003,21 @@
           "endDate": 1680159600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1680159600,
+          "endDate": 1687849200
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1687849200,
+          "endDate": 1687849200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1680159600,
+          "startDate": 1687849200,
           "endDate": null
         },
         {
@@ -21961,12 +22041,16 @@
         {
           "docName": "2023-03-30 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=10001C230330092259944041&folderId=15945C220412131413115668"
+        },
+        {
+          "docName": "2023-06-27 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E0D42AF0-2D50-4411-BCFF-0BBF8743452C&folderId=15945C220412131413115668"
         }
       ],
-      "withDistrictDays": 336,
-      "withApplicantDays": 105,
+      "withDistrictDays": 248,
+      "withApplicantDays": 194,
       "city": "Victoria",
-      "lastUpdated": 1680159600,
+      "lastUpdated": 1687849200,
       "relatedPermits": []
     },
     {
@@ -21986,7 +22070,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00819 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to relax the number of required parking spaces.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 426,
+      "withDistrictDays": 427,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1651042800,
@@ -22093,7 +22177,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BFC26A7D-55CF-4DBE-8CDE-FDBFAAD0C211&folderId=20416C220502092435683276"
         }
       ],
-      "withDistrictDays": 178,
+      "withDistrictDays": 179,
       "withApplicantDays": 243,
       "city": "Victoria",
       "lastUpdated": 1681369200,
@@ -22115,7 +22199,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00821 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a multiple dwelling building with variance.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 418,
+      "withDistrictDays": 419,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1651734000,
@@ -22153,7 +22237,7 @@
       "purpose": "The City is considering a Development Permit with Variance application to develop three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Variance for height and parking. Concurrent with Rezoning Application REZ00815",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 449,
+      "withDistrictDays": 450,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1649055600,
@@ -22223,7 +22307,7 @@
         }
       ],
       "withDistrictDays": 38,
-      "withApplicantDays": 358,
+      "withApplicantDays": 359,
       "city": "Victoria",
       "lastUpdated": 1653980400,
       "relatedPermits": [
@@ -22256,7 +22340,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00820 FOR PROJECT DETAILS. The City is considering a Development Permit application to construct an eight storey multi-unit residential building consisting of 90 dwelling units of supportive housing.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 419,
+      "withDistrictDays": 420,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1651647600,
@@ -22388,7 +22472,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5DB9A6A5-70C8-444C-A2F5-6CC850D05692&folderId=31742C220609094816160529"
         }
       ],
-      "withDistrictDays": 383,
+      "withDistrictDays": 384,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1654758000,
@@ -22419,7 +22503,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00823 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct an affordable multiple dwelling building with a parking variance.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 382,
+      "withDistrictDays": 383,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1654844400,
@@ -22453,7 +22537,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00824 FOR PROJECT DETAILS. The City is considering a development permit with variance application to consolidate two single family residential parcels to construct three new buildings for 10 units of housing.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 377,
+      "withDistrictDays": 378,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1655276400,
@@ -22508,7 +22592,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 348,
+      "withDistrictDays": 349,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1657782000,
@@ -22538,7 +22622,7 @@
       "purpose": "The City is considering a Development Permit with Variance application to construct a multiple dwelling building with variance for parking.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 316,
+      "withDistrictDays": 317,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1660546800,
@@ -22571,7 +22655,7 @@
       "purpose": "The City is considering a Development Permit with Variance application to permit a small lot house with a secondary suite. Variances have been identified for a roof top deck, front yard setback and to the east and west side yard setbacks. SEE CONCURRENT REZONING APPLICATION #REZ00826 FOR PROJECT DETAILS.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 315,
+      "withDistrictDays": 316,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1660633200,
@@ -22608,7 +22692,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 298,
+      "withDistrictDays": 299,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1662447600,
@@ -22637,7 +22721,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00829 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application application for residential ground oriented town homes that share a communal courtyard space.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 286,
+      "withDistrictDays": 287,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1663138800,
@@ -22764,7 +22848,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=ABBC21AE-CC92-47D7-9D8E-C8492DECB590&folderId=63468C221005151309814285"
         }
       ],
-      "withDistrictDays": 71,
+      "withDistrictDays": 72,
       "withApplicantDays": 194,
       "city": "Victoria",
       "lastUpdated": 1684134000,
@@ -22786,7 +22870,7 @@
       "purpose": "SEE REZONING APPLICATION #REZ00702 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct attached dwellings.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 232,
+      "withDistrictDays": 233,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1667804400,
@@ -22819,7 +22903,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION # REZ00831 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a single family dwelling with variances.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 208,
+      "withDistrictDays": 209,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1669878000,
@@ -22860,7 +22944,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 201,
+      "withDistrictDays": 202,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1670482800,
@@ -22961,7 +23045,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97C644DB-0D1C-4559-B281-EF9DAD36BBA3&folderId=80406C221209101313113366"
         }
       ],
-      "withDistrictDays": 174,
+      "withDistrictDays": 175,
       "withApplicantDays": 26,
       "city": "Victoria",
       "lastUpdated": 1675839600,
@@ -22982,7 +23066,7 @@
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00774 FOR PROJECT DETAILS. The City is considering a Development Permit with Variances application to convert the garage to a garden suite.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 200,
+      "withDistrictDays": 201,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1670569200,
@@ -23019,7 +23103,7 @@
       "purpose": "See REZ00835 for project details. The City is considering a Development Permit with Variance application to construct a multiple dwelling with a parking variance.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 194,
+      "withDistrictDays": 195,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1671087600,
@@ -23088,7 +23172,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A8957A25-B508-47E7-932E-742D4024166C&folderId=93107C230131150321411136"
         }
       ],
-      "withDistrictDays": 147,
+      "withDistrictDays": 148,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1675234800,
@@ -23108,7 +23192,7 @@
       "purpose": "The City is considering a Development Permit with Variance application. Concurrent with Rezoning Application No. 00755 and Heritage Designation No. 000195.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 125,
+      "withDistrictDays": 126,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1677049200,
@@ -23142,7 +23226,7 @@
       "purpose": "The City is considering a Development Permit with Variance application to construct two triplex buildings with variances. See REZ00846 for project details.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 116,
+      "withDistrictDays": 117,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1677826800,
@@ -23229,7 +23313,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EF807EA5-51C1-4C08-B6FB-6BC5D80539BC&folderId=05636C230320094533791251"
         }
       ],
-      "withDistrictDays": 279,
+      "withDistrictDays": 280,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1676012400,
@@ -23295,7 +23379,7 @@
         }
       ],
       "withDistrictDays": 29,
-      "withApplicantDays": 69,
+      "withApplicantDays": 70,
       "city": "Victoria",
       "lastUpdated": 1681887600,
       "relatedPermits": []
@@ -23355,7 +23439,7 @@
         }
       ],
       "withDistrictDays": 28,
-      "withApplicantDays": 61,
+      "withApplicantDays": 62,
       "city": "Victoria",
       "lastUpdated": 1680246000,
       "relatedPermits": [
@@ -23413,7 +23497,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1A377995-3433-4B7B-89D1-0CA4CB38A9EF&folderId=10563C230331130646009137"
         }
       ],
-      "withDistrictDays": 88,
+      "withDistrictDays": 89,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1680246000,
@@ -23439,27 +23523,33 @@
           "endDate": 1682319600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1684479600,
+          "endDate": 1687503600
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1684479600,
+          "endDate": 1687849200
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1687503600,
+          "endDate": 1687849200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment\n",
           "taskType": "Application Review by City",
           "startDate": 1682319600,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1684479600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1687849200,
           "endDate": null
         }
       ],
@@ -23471,12 +23561,20 @@
         {
           "docName": "2023-04-24 - Plans_Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=104FF73A-5CF1-46CD-B856-1E3259AAA814&folderId=16297C230424093417792372"
+        },
+        {
+          "docName": "2023-06-23 - Landscape Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C4353D6E-83D4-4939-B20B-7ECB8DA29D15&folderId=16297C230424093417792372"
+        },
+        {
+          "docName": "2023-06-23 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EC626031-93C4-459F-87C9-05507EAE4D60&folderId=16297C230424093417792372"
         }
       ],
-      "withDistrictDays": 25,
-      "withApplicantDays": 39,
+      "withDistrictDays": -9,
+      "withApplicantDays": 74,
       "city": "Victoria",
-      "lastUpdated": 1682319600,
+      "lastUpdated": 1687849200,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00707",
@@ -23519,7 +23617,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 69,
+      "withDistrictDays": 70,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1682924400,
@@ -23594,7 +23692,7 @@
         }
       ],
       "withDistrictDays": 28,
-      "withApplicantDays": 39,
+      "withApplicantDays": 40,
       "city": "Victoria",
       "lastUpdated": 1683010800,
       "relatedPermits": []
@@ -23613,7 +23711,7 @@
       "purpose": "The City is considering a Development Permit with Variance application to make changes to the existing duplex on a proposed small lot. SEE CONCURRENT REZONING APPLICATION #REZ00834 FOR PROJECT DETAILS.",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 54,
+      "withDistrictDays": 55,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1683183600,
@@ -23740,7 +23838,7 @@
         }
       ],
       "withDistrictDays": 23,
-      "withApplicantDays": 4,
+      "withApplicantDays": 5,
       "city": "Victoria",
       "lastUpdated": 1685516400,
       "relatedPermits": [
@@ -23777,7 +23875,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 26,
+      "withDistrictDays": 27,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1685602800,
@@ -23845,7 +23943,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=26B9BFD9-CF6F-4B25-B57A-2D687F02422A&folderId=32025C230615153230103244"
         }
       ],
-      "withDistrictDays": 12,
+      "withDistrictDays": 13,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1686898800,
@@ -23908,7 +24006,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=472BF0C0-0BD3-46F3-8589-7DDC5EA1E908&folderId=34832C230623090303099674"
         }
       ],
-      "withDistrictDays": 4,
+      "withDistrictDays": 5,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1687762800,
@@ -23940,7 +24038,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2CEF58F8-F3AD-4E30-9C1E-EE02D1C6D30C&folderId=16889C070608153443460000"
         }
       ],
-      "withDistrictDays": 5863,
+      "withDistrictDays": 5864,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1181286000,
@@ -23970,7 +24068,7 @@
       "purpose": "CITY INITIATED REZONING",
       "progressSections": [],
       "documents": [],
-      "withDistrictDays": 5751,
+      "withDistrictDays": 5752,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1190962800,
@@ -25451,7 +25549,7 @@
         }
       ],
       "withDistrictDays": 210,
-      "withApplicantDays": 2020,
+      "withApplicantDays": 2021,
       "city": "Victoria",
       "lastUpdated": 1529478000,
       "relatedPermits": [
@@ -25842,7 +25940,7 @@
         }
       ],
       "withDistrictDays": 1199,
-      "withApplicantDays": 1019,
+      "withApplicantDays": 1020,
       "city": "Victoria",
       "lastUpdated": 1623740400,
       "relatedPermits": []
@@ -27413,7 +27511,7 @@
         }
       ],
       "withDistrictDays": 861,
-      "withApplicantDays": 1243,
+      "withApplicantDays": 1244,
       "city": "Victoria",
       "lastUpdated": 1647500400,
       "relatedPermits": []
@@ -34568,7 +34666,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1F9F755F-A200-438D-9371-07DE2255A9E3&folderId=84290C181205092850635115"
         }
       ],
-      "withDistrictDays": 862,
+      "withDistrictDays": 863,
       "withApplicantDays": 803,
       "city": "Victoria",
       "lastUpdated": 1674716400,
@@ -35509,7 +35607,7 @@
         }
       ],
       "withDistrictDays": 23,
-      "withApplicantDays": 1594,
+      "withApplicantDays": 1595,
       "city": "Victoria",
       "lastUpdated": 1550127600,
       "relatedPermits": [
@@ -36998,7 +37096,7 @@
         }
       ],
       "documents": [],
-      "withDistrictDays": 1495,
+      "withDistrictDays": 1496,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1558681200,
@@ -38028,7 +38126,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=15193C230419112423110711&folderId=38250C190624110823599397"
         }
       ],
-      "withDistrictDays": 456,
+      "withDistrictDays": 457,
       "withApplicantDays": 1008,
       "city": "Victoria",
       "lastUpdated": 1686207600,
@@ -39142,7 +39240,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=34A91729-A045-4313-AC38-8D5216B37704&folderId=47303C190729153931550120"
         }
       ],
-      "withDistrictDays": 699,
+      "withDistrictDays": 700,
       "withApplicantDays": 730,
       "city": "Victoria",
       "lastUpdated": 1685602800,
@@ -40089,7 +40187,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BC14AD14-D8FC-490F-A330-AF6BBFD87C06&folderId=73563C191104094810530346"
         }
       ],
-      "withDistrictDays": 485,
+      "withDistrictDays": 486,
       "withApplicantDays": 846,
       "city": "Victoria",
       "lastUpdated": 1681369200,
@@ -41923,7 +42021,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E4976A97-2F0A-4F81-9A8F-D0AAE76ABAD9&folderId=97652C200130130718936158"
         }
       ],
-      "withDistrictDays": 413,
+      "withDistrictDays": 414,
       "withApplicantDays": 831,
       "city": "Victoria",
       "lastUpdated": 1683183600,
@@ -42347,7 +42445,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6B2D631F-38A2-47C3-A44B-714E9DA4748E&folderId=99822C200213135041986269"
         }
       ],
-      "withDistrictDays": 904,
+      "withDistrictDays": 905,
       "withApplicantDays": 326,
       "city": "Victoria",
       "lastUpdated": 1623308400,
@@ -42469,7 +42567,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BD13DE2F-6D25-4D60-9A00-BC77ED886AB3&folderId=02259C200218114806911870"
         }
       ],
-      "withDistrictDays": 137,
+      "withDistrictDays": 138,
       "withApplicantDays": 1088,
       "city": "Victoria",
       "lastUpdated": 1685343600,
@@ -42640,7 +42738,7 @@
         }
       ],
       "withDistrictDays": 317,
-      "withApplicantDays": 884,
+      "withApplicantDays": 885,
       "city": "Victoria",
       "lastUpdated": 1668409200,
       "relatedPermits": [
@@ -44463,7 +44561,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=85612EB7-EB3E-46FF-BE94-115F82FB33C7&folderId=50482C200824161545561045"
         }
       ],
-      "withDistrictDays": 867,
+      "withDistrictDays": 868,
       "withApplicantDays": 170,
       "city": "Victoria",
       "lastUpdated": 1628146800,
@@ -44556,7 +44654,7 @@
         }
       ],
       "withDistrictDays": 155,
-      "withApplicantDays": 865,
+      "withApplicantDays": 866,
       "city": "Victoria",
       "lastUpdated": 1614582000,
       "relatedPermits": []
@@ -44950,7 +45048,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=932A7002-D34E-43A9-8533-6F80ED924659&folderId=61303C201001092155276953"
         }
       ],
-      "withDistrictDays": 302,
+      "withDistrictDays": 303,
       "withApplicantDays": 698,
       "city": "Victoria",
       "lastUpdated": 1687158000,
@@ -45270,7 +45368,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87B81BA5-4E6D-4A67-AA2C-E948ACF95A51&folderId=75527C201124151927275496"
         }
       ],
-      "withDistrictDays": 161,
+      "withDistrictDays": 162,
       "withApplicantDays": 784,
       "city": "Victoria",
       "lastUpdated": 1686726000,
@@ -45408,7 +45506,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A34AA789-D795-4728-B6B7-42D87B8B490E&folderId=78439C201203162056900501"
         }
       ],
-      "withDistrictDays": 725,
+      "withDistrictDays": 726,
       "withApplicantDays": 211,
       "city": "Victoria",
       "lastUpdated": 1635231600,
@@ -45778,7 +45876,7 @@
         }
       ],
       "withDistrictDays": 21,
-      "withApplicantDays": 865,
+      "withApplicantDays": 866,
       "city": "Victoria",
       "lastUpdated": 1613113200,
       "relatedPermits": []
@@ -45938,7 +46036,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87916417-FA35-47C8-AAD7-D458C0B25E09&folderId=92671C210127095454593211"
         }
       ],
-      "withDistrictDays": 160,
+      "withDistrictDays": 161,
       "withApplicantDays": 721,
       "city": "Victoria",
       "lastUpdated": 1668754800,
@@ -46552,7 +46650,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=011919E6-B3C9-4202-9DCA-2AB6EB05B371&folderId=00918C210224092557330852"
         }
       ],
-      "withDistrictDays": 267,
+      "withDistrictDays": 268,
       "withApplicantDays": 586,
       "city": "Victoria",
       "lastUpdated": 1669100400,
@@ -46718,7 +46816,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DD0797B0-EA4E-4BC8-BCC5-CAD7C2B9F985&folderId=02073C210301112208509754"
         }
       ],
-      "withDistrictDays": 356,
+      "withDistrictDays": 357,
       "withApplicantDays": 492,
       "city": "Victoria",
       "lastUpdated": 1679986800,
@@ -47037,7 +47135,7 @@
         }
       ],
       "withDistrictDays": 218,
-      "withApplicantDays": 613,
+      "withApplicantDays": 614,
       "city": "Victoria",
       "lastUpdated": 1637650800,
       "relatedPermits": [
@@ -47431,7 +47529,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CB2E297F-7A39-4BEB-9349-8B6EDC6DF2E1&folderId=12266C210406112350109800"
         }
       ],
-      "withDistrictDays": 398,
+      "withDistrictDays": 399,
       "withApplicantDays": 420,
       "city": "Victoria",
       "lastUpdated": 1673506800,
@@ -47534,7 +47632,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=84A02651-B1A1-40E6-9AB3-E94AE8DC660A&folderId=16232C210420133352960157"
         }
       ],
-      "withDistrictDays": 213,
+      "withDistrictDays": 214,
       "withApplicantDays": 585,
       "city": "Victoria",
       "lastUpdated": 1671433200,
@@ -47745,7 +47843,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C164BA31-C6BB-4C34-A8CF-CED439777316&folderId=23346C210512133941522366"
         }
       ],
-      "withDistrictDays": 542,
+      "withDistrictDays": 543,
       "withApplicantDays": 227,
       "city": "Victoria",
       "lastUpdated": 1678345200,
@@ -48081,7 +48179,7 @@
         }
       ],
       "withDistrictDays": 142,
-      "withApplicantDays": 625,
+      "withApplicantDays": 626,
       "city": "Victoria",
       "lastUpdated": 1655362800,
       "relatedPermits": [
@@ -48379,7 +48477,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6E1EAB8E-2871-4026-930E-84C2696B8048&folderId=30750C210608094939900822"
         }
       ],
-      "withDistrictDays": 323,
+      "withDistrictDays": 324,
       "withApplicantDays": 426,
       "city": "Victoria",
       "lastUpdated": 1669878000,
@@ -48475,7 +48573,7 @@
         }
       ],
       "withDistrictDays": 21,
-      "withApplicantDays": 704,
+      "withApplicantDays": 705,
       "city": "Victoria",
       "lastUpdated": 1627023600,
       "relatedPermits": [
@@ -49106,7 +49204,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12690DEC-EDF4-4083-82EB-8E81D5F540CE&folderId=60811C210922081609961529"
         }
       ],
-      "withDistrictDays": 494,
+      "withDistrictDays": 495,
       "withApplicantDays": 149,
       "city": "Victoria",
       "lastUpdated": 1659596400,
@@ -49224,7 +49322,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B28AA9AC-128A-47CC-991D-75E6213CA875&folderId=63035C210929112244743271"
         }
       ],
-      "withDistrictDays": 366,
+      "withDistrictDays": 367,
       "withApplicantDays": 270,
       "city": "Victoria",
       "lastUpdated": 1686034800,
@@ -49348,7 +49446,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0217CB92-A59C-43ED-A9A8-5BD616632EC8&folderId=69277C211022100244991946"
         }
       ],
-      "withDistrictDays": 388,
+      "withDistrictDays": 389,
       "withApplicantDays": 225,
       "city": "Victoria",
       "lastUpdated": 1664175600,
@@ -49561,7 +49659,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16DE2DC4-3606-4154-9B4F-BF0F9C3D264E&folderId=70620C211027141358342820"
         }
       ],
-      "withDistrictDays": 131,
+      "withDistrictDays": 132,
       "withApplicantDays": 477,
       "city": "Victoria",
       "lastUpdated": 1687330800,
@@ -49916,7 +50014,7 @@
         }
       ],
       "withDistrictDays": 30,
-      "withApplicantDays": 536,
+      "withApplicantDays": 537,
       "city": "Victoria",
       "lastUpdated": 1641538800,
       "relatedPermits": [
@@ -50049,7 +50147,7 @@
         }
       ],
       "withDistrictDays": 233,
-      "withApplicantDays": 328,
+      "withApplicantDays": 329,
       "city": "Victoria",
       "lastUpdated": 1684393200,
       "relatedPermits": [
@@ -50166,7 +50264,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B3A8A1FD-82BA-4C43-B0BE-1AE301EB527E&folderId=84745C211217113153816484"
         }
       ],
-      "withDistrictDays": 175,
+      "withDistrictDays": 176,
       "withApplicantDays": 382,
       "city": "Victoria",
       "lastUpdated": 1685343600,
@@ -50369,7 +50467,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6B1EA19F-0797-402B-BB2E-FAE8F2186A35&folderId=86097C211222091219582725"
         }
       ],
-      "withDistrictDays": 121,
+      "withDistrictDays": 122,
       "withApplicantDays": 431,
       "city": "Victoria",
       "lastUpdated": 1677826800,
@@ -50586,7 +50684,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E94BC3A8-FC93-415F-9A89-B95D5AFCEF4E&folderId=86093C211222092200818765"
         }
       ],
-      "withDistrictDays": 168,
+      "withDistrictDays": 169,
       "withApplicantDays": 384,
       "city": "Victoria",
       "lastUpdated": 1677135600,
@@ -50699,7 +50797,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=008C49C3-35BE-4F0B-8051-B81D517B31F4&folderId=86781C211224120822146647"
         }
       ],
-      "withDistrictDays": 363,
+      "withDistrictDays": 364,
       "withApplicantDays": 187,
       "city": "Victoria",
       "lastUpdated": 1686639600,
@@ -50796,7 +50894,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A9D85407-DEB8-4449-A69F-BAF1C9E91B95&folderId=93946C220126091053188844"
         }
       ],
-      "withDistrictDays": 72,
+      "withDistrictDays": 73,
       "withApplicantDays": 446,
       "city": "Victoria",
       "lastUpdated": 1685602800,
@@ -50919,7 +51017,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C6E82EDF-7779-45CB-A170-9C685B1C2FD5&folderId=97310C220204160650710777"
         }
       ],
-      "withDistrictDays": 447,
+      "withDistrictDays": 448,
       "withApplicantDays": 61,
       "city": "Victoria",
       "lastUpdated": 1665039600,
@@ -51022,7 +51120,7 @@
         }
       ],
       "withDistrictDays": 125,
-      "withApplicantDays": 379,
+      "withApplicantDays": 380,
       "city": "Victoria",
       "lastUpdated": 1683010800,
       "relatedPermits": [
@@ -51187,7 +51285,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC8908FC-587E-43E0-8D67-1A4976C4002B&folderId=00232C220215094041621090"
         }
       ],
-      "withDistrictDays": 221,
+      "withDistrictDays": 222,
       "withApplicantDays": 280,
       "city": "Victoria",
       "lastUpdated": 1686294000,
@@ -51336,7 +51434,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=27A5DB1C-68D8-4DF0-8886-9F49C1F5262A&folderId=00513C220215201554794483"
         }
       ],
-      "withDistrictDays": 397,
+      "withDistrictDays": 398,
       "withApplicantDays": 100,
       "city": "Victoria",
       "lastUpdated": 1681974000,
@@ -51458,7 +51556,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=24220C230519091539453348&folderId=04410C220302102948569159"
         }
       ],
-      "withDistrictDays": 202,
+      "withDistrictDays": 203,
       "withApplicantDays": 280,
       "city": "Victoria",
       "lastUpdated": 1687417200,
@@ -51654,7 +51752,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5AE2C874-95AF-47AD-A30C-4394CDE78118&folderId=07802C220314143100926975"
         }
       ],
-      "withDistrictDays": 178,
+      "withDistrictDays": 179,
       "withApplicantDays": 292,
       "city": "Victoria",
       "lastUpdated": 1674630000,
@@ -51800,7 +51898,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=22392C230515104156082987&folderId=13461C220404204117306882"
         }
       ],
-      "withDistrictDays": 309,
+      "withDistrictDays": 310,
       "withApplicantDays": 140,
       "city": "Victoria",
       "lastUpdated": 1680073200,
@@ -51913,7 +52011,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B14C9856-1ECF-42B5-A213-54DD748872A8&folderId=15565C220411114709185208"
         }
       ],
-      "withDistrictDays": 122,
+      "withDistrictDays": 123,
       "withApplicantDays": 320,
       "city": "Victoria",
       "lastUpdated": 1679468400,
@@ -52044,7 +52142,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=992BD341-BA30-4C5B-B556-223FD25F7811&folderId=17818C220421083833784028"
         }
       ],
-      "withDistrictDays": 340,
+      "withDistrictDays": 341,
       "withApplicantDays": 92,
       "city": "Victoria",
       "lastUpdated": 1686812400,
@@ -52135,7 +52233,7 @@
         }
       ],
       "withDistrictDays": 23,
-      "withApplicantDays": 403,
+      "withApplicantDays": 404,
       "city": "Victoria",
       "lastUpdated": 1653030000,
       "relatedPermits": [
@@ -52264,7 +52362,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=22392C230515112849928420&folderId=21641C220505081350450525"
         }
       ],
-      "withDistrictDays": 131,
+      "withDistrictDays": 132,
       "withApplicantDays": 288,
       "city": "Victoria",
       "lastUpdated": 1685602800,
@@ -52399,7 +52497,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=50E7F933-5CAA-4C0A-9E05-0282EDA7BBF6&folderId=21705C220505084912868458"
         }
       ],
-      "withDistrictDays": 180,
+      "withDistrictDays": 181,
       "withApplicantDays": 238,
       "city": "Victoria",
       "lastUpdated": 1675234800,
@@ -52495,7 +52593,7 @@
         }
       ],
       "withDistrictDays": 18,
-      "withApplicantDays": 368,
+      "withApplicantDays": 369,
       "city": "Victoria",
       "lastUpdated": 1656054000,
       "relatedPermits": [
@@ -52603,7 +52701,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=838E29E5-E82C-4BE7-A7D4-2E1813A643FE&folderId=32154C220610154226154683"
         }
       ],
-      "withDistrictDays": 60,
+      "withDistrictDays": 61,
       "withApplicantDays": 322,
       "city": "Victoria",
       "lastUpdated": 1687762800,
@@ -52704,7 +52802,7 @@
         }
       ],
       "withDistrictDays": 30,
-      "withApplicantDays": 348,
+      "withApplicantDays": 349,
       "city": "Victoria",
       "lastUpdated": 1657782000,
       "relatedPermits": [
@@ -52822,7 +52920,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=17418C230427093633150541&folderId=36819C220627125558163342"
         }
       ],
-      "withDistrictDays": 127,
+      "withDistrictDays": 128,
       "withApplicantDays": 238,
       "city": "Victoria",
       "lastUpdated": 1679641200,
@@ -52929,7 +53027,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=404A923D-0143-4027-8544-928AD417199A&folderId=41147C220712132056579561"
         }
       ],
-      "withDistrictDays": 157,
+      "withDistrictDays": 158,
       "withApplicantDays": 193,
       "city": "Victoria",
       "lastUpdated": 1678777200,
@@ -53059,7 +53157,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AA80FFA4-241F-4616-80C9-9A6AA3CD92EC&folderId=41855C220714081812860705"
         }
       ],
-      "withDistrictDays": 90,
+      "withDistrictDays": 91,
       "withApplicantDays": 258,
       "city": "Victoria",
       "lastUpdated": 1683010800,
@@ -53232,7 +53330,7 @@
         }
       ],
       "withDistrictDays": 224,
-      "withApplicantDays": 116,
+      "withApplicantDays": 117,
       "city": "Victoria",
       "lastUpdated": 1687503600,
       "relatedPermits": [
@@ -53324,7 +53422,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A593408B-2113-4B20-890E-6DEAAA45D2EB&folderId=56453C220908122232315863"
         }
       ],
-      "withDistrictDays": -16,
+      "withDistrictDays": -15,
       "withApplicantDays": 302,
       "city": "Victoria",
       "lastUpdated": 1678777200,
@@ -53455,7 +53553,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7515196F-B2D8-49D9-8CCF-490C1C3F41DF&folderId=61288C220927141506591408"
         }
       ],
-      "withDistrictDays": 91,
+      "withDistrictDays": 92,
       "withApplicantDays": 182,
       "city": "Victoria",
       "lastUpdated": 1686812400,
@@ -53560,7 +53658,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FCF551FE-F039-4CF0-A4F8-8AC989640F79&folderId=77903C221201105754910296"
         }
       ],
-      "withDistrictDays": 125,
+      "withDistrictDays": 126,
       "withApplicantDays": 83,
       "city": "Victoria",
       "lastUpdated": 1678950000,
@@ -53652,7 +53750,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D236D632-EB69-4803-B6E7-3E818DAED9DF&folderId=79840C221207111402308360"
         }
       ],
-      "withDistrictDays": 114,
+      "withDistrictDays": 115,
       "withApplicantDays": 88,
       "city": "Victoria",
       "lastUpdated": 1680505200,
@@ -53740,7 +53838,7 @@
         }
       ],
       "withDistrictDays": 32,
-      "withApplicantDays": 169,
+      "withApplicantDays": 170,
       "city": "Victoria",
       "lastUpdated": 1673247600,
       "relatedPermits": [
@@ -53874,7 +53972,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8B547C99-A7CD-4F35-819D-592AB3A1F388&folderId=81484C221214094741040552"
         }
       ],
-      "withDistrictDays": 41,
+      "withDistrictDays": 42,
       "withApplicantDays": 154,
       "city": "Victoria",
       "lastUpdated": 1687244400,
@@ -53970,7 +54068,7 @@
         }
       ],
       "withDistrictDays": 32,
-      "withApplicantDays": 162,
+      "withApplicantDays": 163,
       "city": "Victoria",
       "lastUpdated": 1673852400,
       "relatedPermits": [
@@ -54148,7 +54246,7 @@
         }
       ],
       "withDistrictDays": 27,
-      "withApplicantDays": 141,
+      "withApplicantDays": 142,
       "city": "Victoria",
       "lastUpdated": 1675666800,
       "relatedPermits": [
@@ -54236,7 +54334,7 @@
         }
       ],
       "withDistrictDays": 43,
-      "withApplicantDays": 102,
+      "withApplicantDays": 103,
       "city": "Victoria",
       "lastUpdated": 1679036400,
       "relatedPermits": []
@@ -54329,7 +54427,7 @@
         }
       ],
       "withDistrictDays": 27,
-      "withApplicantDays": 90,
+      "withApplicantDays": 91,
       "city": "Victoria",
       "lastUpdated": 1680073200,
       "relatedPermits": [
@@ -54422,7 +54520,7 @@
         }
       ],
       "withDistrictDays": 22,
-      "withApplicantDays": 95,
+      "withApplicantDays": 96,
       "city": "Victoria",
       "lastUpdated": 1679641200,
       "relatedPermits": [
@@ -54523,7 +54621,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=259FA091-FBAB-407D-9A03-29771E1ECA9E&folderId=02279C230303090438303812"
         }
       ],
-      "withDistrictDays": 60,
+      "withDistrictDays": 61,
       "withApplicantDays": 56,
       "city": "Victoria",
       "lastUpdated": 1684479600,
@@ -54620,7 +54718,7 @@
         }
       ],
       "withDistrictDays": 40,
-      "withApplicantDays": 76,
+      "withApplicantDays": 77,
       "city": "Victoria",
       "lastUpdated": 1681282800,
       "relatedPermits": [
@@ -54707,7 +54805,7 @@
         }
       ],
       "withDistrictDays": 21,
-      "withApplicantDays": 75,
+      "withApplicantDays": 76,
       "city": "Victoria",
       "lastUpdated": 1681369200,
       "relatedPermits": []
@@ -54792,7 +54890,7 @@
         }
       ],
       "withDistrictDays": 25,
-      "withApplicantDays": 71,
+      "withApplicantDays": 72,
       "city": "Victoria",
       "lastUpdated": 1681714800,
       "relatedPermits": [
@@ -54898,7 +54996,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=908C4B6D-5CC8-417B-BFD1-BF1244857F96&folderId=09635C230329103747177099"
         }
       ],
-      "withDistrictDays": 57,
+      "withDistrictDays": 58,
       "withApplicantDays": 33,
       "city": "Victoria",
       "lastUpdated": 1685343600,
@@ -54990,7 +55088,7 @@
         }
       ],
       "withDistrictDays": 27,
-      "withApplicantDays": 57,
+      "withApplicantDays": 58,
       "city": "Victoria",
       "lastUpdated": 1682924400,
       "relatedPermits": []
@@ -55067,7 +55165,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=96769831-90B1-4072-A26C-29F8D6345B6E&folderId=15938C230421091532521120"
         }
       ],
-      "withDistrictDays": 51,
+      "withDistrictDays": 52,
       "withApplicantDays": 18,
       "city": "Victoria",
       "lastUpdated": 1686898800,
@@ -55163,7 +55261,7 @@
         }
       ],
       "withDistrictDays": 26,
-      "withApplicantDays": 15,
+      "withApplicantDays": 16,
       "city": "Victoria",
       "lastUpdated": 1686553200,
       "relatedPermits": [
@@ -55248,7 +55346,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=802DE535-A1F8-4DD3-8F7F-FFB88CCB80F3&folderId=30891C230612134904726782"
         }
       ],
-      "withDistrictDays": 15,
+      "withDistrictDays": 16,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1686726000,
@@ -55326,7 +55424,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D694AD17-6272-4EE7-9711-879D6CBFCE61&folderId=31101C230613135505757551"
         }
       ],
-      "withDistrictDays": 14,
+      "withDistrictDays": 15,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1686726000,
@@ -55403,7 +55501,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0C373723-1753-48A3-8108-8AF64EF91EB4&folderId=34832C230623094052584819"
         }
       ],
-      "withDistrictDays": 4,
+      "withDistrictDays": 5,
       "withApplicantDays": 0,
       "city": "Victoria",
       "lastUpdated": 1687762800,
