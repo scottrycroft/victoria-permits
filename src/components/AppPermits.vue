@@ -43,6 +43,8 @@ function getApplicationTypes(permitApplications: PermitsEntity[]): string[] {
 
 const permitMap = ref(createPermitMap(permitInfo.permits));
 
+const relatedPermits = ref(createRelatedPermits(permitInfo.permits));
+
 const statuses = ref(getStatuses(permitInfo.permits));
 
 function getStatuses(permitApplications: PermitsEntity[]): string[] {
@@ -76,9 +78,33 @@ function createPermitMap(permitApplications: PermitsEntity[]): Map<string, Permi
     const permitMap = new Map<string, PermitsEntity>();
 
     for (const application of permitApplications) {
-        permitMap.set(getApplicationID(application), application);
+        const id = getApplicationID(application);
+        permitMap.set(id, application);
     }
     return permitMap;
+}
+
+function createRelatedPermits(permitApplications: PermitsEntity[]): Set<string> {
+    const relatedPermits = new Set<string>();
+
+    for (const application of permitApplications) {
+        for (const relatedPermit of application.relatedPermits || []) {
+            const id = createApplicationID(application.city, relatedPermit.relatedPermitID);
+            relatedPermits.add(id);
+        }
+    }
+    return relatedPermits;
+}
+
+function permitExistByID(city: string, folderNumber: string) {
+    const id = createApplicationID(city, folderNumber);
+    if (permitMap.value.get(id)) {
+        return "exists";
+    }
+    if (relatedPermits.value.has(id)) {
+        return "related";
+    }
+    return "";
 }
 
 function getApplicationID(application: PermitsEntity): string {
@@ -147,13 +173,17 @@ function setViewedPA(city: string, permitID: string) {
     }
 }
 
-const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
-    if (permitApplication.city === 'Saanich') {
-        return 'https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
-    } else if (permitApplication.city === 'Victoria') {
-        return 'https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
-    } else if (permitApplication.city === 'Oak Bay') {
-        return 'https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=' + permitApplication.folderNumber;
+const getPermitApplicationLink = (pa: PermitsEntity): string => {
+    return getPermitApplicationLinkByID(pa.city, pa.folderNumber);
+};
+
+const getPermitApplicationLinkByID = (city: string, permitID: string): string => {
+    if (city === 'Saanich') {
+        return 'https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=' + permitID;
+    } else if (city === 'Victoria') {
+        return 'https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=' + permitID;
+    } else if (city === 'Oak Bay') {
+        return 'https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=' + permitID;
     }
     return '';
 };
@@ -217,8 +247,8 @@ function showNoPAToast() {
             </Column>
             <Column field="status" header="Status" :sortable=" true " :showFilterMenu=" false " style="width: 13%">
                 <template #filter=" { filterModel, filterCallback } ">
-                    <Dropdown @change=filterCallback() v-model=" filterModel.value " :showClear=" true " :options=" statuses "
-                        placeholder="Any" :maxSelectedLabels=" 1 " />
+                    <Dropdown @change=filterCallback() v-model=" filterModel.value " :showClear=" true "
+                        :options=" statuses " placeholder="Any" :maxSelectedLabels=" 1 " />
                 </template>
             </Column>
             <Column field="withDistrictDays" header="With Municipality Days" :sortable=" true " class="w-1"></Column>
@@ -270,7 +300,7 @@ function showNoPAToast() {
                 <div class="col-2 field">
                     <label>Addresses</label>
                     <div class="font-bold">
-                        <div v-for=" address  in  permit.addresses " :key=" address ">
+                        <div v-for="  address   in   permit.addresses  " :key=" address ">
                             {{ address }}
                         </div>
                     </div>
@@ -300,7 +330,7 @@ function showNoPAToast() {
                 <div class="col-4 field">
                     <label>Documents</label>
                     <div class="font-bold">
-                        <div v-for=" document  in  permit.documents " :key=" document.docName ">
+                        <div v-for="  document   in   permit.documents  " :key=" document.docName ">
                             <a :href=" document.docURL " target="_blank">{{ document.docName }}</a>
                         </div>
                         <div v-if=" permit.documents.length === 0 ">
@@ -332,10 +362,17 @@ function showNoPAToast() {
                     <div>
                         <DataTable stripedRows :value=" permit.relatedPermits || [] ">
                             <Column field="relatedPermitID" header="ID">
-                                <template #body=" { data }: { data: RelatedPermit } ">
-                                    <router-link
-                                        :to=" { name: 'view_permit', params: { city: permit.city, permitID: data.relatedPermitID } } ">{{
-                                        data.relatedPermitID }}</router-link>
+                                <template #body=" { data: { relatedPermitID } }: { data: RelatedPermit } ">
+                                    <router-link v-if=" permitExistByID(permit.city, relatedPermitID) === 'exists' "
+                                        :to=" { name: 'view_permit', params: { city: permit.city, permitID: relatedPermitID } } ">
+                                        {{ relatedPermitID }}
+                                    </router-link>
+                                    <a v-else-if=" permitExistByID(permit.city, relatedPermitID) === 'related' "
+                                        target="_blank" :href=" getPermitApplicationLinkByID(permit.city, relatedPermitID) ">
+                                        {{ relatedPermitID }}
+                                    </a>
+                                    <span v-else>{{ relatedPermitID }}</span>
+
                                 </template>
                             </Column>
                             <Column field="relatedPermitType" header="Type"></Column>
@@ -348,5 +385,7 @@ function showNoPAToast() {
             {
                 summary: { class: 'text-xl' },
                 text: { class: 'text-center text-red-500' }
-    }" />
-    </main></template>
+            }
+        " />
+    </main>
+</template>
