@@ -116,6 +116,9 @@ function onDialogHide() {
 watch(
       () => route.params.city,
       async city => {
+        if(!city) {
+            return;
+        }
         setViewedPA(city as string, route.params.permitID as string);
       },
       { 
@@ -125,11 +128,11 @@ watch(
 watch(
     () => route.params.permitID,
     async permitID => {
+        if(!permitID) {
+            return;
+        }
         setViewedPA(route.params.city as string, permitID as string);
-    },
-      { 
-        immediate: true
-      }
+    }
 );
 
 
@@ -139,7 +142,7 @@ function setViewedPA(city: string, permitID: string) {
         viewPermit(permit);
     } else {
         nextTick(() => {
-            //showToast();
+            showNoPAToast();
         });
     }
 }
@@ -156,9 +159,8 @@ const getPermitApplicationLink = (permitApplication: PermitsEntity): string => {
 };
 
 const toast = useToast();
-function showToast() {
-    debugger;
-    toast.add({ severity: "error", summary: "Hello " });
+function showNoPAToast() {
+    toast.add({ severity: "error", summary: "No such permit application" });
 }
 </script>
 
@@ -339,6 +341,9 @@ function showToast() {
                 </div>
             </div>
         </Dialog>
-        <Toast />
+        <Toast class="w-9" position="bottom-center" :pt="{
+        summary: { class: 'text-xl' },
+        text: { class: 'text-center text-red-500' }
+    }" />
     </main>
 </template>
