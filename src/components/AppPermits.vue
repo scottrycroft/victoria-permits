@@ -14,6 +14,9 @@ import type { PermitsEntity, RelatedPermit } from '@/types/Permits';
 
 // @ts-ignore: seems like a TS bug?? https://github.com/microsoft/TypeScript/issues/43784
 import permitInfo from "@/permitInfo.json";
+// @ts-ignore:
+import daysWithInfo from "@/daysContentPermitInfo.json";
+
 import MultiSelect from 'primevue/multiselect';
 import Dropdown from 'primevue/dropdown';
 import Toast from 'primevue/toast';
@@ -122,7 +125,7 @@ function getApplicationByID(city: string, folderNumber: string): PermitsEntity |
 }
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
-const permitApplications = ref(permitInfo.permits);
+const permitApplications = ref(createPermitApplications(permitInfo.permits, daysWithInfo));
 
 const globalFilter = ref();
 
@@ -171,6 +174,32 @@ function setViewedPA(city: string, permitID: string) {
             showNoPAToast();
         });
     }
+}
+
+function createPermitApplications(permits: PermitsEntity[], daysWithInfo: any): PermitsEntity[] {
+    // Combine the daysWith information into the permits
+    // They are separated only to make nicer diffs :)
+    for(const pa of permits) {
+        if(typeof pa.withDistrictDays === "number") {
+            continue;
+        }
+        const daysWith = getDaysWith(pa, daysWithInfo);
+        pa.withDistrictDays = daysWith.withDistrictDays;
+        pa.withApplicantDays = daysWith.withApplicantDays;
+    }
+    return permits;
+}
+
+function getDaysWith(pa: PermitsEntity, daysWithInfo: any): { withDistrictDays: number|null, withApplicantDays: number|null } {
+    const dwCity = daysWithInfo[pa.city];
+    if(!dwCity) {
+        return { withDistrictDays: null, withApplicantDays: null };
+    }
+    const dwFolder = dwCity[pa.folderNumber];
+    if(!dwFolder) {
+        return { withDistrictDays: null, withApplicantDays: null };
+    }
+    return dwFolder;
 }
 
 const getPermitApplicationLink = (pa: PermitsEntity): string => {
