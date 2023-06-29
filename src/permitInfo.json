@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1688017402,
+  "dateRetrieved": 1688034678,
   "permits": [
     {
       "primaryStreetName": "2024 OAK BAY AVE",
@@ -548,7 +548,7 @@
         "2649 THOMPSON AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary the side yard setback.",
+      "purpose": "This is an application for a development variance permit to vary the side yard setback in order to construct a secondary suite addition.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Variance Permit has been received by the District.",
@@ -3971,15 +3971,27 @@
           "endDate": 1682406000
         },
         {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1687935600,
+          "endDate": 1687935600
+        },
+        {
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1682406000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1687935600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1682406000,
+      "lastUpdated": 1687935600,
       "relatedPermits": []
     },
     {
@@ -4296,6 +4308,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1686034800,
+          "endDate": 1687935600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1687935600,
           "endDate": null
         }
       ],
@@ -4314,7 +4332,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1686034800,
+      "lastUpdated": 1687935600,
       "relatedPermits": []
     },
     {
@@ -4841,7 +4859,7 @@
     },
     {
       "primaryStreetName": "4006 MCLELLAN ST",
-      "applicant": "N/A",
+      "applicant": "BRUNO ZILLI",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01045",
@@ -4862,18 +4880,30 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1686639600,
-          "endDate": 1687762800
+          "endDate": 1687935600
         },
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1687762800,
+          "endDate": 1687935600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1687935600,
+          "endDate": 1687935600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1687935600,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00738",
@@ -5499,7 +5529,7 @@
     },
     {
       "primaryStreetName": "4006 MCLELLAN ST",
-      "applicant": "N/A",
+      "applicant": "BRUNO ZILLI",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00738",
@@ -5508,18 +5538,24 @@
         "4006 MCLELLAN ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RD-1 TO CONSTRUCT A RESIDENTIAL BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1686639600,
+          "endDate": 1687935600
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1686639600,
+          "endDate": 1687935600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1686639600,
+      "lastUpdated": 1687935600,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01045",
@@ -5609,7 +5645,7 @@
     },
     {
       "primaryStreetName": "4155 NORTH RD",
-      "applicant": "N/A",
+      "applicant": "LORI BAXTER",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00742",
@@ -5618,18 +5654,24 @@
         "4155 NORTH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RS-4 TO CREATE ONE ADDITIONAL LOT FOR A TOTAL OF 2 LOTS FOR SINGLE FAMILY USE",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1687417200,
+          "endDate": 1687417200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1687935600,
+          "endDate": 1687935600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1687417200,
+      "lastUpdated": 1687935600,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00943",
@@ -11549,7 +11591,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1645686000,
-          "endDate": null
+          "endDate": 1669791600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
@@ -11575,7 +11617,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1645686000,
+      "lastUpdated": 1669791600,
       "relatedPermits": []
     },
     {
@@ -23558,7 +23600,7 @@
     },
     {
       "primaryStreetName": "415 MICHIGAN ST",
-      "applicant": "N/A",
+      "applicant": "AKASH ARAVINDAN",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00240",
@@ -23620,7 +23662,7 @@
     },
     {
       "primaryStreetName": "250 DOUGLAS ST",
-      "applicant": "N/A",
+      "applicant": "DAN WESTWOOD",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00241",
@@ -47039,14 +47081,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
-          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Committee of the Whole Meeting (COTW)",
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
           "endDate": null
         },
@@ -48005,6 +48047,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n",
           "taskType": "With Applicant",
           "startDate": null,
@@ -48013,12 +48061,6 @@
         {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
@@ -48894,6 +48936,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -49243,6 +49291,10 @@
         {
           "docName": "2023-06-21 - Rezoning Booklet_Revisions_Changes Noted.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1F65D4A4-EC6C-4D74-AA4A-B9DD4DBEABF1&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "CCD Supplemental Data.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF449E81-ABC3-48CB-A5DF-0EB90ACE1839&folderId=70620C211027141358342820"
         },
         {
           "docName": "Letter to Mayor and Council.pdf",
