@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1688034678,
+  "dateRetrieved": 1688121087,
   "permits": [
     {
       "primaryStreetName": "2024 OAK BAY AVE",
@@ -329,7 +329,12 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "DP000046 & ADP00161 - 3475 Beach Dr -Tracker plans.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=72646C230629150703733665&folderId=72363C230627152234095200"
+        }
+      ],
       "city": "Oak Bay",
       "lastUpdated": 1687849200,
       "relatedPermits": [
@@ -504,14 +509,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
+          "taskDescription": "Meeting date of Council to consider decision on the application. \n",
+          "taskType": "COUNCIL MEETING # 2",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of Council to consider decision on the application. \n",
-          "taskType": "COUNCIL MEETING # 2",
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
           "startDate": null,
           "endDate": null
         },
@@ -2103,6 +2108,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1687244400,
+          "endDate": 1688022000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1688022000,
           "endDate": null
         }
       ],
@@ -2121,7 +2132,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1687244400,
+      "lastUpdated": 1688022000,
       "relatedPermits": []
     },
     {
@@ -4163,6 +4174,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1681196400,
+          "endDate": 1688022000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1688022000,
           "endDate": null
         }
       ],
@@ -4181,7 +4198,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1678518000,
+      "lastUpdated": 1688022000,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00732",
@@ -4859,7 +4876,7 @@
     },
     {
       "primaryStreetName": "4006 MCLELLAN ST",
-      "applicant": "BRUNO ZILLI",
+      "applicant": "AGENT",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01045",
@@ -4893,12 +4910,6 @@
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1687935600,
           "endDate": 1687935600
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [],
@@ -5529,7 +5540,7 @@
     },
     {
       "primaryStreetName": "4006 MCLELLAN ST",
-      "applicant": "BRUNO ZILLI",
+      "applicant": "AGENT",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00738",
@@ -8868,7 +8879,7 @@
         "2010 STORE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete additional Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) while a rezoning or OCP amendment application is in progress with the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -38832,7 +38843,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1663225200,
+          "startDate": 1688022000,
           "endDate": null
         },
         {
@@ -53326,6 +53337,10 @@
         {
           "docName": "2022-12-01 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=54F07CC1-4530-491F-80D5-67843BB74588&folderId=79840C221207111402308360"
+        },
+        {
+          "docName": "23-069.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=36692C230629093444570445&folderId=79840C221207111402308360"
         },
         {
           "docName": "Letter to Council.pdf",
