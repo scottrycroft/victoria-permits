@@ -10,6 +10,8 @@ import Dialog from 'primevue/dialog';
 import InputText from 'primevue/inputtext';
 import { useToast } from "primevue/usetoast";
 
+import AppGoogleLink from './AppGoogleLink.vue';
+
 import type { PermitsEntity, RelatedPermit } from '@/types/Permits';
 
 // @ts-ignore: seems like a TS bug?? https://github.com/microsoft/TypeScript/issues/43784
@@ -257,6 +259,9 @@ function showNoPAToast() {
                     <InputText v-model=" filterModel.value " type="text" @input="filterCallback()" class="p-column-filter"
                         placeholder="Search by address" />
                 </template>
+                <template #body="{ data }: {data: PermitsEntity }">
+                    <AppGoogleLink :address="data.primaryStreetName"/>
+                </template>
             </Column>
             <Column field="city" header="City" :sortable=" true " :showFilterMenu=" false " class="w-2">
                 <template #filter=" { filterModel, filterCallback } ">
@@ -300,7 +305,9 @@ function showNoPAToast() {
             <div class="grid">
                 <div class="col-2 field">
                     <label>Primary Address</label>
-                    <div class="font-bold">{{ permit.primaryStreetName }}</div>
+                    <div>
+                    <AppGoogleLink :address="permit.primaryStreetName"/>
+                </div>
                 </div>
                 <div class="col-2 field">
                     <label>City</label>
@@ -317,7 +324,7 @@ function showNoPAToast() {
                 <div class="col-2 field">
                     <label>Folder Number</label>
                     <div class="font-bold">
-                        <a :href=" getPermitApplicationLink(permit) " target="_blank">{{ permit.folderNumber }}</a>
+                        <a :href="getPermitApplicationLink(permit) " target="_blank">{{ permit.folderNumber }}</a>
                     </div>
                 </div>
                 <div class="col-2 field">
@@ -330,7 +337,7 @@ function showNoPAToast() {
                     <label>Addresses</label>
                     <div class="font-bold">
                         <div v-for="  address   in   permit.addresses  " :key=" address ">
-                            {{ address }}
+                            <AppGoogleLink :address="address"/>
                         </div>
                     </div>
                 </div>
