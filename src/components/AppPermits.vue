@@ -181,8 +181,8 @@ function setViewedPA(city: string, permitID: string) {
 function createPermitApplications(permits: PermitsEntity[], daysWithInfo: any): PermitsEntity[] {
     // Combine the daysWith information into the permits
     // They are separated only to make nicer diffs :)
-    for(const pa of permits) {
-        if(typeof pa.withDistrictDays === "number") {
+    for (const pa of permits) {
+        if (typeof pa.withDistrictDays === "number") {
             continue;
         }
         const daysWith = getDaysWith(pa, daysWithInfo);
@@ -192,13 +192,13 @@ function createPermitApplications(permits: PermitsEntity[], daysWithInfo: any): 
     return permits;
 }
 
-function getDaysWith(pa: PermitsEntity, daysWithInfo: any): { withDistrictDays: number|null, withApplicantDays: number|null } {
+function getDaysWith(pa: PermitsEntity, daysWithInfo: any): { withDistrictDays: number | null, withApplicantDays: number | null } {
     const dwCity = daysWithInfo[pa.city];
-    if(!dwCity) {
+    if (!dwCity) {
         return { withDistrictDays: null, withApplicantDays: null };
     }
     const dwFolder = dwCity[pa.folderNumber];
-    if(!dwFolder) {
+    if (!dwFolder) {
         return { withDistrictDays: null, withApplicantDays: null };
     }
     return dwFolder;
@@ -259,8 +259,8 @@ function showNoPAToast() {
                     <InputText v-model=" filterModel.value " type="text" @input="filterCallback()" class="p-column-filter"
                         placeholder="Search by address" />
                 </template>
-                <template #body="{ data }: {data: PermitsEntity }">
-                    <AppGoogleLink :address="data.primaryStreetName"/>
+                <template #body=" { data }: { data: PermitsEntity } ">
+                    <AppGoogleLink :address=" data.primaryStreetName " />
                 </template>
             </Column>
             <Column field="city" header="City" :sortable=" true " :showFilterMenu=" false " class="w-2">
@@ -306,8 +306,8 @@ function showNoPAToast() {
                 <div class="col-2 field">
                     <label>Primary Address</label>
                     <div>
-                    <AppGoogleLink :address="permit.primaryStreetName"/>
-                </div>
+                        <AppGoogleLink :address=" permit.primaryStreetName " />
+                    </div>
                 </div>
                 <div class="col-2 field">
                     <label>City</label>
@@ -324,7 +324,7 @@ function showNoPAToast() {
                 <div class="col-2 field">
                     <label>Folder Number</label>
                     <div class="font-bold">
-                        <a :href="getPermitApplicationLink(permit) " target="_blank">{{ permit.folderNumber }}</a>
+                        <a :href=" getPermitApplicationLink(permit) " target="_blank">{{ permit.folderNumber }}</a>
                     </div>
                 </div>
                 <div class="col-2 field">
@@ -336,8 +336,8 @@ function showNoPAToast() {
                 <div class="col-2 field">
                     <label>Addresses</label>
                     <div class="font-bold">
-                        <div v-for="  address   in   permit.addresses  " :key=" address ">
-                            <AppGoogleLink :address="address"/>
+                        <div v-for="    address     in     permit.addresses    " :key=" address ">
+                            <AppGoogleLink :address=" address " />
                         </div>
                     </div>
                 </div>
@@ -366,7 +366,7 @@ function showNoPAToast() {
                 <div class="col-4 field">
                     <label>Documents</label>
                     <div class="font-bold">
-                        <div v-for="  document   in   permit.documents  " :key=" document.docName ">
+                        <div v-for=" document  in  permit.documents " :key=" document.docName ">
                             <a :href=" document.docURL " target="_blank">{{ document.docName }}</a>
                         </div>
                         <div v-if=" permit.documents.length === 0 ">
@@ -404,7 +404,8 @@ function showNoPAToast() {
                                         {{ relatedPermitID }}
                                     </router-link>
                                     <a v-else-if=" permitExistByID(permit.city, relatedPermitID) === 'related' "
-                                        target="_blank" :href=" getPermitApplicationLinkByID(permit.city, relatedPermitID) ">
+                                        target="_blank"
+                                        :href=" getPermitApplicationLinkByID(permit.city, relatedPermitID) ">
                                         {{ relatedPermitID }}
                                     </a>
                                     <span v-else>{{ relatedPermitID }}</span>
