@@ -26,6 +26,7 @@ import Toast from 'primevue/toast';
 
 const route = useRoute();
 const router = useRouter();
+const toast = useToast();
 
 const filters = ref({
     global: { value: null, matchMode: FilterMatchMode.CONTAINS },
@@ -72,7 +73,7 @@ function getCities(permitApplications: PermitsEntity[]): string[] {
     return cities;
 }
 
-const formatDate = (unixDate?: number): string => {
+const formatDate = (unixDate?: number | null): string => {
     if (!unixDate) {
         return '';
     }
@@ -215,11 +216,40 @@ const getPermitApplicationLinkByID = (city: string, permitID: string): string =>
         return 'https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=' + permitID;
     } else if (city === 'Oak Bay') {
         return 'https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=' + permitID;
+    } else if (city === 'Esquimalt') {
+        return getEsquimaltLinkByID(permitID);
     }
     return '';
 };
 
-const toast = useToast();
+function getEsquimaltLinkByID(permitID: string) {
+    const match = permitID.match(/^[A-Z]+/);
+    if(!match) {
+        toast.add({ severity: "error", summary: "Cannot get link for Esquimalt permit " + permitID });
+        return "";
+    }
+    const prefix = match[0];
+    let baseUrl = "";
+    switch(prefix) {
+        case "DVP":
+            baseUrl = "https://www.esquimalt.ca/business-development/development-tracker/development-variance-permit-applications"
+            break;
+        case "RZ":
+            baseUrl = "https://www.esquimalt.ca/business-development/development-tracker/rezoning-applications"
+            break;
+        case "DP":
+            baseUrl = "https://www.esquimalt.ca/business-development/development-tracker/development-permit-applications"
+            break;
+    }
+    if(!baseUrl) {
+        console.error(prefix, permitID);
+        toast.add({ severity: "error", summary: "Cannot get link for Esquimalt permit " + permitID });
+        return "";
+    }
+    const fullUrl = baseUrl + "#:~:text=" + permitID;
+    return fullUrl;
+}
+
 function showNoPAToast() {
     toast.add({ severity: "error", summary: "No such permit application" });
 }
@@ -322,7 +352,7 @@ function showNoPAToast() {
                     <div class="font-bold" :title=" permit.cityApplicationType ">{{ permit.applicationType }}</div>
                 </div>
                 <div class="col-2 field">
-                    <label>Folder Number</label>
+                    <label>Permit Identifier</label>
                     <div class="font-bold">
                         <a :href=" getPermitApplicationLink(permit) " target="_blank">{{ permit.folderNumber }}</a>
                     </div>

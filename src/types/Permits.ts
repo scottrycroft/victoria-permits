@@ -4,7 +4,7 @@ export interface PermitsEntity {
   applicationType: string;
   cityApplicationType?: string;
   folderNumber: string;
-  applicationDate: number;
+  applicationDate: number | null;
   addresses: string[];
   status: string;
   purpose: string;
@@ -12,7 +12,7 @@ export interface PermitsEntity {
   documents: DocumentsEntity[];
   withDistrictDays?: number | null;
   withApplicantDays?: number | null;
-  lastUpdated: number;
+  lastUpdated: number | null;
   city: string;
   relatedPermits?: RelatedPermit[];
 }
