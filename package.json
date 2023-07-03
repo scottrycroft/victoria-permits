@@ -1,11 +1,11 @@
 {
-  "name": "saanich-permits",
+  "name": "victoria-permit-applications",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
-    "build-prod": "vite build --base=/saanich-permits",
+    "build-prod": "vite build --base=/victoria-permit-applications",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false",
