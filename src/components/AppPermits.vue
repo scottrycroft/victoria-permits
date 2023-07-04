@@ -30,10 +30,10 @@ const toast = useToast();
 
 const filters = ref({
     global: { value: null, matchMode: FilterMatchMode.CONTAINS },
-    primaryStreetName: { value: null, matchMode: FilterMatchMode.STARTS_WITH },
+    primaryStreetName: { value: null, matchMode: FilterMatchMode.CONTAINS },
     applicationType: { value: null, matchMode: FilterMatchMode.IN },
     status: { value: null, matchMode: FilterMatchMode.EQUALS },
-    city: { value: null, matchMode: FilterMatchMode.EQUALS }
+    city: { value: null, matchMode: FilterMatchMode.IN }
 });
 
 const applicationTypes = ref(getApplicationTypes(permitInfo.permits));
@@ -326,8 +326,8 @@ function showNoPAToast() {
             </Column>
             <Column field="city" header="City" :sortable=" true " :showFilterMenu=" false " class="w-2">
                 <template #filter=" { filterModel, filterCallback } ">
-                    <Dropdown @change=filterCallback() v-model=" filterModel.value " :showClear=" true " :options=" cities "
-                        placeholder="Any" :maxSelectedLabels=" 1 " />
+                    <MultiSelect @change=filterCallback() v-model=" filterModel.value " :showClear=" true "
+                        :options=" cities " placeholder="Any" :maxSelectedLabels=" 1 " />
                 </template>
             </Column>
             <Column field="applicationType" header="Application Type" :sortable=" true " class="w-2 max-w-20rem"
