@@ -218,6 +218,8 @@ const getPermitApplicationLinkByID = (city: string, permitID: string): string =>
         return 'https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=' + permitID;
     } else if (city === 'Esquimalt') {
         return getEsquimaltLinkByID(permitID);
+    } else if (city === 'View Royal') {
+        return getViewRoyalLinkByID(permitID);
     }
     return '';
 };
@@ -246,7 +248,36 @@ function getEsquimaltLinkByID(permitID: string) {
         toast.add({ severity: "error", summary: "Cannot get link for Esquimalt permit " + permitID });
         return "";
     }
-    const fullUrl = baseUrl + "#:~:text=" + permitID;
+    const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(permitID).replace(/-/g, "%2D")
+    return fullUrl;
+}
+
+function getViewRoyalLinkByID(permitID: string) {
+    const match = permitID.match(/^[A-Z]+/);
+    if(!match) {
+        toast.add({ severity: "error", summary: "Cannot get link for View Royal permit " + permitID });
+        return "";
+    }
+    const prefix = match[0];
+    let baseUrl = "";
+    switch(prefix) {
+        case "DVP":
+            baseUrl = "https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-applications/development-variance-permit-applications.html"
+            break;
+        case "REZ":
+            baseUrl = "https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-applications/rezoning-applications.html"
+            break;
+        case "DP":
+            baseUrl = "https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-applications/development-permit-applications.html"
+            break;
+    }
+    if(!baseUrl) {
+        console.error(prefix, permitID);
+        toast.add({ severity: "error", summary: "Cannot get link for View Royal permit " + permitID });
+        return "";
+    }
+    
+    const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(permitID).replace(/-/g, "%2D")
     return fullUrl;
 }
 
@@ -423,7 +454,7 @@ function showNoPAToast() {
                         </DataTable>
                     </div>
                 </div>
-                <div class="col-12 field">
+                <div v-if="permit.relatedPermits?.length" class="col-12 field">
                     <label>Related Permits</label>
                     <div>
                         <DataTable stripedRows :value=" permit.relatedPermits || [] ">
