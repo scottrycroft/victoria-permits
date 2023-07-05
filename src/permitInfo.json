@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1688380572,
+  "dateRetrieved": 1688553381,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -4943,6 +4943,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1686034800,
           "endDate": 1686812400
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -4960,7 +4966,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1686812400,
+      "lastUpdated": 1688553460,
       "relatedPermits": []
     },
     {
@@ -6307,7 +6313,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1686034800,
+      "lastUpdated": 1688553460,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20114",
@@ -17402,7 +17408,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1679468400,
-          "endDate": null
+          "endDate": 1688454000
         },
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
@@ -17430,7 +17436,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688553460,
       "relatedPermits": []
     },
     {
@@ -56238,10 +56244,14 @@
         {
           "docName": "2023-05-27 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B3A8A1FD-82BA-4C43-B0BE-1AE301EB527E&folderId=84745C211217113153816484"
+        },
+        {
+          "docName": "2023-06-30 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=37694C230704150431472462&folderId=84745C211217113153816484"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1685343600,
+      "lastUpdated": 1688553460,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00195",
