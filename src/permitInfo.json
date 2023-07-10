@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1688639776,
+  "dateRetrieved": 1688985687,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -2603,6 +2603,72 @@
       ]
     },
     {
+      "primaryStreetName": "1318 TRANSIT RD",
+      "applicant": "1318 TRANSIT HOLDINGS",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000047",
+      "applicationDate": 1688626800,
+      "addresses": [
+        "1318 TRANSIT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit (see HRA00012).",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.  \n",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff. \n",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application. \n",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application. \n",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed. \n",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1688626800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "HRA00012",
+          "relatedPermitType": "HERITAGE REVITALIZATION AGRMNT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -3785,7 +3851,7 @@
         "2649 THOMPSON AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary the side yard setback in order to construct a secondary suite addition.",
+      "purpose": "This is an application for a development variance permit to vary the front yard setback and parking requirements in order to construct a secondary suite addition.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Variance Permit has been received by the District.",
@@ -3837,7 +3903,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1686639600,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -4127,6 +4193,67 @@
           "relatedPermitType": "ADVISORY DESIGN PANEL"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1703 MONTEREY AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00138",
+      "applicationDate": 1688713200,
+      "addresses": [
+        "1703 MONTEREY AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development variance permit to permit temporary parking stru",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1688713200,
+          "endDate": 1688713200
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council for initial consideration of the application\n",
+          "taskType": "COUNCIL MEETING # 1",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application. \n",
+          "taskType": "COUNCIL MEETING # 2",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed. \n",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1688713200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2326 OAK BAY AVE",
@@ -5046,6 +5173,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1688108400,
+          "endDate": 1688713200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1688713200,
           "endDate": null
         }
       ],
@@ -5064,7 +5197,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1688108400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -6295,6 +6428,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1686034800,
+          "endDate": 1688626800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1688626800,
+          "endDate": 1688713200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1688713200,
           "endDate": null
         }
       ],
@@ -6313,7 +6458,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1688553460,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20114",
@@ -7551,6 +7696,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1682060400,
+          "endDate": 1688713200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1688713200,
           "endDate": null
         }
       ],
@@ -7569,7 +7720,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1682060400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -8024,6 +8175,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1687935600,
+          "endDate": 1688713200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1688713200,
           "endDate": null
         }
       ],
@@ -8042,7 +8199,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1687935600,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -8448,6 +8605,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1686726000,
+          "endDate": 1688713200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1688713200,
           "endDate": null
         }
       ],
@@ -8462,7 +8625,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1686726000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -13014,7 +13177,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1666681200,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -13169,7 +13332,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1679554800,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -13435,7 +13598,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1680764400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -13513,7 +13676,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1684998000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00796",
@@ -13538,7 +13701,7 @@
         "139 MENZIES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete additional Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) .\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -13551,7 +13714,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1685516400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00386",
@@ -13578,7 +13741,7 @@
         "3106 WASHINGTON AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -13599,7 +13762,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1685689200,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -13631,7 +13794,35 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1688986034,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1276 GLADSTONE AVE",
+      "applicant": "ASHLEY AND TONNY KIPTOO",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00414",
+      "applicationDate": 1688713200,
+      "addresses": [
+        "1276 GLADSTONE AVE",
+        "1278 GLADSTONE AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2023-06-27 - Plans and Presentation.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35769C230627091528123589&folderId=35769C230627090637207687"
+        },
+        {
+          "docName": "2023-06-27 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35769C230627091528186089&folderId=35769C230627090637207687"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1688713200,
       "relatedPermits": []
     },
     {
@@ -14565,7 +14756,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1564383600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00710",
@@ -14718,7 +14909,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1572850800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00717",
@@ -15610,7 +15801,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1611730800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -15743,7 +15934,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1614150000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00767",
@@ -15771,7 +15962,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1614582000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00768",
@@ -15798,7 +15989,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1616050800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -15928,7 +16119,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1623135600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00787",
@@ -16189,7 +16380,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1634886000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00795",
@@ -16465,7 +16656,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1643180400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00807",
@@ -16532,7 +16723,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1645167600,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -16590,7 +16781,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1669791600,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -16673,7 +16864,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1644908400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -16848,7 +17039,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -17000,7 +17191,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1650524400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00818",
@@ -17027,7 +17218,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1654585200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00822",
@@ -17129,7 +17320,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1664262000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00830",
@@ -17214,7 +17405,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -17232,7 +17423,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1673334000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00838",
@@ -17330,7 +17521,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688108400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -17355,7 +17546,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1678777200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00843",
@@ -17436,7 +17627,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688553460,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -17462,7 +17653,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1679900400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00848",
@@ -17578,7 +17769,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1684306800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00852",
@@ -18168,7 +18359,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1522220400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00587",
@@ -18645,7 +18836,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1684306800,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -21664,7 +21855,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1548140400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00685",
@@ -23078,7 +23269,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686812400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00689",
@@ -24161,7 +24352,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1584082800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00733",
@@ -24191,7 +24382,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1585292400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00732",
@@ -25089,7 +25280,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1601449200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00753",
@@ -25884,7 +26075,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1618988400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00778",
@@ -25914,7 +26105,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1621407600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00780",
@@ -25979,7 +26170,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1621580400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00784",
@@ -26338,7 +26529,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1638428400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00025",
@@ -26491,7 +26682,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1632294000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00793",
@@ -26519,7 +26710,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1632898800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00794",
@@ -26792,7 +26983,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1638946800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00800",
@@ -26819,7 +27010,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1639378800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00801",
@@ -26848,7 +27039,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1640156400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00805",
@@ -26883,7 +27074,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1640156400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00804",
@@ -26945,7 +27136,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1640329200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
@@ -27032,7 +27223,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1682406000,
-          "endDate": null
+          "endDate": 1688626800
         },
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
@@ -27092,7 +27283,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -27111,7 +27302,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1639724400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00803",
@@ -27145,7 +27336,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1644994800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00811",
@@ -27282,7 +27473,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1646290800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00812",
@@ -27457,7 +27648,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687849200,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -27478,7 +27669,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1651042800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -27583,7 +27774,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1681369200,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -27603,7 +27794,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1651734000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00406",
@@ -27639,7 +27830,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1649055600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -27706,7 +27897,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1656918000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00609",
@@ -27738,7 +27929,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1651647600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00820",
@@ -27867,7 +28058,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1654758000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000575",
@@ -27896,7 +28087,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1654844400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -27928,7 +28119,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1655276400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00824",
@@ -27981,7 +28172,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1657782000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00827",
@@ -28009,7 +28200,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1660546800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -28040,7 +28231,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1660633200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00826",
@@ -28075,7 +28266,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1662447600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00828",
@@ -28102,7 +28293,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1663138800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00829",
@@ -28170,16 +28361,16 @@
           "endDate": 1684134000
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment\n",
+          "taskType": "Application Review by City",
+          "startDate": 1665039600,
+          "endDate": 1685602800
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1688022000,
           "endDate": 1688022000
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment\n",
-          "taskType": "Application Review by City",
-          "startDate": 1665039600,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
@@ -28227,7 +28418,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -28247,7 +28438,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1667804400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -28278,7 +28469,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1669878000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00831",
@@ -28317,7 +28508,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1670482800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00833",
@@ -28434,7 +28625,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688108400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -28453,7 +28644,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1670569200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00774",
@@ -28488,7 +28679,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1671087600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00835",
@@ -28555,7 +28746,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1675234800,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -28573,7 +28764,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1677049200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -28605,7 +28796,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1677826800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00846",
@@ -28690,7 +28881,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1676012400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000622",
@@ -28753,7 +28944,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1681887600,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -28811,7 +29002,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1682578800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00660",
@@ -28868,7 +29059,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1680246000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -28940,7 +29131,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687849200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00707",
@@ -28984,7 +29175,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1682924400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00851",
@@ -29056,7 +29247,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1684479600,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -29074,7 +29265,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1683183600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000631",
@@ -29197,7 +29388,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687503600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00687",
@@ -29233,7 +29424,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1685602800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00849",
@@ -29273,6 +29464,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment\n",
           "taskType": "Application Review by City",
           "startDate": 1686898800,
+          "endDate": 1688626800
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1688626800,
           "endDate": null
         },
         {
@@ -29299,7 +29496,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686898800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00637",
@@ -29360,7 +29557,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -29390,7 +29587,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1181286000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -29418,7 +29615,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1190962800,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -30922,7 +31119,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1529478000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00041",
@@ -31314,7 +31511,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1623740400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -32919,7 +33116,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1647500400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -40206,7 +40403,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1674716400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00012",
@@ -41170,7 +41367,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1550127600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00108",
@@ -42699,7 +42896,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1558681200,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -43771,7 +43968,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686207600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00219",
@@ -44938,7 +45135,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000563",
@@ -45909,7 +46106,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1681369200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000568",
@@ -47807,7 +48004,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1683183600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00348",
@@ -48241,7 +48438,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1623308400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -48361,7 +48558,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1685343600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00144",
@@ -48529,7 +48726,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1668409200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00143",
@@ -50401,7 +50598,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1628146800,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -50491,7 +50688,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1614582000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -50900,7 +51097,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687158000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00158",
@@ -51232,7 +51429,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00226",
@@ -51368,7 +51565,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1635318000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -51759,7 +51956,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1613113200,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -51918,7 +52115,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1668754800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000590",
@@ -52562,7 +52759,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000594",
@@ -52726,7 +52923,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1679986800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000595",
@@ -53040,7 +53237,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1654585200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000596",
@@ -53444,7 +53641,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00223",
@@ -53545,7 +53742,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1671519600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00171",
@@ -53753,7 +53950,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1678345200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00269",
@@ -54110,7 +54307,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1655362800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -54418,7 +54615,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000603",
@@ -54511,7 +54708,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1627023600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00247",
@@ -55165,7 +55362,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1659596400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00182",
@@ -55287,7 +55484,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00183",
@@ -55409,7 +55606,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1664175600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000607",
@@ -55624,7 +55821,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687330800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -56000,7 +56197,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1641538800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00188",
@@ -56131,7 +56328,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1684393200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00189",
@@ -56251,7 +56448,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688553460,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00195",
@@ -56452,7 +56649,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1677826800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -56667,7 +56864,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00190",
@@ -56778,7 +56975,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686812400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
@@ -56873,7 +57070,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1685602800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000610",
@@ -56994,7 +57191,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1665039600,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -57094,7 +57291,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1683010800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00351",
@@ -57258,7 +57455,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686294000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -57405,7 +57602,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1681974000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00196",
@@ -57525,7 +57722,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687417200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00198",
@@ -57731,7 +57928,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1674630000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00364",
@@ -57875,7 +58072,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00205",
@@ -57986,7 +58183,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1679554800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00279",
@@ -58115,7 +58312,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686812400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000619",
@@ -58203,7 +58400,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1653030000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00202",
@@ -58331,7 +58528,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00207",
@@ -58464,7 +58661,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1675666800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00406",
@@ -58557,7 +58754,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1656054000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000621",
@@ -58664,7 +58861,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -58762,7 +58959,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1657782000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00211",
@@ -58879,7 +59076,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1679900400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00034",
@@ -58984,7 +59181,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1678777200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00214",
@@ -59112,7 +59309,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1683010800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00212",
@@ -59282,7 +59479,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687503600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00216",
@@ -59373,7 +59570,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1678777200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00217",
@@ -59502,7 +59699,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686898800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000623",
@@ -59605,7 +59802,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1678950000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00220",
@@ -59699,7 +59896,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1680505200,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -59784,7 +59981,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1673247600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -59917,7 +60114,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687244400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00236",
@@ -60010,7 +60207,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1673852400,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00224",
@@ -60194,7 +60391,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1675666800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000625",
@@ -60280,7 +60477,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1679036400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -60371,7 +60568,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1680073200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000627",
@@ -60462,7 +60659,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1679641200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00399",
@@ -60562,7 +60759,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1684479600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00406",
@@ -60656,7 +60853,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1681282800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00227",
@@ -60741,7 +60938,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -60824,7 +61021,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1681714800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000629",
@@ -60929,7 +61126,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1685343600,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00239",
@@ -61018,7 +61215,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1682924400,
+      "lastUpdated": 1688986034,
       "relatedPermits": []
     },
     {
@@ -61094,7 +61291,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -61187,7 +61384,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686553200,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000632",
@@ -61271,7 +61468,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686726000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00404",
@@ -61347,7 +61544,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686726000,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00409",
@@ -61422,7 +61619,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1688986034,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00140",
