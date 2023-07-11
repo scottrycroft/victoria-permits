@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1688985687,
+  "dateRetrieved": 1689072098,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -4205,7 +4205,7 @@
         "1703 MONTEREY AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to permit temporary parking stru",
+      "purpose": "This is an application for a development variance permit to permit temporary parking structure",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Variance Permit has been received by the District.",
@@ -4252,7 +4252,68 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1688713200,
+      "lastUpdated": 1689072379,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2240 KINROSS AVE",
+      "applicant": "HARRIS",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00139",
+      "applicationDate": 1688972400,
+      "addresses": [
+        "2240 KINROSS AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development variance permit.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1688972400,
+          "endDate": 1688972400
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council for initial consideration of the application\n",
+          "taskType": "COUNCIL MEETING # 1",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application. \n",
+          "taskType": "COUNCIL MEETING # 2",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed. \n",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1688972400,
       "relatedPermits": []
     },
     {
@@ -6458,7 +6519,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1688986034,
+      "lastUpdated": 1689072379,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20114",
@@ -8779,6 +8840,47 @@
       ]
     },
     {
+      "primaryStreetName": "3989 SHELBOURNE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01046",
+      "applicationDate": 1688972400,
+      "addresses": [
+        "3989 SHELBOURNE ST",
+        "3991 SHELBOURNE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1688972400,
+          "endDate": 1688972400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1688972400,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1688972400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00741",
+          "relatedPermitType": "REZONING"
+        },
+        {
+          "relatedPermitID": "DVP00506",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -9505,22 +9607,45 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "",
+      "primaryStreetName": "3989 SHELBOURNE ST",
       "applicant": "N/A",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00741",
-      "applicationDate": 1686898800,
+      "applicationDate": 1688972400,
       "addresses": [
-        "N/A"
+        "3989 SHELBOURNE ST",
+        "3991 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
       "purpose": "N/A",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1688972400,
+          "endDate": 1688972400
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1688972400,
+          "endDate": 1688972400
+        }
+      ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1686898800,
-      "relatedPermits": []
+      "lastUpdated": 1689072379,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00506",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
+        {
+          "relatedPermitID": "DPR01046",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "4155 NORTH RD",
@@ -61408,7 +61533,7 @@
         "2629 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct a 12-storey rental residential building with ground floor commercial units and a public courtyard.",
+      "purpose": "The City is considering a Rezoning application to construct a 12 storey rental residential building with ground floor commercial units and a public courtyard.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -61468,7 +61593,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686726000,
+      "lastUpdated": 1689072379,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00404",
