@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1689072098,
+  "dateRetrieved": 1689158480,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -2306,23 +2306,23 @@
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1687330800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "The application is under initial review by District Staff. \n",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1688108400
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
+          "startDate": 1688108400,
           "endDate": null
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application. \n",
           "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff. \n",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
           "endDate": null
         },
@@ -2341,7 +2341,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1687330800,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00043",
@@ -2542,7 +2542,7 @@
         "3475 BEACH DR"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit. See ADP00161",
+      "purpose": "This is an application for a hazardous condition and shoreline development permit. See ADP00161 for form and character review.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.  \n",
@@ -2553,7 +2553,7 @@
         {
           "taskDescription": "The application is under initial review by District Staff. \n",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
+          "startDate": 1689058800,
           "endDate": null
         },
         {
@@ -2594,7 +2594,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1687849200,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "ADP00161",
@@ -3804,19 +3804,13 @@
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": 1681196400,
-          "endDate": null
+          "endDate": 1689058800
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application. \n",
           "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1688972400,
+          "endDate": 1689058800
         },
         {
           "taskDescription": "File has been completed and is now closed. \n",
@@ -3832,7 +3826,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1687849200,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "BP015353",
@@ -4252,7 +4246,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1689072379,
+      "lastUpdated": 1689158761,
       "relatedPermits": []
     },
     {
@@ -4662,21 +4656,21 @@
           "endDate": 1678345200
         },
         {
+          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.   \n",
+          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
+          "startDate": 1680505200,
+          "endDate": 1680505200
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1687330800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.   \n",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1688108400
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
+          "startDate": 1688108400,
           "endDate": null
         },
         {
@@ -4731,7 +4725,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1687330800,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000042",
@@ -6519,7 +6513,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689072379,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20114",
@@ -7382,6 +7376,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1687503600,
+          "endDate": 1689058800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -7396,7 +7396,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1687503600,
+      "lastUpdated": 1689158761,
       "relatedPermits": []
     },
     {
@@ -7763,6 +7763,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1688713200,
+          "endDate": 1689058800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1689058800,
           "endDate": null
         }
       ],
@@ -7781,7 +7787,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1688986034,
+      "lastUpdated": 1689158761,
       "relatedPermits": []
     },
     {
@@ -9635,7 +9641,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1689072379,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -29225,15 +29231,33 @@
           "endDate": 1687849200
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1687849200,
+          "endDate": 1689058800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment\n",
           "taskType": "Application Review by City",
           "startDate": 1682319600,
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1689058800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1687849200,
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -29256,7 +29280,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687849200,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00707",
@@ -29684,6 +29708,41 @@
       "city": "Victoria",
       "lastUpdated": 1687762800,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2615 DOUGLAS ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00242",
+      "applicationDate": 1689058800,
+      "addresses": [
+        "2615 DOUGLAS ST",
+        "2629 DOUGLAS ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application to construct a 12 storey rental residential building with ground floor commercial units and a public courtyard. concurrent with rezoning #REZ00853",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1689058800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00853",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00404",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "516 DISCOVERY ST",
@@ -58616,6 +58675,18 @@
           "endDate": 1688022000
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n",
+          "taskType": "With Applicant",
+          "startDate": 1685602800,
+          "endDate": 1689058800
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1689058800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -58624,36 +58695,24 @@
       ],
       "documents": [
         {
-          "docName": "2022-08-19 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B1D2419C-5F02-492C-A879-F769B7CCB94F&folderId=21641C220505081350450525"
+          "docName": "2022-05-04 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12988E0B-DEF6-438F-9FD0-3BD769782AA6&folderId=21641C220505081350450525"
         },
         {
-          "docName": "2023-03-03 - Letter to Council - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BFCBEC93-3F12-4342-B326-DC0F2FF5726E&folderId=21641C220505081350450525"
+          "docName": "2023-07-11 - Landscape Plan - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AB91B7FD-1E54-43B6-B522-F4590216E718&folderId=21641C220505081350450525"
         },
         {
-          "docName": "2023-03-03 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2033AB58-F22A-4636-9E63-B4E786217A96&folderId=21641C220505081350450525"
-        },
-        {
-          "docName": "2032-04-24 - Landscape Plans - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=20E7690D-3440-4CD2-A90C-568E59EA0AE0&folderId=21641C220505081350450525"
+          "docName": "2023-07-11 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AD53142A-0F3C-4FE1-B68C-AFB7D0595D28&folderId=21641C220505081350450525"
         },
         {
           "docName": "2032-04-24 - Letter to Mayor and Council - Development Permit April 2023 FINAL Updated 20230419.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=17472C230427131419425721&folderId=21641C220505081350450525"
-        },
-        {
-          "docName": "2032-04-24 - Plans - Revision.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DC7FD6EC-B447-4FA7-8784-C9DB4B1B4B71&folderId=21641C220505081350450525"
-        },
-        {
-          "docName": "23-018.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=22392C230515112849928420&folderId=21641C220505081350450525"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00207",
@@ -61593,8 +61652,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689072379,
+      "lastUpdated": 1689158761,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00242",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "CLC00404",
           "relatedPermitType": "Pre-Application (CALUC)"
