@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1689171437,
+  "dateRetrieved": 1689244887,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -4712,20 +4712,28 @@
       ],
       "documents": [
         {
-          "docName": "Landscape Plans",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=60968C230307122256765299&folderId=60968C230307103056126822"
+          "docName": "ZON00043 & DP000042 - 2326 Oak Bay Ave - Revised Plans - 2023 June 29 - 1 of 3- tracker.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=73797C230712150402971384&folderId=60968C230307103056126822"
         },
         {
-          "docName": "Letter of Rationale",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=60968C230307122256856030&folderId=60968C230307103056126822"
+          "docName": "ZON00043 & DP000042 - 2326 Oak Bay Ave - Revised Plans - 2023 June 29 - 2 of 3.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=73797C230712150604792539&folderId=60968C230307103056126822"
         },
         {
-          "docName": "ZON00043 & DP000042 - 2023 01 26 - 2326 OAK BAY Ave - Building Plans Rez DP Submission SEALED - CASCADIA-compressed.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=E87F049B-F9B3-4A4B-A941-709912EF7430&folderId=60968C230307103056126822"
+          "docName": "ZON00043 & DP000042 - 2326 Oak Bay Ave - Revised Plans - 2023 June 29 - 3 of 3.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=73797C230712150604834226&folderId=60968C230307103056126822"
+        },
+        {
+          "docName": "ZON00043 & DP000042- 2326 Oak Bay Ave -  Landscape Concept Resubmission 15 Units - LADR-2023 06 28.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=73750C230711163919384440&folderId=60968C230307103056126822"
+        },
+        {
+          "docName": "ZON00043 & DP00042 - 2326 Oak Bay Ave- Rezone and DP Application Letter Mayor and Council- Revised - 2023 06 30.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=73750C230711163919415688&folderId=60968C230307103056126822"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1689245171,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000042",
@@ -5148,7 +5156,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1688553460,
+      "lastUpdated": 1689245171,
       "relatedPermits": []
     },
     {
@@ -6844,6 +6852,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1687762800,
+          "endDate": 1689145200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1689145200,
           "endDate": null
         }
       ],
@@ -6862,7 +6876,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1689245171,
       "relatedPermits": []
     },
     {
@@ -7959,6 +7973,24 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1687330800,
+          "endDate": 1687330800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1689058800,
+          "endDate": 1689058800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1689145200,
+          "endDate": 1689145200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1689145200,
           "endDate": null
         }
       ],
@@ -7977,7 +8009,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1687330800,
+      "lastUpdated": 1689245171,
       "relatedPermits": []
     },
     {
@@ -8847,7 +8879,7 @@
     },
     {
       "primaryStreetName": "3989 SHELBOURNE ST",
-      "applicant": "N/A",
+      "applicant": "LOW HAMMOND ROWE ARCHITECTS IN",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01046",
@@ -8857,7 +8889,7 @@
         "3991 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A NEW 48 UNIT MULTI-FAMILY BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -8869,12 +8901,12 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1688972400,
-          "endDate": null
+          "endDate": 1689145200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1688972400,
+      "lastUpdated": 1689245171,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -9641,7 +9673,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1689245171,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -27689,7 +27721,7 @@
         "2312 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for a self-storage building with ground floor manufacturing and restaurant uses. The variance is related to parking.",
+      "purpose": "The City is considering a Development Permit with Variance application for ground floor manufacturing and light industrial, and warehouse uses above and below. The variance is related to parking.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -27746,9 +27778,21 @@
           "endDate": 1687849200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1680159600,
+          "endDate": 1689145200
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1689145200,
+          "endDate": 1689145200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1687849200,
+          "startDate": 1689145200,
           "endDate": null
         },
         {
@@ -27776,10 +27820,18 @@
         {
           "docName": "2023-06-27 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E0D42AF0-2D50-4411-BCFF-0BBF8743452C&folderId=15945C220412131413115668"
+        },
+        {
+          "docName": "2023-07-12 - Letter to Council - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12E7754A-6308-413A-A0AC-8C886728335B&folderId=15945C220412131413115668"
+        },
+        {
+          "docName": "2023-07-12 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90E3B05C-1AD3-450C-B73E-5B1F1305D9A9&folderId=15945C220412131413115668"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687849200,
+      "lastUpdated": 1689245171,
       "relatedPermits": []
     },
     {
@@ -59820,6 +59872,12 @@
           "endDate": 1686812400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1687158000,
+          "endDate": 1689145200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1686898800,
@@ -59880,10 +59938,26 @@
         {
           "docName": "2023-06-15 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7515196F-B2D8-49D9-8CCF-490C1C3F41DF&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-07-12 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=313341EF-5668-4C4C-A1C0-67D36B5EF080&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-07-12 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0F6B4D50-A186-4712-AC49-F874B7146A9E&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-07-12 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1CDF688E-092E-4286-B61E-356D0A07A269&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-07-12 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=689552B5-6CB1-4FD8-A0E0-85AD463D2ED8&folderId=61288C220927141506591408"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1686898800,
+      "lastUpdated": 1689245171,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000623",
