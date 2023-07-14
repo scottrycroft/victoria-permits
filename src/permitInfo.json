@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1689244887,
+  "dateRetrieved": 1689331304,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -2312,17 +2312,11 @@
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": 1688108400,
-          "endDate": null
+          "endDate": 1689231600
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "The application is under initial review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
           "endDate": null
         },
@@ -2341,7 +2335,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00043",
@@ -3826,8 +3820,12 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP015616",
+          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
+        },
         {
           "relatedPermitID": "BP015353",
           "relatedPermitType": "DEMOLITION PERMIT"
@@ -4109,8 +4107,12 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1685948400,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00140",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
         {
           "relatedPermitID": "BP015392",
           "relatedPermitType": "DEMOLITION PERMIT"
@@ -4309,6 +4311,76 @@
       "city": "Oak Bay",
       "lastUpdated": 1688972400,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "24 SYLVAN LANE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00140",
+      "applicationDate": 1689231600,
+      "addresses": [
+        "24 SYLVAN LANE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development variance permit.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1689231600,
+          "endDate": 1689231600
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING # 1",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING # 2",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1689231600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00135",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
+        {
+          "relatedPermitID": "BP015392",
+          "relatedPermitType": "DEMOLITION PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "2326 OAK BAY AVE",
@@ -4733,7 +4805,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000042",
@@ -5156,7 +5228,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": []
     },
     {
@@ -6521,7 +6593,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20114",
@@ -6876,7 +6948,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": []
     },
     {
@@ -8009,7 +8081,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": []
     },
     {
@@ -8189,6 +8261,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1687503600,
+          "endDate": 1689231600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1689231600,
           "endDate": null
         }
       ],
@@ -8207,7 +8285,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1687503600,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00733",
@@ -8906,7 +8984,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -9646,7 +9724,7 @@
     },
     {
       "primaryStreetName": "3989 SHELBOURNE ST",
-      "applicant": "N/A",
+      "applicant": "LOW HAMMOND ROWE ARCHITECTS",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00741",
@@ -9656,7 +9734,7 @@
         "3991 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A NEW 48 UNIT MULTI-FAMILY BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -9673,7 +9751,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -16921,6 +16999,12 @@
           "endDate": 1669791600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1689231600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -16944,7 +17028,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1669791600,
+      "lastUpdated": 1689331588,
       "relatedPermits": []
     },
     {
@@ -18869,6 +18953,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1684306800,
+          "endDate": 1689231600
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1689231600,
           "endDate": null
         },
         {
@@ -18999,7 +19089,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1684306800,
+      "lastUpdated": 1689331588,
       "relatedPermits": []
     },
     {
@@ -27831,7 +27921,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": []
     },
     {
@@ -28270,7 +28360,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1688986034,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -52942,15 +53032,15 @@
           "endDate": 1688022000
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1689231600,
+          "endDate": 1689231600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1614150000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -52995,7 +53085,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000594",
@@ -55691,15 +55781,15 @@
           "endDate": 1688022000
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1689231600,
+          "endDate": 1689231600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1686121200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -55720,7 +55810,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00183",
@@ -59097,7 +59187,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688986034,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -59408,16 +59498,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D8F09CE5-ACA2-4CFF-9EE5-F6342DD1B446&folderId=41147C220712132056579561"
         },
         {
-          "docName": "2023-03-14 - Letter to Council - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=453A19F9-585D-439B-BB3A-4C7F91957C69&folderId=41147C220712132056579561"
-        },
-        {
           "docName": "2023-03-14 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=404A923D-0143-4027-8544-928AD417199A&folderId=41147C220712132056579561"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1678777200,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00214",
@@ -59872,6 +59958,12 @@
           "endDate": 1686812400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1686898800,
+          "endDate": 1687935600
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1687158000,
@@ -59880,7 +59972,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1686898800,
+          "startDate": 1689145200,
           "endDate": null
         },
         {
@@ -59957,7 +60049,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689245171,
+      "lastUpdated": 1689331588,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000623",
@@ -61161,6 +61253,12 @@
           "endDate": 1688022000
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1689231600,
+          "endDate": 1689231600
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1681369200,
@@ -61169,12 +61267,6 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         },
@@ -61196,7 +61288,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688022000,
+      "lastUpdated": 1689331588,
       "relatedPermits": []
     },
     {
