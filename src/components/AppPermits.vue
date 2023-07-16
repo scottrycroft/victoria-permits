@@ -290,7 +290,7 @@ function showNoPAToast() {
     <main>
         <DataTable :value="permitApplications" width="100%" v-model:filters="filters" :globalFilter="globalFilter"
             filterDisplay="row" stripedRows
-            :globalFilterFields="['primaryStreetName', 'applicant', 'city', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose',]"
+            :globalFilterFields="['primaryStreetName', 'applicant', 'city', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose','lastUpdated']"
             :rowsPerPageOptions="[5, 10, 20, 50]" :rows="5" paginator
             paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
             sortField="lastUpdated" :sortOrder="-1" currentPageReportTemplate="{first} to {last} of {totalRecords}">
