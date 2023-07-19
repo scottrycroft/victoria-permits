@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1689676886,
+  "dateRetrieved": 1689763278,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -2317,8 +2317,8 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1689663600,
+          "endDate": 1689663600
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
@@ -2335,7 +2335,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00043",
@@ -3820,7 +3820,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "BP015616",
@@ -4107,7 +4107,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00140",
@@ -4182,7 +4182,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "ADP00160",
@@ -4210,6 +4210,18 @@
           "endDate": 1688713200
         },
         {
+          "taskDescription": "Meeting date of Council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING # 1",
+          "startDate": 1689577200,
+          "endDate": 1689577200
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING # 2",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -4228,18 +4240,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
           "startDate": null,
@@ -4248,7 +4248,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -4805,7 +4805,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000042",
@@ -4912,7 +4912,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -5232,7 +5232,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -6363,7 +6363,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -6431,7 +6431,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -6609,7 +6609,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20114",
@@ -6964,7 +6964,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -7483,7 +7483,13 @@
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
-          "startDate": null,
+          "startDate": 1689663600,
+          "endDate": 1689663600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1689663600,
           "endDate": null
         }
       ],
@@ -7498,7 +7504,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -8097,7 +8103,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -8301,7 +8307,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00733",
@@ -8508,7 +8514,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -8882,7 +8888,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -8938,7 +8944,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -9024,7 +9030,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -9791,7 +9797,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -17068,7 +17074,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -18064,6 +18070,40 @@
         },
         {
           "relatedPermitID": "CLC00405",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3106 WASHINGTON AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000633",
+      "applicationDate": 1689663600,
+      "addresses": [
+        "3106 WASHINGTON AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application to retain the existing home and subdivide a panhandle lot at the rear for 4 detached dwellings. Concurrent Rezoning Application #00856",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1689663600,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1689663600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00856",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00412",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -19129,7 +19169,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -27851,7 +27891,7 @@
         "2312 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for ground floor manufacturing and light industrial, and warehouse uses above and below. The variance is related to parking.",
+      "purpose": "The City is considering a Development Permit with Variance application for a four-storey industrial building with light industrial and complementary retail uses on the ground floor and self-storage (warehouse) in the remainder of the building. The variance is related to parking and setbacks.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -27956,12 +27996,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12E7754A-6308-413A-A0AC-8C886728335B&folderId=15945C220412131413115668"
         },
         {
-          "docName": "2023-07-12 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90E3B05C-1AD3-450C-B73E-5B1F1305D9A9&folderId=15945C220412131413115668"
+          "docName": "2023-07-12 - Plans with Landsaping - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00EFA039-0CEF-4594-810A-91CEB448FFEE&folderId=15945C220412131413115668"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -28400,7 +28440,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -29237,7 +29277,7 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1688022000,
-          "endDate": null
+          "endDate": 1689663600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
@@ -29267,7 +29307,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -51485,7 +51525,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00158",
@@ -53147,7 +53187,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000594",
@@ -55872,7 +55912,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00183",
@@ -56836,7 +56876,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00195",
@@ -57037,7 +57077,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -57363,7 +57403,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
@@ -59249,7 +59289,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -59565,7 +59605,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00214",
@@ -59622,15 +59662,15 @@
           "endDate": 1683010800
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1689231600,
+          "endDate": 1689231600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1683010800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -59693,7 +59733,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688986034,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00212",
@@ -60111,7 +60151,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000623",
@@ -61350,7 +61390,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": []
     },
     {
@@ -61886,7 +61926,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00242",
@@ -61972,7 +62012,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1689677172,
+      "lastUpdated": 1689763560,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00409",
@@ -62065,7 +62105,7 @@
     },
     {
       "primaryStreetName": "3106 WASHINGTON AVE",
-      "applicant": "N/A",
+      "applicant": "RUS COLLINS",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00856",
@@ -62074,18 +62114,18 @@
         "3106 WASHINGTON AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to",
+      "purpose": "The City is considering a Rezoning application to rezone to retain the existing home and subdivide a panhandle lot at the rear for 4 detached dwellings. Concurrent Development Permit No. 000633.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1689663600,
+          "endDate": 1689663600
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1689663600,
           "endDate": null
         },
         {
@@ -62119,10 +62159,23 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2023 07 14 - Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E2A181F4-8D2F-4EDA-892F-740F6CD3FA2C&folderId=41341C230714162603177810"
+        },
+        {
+          "docName": "2023-07-14 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A7A0914F-CD94-4DE7-939B-C32362F6866C&folderId=41341C230714162603177810"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1689318000,
+      "lastUpdated": 1689663600,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DP000633",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
         {
           "relatedPermitID": "CLC00412",
           "relatedPermitType": "Pre-Application (CALUC)"
