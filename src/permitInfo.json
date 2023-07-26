@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1690281689,
+  "dateRetrieved": 1690368081,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -7967,6 +7967,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1689058800,
+          "endDate": 1690268400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1690268400,
           "endDate": null
         }
       ],
@@ -7985,7 +7991,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1689158761,
+      "lastUpdated": 1690368367,
       "relatedPermits": []
     },
     {
@@ -9957,6 +9963,46 @@
         },
         {
           "relatedPermitID": "DVP00505",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1539 ASH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00743",
+      "applicationDate": 1690268400,
+      "addresses": [
+        "1539 ASH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1690268400,
+          "endDate": 1690268400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1690268400,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1690268400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00945",
+          "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "DVP00507",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         }
       ]
@@ -14218,10 +14264,14 @@
         {
           "docName": "2023-06-27 - Summary Letter.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35769C230627091528186089&folderId=35769C230627090637207687"
+        },
+        {
+          "docName": "2023-07-25 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=44348C230725155817376567&folderId=35769C230627090637207687"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688986034,
+      "lastUpdated": 1690368367,
       "relatedPermits": []
     },
     {
@@ -29511,6 +29561,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1686294000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -29534,7 +29590,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1680246000,
+      "lastUpdated": 1690368367,
       "relatedPermits": []
     },
     {
@@ -30027,6 +30083,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1689318000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -30050,7 +30112,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1690368367,
       "relatedPermits": []
     },
     {
@@ -30090,7 +30152,7 @@
     },
     {
       "primaryStreetName": "822 CATHERINE ST",
-      "applicant": "N/A",
+      "applicant": "LIV MCMAHON",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00243",
@@ -30099,18 +30161,18 @@
         "822 CATHERINE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a 27 unit affordable rental building with ground floor commercial.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1690182000,
+          "endDate": 1690268400
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1690268400,
           "endDate": null
         },
         {
@@ -30128,7 +30190,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1690182000,
+      "lastUpdated": 1690368367,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -53526,10 +53588,14 @@
         {
           "docName": "2023-07-24 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=43687C230724132511351315&folderId=02073C210301112208509754"
+        },
+        {
+          "docName": "23-080.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA9E0E26-F7AB-43E3-8AFF-3160796166F8&folderId=02073C210301112208509754"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1690368367,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000595",
@@ -59424,14 +59490,20 @@
           "endDate": 1687762800
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1687762800,
+          "endDate": 1687762800
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -59473,7 +59545,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1690368367,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -60661,15 +60733,15 @@
           "endDate": 1687244400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1671001200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1682319600,
+          "endDate": 1687244400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1671001200,
           "endDate": null
         },
         {
@@ -60740,7 +60812,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687244400,
+      "lastUpdated": 1690368367,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00236",
