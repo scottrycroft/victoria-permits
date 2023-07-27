@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1690368081,
+  "dateRetrieved": 1690454499,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -7991,7 +7991,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": []
     },
     {
@@ -8711,6 +8711,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1686034800,
+          "endDate": 1690354800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1690354800,
           "endDate": null
         }
       ],
@@ -8729,7 +8735,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00734",
@@ -9145,10 +9151,14 @@
         {
           "docName": "LANDSCAPE PLAN_JULY 10, 2023",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=51857C48-3AA8-44BC-BEAC-8A5DF46C1920&folderId=20922C230710160751528861"
+        },
+        {
+          "docName": "SITE_JULY 10, 2023-nfp",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=EE6AB7E0-AD5F-4A9E-90FF-C9B31BF35074&folderId=20922C230710160751528861"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -9879,11 +9889,23 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1686639600,
           "endDate": 1686812400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1689750000,
+          "endDate": 1690354800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1689750000,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1686812400,
+      "lastUpdated": 1690454789,
       "relatedPermits": []
     },
     {
@@ -9915,7 +9937,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -14271,7 +14293,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": []
     },
     {
@@ -29590,7 +29612,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": []
     },
     {
@@ -30112,7 +30134,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": []
     },
     {
@@ -30161,7 +30183,7 @@
         "822 CATHERINE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct a 27 unit affordable rental building with ground floor commercial.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a 27 unit rental building with ground floor commercial.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -30190,7 +30212,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -53586,6 +53608,10 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DD0797B0-EA4E-4BC8-BCC5-CAD7C2B9F985&folderId=02073C210301112208509754"
         },
         {
+          "docName": "2023-07-24 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=44450C230726085915692269&folderId=02073C210301112208509754"
+        },
+        {
           "docName": "2023-07-24 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=43687C230724132511351315&folderId=02073C210301112208509754"
         },
@@ -53595,7 +53621,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000595",
@@ -59545,7 +59571,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -60812,7 +60838,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690368367,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00236",
@@ -61960,6 +61986,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -61986,10 +62018,14 @@
         {
           "docName": "2023-04-19 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=96769831-90B1-4072-A26C-29F8D6345B6E&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "23-07-25 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D00907D7-6ACE-4666-850A-61F392BE49B5&folderId=15938C230421091532521120"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1687762800,
+      "lastUpdated": 1690454789,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
