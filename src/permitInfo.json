@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1690454499,
+  "dateRetrieved": 1690540879,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -7991,7 +7991,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": []
     },
     {
@@ -8735,7 +8735,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00734",
@@ -9149,16 +9149,16 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A3D498FE-8DEB-40AC-9C94-766A669271D6&folderId=20922C230710160751528861"
         },
         {
-          "docName": "LANDSCAPE PLAN_JULY 10, 2023",
+          "docName": "PLEASE DELETE",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=51857C48-3AA8-44BC-BEAC-8A5DF46C1920&folderId=20922C230710160751528861"
         },
         {
-          "docName": "SITE_JULY 10, 2023-nfp",
+          "docName": "PLEASE DELETE",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=EE6AB7E0-AD5F-4A9E-90FF-C9B31BF35074&folderId=20922C230710160751528861"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -9905,7 +9905,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": []
     },
     {
@@ -9937,7 +9937,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -14293,7 +14293,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": []
     },
     {
@@ -18291,6 +18291,58 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1132 JOHNSON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000634",
+      "applicationDate": 1690441200,
+      "addresses": [
+        "1132 JOHNSON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Delegated Development Permit application to construct an affordable housing multiple dwelling.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1690441200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2023-07-27 - Letter to Development Services.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=45093C230727124207814362&folderId=44875C230727122947637290"
+        },
+        {
+          "docName": "2023-07-27 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=43CE0707-FA60-4D8F-AE8B-27AA7B530379&folderId=44875C230727122947637290"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1690441200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "584 JOHN ST",
@@ -27795,12 +27847,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=895D0396-0233-4156-AC17-29E5400F5583&folderId=91234C220117123447781976"
         },
         {
-          "docName": "2023-04-24 - Plans - Revisions.pdf",
+          "docName": "FINAL APPROVED PLANS",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FDEE21E4-55A9-44EE-B41A-BFB49616CFBE&folderId=91234C220117123447781976"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1688626800,
+      "lastUpdated": 1690541167,
       "relatedPermits": []
     },
     {
@@ -27815,11 +27867,11 @@
         "628 MANCHESTER RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application concurrent with Rezoning Application #00803 SEE CONCURRENT REZONING APPLICATION #REZ00803 FOR PROJECT DETAILS.",
+      "purpose": "The City is considering a Rezoning application to construct a three-storey, multiple dwelling consisting of 11 dwelling units and connected by a common courtyard amenity space. Concurrent with Rezoning Application #00803",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1639724400,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00803",
@@ -29612,7 +29664,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": []
     },
     {
@@ -30134,7 +30186,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": []
     },
     {
@@ -30212,7 +30264,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -53621,7 +53673,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000595",
@@ -57146,7 +57198,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00195",
@@ -59571,7 +59623,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -60420,10 +60472,18 @@
         {
           "docName": "2023-07-12 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=689552B5-6CB1-4FD8-A0E0-85AD463D2ED8&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-07-27 - Plans - Revisions - bubbled - Deemed July 12, 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9B1D2F91-A424-4DF6-B4AB-471DE0667D96&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-07-27 - Plans - Revisions - Deemed July 12, 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2506DA5E-4EAF-4161-8243-2305AE286D17&folderId=61288C220927141506591408"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000623",
@@ -60838,7 +60898,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00236",
@@ -62025,7 +62085,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690454789,
+      "lastUpdated": 1690541167,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
