@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1690540879,
+  "dateRetrieved": 1690627365,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -7298,6 +7298,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1683788400,
+          "endDate": 1690527600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1690527600,
+          "endDate": 1690527600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1690527600,
           "endDate": null
         }
       ],
@@ -7324,7 +7336,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1683788400,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00728",
@@ -7991,7 +8003,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": []
     },
     {
@@ -8735,7 +8747,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00734",
@@ -9158,7 +9170,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -9905,7 +9917,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": []
     },
     {
@@ -9937,7 +9949,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -14293,7 +14305,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": []
     },
     {
@@ -18309,12 +18321,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1690441200,
-          "endDate": null
+          "endDate": 1690527600
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1690527600,
           "endDate": null
         },
         {
@@ -18341,7 +18353,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690441200,
+      "lastUpdated": 1690527600,
       "relatedPermits": []
     },
     {
@@ -27852,7 +27864,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": []
     },
     {
@@ -27871,7 +27883,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00803",
@@ -29664,7 +29676,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": []
     },
     {
@@ -30186,7 +30198,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": []
     },
     {
@@ -30264,7 +30276,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -30277,6 +30289,70 @@
         {
           "relatedPermitID": "CLC00331",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "827 FORT ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00244",
+      "applicationDate": 1690527600,
+      "addresses": [
+        "827 FORT ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application for 119 unit rental building while retaining the façade of the Heritage Designated building located at 825 Fort Street.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1690527600,
+          "endDate": 1690527600
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1690527600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1690527600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00257",
+          "relatedPermitType": "Development Variance Permit"
+        },
+        {
+          "relatedPermitID": "DPV00169",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "HAV00009",
+          "relatedPermitType": "Heritage Alteration with Variance"
+        },
+        {
+          "relatedPermitID": "REZ00621",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00058",
+          "relatedPermitType": "Development Permit with Variance"
         }
       ]
     },
@@ -53673,7 +53749,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000595",
@@ -57198,7 +57274,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00195",
@@ -59623,7 +59699,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -60483,7 +60559,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000623",
@@ -60898,7 +60974,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00236",
@@ -61399,17 +61475,17 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1679641200,
+          "endDate": 1690527600
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1690527600,
           "endDate": null
         },
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -61438,12 +61514,20 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16E545D4-0E69-4FDB-90C3-AEB87A0F433E&folderId=01974C230302151324660459"
         },
         {
+          "docName": "2023-07-28 - Letter to Council - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88F960B0-6514-48E7-8386-37E80617F111&folderId=01974C230302151324660459"
+        },
+        {
+          "docName": "2023-07-28 - Plans - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14C6BC01-7227-426F-B878-7DBC01B2D738&folderId=01974C230302151324660459"
+        },
+        {
           "docName": "Letter to  Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DB903176-D14B-4BC7-AFA7-0CCB9935A1F9&folderId=01974C230302151324660459"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1679641200,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00399",
@@ -62085,7 +62169,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690541167,
+      "lastUpdated": 1690627652,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
