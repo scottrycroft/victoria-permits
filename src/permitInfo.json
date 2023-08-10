@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1691577683,
+  "dateRetrieved": 1691664066,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -512,7 +512,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -802,7 +802,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -1181,7 +1181,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -1570,7 +1570,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -1826,7 +1826,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -2616,8 +2616,8 @@
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1691564400,
+          "endDate": 1691564400
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -2658,7 +2658,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1688626800,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "HRA00012",
@@ -3899,7 +3899,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -8005,7 +8005,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -9015,7 +9015,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -9195,7 +9195,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -14298,8 +14298,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
-      "relatedPermits": []
+      "lastUpdated": 1691664359,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00857",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00245",
+          "relatedPermitType": "Development Permit with Variance"
+        }
+      ]
     },
     {
       "primaryStreetName": "1276 GLADSTONE AVE",
@@ -19488,7 +19497,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -28320,7 +28329,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": []
     },
     {
@@ -30130,7 +30139,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -30360,7 +30369,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -30421,7 +30430,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00257",
@@ -30442,6 +30451,59 @@
         {
           "relatedPermitID": "DPV00058",
           "relatedPermitType": "Development Permit with Variance"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "350 DOUGLAS ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00245",
+      "applicationDate": 1691564400,
+      "addresses": [
+        "350 DOUGLAS ST",
+        "360 DOUGLAS ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to construction a multiple dwelling.See REZ00857 for project details.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1691564400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00857",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00413",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -52462,7 +52524,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -53012,7 +53074,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000590",
@@ -54152,7 +54214,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000596",
@@ -57112,7 +57174,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00188",
@@ -59104,7 +59166,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00279",
@@ -60104,7 +60166,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00214",
@@ -60229,10 +60291,22 @@
         {
           "docName": "2023-05-01 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AA80FFA4-241F-4616-80C9-9A6AA3CD92EC&folderId=41855C220714081812860705"
+        },
+        {
+          "docName": "2023-08-08 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A2BDF13E-7A01-45E5-BA59-2C63FEDEFA13&folderId=41855C220714081812860705"
+        },
+        {
+          "docName": "2023-08-08 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FD65863C-B045-4A13-A5F6-3C990EA24909&folderId=41855C220714081812860705"
+        },
+        {
+          "docName": "2023-08-08 - Plans Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D4AC4C9F-58C2-4175-8288-FE9C086E6476&folderId=41855C220714081812860705"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00212",
@@ -60764,10 +60838,18 @@
         {
           "docName": "2023-03-16 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FCF551FE-F039-4CF0-A4F8-8AC989640F79&folderId=77903C221201105754910296"
+        },
+        {
+          "docName": "2023-08-09 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AD0D579D-E490-4D2E-9897-30AED6539786&folderId=77903C221201105754910296"
+        },
+        {
+          "docName": "2023-08-09 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2AB2F768-30E1-4D1C-BE5A-8405DD3F60EC&folderId=77903C221201105754910296"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1678950000,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00220",
@@ -62099,7 +62181,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -62282,7 +62364,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691577979,
+      "lastUpdated": 1691664359,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -62723,6 +62805,86 @@
         },
         {
           "relatedPermitID": "CLC00412",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "350 DOUGLAS ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00857",
+      "applicationDate": 1691564400,
+      "addresses": [
+        "350 DOUGLAS ST",
+        "360 DOUGLAS ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to allow for 3 apartment buildings. Concurrent with DPV00245.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1691564400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2023-08-09 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A95C91FC-FA37-4797-A611-7D25D08C4E97&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2023-08-09 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=91678F47-FA40-4033-8FF8-3F2F920AC91B&folderId=48037C230809101541209990"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1691564400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00245",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00413",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
