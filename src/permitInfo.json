@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1691750477,
+  "dateRetrieved": 1691837374,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -512,7 +512,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -802,7 +802,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -1181,7 +1181,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -1570,7 +1570,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -1826,7 +1826,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -2658,7 +2658,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "HRA00012",
@@ -3899,7 +3899,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -4186,7 +4186,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "ADP00160",
@@ -4313,7 +4313,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -4453,6 +4453,80 @@
         {
           "relatedPermitID": "ADP00161",
           "relatedPermitType": "ADVISORY DESIGN PANEL"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2445 LANSDOWNE RD",
+      "applicant": "FINLAYSON BONET ARCHITECTURE",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00142",
+      "applicationDate": 1691737200,
+      "addresses": [
+        "2445 LANSDOWNE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development variance permit.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1691737200,
+          "endDate": 1691737200
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING # 1",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING # 2",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1691737200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ADP00164",
+          "relatedPermitType": "ADVISORY DESIGN PANEL"
+        },
+        {
+          "relatedPermitID": "BP015069",
+          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
+        },
+        {
+          "relatedPermitID": "BP015044",
+          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
         }
       ]
     },
@@ -8005,7 +8079,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -9015,7 +9089,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -9195,7 +9269,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -9905,7 +9979,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -14304,7 +14378,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00857",
@@ -19503,7 +19577,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -28335,7 +28409,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -29709,7 +29783,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00660",
@@ -30155,7 +30229,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -30385,7 +30459,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -30446,7 +30520,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00257",
@@ -52540,7 +52614,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -53090,7 +53164,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000590",
@@ -53748,7 +53822,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000594",
@@ -54244,7 +54318,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000596",
@@ -57204,7 +57278,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00188",
@@ -58468,7 +58542,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -59202,7 +59276,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00279",
@@ -59522,6 +59596,12 @@
           "endDate": 1691650800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1691737200,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -59547,7 +59627,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00207",
@@ -60202,7 +60282,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00214",
@@ -60348,7 +60428,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00212",
@@ -60891,7 +60971,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00220",
@@ -62039,7 +62119,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": []
     },
     {
@@ -62227,7 +62307,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -62410,7 +62490,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691750770,
+      "lastUpdated": 1691837926,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
