@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1692268893,
+  "dateRetrieved": 1692355289,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -512,7 +512,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -802,7 +802,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -1181,7 +1181,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -1277,7 +1277,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -1570,7 +1570,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -1826,7 +1826,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -2658,7 +2658,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "HRA00012",
@@ -3899,7 +3899,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -4186,7 +4186,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "ADP00160",
@@ -4313,7 +4313,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -6662,7 +6662,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -6840,7 +6840,25 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1692082800,
-          "endDate": null
+          "endDate": 1692255600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1692169200,
+          "endDate": 1692255600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1692255600,
+          "endDate": 1692255600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1692255600,
+          "endDate": 1692255600
         }
       ],
       "documents": [
@@ -6854,7 +6872,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20531",
@@ -7993,7 +8011,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -8174,7 +8192,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -9184,7 +9202,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -9355,8 +9373,12 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A3D498FE-8DEB-40AC-9C94-766A669271D6&folderId=20922C230710160751528861"
         },
         {
-          "docName": "PLEASE DELETE",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=51857C48-3AA8-44BC-BEAC-8A5DF46C1920&folderId=20922C230710160751528861"
+          "docName": "LANDSCAPE_JULY 21, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E8132CB1-F170-49D1-822C-858C5E5DF5AC&folderId=20922C230710160751528861"
+        },
+        {
+          "docName": "SHADOW STUDY_JULY 10, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=551644A0-E70E-48CD-A7EE-3D5904D028CE&folderId=20922C230710160751528861"
         },
         {
           "docName": "SITE_JULY 10, 2023-nfp.pdf",
@@ -9364,7 +9386,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -10074,7 +10096,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -10237,6 +10259,40 @@
         },
         {
           "relatedPermitID": "DVP00507",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "502 RIDGEBANK CRES",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00744",
+      "applicationDate": 1692255600,
+      "addresses": [
+        "502 RIDGEBANK CRES"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1692255600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00946",
+          "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "DVP00508",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         }
       ]
@@ -14277,7 +14333,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -14482,7 +14538,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00857",
@@ -14523,7 +14579,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -19681,7 +19737,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -28513,7 +28569,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -29131,7 +29187,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00828",
@@ -29887,7 +29943,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00660",
@@ -30250,27 +30306,27 @@
           "endDate": 1685516400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1687503600,
+          "endDate": 1692169200
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1692169200,
+          "endDate": 1692255600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1685516400,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1687503600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1692169200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1692255600,
           "endDate": null
         },
         {
@@ -30297,7 +30353,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00687",
@@ -30333,7 +30389,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -30563,7 +30619,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -30624,7 +30680,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00257",
@@ -52770,7 +52826,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -53320,7 +53376,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000590",
@@ -53978,7 +54034,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000594",
@@ -54474,7 +54530,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000596",
@@ -57434,7 +57490,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00188",
@@ -58698,7 +58754,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -59432,7 +59488,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00279",
@@ -59783,7 +59839,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00207",
@@ -60438,7 +60494,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00214",
@@ -60584,7 +60640,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00212",
@@ -60764,7 +60820,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00216",
@@ -60933,9 +60989,15 @@
           "endDate": 1689145200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1690786800,
+          "endDate": 1692255600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1689145200,
+          "startDate": 1692255600,
           "endDate": null
         },
         {
@@ -61013,10 +61075,18 @@
         {
           "docName": "2023-07-27 - Plans - Revisions - Deemed July 12, 2023.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2506DA5E-4EAF-4161-8243-2305AE286D17&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-08-17 - Plans - Revisions - bubbled - Deemed July 12, 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D6201615-F427-45DF-88AA-ED2E310CF105&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-08-17 - Plans - Revisions - Deemed July 12, 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B7411C49-A47A-4C11-8E86-23A21F27E71E&folderId=61288C220927141506591408"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691059574,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000623",
@@ -61127,7 +61197,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00220",
@@ -62275,7 +62345,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -62463,7 +62533,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -62646,7 +62716,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -63085,7 +63155,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1692269192,
+      "lastUpdated": 1692355647,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000633",
@@ -64037,7 +64107,7 @@
       "purpose": "The applicant requests a permit to enable the construction of a detached garage (accessory building) in the rear yard, and requires the following variances: 1. A variance to the side yard setback from 1.2 m to 0.9 m; 2. A variance to the minimum separation setback between buildings from 3.0 m to 1.7 m and a variance to the minimum required setback between eaves from 3.0m to 0.0m.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Approved - Apr 4, 2023",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -64060,7 +64130,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1680591600,
+      "lastUpdated": 1692355647,
       "relatedPermits": []
     },
     {
@@ -64244,6 +64314,82 @@
       "withApplicantDays": null,
       "city": "View Royal",
       "lastUpdated": 1680332400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "25 Chancellor Ave",
+      "applicant": "",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP 2023-07",
+      "applicationDate": 0,
+      "addresses": [
+        "25 Chancellor Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Description:",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Letter to Mayor & Counci [PDF - 153 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-07 LMC.pdf"
+        },
+        {
+          "docName": "2023 05 25 Plans [PDF - 644 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-07 Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1684998000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1517 Admirals Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP 2023-08",
+      "applicationDate": 0,
+      "addresses": [
+        "1517 Admirals Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Variance to reduce parking requirements by 7 spaces to 247 spaces for the site to permit a second restaurant in the building at 1517 Admirals Rd.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Letter to Mayor & Council [PDF - 218 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-08 LMC.pdf"
+        },
+        {
+          "docName": "2023 12 05 Site Plan [PDF - 1 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-08 Site Plan.pdf"
+        },
+        {
+          "docName": "2023 09 05 Public Notice [PDF - 500 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 09 05 DVP 2023-08 Notice.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1701759600,
       "relatedPermits": []
     },
     {
