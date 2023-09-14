@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1694601700,
+  "dateRetrieved": 1694688122,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -3923,7 +3923,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": []
     },
     {
@@ -3946,26 +3946,20 @@
           "endDate": 1679036400
         },
         {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1689058800,
+          "endDate": 1694415600
         },
         {
           "taskDescription": "Meeting date of Council for initial consideration of the application",
           "taskType": "COUNCIL MEETING # 1",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
           "endDate": null
         },
@@ -3989,7 +3983,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1679036400,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00026",
@@ -4210,7 +4204,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "ADP00160",
@@ -4319,8 +4313,8 @@
         {
           "taskDescription": "Meeting date of Council for initial consideration of the application",
           "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1694415600,
+          "endDate": 1694588400
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
@@ -4337,7 +4331,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": []
     },
     {
@@ -4502,20 +4496,20 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1694588400,
+          "endDate": 1694588400
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1694588400,
+          "endDate": 1694588400
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1694588400,
+          "endDate": 1694588400
         },
         {
           "taskDescription": "Meeting date of Council for initial consideration of the application",
@@ -4538,7 +4532,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1691737200,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "ADP00164",
@@ -4598,12 +4592,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
           "startDate": null,
@@ -4617,7 +4605,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1692082800,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "BP015562",
@@ -9027,7 +9015,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -9084,6 +9072,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1685948400,
+          "endDate": 1694588400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1694588400,
           "endDate": null
         }
       ],
@@ -9102,7 +9096,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1694516125,
+      "lastUpdated": 1694688432,
       "relatedPermits": []
     },
     {
@@ -9608,18 +9602,24 @@
         "738 MILLER AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE A PORTION OF THE LOT FROM A-1 TO RS-4 TO CREATE THREE LOTS AND REZONE THE REMAINDER TO RS-6 TO CREATE TWO PANHANDLE LOTS FOR TOTAL OF FIVE LOTS. VARIANCES FOR SETBACKS ARE REQUESTED. A STREAMSIDE DEVELOPMENT PERMIT IS ALSO REQUIRED.",
+      "purpose": "*STREAMSIDE* TO REZONE A PORTION OF THE LOT FROM A-1 TO RS-4 TO CREATE THREE LOTS AND REZONE THE REMAINDER TO RS-6 TO CREATE TWO PANHANDLE LOTS FOR TOTAL OF FIVE LOTS. VARIANCES FOR SETBACKS ARE REQUESTED. A STREAMSIDE DEVELOPMENT PERMIT IS ALSO REQUIRED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1694588400,
+          "endDate": 1694588400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1694588400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1692082800,
+      "lastUpdated": 1694588400,
       "relatedPermits": []
     },
     {
@@ -9716,7 +9716,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1694516125,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00925",
@@ -9833,7 +9833,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00509",
@@ -10126,7 +10126,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -10221,7 +10221,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1694516125,
+      "lastUpdated": 1694688432,
       "relatedPermits": []
     },
     {
@@ -30236,6 +30236,12 @@
           "endDate": 1689663600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1694588400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -30263,7 +30269,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1694688432,
       "relatedPermits": []
     },
     {
@@ -49775,10 +49781,18 @@
         {
           "docName": "2022-09-14 - Rezoning Overview",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E4976A97-2F0A-4F81-9A8F-D0AAE76ABAD9&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "2023-09-13 - Appendix F - transportation and mobility.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=57583C230913095641344126&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "2023-09-13 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DC7E2B73-ECEC-4A69-88F9-9FE41CF4189D&folderId=97652C200130130718936158"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1683183600,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00348",
@@ -55560,7 +55574,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1694516125,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000635",
@@ -58801,7 +58815,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
@@ -61673,7 +61687,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00247",
@@ -63826,11 +63840,17 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1691650800,
-          "endDate": null
+          "endDate": 1694156400
         },
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
+          "startDate": 1694156400,
+          "endDate": 1694156400
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -63870,7 +63890,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1691650800,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00245",
@@ -63955,7 +63975,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1694602009,
+      "lastUpdated": 1694688432,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
