@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1695984165,
+  "dateRetrieved": 1696070504,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -2488,6 +2488,12 @@
           "endDate": 1684134000
         },
         {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": 1686639600,
+          "endDate": 1693551600
+        },
+        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": 1694156400,
@@ -2504,12 +2510,6 @@
           "taskType": "ADVISORY BODY MEETING",
           "startDate": 1695106800,
           "endDate": 1695193200
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": 1686639600,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
@@ -2531,7 +2531,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696070827,
       "relatedPermits": []
     },
     {
@@ -8770,6 +8770,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1692860400,
+          "endDate": 1695970800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1695970800,
           "endDate": null
         }
       ],
@@ -8788,7 +8794,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1694516125,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00731",
@@ -19819,7 +19825,7 @@
     },
     {
       "primaryStreetName": "902 FOUL BAY RD",
-      "applicant": "N/A",
+      "applicant": "LIV MCMAHON",
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000638",
@@ -19834,12 +19840,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1695884400,
-          "endDate": null
+          "endDate": 1695970800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1695970800,
           "endDate": null
         },
         {
@@ -19855,9 +19861,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2023-09-28 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5D3C40EC-34A7-4DDA-A27B-315756DB5FEC&folderId=62078C230928155731622796"
+        },
+        {
+          "docName": "2023-09-28 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F8C2FAC4-AC99-425E-9603-56A6A6FD8ECE&folderId=62078C230928155731622796"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1695884400,
+      "lastUpdated": 1696070827,
       "relatedPermits": []
     },
     {
@@ -25158,7 +25173,7 @@
         "956 HEYWOOD AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct a 4-storey multiple dwelling building with variances.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a 4-storey multiple dwelling building with variances. Approved by Council September 28, 2023",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -25295,8 +25310,8 @@
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1695884400,
+          "endDate": 1695884400
         },
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
@@ -25368,7 +25383,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00689",
@@ -29661,7 +29676,7 @@
         "2312 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for a four-storey industrial building with light industrial and complementary retail uses on the ground floor and self-storage (warehouse) in the remainder of the building. The variance is related to parking and setbacks.",
+      "purpose": "The City is considering a Development Permit with Variance application for a four-storey industrial building with light industrial and complementary retail uses on the ground floor and self-storage (warehouse) in the remainder of the building. The variance is related to parking and setbacks. Approved by Council September 28, 2023",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -29736,15 +29751,15 @@
           "endDate": 1691046000
         },
         {
+          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": 1695884400,
+          "endDate": 1695884400
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1689145200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
           "endDate": null
         }
       ],
@@ -29771,7 +29786,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696070827,
       "relatedPermits": []
     },
     {
@@ -31793,15 +31808,15 @@
           "endDate": 1694415600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1687762800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1694415600,
+          "endDate": 1695970800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1687762800,
           "endDate": null
         },
         {
@@ -31832,7 +31847,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1694516125,
+      "lastUpdated": 1696070827,
       "relatedPermits": []
     },
     {
@@ -32268,35 +32283,10 @@
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Development Permit with Variance application to construct a multiple dwelling. See REZ00861 for project details.",
-      "progressSections": [
-        {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
+      "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00861",
@@ -54832,14 +54822,14 @@
           "endDate": 1690441200
         },
         {
-          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
-          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
           "endDate": null
         },
@@ -54913,7 +54903,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000590",
@@ -55664,15 +55654,15 @@
           "endDate": 1689750000
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1694674800,
+          "endDate": 1694674800
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1689750000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -55753,7 +55743,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000595",
@@ -56533,8 +56523,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1692774000,
+          "endDate": 1692774000
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -56572,7 +56562,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000635",
@@ -57376,9 +57366,21 @@
           "endDate": 1688022000
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1694674800,
+          "endDate": 1694674800
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1670223600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -57390,18 +57392,6 @@
         {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Council Meeting - Public Comment",
           "startDate": null,
           "endDate": null
         }
@@ -57449,7 +57439,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000603",
@@ -59553,15 +59543,15 @@
           "endDate": 1688022000
         },
         {
+          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": 1695884400,
+          "endDate": 1695884400
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1677222000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -59702,7 +59692,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00190",
@@ -59770,16 +59760,16 @@
           "endDate": 1689231600
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1694674800,
+          "endDate": 1694674800
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1689231600,
           "endDate": 1695711600
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -59837,7 +59827,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
@@ -62662,8 +62652,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1694674800,
+          "endDate": 1694674800
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -62749,7 +62739,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00247",
@@ -65269,7 +65259,7 @@
     },
     {
       "primaryStreetName": "50 GOVERNMENT ST",
-      "applicant": "N/A",
+      "applicant": "MIKE JONES",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00861",
@@ -65283,13 +65273,13 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1695970800,
+          "endDate": 1695970800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1695970800,
           "endDate": null
         },
         {
@@ -65334,7 +65324,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1696070827,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00251",
