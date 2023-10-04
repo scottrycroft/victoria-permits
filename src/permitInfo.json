@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1696329691,
+  "dateRetrieved": 1696416096,
   "permits": [
     {
       "primaryStreetName": "429 Lampson Street",
@@ -9697,7 +9697,7 @@
         "3517 LORRAINE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "***GARDEN SUITE*** TO CONSTRUCT A NEW GARDEN SUITE ON A LARGE LOT",
+      "purpose": "**GARDEN SUITE** TO CONSTRUCT A NEW GARDEN SUITE ON A LARGE LOT",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -9741,7 +9741,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1694516125,
+      "lastUpdated": 1696416417,
       "relatedPermits": []
     },
     {
@@ -10078,7 +10078,7 @@
         "706 BROOKRIDGE PL"
       ],
       "status": "ACTIVE",
-      "purpose": "***STREAMSIDE DP***ADDING STAIRS TO AN EXISTING DECK",
+      "purpose": "**STREAMSIDE DP** ADDING STAIRS TO AN EXISTING DECK",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -10095,7 +10095,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696416417,
       "relatedPermits": []
     },
     {
@@ -10141,7 +10141,7 @@
         "4213 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RD-1 (2 UNITS) TO TBD ZONE FOR A RESIDENTIAL 18 MULTI FAMILY COMPLEX -VARIANCES REQUESTED 6 of 3-4 Bedroom, 6 of 2 bedroom and 6 of 1 bedrooms",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -10152,7 +10152,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1695711600,
+      "lastUpdated": 1696416417,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -10748,6 +10748,18 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1695625200,
+          "endDate": 1695625200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1695711600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
@@ -10759,7 +10771,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696416417,
       "relatedPermits": []
     },
     {
@@ -11115,7 +11127,7 @@
         "4213 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RD-1 (2 UNITS) TO TBD ZONE FOR A RESIDENTIAL 18 MULTI FAMILY COMPLEX -VARIANCES REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -11126,7 +11138,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1695711600,
+      "lastUpdated": 1696416417,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01050",
@@ -20803,15 +20815,21 @@
           "endDate": 1689231600
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1695798000,
+          "endDate": 1696316400
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1689231600,
           "endDate": null
         },
         {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1695798000,
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1696316400,
           "endDate": null
         },
         {
@@ -20950,7 +20968,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1696416417,
       "relatedPermits": []
     },
     {
@@ -32286,7 +32304,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1696243629,
+      "lastUpdated": 1696416417,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00861",
@@ -50753,10 +50771,30 @@
         {
           "docName": "2023-09-13 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DC7E2B73-ECEC-4A69-88F9-9FE41CF4189D&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "2023-09-27 - Appendix A - Conservation Strategy.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62969C231003085108928936&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "2023-09-27 - Appendix C - Policy Analysis.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62969C231003085108989103&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "2023-09-28 - Appendix G - Site Servicing.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62969C231003085109000190&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "2023-09-28 - Design Guidlines.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62969C231003085109028927&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "2023-10-03 - Appendix E - Public Consultation.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62969C231003085109049237&folderId=97652C200130130718936158"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1696416417,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00348",
@@ -65324,7 +65362,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1696243629,
+      "lastUpdated": 1696416417,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00251",
@@ -66404,6 +66442,186 @@
       "withApplicantDays": null,
       "city": "View Royal",
       "lastUpdated": 1695811635,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "33 helmcken Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP 2023-09",
+      "applicationDate": 0,
+      "addresses": [
+        "33 helmcken Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Application to consider the installation of four level 3 electric vehicle charging stations, and to request a variance to reduce the number of required parking spaces",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Letter to Mayor & Council [PDF - 623 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-03 Ltr to M&C.pdf"
+        },
+        {
+          "docName": "2023 04 24 Plans [PDF - 10 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-03 Plans.pdf"
+        },
+        {
+          "docName": "Letter to Mayor & Council [PDF - 218 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-08 LMC.pdf"
+        },
+        {
+          "docName": "2023 12 05 Site Plan [PDF - 1 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-08 Site Plan.pdf"
+        },
+        {
+          "docName": "2023 09 05 Public Notice [PDF - 500 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 09 05 DVP 2023-08 Notice.pdf"
+        },
+        {
+          "docName": "Letter to Mayor & Council [PDF - 153 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-07 LMC.pdf"
+        },
+        {
+          "docName": "2023 05 25 Plans [PDF - 644 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-07 Plans.pdf"
+        },
+        {
+          "docName": "2023 10 03 Public Notice [PDF - 151 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 10 03 DVP 2023-07 Notice.pdf"
+        },
+        {
+          "docName": "Letter to Mayor & Council [PDF - 596 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-06 Ltr to M&C.pdf"
+        },
+        {
+          "docName": "2023 04 Plans [PDF - 316 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-06 Plan.pdf"
+        },
+        {
+          "docName": "Letter to Mayor & Council [PDF - 202 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-05 ltr to M&C.pdf"
+        },
+        {
+          "docName": "2023 03 28 Plans [PDF - 4 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP-2023-05  Plan.pdf"
+        },
+        {
+          "docName": "Letter to Mayor & Council [PDF - 650 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-04 LTM.pdf"
+        },
+        {
+          "docName": "2023 03 10 Plan [PDF - 1 MB] [PDF - 1 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-04 Plan March 10 (1).pdf"
+        },
+        {
+          "docName": "Letter to Mayor & Council [PDF - 41 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-02 LTC.pdf"
+        },
+        {
+          "docName": "2023 01 30 Plans [PDF - 1 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-02 Plans Jan 30.pdf"
+        },
+        {
+          "docName": "2023 05 09 Staff Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/62553/Development%20Variance%20Permit%20-%2081%20High%20Street.pdf?handle=16ECAF48D92A4DBEB97D0DC375FB2DED"
+        },
+        {
+          "docName": "2023 06 06 Public Notice [PDF - 147 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 06 06 DVP 81 High St.pdf"
+        },
+        {
+          "docName": "2023 06 06 Staff Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/62930/Development%20Variance%20Permit%202023-02%20-%2081%20High%20Stre.pdf?handle=7D3F9B80FCDC45FAAC6277A9B1C53CE2"
+        },
+        {
+          "docName": "Letter to Mayor & Council [PDF - 364 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-01 LTC.pdf"
+        },
+        {
+          "docName": "2023 Plans [PDF - 2 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DVP 2023-01 Plans Mar 2.pdf"
+        },
+        {
+          "docName": "2023 04 04 Public Notice [PDF - 266 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 03 14 DVP Notice -305 Anya Crt.pdf"
+        },
+        {
+          "docName": "2022 11 08 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/57109/Development Variance Permit Application 2022-05 - .pdf?handle=B9C786161A1F4FD79D2719A02D833531"
+        },
+        {
+          "docName": "2022 11 08 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/57190/Staff Presentation - DVP - 1681 Island Highway.pdf?handle=B5385BB85AE14A238D2E0C931A16261D"
+        },
+        {
+          "docName": "2022 12 06 Council Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/57661/Development%20Variance%20Permit%20Application%202022-05%20-%20.pdf?handle=1F9011099FF14C3D9B2BD4D5F87BE837"
+        },
+        {
+          "docName": "2022 12 06 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/57862/Staff%20Presentation%20-%20Development%20Variance%20Permit%20-.pdf?handle=48DB5ADCF4BC45F3AACF8413A4610B94"
+        },
+        {
+          "docName": "2022 09 20 Public Notice [PDF - 183 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2022/2022 09 20 DVP 49 Tovey Notice.pdf"
+        },
+        {
+          "docName": "2022 09 06 Staff Report",
+          "docURL": "http://viewroyalbc.civicweb.net/document/56434/Development%20Variance%20Permit%20No.%202022-04%20-%2049%20Tovey.pdf?handle=E9E6F74B238B4A32BD95EF4C712819E8"
+        },
+        {
+          "docName": "2022 09 06 Staff Presentation",
+          "docURL": "http://viewroyalbc.civicweb.net/document/56498/Staff%20Presentation%20-%20Development%20Variance%20Permit%20-.pdf?handle=F3ADC26C41FF4AE896A1B8A882D4B6E1"
+        },
+        {
+          "docName": "2022 07 12 COW Report",
+          "docURL": "http://viewroyalbc.civicweb.net/document/55996/Development%20Variance%20Permit%202022-03%20-%202446%20Lund%20Ro.pdf?handle=B7DA132BC40F4701B12B5D65DE616AEE"
+        },
+        {
+          "docName": "2022 07 12 Staff Presentation",
+          "docURL": "http://viewroyalbc.civicweb.net/document/56003/2446%20Lund%20Road.pdf?handle=009D2FE1A4C24C1A92CB8B08C581AA7D"
+        },
+        {
+          "docName": "2022 09 06 Council Report",
+          "docURL": "http://viewroyalbc.civicweb.net/document/56433/Development%20Variance%20Permit%20No.%202022-03%20-%202446%20Lun.pdf?handle=D64A19E4DB5C49DCA4FE940B4163ABF3"
+        },
+        {
+          "docName": "2022 09 06 Staff Presentation",
+          "docURL": "http://viewroyalbc.civicweb.net/document/56499/Staff%20Presentation%20-%20Development%20Variance%20Permit%20-.pdf?handle=604FB5605D8B435F8B6569EAB4BAD187"
+        },
+        {
+          "docName": "2022 04 12 COW Report",
+          "docURL": "http://viewroyalbc.civicweb.net/document/53833/Development%20Variance%20Permit%20-%20280%20Island%20Highway.pdf?handle=FDEE574C0E134C06A2CF4F50BF93F685"
+        },
+        {
+          "docName": "2022 04 12 Staff Presentation",
+          "docURL": "http://viewroyalbc.civicweb.net/document/53896/Staff%20Presentation%20-%20Development%20Variance%20Permit%20-.pdf?handle=59A5182F30B9471E8D06DB502B41EE4A"
+        },
+        {
+          "docName": "2022 07 06 Public Notice [PDF - 260 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2022/2022 07 19 DVP 2022-02 Notice.pdf"
+        },
+        {
+          "docName": "2022 07 19 Council Report",
+          "docURL": "http://viewroyalbc.civicweb.net/document/56080/Development%20Variance%20Permit%20-%20280%20Island%20Highway.pdf?handle=7ACBE295BCA642078C7FE73A5306341E"
+        },
+        {
+          "docName": "2022 07 19 Staff Presentation",
+          "docURL": "http://viewroyalbc.civicweb.net/document/56148/Staff%20Presentation%20-%20Development%20Variance%20Permit%202.pdf?handle=D13BD9B70A5D49B3BD25A8AF12B3F5E7"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1701759600,
       "relatedPermits": []
     },
     {
