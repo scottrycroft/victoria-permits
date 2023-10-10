@@ -1,6 +1,4623 @@
 {
-  "dateRetrieved": 1696889162,
+  "dateRetrieved": 1696934527,
   "permits": [
+    {
+      "primaryStreetName": "7103 BRENTWOOD DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL000927",
+      "applicationDate": 1645772400,
+      "addresses": [
+        "7103 BRENTWOOD DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001229",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1658732400,
+          "endDate": 1658732400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1658732400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001229",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        },
+        {
+          "relatedPermitID": "PL000902",
+          "relatedPermitType": "Subdivision"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6719 WEST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL000945",
+      "applicationDate": 1638342000,
+      "addresses": [
+        "6719 WEST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "For a tourist-oriented mixed use development with commercial, restaurant, temporary accommodation, and rental housing.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": 1691132400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6719 West Saanich_Plans_July 15 2022_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13044C230804150006028615&folderId=61560C200702152040682248"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1691132400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "938 VERDIER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001006",
+      "applicationDate": 1604991600,
+      "addresses": [
+        "938 VERDIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-2 to R-1XS for 3 lot Subdivision",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1604991600,
+          "endDate": 1604991600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "938 Verdier_Landscape Plans_Feb 21 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13337C230815123038113056&folderId=67574C201110120509174125"
+        },
+        {
+          "docName": "938 Verdier_Plans_Feb 27 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13337C230815123038123268&folderId=67574C201110120509174125"
+        },
+        {
+          "docName": "938 Verdier_Rationale Letter_Sep 18 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14570C230918143841890073&folderId=67574C201110120509174125"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1604991600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001008",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001007",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "938 VERDIER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001007",
+      "applicationDate": 1604991600,
+      "addresses": [
+        "938 VERDIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Please refer to Rezoning and/or OCP Amendment PL001006",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "938 Verdier_Plans_Feb 27 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13643C230824110413569743&folderId=67574C201110135303745083"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1604991600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001008",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001006",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6259 MARIE MEADOWS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001070",
+      "applicationDate": 1615446000,
+      "addresses": [
+        "6259 MARIE MEADOWS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1629097200,
+          "endDate": 1629097200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1694415600,
+          "endDate": 1694415600
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": 1695193200,
+          "endDate": 1695193200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6259 Marie Meadows_Plans_Feb 2 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13643C230823150634291029&folderId=74112C210311111819531798"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1695193200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001072",
+          "relatedPermitType": "Subdivision"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1741 VERLING AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001113",
+      "applicationDate": 1623826800,
+      "addresses": [
+        "1741 VERLING AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezoning in order to locate a veterinary hospital",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1629097200,
+          "endDate": 1629097200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": 1631689200,
+          "endDate": 1631689200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": 1634540400,
+          "endDate": 1634540400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": 1637564400,
+          "endDate": 1637564400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": 1638774000,
+          "endDate": 1638774000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1741 Verling_Revised Plans_Sep 22 2023.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14909C230927111310245762&folderId=77976C210531110849480547"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1638774000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "543 SENANUS DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001147",
+      "applicationDate": 1630479600,
+      "addresses": [
+        "543 SENANUS DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit for Marine Shoreline",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "543 Senanus_Letter of Rationale_Aug 31 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13643C230823145147711260&folderId=81942C210901110644490005"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1630479600,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6895 WOODWARD DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001154",
+      "applicationDate": 1631516400,
+      "addresses": [
+        "6895 WOODWARD DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Please refer to Rezoning and/or OCP Amendment PL001153",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1690354800,
+          "endDate": 1690354800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1690354800,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6895 Woodward_Revised Plans_June 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13643C230823142718618783&folderId=82612C210914093255271606"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1690354800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001155",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001153",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6922 SAANICH X RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001177",
+      "applicationDate": 1636009200,
+      "addresses": [
+        "6922 SAANICH X RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-1 to R-1XS (2Lots) and R-1S (retain existing house)",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1674716400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1674716400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001179",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001178",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6922 SAANICH X RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001178",
+      "applicationDate": 1636009200,
+      "addresses": [
+        "6922 SAANICH X RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Please refer to Rezoning and/or OCP Amendment PL001177",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1636009200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001179",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001177",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6822 VEYANESS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001204",
+      "applicationDate": 1643353200,
+      "addresses": [
+        "6822 VEYANESS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "LUB Text Amendmt for Monopole",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1690182000,
+          "endDate": 1690182000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": 1690182000,
+          "endDate": 1690182000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": 1690354800,
+          "endDate": 1690354800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": 1690354800,
+          "endDate": 1691132400
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6822 Veyaness_Plans_Aug 17 2021_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13044C230804144022326491&folderId=88890C220201113809912164"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1691132400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001205",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "755 HARDING LANE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001206",
+      "applicationDate": 1643698800,
+      "addresses": [
+        "755 HARDING LANE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "LUB Text Amendment for FSR in R-1S",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1674457200,
+          "endDate": 1674457200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": 1676271600,
+          "endDate": 1676271600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": 1679900400,
+          "endDate": 1679900400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": 1682319600,
+          "endDate": 1682319600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "755 Harding_Plans_March 2 2021_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13035C230804110047366286&folderId=88890C220201123506349859"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1682319600,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6536 RODOLPH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001208",
+      "applicationDate": 1643958000,
+      "addresses": [
+        "6536 RODOLPH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "DP for Infill - 2 Lots",
+      "progressSections": [
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": 1695193200,
+          "endDate": 1695193200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6536 Rodolph_Plans_March 30 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13454C230817115315608588&folderId=89239C220207125712495797"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1695193200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001209",
+          "relatedPermitType": "Subdivision"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1146 SLUGGETT RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001215",
+      "applicationDate": 1645081200,
+      "addresses": [
+        "1146 SLUGGETT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezoning for 2 lot Subdivision",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1146 Slugget_Final Plans_March 23 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13035C230804105228036583&folderId=90002C220218124100457933"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1645081200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001217",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001216",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1146 SLUGGETT RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001216",
+      "applicationDate": 1645081200,
+      "addresses": [
+        "1146 SLUGGETT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit Residential Infill",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1146 Slugget_Plans_March 23 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13454C230817113636271707&folderId=90002C220218124528183306"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1645081200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001217",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001215",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "7103 BRENTWOOD DR",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001229",
+      "applicationDate": 1646895600,
+      "addresses": [
+        "7103 BRENTWOOD DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-2 to R-1xs for 3 lot subdivision",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1658732400,
+          "endDate": 1658732400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1673247600,
+          "endDate": 1673247600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7103 Brentwood_Revised Plans_July 26 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13035C230804104253228001&folderId=90994C220310124646456515"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1673247600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL000902",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL000927",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1592 VERLING AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001236",
+      "applicationDate": 1648450800,
+      "addresses": [
+        "1592 VERLING AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The District has received an application for an amendment to Land Use Bylaw 2072 in order to allow an existing, occupied Carriage House and an existing, occupied secondary suite in the primary dwelling to remain as accessory dwelling units. Under the bylaw, only one or the other is permitted. The owner has been occupying the carriage house under a Temporary Use Permit for the past few years, which has now expired.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1695625200,
+          "endDate": 1695625200
+        },
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1648450800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1695625200,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "7701 EAST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001272",
+      "applicationDate": 1653634800,
+      "addresses": [
+        "7701 EAST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezoning from RM-1 to Residential Apartment Zone",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1686553200,
+          "endDate": 1686553200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": 1686553200,
+          "endDate": 1686553200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": 1687330800,
+          "endDate": 1687330800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": 1688972400,
+          "endDate": 1688972400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7701 East Saanich_Revised Landscape Plan_May 29 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13006C230803161621479548&folderId=94317C220527100552510095"
+        },
+        {
+          "docName": "7701 East Saanich_Revised Plans_June 15 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13006C230803161426927024&folderId=94317C220527100552510095"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1688972400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001273",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "7701 EAST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001273",
+      "applicationDate": 1653634800,
+      "addresses": [
+        "7701 EAST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001272",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1653634800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001272",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1206 MARCHANT RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001312",
+      "applicationDate": 1661410800,
+      "addresses": [
+        "1206 MARCHANT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "DP w/Variances for 2 Lot Subdivision",
+      "progressSections": [
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": 1689750000,
+          "endDate": 1689750000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": 1690182000,
+          "endDate": 1690182000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1690182000,
+          "endDate": 1690182000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1206 Marchant_Revised Plans_May 29 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13337C230815154940529592&folderId=98351C220825084517360004"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1690182000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001313",
+          "relatedPermitType": "Subdivision"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "8005 TURGOOSE TERR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001325",
+      "applicationDate": 1663916400,
+      "addresses": [
+        "8005 TURGOOSE TERR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit with variances for the installation of a private dock, including walkway, ramp, and float.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1676271600,
+          "endDate": 1676271600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "8005 Turgoose_Development Plans_Jan 24 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13337C230815152952454489&folderId=99683C220927092830927550"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1676271600,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6310 SPRINGLEA RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001359",
+      "applicationDate": 1673852400,
+      "addresses": [
+        "6310 SPRINGLEA RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-1 to R-1S and subdivide into 3 lots. Existing house (Lot B) to remain with two new lots. Variances requested for Lot B.",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1673852400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6310 Springlea_Letter of Rationale_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13006C230803125810491846&folderId=03498C230116134313112571"
+        },
+        {
+          "docName": "6310 Springlea_Plans_Jan 16 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13006C230803125810504449&folderId=03498C230116134313112571"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1673852400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001361",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001360",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6310 SPRINGLEA RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001360",
+      "applicationDate": 1673852400,
+      "addresses": [
+        "6310 SPRINGLEA RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001359",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1673852400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001361",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001359",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "7930 CENTRAL SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001367",
+      "applicationDate": 1674198000,
+      "addresses": [
+        "7930 CENTRAL SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "ALC approval will be required. Subdivision application pending consideration of REZ",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1674198000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plan of subdivision",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=C8983D03-45F6-4B42-83A4-E1A6E42F5FEB&folderId=04252C230120154123882892"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1674198000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "7944 WALLACE DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001382",
+      "applicationDate": 1676617200,
+      "addresses": [
+        "7944 WALLACE DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Garden Suite",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7944 Wallace_Plans_Feb 17 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13337C230815143944380479&folderId=05939C230217150048785305"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1676617200,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "7214 VEYANESS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001419",
+      "applicationDate": 1683788400,
+      "addresses": [
+        "7214 VEYANESS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from existing R1 to R-1XS to allow a small lot residential subdivision to include 3 new lots.",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1683788400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7214 Veyaness_Rationale Letter_Sep 18 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14570C230918144153947870&folderId=09521C230512150958994146"
+        },
+        {
+          "docName": "7214 Veyaness_Revised Plans_Sep 18 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14570C230918144153963457&folderId=09521C230512150958994146"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1683788400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001425",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001424",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "7214 VEYANESS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001424",
+      "applicationDate": 1683788400,
+      "addresses": [
+        "7214 VEYANESS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001419",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1683788400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001425",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001419",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1131 VERDIER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001428",
+      "applicationDate": 1685516400,
+      "addresses": [
+        "1131 VERDIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001430",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1685516400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001430",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1131 VERDIER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001430",
+      "applicationDate": 1685516400,
+      "addresses": [
+        "1131 VERDIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-2 to RM-6 for multi-unit infill",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1685516400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1131 Verdier_Letter of Rationale_May 31 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=12605C230725145543802579&folderId=10290C230531090104905463"
+        },
+        {
+          "docName": "1131 Verdier_Plans_May 31 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=12605C230725145543814335&folderId=10290C230531090104905463"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1685516400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001428",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "7476 EAST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001436",
+      "applicationDate": 1687330800,
+      "addresses": [
+        "7476 EAST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-1 to R-1XS to subdivide into 2 lots. Existing home retained on one lot. Proposed new dwelling with secondary suite.",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1687503600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7476 East Saanich_Letter of Rationale_June 21 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=12605C230725113809706817&folderId=11239C230621135655029162"
+        },
+        {
+          "docName": "7476 East Saanich_Plans_June 21 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=12605C230725113809723890&folderId=11239C230621135655029162"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1687503600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001438",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001437",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "7476 EAST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001437",
+      "applicationDate": 1687330800,
+      "addresses": [
+        "7476 EAST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001436",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1687503600,
+          "endDate": 1687503600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1687503600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001438",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001436",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6437 CENTRAL SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001444",
+      "applicationDate": 1688454000,
+      "addresses": [
+        "6437 CENTRAL SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Remove existing detached carport and build a new detached garage with suite above. Variance has been requested.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1688454000,
+          "endDate": 1688454000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6437 Central Saanich_Plans_July 4 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=13062C230804161626460414&folderId=11743C230704154253437655"
+        },
+        {
+          "docName": "Letter of Rationale",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=B908CC5B-EAE2-46A4-BDF7-805249DE5E5D&folderId=11743C230704154253437655"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1688454000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1445 BENVENUTO AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001459",
+      "applicationDate": 1691478000,
+      "addresses": [
+        "1445 BENVENUTO AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone portion of lot to allow ALC approved non-farm use in ALR to continue within the winery building.",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1691478000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1691478000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1255 MARCHANT RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001463",
+      "applicationDate": 1692342000,
+      "addresses": [
+        "1255 MARCHANT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Please refer to Rezoning and/or OCP Amendment PL001465",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1692342000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1255 MARCHANT RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001465",
+      "applicationDate": 1692342000,
+      "addresses": [
+        "1255 MARCHANT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-1 to RM-6 to accommodate a 5-unit townhouse complex",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1692342000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1255 Marchant_Plans_Aug 18 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=83D6FC34-35BA-465E-98DD-4B4149765492&folderId=13627C230823110516704439"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1692342000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6983 HAGAN RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001476",
+      "applicationDate": 1694070000,
+      "addresses": [
+        "6983 HAGAN RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Subdivide lot into two with suite potential",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1694674800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6983 Hagan_Lot A_Sep 8 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14976C230928124031240480&folderId=14109C230907143144156880"
+        },
+        {
+          "docName": "6983 Hagan_Lot B_Sep 8 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14976C230928124031256100&folderId=14109C230907143144156880"
+        },
+        {
+          "docName": "6983 Hagan_Site & Streetscape_Sep 8 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14976C230928124031271722&folderId=14109C230907143144156880"
+        },
+        {
+          "docName": "6983 Hagan_Survey_Sep 8 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14976C230928124031287343&folderId=14109C230907143144156880"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1694674800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1934 CULTRA AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001481",
+      "applicationDate": 1694415600,
+      "addresses": [
+        "1934 CULTRA AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezone from R-1M to P-1 DVP also requested for new Temple",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1694588400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1934 Cultra_Plans_Sep 11 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=15111C231004152110910363&folderId=14410C230913090715288363"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1694588400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3510 Wishart Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-01",
+      "applicationDate": 1588057200,
+      "addresses": [
+        "3510 Wishart Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "12 Single Family Homes",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181260",
+          "docName": "181260"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "468 Goldstream Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-02",
+      "applicationDate": 1596178800,
+      "addresses": [
+        "468 Goldstream Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Condominimum Complex Approx. 194 Units with Commercial Space",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181238",
+          "docName": "181238"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "535 Delora Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-03",
+      "applicationDate": 1615878000,
+      "addresses": [
+        "535 Delora Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "6 Storey Apt. Building w/approx. 48 Units",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181125",
+          "docName": "181125"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "319 Song Sparrow Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-04",
+      "applicationDate": 1584082800,
+      "addresses": [
+        "319 Song Sparrow Place",
+        "320 Song Sparrow Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwellings",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181261",
+          "docName": "181261"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3111 Havenwood Lane",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-05",
+      "applicationDate": 1584428400,
+      "addresses": [
+        "3111 Havenwood Lane"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Site Improvements",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181262",
+          "docName": "181262"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Seafield Properties",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-06",
+      "applicationDate": 1619766000,
+      "addresses": [
+        "Seafield Properties"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwellings, 35 Lots",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181264",
+          "docName": "181264"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Allandale Lot A",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-07",
+      "applicationDate": 1605510000,
+      "addresses": [
+        "Allandale Lot A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Business Park for Light Industrial Multi-tenant use.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181126",
+          "docName": "181126"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "651 Allandale Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-08",
+      "applicationDate": 1619161200,
+      "addresses": [
+        "651 Allandale Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Car Dealership & Associated Site Improvements",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181112",
+          "docName": "181112"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3221 Heatherbell Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-09",
+      "applicationDate": 1611298800,
+      "addresses": [
+        "3221 Heatherbell Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential Dwellings",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181265",
+          "docName": "181265"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "360 Latoria Blvd.",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-12",
+      "applicationDate": 1600671600,
+      "addresses": [
+        "360 Latoria Blvd."
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx. 72 Attached Dwelling Units",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181266",
+          "docName": "181266"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "265 Caspian Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-13",
+      "applicationDate": 1602658800,
+      "addresses": [
+        "265 Caspian Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx. 8 two-family dwelling units",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181239",
+          "docName": "181239"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Royal Bay (Amending DP-19-13)",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-14",
+      "applicationDate": 1594710000,
+      "addresses": [
+        "Royal Bay (Amending DP-19-13)"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx 76 Single Family Dwellings",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181243",
+          "docName": "181243"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Royal Bay Sector 4",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-15",
+      "applicationDate": 1613545200,
+      "addresses": [
+        "Royal Bay Sector 4"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx. 126 Single Family Dwellings",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181244",
+          "docName": "181244"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Royal Bay Sector 4 (Amendment)",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-15A",
+      "applicationDate": 1621234800,
+      "addresses": [
+        "Royal Bay Sector 4 (Amendment)"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx 126 Single Family Dwellings",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181124",
+          "docName": "181124"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3345 Hatley Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-18",
+      "applicationDate": 1596178800,
+      "addresses": [
+        "3345 Hatley Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Addition to Existing SFD",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181237",
+          "docName": "181237"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Royal Bay Sector 4",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-19",
+      "applicationDate": 1635231600,
+      "addresses": [
+        "Royal Bay Sector 4"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx 4 Single Family Sites",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181127",
+          "docName": "181127"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "237 Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-20",
+      "applicationDate": 1601881200,
+      "addresses": [
+        "237 Drive",
+        "229 Drive",
+        "221 Drive",
+        " Drive",
+        "213 Drive",
+        "Caspian Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx. 58 Attached Dwelling Units",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181128",
+          "docName": "181128"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "210 Portsmouth Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-22",
+      "applicationDate": 1601535600,
+      "addresses": [
+        "210 Portsmouth Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development of a Marine Foreshore",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/182208",
+          "docName": "182208"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3372 Curlew Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-23",
+      "applicationDate": 1607929200,
+      "addresses": [
+        "3372 Curlew Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181248",
+          "docName": "181248"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "85 Belmont / 1901 Jerome",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-24",
+      "applicationDate": 1607583600,
+      "addresses": [
+        "85 Belmont / 1901 Jerome"
+      ],
+      "status": "ACTIVE",
+      "purpose": "15 Storey, 121 Apartment Unit",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181129",
+          "docName": "181129"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Meadford Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-25",
+      "applicationDate": 1607583600,
+      "addresses": [
+        "Meadford Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development of a Riparian Habitat",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181249",
+          "docName": "181249"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "209 Caspian Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-26",
+      "applicationDate": 1605510000,
+      "addresses": [
+        "209 Caspian Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx. 5 Single-detached Dwelling Units",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181130",
+          "docName": "181130"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "727 Grousewood Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-27",
+      "applicationDate": 1632121200,
+      "addresses": [
+        "727 Grousewood Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Clearing of Lands",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/filepro/documents/?preview=184956",
+          "docName": "?preview=184956"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3335 Curlew Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-28",
+      "applicationDate": 1607929200,
+      "addresses": [
+        "3335 Curlew Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181250",
+          "docName": "181250"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Royal Bay Sector 4 ",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-29",
+      "applicationDate": 1614322800,
+      "addresses": [
+        "Royal Bay Sector 4 ",
+        " ",
+        ""
+      ],
+      "status": "ACTIVE",
+      "purpose": "Environmental (Riparian) Development Permit",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181251",
+          "docName": "181251"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "255 Caspian Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-31",
+      "applicationDate": 1613718000,
+      "addresses": [
+        "255 Caspian Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approx 83 Attached Dwelling Units",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181236",
+          "docName": "181236"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3461 Veterans Memorial Parkway",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-20-32A",
+      "applicationDate": 1662620400,
+      "addresses": [
+        "3461 Veterans Memorial Parkway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Construction of four apartment buildings consisting of 280 units and associated site improvements.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/DP-20-032A_SIGNED-Compressed.pdf",
+          "docName": "DP-20-032A_SIGNED-Compressed"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "675 Meaford Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-01",
+      "applicationDate": 1619506800,
+      "addresses": [
+        "675 Meaford Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Parking Area",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181271",
+          "docName": "181271"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3438 Ryder Hesjedal Way",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-019A",
+      "applicationDate": 1652770800,
+      "addresses": [
+        "3438 Ryder Hesjedal Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Supplement to DP-21-019 & DVP21-013",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/195718/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "The Commons at Royal Bay",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-02",
+      "applicationDate": 1623826800,
+      "addresses": [
+        "The Commons at Royal Bay"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Shopping Centre",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181272",
+          "docName": "181272"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3323 Pipit Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-03",
+      "applicationDate": 1613458800,
+      "addresses": [
+        "3323 Pipit Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling w/secondary suite",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181420",
+          "docName": "181420"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "245 Caspian Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-04",
+      "applicationDate": 1621321200,
+      "addresses": [
+        "245 Caspian Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181148",
+          "docName": "181148"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "681 Allandale Road (Seaspan)",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-05",
+      "applicationDate": 1615791600,
+      "addresses": [
+        "681 Allandale Road (Seaspan)"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Steep Slope DP Guidelines",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181131",
+          "docName": "181131"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3275 Anchorage Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-06",
+      "applicationDate": 1629270000,
+      "addresses": [
+        "3275 Anchorage Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/filepro/documents/?preview=185337",
+          "docName": "?preview=185337"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "525 Gurunanlk Lane",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-07",
+      "applicationDate": 1622530800,
+      "addresses": [
+        "525 Gurunanlk Lane"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential Single Family Lot",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/181153",
+          "docName": "181153"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Royal Bay Sector 7",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-08",
+      "applicationDate": 1629183600,
+      "addresses": [
+        "Royal Bay Sector 7"
+      ],
+      "status": "ACTIVE",
+      "purpose": "DP to authorize the alteration of land and landscape on the land for Sector 7",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/filepro/documents/?preview=184731",
+          "docName": "?preview=184731"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3921 Olympian Way",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-10",
+      "applicationDate": 1633071600,
+      "addresses": [
+        "3921 Olympian Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Construction of 7 Duplexes",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/filepro/documents/?preview=185144",
+          "docName": "?preview=185144"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3322 Fulton Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-11",
+      "applicationDate": 1636441200,
+      "addresses": [
+        "3322 Fulton Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Construction of a residential driveway",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/191316/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3221 Heatherbell Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-12",
+      "applicationDate": 1629097200,
+      "addresses": [
+        "3221 Heatherbell Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Upgrading and Improvements to Culverts",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/filepro/documents/?preview=184732",
+          "docName": "?preview=184732"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "571 Bezanton Way",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-13",
+      "applicationDate": 1643612400,
+      "addresses": [
+        "571 Bezanton Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Construction of a strata development containing 17 dwelling units.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/190256/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "ONNI Colwood Corners",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-14",
+      "applicationDate": 1644476400,
+      "addresses": [
+        "ONNI Colwood Corners"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Environmental Protection and guidelines for areas designated as Riparian & Marine Shoreline.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/191313/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "650 Allandale",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-15",
+      "applicationDate": 1635836400,
+      "addresses": [
+        "650 Allandale"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The construction of three mixed-use small-bay industrial buildings",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/filepro/documents/181111/?preview=186628",
+          "docName": "?preview=186628"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2231 Sooke Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-17",
+      "applicationDate": 1647932400,
+      "addresses": [
+        "2231 Sooke Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "2 Storey Commercial/Office Building",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/192911/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "681 Allandale - Lot B",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-18",
+      "applicationDate": 1647932400,
+      "addresses": [
+        "681 Allandale - Lot B"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Commercial Retail Centre",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/192910/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3438 Ryder Hesjedal Way",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-19",
+      "applicationDate": 1614754800,
+      "addresses": [
+        "3438 Ryder Hesjedal Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "13 Townhomes Units, Murrays Pond",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/191840/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Sector 7 Royal Bay (Trumpeter Street)",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-20",
+      "applicationDate": 1636959600,
+      "addresses": [
+        "Sector 7 Royal Bay (Trumpeter Street)"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Approximately 45 single family dwellings and associated site improvements.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/190751/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "594 Latoria Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-21",
+      "applicationDate": 1614668400,
+      "addresses": [
+        "594 Latoria Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Eight Storey Mixed-use Building - 138 residential  rental units and a ground floor consisting of mixed commercial and amenity space",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/191841/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3334 Sandpiper Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-23",
+      "applicationDate": 1644562800,
+      "addresses": [
+        "3334 Sandpiper Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single-family dwelling with a Secondary Suite.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/190756/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "51 Lagoon Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-21-24",
+      "applicationDate": 1644217200,
+      "addresses": [
+        "51 Lagoon Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Form and character of a single-family dwelling with a secondary suite.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/191318/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2676 Wilfert Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-01",
+      "applicationDate": 1663311600,
+      "addresses": [
+        "2676 Wilfert Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Form & Character of four 5 storey apartment buildings of approximately 318 units.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/202030/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "570 Bezanton Way",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-010",
+      "applicationDate": 1676358000,
+      "addresses": [
+        "570 Bezanton Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of a 4-storey 24-unit building.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-010_Permit%20COMPLETE.pdf",
+          "docName": "DP-22-010_Permit COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Parcel G Bay",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-02",
+      "applicationDate": 1655794800,
+      "addresses": [
+        "Parcel G Bay",
+        "Royal Bay"
+      ],
+      "status": "ACTIVE",
+      "purpose": "117 Unit Strata Apartment building with 2 levels of underground parking",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/192909/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2353 Sooke Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-020",
+      "applicationDate": 1692601200,
+      "addresses": [
+        "2353 Sooke Rd",
+        "2361 Sooke Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of two commercial retail buildings and a car wash.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-020_2353%20%26%202361%20Sooke%20Rd.pdf",
+          "docName": "DP-22-020_2353 %26 2361 Sooke Rd"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3439 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-021",
+      "applicationDate": 1687762800,
+      "addresses": [
+        "3439 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 44 townhome units.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-021_Permit%20COMPLETE%20%282%29.pdf",
+          "docName": "DP-22-021_Permit COMPLETE (2)"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3467 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-023",
+      "applicationDate": 1680591600,
+      "addresses": [
+        "3467 Trumpeter Street",
+        "3469 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 2 single family homes.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/planning/DP-22-023_3467-3469%20Trumpeter%20Street%20Permit%20COMPLETE.pdf",
+          "docName": "DP-22-023_3467-3469 Trumpeter Street Permit COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3461 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-023A",
+      "applicationDate": 1682578800,
+      "addresses": [
+        "3461 Trumpeter Street",
+        "3463 Trumpeter Street",
+        "3465 Trumpeter Street",
+        "3467 Trumpeter Street",
+        "3469 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Hazard and Form & Character Development Permit for the construction of 5 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-023A_Permit%20COMPLETE.pdf",
+          "docName": "DP-22-023A_Permit COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Phase 1 Latoria South",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-024",
+      "applicationDate": 1679295600,
+      "addresses": [
+        "Phase 1 Latoria South",
+        "3 Latoria South"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of approx 74 homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/planning/documents/DP-22-024%20Permit%20with%20Schedules_Final_Signed%28compressed%29.pdf",
+          "docName": "DP-22-024 Permit with Schedules_Final_Signed(compressed)"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1901 Jerome Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-026",
+      "applicationDate": 1695970800,
+      "addresses": [
+        "1901 Jerome Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable the construction of a 6-storey, 139 unit affordable rental apartment building.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-026%20Compressed.pdf",
+          "docName": "DP-22-026 Compressed"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "296 Caspian Dr",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-027",
+      "applicationDate": 1676358000,
+      "addresses": [
+        "296 Caspian Dr",
+        "300 Caspian Dr"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 2 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-027_COMPLETE.pdf",
+          "docName": "DP-22-027_COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3352 Ryder Hesjedal Way",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-03",
+      "applicationDate": 1658473200,
+      "addresses": [
+        "3352 Ryder Hesjedal Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Form & Character for 32 attached dwelling units",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/201791/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "805 Cuaulta Cres",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-04",
+      "applicationDate": 1647586800,
+      "addresses": [
+        "805 Cuaulta Cres"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Clearing of Lands",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/192907/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "212 Seafield Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-05",
+      "applicationDate": 1648105200,
+      "addresses": [
+        "212 Seafield Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Accessory Dwelling",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/192901/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "South Latoria One - Royal Bay",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-06",
+      "applicationDate": 1658473200,
+      "addresses": [
+        "South Latoria One - Royal Bay"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Strata development containing 135 townhome units and associated site improvements.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/199814/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "210 Lagoon Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-07",
+      "applicationDate": 1649919600,
+      "addresses": [
+        "210 Lagoon Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Addition to an existing home.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/194658/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3461 Veteran's Memorial Parkway",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-08",
+      "applicationDate": 1655794800,
+      "addresses": [
+        "3461 Veteran's Memorial Parkway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Construction of Nature Trails",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/198443/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "517 Latoria Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-09",
+      "applicationDate": 1656399600,
+      "addresses": [
+        "517 Latoria Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Environmental Natural Hazard and Form & Character for 2 single family dwellings with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/199816/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Showhomes Westerly Place Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-15",
+      "applicationDate": 1663916400,
+      "addresses": [
+        "Showhomes Westerly Place Place",
+        "Tradewinds Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Three single-family show homes.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-015_SIGNED_COMPLETE%20%282%29.pdf",
+          "docName": "DP-22-015_SIGNED_COMPLETE (2)"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3357 Ryder Hesjedal Way",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-16",
+      "applicationDate": 1667890800,
+      "addresses": [
+        "3357 Ryder Hesjedal Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family home with a secondary suite.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/203689/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1767 Island Highway",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-18",
+      "applicationDate": 1666854000,
+      "addresses": [
+        "1767 Island Highway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To enable the construction of a Skate Park and associated site improvements.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/203337/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "820 Bexhill Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-19",
+      "applicationDate": 1671433200,
+      "addresses": [
+        "820 Bexhill Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "An Environmental, Hazard and Form & Character Development Permit to enable the construction of a single family dwelling.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-019%20Permit%20COMPLETE%20%284%29.pdf",
+          "docName": "DP-22-019 Permit COMPLETE (4)"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3471 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-001",
+      "applicationDate": 1683529200,
+      "addresses": [
+        "3471 Trumpeter Street",
+        "3473 Trumpeter Street",
+        "3475 Trumpeter Street",
+        "3479 Trumpeter Street",
+        "3481 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 5 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-23-001_Permit%20COMPLETE.pdf",
+          "docName": "DP-23-001_Permit COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3471 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-001A",
+      "applicationDate": 1685602800,
+      "addresses": [
+        "3471 Trumpeter Street",
+        "3473 Trumpeter Street",
+        "3475 Trumpeter Street",
+        "3477 Trumpeter Street",
+        "3479 Trumpeter Street",
+        "3481 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 6 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-23-001A_Permit%20COMPLETE.pdf",
+          "docName": "DP-23-001A_Permit COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3453 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-002",
+      "applicationDate": 1681455600,
+      "addresses": [
+        "3453 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 1 single family home with a secondary suite.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/planning/documents/DP-23-002_Permit%20COMPLETE.pdf",
+          "docName": "DP-23-002_Permit COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "401 Rock Dove Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-003",
+      "applicationDate": 1680073200,
+      "addresses": [
+        "401 Rock Dove Place",
+        "404 Rock Dove Place",
+        "405 Rock Dove Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 3 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/planning/documents/DP-23-003_Permit%20COMPLETE.pdf",
+          "docName": "DP-23-003_Permit COMPLETE"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3455 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-005",
+      "applicationDate": 1696915873,
+      "addresses": [
+        "3455 Trumpeter Street",
+        "3457 Trumpeter Street",
+        "3459 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 3 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/DP-23-005_Complete%20Permit_0.pdf",
+          "docName": "DP-23-005_Complete Permit_0"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3585 Westerly Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-008",
+      "applicationDate": 1693897200,
+      "addresses": [
+        "3585 Westerly Place",
+        "3587 Westerly Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 2 single family homes.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/DP-23-008_COMPLETE_2023-09-05.pdf",
+          "docName": "DP-23-008_COMPLETE_2023-09-05"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "611 Brookside Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-012",
+      "applicationDate": 1691564400,
+      "addresses": [
+        "611 Brookside Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 1 podium sign.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-23-012_Full%20Permit%20Package%20%28Signed%29%20%281%29_0.pdf",
+          "docName": "DP-23-012_Full Permit Package (Signed) (1)_0"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3468 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-013",
+      "applicationDate": 1690873200,
+      "addresses": [
+        "3468 Trumpeter Street",
+        "3470 Trumpeter Street",
+        "3474-3485 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction of 8 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-23-013_Permit%20Package%20%28Signed%29.pdf",
+          "docName": "DP-23-013_Permit Package (Signed)"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3469 Hopwood Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-014",
+      "applicationDate": 1693292400,
+      "addresses": [
+        "3469 Hopwood Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Natural Hazard and Environmental Development Permit to regulate the development and alterations of land to enable site preparation for a 2-lot bareland strata subdivision.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/Permit%20Package%20DP-23-014.pdf",
+          "docName": "Permit Package DP-23-014"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3211 Jacklin Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-21-006",
+      "applicationDate": 1622444400,
+      "addresses": [
+        "3211 Jacklin Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezoning Application to enable the construction of a mixed-used building comprised of 52 dwelling units and 485 m² of ground floor commercial.",
+      "progressSections": [
+        {
+          "taskDescription": "1st & 2nd reading completed Feb 13, 2023. 3rd reading completed April 11, 2023.Adoption to be scheduled.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/3211%20Jacklin%20Rezoning_0.pdf",
+          "docName": "3211 Jacklin Rezoning_0"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2346 Sooke Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-001",
+      "applicationDate": 1685602800,
+      "addresses": [
+        "2346 Sooke Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Rezoning application to permit 6 storey, 55 unit, multifamily residential rental building.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/RZ-22-001.pdf",
+          "docName": "RZ-22-001"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "508 Windthrop Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-005",
+      "applicationDate": 1647846000,
+      "addresses": [
+        "508 Windthrop Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single family (with suites) residential subdivision, 12 bare land strata lots.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/195302/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "586 Latoria Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-008",
+      "applicationDate": 1650870000,
+      "addresses": [
+        "586 Latoria Road",
+        "588 Latoria Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Joint OCP and Zoning Amendment application to enable the development and construction of a 6-storey multi-unit residential building consisting of 122 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Under review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/195300/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "532 Latoria Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-010",
+      "applicationDate": 1667458800,
+      "addresses": [
+        "532 Latoria Road",
+        "538 Latoria Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To allow for 10 townhomes in 2 blocks and 2 multi-family buildings with 65 units and 115 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/203766/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "641 Latoria Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-013",
+      "applicationDate": 1656399600,
+      "addresses": [
+        "641 Latoria Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "28 Unit Townhouse development, all 3 storeys with a total of 64 parking stalls.",
+      "progressSections": [
+        {
+          "taskDescription": "Scheduled for Planning and Land Use Committee Oct 3, 2023.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/202270/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "517 Latoria Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-015",
+      "applicationDate": 1662447600,
+      "addresses": [
+        "517 Latoria Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Revision to a CD8 zone to allow for attached housing use.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/RZ-22-015.pdf",
+          "docName": "RZ-22-015"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2324 Sooke Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-016",
+      "applicationDate": 1659942000,
+      "addresses": [
+        "2324 Sooke Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Creation of a new CD zone to accommodate a 6-storey building with 67 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.Return to Council scheduled Aug 28, 2023.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/Architectural%20Plans%20-%202324%20Sooke%20Road%20%282-7-23%29%20Revised%20June%2016%2C%202023_0.pdf",
+          "docName": "Architectural Plans - 2324 Sooke Road (2-7-23) Revised June 16%2C 2023_0"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2054 - 2076 Sooke Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-017",
+      "applicationDate": 1663830000,
+      "addresses": [
+        "2054 - 2076 Sooke Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Creation of a new CD Zone to accommodate a 6-storey building with 150 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Introduction to Council May 8, 2023.1st & 2nd reading completed June 12, 2023.3rd reading scheduled for July 10, 2023.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/203029/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1860 Island Highway",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-018",
+      "applicationDate": 1667372400,
+      "addresses": [
+        "1860 Island Highway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Creation of a new CD zone to accommodate a 25-storey building with 143 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/1860%20Island%20Highway%20RZ%20OCP.pdf",
+          "docName": "1860 Island Highway RZ OCP"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1977 Colwood Cres",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-019",
+      "applicationDate": 1668409200,
+      "addresses": [
+        "1977 Colwood Cres"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Creation of a new CD Zone to accommodate a 6-storey building with 129 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/Redacted%20Application%201977%20%20%2818%29.pdf",
+          "docName": "Redacted Application 1977  (18)"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1911-1921 Jerome Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-23-003",
+      "applicationDate": 1679554800,
+      "addresses": [
+        "1911-1921 Jerome Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Increase permitted height to allow multi-residential highrise towers.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/1911-1921%20Jerome%20Road%20-%20Application%20Redacted.pdf",
+          "docName": "1911-1921 Jerome Road - Application Redacted"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3494 Wishart Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-23-006",
+      "applicationDate": 1684825200,
+      "addresses": [
+        "3494 Wishart Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Creation of a new CD zone to enable a 51-unit townhouse development.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/Application%20-%203494%20Wishart_0.pdf",
+          "docName": "Application - 3494 Wishart_0"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "376 Wishart Rd",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000001",
+      "applicationDate": 1693983600,
+      "addresses": [
+        "376 Wishart Rd",
+        "394 Royal Bay Dr Wishart Rd",
+        "3479 Wishart Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Permit a 27-unit townhouse development.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/RZ000001_Application.pdf",
+          "docName": "RZ000001_Application"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
     {
       "primaryStreetName": "429 Lampson Street",
       "applicant": "Aragon Properties Ltd.",
