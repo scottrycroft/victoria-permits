@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1696934527,
+  "dateRetrieved": 1697035748,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -708,6 +708,12 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
@@ -738,7 +744,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1645081200,
+      "lastUpdated": 1697035984,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001217",
@@ -4167,6 +4173,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "3445 Rock Dove Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-23-015",
+      "applicationDate": 1696921200,
+      "addresses": [
+        "3445 Rock Dove Place",
+        "3447 Rock Dove Place",
+        "3449 Rock Dove Place",
+        "3451 Rock Dove Place",
+        "3462 Trumpeter St Rock Dove Place",
+        "412 Rock Dove Place",
+        "416 Rock Dove Place",
+        "420 Rock Dove Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form and Character Development Permit for the construction of 8 single family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/DP-23-015_3445-3451%2C%203462%2C%20Trumpeter%20St%20%26%20412%2C%20416%2C%20420%20Rock%20Dove%20Pl_CONDENSED.pdf",
+          "docName": "DP-23-015_3445-3451%2C 3462%2C Trumpeter St %26 412%2C 416%2C 420 Rock Dove Pl_CONDENSED"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1697036014,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "3211 Jacklin Road",
       "applicant": "",
       "cityApplicationType": "Rezoning",
@@ -4342,7 +4380,7 @@
       "purpose": "28 Unit Townhouse development, all 3 storeys with a total of 64 parking stalls.",
       "progressSections": [
         {
-          "taskDescription": "Scheduled for Planning and Land Use Committee Oct 3, 2023.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee Oct 3, 2023. 1st and 2nd reading scheduled for Oct 10, 2023.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4357,7 +4395,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696915873,
+      "lastUpdated": 1697036014,
       "relatedPermits": []
     },
     {
@@ -4406,7 +4444,7 @@
       "purpose": "Creation of a new CD zone to accommodate a 6-storey building with 67 units.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.Return to Council scheduled Aug 28, 2023.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.1st and 2nd reading scheduled for Oct 10, 2023.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4421,7 +4459,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696916907,
+      "lastUpdated": 1697036014,
       "relatedPermits": []
     },
     {
