@@ -309,7 +309,7 @@ function showNoPAToast() {
             :globalFilterFields="['primaryStreetName', 'applicant', 'city', 'applicationType', 'status', 'folderNumber', 'status', 'addresses', 'purpose','lastUpdated']"
             :rowsPerPageOptions="[5, 10, 20, 50]" :rows="5" paginator
             paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
-            sortField="lastUpdated" :sortOrder="-1" currentPageReportTemplate="{first} to {last} of {totalRecords}">
+            sortField="applicationDate" :sortOrder="-1" currentPageReportTemplate="{first} to {last} of {totalRecords}">
             <template #header>
                 <div class="flex justify-content-between">
                     <h2 class="mt-0">Permit Applications</h2>
@@ -362,8 +362,6 @@ function showNoPAToast() {
                         :options=" statuses " placeholder="Any" :maxSelectedLabels=" 1 " />
                 </template>
             </Column>
-            <Column field="withDistrictDays" header="With Municipality Days" :sortable=" true " class="w-1"></Column>
-            <Column field="withApplicantDays" header="With Applicant Days" :sortable=" true " class="w-1"></Column>
             <Column field="applicationDate" header="Application Date" :sortable=" true " class="w-auto">
                 <template #body=" { data }: { data: PermitsEntity } ">
                     {{ formatDate(data.applicationDate) }}
