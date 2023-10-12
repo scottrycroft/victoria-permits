@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1697035748,
+  "dateRetrieved": 1697107329,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3444,6 +3444,31 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "783 Cuaulta Cres",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-017",
+      "applicationDate": 1696921200,
+      "addresses": [
+        "783 Cuaulta Cres"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Natural Hazards and Environmental Development Permit to enable site preparations for a 4-lot subdivision and associate site improvements.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP-22-017_Permit%20Package.pdf",
+          "docName": "DP-22-017_Permit Package"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1697107604,
       "relatedPermits": []
     },
     {
@@ -7474,15 +7499,15 @@
           "endDate": 1696402800
         },
         {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1696921200,
+          "endDate": 1697007600
+        },
+        {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1689058800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -10085,14 +10110,14 @@
           "endDate": 1695020400
         },
         {
-          "taskDescription": "meeting date of council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
           "taskType": "COUNCIL - THIRD READING",
+          "startDate": 1696921200,
+          "endDate": 1697007600
+        },
+        {
+          "taskDescription": "meeting date of council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -14089,6 +14114,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1686207600,
+          "endDate": 1697007600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -14826,9 +14857,32 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1696402800,
           "endDate": 1696402800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1697007600,
+          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_SEPT 26 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C154DC30-8650-4805-B5C0-ABE9E700DBF5&folderId=45624C230926153046036539"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_SEPT 26 202",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C58F1EED-E61B-40E1-806D-F234BC4B493C&folderId=45624C230926153046036539"
+        },
+        {
+          "docName": "PLANS_SHADOW STUDY_SEPT 26, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8C4BD676-78C8-416B-8015-28669E8D5B21&folderId=45624C230926153046036539"
+        },
+        {
+          "docName": "SITE PLAN_SEPT 26 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4A32B258-639B-4799-B36D-EA5D91D5EF7F&folderId=45624C230926153046036539"
+        }
+      ],
       "city": "Saanich",
       "lastUpdated": 1696848405,
       "relatedPermits": [
