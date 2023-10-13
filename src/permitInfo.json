@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1697107329,
+  "dateRetrieved": 1697193727,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -275,13 +275,13 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1696921200,
+          "endDate": 1696921200
         },
         {
           "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
-          "startDate": null,
+          "startDate": 1697094000,
           "endDate": null
         }
       ],
@@ -292,7 +292,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1695193200,
+      "lastUpdated": 1697193953,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001072",
@@ -662,18 +662,18 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
+          "startDate": 1696921200,
+          "endDate": 1696921200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1697094000,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "ISSUE PERMIT TO APPLICANT",
           "startDate": null,
           "endDate": null
         }
@@ -685,7 +685,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1695193200,
+      "lastUpdated": 1697193953,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001209",
@@ -7319,14 +7319,20 @@
           "endDate": 1680591600
         },
         {
-          "taskDescription": "The application is under initial review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": 1697094000,
+          "endDate": 1697094000
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
+          "startDate": 1697094000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
           "endDate": null
         },
@@ -7357,7 +7363,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1680591600,
+      "lastUpdated": 1697193953,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00134",
@@ -8203,67 +8209,6 @@
       ]
     },
     {
-      "primaryStreetName": "1966 CRESCENT RD",
-      "applicant": "BAREFOOT PLANNING LTD",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00120",
-      "applicationDate": 1645772400,
-      "addresses": [
-        "1966 CRESCENT RD"
-      ],
-      "status": "ACTIVE",
-      "purpose": "Application to vary the Zoning Bylaw No. 3531 in regard to setback requirements, height restrictions, paved surface allowances and retaining wall heights. The The application also seeks to very Tree Protection Bylaw to allow for reduces canopy requirements.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1645772400,
-          "endDate": 1645772400
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1647327600,
-          "endDate": 1648018800
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": 1648018800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": 1679382000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Oak Bay",
-      "lastUpdated": 1694516125,
-      "relatedPermits": []
-    },
-    {
       "primaryStreetName": "2335 ESTEVAN AVE",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -8655,72 +8600,6 @@
       ]
     },
     {
-      "primaryStreetName": "944 FOUL BAY RD",
-      "applicant": "ARCATA ARCH",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00129",
-      "applicationDate": 1677826800,
-      "addresses": [
-        "944 FOUL BAY RD"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary the rear yard setback.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1677826800,
-          "endDate": 1677826800
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1681801200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "DVP00129 - 944 Foul Bay Rd- Plans- reduce.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=C6B8944D-D461-4686-B9F3-312C2C08D69E&folderId=60719C230303115446137387"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1681801200,
-      "relatedPermits": []
-    },
-    {
       "primaryStreetName": "2072 MEADOW PL",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -8779,959 +8658,6 @@
       "documents": [],
       "city": "Oak Bay",
       "lastUpdated": 1685343600,
-      "relatedPermits": []
-    },
-    {
-      "primaryStreetName": "55 KING GEORGE TERR",
-      "applicant": "CHRIS FOYD",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00131",
-      "applicationDate": 1678863600,
-      "addresses": [
-        "55 KING GEORGE TERR"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary the front lot line setback and vary allowable paved surface.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1678863600,
-          "endDate": 1678863600
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1679382000,
-          "endDate": 1679382000
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": 1687762800,
-          "endDate": 1687849200
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": 1681196400,
-          "endDate": 1689058800
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": 1688972400,
-          "endDate": 1689058800
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "DVP00131 - 55 King George Terr - Prop Res Plans.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=61907C230315130826588151&folderId=61889C230315114557846321"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1690281972,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP015616",
-          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
-        },
-        {
-          "relatedPermitID": "BP015353",
-          "relatedPermitType": "DEMOLITION PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "2649 THOMPSON AVE",
-      "applicant": "BWD CONSTRUCTION",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00132",
-      "applicationDate": 1678863600,
-      "addresses": [
-        "2649 THOMPSON AVE"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary the front yard setback and parking requirements in order to construct a secondary suite addition.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1678950000,
-          "endDate": 1678950000
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1681801200,
-          "endDate": 1681801200
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": 1681801200,
-          "endDate": 1686639600
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": 1686639600,
-          "endDate": 1691478000
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": 1694415600,
-          "endDate": 1694502000
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": 1695625200,
-          "endDate": 1695711600
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "DVP00132 - 2649 Thompson Ave - Plans 2023-March.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=62242C230320145324110689&folderId=61955C230315161756419097"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1695811635,
-      "relatedPermits": []
-    },
-    {
-      "primaryStreetName": "2390 SAN CARLOS AVE",
-      "applicant": "WESTPLAN CONSULTING GROUP",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00133",
-      "applicationDate": 1678950000,
-      "addresses": [
-        "2390 SAN CARLOS AVE"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary the rear lot line setback.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1679036400,
-          "endDate": 1679036400
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": 1689058800,
-          "endDate": 1694415600
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": 1695625200,
-          "endDate": 1695711600
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "HAP00026-DVP00133 - 2390 San Carlos Ave - Plans 2023-Mar.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=62134C230317123936359345&folderId=62043C230316162301844892"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1695811635,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "HAP00026",
-          "relatedPermitType": "HERITAGE ALTERATION  PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "2199 LANSDOWNE RD",
-      "applicant": "N/A",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00134",
-      "applicationDate": 1680246000,
-      "addresses": [
-        "2199 LANSDOWNE RD"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment to rezone the property from RS-4 One Family Residential Use to RD-1 Two Family Residential Use and RS-5 One Family Residential Use. (See Also ZON00044 and DP0000)",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1680591600,
-          "endDate": 1680591600
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "ZON00044 DVP00134 DP000043 - 2199 Lansdowne Rd - Application Rationale -  March 31, 2023 superseded.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=67668C230516131120875123&folderId=63505C230331145337674107"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1680591600,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "DP000043",
-          "relatedPermitType": "DEVELOPMENT PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "24 SYLVAN LANE",
-      "applicant": "SPOT DESIGN",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00135",
-      "applicationDate": 1685948400,
-      "addresses": [
-        "24 SYLVAN LANE"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary lot width, front yard setback, and roof height.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1685948400,
-          "endDate": 1685948400
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1695884400,
-          "endDate": 1695884400
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": 1695884400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "DVP00135 - 24 Sylvan Lane - Plans and Drawings - 1 of 2.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=70569C230609115831968218&folderId=63505C230331145440304848"
-        },
-        {
-          "docName": "DVP00135 - 24 Sylvan Lane - Plans and Drawings - 2 of 2.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=70569C230609115831973017&folderId=63505C230331145440304848"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1695984488,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "DVP00140",
-          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
-        },
-        {
-          "relatedPermitID": "BP015392",
-          "relatedPermitType": "DEMOLITION PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "2700 DORSET RD",
-      "applicant": "ZEBRA DESIGN",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00137",
-      "applicationDate": 1687417200,
-      "addresses": [
-        "2700 DORSET RD"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to vary the setback between accessory building and the principal dwelling to permit the construction of a detached garage. Exterior renovations and construction of new patio/reduction of deck (See Also ADP00160)",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1687503600,
-          "endDate": 1687503600
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1689750000,
-          "endDate": 1689750000
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": 1689750000,
-          "endDate": 1689750000
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": 1689750000,
-          "endDate": 1689750000
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": 1694415600,
-          "endDate": 1694502000
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": 1695625200,
-          "endDate": 1695711600
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "Site Plan and Elevations - 2023 Jun 23",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=72076C230623142512674967&folderId=71909C230622150508025419"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1695811635,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "ADP00160",
-          "relatedPermitType": "ADVISORY DESIGN PANEL"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "1703 MONTEREY AVE",
-      "applicant": "N/A",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00138",
-      "applicationDate": 1688713200,
-      "addresses": [
-        "1703 MONTEREY AVE"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit to permit temporary parking structure",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1688713200,
-          "endDate": 1688713200
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": 1689577200,
-          "endDate": 1689577200
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": 1690786800,
-          "endDate": 1690959600
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Oak Bay",
-      "lastUpdated": 1691059574,
-      "relatedPermits": []
-    },
-    {
-      "primaryStreetName": "2240 KINROSS AVE",
-      "applicant": "HARRIS",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00139",
-      "applicationDate": 1688972400,
-      "addresses": [
-        "2240 KINROSS AVE"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit. The applicant is seeking to vary A.1(a) of Schedule \"A\" of the Parking Facilities Bylaw no. 3540, two (2) parking spaces would be required for the dwelling unit on the subject property, which is in the One-Family Residential Use (RS-5) Zone. The applicant is seeking to locate their two required parking spaces on the front driveway.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1688972400,
-          "endDate": 1688972400
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1691650800,
-          "endDate": 1691650800
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": 1691650800,
-          "endDate": 1691650800
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": 1691650800,
-          "endDate": 1694415600
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": 1694415600,
-          "endDate": 1694588400
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": 1695625200,
-          "endDate": 1695711600
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Oak Bay",
-      "lastUpdated": 1695811635,
-      "relatedPermits": []
-    },
-    {
-      "primaryStreetName": "24 SYLVAN LANE",
-      "applicant": "N/A",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00140",
-      "applicationDate": 1689231600,
-      "addresses": [
-        "24 SYLVAN LANE"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1689231600,
-          "endDate": 1689231600
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Oak Bay",
-      "lastUpdated": 1689231600,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "DVP00135",
-          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
-        },
-        {
-          "relatedPermitID": "BP015392",
-          "relatedPermitType": "DEMOLITION PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "3475 BEACH DR",
-      "applicant": "FORMWERKS",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00141",
-      "applicationDate": 1689750000,
-      "addresses": [
-        "3475 BEACH DR"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit for the combined side yard setback.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1689750000,
-          "endDate": 1689750000
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "DVP00141 - 3475 Beach Dr - Revised Plans for DVP - 2023-JUL-17- Tracker.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=80846C230927112914979081&folderId=74434C230719120618305543"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1695984488,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "DP000046",
-          "relatedPermitType": "DEVELOPMENT PERMIT"
-        },
-        {
-          "relatedPermitID": "ADP00161",
-          "relatedPermitType": "ADVISORY DESIGN PANEL"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "2445 LANSDOWNE RD",
-      "applicant": "FINLAYSON BONET ARCHITECTURE",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00142",
-      "applicationDate": 1691737200,
-      "addresses": [
-        "2445 LANSDOWNE RD"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit.The applicant is renovating their home and as required will need to bring previous renovations into compliance. This application is seeking: 1) Variance: Bylaw 6.2.4 (3) (a) Building Height - We are requesting a relaxation to the required height variance to allow for a height of 7.55 m, a difference of 230 mm higher than the maximum allowed height of 7.32 m. 2) Variance: Bylaw 6.2.4. (3) (b) - Occupiable Height: We are requesting a relaxation to the max, occupiable height of 4.57 to permit 5.27 m. a difference of 700 mm higher than the maximum height allowed.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1691737200,
-          "endDate": 1691737200
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1694588400,
-          "endDate": 1694588400
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": 1694588400,
-          "endDate": 1694588400
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": 1694588400,
-          "endDate": 1694588400
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Oak Bay",
-      "lastUpdated": 1695984488,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "ADP00164",
-          "relatedPermitType": "ADVISORY DESIGN PANEL"
-        },
-        {
-          "relatedPermitID": "BP015069",
-          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
-        },
-        {
-          "relatedPermitID": "BP015044",
-          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "2128 LORNE TERR",
-      "applicant": "LITTLE GIANT STUDIO",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00143",
-      "applicationDate": 1692082800,
-      "addresses": [
-        "2128 LORNE TERR"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1692082800,
-          "endDate": 1692082800
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": 1695625200,
-          "endDate": 1695711600
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "DVP00143 - 2128 Lorne Terr - Arch Plans - 2023-06-14- Tracker.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=76923C230815120044559468&folderId=76904C230815090748727514"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1695811635,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP015562",
-          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "2976 ASHDOWNE RD",
-      "applicant": "AITKEN DESIGN",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00144",
-      "applicationDate": 1695106800,
-      "addresses": [
-        "2976 ASHDOWNE RD"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This is an application for a development variance permit.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1695193200,
-          "endDate": 1695193200
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "DVP00144 - 2976 Ashdowne Rd - Plans - 2023-AUG-22.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=20C4CBF6-FE0F-4354-935C-A5DEA7DE4D99&folderId=80082C230919125402745692"
-        }
-      ],
-      "city": "Oak Bay",
-      "lastUpdated": 1695193200,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP015741",
-          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "3561 REDWOOD AVE",
-      "applicant": "HOMEOWNER",
-      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "applicationType": "DEVELOPMENT VARIANCE PERMIT",
-      "folderNumber": "DVP00145",
-      "applicationDate": 1695366000,
-      "addresses": [
-        "3561 REDWOOD AVE"
-      ],
-      "status": "ACTIVE",
-      "purpose": "This application is for a development variance permit requesting a relaxation to the requirement for enclosed parking.",
-      "progressSections": [
-        {
-          "taskDescription": "An application for a Development Variance Permit has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": 1695366000,
-          "endDate": 1695366000
-        },
-        {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council for initial consideration of the application",
-          "taskType": "COUNCIL MEETING # 1",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING # 2",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Oak Bay",
-      "lastUpdated": 1695366000,
       "relatedPermits": []
     },
     {
@@ -10207,7 +9133,7 @@
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": 1687417200,
+          "startDate": 1697094000,
           "endDate": null
         },
         {
@@ -14282,6 +13208,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1695366000,
+          "endDate": 1697094000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1697094000,
           "endDate": null
         }
       ],
@@ -15883,6 +14815,37 @@
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "5550 WEST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00746",
+      "applicationDate": 1697094000,
+      "addresses": [
+        "5550 WEST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1697094000,
+          "endDate": 1697094000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1697094000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "933 CONVENT PL",
