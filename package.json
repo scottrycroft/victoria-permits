@@ -1,11 +1,11 @@
 {
-  "name": "victoria-permit-applications",
+  "name": "victoria-permits",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
-    "build-prod": "vite build --base=/victoria-permit-applications",
+    "build-prod": "vite build --base=/victoria-permits",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false",
