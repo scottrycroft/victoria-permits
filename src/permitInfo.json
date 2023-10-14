@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1697193727,
+  "dateRetrieved": 1697280655,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3546,6 +3546,31 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1696916907,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Parcel B Royal Bay South Latoria",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP-22-022",
+      "applicationDate": 1688626800,
+      "addresses": [
+        "Parcel B Royal Bay South Latoria"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit for the construction 5 apartment buildings including commercial space, and associated site improvements.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/DP-22-022_SIGNED_CONDENSED.pdf",
+          "docName": "DP-22-022_SIGNED_CONDENSED"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1697280973,
       "relatedPermits": []
     },
     {
@@ -11798,6 +11823,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1695020400,
+          "endDate": 1697180400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1697180400,
           "endDate": null
         }
       ],
@@ -13823,6 +13854,31 @@
           "relatedPermitType": "REZONING"
         }
       ]
+    },
+    {
+      "primaryStreetName": "2362 ARBUTUS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01051",
+      "applicationDate": 1697180400,
+      "addresses": [
+        "2362 ARBUTUS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1697180400,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
@@ -34693,7 +34749,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1675234800,
-          "endDate": null
+          "endDate": 1676962800
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
@@ -34723,7 +34779,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1675234800,
+      "lastUpdated": 1697280884,
       "relatedPermits": []
     },
     {
@@ -35237,6 +35293,12 @@
           "endDate": 1683010800
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1683010800,
+          "endDate": 1684479600
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1684479600,
@@ -35249,15 +35311,15 @@
           "endDate": 1692601200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1683010800,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1696575600,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1692601200,
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": null,
           "endDate": null
         },
         {
