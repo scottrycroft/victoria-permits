@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1697639810,
+  "dateRetrieved": 1697712648,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11945,6 +11945,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1694761200,
+          "endDate": 1697612400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1697612400,
           "endDate": null
         }
       ],
@@ -13875,13 +13881,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1697612400,
+          "endDate": 1697612400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1697612400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1697180400,
+      "lastUpdated": 1697712873,
       "relatedPermits": []
     },
     {
@@ -14878,7 +14890,7 @@
     },
     {
       "primaryStreetName": "5550 WEST SAANICH RD",
-      "applicant": "N/A",
+      "applicant": "STRONGITHARM CONSULTING LTD.",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00746",
@@ -14887,7 +14899,7 @@
         "5550 WEST SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM A1 TO C1-R TO REGULARIZE THE CURRENT SPLIT ZONING ARISING FROM THE BOUNDARY ADJUSTMENT, VARIANCE REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -14896,16 +14908,21 @@
           "endDate": 1697094000
         },
         {
-          "taskDescription": "Application submission review for completeness",
-          "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1697612400,
+          "endDate": 1697612400
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1697094000,
-      "relatedPermits": []
+      "lastUpdated": 1697712873,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00513",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "933 CONVENT PL",
@@ -19318,7 +19335,16 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1695984488,
-      "relatedPermits": []
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00862",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00252",
+          "relatedPermitType": "Development Permit with Variance"
+        }
+      ]
     },
     {
       "primaryStreetName": "1923 DAVIE ST",
