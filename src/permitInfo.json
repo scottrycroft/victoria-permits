@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1697712648,
+  "dateRetrieved": 1697798543,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10410,8 +10410,14 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1697439600,
+          "endDate": 1697439600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1697439600,
+          "endDate": 1697439600
         }
       ],
       "documents": [
@@ -13897,6 +13903,42 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "A 3861 CADBORO BAY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01052",
+      "applicationDate": 1697698800,
+      "addresses": [
+        "A-3861 CADBORO BAY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1697698800,
+          "endDate": 1697698800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1697698800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00747",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -14921,6 +14963,36 @@
         {
           "relatedPermitID": "DVP00513",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "A 3861 CADBORO BAY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00747",
+      "applicationDate": 1697698800,
+      "addresses": [
+        "A-3861 CADBORO BAY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1697698800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01052",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
     },
@@ -23653,6 +23725,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1695279600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1697698800,
           "endDate": null
         },
         {
