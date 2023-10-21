@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1697798543,
+  "dateRetrieved": 1697884943,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12,13 +12,13 @@
         "7103 BRENTWOOD DR"
       ],
       "status": "ACTIVE",
-      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001229",
+      "purpose": "3 lot subdivision for single family use. Variances have been requested.",
       "progressSections": [
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": 1658732400,
-          "endDate": 1658732400
+          "startDate": null,
+          "endDate": null
         },
         {
           "taskDescription": "",
@@ -27,9 +27,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "7103 Brentwood_Revised Plans_July 26 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=15580C231020100851812628&folderId=59108C200519091444200330"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1658732400,
+      "lastUpdated": 1697885168,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001229",
@@ -5824,10 +5829,10 @@
       "purpose": "Variance for setback, open space, parking, and lot coverage for a 3-storey, 8-unit townhouse",
       "progressSections": [
         {
-          "taskDescription": "DVP00127 approved on January 23, 2023",
+          "taskDescription": "DVP00127 approved on October 16, 2023",
           "taskType": "",
-          "startDate": 1674457200,
-          "endDate": 1674457200
+          "startDate": 1697439600,
+          "endDate": 1697439600
         }
       ],
       "documents": [
@@ -5839,7 +5844,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1696889438,
+      "lastUpdated": 1697885251,
       "relatedPermits": []
     },
     {
@@ -6114,10 +6119,10 @@
       "purpose": "Reduced front setback to accommodate a house lift",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "DVP00141 approved on September 25, 2023",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1695625200,
+          "endDate": 1695625200
         }
       ],
       "documents": [
@@ -6129,7 +6134,39 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1695826469,
+      "lastUpdated": 1697885251,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "904 Admirals Road",
+      "applicant": "Ramtar Developments, Ltd.",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00142",
+      "applicationDate": 1697885251,
+      "addresses": [
+        "904 Admirals Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduced minimum lot width",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00142.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1697885251,
       "relatedPermits": []
     },
     {
@@ -6146,10 +6183,10 @@
       "purpose": "To amend the zone from RD-3 to a CD zone to accommodate a 2-lot subdivision",
       "progressSections": [
         {
-          "taskDescription": "Council gave 1st, 2nd, and 3rd reading on November 21, 2022",
+          "taskDescription": "Amendment Bylaw No. 3057 adopted on September 25, 2023",
           "taskType": "",
-          "startDate": 1669014000,
-          "endDate": 1669014000
+          "startDate": 1695625200,
+          "endDate": 1695625200
         }
       ],
       "documents": [
@@ -6161,7 +6198,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1696889438,
+      "lastUpdated": 1697885251,
       "relatedPermits": []
     },
     {
@@ -6402,10 +6439,10 @@
       "purpose": "To amend the Zoning to allow for a small cottage brewery to a renovated garage",
       "progressSections": [
         {
-          "taskDescription": "Council gave 1st and 2nd reading on September 26, 2022",
+          "taskDescription": "Amendment Bylaw No. 3082 adopted on October 16, 2023",
           "taskType": "",
-          "startDate": 1664175600,
-          "endDate": 1664175600
+          "startDate": 1697439600,
+          "endDate": 1697439600
         }
       ],
       "documents": [
@@ -6417,7 +6454,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1696889438,
+      "lastUpdated": 1697885251,
       "relatedPermits": []
     },
     {
@@ -6438,10 +6475,10 @@
       "purpose": "To amend the Zoning to a CD Zone to accommodate a 6-storey apartment building",
       "progressSections": [
         {
-          "taskDescription": "Council gave 1st reading on May 15, 2023",
+          "taskDescription": "Council gave 2nd reading on October 16, 2023",
           "taskType": "",
-          "startDate": 1684134000,
-          "endDate": 1684134000
+          "startDate": 1697439600,
+          "endDate": 1697439600
         }
       ],
       "documents": [
@@ -6453,7 +6490,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1696889438,
+      "lastUpdated": 1697885251,
       "relatedPermits": []
     },
     {
@@ -35154,6 +35191,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1697785200,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -35182,6 +35225,14 @@
         {
           "docName": "2023-08-10 - Render Package - Revised.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF7823A2-6801-4F0F-A2AA-A5578677AFD0&folderId=08810C230327154737016215"
+        },
+        {
+          "docName": "2023-10-20 - Plans_Revisions_Bubbled - Condensed.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=445DE40F-09DD-4308-805A-651348C6FB9D&folderId=08810C230327154737016215"
+        },
+        {
+          "docName": "2023-10-20 - Render Package - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3055435B-D138-4BB4-8F45-700B5830A9BF&folderId=08810C230327154737016215"
         }
       ],
       "city": "Victoria",
