@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1698230547,
+  "dateRetrieved": 1698316955,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2166,6 +2166,82 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1694588400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "7180 EAST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001498",
+      "applicationDate": 1674630000,
+      "addresses": [
+        "7180 EAST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Shady Creek Church - Heritage Alteration Permit with Variances",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1695625200,
+          "endDate": 1695625200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": 1697612400,
+          "endDate": 1697612400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": 1698044400,
+          "endDate": 1698044400
+        },
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1674630000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7180 East Saanich_Conservation Plan_Oct 10 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=15580C231025150949860737&folderId=15580C231025143611389779"
+        },
+        {
+          "docName": "7180 East Saanich_Plans_Sep 13 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=15580C231025150949890679&folderId=15580C231025143611389779"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1698044400,
       "relatedPermits": []
     },
     {
@@ -9321,7 +9397,7 @@
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1697094000,
-          "endDate": null
+          "endDate": 1698217200
         },
         {
           "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
@@ -9374,12 +9450,20 @@
       ],
       "documents": [
         {
-          "docName": "Plans and Drawings - Dec 8 2022",
+          "docName": "Plans and Drawings - Updated - May 24 2023",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=69719C230601120527579783&folderId=63505C230331143155545360"
+        },
+        {
+          "docName": "Superceded - Plans and Drawings - Dec 8 2022",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=63766C230404093359815174&folderId=63505C230331143155545360"
         },
         {
           "docName": "ZON00044 - 2199 Lansdowne Rd - Data Table.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=74026C230714094307564435&folderId=63505C230331143155545360"
+        },
+        {
+          "docName": "ZON00044 - 2199 Lansdowne Rd - Updated Site Survey BCLS Signed.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=0AB51BB4-7CE9-46FC-BA8D-4AE069730CE5&folderId=63505C230331143155545360"
         }
       ],
       "city": "Oak Bay",
@@ -14065,17 +14149,18 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "A 3861 CADBORO BAY RD",
-      "applicant": "N/A",
+      "primaryStreetName": "3861 CADBORO BAY RD",
+      "applicant": "JEFFREY SENGARA",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01052",
       "applicationDate": 1697698800,
       "addresses": [
+        "3861 CADBORO BAY RD",
         "A-3861 CADBORO BAY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO RM-10 TO CONSTRUCT 12 TOWN HOMES DEVELOPMENT. VARIANCES REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -14086,13 +14171,13 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
+          "startDate": 1698217200,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1697698800,
+      "lastUpdated": 1698317181,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -15129,28 +15214,35 @@
       ]
     },
     {
-      "primaryStreetName": "A 3861 CADBORO BAY RD",
-      "applicant": "N/A",
+      "primaryStreetName": "3861 CADBORO BAY RD",
+      "applicant": "JEFFRY SENGARA",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00747",
       "applicationDate": 1697698800,
       "addresses": [
+        "3861 CADBORO BAY RD",
         "A-3861 CADBORO BAY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO RM-10 TO CONSTRUCT 12 TOWN HOMES DEVELOPMENT. VARIANCES REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1698217200,
+          "endDate": 1698217200
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1698217200,
+          "endDate": 1698217200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1697698800,
+      "lastUpdated": 1698317181,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01052",
@@ -34932,19 +35024,25 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": 1688108400,
+          "startDate": 1695193200,
+          "endDate": 1698217200
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1698217200,
           "endDate": null
         },
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
-          "startDate": null,
+          "startDate": 1698217200,
           "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1698217200,
           "endDate": null
         },
         {
@@ -34984,10 +35082,18 @@
         {
           "docName": "2023-02-06 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97C644DB-0D1C-4559-B281-EF9DAD36BBA3&folderId=80406C221209101313113366"
+        },
+        {
+          "docName": "2023-10-25 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=682C6A29-007C-499B-9505-1F4F3EB5E4FD&folderId=80406C221209101313113366"
+        },
+        {
+          "docName": "2023-10-25 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=907E2248-A583-4B95-9847-FD8712CEDFEC&folderId=80406C221209101313113366"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698144920,
+      "lastUpdated": 1698317181,
       "relatedPermits": []
     },
     {
