@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1698316955,
+  "dateRetrieved": 1698403350,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13507,6 +13507,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1697094000,
+          "endDate": 1697785200
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVAL",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -14780,7 +14786,7 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1695711600,
-          "endDate": null
+          "endDate": 1697439600
         },
         {
           "taskDescription": "Council meeting scheduled to review application",
@@ -35031,13 +35037,7 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1698217200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1698217200,
-          "endDate": null
+          "endDate": 1698303600
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
@@ -35093,7 +35093,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698317181,
+      "lastUpdated": 1698403582,
       "relatedPermits": []
     },
     {
