@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1698662551,
+  "dateRetrieved": 1698748943,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -123,7 +123,7 @@
         "938 VERDIER AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Rezone from R-2 to R-1XS for 3 lot Subdivision",
+      "purpose": "Rezone from R-2 to R-1S for 3 lot Subdivision",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -183,7 +183,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1604991600,
+      "lastUpdated": 1698749171,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001008",
@@ -901,15 +901,15 @@
           "endDate": 1695625200
         },
         {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": 1697612400,
+          "endDate": 1697612400
+        },
+        {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1648450800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "APC MEETING",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -933,7 +933,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1695625200,
+      "lastUpdated": 1698749171,
       "relatedPermits": []
     },
     {
@@ -7909,15 +7909,15 @@
           "endDate": 1696402800
         },
         {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": 1698649200,
+          "endDate": 1698649200
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1696402800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -11877,6 +11877,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1690527600,
+          "endDate": 1698649200
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1698649200,
           "endDate": null
         }
       ],
@@ -19786,7 +19792,7 @@
         "1030 EMPRESS AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -19799,7 +19805,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1695970800,
+      "lastUpdated": 1698749171,
       "relatedPermits": []
     },
     {
