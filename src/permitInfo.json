@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1698835348,
+  "dateRetrieved": 1698921738,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7918,7 +7918,7 @@
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1696402800,
-          "endDate": null
+          "endDate": 1698822000
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
@@ -7947,7 +7947,12 @@
       ],
       "city": "Oak Bay",
       "lastUpdated": 1696848405,
-      "relatedPermits": []
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP015888",
+          "relatedPermitType": "MULTI-RESIDENTIAL"
+        }
+      ]
     },
     {
       "primaryStreetName": "1742 ELGIN RD",
@@ -14989,7 +14994,7 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1695193200,
-          "endDate": null
+          "endDate": 1698822000
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
@@ -19648,7 +19653,12 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1695811635,
-      "relatedPermits": []
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00863",
+          "relatedPermitType": "Rezoning Application"
+        }
+      ]
     },
     {
       "primaryStreetName": "1909 BIRCH ST",
