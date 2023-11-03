@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1698921738,
+  "dateRetrieved": 1699008212,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -713,13 +713,19 @@
       "progressSections": [
         {
           "taskDescription": "",
-          "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1695625200,
+          "endDate": 1695625200
         },
         {
           "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
+          "taskType": "APC MEETING",
+          "startDate": 1697612400,
+          "endDate": 1697612400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
@@ -749,7 +755,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1697035984,
+      "lastUpdated": 1699008438,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001217",
@@ -896,12 +902,6 @@
       "progressSections": [
         {
           "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": 1695625200,
-          "endDate": 1695625200
-        },
-        {
-          "taskDescription": "",
           "taskType": "APC MEETING",
           "startDate": 1697612400,
           "endDate": 1697612400
@@ -914,13 +914,25 @@
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
           "startDate": null,
           "endDate": null
         },
@@ -933,7 +945,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1698749171,
+      "lastUpdated": 1699008438,
       "relatedPermits": []
     },
     {
@@ -4333,6 +4345,31 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1697036014,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1764 Island Highway",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000006",
+      "applicationDate": 1698390000,
+      "addresses": [
+        "1764 Island Highway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "An Environmental (Riparian) and Form & Character (Mixed Use Employment Centre) Development Permit to enable a 4-storey self-storage building.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP000006_Permit%20SIGNED%20CONSOLIDATED.pdf",
+          "docName": "DP000006_Permit SIGNED CONSOLIDATED"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1699008477,
       "relatedPermits": []
     },
     {
@@ -14200,13 +14237,32 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": 1698217200,
+          "startDate": 1697698800,
+          "endDate": 1697698800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1698908400,
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATION PLANS_OCT 19 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2D4BAAF9-5C2F-4933-BA99-D3229A393CAC&folderId=52914C231019155344836974"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_OCT 19 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=673C80DB-FF1C-44AB-A24C-3190F1FFF2DC&folderId=52914C231019155344836974"
+        },
+        {
+          "docName": "SITE PLAN_OCT 19 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=F84AAF6A-70AA-4098-BEE4-0C299D6C4FA3&folderId=52914C231019155344836974"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1698317181,
+      "lastUpdated": 1699008438,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
