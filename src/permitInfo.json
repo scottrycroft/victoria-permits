@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1699357365,
+  "dateRetrieved": 1699443748,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -9444,7 +9444,7 @@
         {
           "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
           "taskType": "APPLICANT NEIGHBOUR INFO MTG",
-          "startDate": null,
+          "startDate": 1699426800,
           "endDate": null
         },
         {
@@ -14277,6 +14277,36 @@
       ]
     },
     {
+      "primaryStreetName": "3869 PERSIMMON DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01053",
+      "applicationDate": 1699340400,
+      "addresses": [
+        "3869 PERSIMMON DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1699340400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00748",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -15337,6 +15367,36 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01052",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3869 PERSIMMON DR",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00748",
+      "applicationDate": 1699340400,
+      "addresses": [
+        "3869 PERSIMMON DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1699340400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01053",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
