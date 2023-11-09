@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1699443748,
+  "dateRetrieved": 1699530152,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14287,7 +14287,7 @@
         "3869 PERSIMMON DR"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RD-1 TO CONSTRUCT A TWO SIGNLE FAMILY DWELLING DUPLEX",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -14298,7 +14298,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1699340400,
+      "lastUpdated": 1699530390,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00748",
@@ -14906,7 +14906,13 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1699254000,
+          "endDate": 1699254000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1699254000,
           "endDate": null
         }
       ],
