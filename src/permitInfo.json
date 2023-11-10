@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1699530152,
+  "dateRetrieved": 1699616562,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12924,6 +12924,10 @@
       "lastUpdated": 1696848405,
       "relatedPermits": [
         {
+          "relatedPermitID": "TRP20873",
+          "relatedPermitType": "TREE PERMIT"
+        },
+        {
           "relatedPermitID": "BLD20454",
           "relatedPermitType": "RESIDENTIAL PERMIT"
         }
@@ -14292,13 +14296,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699513200,
+          "endDate": 1699513200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1699513200,
+          "endDate": 1699513200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1699530390,
+      "lastUpdated": 1699616791,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00748",
@@ -20035,6 +20045,36 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1696848405,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "930 BURDETT AVE",
+      "applicant": "KAELEY WISEMAN",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00424",
+      "applicationDate": 1699599600,
+      "addresses": [
+        "930 BURDETT AVE",
+        "990 BURDETT AVE",
+        "911 QUADRA ST",
+        "912 VANCOUVER ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2023-10-24 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=68488C231024085638504855&folderId=62972C231003154831003363"
+        },
+        {
+          "docName": "2023-10-24 - Project Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=68488C231024085638536115&folderId=62972C231003154831003363"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1699599600,
       "relatedPermits": []
     },
     {
