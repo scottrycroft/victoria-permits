@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1699962159,
+  "dateRetrieved": 1700049079,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7628,19 +7628,19 @@
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1697094000,
-          "endDate": null
+          "endDate": 1699945200
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699945200,
+          "endDate": 1699945200
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699945200,
+          "endDate": 1699945200
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
@@ -7663,7 +7663,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1697193953,
+      "lastUpdated": 1700049306,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00134",
@@ -14315,6 +14315,37 @@
           "relatedPermitType": "REZONING"
         }
       ]
+    },
+    {
+      "primaryStreetName": "290 STEVENS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01054",
+      "applicationDate": 1699945200,
+      "addresses": [
+        "290 STEVENS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1699945200,
+          "endDate": 1699945200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1699945200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
