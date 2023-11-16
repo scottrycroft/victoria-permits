@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1700049079,
+  "dateRetrieved": 1700134946,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -380,6 +380,12 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
           "startDate": null,
           "endDate": null
@@ -392,7 +398,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1630479600,
+      "lastUpdated": 1700135178,
       "relatedPermits": []
     },
     {
@@ -24187,15 +24193,21 @@
           "endDate": 1690527600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1692860400,
+          "endDate": 1700031600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1690527600,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1692860400,
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1700031600,
           "endDate": null
         },
         {
@@ -24219,6 +24231,18 @@
         {
           "docName": "2023-07-27 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=43CE0707-FA60-4D8F-AE8B-27AA7B530379&folderId=44875C230727122947637290"
+        },
+        {
+          "docName": "2023-11-07 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8D2FDB25-6C46-4087-A3E3-0439B4EB8472&folderId=44875C230727122947637290"
+        },
+        {
+          "docName": "2023-11-07 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AFE8C31E-8823-4E38-AC35-D7E93C3AC184&folderId=44875C230727122947637290"
+        },
+        {
+          "docName": "2023-11-07 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7C1FF0E1-9308-4286-B97E-683D5F2B11CC&folderId=44875C230727122947637290"
         }
       ],
       "city": "Victoria",
