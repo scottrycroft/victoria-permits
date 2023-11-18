@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1700221372,
+  "dateRetrieved": 1700308261,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -732,8 +732,8 @@
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699945200,
+          "endDate": 1699945200
         },
         {
           "taskDescription": "",
@@ -761,7 +761,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1699008438,
+      "lastUpdated": 1700308495,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001217",
@@ -913,27 +913,27 @@
           "endDate": 1697612400
         },
         {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1648450800,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699945200,
+          "endDate": 1699945200
         },
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699945200,
+          "endDate": 1699945200
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
+          "startDate": 1699945200,
+          "endDate": 1699945200
+        },
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1648450800,
           "endDate": null
         },
         {
@@ -951,7 +951,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1699008438,
+      "lastUpdated": 1700308495,
       "relatedPermits": []
     },
     {
@@ -15455,6 +15455,31 @@
       ]
     },
     {
+      "primaryStreetName": "4965 OLD WEST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00749",
+      "applicationDate": 1700204400,
+      "addresses": [
+        "4965 OLD WEST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1700204400,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "933 CONVENT PL",
       "applicant": "",
       "cityApplicationType": "Pre-Application (CALUC)",
@@ -24157,6 +24182,12 @@
           "endDate": 1700031600
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1700031600,
+          "endDate": 1700204400
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1690527600,
@@ -24165,7 +24196,7 @@
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
-          "startDate": 1700031600,
+          "startDate": 1700204400,
           "endDate": null
         },
         {
