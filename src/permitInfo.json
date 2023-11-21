@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1700480545,
+  "dateRetrieved": 1700566948,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7937,7 +7937,7 @@
         "1400 NEWPORT AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit to replace fascia boards, and the pickets and railings on all decks.",
+      "purpose": "This is an application for a development permit to upgrade to the existing balconies with new railing, spindles and fascia boards.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -24158,7 +24158,7 @@
     },
     {
       "primaryStreetName": "1132 JOHNSON ST",
-      "applicant": "N/A",
+      "applicant": "PAUL HAMMOND",
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000634",
@@ -24188,15 +24188,15 @@
           "endDate": 1700204400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1690527600,
-          "endDate": null
-        },
-        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1700204400,
+          "endDate": 1700463600
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1690527600,
           "endDate": null
         },
         {
