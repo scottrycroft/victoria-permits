@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1700566948,
+  "dateRetrieved": 1700653359,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12677,7 +12677,13 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1700463600,
+          "endDate": 1700463600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1700463600,
           "endDate": null
         }
       ],
@@ -14354,6 +14360,37 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "4211 COMMERCE CIR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01055",
+      "applicationDate": 1700550000,
+      "addresses": [
+        "4211 COMMERCE CIR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1700550000,
+          "endDate": 1700550000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1700550000,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -15084,12 +15121,18 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1695193200,
-          "endDate": null
+          "endDate": 1700550000
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1695279600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1700550000,
           "endDate": null
         }
       ],
@@ -15145,6 +15188,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1695193200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1700550000,
           "endDate": null
         }
       ],
@@ -24350,7 +24399,9 @@
       "folderNumber": "DP000638",
       "applicationDate": 1695884400,
       "addresses": [
-        "902 FOUL BAY RD"
+        "902 FOUL BAY RD",
+        "907 REDFERN ST",
+        "909 REDFERN ST"
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Development Permit application to make changes to the previously approved Development Permit plans.",
