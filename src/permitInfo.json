@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1700739755,
+  "dateRetrieved": 1700826153,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15505,7 +15505,7 @@
     },
     {
       "primaryStreetName": "4965 OLD WEST SAANICH RD",
-      "applicant": "N/A",
+      "applicant": "STRONGITHARM CONSULTING LTD",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00749",
@@ -15514,18 +15514,24 @@
         "4965 OLD WEST SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM A-1 ZONE SFD TO A-2 ZONE TO CONSTRUCT AN ADDITIONAL SFD",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1700722800,
+          "endDate": 1700722800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1700722800,
+          "endDate": 1700722800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1700204400,
+      "lastUpdated": 1700826388,
       "relatedPermits": []
     },
     {
