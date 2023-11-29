@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1701171762,
+  "dateRetrieved": 1701258146,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12943,6 +12943,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1695970800,
+          "endDate": 1701154800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1701154800,
           "endDate": null
         }
       ],
@@ -13680,7 +13686,7 @@
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1699254000,
           "endDate": null
         }
       ],
@@ -14168,6 +14174,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1690959600,
+          "endDate": 1701154800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1701154800,
           "endDate": null
         }
       ],
@@ -14577,7 +14589,7 @@
     },
     {
       "primaryStreetName": "3865 HOBBS ST",
-      "applicant": "N/A",
+      "applicant": "HOYT DESIGN CO.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01056",
@@ -14586,18 +14598,24 @@
         "3865 HOBBS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO CD TO CONSTRUCT 4 UNIT RESIDENTIAL TOWNHOMES",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701154800,
+          "endDate": 1701154800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1701154800,
+          "endDate": 1701154800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1700809200,
+      "lastUpdated": 1701258499,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00750",
@@ -15751,7 +15769,7 @@
     },
     {
       "primaryStreetName": "3865 HOBBS ST",
-      "applicant": "N/A",
+      "applicant": "HOYT DESIGN CO.",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00750",
@@ -15760,18 +15778,24 @@
         "3865 HOBBS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO CD TO CONSTRUCT 4 UNIT RESIDENTIAL TOWNHOMES",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1700809200,
+          "endDate": 1701154800
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1700809200,
+          "endDate": 1701154800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1700809200,
+      "lastUpdated": 1701258499,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01056",
@@ -20450,7 +20474,7 @@
         "2501 BLANSHARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -20467,7 +20491,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698044400,
+      "lastUpdated": 1701258499,
       "relatedPermits": []
     },
     {
@@ -20482,7 +20506,7 @@
         "519 RITHET ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -20499,7 +20523,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698130800,
+      "lastUpdated": 1701258499,
       "relatedPermits": []
     },
     {
@@ -68589,7 +68613,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1701154800,
           "endDate": null
         },
         {
@@ -69021,7 +69045,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1698649200,
-          "endDate": null
+          "endDate": 1700809200
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -69061,7 +69085,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1701258499,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00259",
