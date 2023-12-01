@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1701344598,
+  "dateRetrieved": 1701431033,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14653,6 +14653,76 @@
       ]
     },
     {
+      "primaryStreetName": "961 MCKENZIE AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01057",
+      "applicationDate": 1701327600,
+      "addresses": [
+        "961 MCKENZIE AVE",
+        "3986 SAANICH RD",
+        "3990 SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1701327600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00751",
+          "relatedPermitType": "REZONING"
+        },
+        {
+          "relatedPermitID": "DVP00515",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01058",
+      "applicationDate": 1701327600,
+      "addresses": [
+        "N/A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1701327600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00752",
+          "relatedPermitType": "REZONING"
+        },
+        {
+          "relatedPermitID": "DVP00516",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -15776,7 +15846,7 @@
         "4965 OLD WEST SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM A-1 ZONE SFD TO A-2 ZONE TO CONSTRUCT AN ADDITIONAL SFD",
+      "purpose": "TO REZONE FROM THE A-1 ZONE TO A SITE-SPECIFIC ZONE TO CONSTRUCT A SECOND SINGLE FAMILY DWELLING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -15793,7 +15863,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1700826388,
+      "lastUpdated": 1701431392,
       "relatedPermits": []
     },
     {
@@ -15828,6 +15898,74 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01056",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00751",
+      "applicationDate": 1701327600,
+      "addresses": [
+        "N/A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1701327600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00515",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
+        {
+          "relatedPermitID": "DPR01057",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00752",
+      "applicationDate": 1701327600,
+      "addresses": [
+        "N/A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1701327600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00516",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
+        {
+          "relatedPermitID": "DPR01058",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -35593,7 +35731,7 @@
         "1358 PANDORA AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00833 FOR PROJECT DETAILS. The City is considering a Development Permit with Variances for a new development which includes residential uses. The proposal requires an amendment to the Official Community Plan.",
+      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00833 FOR PROJECT DETAILS. The City is considering a Development Permit with Variances application in order to permit a designated Heritage house conversion to a duplex, 10 new strata townhouse units, and a new 73-unit purpose-built market rental building.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -35604,7 +35742,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1670482800,
+      "lastUpdated": 1701431392,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00833",
@@ -68508,7 +68646,7 @@
         "1358 PANDORA AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to a site-specific zone for a new development which includes residential uses. The proposal requires an amendment to the Official Community Plan. Concurrent with DPV00221.",
+      "purpose": "The City is considering a Rezoning application to a site-specific zone in order to permit a designated Heritage house conversion to a duplex, 10 new strata townhouse units, and a new 73-unit purpose-built market rental building.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -68523,20 +68661,26 @@
           "endDate": 1673247600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1673247600,
+          "endDate": 1701327600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1670482800,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1673247600,
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1701327600,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -68574,7 +68718,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1701431392,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -72324,7 +72468,7 @@
         "250 Helmcken Rd"
       ],
       "status": "ACTIVE",
-      "purpose": "Application to rezone from C1-Commercial to RM-3 Mixed Residential.",
+      "purpose": "To rezone from C1-Commercial to RM-3 Mixed Residential.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -72342,7 +72486,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1701431425,
       "relatedPermits": []
     },
     {
@@ -72356,7 +72500,7 @@
         "335 Stewart Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "Application to increase permitted floor area to 550m2 to allow for an addition.",
+      "purpose": "To increase permitted floor area to 550m2 to allow for an addition.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -72386,22 +72530,23 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1701431425,
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "296 Eltham Rd",
+      "primaryStreetName": "296 Eltham Rd ",
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
       "folderNumber": "REZ 2022-05",
       "applicationDate": 1688431516,
       "addresses": [
-        "296 Eltham Rd",
+        "296 Eltham Rd ",
+        "",
         "241 Helmcken Rd"
       ],
       "status": "ARCHIVED",
-      "purpose": "Application to allow for 20 townhouse units.",
+      "purpose": "To allow for 20 townhouse units.",
       "progressSections": [
         {
           "taskDescription": "Declined",
@@ -72423,23 +72568,24 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1701431425,
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "14 Helmcken Rd",
+      "primaryStreetName": "14 ",
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
       "folderNumber": "REZ 2022-06",
       "applicationDate": 1688431516,
       "addresses": [
-        "14 Helmcken Rd",
-        "14A Helmcken Rd",
+        "14 ",
+        "14A Helmcken Rd ",
+        "",
         "6 Camden Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "Application to rezone to allow 14 townhouse units within two buildings.",
+      "purpose": "To rezone to allow 14 townhouse units within two buildings.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -72461,7 +72607,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1701431425,
       "relatedPermits": []
     },
     {
@@ -72477,7 +72623,7 @@
         "345 Island Hwy"
       ],
       "status": "ACTIVE",
-      "purpose": "The proposal is to increase the density and permit a multi-unit residential development consisting of two six-storey and one seven-storey building (due to the projection of an underground parkade). The proposal requires an amendment to the Official Community Plan.",
+      "purpose": "To increase the density and permit a multi-unit residential development consisting of two six-storey and one seven-storey building (due to the projection of an underground parkade). The proposal requires an amendment to the Official Community Plan.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -72488,18 +72634,22 @@
       ],
       "documents": [
         {
-          "docName": "2023 01 25 Letter to Mayor & Council [PDF - 142 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 LTM.pdf"
+          "docName": "2023 10 19 Revised Letter to Mayor & Council [PDF - 434 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/2023-01 Ltr to M&C Revised.pdf"
         },
         {
-          "docName": "2023 03 24 Revised Plans [PDF - 4 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 Revised Plans 03 24.pdf"
+          "docName": "2023 10 19 Revised Plans [PDF - 18 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 Plans revised.pdf"
+        },
+        {
+          "docName": "Public Hearing Notice [PDF - 316 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 12 05 PH Notice - 339-345 Island Hwy.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1701431425,
       "relatedPermits": []
     },
     {
@@ -72573,6 +72723,72 @@
       "withApplicantDays": null,
       "city": "View Royal",
       "lastUpdated": 1696889439,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "294 ",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ 2023-04",
+      "applicationDate": 1701431425,
+      "addresses": [
+        "294 ",
+        "296 Eltham Rd ",
+        "",
+        "242 Helmcken Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To propose a multifamily development for 20 townhouse units.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1701431425,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "9 Erskine Ln",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ 2023-05",
+      "applicationDate": 1701431425,
+      "addresses": [
+        "9 Erskine Ln"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To amend a covenant to allow construction of a signalized intersection instead of a roundabout at the intersection of Watkiss Way, Erskine Lane, and Stoneridge Drive.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2023 10 17 Public Hearing Notice [PDF - 95 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 10 17 Ph Notice - 9 Erskine Lane.pdf"
+        },
+        {
+          "docName": "2023 10 17 Staff Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/66164/Request%20to%20Amend%20Covenant%20for%20Erskine%20Lane-Watkiss.pdf?handle=189DC45B1B5F4BF7B146E31FA771F659"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1701431425,
       "relatedPermits": []
     }
   ]
