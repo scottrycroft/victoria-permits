@@ -29,6 +29,7 @@ const toast = useToast();
 
 const filters = ref({
 	global: { value: null, matchMode: FilterMatchMode.CONTAINS },
+	folderNumber: { value: null, matchMode: FilterMatchMode.CONTAINS },
 	primaryStreetName: { value: null, matchMode: FilterMatchMode.CONTAINS },
 	applicationType: { value: null, matchMode: FilterMatchMode.IN },
 	status: { value: null, matchMode: FilterMatchMode.EQUALS },
@@ -367,6 +368,26 @@ function showNoPAToast() {
 						:to="{ name: 'view_permit', params: { city: data.city, permitID: data.folderNumber } }"
 						><Button icon="pi pi-search" outlined rounded title="View Permit"
 					/></router-link>
+				</template>
+			</Column>
+			<Column
+				field="folderNumber"
+				filterField="folderNumber"
+				header="ID"
+				:sortable="true"
+				class="w-1"
+				:showFilterMenu="false"
+			>
+				<template #filter="{ filterModel, filterCallback }">
+					<InputText
+						v-model="filterModel.value"
+						type="text"
+						@input="filterCallback()"
+						placeholder="ID"
+					/>
+				</template>
+				<template #body="{ data }: { data: PermitsEntity }">
+					{{ data.folderNumber }}
 				</template>
 			</Column>
 			<Column
