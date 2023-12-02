@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1701431033,
+  "dateRetrieved": 1701517367,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8183,6 +8183,72 @@
       ]
     },
     {
+      "primaryStreetName": "1110 BEACH DR",
+      "applicant": "WEAVER TECHNICAL",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000049",
+      "applicationDate": 1701414000,
+      "addresses": [
+        "1110 BEACH DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit to allow for the following remediation work: 1) the removal and stockpiling of surface materials (sand, gravels, logs, etc.) from the supra and upper intertidal zones; 2) the strategic placement of large riprap (arranging boulders to re-grade, stabilize, and armour the bank); 3) the use of clean, locally sourced materials for backfilling; 4) raising the fairway elevation and improving water management; 5) re-installing stockpiled beach materials (such as woody debris); 6) the construction of an elevated trestle along the cart path; and 7) and the planting of dune grasses and other native plant species typical of the area (including yellow sand verbena, beach pea, Nootka rose, etc.).",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1701414000,
+          "endDate": 1701414000
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "DP000049 - 1110 Beach Dr - 5th Hole Shoreline Design.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=64436BD7-B5B9-414B-9292-ECE585B1FFF5&folderId=85939C231201155158144944"
+        }
+      ],
+      "city": "Oak Bay",
+      "lastUpdated": 1701414000,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -9882,6 +9948,91 @@
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "2095 GRANITE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00047",
+      "applicationDate": 1701414000,
+      "addresses": [
+        "2095 GRANITE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1701414000,
+          "endDate": 1701414000
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
+          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "meeting date of council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
+          "taskType": "PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1701414000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "640 BEAVER LAKE RD",
@@ -14689,29 +14840,41 @@
       ]
     },
     {
-      "primaryStreetName": "",
-      "applicant": "N/A",
+      "primaryStreetName": "3982 GORDON HEAD RD",
+      "applicant": "SEBA CONSTRUCTION",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01058",
       "applicationDate": 1701327600,
       "addresses": [
-        "N/A"
+        "3982 GORDON HEAD RD",
+        "3984 GORDON HEAD RD",
+        "3986 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY MIXED USE BLG",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1701414000,
+          "endDate": 1701414000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1701414000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701327600,
+      "lastUpdated": 1701517726,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPA01039",
+          "relatedPermitType": "DEVELOPMENT PERMIT AMENDMENT"
+        },
         {
           "relatedPermitID": "REZ00752",
           "relatedPermitType": "REZONING"
@@ -15947,7 +16110,7 @@
         "N/A"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY MIXED USE BLG",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -15958,8 +16121,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701327600,
+      "lastUpdated": 1701517726,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPA01039",
+          "relatedPermitType": "DEVELOPMENT PERMIT AMENDMENT"
+        },
         {
           "relatedPermitID": "DVP00516",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
@@ -35216,7 +35383,7 @@
         "257 BELLEVILLE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct a multiple dwelling building with variances. See DP000575 for project details prior to June 8, 2022.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a multiple dwelling building with variances. Associated with this application is an amendment to the existing zone to change the definition of \"community amenities\". See DP000575 for project details prior to June 8, 2022.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -37509,8 +37676,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1698908400,
+          "endDate": 1698908400
         },
         {
           "taskDescription": "Meeting date for Council to consider approving the application.",
@@ -37530,7 +37697,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1701344950,
+      "lastUpdated": 1701517726,
       "relatedPermits": []
     },
     {
@@ -64850,8 +65017,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1700722800,
+          "endDate": 1700722800
         },
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
@@ -66730,6 +66897,12 @@
           "taskType": "With Applicant",
           "startDate": 1700204400,
           "endDate": 1701241200
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1701414000,
+          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -69482,20 +69655,20 @@
       ],
       "documents": [
         {
-          "docName": "2023-03-02 - Plans - Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16E545D4-0E69-4FDB-90C3-AEB87A0F433E&folderId=01974C230302151324660459"
-        },
-        {
           "docName": "2023-07-28 - Letter to Council - Revised.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88F960B0-6514-48E7-8386-37E80617F111&folderId=01974C230302151324660459"
         },
         {
-          "docName": "2023-07-28 - Plans - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14C6BC01-7227-426F-B878-7DBC01B2D738&folderId=01974C230302151324660459"
+          "docName": "2023-12-01 - Plans - Revisions - Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9BC89871-2B7F-49C2-852E-2A6627D6F67A&folderId=01974C230302151324660459"
         },
         {
-          "docName": "Letter to  Council.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DB903176-D14B-4BC7-AFA7-0CCB9935A1F9&folderId=01974C230302151324660459"
+          "docName": "2023-12-01 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BDF69466-E71B-43DA-B083-A6C7C1F31C55&folderId=01974C230302151324660459"
+        },
+        {
+          "docName": "2023-12-01 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62E8F7F2-F9B6-485E-908B-3A34080BA687&folderId=01974C230302151324660459"
         }
       ],
       "city": "Victoria",
@@ -69552,14 +69725,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -72644,12 +72817,24 @@
         {
           "docName": "Public Hearing Notice [PDF - 316 KB]",
           "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 12 05 PH Notice - 339-345 Island Hwy.pdf"
+        },
+        {
+          "docName": "2023 12 05 Council Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/67205/Rezoning%20Application%20No.%202023-01%20for%20339,%20341%20and%20.pdf?handle=8177323B6073411FBB43E6212ED70BA7"
+        },
+        {
+          "docName": "2023 12 05",
+          "docURL": "https://viewroyalbc.civicweb.net/filepro/documents/?preview=67295"
+        },
+        {
+          "docName": "Public Hearing Agenda",
+          "docURL": "https://viewroyalbc.civicweb.net/filepro/documents/?preview=67295"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701431425,
+      "lastUpdated": 1701517759,
       "relatedPermits": []
     },
     {
