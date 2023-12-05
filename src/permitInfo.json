@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1701690159,
+  "dateRetrieved": 1701776567,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4930,7 +4930,7 @@
       "purpose": "Creation of a new CD zone to enable a 51-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Under Review by Staff.",
+          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 2023",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4945,7 +4945,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696916907,
+      "lastUpdated": 1701776974,
       "relatedPermits": []
     },
     {
@@ -69605,12 +69605,6 @@
           "endDate": 1677826800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1677826800,
-          "endDate": 1679641200
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1679641200,
@@ -69623,9 +69617,15 @@
           "endDate": 1690527600
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1677826800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1690527600,
+          "startDate": 1701673200,
           "endDate": null
         },
         {
@@ -70318,6 +70318,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1693897200,
+          "endDate": 1698908400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1701673200,
           "endDate": null
         },
         {
@@ -70345,16 +70351,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=77308389-BD80-4A3B-85E8-DD782A8B2F4F&folderId=15938C230421091532521120"
         },
         {
-          "docName": "2023-04-19 - Plans - Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=96769831-90B1-4072-A26C-29F8D6345B6E&folderId=15938C230421091532521120"
+          "docName": "2023-11-02 - Plans - Revisions - Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B663A22D-1FFF-4963-91FB-ED3BAEE6ED45&folderId=15938C230421091532521120"
         },
         {
-          "docName": "23-07-25 - Plans - Revisions - Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7BA9C6AD-0EE0-4C75-A0D7-1C22E4F2D6F3&folderId=15938C230421091532521120"
-        },
-        {
-          "docName": "23-07-25 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D00907D7-6ACE-4666-850A-61F392BE49B5&folderId=15938C230421091532521120"
+          "docName": "2023-11-02 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FC515BDA-AAF4-46A6-8A33-5AE1878EEAD9&folderId=15938C230421091532521120"
         }
       ],
       "city": "Victoria",
