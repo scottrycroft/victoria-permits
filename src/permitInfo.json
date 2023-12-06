@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1701776567,
+  "dateRetrieved": 1701862948,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2218,21 +2218,21 @@
           "endDate": 1698044400
         },
         {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1674630000,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699945200,
+          "endDate": 1699945200
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
+          "startDate": 1699945200,
+          "endDate": 1699945200
+        },
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1674630000,
           "endDate": null
         },
         {
@@ -2259,7 +2259,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1698044400,
+      "lastUpdated": 1701863309,
       "relatedPermits": []
     },
     {
@@ -2412,6 +2412,61 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1700722800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "480 WEST VIEW RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001515",
+      "applicationDate": 1698649200,
+      "addresses": [
+        "480 WEST VIEW RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Proposed wharf and site access to shoreline",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1701759600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1701759600,
       "relatedPermits": []
     },
     {
@@ -4706,7 +4761,7 @@
       "purpose": "28 Unit Townhouse development, all 3 storeys with a total of 64 parking stalls.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee Oct 3, 2023. 1st and 2nd reading completed Oct 10, 2023.3rd reading scheduled for Oct 23, 2023",
+          "taskDescription": "Reviewed by Planning and Land Use Committee Oct 3, 2023. 1st and 2nd reading completed Oct 10, 2023.3rd reading completed Oct 23, 2023.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4721,7 +4776,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1698145010,
+      "lastUpdated": 1701863350,
       "relatedPermits": []
     },
     {
@@ -4770,7 +4825,7 @@
       "purpose": "Creation of a new CD zone to accommodate a 6-storey building with 67 units.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.1st and 2nd reading scheduled for Oct 10, 2023.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.1st and 2nd reading scheduled for Dec 11, 2023.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4785,7 +4840,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1697036014,
+      "lastUpdated": 1701863350,
       "relatedPermits": []
     },
     {
@@ -4802,7 +4857,7 @@
       "purpose": "Creation of a new CD Zone to accommodate a 6-storey building with 150 units.",
       "progressSections": [
         {
-          "taskDescription": "Introduction to Council May 8, 2023.1st & 2nd reading completed June 12, 2023.3rd reading scheduled for July 10, 2023.",
+          "taskDescription": "Introduction to Council May 8, 2023.1st & 2nd reading completed June 12, 2023.3rd reading completed July 10, 2023.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4817,7 +4872,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696915873,
+      "lastUpdated": 1701863350,
       "relatedPermits": []
     },
     {
@@ -4889,6 +4944,38 @@
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
+      "folderNumber": "RZ-23-00",
+      "applicationDate": 1679554800,
+      "addresses": [
+        "1911-1921 Jerome Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Increase permitted height to allow multi-residential highrise towers.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/1911-1921%20Jerome%20Road%20-%20Application%20Redacted.pdf",
+          "docName": "1911-1921 Jerome Road - Application Redacted"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1701863350,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1911-1921 Jerome Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
       "folderNumber": "RZ-23-003",
       "applicationDate": 1679554800,
       "addresses": [
@@ -4930,7 +5017,7 @@
       "purpose": "Creation of a new CD zone to enable a 51-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 2023",
+          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 20231st & 2nd reading scheduled for January 8, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4945,7 +5032,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1701776974,
+      "lastUpdated": 1701863350,
       "relatedPermits": []
     },
     {
@@ -7758,6 +7845,12 @@
           "taskType": "ADVISORY BODY MEETING",
           "startDate": 1689663600,
           "endDate": 1689663600
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1696921200,
+          "endDate": 1701759600
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
@@ -35450,12 +35543,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5DB9A6A5-70C8-444C-A2F5-6CC850D05692&folderId=31742C220609094816160529"
         },
         {
-          "docName": "2023-10-20 - Plans - Revisions - bubbled - Deemed Oct 28, 2022.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=70411C231031121103688247&folderId=31742C220609094816160529"
+          "docName": "2023-10-31 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80526C231205084650094290&folderId=31742C220609094816160529"
         },
         {
-          "docName": "2023-10-20 - Plans - Revisions - Deemed Oct 28, 2022.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=70411C231031121103701249&folderId=31742C220609094816160529"
+          "docName": "2023-10-31 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80526C231205084650137674&folderId=31742C220609094816160529"
         }
       ],
       "city": "Victoria",
@@ -36378,7 +36471,7 @@
     },
     {
       "primaryStreetName": "1050 YATES ST",
-      "applicant": "MACKENZIE BIGGAR",
+      "applicant": "BYRON CHARD",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00230",
@@ -67251,7 +67344,7 @@
         "1737 FAIRFIELD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for a four-storey multiple dwelling consisting of 31 dwelling units with a potential amendment to the Official Community Plan. Concurrent with Development Permit with Variance Application No. 00204. Revised from 19 units to 30 units (refer to Aug 22 2023 plans)/PC Revised again from 30 units to 31 units- removed amenity space (plans not submitted)/PC",
+      "purpose": "The City is considering a Rezoning application to allow for a four-storey multiple dwelling consisting of 31 dwelling units with a potential amendment to the Official Community Plan. Concurrent with Development Permit with Variance Application No. 00204.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -69682,7 +69775,7 @@
     },
     {
       "primaryStreetName": "1964 FAIRFIELD RD",
-      "applicant": "CATHY ARMSTRONG",
+      "applicant": "DIANNA STENBERG",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00845",
@@ -72801,7 +72894,7 @@
       "purpose": "To increase the density and permit a multi-unit residential development consisting of two six-storey and one seven-storey building (due to the projection of an underground parkade). The proposal requires an amendment to the Official Community Plan.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Public Hearing - December 5, 2023",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -72813,8 +72906,20 @@
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/2023-01 Ltr to M&C Revised.pdf"
         },
         {
+          "docName": "2023 04 25 Revised Letter to Mayor & Council [PDF - 770 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 REV LMC 2023 04 25.pdf"
+        },
+        {
+          "docName": "2023 01 23 Letter to Mayor & Council [PDF - 142 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 LTM.pdf"
+        },
+        {
           "docName": "2023 10 19 Revised Plans [PDF - 18 MB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 Plans revised.pdf"
+        },
+        {
+          "docName": "2023 06 06 Revised Plans [PDF - 61 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 Rev drawings 2023 06 06.pdf"
         },
         {
           "docName": "Public Hearing Notice [PDF - 316 KB]",
@@ -72831,12 +72936,28 @@
         {
           "docName": "Public Hearing Agenda",
           "docURL": "https://viewroyalbc.civicweb.net/filepro/documents/?preview=67295"
+        },
+        {
+          "docName": "2023 11 07 Council Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/66443/Rezoning%20Application%20-%20339,%20341%20and%20345%20Island%20Hig.pdf?handle=FA89DCF6A92242F5A93ED73DE4694BE4"
+        },
+        {
+          "docName": "2023 11 07 Council Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/66467/Staff%20Presentation%20-%20Rezoning%20Application%20-%20339,%203.pdf?handle=5F42D159FBCB4F8293757E9EA320A0BE"
+        },
+        {
+          "docName": "2023 06 13 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/63397/Rezoning%20and%20OCP%20Amendment%20-%20339-345%20Island%20Highwa.pdf?handle=CBB316B8CA48480DB71DDBC2E1191440"
+        },
+        {
+          "docName": "2023 06 13 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/63417/Staff%20Presentation%20-%20Rezoning%20and%20OCP%20Amendment%20-%20.pdf?handle=CE55880FC5594C95A6F11A13C49BB57B"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701517759,
+      "lastUpdated": 1701863346,
       "relatedPermits": []
     },
     {
@@ -72956,7 +73077,7 @@
       "purpose": "To amend a covenant to allow construction of a signalized intersection instead of a roundabout at the intersection of Watkiss Way, Erskine Lane, and Stoneridge Drive.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Complete",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -72975,7 +73096,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701431425,
+      "lastUpdated": 1701863346,
       "relatedPermits": []
     }
   ]
