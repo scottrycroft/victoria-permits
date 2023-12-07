@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1701862948,
+  "dateRetrieved": 1701949453,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10053,7 +10053,7 @@
         "2095 GRANITE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment.",
+      "purpose": "This is an application for a zoning bylaw amendment to authorize an existing care home use.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -10064,12 +10064,6 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
           "startDate": null,
           "endDate": null
         },
@@ -10124,7 +10118,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1701414000,
+      "lastUpdated": 1701949812,
       "relatedPermits": []
     },
     {
@@ -12365,6 +12359,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1698649200,
+          "endDate": 1701846000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1701846000,
           "endDate": null
         }
       ],
@@ -16227,6 +16227,36 @@
         {
           "relatedPermitID": "DPR01058",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1801 MIDGARD AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00753",
+      "applicationDate": 1701846000,
+      "addresses": [
+        "1801 MIDGARD AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1701846000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00950",
+          "relatedPermitType": "SUBDIVISION"
         }
       ]
     },
@@ -56550,6 +56580,14 @@
         {
           "docName": "2023-10-03 - Appendix E - Public Consultation.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62969C231003085109049237&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "23-109.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80993C231206152131028156&folderId=97652C200130130718936158"
+        },
+        {
+          "docName": "23-110.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80993C231206152131111613&folderId=97652C200130130718936158"
         }
       ],
       "city": "Victoria",
