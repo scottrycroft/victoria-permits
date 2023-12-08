@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1701949453,
+  "dateRetrieved": 1702035786,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1373,13 +1373,13 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701068400,
+          "endDate": 1701068400
         },
         {
           "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
-          "startDate": null,
+          "startDate": 1701932400,
           "endDate": null
         }
       ],
@@ -1390,7 +1390,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1676617200,
+      "lastUpdated": 1702036145,
       "relatedPermits": []
     },
     {
@@ -14945,29 +14945,25 @@
         "3986 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY MIXED USE BLG",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 78 UNIT MULTI-FAMILY BUILDING (PHASE 1) PLUS A 3 STOREY, 5 UNIT TOWNHOUSE BUILDING (PHASE 2)",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": 1701414000,
-          "endDate": 1701414000
+          "startDate": 1701327600,
+          "endDate": 1701327600
         },
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": 1701414000,
-          "endDate": null
+          "startDate": 1701327600,
+          "endDate": 1701327600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701517726,
+      "lastUpdated": 1702036145,
       "relatedPermits": [
-        {
-          "relatedPermitID": "DPA01039",
-          "relatedPermitType": "DEVELOPMENT PERMIT AMENDMENT"
-        },
         {
           "relatedPermitID": "REZ00752",
           "relatedPermitType": "REZONING"
@@ -16193,33 +16189,37 @@
       ]
     },
     {
-      "primaryStreetName": "",
-      "applicant": "N/A",
+      "primaryStreetName": "3982 GORDON HEAD RD",
+      "applicant": "SEBA CONSTRUCTION LTD.",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00752",
       "applicationDate": 1701327600,
       "addresses": [
-        "N/A"
+        "3982 GORDON HEAD RD",
+        "3984 GORDON HEAD RD",
+        "3986 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY MIXED USE BLG",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 78 UNIT MULTI-FAMILY BUILDING (PHASE 1) PLUS A 3 STOREY, 5 UNIT TOWNHOUSE BUILDING (PHASE 2)",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701327600,
+          "endDate": 1701327600
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1701327600,
+          "endDate": 1701327600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701517726,
+      "lastUpdated": 1702036145,
       "relatedPermits": [
-        {
-          "relatedPermitID": "DPA01039",
-          "relatedPermitType": "DEVELOPMENT PERMIT AMENDMENT"
-        },
         {
           "relatedPermitID": "DVP00516",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
@@ -70297,12 +70297,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=373612DD-E44B-499C-9F73-C281E185CF2E&folderId=09635C230329103747177099"
         },
         {
-          "docName": "2023-11-07 - Plans - Revisions - Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C4EA4AD6-93BA-4358-9CB4-F366CB1B222E&folderId=09635C230329103747177099"
+          "docName": "2023-12-04 - Plans - Revisions - Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF73CD52-DB6C-45A6-9410-5C8EDFCBA75C&folderId=09635C230329103747177099"
         },
         {
-          "docName": "2023-11-07 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=375CDD23-264D-407F-8DCA-7955A5694083&folderId=09635C230329103747177099"
+          "docName": "2023-12-04 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5BCD3DA3-6B89-4913-BA54-623FBF66C266&folderId=09635C230329103747177099"
         }
       ],
       "city": "Victoria",
@@ -71051,7 +71051,7 @@
         "1041 CLARE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for subdivide into two small lots and construct single family dwellings containing secondary suites. Concurrent with DPV00246 to reduce lot width",
+      "purpose": "The City is considering a Rezoning application to allow for subdivide into two small lots and construct single family dwellings containing secondary suites. Concurrent with DPV00246 to reduce lot width.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
