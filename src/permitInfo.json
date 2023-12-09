@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1702035786,
+  "dateRetrieved": 1702122161,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13936,6 +13936,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1699254000,
+          "endDate": 1702018800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1702018800,
           "endDate": null
         }
       ],
@@ -14898,7 +14904,7 @@
     },
     {
       "primaryStreetName": "961 MCKENZIE AVE",
-      "applicant": "N/A",
+      "applicant": "SEBA CONSTRUCTION LTD",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01057",
@@ -14909,18 +14915,24 @@
         "3990 SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 AND rs-10 TO RA-11 TO CONSTRUCT A 6 STOREY, 60 UNIT MULTI-FAMILY BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701327600,
+          "endDate": 1701327600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1701327600,
+          "endDate": 1701327600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701327600,
+      "lastUpdated": 1702122524,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00751",
@@ -14971,6 +14983,74 @@
         {
           "relatedPermitID": "DVP00516",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01059",
+      "applicationDate": 1702018800,
+      "addresses": [
+        "N/A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1702018800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01060",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        },
+        {
+          "relatedPermitID": "TRP19680",
+          "relatedPermitType": "TREE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3561 QUADRA ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01060",
+      "applicationDate": 1702018800,
+      "addresses": [
+        "3561 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1702018800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01059",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        },
+        {
+          "relatedPermitID": "TRP19680",
+          "relatedPermitType": "TREE PERMIT"
         }
       ]
     },
@@ -16155,28 +16235,36 @@
       ]
     },
     {
-      "primaryStreetName": "",
-      "applicant": "N/A",
+      "primaryStreetName": "961 MCKENZIE AVE",
+      "applicant": "SEBA CONSTRUCTION LTD",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00751",
       "applicationDate": 1701327600,
       "addresses": [
-        "N/A"
+        "961 MCKENZIE AVE",
+        "3986 SAANICH RD",
+        "3990 SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 AND rs-10 TO RA-11 TO CONSTRUCT A 6 STOREY, 60 UNIT MULTI-FAMILY BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701327600,
+          "endDate": 1701327600
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1701327600,
+          "endDate": 1701327600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701327600,
+      "lastUpdated": 1702122524,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00515",
@@ -16259,6 +16347,31 @@
           "relatedPermitType": "SUBDIVISION"
         }
       ]
+    },
+    {
+      "primaryStreetName": "",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00754",
+      "applicationDate": 1702018800,
+      "addresses": [
+        "N/A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1702018800,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "933 CONVENT PL",
@@ -71654,6 +71767,72 @@
       "city": "Victoria",
       "lastUpdated": 1699254000,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "395 ST CHARLES ST",
+      "applicant": "CONRAD NYREN",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00865",
+      "applicationDate": 1702018800,
+      "addresses": [
+        "395 ST CHARLES ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to create three small lots for the development of three single-family dwellings with secondary suites.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1702018800,
+          "endDate": 1702018800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1702018800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1702018800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00423",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "2000 West Park Ln",
