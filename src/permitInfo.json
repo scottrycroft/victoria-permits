@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1702122161,
+  "dateRetrieved": 1702208572,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8244,7 +8244,7 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
+          "startDate": 1700550000,
           "endDate": null
         },
         {
@@ -9798,12 +9798,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": null,
@@ -9812,6 +9806,12 @@
         {
           "taskDescription": "meeting date of council for initial consideration of the application",
           "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
           "endDate": null
         },
