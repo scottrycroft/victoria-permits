@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1702294970,
+  "dateRetrieved": 1702381366,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -134,14 +134,14 @@
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1699945200,
+          "endDate": 1699945200
         },
         {
           "taskDescription": "",
           "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701846000,
+          "endDate": 1701846000
         },
         {
           "taskDescription": "",
@@ -183,7 +183,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1698749171,
+      "lastUpdated": 1702381734,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001008",
@@ -2411,8 +2411,81 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1700722800,
-      "relatedPermits": []
+      "lastUpdated": 1702381734,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001512",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001511",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "7840 LOCHSIDE DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001511",
+      "applicationDate": 1700722800,
+      "addresses": [
+        "7840 LOCHSIDE DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001509",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1700809200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1700809200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001512",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001509",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
     },
     {
       "primaryStreetName": "480 WEST VIEW RD",
@@ -13791,7 +13864,7 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1690786800,
-          "endDate": null
+          "endDate": 1693292400
         }
       ],
       "documents": [
@@ -14627,6 +14700,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1697007600,
+          "endDate": 1702278000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1702278000,
           "endDate": null
         }
       ],
@@ -14841,7 +14920,7 @@
         "4211 COMMERCE CIR"
       ],
       "status": "ACTIVE",
-      "purpose": "TO CONSTRUCT A 3 STOREY WAREHOUSE STORAGE AND OFFICE BUILDING WITH UNDERGROUND PARKING VARIANCES REQUESTED",
+      "purpose": "TO CONSTRUCT A 3 STOREY MIXED USE BUILDING (OFFICE AND WAREHOUSE STORAGE) WITH SURFACE AND UNDERGROUND PARKING. VARIANCES ARE REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -14853,12 +14932,12 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1701241200,
-          "endDate": null
+          "endDate": 1702278000
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701344950,
+      "lastUpdated": 1702381734,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00514",
@@ -15008,8 +15087,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702018800,
+      "lastUpdated": 1702381734,
       "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00755",
+          "relatedPermitType": "REZONING"
+        },
         {
           "relatedPermitID": "DPR01060",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -15028,7 +15111,9 @@
       "folderNumber": "DPR01060",
       "applicationDate": 1702018800,
       "addresses": [
-        "3561 QUADRA ST"
+        "3561 QUADRA ST",
+        "3579 QUADRA ST",
+        "3589 QUADRA ST"
       ],
       "status": "ACTIVE",
       "purpose": "N/A",
@@ -15042,8 +15127,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702018800,
+      "lastUpdated": 1702381734,
       "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00755",
+          "relatedPermitType": "REZONING"
+        },
         {
           "relatedPermitID": "DPR01059",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -16372,6 +16461,46 @@
       "city": "Saanich",
       "lastUpdated": 1702018800,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3561 QUADRA ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00755",
+      "applicationDate": 1702278000,
+      "addresses": [
+        "3561 QUADRA ST",
+        "3579 QUADRA ST",
+        "3589 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1702278000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01060",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        },
+        {
+          "relatedPermitID": "DPR01059",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        },
+        {
+          "relatedPermitID": "TRP19680",
+          "relatedPermitType": "TREE PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "933 CONVENT PL",
@@ -64650,6 +64779,30 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1F65D4A4-EC6C-4D74-AA4A-B9DD4DBEABF1&folderId=70620C211027141358342820"
         },
         {
+          "docName": "2023-12-11 - CCD Supplemental Data.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1D5E31BB-7B86-4E8E-8A61-FDBD015AC6E1&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2023-12-11 - CCD Supplemental Data_Changes Noted.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4676ECC2-4677-484B-86C4-452CF4285CDF&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2023-12-11 - Rezoning Booklet_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6E7DEE07-E278-4EAC-9ED7-2E2996A9F471&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2023-12-11 - Rezoning Booklet_Revisions_Changes Noted.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4DBAA655-50E5-4F9A-86D9-E4AC5D61D1E9&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "Capital Culture District_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=870F9E0E-DBAC-415F-9375-57E88DDF8968&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "Capital Culture District_Revisions_Changes Noted.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=227F4A85-9BCC-4F5E-B262-74316C88764E&folderId=70620C211027141358342820"
+        },
+        {
           "docName": "CCD Supplemental Data.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF449E81-ABC3-48CB-A5DF-0EB90ACE1839&folderId=70620C211027141358342820"
         },
@@ -71645,11 +71798,23 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1698908400,
-          "endDate": null
+          "endDate": 1702278000
         },
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
+          "startDate": 1702278000,
+          "endDate": 1702278000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1702278000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -71689,7 +71854,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1699340400,
+      "lastUpdated": 1702381734,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00416",
@@ -71824,9 +71989,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2023-12-08 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=74F1AFCB-9385-408D-AD9C-FEE7044A37DA&folderId=81822C231208104524427904"
+        },
+        {
+          "docName": "2023-12-08 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4FC365F6-98D5-4D81-B102-B4E87FB8D1CD&folderId=81822C231208104524427904"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1702018800,
+      "lastUpdated": 1702381734,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00423",
