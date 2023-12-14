@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1702467774,
+  "dateRetrieved": 1702554172,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4656,6 +4656,56 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1699008477,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Beachlands Lot I",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000009",
+      "applicationDate": 1701759600,
+      "addresses": [
+        "Beachlands Lot I"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable a 2-storey office building with a food and beverage component.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP000009_Permit%20SIGNED%20CONSOLIDATED.pdf",
+          "docName": "DP000009_Permit SIGNED CONSOLIDATED"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1702554578,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1742 Island Highway",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000010",
+      "applicationDate": 1701414000,
+      "addresses": [
+        "1742 Island Highway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable exterior renovations for the McDonald's Restaurant at 1742 Island Highway.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP000010_Complete%20Package%20%28Signed%29%20.pdf",
+          "docName": "DP000010_Complete Package (Signed) "
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1702554578,
       "relatedPermits": []
     },
     {
@@ -10195,6 +10245,90 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2465 FLORENCE ST",
+      "applicant": "HOMEOWNER",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00048",
+      "applicationDate": 1702450800,
+      "addresses": [
+        "2465 FLORENCE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment to increase the Floor Area Ratio (FAR) in order to rebuild the existing garage.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1702450800,
+          "endDate": 1702450800
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
+          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "meeting date of council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
+          "taskType": "PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "ZON00048 - 2465 Florence St - Plans.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=86997C231213132846670008&folderId=86924C231213093903889040"
+        }
+      ],
+      "city": "Oak Bay",
+      "lastUpdated": 1702450800,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "640 BEAVER LAKE RD",
       "applicant": "CALID SERVICES LTD.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -13865,6 +13999,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1690786800,
           "endDate": 1693292400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1693378800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -15093,25 +15233,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702381734,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "REZ00755",
-          "relatedPermitType": "REZONING"
-        },
-        {
-          "relatedPermitID": "DPR01060",
-          "relatedPermitType": "DEVELOPMENT PERMIT"
-        },
-        {
-          "relatedPermitID": "TRP19680",
-          "relatedPermitType": "TREE PERMIT"
-        }
-      ]
+      "lastUpdated": 1702554544,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "3561 QUADRA ST",
-      "applicant": "N/A",
+      "applicant": "TATTERSALL HOLDINGS LTD",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01060",
@@ -15120,6 +15247,46 @@
         "3561 QUADRA ST",
         "3579 QUADRA ST",
         "3589 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM RS-6 TO A SITE SPECIFIC ZONE TO CONSTRUCT A SIX STOREY 89 UNIT WOOD FRAME MULTI FAMILY STRATA BUILDING WITH SURFACE (LIMITED) AND UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1702278000,
+          "endDate": 1702278000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1702278000,
+          "endDate": 1702278000
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1702554544,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00755",
+          "relatedPermitType": "REZONING"
+        },
+        {
+          "relatedPermitID": "TRP19680",
+          "relatedPermitType": "TREE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2625 ARBUTUS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01061",
+      "applicationDate": 1702450800,
+      "addresses": [
+        "2625 ARBUTUS RD"
       ],
       "status": "ACTIVE",
       "purpose": "N/A",
@@ -15133,19 +15300,11 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702381734,
+      "lastUpdated": 1702450800,
       "relatedPermits": [
         {
-          "relatedPermitID": "REZ00755",
+          "relatedPermitID": "REZ00756",
           "relatedPermitType": "REZONING"
-        },
-        {
-          "relatedPermitID": "DPR01059",
-          "relatedPermitType": "DEVELOPMENT PERMIT"
-        },
-        {
-          "relatedPermitID": "TRP19680",
-          "relatedPermitType": "TREE PERMIT"
         }
       ]
     },
@@ -16430,18 +16589,24 @@
         "1801 MIDGARD AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM CURRENT RS-6 ZONING TO RS-6 AND RS-4 ZONING TO CREATE 1 ADDITIONAL LOT FOR SINGLE FAMILY DWELLING USE RESULTING IN A TOTAL OF 2 LOTS,",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701846000,
+          "endDate": 1701846000
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1701846000,
+          "endDate": 1701846000
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1701846000,
+      "lastUpdated": 1702554544,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00950",
@@ -16498,19 +16663,45 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702278000,
+      "lastUpdated": 1702554544,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01060",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         },
         {
-          "relatedPermitID": "DPR01059",
-          "relatedPermitType": "DEVELOPMENT PERMIT"
-        },
-        {
           "relatedPermitID": "TRP19680",
           "relatedPermitType": "TREE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00756",
+      "applicationDate": 1702450800,
+      "addresses": [
+        "N/A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1702450800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01061",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
     },
@@ -38356,6 +38547,40 @@
         {
           "relatedPermitID": "REZ00842",
           "relatedPermitType": "Rezoning Application"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "395 ST CHARLES ST",
+      "applicant": "CONRAD NYREN",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00260",
+      "applicationDate": 1702450800,
+      "addresses": [
+        "395 ST CHARLES ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to construct three small lot single-family dwellings with secondary suites. See REZ00865 for project details.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1702450800,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1702450800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00865",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00423",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -71594,7 +71819,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1702450800,
           "endDate": null
         },
         {
@@ -71632,10 +71857,26 @@
         {
           "docName": "2023-09-19 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CE29B70B-C3C6-4DCC-88FA-7109ADB3ED68&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2023-12-13 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A58795D2-8454-4ECA-B2F8-0F7EBE416D58&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2023-12-13 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=13C652C9-8037-468C-994C-FD397A3AF678&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2023-12-13 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F3BC5379-08F8-412D-AE1C-FBED3DD2D0F6&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2023-12-13 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D63FF11F-C409-41DE-AD51-F2CBC0BEF87B&folderId=59751C230920092653440323"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702468147,
+      "lastUpdated": 1702554544,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -72004,7 +72245,7 @@
         "395 ST CHARLES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to create three small lots for the development of three single-family dwellings with secondary suites.",
+      "purpose": "The City is considering a Rezoning application to create three small lots for the development of three single-family dwellings with secondary suites. Concurrent with DPV No. 00260.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -72060,8 +72301,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702381734,
+      "lastUpdated": 1702554544,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00260",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "CLC00423",
           "relatedPermitType": "Pre-Application (CALUC)"
@@ -72084,13 +72329,13 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702450800,
+          "endDate": 1702450800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1702450800,
           "endDate": null
         },
         {
@@ -72124,9 +72369,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2023-12-11 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BD453420-8D1A-4F23-B713-67C567B270E7&folderId=82940C231212161833044233"
+        },
+        {
+          "docName": "2023-12-11 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D829F1D4-4346-4812-9F7F-FE7DB166B500&folderId=82940C231212161833044233"
+        },
+        {
+          "docName": "2023-12-11 - Rezoning Book.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A85FDCEB-DBCD-4CF4-911F-2377BAB8DE0A&folderId=82940C231212161833044233"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1702278000,
+      "lastUpdated": 1702554544,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
