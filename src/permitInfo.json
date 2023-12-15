@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1702554172,
+  "dateRetrieved": 1702640565,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12034,6 +12034,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1687244400,
+          "endDate": 1688108400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1688108400,
           "endDate": null
         }
       ],
@@ -13556,13 +13562,13 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1689145200,
-          "endDate": null
+          "endDate": 1702537200
         },
         {
           "taskDescription": "Permit approved by delegated authority",
           "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVAL",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702537200,
+          "endDate": 1702537200
         }
       ],
       "documents": [
@@ -14519,6 +14525,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1687762800,
           "endDate": 1689577200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1689577200,
+          "endDate": null
         }
       ],
       "documents": [
@@ -14575,6 +14587,18 @@
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1687935600,
           "endDate": 1687935600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1690441200,
+          "endDate": 1701759600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1701759600,
+          "endDate": null
         }
       ],
       "documents": [
@@ -15028,6 +15052,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1701241200,
+          "endDate": 1702537200
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1702537200,
           "endDate": null
         }
       ],
@@ -15046,7 +15076,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1701344950,
+      "lastUpdated": 1702640936,
       "relatedPermits": []
     },
     {
@@ -16641,7 +16671,7 @@
     },
     {
       "primaryStreetName": "3561 QUADRA ST",
-      "applicant": "N/A",
+      "applicant": "TATTERSALL HOLDINGS LTD.",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00755",
@@ -16652,18 +16682,24 @@
         "3589 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO A SITE SPECIFIC ZONE TO CONSTRUCT A SIX STOREY 89 UNIT WOOD FRAME MULTI FAMILY STRATA BUILDING WITH SURFACE (LIMITED) AND UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702278000,
+          "endDate": 1702278000
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1702278000,
+          "endDate": 1702278000
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702554544,
+      "lastUpdated": 1702640936,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01060",
@@ -38122,15 +38158,27 @@
           "endDate": 1695279600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1697698800,
+          "endDate": 1702537200
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1702537200,
+          "endDate": 1702537200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1695279600,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1697698800,
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1702537200,
           "endDate": null
         },
         {
@@ -38154,10 +38202,22 @@
         {
           "docName": "2023-09-20 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EF818922-4527-40DF-8A90-08B49C8942D7&folderId=60166C230921090840284643"
+        },
+        {
+          "docName": "2023-12-14 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3A74862B-8AC4-4412-A7B9-B96024D2E827&folderId=60166C230921090840284643"
+        },
+        {
+          "docName": "2023-12-14 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CD61C443-6EA1-41B8-9924-77904F539246&folderId=60166C230921090840284643"
+        },
+        {
+          "docName": "2023-12-14 - Transmittal of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DEFC4EED-0C0E-4FF1-BACC-31234C3CDE18&folderId=60166C230921090840284643"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1702640936,
       "relatedPermits": []
     },
     {
@@ -38580,6 +38640,62 @@
         },
         {
           "relatedPermitID": "CLC00423",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1326 PANDORA AVE",
+      "applicant": "SAM GANONG",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00261",
+      "applicationDate": 1702537200,
+      "addresses": [
+        "1326 PANDORA AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application for a townhouse development. The application is concurrent with Rezoning #00767. See rezoning file for project details.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1702537200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00767",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000594",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00317",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -61889,6 +62005,10 @@
       "city": "Victoria",
       "lastUpdated": 1694516125,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00261",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "DP000594",
           "relatedPermitType": "DEVELOPMENT PERMITS"
