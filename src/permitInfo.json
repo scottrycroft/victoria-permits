@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1702640565,
+  "dateRetrieved": 1702727497,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15310,7 +15310,7 @@
     },
     {
       "primaryStreetName": "2625 ARBUTUS RD",
-      "applicant": "N/A",
+      "applicant": "NIALL PALTEIL",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01061",
@@ -15319,18 +15319,24 @@
         "2625 ARBUTUS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM P1 ZONE TO MIXED USED COMPREHENSIVE ZONE TO CREATE A CONDOMINIUM BLG AND 3 TOWNHOUSE BLKS",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702623600,
+          "endDate": 1702623600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1702623600,
+          "endDate": 1702623600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702450800,
+      "lastUpdated": 1702727871,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -16712,28 +16718,28 @@
       ]
     },
     {
-      "primaryStreetName": "",
-      "applicant": "N/A",
+      "primaryStreetName": "2625 ARBUTUS RD",
+      "applicant": "NIALL PALTIEL",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00756",
       "applicationDate": 1702450800,
       "addresses": [
-        "N/A"
+        "2625 ARBUTUS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM P1 ZONE TO MIXED USED COMPREHENSIVE ZONE TO CREATE A CONDOMINIUM BLG AND 3 TOWNHOUSE BKS",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702623600,
+          "endDate": 1702623600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702450800,
+      "lastUpdated": 1702727871,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01061",
@@ -21385,7 +21391,7 @@
         "912 VANCOUVER ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -21398,7 +21404,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1699599600,
+      "lastUpdated": 1702727871,
       "relatedPermits": []
     },
     {
@@ -37327,6 +37333,12 @@
           "endDate": 1700204400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1702623600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -38573,7 +38585,7 @@
         "448 WILSON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to develop an approximately twenty-unit ground-oriented multiple dwelling within a townhouse format. Application concurrent with rezoning #00842",
+      "purpose": "The City is considering a Development Permit with Variance application to develop an approximately twenty-unit ground-oriented multiple dwelling within a townhouse format.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -38602,7 +38614,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1700722800,
+      "lastUpdated": 1702727871,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00842",
@@ -38658,6 +38670,12 @@
       "purpose": "The City is considering a Development Permit with Variance application for a townhouse development. The application is concurrent with Rezoning #00767. See rezoning file for project details.",
       "progressSections": [
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1702623600,
+          "endDate": 1702623600
+        },
+        {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": null,
@@ -38670,12 +38688,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to consider approving the application.",
           "taskType": "Council Meeting",
           "startDate": null,
@@ -38684,7 +38696,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1702537200,
+      "lastUpdated": 1702727871,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00767",
@@ -60220,7 +60232,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1699945200,
+          "startDate": 1702623600,
           "endDate": null
         },
         {
@@ -60320,6 +60332,18 @@
         {
           "docName": "2023-11-09 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=59D9C74C-2141-4F0A-9B9A-9DB753F9E033&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "2023-12-14 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E46CB1B6-9C20-477B-A1FB-B49EF3AED823&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "2023-12-14 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=22F209AB-8A7C-42ED-966B-145CFB89BE28&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "2023-12-14 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A483E457-6958-4661-816F-DF49C155C84C&folderId=61303C201001092155276953"
         }
       ],
       "city": "Victoria",
@@ -65789,8 +65813,8 @@
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
           "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702537200,
+          "endDate": 1702623600
         }
       ],
       "documents": [
@@ -69255,6 +69279,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1698649200,
+          "endDate": 1700031600
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1700031600,
           "endDate": null
         },
         {
@@ -69757,7 +69787,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1701154800,
+          "startDate": 1702623600,
           "endDate": null
         },
         {
@@ -69835,6 +69865,18 @@
         {
           "docName": "2023-11-23 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06A3A691-E4EE-4727-9A5D-160BB074F640&folderId=81484C221214094741040552"
+        },
+        {
+          "docName": "2023-12-14 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4B59B795-73A8-42C3-81C3-192BAF0C404B&folderId=81484C221214094741040552"
+        },
+        {
+          "docName": "2023-12-14 - Plans - Revisions - bubbled - deemed Nov 23, 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=871D12FA-311A-49B5-B06D-A1EC59E65C35&folderId=81484C221214094741040552"
+        },
+        {
+          "docName": "2023-12-14 - Plans - Revisions - deemed Nov 23, 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AB618A93-F8C9-4FEB-B337-2957BC89418C&folderId=81484C221214094741040552"
         }
       ],
       "city": "Victoria",
@@ -70502,19 +70544,19 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1677826800,
-          "endDate": null
+          "endDate": 1700031600
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1684479600,
-          "endDate": null
+          "endDate": 1700031600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701932400,
+          "endDate": 1701932400
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -73942,7 +73984,7 @@
         "242 Helmcken Rd"
       ],
       "status": "ACTIVE",
-      "purpose": "To propose a multifamily development for 20 townhouse units.",
+      "purpose": "The application proposes a multifamily development for 20 units across two three storey buildings with shared underground parking.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -73951,11 +73993,24 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2023 09 14 Plans [PDF - 6 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-04 Plans 2023 09 14.pdf"
+        },
+        {
+          "docName": "2023 12 12 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/67579/Rezoning%20Application%20-%20294%20and%20296%20Eltham%20Road%20and.pdf?handle=DE13CA593FFC488EBD9118D34FF1C2A8"
+        },
+        {
+          "docName": "2023 12 12 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/67592/Staff%20Presentation%20-%20Rezoning%20for%20Eltham%20and%20Helmc.pdf?handle=70DF0CD04BD54AEB9CF6987A85CC1B49"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701431425,
+      "lastUpdated": 1702727902,
       "relatedPermits": []
     },
     {
