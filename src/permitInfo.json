@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1702986152,
+  "dateRetrieved": 1703072544,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -738,20 +738,20 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701068400,
+          "endDate": 1701068400
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702278000,
+          "endDate": 1702278000
         },
         {
           "taskDescription": "",
           "taskType": "FINAL ADOPTION OF BYLAW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702278000,
+          "endDate": 1702278000
         }
       ],
       "documents": [
@@ -761,7 +761,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1700308495,
+      "lastUpdated": 1703072917,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001217",
@@ -6156,10 +6156,10 @@
       "purpose": "135-unit apartment building",
       "progressSections": [
         {
-          "taskDescription": "Presented to the Design Review Committee on September 13, 2023",
+          "taskDescription": "DP000223 approved on on December 18, 2023",
           "taskType": "",
-          "startDate": 1694588400,
-          "endDate": 1694588400
+          "startDate": 1702882800,
+          "endDate": 1702882800
         }
       ],
       "documents": [
@@ -6171,7 +6171,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1696889438,
+      "lastUpdated": 1703072947,
       "relatedPermits": []
     },
     {
@@ -7114,10 +7114,10 @@
       "purpose": "To amend the zoning to a CD Zone to accommodate a 6-storey rental apartment building",
       "progressSections": [
         {
-          "taskDescription": "Council gave 3rd reading on July 17, 2023",
+          "taskDescription": "Amendment Bylaw No. 3103 adopted on December 18, 2023",
           "taskType": "",
-          "startDate": 1689577200,
-          "endDate": 1689577200
+          "startDate": 1702882800,
+          "endDate": 1702882800
         }
       ],
       "documents": [
@@ -65863,7 +65863,7 @@
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
           "taskType": "Council Meeting - Public Comment",
           "startDate": 1702537200,
-          "endDate": 1702623600
+          "endDate": 1702537200
         }
       ],
       "documents": [
@@ -66783,6 +66783,18 @@
         {
           "docName": "2023-01-24 - Transmittal of Changes.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A3E7F556-4554-4996-B6A8-8B4D95896DD3&folderId=98234C220208110621041694"
+        },
+        {
+          "docName": "2023-12-19 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AD7C405E-E216-46F7-9AF2-C64B1EB8AEC1&folderId=98234C220208110621041694"
+        },
+        {
+          "docName": "2023-12-19 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0900BC23-3F94-49BB-B702-9E68FEBA9278&folderId=98234C220208110621041694"
+        },
+        {
+          "docName": "2023-12-19 - Transmittal of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=593A9565-6AC6-406D-B1B4-E1EC53CC554B&folderId=98234C220208110621041694"
         }
       ],
       "city": "Victoria",
@@ -68570,15 +68582,15 @@
           "endDate": 1679641200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1656399600,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1679900400,
+          "endDate": 1687503600
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1656399600,
           "endDate": null
         },
         {
@@ -68670,7 +68682,7 @@
         "970 WALKER ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit a small lot house with a secondary suite. The application is concurrent with Development Permit with Variances file No. 00214. APPROVED BY COUNCIL NOVEMBER23, 2023",
+      "purpose": "APPROVED BY COUNCIL NOVEMBER 23, 2023. The City is considering a Rezoning application to permit a small lot house with a secondary suite. The application is concurrent with Development Permit with Variances file No. 00214.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -69691,20 +69703,38 @@
           "endDate": 1701327600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1670482800,
-          "endDate": null
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1701327600,
+          "endDate": 1702969200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1701327600,
+          "endDate": 1702969200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1702969200,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
           "startDate": null,
           "endDate": null
         },
@@ -69762,7 +69792,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702468147,
+      "lastUpdated": 1703072917,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
