@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1703072544,
+  "dateRetrieved": 1703158963,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2537,9 +2537,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "480 West View_Plans_Oct 30 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=17311C231220113401364674&folderId=17311C231205135310990364"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1701759600,
+      "lastUpdated": 1703159333,
       "relatedPermits": []
     },
     {
@@ -4884,7 +4889,7 @@
       "purpose": "28 Unit Townhouse development, all 3 storeys with a total of 64 parking stalls.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee Oct 3, 2023. 1st and 2nd reading completed Oct 10, 2023.3rd reading completed Oct 23, 2023.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee Oct 3, 2023. 1st and 2nd reading completed Oct 10, 2023.3rd reading completed Oct 23, 2023.Adoption scheduled for Jan 8th, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4899,7 +4904,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1701863350,
+      "lastUpdated": 1703159367,
       "relatedPermits": []
     },
     {
@@ -10304,8 +10309,8 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1703055600,
+          "endDate": 1703055600
         },
         {
           "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
@@ -10363,7 +10368,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1702450800,
+      "lastUpdated": 1703159333,
       "relatedPermits": []
     },
     {
@@ -16782,6 +16787,36 @@
         {
           "relatedPermitID": "DPR01061",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "305 CADILLAC AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00757",
+      "applicationDate": 1703055600,
+      "addresses": [
+        "305 CADILLAC AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1703055600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00951",
+          "relatedPermitType": "SUBDIVISION"
         }
       ]
     },
@@ -36049,7 +36084,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1654758000,
-          "endDate": null
+          "endDate": 1702623600
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -66435,6 +66470,22 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=61B4CEC7-B073-4ABE-B687-52595DA5F270&folderId=86781C211224120822146647"
         },
         {
+          "docName": "2023-12-20 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D6DDFF12-335F-47FF-951B-3F5619B3F252&folderId=86781C211224120822146647"
+        },
+        {
+          "docName": "2023-12-20 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B876A725-3E85-4D18-8DBF-D54ADBABF0AA&folderId=86781C211224120822146647"
+        },
+        {
+          "docName": "2023-12-20 - Revisions List_Architectural.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E14019BB-4092-4F41-A793-C2D780E82AB4&folderId=86781C211224120822146647"
+        },
+        {
+          "docName": "2023-12-20 - Revisions List_Landscape.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6177F1F3-EFBF-4B92-AFFC-C66487003BAF&folderId=86781C211224120822146647"
+        },
+        {
           "docName": "Letter to Council - Low Res.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=008C49C3-35BE-4F0B-8051-B81D517B31F4&folderId=86781C211224120822146647"
         }
@@ -69022,13 +69073,13 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1658473200,
-          "endDate": null
+          "endDate": 1703055600
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1700636400,
-          "endDate": null
+          "endDate": 1703055600
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -72662,11 +72713,11 @@
       "documents": [
         {
           "docName": "Concept Drawing",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2021-18 image.jpg"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2021-18 image.jpg"
         },
         {
           "docName": "Landscape Plan [PDF - 912 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2021-18 Land plan.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2021-18 Land plan.pdf"
         },
         {
           "docName": "2022 07 06 Public Notice [PDF - 169 KB]",
@@ -72684,7 +72735,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -72710,13 +72761,13 @@
       "documents": [
         {
           "docName": "Concept Drawing",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2022-01 Image.jpg"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-01 Image.jpg"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1688431516,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -72744,7 +72795,7 @@
       "documents": [
         {
           "docName": "Concept Rendering [PDF - 1 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2022-02 concept drawing.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-02 concept drawing.pdf"
         },
         {
           "docName": "2022 09 06 Council Report",
@@ -72758,7 +72809,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -72899,7 +72950,7 @@
       "documents": [
         {
           "docName": "Landscape Plan [PDF - 6 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP2022 08 Landscape plan.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP2022 08 Landscape plan.pdf"
         },
         {
           "docName": "2022 12 13 COW Report",
@@ -72921,7 +72972,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -72983,17 +73034,17 @@
       "documents": [
         {
           "docName": "Letter to Mayor & Council [PDF - 165 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2022-10 LTM.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-10 LTM.pdf"
         },
         {
           "docName": "2022 12 08 Plans [PDF - 5 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2022-10 Plans.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-10 Plans.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -73019,11 +73070,11 @@
       "documents": [
         {
           "docName": "Letter to Mayor & Council [PDF - 266 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2022-11 Ltr.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-11 Ltr.pdf"
         },
         {
           "docName": "2022 11 22 Plans  [PDF - 1 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2022-11 Plans.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-11 Plans.pdf"
         },
         {
           "docName": "2023 04 04 Public Notice [PDF - 523 KB]",
@@ -73037,7 +73088,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -73063,11 +73114,11 @@
       "documents": [
         {
           "docName": "Letter to Mayor & Council [PDF - 2 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-01 LTM.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-01 LTM.pdf"
         },
         {
           "docName": "2022 10 14 Plans [PDF - 8 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-01 Plans.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-01 Plans.pdf"
         },
         {
           "docName": "2023 07 04 Public Notice [PDF - 240 KB]",
@@ -73103,11 +73154,11 @@
       "documents": [
         {
           "docName": "Letter to Mayor & Council [PDF - 379 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-02 LTM.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-02 LTM.pdf"
         },
         {
           "docName": "2023 01 25 Plans [PDF - 13 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-02 Plans.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-02 Plans.pdf"
         },
         {
           "docName": "2023 05 02 Public Notice [PDF - 185 KB]",
@@ -73121,7 +73172,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -73183,17 +73234,17 @@
       "documents": [
         {
           "docName": "Letter to Mayor & Council [PDF - 528 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-04 LMC.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-04 LMC.pdf"
         },
         {
           "docName": "2023 08 03 Plans [PDF - 3 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/DP 2023-04 Plans (1).pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-04 Plans (1).pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -73887,17 +73938,17 @@
       "documents": [
         {
           "docName": "2022 09 27 Letter to Mayor & Council [PDF - 199 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2022-06 Ltr to MAC.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 Ltr to MAC.pdf"
         },
         {
           "docName": "2022 08 16 Plans [PDF - 5 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2022-06 plans.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 plans.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701431425,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -73925,23 +73976,23 @@
       "documents": [
         {
           "docName": "2023 10 19 Revised Letter to Mayor & Council [PDF - 434 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/2023-01 Ltr to M&C Revised.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/2023-01 Ltr to M&C Revised.pdf"
         },
         {
           "docName": "2023 04 25 Revised Letter to Mayor & Council [PDF - 770 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 REV LMC 2023 04 25.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-01 REV LMC 2023 04 25.pdf"
         },
         {
           "docName": "2023 01 23 Letter to Mayor & Council [PDF - 142 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 LTM.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-01 LTM.pdf"
         },
         {
           "docName": "2023 10 19 Revised Plans [PDF - 18 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 Plans revised.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-01 Plans revised.pdf"
         },
         {
           "docName": "2023 06 06 Revised Plans [PDF - 61 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-01 Rev drawings 2023 06 06.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-01 Rev drawings 2023 06 06.pdf"
         },
         {
           "docName": "Public Hearing Notice [PDF - 316 KB]",
@@ -73979,7 +74030,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701863346,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -74006,17 +74057,17 @@
       "documents": [
         {
           "docName": "2023 04 06 Letter to Mayor & Council [PDF - 156 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-02 Ltr to MAC.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-02 Ltr to MAC.pdf"
         },
         {
           "docName": "2023 04 12 Plans [PDF - 6 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-02 Plans.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-02 Plans.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -74042,7 +74093,7 @@
       "documents": [
         {
           "docName": "2023 04 11 Staff Report [PDF - 425 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-03 staff report 04 11.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-03 staff report 04 11.pdf"
         },
         {
           "docName": "2023 05 16 Public Notice [PDF - 494 KB]",
@@ -74052,7 +74103,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
@@ -74081,7 +74132,7 @@
       "documents": [
         {
           "docName": "2023 09 14 Plans [PDF - 6 MB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Active~Dev~Apps/Rez 2023-04 Plans 2023 09 14.pdf"
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-04 Plans 2023 09 14.pdf"
         },
         {
           "docName": "2023 12 12 COW Report",
@@ -74095,7 +74146,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1702727902,
+      "lastUpdated": 1703159364,
       "relatedPermits": []
     },
     {
