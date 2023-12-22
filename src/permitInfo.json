@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1703158963,
+  "dateRetrieved": 1703245896,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -490,9 +490,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "6922 Saanich X Rd_Revised Plans_Oct 11 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=17311C231221113337301459&folderId=84761C211104140831747327"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1674716400,
+      "lastUpdated": 1703246265,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -2539,12 +2544,12 @@
       ],
       "documents": [
         {
-          "docName": "480 West View_Plans_Oct 30 2023_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=17311C231220113401364674&folderId=17311C231205135310990364"
+          "docName": "480 West View_Plans_Dec 13 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=17311C231221110529801588&folderId=17311C231205135310990364"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1703159333,
+      "lastUpdated": 1703246265,
       "relatedPermits": []
     },
     {
@@ -15335,11 +15340,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1702278000,
           "endDate": 1702278000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1703055600,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702554544,
+      "lastUpdated": 1703246265,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -15362,7 +15373,7 @@
         "2625 ARBUTUS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM P1 ZONE TO MIXED USED COMPREHENSIVE ZONE TO CREATE A CONDOMINIUM BLG AND 3 TOWNHOUSE BLKS",
+      "purpose": "TO REZONE FROM P-1 TO A SITE SPECIFIC ZONE TO CONSTRUCT AN APARTMENT BUILDING AND ATTACHED HOUSING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -15379,7 +15390,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702727871,
+      "lastUpdated": 1703246265,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -36714,10 +36725,14 @@
         {
           "docName": "2023-10-25 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=907E2248-A583-4B95-9847-FD8712CEDFEC&folderId=80406C221209101313113366"
+        },
+        {
+          "docName": "2023-12-21 - Plans - Revisions - deemed Oct 25, 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=85689C231221141045636523&folderId=80406C221209101313113366"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698835578,
+      "lastUpdated": 1703246265,
       "relatedPermits": []
     },
     {
@@ -37179,7 +37194,7 @@
         "1006 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for expansion and addition to existing restaurant. OPC waived by Council September 7, 2023",
+      "purpose": "The City is considering a Development Permit with Variance application for expansion and addition to existing restaurant.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -37188,16 +37203,16 @@
           "endDate": 1680246000
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1680246000,
+          "endDate": 1694070000
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1694070000,
           "endDate": 1694070000
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1680246000,
-          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -37412,6 +37427,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1703142000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -37456,6 +37477,34 @@
         {
           "docName": "2023-11-02 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5655DFAB-EFF4-46E3-9A55-45250270652F&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2023-12-21 - Landscape Plans - Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80267731-FD0E-4166-B10E-BDA1419AE5A2&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2023-12-21 - Landscape Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8BB98C32-ECBD-405D-8ABF-B1AC8CFD0E24&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2023-12-21 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=36BFCFE1-A73C-4966-8038-7C7EF1C00C47&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2023-12-21 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3347218F-806B-4A2C-9F7A-E93285AE3B31&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2023-12-21 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8AED1E6D-256A-41C0-83B4-7FDF12CB3923&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2023-12-21 - Prelim. Serv. Plan - Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FF801453-0FDE-45C7-BFE7-0D407C0AC58E&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2023-12-21 - Prelim. Serv. Plan.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0CA45F29-6A67-4B73-A03D-EE35C33311D2&folderId=17121C230426092831161496"
         }
       ],
       "city": "Victoria",
@@ -38792,6 +38841,68 @@
         },
         {
           "relatedPermitID": "CLC00317",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "710 CALEDONIA AVE",
+      "applicant": "CALEDONIA EQUITY LIMITED PARTN",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00262",
+      "applicationDate": 1703142000,
+      "addresses": [
+        "710 CALEDONIA AVE",
+        "1961 DOUGLAS ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to develop three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Variance for height and parking.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1703142000,
+          "endDate": 1703142000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1703142000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2023-12-21 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B85D21AA-DB1C-4D77-A58E-FC02554B9C59&folderId=85717C231221145836243066"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1703142000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00815",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00205",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00375",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -66428,7 +66539,13 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1694674800,
+          "endDate": 1703055600
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1703142000,
           "endDate": null
         },
         {
@@ -66784,14 +66901,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1703142000,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -69086,6 +69203,12 @@
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -69403,7 +69526,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1700031600,
-          "endDate": null
+          "endDate": 1703142000
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -69498,6 +69621,14 @@
         {
           "docName": "2023-10-27 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5F4F2C8F-6808-4F14-B9A4-BEBD2A473785&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-12-21 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A2A4CF55-A309-4CCC-953C-08C4512B5372&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2023-12-21 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A363FFB4-57E1-485D-85A1-5BE1A9E89741&folderId=61288C220927141506591408"
         }
       ],
       "city": "Victoria",
