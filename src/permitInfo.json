@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1703245896,
+  "dateRetrieved": 1703331754,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12626,6 +12626,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1701846000,
+          "endDate": 1703228400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1703228400,
           "endDate": null
         }
       ],
@@ -15348,9 +15354,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_DEC 11, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1E3F56D2-A505-4A0B-BE60-5B9C77EE0A07&folderId=68224C231208143329212625"
+        },
+        {
+          "docName": "SITE PLAN_DEC 11, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=05743F7D-C094-481F-9179-3C3A09A8F947&folderId=68224C231208143329212625"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1703246265,
+      "lastUpdated": 1703332131,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -67829,6 +67844,18 @@
         {
           "docName": "2023-03-22 - Plans - Revisions - bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B14C9856-1ECF-42B5-A213-54DD748872A8&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "2023-12-20 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6902EC6F-6DCD-4E64-A595-1A6B2AE1017D&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "2023-12-20 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=72849D1F-92BB-4BDD-8EB5-75A855A37AC8&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "2023-12-20 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12375971-9CE9-448F-82A9-8BA2C035E1B6&folderId=15565C220411114709185208"
         }
       ],
       "city": "Victoria",
@@ -68002,6 +68029,10 @@
         {
           "docName": "2023-11-29 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=592313DE-8211-4E33-9E51-E70D487149D5&folderId=17818C220421083833784028"
+        },
+        {
+          "docName": "24-004.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=86145C231222131943690299&folderId=17818C220421083833784028"
         }
       ],
       "city": "Victoria",
@@ -72744,7 +72775,7 @@
     },
     {
       "primaryStreetName": "2501 BLANSHARD ST",
-      "applicant": "N/A",
+      "applicant": "D'AMBROSIO ARCHITECTURE",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00866",
@@ -72813,7 +72844,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702554544,
+      "lastUpdated": 1703332131,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
