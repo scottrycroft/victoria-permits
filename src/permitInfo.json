@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1703677360,
+  "dateRetrieved": 1703764290,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16818,7 +16818,7 @@
     },
     {
       "primaryStreetName": "305 CADILLAC AVE",
-      "applicant": "N/A",
+      "applicant": "AGENT",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00757",
@@ -16832,13 +16832,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1703055600,
+          "endDate": 1703660400
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1703660400,
+          "endDate": 1703660400
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1703055600,
+      "lastUpdated": 1703764668,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00951",
@@ -36954,6 +36960,12 @@
           "endDate": 1676012400
         },
         {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": 1681196400,
+          "endDate": 1681196400
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1663743600,
@@ -36963,12 +36975,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1676012400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
-          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -37007,7 +37013,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698835578,
+      "lastUpdated": 1703764668,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000622",
@@ -37439,12 +37445,18 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1702623600,
-          "endDate": null
+          "endDate": 1703142000
         },
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1703142000,
+          "endDate": 1703660400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1703660400,
           "endDate": null
         },
         {
@@ -67788,9 +67800,15 @@
           "endDate": 1679468400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1688022000,
+          "endDate": 1703055600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1679554800,
+          "startDate": 1703660400,
           "endDate": null
         },
         {
@@ -69558,6 +69576,12 @@
           "taskType": "With Applicant",
           "startDate": 1700031600,
           "endDate": 1703142000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1703660400,
+          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
