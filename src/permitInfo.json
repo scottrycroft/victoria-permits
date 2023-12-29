@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1703764290,
+  "dateRetrieved": 1703850170,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15401,11 +15401,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1702623600,
           "endDate": 1702623600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1703746800,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1703246265,
+      "lastUpdated": 1703850542,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -16851,6 +16857,37 @@
           "relatedPermitType": "SUBDIVISION"
         }
       ]
+    },
+    {
+      "primaryStreetName": "3950 CEDAR HILL RD",
+      "applicant": "ISLAND VIEW LAND MANAGEMENT LT",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00758",
+      "applicationDate": 1703746800,
+      "addresses": [
+        "3950 CEDAR HILL RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM P-1 ASSEMBLY TO COMPREHENSIVE MIXED-USE TO CONSTRUCT A 13 STOREY RENTAL APARTMENT BUILDING WITH UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1703055600,
+          "endDate": 1703746800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1703055600,
+          "endDate": 1703746800
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1703746800,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "933 CONVENT PL",
@@ -21588,7 +21625,7 @@
         "1252 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -21605,7 +21642,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1701068400,
+      "lastUpdated": 1703850542,
       "relatedPermits": []
     },
     {
