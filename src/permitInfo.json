@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1703850170,
+  "dateRetrieved": 1704022944,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15266,7 +15266,7 @@
         "3986 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 78 UNIT MULTI-FAMILY BUILDING (PHASE 1) PLUS A 3 STOREY, 5 UNIT TOWNHOUSE BUILDING (PHASE 2)",
+      "purpose": "TO REZONE FROM RS-6 TO A SITE SPECIFIC RESIDENTIAL MIXED ZONE TO CONSTRUCT A 6 STOREY APARTMENT BUILDING CONTAINING 78 UNITS AND A 3 STOREY TOWNHOUSE BUILDING CONTAINING 5 UNITS, WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -15279,11 +15279,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1701327600,
           "endDate": 1701327600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1703833200,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702036145,
+      "lastUpdated": 1704023323,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -15356,6 +15362,10 @@
       ],
       "documents": [
         {
+          "docName": "compressed",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4C008C1E-41B4-48E5-B549-DBF63F5FE2B7&folderId=68224C231208143329212625"
+        },
+        {
           "docName": "ELEVATIONS_DEC 11, 2023",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1E3F56D2-A505-4A0B-BE60-5B9C77EE0A07&folderId=68224C231208143329212625"
         },
@@ -15365,7 +15375,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1703332131,
+      "lastUpdated": 1704023323,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -15409,9 +15419,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_DEC 13 2023.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3B580468-B4B9-4C57-9E1A-A072E41BE9F2&folderId=69247C231213095035621277"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_DEC 13  2023.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=B5462D0B-B17F-495F-8CFB-2CDE21D2F22B&folderId=69247C231213095035621277"
+        },
+        {
+          "docName": "SITE PLAN_DEC 13 2023.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FCBB0EEC-5ADA-4764-A870-D9CCDC9DEF2C&folderId=69247C231213095035621277"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1703850542,
+      "lastUpdated": 1704023323,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -57240,15 +57263,15 @@
           "endDate": 1699599600
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1702537200,
+          "endDate": 1702537200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1663138800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
           "endDate": null
         },
         {
