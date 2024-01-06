@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1704454951,
+  "dateRetrieved": 1704541363,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1799,14 +1799,14 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701068400,
+          "endDate": 1701068400
         },
         {
           "taskDescription": "Applicable with variance",
           "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701846000,
+          "endDate": 1701846000
         },
         {
           "taskDescription": "",
@@ -1838,7 +1838,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1688454000,
+      "lastUpdated": 1704541738,
       "relatedPermits": []
     },
     {
@@ -13965,6 +13965,12 @@
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1688713200,
           "endDate": 1704178800
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -16954,11 +16960,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1703055600,
           "endDate": 1703746800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1704438000,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1704282548,
+      "lastUpdated": 1704541738,
       "relatedPermits": []
     },
     {
@@ -66269,8 +66281,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1690441200,
+          "endDate": 1690441200
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -66377,6 +66389,22 @@
         {
           "docName": "2023-03-03 - Plans - Revisions - Landscape.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6B1EA19F-0797-402B-BB2E-FAE8F2186A35&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2024-01-05 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=753C8092-FCA7-40FB-B19C-388D950E6975&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2024-01-05 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AE2CC5F1-C343-4061-BC16-77E3AD2284FE&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2024-01-05 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7EA64079-4DB6-4CCD-84A7-1386AC262C56&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2024-01-05 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6EF547DC-B5A1-41EB-927C-0A7B78E9E213&folderId=86097C211222091219582725"
         }
       ],
       "city": "Victoria",
@@ -71437,6 +71465,10 @@
         {
           "docName": "2023-12-04 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5BCD3DA3-6B89-4913-BA54-623FBF66C266&folderId=09635C230329103747177099"
+        },
+        {
+          "docName": "24-010.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88527C240105085036725661&folderId=09635C230329103747177099"
         }
       ],
       "city": "Victoria",
@@ -74243,7 +74275,7 @@
         "6 Camden Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "To rezone to allow 14 townhouse units within two buildings.",
+      "purpose": "The application proposes a new Comprehensive Development (CD) Zone to construct a single three-storey multi-unit residential building with a total of 27 rental dwelling units.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -74258,14 +74290,26 @@
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 Ltr to MAC.pdf"
         },
         {
+          "docName": "2023 11 30 Revised Letter to Mayor & Council [PDF - 9 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 Ltr M&C 2023 11 30 (1).pdf"
+        },
+        {
           "docName": "2022 08 16 Plans [PDF - 5 MB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 plans.pdf"
+        },
+        {
+          "docName": "2023 11 30 Revised Plans [PDF - 7 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 Rev Plans 2023 12 21.pdf"
+        },
+        {
+          "docName": "2024 01 09  COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/67791/Rezoning%20Application%20-%2014,%2014A%20Helmcken%20Road%20and%206.pdf?handle=25117F3447114FD08315766E997E504B"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1703159364,
+      "lastUpdated": 1704541769,
       "relatedPermits": []
     },
     {
@@ -74281,7 +74325,7 @@
         "345 Island Hwy"
       ],
       "status": "ACTIVE",
-      "purpose": "To increase the density and permit a multi-unit residential development consisting of two six-storey and one seven-storey building (due to the projection of an underground parkade). The proposal requires an amendment to the Official Community Plan.",
+      "purpose": "The application proposes the RM-3: Mixed Residential Zone to construct two six-storey multi-unit residential buildings with a total of 238 rental dwelling unit. The proposal also includes an amendment to the Official Community Plan.",
       "progressSections": [
         {
           "taskDescription": "Public Hearing - December 5, 2023",
@@ -74347,7 +74391,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1703159364,
+      "lastUpdated": 1704541769,
       "relatedPermits": []
     },
     {
@@ -74362,7 +74406,7 @@
         "38 HELMCKEN RD"
       ],
       "status": "ACTIVE",
-      "purpose": "To construct a six storey mixed-use development that includes approximately 61 market rental units, and ground floor commercial space for office or retail use. The proposed FSR of 2.43, and approximately 3,800 m2 of residential, and approximately 760 m2 of commercial requires an amendment to the Official Community Plan to change the existing land use designation from Neighbourhood Mixed Use to Neighbourhood Centre, as well as the creation of a new comprehensive development zone catered specifically to this property for the proposed development.",
+      "purpose": "The application proposes to a new Comprehesive Development (CD) Zone to construct a six storey mixed-use development that includes approximately 61 market rental units, and ground floor commercial space for office or retail use. The proposal also includes an amendment to the Official Community Plan to change the existing land use designation from Neighbourhood Mixed Use to Neighbourhood Centre.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -74384,7 +74428,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1703159364,
+      "lastUpdated": 1704541769,
       "relatedPermits": []
     },
     {
@@ -74477,10 +74521,10 @@
         "9 Erskine Ln"
       ],
       "status": "ACTIVE",
-      "purpose": "To amend a covenant to allow construction of a signalized intersection instead of a roundabout at the intersection of Watkiss Way, Erskine Lane, and Stoneridge Drive.",
+      "purpose": "The application proposes to amend a covenant to allow construction of a signalized intersection instead of a roundabout at the intersection of Watkiss Way, Erskine Lane, and Stoneridge Drive.",
       "progressSections": [
         {
-          "taskDescription": "Complete",
+          "taskDescription": "Complete October 17, 2023",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -74499,7 +74543,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701863346,
+      "lastUpdated": 1704541769,
       "relatedPermits": []
     }
   ]
