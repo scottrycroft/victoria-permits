@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1704714157,
+  "dateRetrieved": 1704800560,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16295,12 +16295,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1695193200,
-          "endDate": null
+          "endDate": 1704697200
         },
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1700550000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1704697200,
           "endDate": null
         }
       ],
@@ -25056,7 +25062,14 @@
       ],
       "status": "ACTIVE",
       "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00818 FOR PROJECT DETAILS. The City is considering a Development Permit application to construct a duplex with two secondary suites.",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
       "documents": [],
       "city": "Victoria",
       "lastUpdated": 1695984488,
@@ -69727,6 +69740,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1703746800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -72404,8 +72423,8 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C7F701B8-96CA-40CC-9F4C-E933CEF24FE0&folderId=53740C230830100501497708"
         },
         {
-          "docName": "2024-01-02 - Transmittal of Changes.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99D5A8C2-C81D-4089-A1F6-01E8952BEF59&folderId=53740C230830100501497708"
+          "docName": "2024-01-08 - Transmittal of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A6AA2FFD-A428-4FC7-98DC-6D6C0BEA5BF9&folderId=53740C230830100501497708"
         }
       ],
       "city": "Victoria",
