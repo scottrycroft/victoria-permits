@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1704800560,
+  "dateRetrieved": 1704886938,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -793,13 +793,13 @@
       "progressSections": [
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1704783600,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
@@ -811,7 +811,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1645081200,
+      "lastUpdated": 1704887313,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001217",
@@ -4704,7 +4704,7 @@
         "1742 Island Highway"
       ],
       "status": "ACTIVE",
-      "purpose": "A Form & Character Development Permit to enable exterior renovations for the McDonald's Restaurant at 1742 Island Highway.",
+      "purpose": "A Form & Character Development Permit to enable exterior at 1742 Island Highway.",
       "progressSections": [],
       "documents": [
         {
@@ -4715,7 +4715,32 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1702554578,
+      "lastUpdated": 1704887346,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1752 Island Highway",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000014",
+      "applicationDate": 1704887346,
+      "addresses": [
+        "1752 Island Highway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable a 6-storey, 80-unit rental building with 2 commercial units.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP000014_Consolidated_Signed.pdf",
+          "docName": "DP000014_Consolidated_Signed"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1704887346,
       "relatedPermits": []
     },
     {
@@ -14690,6 +14715,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1701759600,
+          "endDate": 1704783600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1704783600,
           "endDate": null
         }
       ],
@@ -16234,12 +16265,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1695279600,
-          "endDate": null
+          "endDate": 1704783600
         },
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1700550000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1704783600,
           "endDate": null
         }
       ],
@@ -16917,7 +16954,7 @@
         "305 CADILLAC AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RS-1 TO CREATE ONE ADDITIONAL LOT FOR SINGLE FAMILY DWELLING USE, RESULTING IN A TOTAL OF TWO LOTS",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -16934,7 +16971,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1703764668,
+      "lastUpdated": 1704887313,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00951",
@@ -16974,9 +17011,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "SITE_DEC 20, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BC1DAA48-3B38-4912-8D0A-9251E870D8DC&folderId=72723C231228134737247233"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1704541738,
+      "lastUpdated": 1704887313,
       "relatedPermits": []
     },
     {
@@ -66298,6 +66340,18 @@
           "endDate": 1690441200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1690441200,
+          "endDate": 1704438000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1704783600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -67239,7 +67293,13 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1686294000,
-          "endDate": null
+          "endDate": 1704783600
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1686294000,
+          "endDate": 1704783600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -67316,6 +67376,18 @@
         {
           "docName": "2023-05-16 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC8908FC-587E-43E0-8D67-1A4976C4002B&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "2024-01-08 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=98F62DF9-6FE7-49EB-83D9-E7F5FBCDBAEB&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "2024-01-08 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=56447B36-A90C-406B-A2B5-6B3CEB185B86&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "2024-01-08 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0F15F377-BBAB-46C3-8FEA-2D970655137E&folderId=00232C220215094041621090"
         }
       ],
       "city": "Victoria",
@@ -72926,6 +72998,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1704783600,
+          "endDate": null
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": null,
@@ -72967,7 +73045,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702554544,
+      "lastUpdated": 1704887313,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00260",
