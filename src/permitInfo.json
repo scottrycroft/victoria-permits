@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1704886938,
+  "dateRetrieved": 1704973365,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4983,7 +4983,7 @@
       "purpose": "Creation of a new CD zone to accommodate a 6-storey building with 67 units.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.1st and 2nd reading completed Dec 11, 2023.3rd reading scheduled for January 8, 2024",
+          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.1st and 2nd reading completed Dec 11, 2023.3rd reading completed January 8, 2024",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4998,7 +4998,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1704282586,
+      "lastUpdated": 1704973771,
       "relatedPermits": []
     },
     {
@@ -5175,7 +5175,7 @@
       "purpose": "Creation of a new CD zone to enable a 51-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 20231st & 2nd reading scheduled for January 8, 2024.",
+          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 20231st & 2nd reading completed January 8, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -5190,7 +5190,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1701863350,
+      "lastUpdated": 1704973771,
       "relatedPermits": []
     },
     {
@@ -7621,6 +7621,38 @@
       "withApplicantDays": null,
       "city": "Esquimalt",
       "lastUpdated": 1698145006,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1005 Tillicum Road",
+      "applicant": "Xeniya Vins",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000118",
+      "applicationDate": 1704973767,
+      "addresses": [
+        "1005 Tillicum Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To amend the Zoning to a CD Zone to accommodate a 34-unit apartment building",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/RZ000118.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1704973767,
       "relatedPermits": []
     },
     {
@@ -15293,7 +15325,7 @@
         "3990 SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 AND rs-10 TO RA-11 TO CONSTRUCT A 6 STOREY, 60 UNIT MULTI-FAMILY BUILDING",
+      "purpose": "TO REZONE FROM RS-6 AND RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY, 60 UNIT MULTI-FAMILY BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -15306,11 +15338,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1701327600,
           "endDate": 1701327600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1704870000,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702122524,
+      "lastUpdated": 1704973741,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00751",
@@ -35994,7 +36032,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1651474800,
-          "endDate": null
+          "endDate": 1698649200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
@@ -36003,7 +36041,13 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSCHEDULED - Leg. Services - meeting date has been set (NOTIFIES SUBSCRIBERS)\nCOMPLETED - Leg. Services - meeting has been completed",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1704870000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
@@ -36042,7 +36086,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698144920,
+      "lastUpdated": 1704973741,
       "relatedPermits": []
     },
     {
@@ -61086,10 +61130,14 @@
         {
           "docName": "2023-06-14 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87B81BA5-4E6D-4A67-AA2C-E948ACF95A51&folderId=75527C201124151927275496"
+        },
+        {
+          "docName": "24-013.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90025C240110100136305753&folderId=75527C201124151927275496"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1704973741,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00226",
@@ -62875,7 +62923,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1637650800,
-          "endDate": null
+          "endDate": 1654585200
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -68838,7 +68886,13 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1687762800,
+          "endDate": 1704870000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1704870000,
           "endDate": null
         },
         {
@@ -68882,6 +68936,14 @@
         {
           "docName": "2023-05-29 - Plans_Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=838E29E5-E82C-4BE7-A7D4-2E1813A643FE&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-01-09 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=822F230E-CD89-4BEF-928D-462F8D2DFD31&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-01-09 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E9B82259-7B2A-426D-AAAE-C754DECB3FC1&folderId=32154C220610154226154683"
         }
       ],
       "city": "Victoria",
@@ -69642,7 +69704,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1663225200,
-          "endDate": null
+          "endDate": 1702537200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -73083,6 +73145,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1704870000,
+          "endDate": null
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": null,
@@ -73128,7 +73196,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1703332131,
+      "lastUpdated": 1704973741,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
