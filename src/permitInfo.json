@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1704973365,
+  "dateRetrieved": 1705059763,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -17058,6 +17058,37 @@
       "city": "Saanich",
       "lastUpdated": 1704887313,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "139 PETWORTH DR",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00759",
+      "applicationDate": 1704956400,
+      "addresses": [
+        "139 PETWORTH DR",
+        "4920 PROSPECT LAKE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1704956400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00953",
+          "relatedPermitType": "SUBDIVISION"
+        }
+      ]
     },
     {
       "primaryStreetName": "933 CONVENT PL",
@@ -73736,7 +73767,7 @@
         "4 100c Aldersmith Pl"
       ],
       "status": "ACTIVE",
-      "purpose": "Variance to install an accessory building to be located less than 3.0 metres in the side yard in Building C for Refire Kitchen.",
+      "purpose": "Variance to install an accessory building and fence enclosure located less than 7.5 metres from the rear yard lot line behind Building C for Refire Kitchen.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -73758,7 +73789,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1703159364,
+      "lastUpdated": 1705060170,
       "relatedPermits": []
     },
     {
