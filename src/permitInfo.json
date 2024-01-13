@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1705059763,
+  "dateRetrieved": 1705146695,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15513,7 +15513,7 @@
     },
     {
       "primaryStreetName": "2625 ARBUTUS RD",
-      "applicant": "NIALL PALTEIL",
+      "applicant": "NIALL PALTIEL",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01061",
@@ -15558,7 +15558,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1704023323,
+      "lastUpdated": 1705147070,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -17071,18 +17071,30 @@
         "4920 PROSPECT LAKE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM # TO # TO CONSOLIDATE TO ONE PROPERTY TO SUBDIVIDE TO CREATE A TOTAL OF 6 PROPERTIES",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1705042800,
+          "endDate": 1705042800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1705042800,
+          "endDate": 1705042800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1705042800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1704956400,
+      "lastUpdated": 1705147070,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00953",
@@ -37357,7 +37369,7 @@
         "1050 YATES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for a mixed use development which includes purpose-built rental housing and ground oriented retail and shared amenity spaces.",
+      "purpose": "The City is considering a Development Permit with Variance application for a mixed use development which includes purpose-built rental housing and ground oriented retail and shared amenity spaces. Approved by Council January 11, 2024",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -38991,7 +39003,7 @@
         "448 WILSON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to develop an approximately twenty-unit ground-oriented multiple dwelling within a townhouse format.",
+      "purpose": "The City is considering a Development Permit with Variance application to develop an approximately twenty-unit ground-oriented multiple dwelling within a townhouse format. Approved by Council January 11, 2024",
       "progressSections": [
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -39025,7 +39037,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702986525,
+      "lastUpdated": 1705147070,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00842",
@@ -57472,15 +57484,15 @@
           "endDate": 1702537200
         },
         {
+          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": 1704956400,
+          "endDate": 1704956400
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1663138800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
-          "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
           "endDate": null
         }
       ],
@@ -61051,8 +61063,8 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
-          "taskType": "Council Meeting - Public Comment",
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         }
@@ -61168,7 +61180,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1704973741,
+      "lastUpdated": 1705147070,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00226",
@@ -70124,12 +70136,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AD0D579D-E490-4D2E-9897-30AED6539786&folderId=77903C221201105754910296"
         },
         {
-          "docName": "2023-08-09 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2AB2F768-30E1-4D1C-BE5A-8405DD3F60EC&folderId=77903C221201105754910296"
-        },
-        {
           "docName": "23-091.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=63806C231005135055596409&folderId=77903C221201105754910296"
+        },
+        {
+          "docName": "FINAL APPROVED",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2AB2F768-30E1-4D1C-BE5A-8405DD3F60EC&folderId=77903C221201105754910296"
         }
       ],
       "city": "Victoria",
@@ -73415,7 +73427,7 @@
       "purpose": "Application to expand the retail space and add a new greenhouse.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Approved September 18, 2023",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -73442,7 +73454,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1705147098,
       "relatedPermits": []
     },
     {
@@ -73542,6 +73554,14 @@
       ],
       "documents": [
         {
+          "docName": "Letter to Mayor & Council [PDF - 110 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-09 LMC.pdf"
+        },
+        {
+          "docName": "2022 11 01 Plans [PDF - 4 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-09 Plans.pdf"
+        },
+        {
           "docName": "2022 11 08 COW Report",
           "docURL": "https://viewroyalbc.civicweb.net/document/57108/Development Permit Application 2022-09 - 1681 Isla.pdf?handle=CEE22AD498A34F93AE87BE5F46170178"
         },
@@ -73553,7 +73573,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1696889439,
+      "lastUpdated": 1705147098,
       "relatedPermits": []
     },
     {
@@ -73584,12 +73604,20 @@
         {
           "docName": "2022 12 08 Plans [PDF - 5 MB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2022-10 Plans.pdf"
+        },
+        {
+          "docName": "2023 05 09  COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/62648/Development%20Permit%20-%2010%20Erskine%20Lane.pdf?handle=199030D91CA94199A5CD1A498AAB6498"
+        },
+        {
+          "docName": "2023 05 09 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/62664/Staff%20Presentation%20-%2010%20Erskine%20Lane.pdf?handle=B810A829959744899075430D2538F279"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1703159364,
+      "lastUpdated": 1705147098,
       "relatedPermits": []
     },
     {
@@ -73666,8 +73694,24 @@
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-01 Plans.pdf"
         },
         {
+          "docName": "2023 06 13 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/63383/Environmental%20Development%20Permit%20-%202820%20Shoreline%20.pdf?handle=C0DE25EF48354FA58B95E7C4E8B6AB27"
+        },
+        {
+          "docName": "2023 06 13 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/63416/Staff%20Presentation%20-%20Environmental%20DP%20with%20Varianc.pdf?handle=07F5A04DAD8F4AD3885B95EC4E350AF7"
+        },
+        {
           "docName": "2023 07 04 Public Notice [PDF - 240 KB]",
           "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2023/2023 07 04   DP 2820 Shoreline Drive Notice.pdf"
+        },
+        {
+          "docName": "2023 07 04 Council Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/63797/Development%20Permit%202023-01%20-%202820%20Shoreline%20Drive.pdf?handle=64D9DBFA98414BE0BF92C14A64E24A1B"
+        },
+        {
+          "docName": "2023 07 04 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/63825/Staff%20Presentation%20-%20Development%20Permit%20-%202820%20Sho.pdf?handle=1D23B2430C044DAFAE83192BC8F0B237"
         }
       ],
       "withDistrictDays": null,
@@ -73790,6 +73834,42 @@
       "withApplicantDays": null,
       "city": "View Royal",
       "lastUpdated": 1705060170,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "HIGHLAND RD",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2023-05",
+      "applicationDate": 1705147098,
+      "addresses": [
+        "HIGHLAND RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an Environment Development permit application for new home construction located on a lot on Pike Lake.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Letter to Mayor & Council [PDF - 84 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-01 LMC 2023 09 10.pdf"
+        },
+        {
+          "docName": "2023 09 12 Plans [PDF - 3 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2023-01 Plans 2023 09 12.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1705147098,
       "relatedPermits": []
     },
     {
