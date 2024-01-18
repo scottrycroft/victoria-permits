@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1705405413,
+  "dateRetrieved": 1705578166,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12,11 +12,17 @@
         "7103 BRENTWOOD DR"
       ],
       "status": "ACTIVE",
-      "purpose": "3 lot subdivision for single family use. Variances have been requested.",
+      "purpose": "2 lot subdivision for single family use. Variances have been requested.",
       "progressSections": [
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1699945200,
+          "endDate": 1699945200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
           "startDate": null,
           "endDate": null
         },
@@ -34,12 +40,8 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1697885168,
+      "lastUpdated": 1705578546,
       "relatedPermits": [
-        {
-          "relatedPermitID": "PL001229",
-          "relatedPermitType": "Rezoning and/or OCP Amendment"
-        },
         {
           "relatedPermitID": "PL000902",
           "relatedPermitType": "Subdivision"
@@ -1272,15 +1274,11 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1673852400,
+      "lastUpdated": 1705578546,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001361",
           "relatedPermitType": "Subdivision"
-        },
-        {
-          "relatedPermitID": "PL001359",
-          "relatedPermitType": "Rezoning and/or OCP Amendment"
         }
       ]
     },
@@ -6248,10 +6246,10 @@
       "purpose": "Construction of a new duplex",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "DP000224 Approved on January 15, 2024",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705302000,
+          "endDate": 1705302000
         }
       ],
       "documents": [
@@ -6263,7 +6261,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1698145006,
+      "lastUpdated": 1705578573,
       "relatedPermits": []
     },
     {
@@ -6280,10 +6278,10 @@
       "purpose": "Construction of a new duplex",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "DP000225 Approved on January 15, 2024",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705302000,
+          "endDate": 1705302000
         }
       ],
       "documents": [
@@ -6295,7 +6293,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1698145006,
+      "lastUpdated": 1705578573,
       "relatedPermits": []
     },
     {
@@ -15371,9 +15369,26 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_NOV 30, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=39D095BF-A37E-434A-BC18-6ADACE96120B&folderId=65395C231130132052250778"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_NOV 30, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C8285BF3-ABC1-46BC-B558-05267440EAE1&folderId=65395C231130132052250778"
+        },
+        {
+          "docName": "SHADOW STUDY_NOV 30, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=01C1CECE-AA18-4733-81D7-24394493B7C5&folderId=65395C231130132052250778"
+        },
+        {
+          "docName": "SITE PLAN_NOV 30, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A4EEF187-2A66-4E7F-89F4-A9DFE3C33802&folderId=65395C231130132052250778"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1704973741,
+      "lastUpdated": 1705578546,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00751",
@@ -17101,12 +17116,16 @@
       ],
       "documents": [
         {
+          "docName": "SHADOW STUDY_DEC 20, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DCBAD0B6-8D95-40AF-8CB4-583F92A6DA75&folderId=72723C231228134737247233"
+        },
+        {
           "docName": "SITE_DEC 20, 2023",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BC1DAA48-3B38-4912-8D0A-9251E870D8DC&folderId=72723C231228134737247233"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1704887313,
+      "lastUpdated": 1705578546,
       "relatedPermits": []
     },
     {
@@ -17149,6 +17168,42 @@
         {
           "relatedPermitID": "SUB00953",
           "relatedPermitType": "SUBDIVISION"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3677 KATHLEEN ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00760",
+      "applicationDate": 1705388400,
+      "addresses": [
+        "3677 KATHLEEN ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM RS-6 to RS-11 TO CONSTRUCT A SECONDARY SUITE OVER EXISTING 2-CAR GARAGE",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1705388400,
+          "endDate": 1705388400
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1705388400,
+          "endDate": 1705388400
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1705388400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00518",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         }
       ]
     },
@@ -34905,10 +34960,14 @@
         {
           "docName": "2021-07-21  -Plans_Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DDD6EB05-8EF5-4D38-B7B7-3E843F1D54FF&folderId=44220C210721155234030057"
+        },
+        {
+          "docName": "Applicant letter dated June 22, 2021.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=63947C211004133237747102&folderId=44220C210721155234030057"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698835578,
+      "lastUpdated": 1705578546,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00025",
@@ -37017,8 +37076,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1704956400,
+          "endDate": 1704956400
         },
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
@@ -37066,7 +37125,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1704369458,
+      "lastUpdated": 1705578546,
       "relatedPermits": []
     },
     {
@@ -69761,7 +69820,7 @@
         "2816 IRMA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a townhouse development consisting of approximately eight dwelling units. The application is concurrent with Development Permit Application No. 00217.",
+      "purpose": "The City is considering a Rezoning application for a townhouse development consisting of six dwelling units. The application is concurrent with Development Permit Application No. 00217.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -72816,7 +72875,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1698130800,
-          "endDate": null
+          "endDate": 1705474800
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -72857,6 +72916,18 @@
         {
           "docName": "2023-09-26 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7D76CD82-B0A4-4BCA-8FA4-EA8B1059A0A0&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-01-16 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6254B1F7-66AC-45AB-B76F-22020ED56AE6&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-01-16 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5022AB0B-6648-489E-9A84-B1B17587E0D2&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-01-16 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8ECC6D7F-3AE1-42CF-8685-4F9DA9399606&folderId=61367C230926151425966861"
         }
       ],
       "city": "Victoria",
