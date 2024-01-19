@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1705578166,
+  "dateRetrieved": 1705664563,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21,6 +21,12 @@
           "endDate": 1699945200
         },
         {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": 1701846000,
+          "endDate": 1701846000
+        },
+        {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
           "startDate": null,
@@ -40,7 +46,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1705578546,
+      "lastUpdated": 1705664948,
       "relatedPermits": [
         {
           "relatedPermitID": "PL000902",
@@ -72878,14 +72884,14 @@
           "endDate": 1705474800
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1705561200,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -73139,7 +73145,7 @@
         "1663 RICHARDSON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to duplex specific zone.",
+      "purpose": "The City is considering a Rezoning application to rezone from R1-G to R-2 to permit an existing duplex",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -73195,7 +73201,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1699254000,
+      "lastUpdated": 1705664948,
       "relatedPermits": []
     },
     {
