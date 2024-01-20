@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1705664563,
+  "dateRetrieved": 1705750958,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11240,6 +11240,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1683874800,
+          "endDate": 1705647600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1705388400,
           "endDate": null
         }
       ],
@@ -17116,7 +17122,19 @@
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
+          "startDate": 1705647600,
+          "endDate": 1705647600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
           "startDate": 1704438000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1705647600,
           "endDate": null
         }
       ],
@@ -17131,7 +17149,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1705578546,
+      "lastUpdated": 1705751339,
       "relatedPermits": []
     },
     {
@@ -17188,7 +17206,7 @@
         "3677 KATHLEEN ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 to RS-11 TO CONSTRUCT A SECONDARY SUITE OVER EXISTING 2-CAR GARAGE",
+      "purpose": "TO REZONE FROM RS-6 TO RS-11 TO CONSTRUCT A SECONDARY SUITE OVER EXISTING 2-CAR GARAGE. VARIANCES REQUESTED FOR GFA AND REAR SETBACK",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -17205,7 +17223,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1705388400,
+      "lastUpdated": 1705751339,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00518",
@@ -25974,6 +25992,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1705647600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -26006,6 +26030,18 @@
         {
           "docName": "2023-11-07 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7C1FF0E1-9308-4286-B97E-683D5F2B11CC&folderId=44875C230727122947637290"
+        },
+        {
+          "docName": "2024-01-19 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2041A6AF-7E78-4744-A16A-5D6D04389018&folderId=44875C230727122947637290"
+        },
+        {
+          "docName": "2024-01-19 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6A661FD6-66F4-4187-B6B8-08C80FB5718C&folderId=44875C230727122947637290"
+        },
+        {
+          "docName": "2024-01-19 - Summary of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9832E302-175F-4423-BBC1-5AF9D789D263&folderId=44875C230727122947637290"
         }
       ],
       "city": "Victoria",
@@ -39320,6 +39356,33 @@
         },
         {
           "relatedPermitID": "CLC00375",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1212 VISTA HTS",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00264",
+      "applicationDate": 1705561200,
+      "addresses": [
+        "1212 VISTA HTS"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application for a new two family dwelling located in DPA 15F.",
+      "progressSections": [],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1705561200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00809",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00351",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -61085,7 +61148,7 @@
         "1737 ROCKLAND AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to subdivide the property and construct two new single family dwellings while retaining the existing building. Concurrent with Development Permit No. 000585 and Heritage Designation No. 000195.",
+      "purpose": "The City is considering a Rezoning application to subdivide the property and construct two new single family dwellings while retaining the existing building. Concurrent with Development Permit with Variances No. 00226 and Heritage Designation No. 000195.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -61295,7 +61358,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1705147070,
+      "lastUpdated": 1705751339,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00226",
@@ -67311,7 +67374,7 @@
         "1212 VISTA HTS"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit the construction of a new duplex.",
+      "purpose": "The City is considering a Rezoning application to permit the construction of a new duplex. Concurrent with DPV No. 00264.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -67411,6 +67474,10 @@
       "city": "Victoria",
       "lastUpdated": 1694516125,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00264",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "CLC00351",
           "relatedPermitType": "Pre-Application (CALUC)"
@@ -73201,8 +73268,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1705664948,
-      "relatedPermits": []
+      "lastUpdated": 1705751339,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00420",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "395 ST CHARLES ST",
