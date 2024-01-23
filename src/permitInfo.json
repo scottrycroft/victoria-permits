@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1705923761,
+  "dateRetrieved": 1706010213,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12595,6 +12595,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1678086000,
+          "endDate": 1705906800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1705906800,
           "endDate": null
         }
       ],
@@ -17227,6 +17233,40 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00518",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "560 KENNETH ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00761",
+      "applicationDate": 1705906800,
+      "addresses": [
+        "560 KENNETH ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "REZONING FROM RS-6 TO RS-2 TO PERMIT A SUBDIVISION OF LOT INTO ONE ADDITIONAL LOT FOR THE TOTAL OF TWO LOTS.",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1705906800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00954",
+          "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "DVP00519",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         }
       ]
@@ -25986,15 +26026,21 @@
           "endDate": 1700463600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1690527600,
-          "endDate": null
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1702623600,
+          "endDate": 1705647600
         },
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1705647600,
+          "endDate": 1705906800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1690527600,
           "endDate": null
         },
         {
@@ -68859,15 +68905,21 @@
           "endDate": 1692687600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1651734000,
-          "endDate": null
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1701932400,
+          "endDate": 1705906800
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1692774000,
+          "startDate": 1705906800,
+          "endDate": 1705906800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1651734000,
           "endDate": null
         },
         {
@@ -68945,6 +68997,18 @@
         {
           "docName": "2023-08-22 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E7275597-67E6-40F5-88F0-CB93744513DB&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "2024-01-22 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=568C3B4F-F1FB-47D4-AE68-1E15D1B71118&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "2024-01-22 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2C2DAAF5-DD4A-4ACD-B29B-449210541B6D&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "2024-01-22 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F230C437-B77C-45A6-BEC8-B183B249E077&folderId=21705C220505084912868458"
         }
       ],
       "city": "Victoria",
@@ -71176,7 +71240,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1697180400,
-          "endDate": null
+          "endDate": 1705906800
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
