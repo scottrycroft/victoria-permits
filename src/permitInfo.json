@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1706010213,
+  "dateRetrieved": 1706096558,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4708,7 +4708,7 @@
         "1742 Island Highway"
       ],
       "status": "ACTIVE",
-      "purpose": "A Form & Character Development Permit to enable exterior at 1742 Island Highway.",
+      "purpose": "A Form & Character Development Permit to enable exterior renovations at 1742 Island Highway.",
       "progressSections": [],
       "documents": [
         {
@@ -4719,7 +4719,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1704887346,
+      "lastUpdated": 1706096969,
       "relatedPermits": []
     },
     {
@@ -4728,7 +4728,7 @@
       "cityApplicationType": "Development Permit",
       "applicationType": "Development Permit",
       "folderNumber": "DP000013",
-      "applicationDate": 1705405820,
+      "applicationDate": 1704956400,
       "addresses": [
         "3700-3771 Producers Way"
       ],
@@ -4744,7 +4744,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1705405820,
+      "lastUpdated": 1706096969,
       "relatedPermits": []
     },
     {
@@ -4753,7 +4753,7 @@
       "cityApplicationType": "Development Permit",
       "applicationType": "Development Permit",
       "folderNumber": "DP000014",
-      "applicationDate": 1704887346,
+      "applicationDate": 1704783600,
       "addresses": [
         "1752 Island Highway"
       ],
@@ -4769,7 +4769,37 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1704887346,
+      "lastUpdated": 1706096969,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3554A Ryder Hesjedal Way",
+      "applicant": "",
+      "folderNumber": "DPA00002",
+      "applicationDate": 1703055600,
+      "addresses": [
+        "3554A Ryder Hesjedal Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable the relocation of a garbage enclosure.",
+      "progressSections": [
+        {
+          "taskDescription": "December 20, 2023",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DPA00002_Permit%20Package.pdf",
+          "docName": "DPA00002_Permit Package"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1706096969,
       "relatedPermits": []
     },
     {
@@ -5204,7 +5234,7 @@
       "purpose": "Creation of a new CD zone to enable a 51-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 20231st & 2nd reading completed January 8, 2024.3rd reading scheduled for January 22, 2024.",
+          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 20231st & 2nd reading completed January 8, 2024.3rd reading completed January 22, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -5219,7 +5249,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1705405820,
+      "lastUpdated": 1706096969,
       "relatedPermits": []
     },
     {
@@ -15626,7 +15656,7 @@
     },
     {
       "primaryStreetName": "4040 NELTHORPE ST",
-      "applicant": "N/A",
+      "applicant": "LEAH MACKENZIE",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01062",
@@ -15635,18 +15665,24 @@
         "4040 NELTHORPE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "ST. ANDREWS SPORT FIELD UPGRADE",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705993200,
+          "endDate": 1705993200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1705993200,
+          "endDate": 1705993200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1705302000,
+      "lastUpdated": 1706096938,
       "relatedPermits": []
     },
     {
@@ -17239,7 +17275,7 @@
     },
     {
       "primaryStreetName": "560 KENNETH ST",
-      "applicant": "N/A",
+      "applicant": "DENISE KORS",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00761",
@@ -17253,13 +17289,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705906800,
+          "endDate": 1705993200
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1705993200,
+          "endDate": 1705993200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1705906800,
+      "lastUpdated": 1706096938,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00954",
@@ -38972,7 +39014,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1698303600,
-          "endDate": null
+          "endDate": 1700722800
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -38998,7 +39040,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1698303600,
+      "lastUpdated": 1706096938,
       "relatedPermits": []
     },
     {
@@ -39430,6 +39472,58 @@
         {
           "relatedPermitID": "CLC00351",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1132 JOHNSON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00265",
+      "applicationDate": 1705993200,
+      "addresses": [
+        "1132 JOHNSON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to construct an affordable housing multiple dwelling. See DP000634 for project details prior to January 23rd 2024",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1705993200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00287",
+          "relatedPermitType": "Development Variance Permit"
+        },
+        {
+          "relatedPermitID": "DP000634",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
         }
       ]
     },
@@ -60951,9 +61045,15 @@
           "endDate": 1699513200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1702623600,
+          "endDate": 1705993200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1702623600,
+          "startDate": 1705993200,
           "endDate": null
         },
         {
@@ -61065,6 +61165,18 @@
         {
           "docName": "2023-12-14 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A483E457-6958-4661-816F-DF49C155C84C&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "2024-01-22 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C0EF2645-5625-4432-B9F9-EFD7CE4B01D7&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "2024-01-22 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F5A34AFF-E406-4060-A187-AC7C70BB869B&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "2024-01-24 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7FD29219-0CA6-43C4-8202-4B923BA9720E&folderId=61303C201001092155276953"
         }
       ],
       "city": "Victoria",
@@ -66253,15 +66365,15 @@
           "endDate": 1641538800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1639378800,
-          "endDate": null
-        },
-        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1641538800,
+          "endDate": 1641884400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1639378800,
           "endDate": null
         },
         {
@@ -71556,6 +71668,12 @@
           "endDate": 1678258800
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1678258800,
+          "endDate": 1678345200
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1681282800,
@@ -71566,12 +71684,6 @@
           "taskType": "With Applicant",
           "startDate": 1681282800,
           "endDate": 1692342000
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1678258800,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -72131,16 +72243,16 @@
           "endDate": 1684393200
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1684393200,
+          "endDate": 1684825200
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1686553200,
           "endDate": 1686553200
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1684393200,
-          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -72192,7 +72304,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1706096938,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000632",
@@ -72330,7 +72442,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1686726000,
-          "endDate": null
+          "endDate": 1705993200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -72417,7 +72529,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1687762800,
-          "endDate": null
+          "endDate": 1689663600
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -72497,12 +72609,6 @@
           "endDate": 1689663600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1689663600,
-          "endDate": 1691737200
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1691737200,
@@ -72515,9 +72621,15 @@
           "endDate": 1701241200
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1689663600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1705993200,
           "endDate": null
         },
         {
