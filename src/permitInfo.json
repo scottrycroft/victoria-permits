@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1706096558,
+  "dateRetrieved": 1706182946,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -154,18 +154,18 @@
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": 1705906800,
+          "endDate": 1705906800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "3RD READING OF BYLAW",
           "startDate": null,
           "endDate": null
         },
@@ -191,7 +191,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1702381734,
+      "lastUpdated": 1706183329,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001008",
@@ -1052,8 +1052,8 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705906800,
+          "endDate": 1705906800
         },
         {
           "taskDescription": "",
@@ -1064,7 +1064,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1653634800,
+      "lastUpdated": 1706183329,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001272",
@@ -8564,7 +8564,7 @@
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
           "startDate": 1700550000,
-          "endDate": null
+          "endDate": 1700550000
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
@@ -15186,7 +15186,19 @@
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
+          "startDate": 1706079600,
+          "endDate": 1706079600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
           "startDate": 1698908400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1706079600,
           "endDate": null
         }
       ],
@@ -15205,7 +15217,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1699008438,
+      "lastUpdated": 1706183329,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -15678,11 +15690,26 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1705993200,
           "endDate": 1705993200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1706079600,
+          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLANS_JAN 15 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=F75C71A6-FE25-4862-BD87-36511CED3D9F&folderId=76702C240115150837272640"
+        },
+        {
+          "docName": "SITE PLAN_JAN 15 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FB6086D6-9AEF-4DB2-BDAA-3B3421BD8AF8&folderId=76702C240115150837272640"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1706096938,
+      "lastUpdated": 1706183329,
       "relatedPermits": []
     },
     {
@@ -36305,6 +36332,12 @@
           "endDate": 1664348400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1664348400,
+          "endDate": 1680246000
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1670396400,
@@ -36315,12 +36348,6 @@
           "taskType": "Application Review by City",
           "startDate": 1651474800,
           "endDate": 1698649200
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1664348400,
-          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -36368,7 +36395,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1704973741,
+      "lastUpdated": 1706183329,
       "relatedPermits": []
     },
     {
@@ -39477,7 +39504,7 @@
     },
     {
       "primaryStreetName": "1132 JOHNSON ST",
-      "applicant": "N/A",
+      "applicant": "PAUL HAMMOND",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00265",
@@ -39486,18 +39513,18 @@
         "1132 JOHNSON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct an affordable housing multiple dwelling. See DP000634 for project details prior to January 23rd 2024",
+      "purpose": "The City is considering a Development Permit with Variance application to construct an affordable housing multiple dwelling.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1706079600,
+          "endDate": 1706079600
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1706079600,
           "endDate": null
         },
         {
@@ -39513,9 +39540,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-01-19 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=30B3AA96-15F1-44FF-AF12-315DADDBAF91&folderId=94459C240123153712030528"
+        },
+        {
+          "docName": "2024-01-19 - Summary of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B669BC00-C5BE-4CF3-84DB-6DB34ECBCD6D&folderId=94459C240123153712030528"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1705993200,
+      "lastUpdated": 1706183329,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00287",
@@ -67273,6 +67309,10 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6177F1F3-EFBF-4B92-AFFC-C66487003BAF&folderId=86781C211224120822146647"
         },
         {
+          "docName": "24-005.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=95239C240124130949679207&folderId=86781C211224120822146647"
+        },
+        {
           "docName": "Letter to Council - Low Res.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=008C49C3-35BE-4F0B-8051-B81D517B31F4&folderId=86781C211224120822146647"
         }
@@ -67563,12 +67603,6 @@
           "taskType": "With Applicant",
           "startDate": 1683010800,
           "endDate": 1702882800
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1644303600,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -70269,6 +70303,12 @@
           "endDate": 1703142000
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1703228400,
+          "endDate": 1706079600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1703660400,
@@ -70381,6 +70421,18 @@
         {
           "docName": "2023-12-21 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A363FFB4-57E1-485D-85A1-5BE1A9E89741&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2024-01-24 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A5AD2D7C-D719-478B-8C86-9B1369EA993C&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2024-01-24 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EBC1B1E7-C5C9-4DA0-A2CD-09A7443C0227&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "2024-01-24 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=445A568C-DFBD-4901-AFE5-E6190C2652BC&folderId=61288C220927141506591408"
         }
       ],
       "city": "Victoria",
@@ -70453,18 +70505,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1691650800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
-          "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
           "endDate": null
         }
       ],
@@ -70807,7 +70847,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1702623600,
-          "endDate": null
+          "endDate": 1704438000
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -73012,18 +73052,6 @@
           "endDate": 1702278000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1695279600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1702450800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
@@ -73077,7 +73105,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702554544,
+      "lastUpdated": 1706183329,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
