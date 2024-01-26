@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1706182946,
+  "dateRetrieved": 1706269362,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -29,13 +29,13 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705906800,
+          "endDate": 1705906800
         },
         {
           "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
-          "startDate": null,
+          "startDate": 1706166000,
           "endDate": null
         }
       ],
@@ -46,7 +46,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1705664948,
+      "lastUpdated": 1706269744,
       "relatedPermits": [
         {
           "relatedPermitID": "PL000902",
@@ -159,13 +159,13 @@
         },
         {
           "taskDescription": "",
-          "taskType": "3RD READING OF BYLAW",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "taskType": "3RD READING OF BYLAW",
           "startDate": null,
           "endDate": null
         },
@@ -191,7 +191,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1706183329,
+      "lastUpdated": 1706269744,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001008",
@@ -11216,7 +11216,7 @@
         "2254 ARBUTUS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "**GARDEN SUITE** TO CONVERT AN EXISTING SINGLE FAMILY DWELLING (HERITAGE) TO A GARDEN SUITE ON A LARGE LOT. VARIANCES REQUESTED FOR GROSS FLOOR AREA AND HEIGHT.",
+      "purpose": "**GARDEN SUITE** TO CONVERT AN EXISTING SINGLE FAMILY DWELLING (HERITAGE) TO A GARDEN SUITE ON A LARGE LOT. VARIANCES REQUESTED FOR GROSS FLOOR AREA, HEIGHT AND REMOVAL OF COVENANT REQUIREMENT.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -15713,6 +15713,44 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "3383 HARRIET RD",
+      "applicant": "HOMEOWNER",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01063",
+      "applicationDate": 1706166000,
+      "addresses": [
+        "3383 HARRIET RD",
+        "3442 WHITTIER AVE",
+        "3444 WHITTIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 INTO RA 57 UNIT MULTI-FAMILY RENTAL BUILDING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1706166000,
+          "endDate": 1706166000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1706166000,
+          "endDate": 1706166000
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1706166000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00762",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -17337,6 +17375,44 @@
         {
           "relatedPermitID": "DVP00519",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3383 HARRIET RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00762",
+      "applicationDate": 1706166000,
+      "addresses": [
+        "3383 HARRIET RD",
+        "3442 WHITTIER AVE",
+        "3444 WHITTIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 INTO RA 57 UNIT MULTI-FAMILY RENTAL BUILDING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1706166000,
+          "endDate": 1706166000
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1706166000,
+          "endDate": 1706166000
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1706166000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01063",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
     },
@@ -27270,16 +27346,16 @@
           "endDate": 1689231600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1689231600,
+          "endDate": 1695798000
+        },
+        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1695798000,
           "endDate": 1696316400
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1689231600,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
@@ -39425,6 +39501,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1703142000,
+          "endDate": 1706166000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1706166000,
           "endDate": null
         },
         {
@@ -39459,7 +39541,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1705405788,
+      "lastUpdated": 1706269744,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -62997,6 +63079,12 @@
           "endDate": 1689750000
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1689750000,
+          "endDate": 1690182000
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": 1694674800,
@@ -63011,7 +63099,7 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": 1689750000,
+          "startDate": 1697094000,
           "endDate": null
         }
       ],
