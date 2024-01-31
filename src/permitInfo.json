@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1706528568,
+  "dateRetrieved": 1706716895,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1454,16 +1454,12 @@
       ],
       "documents": [
         {
-          "docName": "7214 Veyaness_Rationale Letter_Sep 18 2023_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14570C230918144153947870&folderId=09521C230512150958994146"
-        },
-        {
           "docName": "7214 Veyaness_Revised Plans_Sep 18 2023_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=14570C230918144153963457&folderId=09521C230512150958994146"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1683788400,
+      "lastUpdated": 1706615341,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -4873,7 +4869,7 @@
       "purpose": "Rezoning application to permit 6 storey, 55 unit, multifamily residential rental building.",
       "progressSections": [
         {
-          "taskDescription": "Under Review by Staff.",
+          "taskDescription": "Scheduled for review by Planning and Land Use Committee Feb 5, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4888,7 +4884,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696916907,
+      "lastUpdated": 1706717281,
       "relatedPermits": []
     },
     {
@@ -4921,6 +4917,38 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1696915873,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "508 Windthrop Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-005/RZ000004",
+      "applicationDate": 1647846000,
+      "addresses": [
+        "508 Windthrop Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single family (with suites) residential subdivision, 12 bare land strata lots.",
+      "progressSections": [
+        {
+          "taskDescription": "Scheduled for review by Planning and Land Use Committee Feb 5, 2024.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/195302/",
+          "docName": ""
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1706717281,
       "relatedPermits": []
     },
     {
@@ -12822,7 +12850,7 @@
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1703228400,
+          "startDate": 1701846000,
           "endDate": null
         }
       ],
@@ -13027,6 +13055,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1697180400,
+          "endDate": 1706598000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1706598000,
           "endDate": null
         }
       ],
@@ -13656,6 +13690,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1701154800,
+          "endDate": 1703228400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1703228400,
           "endDate": null
         }
       ],
@@ -14128,7 +14168,13 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1705906800,
+          "endDate": 1705993200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1705993200,
           "endDate": null
         }
       ],
@@ -15756,7 +15802,7 @@
         "3444 WHITTIER AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 INTO RA 57 UNIT MULTI-FAMILY RENTAL BUILDING",
+      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 (SINGLE FAMILY) INTO RA (RESIDENTIAL APARTMENT) TO CONSTRUCT 57 UNIT MULTI-FAMILY RENTAL BUILDING. VARIANCE REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -15773,7 +15819,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1706166000,
+      "lastUpdated": 1706701747,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -15783,7 +15829,7 @@
     },
     {
       "primaryStreetName": "4038 MARTHA CRES",
-      "applicant": "N/A",
+      "applicant": "MAC RENOVATIONS",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01064",
@@ -15792,18 +15838,24 @@
         "4038 MARTHA CRES"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "***FLOODPLAIN*** TO CONSTRUCT A NEW WORKSHOP",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1706598000,
+          "endDate": 1706598000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1706598000,
+          "endDate": 1706598000
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1706252400,
+      "lastUpdated": 1706701747,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20756",
@@ -16422,6 +16474,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1699254000,
+          "endDate": 1705647600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -27285,7 +27343,7 @@
         "937 VIEW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for a rental apartment building with approximately 269 units. Variances required: Section 3.67.5 (1) - Height increased from 27.0m to 73.4m and number of storeys increased from 9 storeys to 23 storeys.",
+      "purpose": "The City is considering a Development Permit with Variance application for a rental apartment building with approximately 269 units. Variances required: Section 3.67.5 (1) - Height increased from 27.0m to 73.4m and number of storeys increased from 10 storeys to 23 storeys.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -27453,7 +27511,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1696316400,
-          "endDate": null
+          "endDate": 1698649200
         },
         {
           "taskDescription": "Preparation of required NOTICE and any agreements necessary for Hearing",
@@ -38151,15 +38209,21 @@
           "endDate": 1703660400
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1703660400,
-          "endDate": null
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1702623600,
+          "endDate": 1706598000
         },
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1706252400,
+          "endDate": 1706598000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1706598000,
           "endDate": null
         },
         {
@@ -38456,6 +38520,12 @@
           "endDate": 1700809200
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1706598000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -38500,6 +38570,18 @@
         {
           "docName": "2023-10-23 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B0DC221F-F1F9-46CA-B851-92234378A41A&folderId=32025C230615153230103244"
+        },
+        {
+          "docName": "2024-01-30 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=77159DB0-A3C1-4AA4-81AE-A82D684257C6&folderId=32025C230615153230103244"
+        },
+        {
+          "docName": "2024-01-30 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E125844B-C6F8-4F91-B4D7-A863900DC8D8&folderId=32025C230615153230103244"
+        },
+        {
+          "docName": "2024-01-30 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BD340157-DE49-4453-8E8C-491B3C4DA3CD&folderId=32025C230615153230103244"
         }
       ],
       "city": "Victoria",
@@ -39696,6 +39778,33 @@
         {
           "relatedPermitID": "DP000634",
           "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1035 RUSSELL ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00266",
+      "applicationDate": 1706598000,
+      "addresses": [
+        "1035 RUSSELL ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to construct eight ground-oriented townhouses. Concurrent with Rezoning application REZ00844 - See rezoning for details",
+      "progressSections": [],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1706598000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00844",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00399",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -56165,7 +56274,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1681369200,
-          "endDate": null
+          "endDate": 1688022000
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -61559,16 +61668,16 @@
           "endDate": 1686726000
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1686726000,
+          "endDate": 1686812400
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1688022000,
           "endDate": 1688022000
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1686726000,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -61688,7 +61797,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1705751339,
+      "lastUpdated": 1706701747,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00226",
@@ -67526,21 +67635,21 @@
           "endDate": 1694674800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1643180400,
-          "endDate": null
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1700118000,
+          "endDate": 1700118000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1695020400,
-          "endDate": null
+          "endDate": 1701241200
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1643180400,
           "endDate": null
         },
         {
@@ -68380,15 +68489,15 @@
           "endDate": 1674630000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1647241200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1674630000,
+          "endDate": 1684393200
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1647241200,
           "endDate": null
         },
         {
@@ -68439,7 +68548,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1706701747,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00364",
@@ -69193,6 +69302,12 @@
           "endDate": 1692687600
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1701932400,
+          "endDate": 1701932400
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1701932400,
@@ -69208,12 +69323,6 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1651734000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -70451,15 +70560,15 @@
           "endDate": 1706079600
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1703660400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1703746800,
+          "endDate": 1706252400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1703660400,
           "endDate": null
         },
         {
@@ -71625,7 +71734,7 @@
         "1035 RUSSELL ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct eight ground-oriented townhouses.",
+      "purpose": "The City is considering a Rezoning application to construct eight ground-oriented townhouses. Concurrent with Development Permit with Variance DPV00266",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -71649,7 +71758,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1677826800,
-          "endDate": null
+          "endDate": 1706598000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -71703,6 +71812,10 @@
       "city": "Victoria",
       "lastUpdated": 1695984488,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00266",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "CLC00399",
           "relatedPermitType": "Pre-Application (CALUC)"
@@ -72913,7 +73026,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1706598000,
           "endDate": null
         },
         {
