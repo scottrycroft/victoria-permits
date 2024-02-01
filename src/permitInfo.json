@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1706716895,
+  "dateRetrieved": 1706787755,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10425,7 +10425,7 @@
         "2095 GRANITE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment to authorize an existing care home use.",
+      "purpose": "This is an application for a zoning bylaw amendment to authorize an existing care home use and facilitate a subdivision of the portion of the subject property containing that use.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -10490,7 +10490,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1701949812,
+      "lastUpdated": 1706788142,
       "relatedPermits": []
     },
     {
@@ -11896,6 +11896,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1689318000,
+          "endDate": 1706684400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1706684400,
           "endDate": null
         }
       ],
@@ -15270,7 +15276,7 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1698908400,
-          "endDate": null
+          "endDate": 1706684400
         },
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
@@ -15294,7 +15300,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1706183329,
+      "lastUpdated": 1706788142,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -15817,9 +15823,22 @@
           "endDate": 1706166000
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS PLANS_JAN 25 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=19AFB4EB-03C5-4715-B234-51E2F80C2BCE&folderId=80186C240125100202716054"
+        },
+        {
+          "docName": "SHAWDOW PLAN_JAN 25 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9F5C6D0C-BB2E-48D1-B49C-CFA66B8460FB&folderId=80186C240125100202716054"
+        },
+        {
+          "docName": "SITE PLAN_JAN 25 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=64DDDF39-3EE9-49CF-B168-59B69764D35C&folderId=80186C240125100202716054"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1706701747,
+      "lastUpdated": 1706788142,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -17027,12 +17046,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1702364400,
+          "endDate": 1706684400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1706684400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702468147,
+      "lastUpdated": 1706788142,
       "relatedPermits": []
     },
     {
@@ -22323,6 +22348,46 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "50 GOVERNMENT ST",
+      "applicant": "MIKE JONES",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00429",
+      "applicationDate": 1706684400,
+      "addresses": [
+        "50 GOVERNMENT ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) when significant changes are made to the Rezoning application. Rezoning Application No. 00861 is in progress.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2023-09-26 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=95516C240125110133687063&folderId=LUpnd6a6jkSKwF6WeySmZw"
+        },
+        {
+          "docName": "2024-01-16 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=95516C240125110133724897&folderId=LUpnd6a6jkSKwF6WeySmZw"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1706684400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00861",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00251",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00401",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "2 PAUL KANE PL",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMITS",
@@ -26521,6 +26586,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1706684400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -26541,6 +26612,18 @@
         {
           "docName": "2023-09-28 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F8C2FAC4-AC99-425E-9603-56A6A6FD8ECE&folderId=62078C230928155731622796"
+        },
+        {
+          "docName": "2024-01-31 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=972C34CC-BCCE-4F42-94FF-93324734146D&folderId=62078C230928155731622796"
+        },
+        {
+          "docName": "2024-01-31 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=079859CD-C987-48D7-B3D5-CCEABF2C785B&folderId=62078C230928155731622796"
+        },
+        {
+          "docName": "2024-01-31 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F41113B6-4022-4436-A67B-1D6F0132B1D0&folderId=62078C230928155731622796"
         }
       ],
       "city": "Victoria",
@@ -39139,6 +39222,10 @@
       "city": "Victoria",
       "lastUpdated": 1696848405,
       "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00429",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        },
         {
           "relatedPermitID": "REZ00861",
           "relatedPermitType": "Rezoning Application"
@@ -73478,6 +73565,10 @@
       "lastUpdated": 1696848405,
       "relatedPermits": [
         {
+          "relatedPermitID": "CLC00429",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        },
+        {
           "relatedPermitID": "DPV00251",
           "relatedPermitType": "Development Permit with Variance"
         },
@@ -73658,12 +73749,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DE33C24C-925B-4066-9A13-5E3C83A8F861&folderId=70825C231101162221954762"
         },
         {
+          "docName": "2024-01-31 - Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=54991875-E2AC-42EF-A031-FDD18618F7FB&folderId=70825C231101162221954762"
+        },
+        {
           "docName": "Letter to DS.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6579BABA-4BCB-4B49-85FC-7C6969BEC8F4&folderId=70825C231101162221954762"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702381734,
+      "lastUpdated": 1706788142,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00416",
