@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1706787755,
+  "dateRetrieved": 1706894945,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7491,10 +7491,10 @@
       "purpose": "To amend the zoning to a CD Zone to accommodate a 314-unit, 12-storey building.",
       "progressSections": [
         {
-          "taskDescription": "Presented to the Design Review Committee on December 13, 2023",
+          "taskDescription": "Presented to the Advisory Planning Commission on January 16, 2024",
           "taskType": "",
-          "startDate": 1702450800,
-          "endDate": 1702450800
+          "startDate": 1705388400,
+          "endDate": 1705388400
         }
       ],
       "documents": [
@@ -7506,7 +7506,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1702986558,
+      "lastUpdated": 1706895354,
       "relatedPermits": []
     },
     {
@@ -7651,10 +7651,10 @@
       "purpose": "To amend the zoning to accommodate a duplex with 2 secondary suites",
       "progressSections": [
         {
-          "taskDescription": "Presented to the Design Review Committee on November 8, 2023",
+          "taskDescription": "Presented to the Advisory Planning Commission on January 16, 2024",
           "taskType": "",
-          "startDate": 1699426800,
-          "endDate": 1699426800
+          "startDate": 1705388400,
+          "endDate": 1705388400
         }
       ],
       "documents": [
@@ -7666,7 +7666,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1699703238,
+      "lastUpdated": 1706895354,
       "relatedPermits": []
     },
     {
@@ -7781,10 +7781,10 @@
       "purpose": "To amend the CD No.120 Zone to accommodate an increase of 5.8 metres in height (2 additional stories) and 16 additional residential units",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "Presented to the Advisory Planning Commission on January 16, 2024",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705388400,
+          "endDate": 1705388400
         }
       ],
       "documents": [
@@ -7796,7 +7796,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1704455360,
+      "lastUpdated": 1706895354,
       "relatedPermits": []
     },
     {
@@ -13067,6 +13067,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1706598000,
+          "endDate": 1706770800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1706770800,
           "endDate": null
         }
       ],
@@ -16179,6 +16185,64 @@
         {
           "relatedPermitID": "DPR01020",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "220 KAMLOOPS AVE",
+      "applicant": "AMAN GILL",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00729",
+      "applicationDate": 1674716400,
+      "addresses": [
+        "220 KAMLOOPS AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FORM RS-6 TO RS-2 TO CREATE ONE ADDITIONAL LOT FOR A TOTAL OF 2 LOTS. NO VARIANCES ARE REQUIRED.",
+      "progressSections": [
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1675839600,
+          "endDate": 1675839600
+        },
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1674716400,
+          "endDate": 1706770800
+        },
+        {
+          "taskDescription": "Application has been approved by Council",
+          "taskType": "APPLICATION APPROVED BY COUNCIL",
+          "startDate": 1685948400,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1706770800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "TRP20978",
+          "relatedPermitType": "TREE PERMIT"
+        },
+        {
+          "relatedPermitID": "BLD20529",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        },
+        {
+          "relatedPermitID": "TRP20676",
+          "relatedPermitType": "TREE PERMIT"
+        },
+        {
+          "relatedPermitID": "BLD20383",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        },
+        {
+          "relatedPermitID": "SUB00934",
+          "relatedPermitType": "SUBDIVISION"
         }
       ]
     },
@@ -26580,15 +26644,21 @@
           "endDate": 1695970800
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1706684400,
+          "endDate": 1706770800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1695970800,
           "endDate": null
         },
         {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1706684400,
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1706770800,
           "endDate": null
         },
         {
@@ -37548,8 +37618,8 @@
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
           "taskType": "Council Meeting - Public Comment",
-          "startDate": 1706166000,
-          "endDate": 1706166000
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -37591,7 +37661,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1706356159,
+      "lastUpdated": 1706874566,
       "relatedPermits": []
     },
     {
@@ -38603,10 +38673,16 @@
           "endDate": 1700809200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1700809200,
+          "endDate": 1706684400
+        },
+        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1706598000,
-          "endDate": null
+          "endDate": 1706770800
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -71757,40 +71833,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=08028F37-A341-4888-B0B7-62AB2E77F4F7&folderId=01974C230302120631273092"
         },
         {
-          "docName": "2023 -03-02 - Landscape Plan.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8550DC30-D397-47F9-80D8-6F6904EDA8A5&folderId=01974C230302120631273092"
-        },
-        {
-          "docName": "2023 -03-02 - Letter to Council.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=13F43049-97B2-4FC3-9E8D-E50A52E2058F&folderId=01974C230302120631273092"
-        },
-        {
-          "docName": "2023 -03-02 - Plans - Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1E467998-9F79-4F8C-A528-BA284A3A359C&folderId=01974C230302120631273092"
-        },
-        {
           "docName": "2023-09-07 - Letter to Council - Revised.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E31242A1-57C0-4F0D-A105-46077FDD492A&folderId=01974C230302120631273092"
         },
         {
-          "docName": "2023-09-07 - Plans - Revised - Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=243B0006-E043-40F6-A318-6BB5743CD667&folderId=01974C230302120631273092"
-        },
-        {
-          "docName": "2023-09-07 - Plans - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=180D4CB9-12C5-4010-8492-A8514F39D79E&folderId=01974C230302120631273092"
-        },
-        {
-          "docName": "2023-11-10 - Plans - Revised - Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C11C3833-33BF-4E8F-ABB7-830836757672&folderId=01974C230302120631273092"
-        },
-        {
-          "docName": "2023-11-10 - Plans - Revisions - Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8C735E40-77FC-465C-8C83-F061DA4FA3D3&folderId=01974C230302120631273092"
-        },
-        {
-          "docName": "2023-11-10 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=315B870C-549D-4995-BCB5-7275AD11BC78&folderId=01974C230302120631273092"
+          "docName": "2024-01-22 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA9FB130-4FB9-4EFD-8D90-2DD1B5E04090&folderId=01974C230302120631273092"
         }
       ],
       "city": "Victoria",
