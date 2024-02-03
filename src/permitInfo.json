@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1706894945,
+  "dateRetrieved": 1706960570,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8301,14 +8301,14 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1700636400,
+          "endDate": 1700636400
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702278000,
+          "endDate": 1706857200
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -8319,7 +8319,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1700049306,
+      "lastUpdated": 1706960956,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00134",
@@ -10167,25 +10167,25 @@
           "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
           "taskType": "APPLICANT NEIGHBOUR INFO MTG",
           "startDate": 1699426800,
-          "endDate": null
+          "endDate": 1699426800
         },
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1700636400,
+          "endDate": 1700636400
         },
         {
           "taskDescription": "meeting date of council for initial consideration of the application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1702278000,
+          "endDate": 1702278000
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1706857200,
+          "endDate": 1706857200
         },
         {
           "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
@@ -13195,6 +13195,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1697612400,
+          "endDate": 1706857200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1706857200,
           "endDate": null
         }
       ],
@@ -22285,8 +22291,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702727871,
-      "relatedPermits": []
+      "lastUpdated": 1706960956,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00867",
+          "relatedPermitType": "Rezoning Application"
+        }
+      ]
     },
     {
       "primaryStreetName": "2501 BLANSHARD ST",
@@ -25782,8 +25793,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1704956400,
+          "endDate": 1706857200
         }
       ],
       "documents": [],
@@ -39955,11 +39966,11 @@
         "1035 RUSSELL ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct eight ground-oriented townhouses. Concurrent with Rezoning application REZ00844 - See rezoning for details",
+      "purpose": "The City is considering a Development Permit with Variance application to construct eight ground-oriented townhouses. Concurrent with Rezoning application REZ00844. See rezoning for details.",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1706598000,
+      "lastUpdated": 1706960956,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00844",
@@ -74061,6 +74072,76 @@
       ]
     },
     {
+      "primaryStreetName": "930 BURDETT AVE",
+      "applicant": "BRENDON NEILSON",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00867",
+      "applicationDate": 1706857200,
+      "addresses": [
+        "930 BURDETT AVE",
+        "990 BURDETT AVE",
+        "911 QUADRA ST",
+        "900 VANCOUVER ST",
+        "912 VANCOUVER ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to allow for a mixed use development master plan with an Official Community Plan amendment.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1706857200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00424",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "2000 West Park Ln",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -75585,22 +75666,26 @@
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2023-04 Plans 2023 09 14.pdf"
         },
         {
+          "docName": "2024 02 06 Council Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/68402/Bylaw%201130%20-%20294%20and%20296%20Eltham%20Road%20and%20242%20Helmc.pdf?handle=EED6E9928C7A43EEABF5D6AD96D98B67"
+        },
+        {
+          "docName": "Bylaw No. 1130",
+          "docURL": "https://viewroyalbc.civicweb.net/document/68400/Bylaw%20No.%201130.pdf?handle=5B8487B908E64DE0A869797094B9A6AF"
+        },
+        {
           "docName": "2023 12 12 COW Report",
           "docURL": "https://viewroyalbc.civicweb.net/document/67579/Rezoning%20Application%20-%20294%20and%20296%20Eltham%20Road%20and.pdf?handle=DE13CA593FFC488EBD9118D34FF1C2A8"
         },
         {
           "docName": "2023 12 12 Staff Presentation",
           "docURL": "https://viewroyalbc.civicweb.net/document/67592/Staff%20Presentation%20-%20Rezoning%20for%20Eltham%20and%20Helmc.pdf?handle=70DF0CD04BD54AEB9CF6987A85CC1B49"
-        },
-        {
-          "docName": "Draft Bylaw No.1130 [PDF - 481 KB]",
-          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/2024 01 26 Draft Bylaw 1130.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1706356186,
+      "lastUpdated": 1706960985,
       "relatedPermits": []
     },
     {
