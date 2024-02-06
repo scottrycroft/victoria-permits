@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707133364,
+  "dateRetrieved": 1707219761,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1903,9 +1903,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "1445 Benvenuto_Plans_Aug 8 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=19318C240205095321229956&folderId=13083C230808085417473771"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1691478000,
+      "lastUpdated": 1707220151,
       "relatedPermits": []
     },
     {
@@ -2544,12 +2549,12 @@
       ],
       "documents": [
         {
-          "docName": "480 West View_Plans_Dec 13 2023_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=17311C231221110529801588&folderId=17311C231205135310990364"
+          "docName": "UPDATED Jan 25 2024 plans",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=DA92F26F-234B-4B2B-91E6-73D06AC22CB1&folderId=17311C231205135310990364"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1703246265,
+      "lastUpdated": 1707220151,
       "relatedPermits": []
     },
     {
@@ -13066,7 +13071,7 @@
         {
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
-          "startDate": 1706598000,
+          "startDate": 1706079600,
           "endDate": 1706770800
         },
         {
@@ -22461,6 +22466,34 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "603 PANDORA AVE",
+      "applicant": "FRANCIS MAIRET",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00430",
+      "applicationDate": 1707116400,
+      "addresses": [
+        "603 PANDORA AVE",
+        "607 PANDORA AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-01-30 - Plans 1.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99152C240205115005711994&folderId=56Cs9dypI0CZ25+hXUYWRw"
+        },
+        {
+          "docName": "2024-01-30 - Project Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97187C240130084732847693&folderId=56Cs9dypI0CZ25+hXUYWRw"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1707116400,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -68192,6 +68225,12 @@
           "endDate": 1704783600
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1704783600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -71850,6 +71889,10 @@
         {
           "docName": "2024-01-22 - Plans.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA9FB130-4FB9-4EFD-8D90-2DD1B5E04090&folderId=01974C230302120631273092"
+        },
+        {
+          "docName": "24-008.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99183C240205121637684799&folderId=01974C230302120631273092"
         }
       ],
       "city": "Victoria",
