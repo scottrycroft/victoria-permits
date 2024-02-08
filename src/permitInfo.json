@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707306411,
+  "dateRetrieved": 1707392562,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1423,12 +1423,6 @@
         },
         {
           "taskDescription": "",
-          "taskType": "WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
@@ -1436,6 +1430,18 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "WITH APPLICANT",
           "startDate": null,
           "endDate": null
         },
@@ -1459,7 +1465,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1706615341,
+      "lastUpdated": 1707392951,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -1811,8 +1817,8 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705906800,
+          "endDate": 1705906800
         },
         {
           "taskDescription": "",
@@ -1838,7 +1844,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1704541738,
+      "lastUpdated": 1707392951,
       "relatedPermits": []
     },
     {
@@ -8537,8 +8543,8 @@
         {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707289200,
+          "endDate": 1707289200
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
@@ -10441,8 +10447,8 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707289200,
+          "endDate": 1707289200
         },
         {
           "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
@@ -10495,7 +10501,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1706788142,
+      "lastUpdated": 1707392951,
       "relatedPermits": []
     },
     {
@@ -11274,7 +11280,7 @@
         "2254 ARBUTUS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "**GARDEN SUITE** TO CONVERT AN EXISTING SINGLE FAMILY DWELLING (HERITAGE REGISTERED) TO A GARDEN SUITE ON A LARGE LOT. VARIANCES REQUESTED FOR GROSS FLOOR AREA, HEIGHT AND REMOVAL OF COVENANT REQUIREMENT.",
+      "purpose": "**GARDEN SUITE** TO CONVERT AN EXISTING SINGLE FAMILY DWELLING (HERITAGE REGISTERED) TO A GARDEN SUITE ON A LARGE LOT. VARIANCES REQUESTED FOR GROSS FLOOR AREA AND REMOVAL OF COVENANT REQUIREMENT.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -11911,10 +11917,6 @@
         }
       ],
       "documents": [
-        {
-          "docName": "REVISED ELEVATION PLANS_PROJECT DATA_JAN 29 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=600365AC-9D7D-4C10-B9C2-9B3B53CC27AD&folderId=38265C221014132754380914"
-        },
         {
           "docName": "REVISED SITE PLAN_JAN 29 2024.",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=486E6FF8-7AA3-40D5-A72F-CC11FCC37445&folderId=38265C221014132754380914"
@@ -12768,6 +12770,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1678431600,
+          "endDate": 1707289200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1706684400,
           "endDate": null
         }
       ],
@@ -13211,16 +13219,16 @@
       ],
       "documents": [
         {
-          "docName": "REVISED ELEVATION PLAN_AUG 16_2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=5F2567A6-7F16-49F4-B9C0-2078219A7C5E&folderId=61004C230110122204999106"
+          "docName": "REVISED ELEVATION PLAN_JAN 31 2024.",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=357FF6D9-96BC-45B8-8468-B4ADCF91D05A&folderId=61004C230110122204999106"
         },
         {
-          "docName": "REVISED LANDSCAPE PLAN_AUG 16_2023-nfp",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=030FD056-0C68-4A74-8255-FE3C58974A2F&folderId=61004C230110122204999106"
+          "docName": "REVISED LANDSCAPE PLANS_JAN 31 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=5F5AFF3A-EF62-4FD8-8FBD-93314F845B3C&folderId=61004C230110122204999106"
         },
         {
-          "docName": "REVISED SITE PLAN_AUG 16_2023-nfp",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1005696C-E634-4EB3-8244-D2BAE0E4082A&folderId=61004C230110122204999106"
+          "docName": "REVISED SITE PLAN_JAN 31 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E703E825-07F8-414B-9650-C15BDAAE5DB6&folderId=61004C230110122204999106"
         }
       ],
       "city": "Saanich",
@@ -13719,6 +13727,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1703228400,
+          "endDate": 1707289200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1706857200,
           "endDate": null
         }
       ],
@@ -15889,9 +15903,22 @@
           "endDate": 1706598000
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_JAN 26 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=824269D5-77D7-472D-9BC6-EB89BB204061&folderId=81646C240126141344998865"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_JAN 20204.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C8EC3ACE-907E-4FDF-A556-84505732384D&folderId=81646C240126141344998865"
+        },
+        {
+          "docName": "SITE PLAN_JAN 26 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=82F8FBAE-C2B2-40C5-9582-0C54DDED8D2F&folderId=81646C240126141344998865"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1706701747,
+      "lastUpdated": 1707392951,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20756",
@@ -36688,7 +36715,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1689145200,
-          "endDate": null
+          "endDate": 1698822000
         }
       ],
       "documents": [
@@ -61570,7 +61597,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1705993200,
-          "endDate": null
+          "endDate": 1707289200
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -70259,6 +70286,12 @@
           "endDate": 1691564400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1691650800,
+          "endDate": 1691650800
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": 1698908400,
@@ -70269,12 +70302,6 @@
           "taskType": "Council Meeting - Public Comment",
           "startDate": 1700722800,
           "endDate": 1700722800
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1691650800,
-          "endDate": null
         }
       ],
       "documents": [
@@ -71972,15 +71999,21 @@
           "endDate": 1690527600
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1701673200,
+          "endDate": 1706166000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1677826800,
           "endDate": 1706598000
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1701673200,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1706166000,
           "endDate": null
         },
         {
@@ -72201,7 +72234,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1692601200,
-          "endDate": null
+          "endDate": 1692601200
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -72687,6 +72720,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1701673200,
+          "endDate": 1704870000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1704870000,
           "endDate": null
         },
         {
@@ -72960,7 +72999,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1695106800,
-          "endDate": null
+          "endDate": 1706079600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
