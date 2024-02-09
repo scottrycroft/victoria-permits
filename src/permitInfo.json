@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707392562,
+  "dateRetrieved": 1707478966,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -389,13 +389,13 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701068400,
+          "endDate": 1701068400
         },
         {
           "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
-          "startDate": null,
+          "startDate": 1707375600,
           "endDate": null
         }
       ],
@@ -406,7 +406,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1700135178,
+      "lastUpdated": 1707479364,
       "relatedPermits": []
     },
     {
@@ -8631,6 +8631,12 @@
           "endDate": 1700550000
         },
         {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
@@ -12781,12 +12787,8 @@
       ],
       "documents": [
         {
-          "docName": "ELEVATIONS_DEC 13 2022",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=033511DE-E78E-48DA-ACBB-80B4903DD9E2&folderId=55117C221213133259686809"
-        },
-        {
-          "docName": "SITE_DEC 13 2022",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=41B3A226-B0EC-4C40-8DEE-3ACC4877D597&folderId=55117C221213133259686809"
+          "docName": "REVISED ELEVATIONS_JAN 31 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BF190CE2-2730-4094-B772-752AEC047555&folderId=55117C221213133259686809"
         }
       ],
       "city": "Saanich",
@@ -13738,16 +13740,16 @@
       ],
       "documents": [
         {
-          "docName": "REVISED_ELEVATIONS_AUG 24, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6AA9BF86-47B8-4A07-BCD2-875C3E483BA6&folderId=72251C230214110852902069"
+          "docName": "REVISED ELEVATIONS_CROSS SECTION_FEB 2 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1F361F6B-BF2B-47F7-9FD6-C844E46390BF&folderId=72251C230214110852902069"
         },
         {
-          "docName": "REVISED_LANDSCAPE_AUG 24, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=446EE043-8165-4C05-9299-618069D94638&folderId=72251C230214110852902069"
+          "docName": "REVISED LANDSCAPE PLANS_FEB 2 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FC344BD3-CB34-4195-887E-7481CA491A2D&folderId=72251C230214110852902069"
         },
         {
-          "docName": "REVISED_SITE_AUG 24, 2023-NFP",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=722B49A3-6AFB-43EA-BE0E-ED935DBDB285&folderId=72251C230214110852902069"
+          "docName": "REVISED SITE PLAN_FEB 2 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=CB753F9D-233F-4006-A055-83D66E44EAB1&folderId=72251C230214110852902069"
         }
       ],
       "city": "Saanich",
@@ -38782,6 +38784,12 @@
           "taskType": "Received Revised Plans",
           "startDate": 1706598000,
           "endDate": 1706770800
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1706598000,
+          "endDate": null
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
