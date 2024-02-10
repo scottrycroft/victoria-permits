@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707478966,
+  "dateRetrieved": 1707566489,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10205,8 +10205,8 @@
           "endDate": 1706857200
         },
         {
-          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskDescription": "meeting date of council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -10457,6 +10457,12 @@
           "endDate": 1707289200
         },
         {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
           "taskType": "APPLICANT NEIGHBOUR INFO MTG",
           "startDate": null,
@@ -10465,12 +10471,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -10507,7 +10507,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1707392951,
+      "lastUpdated": 1707566878,
       "relatedPermits": []
     },
     {
@@ -11919,6 +11919,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1706511600,
+          "endDate": 1707462000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1707462000,
           "endDate": null
         }
       ],
@@ -12782,6 +12788,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1706684400,
+          "endDate": 1707462000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1707462000,
           "endDate": null
         }
       ],
@@ -13216,6 +13228,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1706684400,
+          "endDate": 1707462000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1707462000,
           "endDate": null
         }
       ],
@@ -15862,6 +15880,10 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=19AFB4EB-03C5-4715-B234-51E2F80C2BCE&folderId=80186C240125100202716054"
         },
         {
+          "docName": "LANDSCAPE PLANS_JAN 25 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E1632358-AAC3-4CD0-ADEC-89F9714ADB8B&folderId=80186C240125100202716054"
+        },
+        {
           "docName": "SHAWDOW PLAN_JAN 25 2024",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9F5C6D0C-BB2E-48D1-B49C-CFA66B8460FB&folderId=80186C240125100202716054"
         },
@@ -15871,7 +15893,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1706788142,
+      "lastUpdated": 1707566878,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -27768,14 +27790,14 @@
           "endDate": 1698649200
         },
         {
-          "taskDescription": "Preparation of required NOTICE and any agreements necessary for Hearing",
-          "taskType": "Notice Preparation",
+          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
+          "taskType": "Council Meeting - Public Comment",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
-          "taskType": "Council Meeting - Public Comment",
+          "taskDescription": "Preparation of required NOTICE and any agreements necessary for Hearing",
+          "taskType": "Notice Preparation",
           "startDate": null,
           "endDate": null
         }
@@ -61728,6 +61750,10 @@
         {
           "docName": "2024-01-24 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7FD29219-0CA6-43C4-8202-4B923BA9720E&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "2024-02-09 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=675873EA-FAC1-4032-8FC4-18A74CB282CA&folderId=61303C201001092155276953"
         }
       ],
       "city": "Victoria",
@@ -68282,15 +68308,15 @@
           "endDate": 1704783600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1644908400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1704783600,
+          "endDate": 1707462000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1644908400,
           "endDate": null
         },
         {
@@ -69026,9 +69052,15 @@
           "endDate": 1703055600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1705388400,
+          "endDate": 1707462000
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1703660400,
+          "startDate": 1707462000,
           "endDate": null
         },
         {
@@ -69094,6 +69126,22 @@
         {
           "docName": "2023-12-20 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12375971-9CE9-448F-82A9-8BA2C035E1B6&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "2024-02-09 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=25CEF8F7-C271-419C-A1E3-786F640C9625&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "2024-02-09 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FEEFD941-B0E7-42D6-8A1B-1BB69AB4E1D5&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "2024-02-09 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1CCA48C2-FE50-4F49-AA58-5277383F595E&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "2024-02-09 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FB6A48A5-4C91-43CB-96C3-A17FF015FEFA&folderId=15565C220411114709185208"
         }
       ],
       "city": "Victoria",
@@ -73589,6 +73637,18 @@
           "endDate": 1706079600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1702969200,
+          "endDate": 1707462000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1707462000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -73633,10 +73693,26 @@
         {
           "docName": "2023-12-13 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D63FF11F-C409-41DE-AD51-F2CBC0BEF87B&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-02-09 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=15D5EA9E-B60C-4FD3-AD7B-99867BBB5D5C&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-02-09 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9906E796-2CA3-4DA0-A8C8-752C3278E275&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-02-09 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=137AF1A5-9A4E-4E3D-BDAC-CA3FBF42FE02&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-02-09 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=85A5160A-F402-48E3-90BA-933B78F5DBC9&folderId=59751C230920092653440323"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1706356159,
+      "lastUpdated": 1707566878,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
