@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707738220,
+  "dateRetrieved": 1707824545,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1416,21 +1416,21 @@
       "purpose": "Rezone from existing R1 to R-1XS to allow a small lot residential subdivision to include 3 new lots.",
       "progressSections": [
         {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1683788400,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707721200,
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
+          "startDate": 1707721200,
+          "endDate": 1707721200
+        },
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1683788400,
           "endDate": null
         },
         {
@@ -1441,13 +1441,13 @@
         },
         {
           "taskDescription": "",
-          "taskType": "WITH APPLICANT",
+          "taskType": "3RD READING OF BYLAW",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "3RD READING OF BYLAW",
+          "taskType": "WITH APPLICANT",
           "startDate": null,
           "endDate": null
         },
@@ -1465,7 +1465,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707392951,
+      "lastUpdated": 1707824941,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -1858,7 +1858,7 @@
         "1445 BENVENUTO AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Rezone portion of lot to allow ALC approved non-farm use in ALR to continue within the winery building.",
+      "purpose": "This is to notify that Council will be considering a Bylaw Amendment Application to amend the Agriculture (A-1) zoning to include a restaurant as a permitted use on the subject property.",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -1916,7 +1916,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707220151,
+      "lastUpdated": 1707824941,
       "relatedPermits": []
     },
     {
@@ -10536,16 +10536,10 @@
           "endDate": 1703055600
         },
         {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1706598000,
+          "endDate": 1707721200
         },
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
@@ -10591,7 +10585,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1703159333,
+      "lastUpdated": 1707824941,
       "relatedPermits": []
     },
     {
@@ -11930,6 +11924,10 @@
       ],
       "documents": [
         {
+          "docName": "REVISED ELEVATION PLANS_JAN 29 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8594191D-4DD1-4CBD-A26E-08765F664479&folderId=38265C221014132754380914"
+        },
+        {
           "docName": "REVISED SITE PLAN_JAN 29 2024.",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=486E6FF8-7AA3-40D5-A72F-CC11FCC37445&folderId=38265C221014132754380914"
         }
@@ -12801,6 +12799,10 @@
         {
           "docName": "REVISED ELEVATIONS_JAN 31 2024",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BF190CE2-2730-4094-B772-752AEC047555&folderId=55117C221213133259686809"
+        },
+        {
+          "docName": "REVISED SITE PLAN_PROJECT DATA_JAN 31 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=5D3E5CEE-63CE-4F26-BF80-523AB453815D&folderId=55117C221213133259686809"
         }
       ],
       "city": "Saanich",
@@ -17510,7 +17512,7 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1704438000,
-          "endDate": null
+          "endDate": 1707721200
         },
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
@@ -17530,7 +17532,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1705751339,
+      "lastUpdated": 1707824941,
       "relatedPermits": []
     },
     {
@@ -68320,6 +68322,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1707462000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -69903,12 +69911,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1704870000,
-          "endDate": null
+          "endDate": 1706598000
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1706598000,
           "endDate": null
         },
         {
