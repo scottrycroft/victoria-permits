@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707824545,
+  "dateRetrieved": 1707911511,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8633,8 +8633,8 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707807600,
+          "endDate": 1707807600
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
@@ -10587,6 +10587,190 @@
       "city": "Oak Bay",
       "lastUpdated": 1707824941,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1703 MONTEREY AVE",
+      "applicant": "DISTRICT OF OAK BAY",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00049",
+      "applicationDate": 1707807600,
+      "addresses": [
+        "1703 MONTEREY AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment to consolidate the parcels all to P1 zoning.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1707807600,
+          "endDate": 1707807600
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
+          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "meeting date of council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
+          "taskType": "PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1707807600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00138",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3275 UPPER TERRACE RD",
+      "applicant": "NOVUS PROPERTIES",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00050",
+      "applicationDate": 1707807600,
+      "addresses": [
+        "3275 UPPER TERRACE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment for the rezoning of the property of RS1 to RS2 to allow for a subdivision (2 lots).",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
+          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "meeting date of council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
+          "taskType": "PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1707807600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "OCP00007",
+          "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT"
+        },
+        {
+          "relatedPermitID": "BP014430",
+          "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "640 BEAVER LAKE RD",
@@ -17518,6 +17702,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1705647600,
+          "endDate": 1707807600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1707721200,
           "endDate": null
         }
       ],
@@ -17532,7 +17722,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1707824941,
+      "lastUpdated": 1707911902,
       "relatedPermits": []
     },
     {
@@ -68157,7 +68347,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1703142000,
-          "endDate": null
+          "endDate": 1707807600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
