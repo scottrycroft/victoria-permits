@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707911511,
+  "dateRetrieved": 1707997360,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -160,14 +160,14 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707721200,
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707721200,
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
@@ -191,7 +191,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1706269744,
+      "lastUpdated": 1707997751,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001008",
@@ -1416,6 +1416,12 @@
       "purpose": "Rezone from existing R1 to R-1XS to allow a small lot residential subdivision to include 3 new lots.",
       "progressSections": [
         {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1683788400,
+          "endDate": 1706770800
+        },
+        {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
           "startDate": 1707721200,
@@ -1426,12 +1432,6 @@
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
           "startDate": 1707721200,
           "endDate": 1707721200
-        },
-        {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1683788400,
-          "endDate": null
         },
         {
           "taskDescription": "",
@@ -1465,7 +1465,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707824941,
+      "lastUpdated": 1707997751,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -1645,47 +1645,35 @@
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1687503600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707721200,
+          "endDate": 1707894000
         },
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707721200,
+          "endDate": 1707894000
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": 1707721200,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "WITH APPLICANT",
           "startDate": null,
           "endDate": null
         },
@@ -1707,7 +1695,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1687503600,
+      "lastUpdated": 1707997751,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001438",
@@ -1991,7 +1979,7 @@
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1692342000,
-          "endDate": null
+          "endDate": 1706770800
         },
         {
           "taskDescription": "",
@@ -2043,7 +2031,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1692342000,
+      "lastUpdated": 1707997751,
       "relatedPermits": []
     },
     {
@@ -2063,18 +2051,18 @@
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1694674800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1706770800
         },
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
+          "startDate": 1707721200,
+          "endDate": 1707721200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": 1707721200,
           "endDate": null
         },
         {
@@ -2086,12 +2074,6 @@
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
           "startDate": null,
           "endDate": null
         },
@@ -2127,7 +2109,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1694674800,
+      "lastUpdated": 1707997751,
       "relatedPermits": []
     },
     {
@@ -8246,6 +8228,12 @@
           "taskType": "FILE COMPLETED",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [],
@@ -10088,14 +10076,14 @@
         {
           "taskDescription": "meeting date of council for initial consideration of the application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1696921200,
+          "endDate": 1707894000
         },
         {
           "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
           "taskType": "PUBLIC HEARING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707894000,
+          "endDate": 1707894000
         },
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
@@ -15666,12 +15654,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1702278000,
+          "endDate": 1707894000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1707894000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1702468147,
+      "lastUpdated": 1707997751,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00514",
@@ -74111,10 +74105,26 @@
         {
           "docName": "2023-10-18 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF55888E-7636-4115-81E8-40401A17E20A&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2024-02-14 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2AA6377E-A3E2-4529-9A71-1EA32CB7736D&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2024-02-14 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=192A999B-680D-4571-816B-91577170103F&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2024-02-14 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D0BCBC10-9660-4B99-8A23-FA7A53EE526B&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2024-02-14 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=366C4B4F-B855-44B0-B961-27C36827E192&folderId=66971C231018105314442892"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700031600,
+      "lastUpdated": 1707997751,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
