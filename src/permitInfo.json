@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1707997360,
+  "dateRetrieved": 1708084272,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8674,8 +8674,8 @@
         {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707980400,
+          "endDate": 1707980400
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
@@ -8715,7 +8715,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1701414000,
+      "lastUpdated": 1708084669,
       "relatedPermits": []
     },
     {
@@ -10682,8 +10682,8 @@
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707980400,
+          "endDate": 1707980400
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -10748,7 +10748,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1707807600,
+      "lastUpdated": 1708084669,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00007",
@@ -14783,6 +14783,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1697094000,
           "endDate": 1697785200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1698303600,
+          "endDate": null
         },
         {
           "taskDescription": "Permit approved by delegated authority",
@@ -27027,6 +27033,37 @@
         {
           "relatedPermitID": "HAV00022",
           "relatedPermitType": "Heritage Alteration with Variance"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1212 VISTA HTS",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000639",
+      "applicationDate": 1707980400,
+      "addresses": [
+        "1212 VISTA HTS"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application for a new two family dwelling located in DPA 15F.",
+      "progressSections": [],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1707980400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00264",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "REZ00809",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00351",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -68305,7 +68342,7 @@
         "1212 VISTA HTS"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit the construction of a new duplex. Concurrent with DPV No. 00264.",
+      "purpose": "The City is considering a Rezoning application to permit the construction of a new duplex. Concurrent with DP No. 000639.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -68342,6 +68379,18 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1703142000,
           "endDate": 1707807600
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1707980400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -68394,11 +68443,23 @@
         {
           "docName": "2023-12-19 - Transmittal of Changes.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=593A9565-6AC6-406D-B1B4-E1EC53CC554B&folderId=98234C220208110621041694"
+        },
+        {
+          "docName": "2024-02-14 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80CEB3ED-9E20-4AE0-895C-6CA6D2F54615&folderId=98234C220208110621041694"
+        },
+        {
+          "docName": "2024-02-14 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88A81306-8519-43BA-9493-8A953EA26AD6&folderId=98234C220208110621041694"
         }
       ],
       "city": "Victoria",
       "lastUpdated": 1694516125,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DP000639",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
         {
           "relatedPermitID": "DPV00264",
           "relatedPermitType": "Development Permit with Variance"
@@ -71076,16 +71137,16 @@
           "endDate": 1706079600
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1703660400,
+          "endDate": 1706079600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1703746800,
           "endDate": 1706252400
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1703660400,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -74060,17 +74121,17 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1700031600,
+          "endDate": 1707894000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1707980400,
           "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -74124,7 +74185,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1707997751,
+      "lastUpdated": 1708084669,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
