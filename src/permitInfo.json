@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1708084272,
+  "dateRetrieved": 1708170680,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15212,6 +15212,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1701154800,
+          "endDate": 1708066800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1708066800,
           "endDate": null
         }
       ],
@@ -22607,8 +22613,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1701258499,
-      "relatedPermits": []
+      "lastUpdated": 1708171081,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00868",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00267",
+          "relatedPermitType": "Development Permit with Variance"
+        }
+      ]
     },
     {
       "primaryStreetName": "1244 WHARF ST",
@@ -40258,7 +40273,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1706079600,
-          "endDate": null
+          "endDate": 1707807600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -40284,7 +40299,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1706183329,
+      "lastUpdated": 1708171081,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00287",
@@ -40319,6 +40334,59 @@
         },
         {
           "relatedPermitID": "CLC00399",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "515 RITHET ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00267",
+      "applicationDate": 1708066800,
+      "addresses": [
+        "515 RITHET ST",
+        "519 RITHET ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a multiple dwelling with variance. See REZ00868 for project details.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1708066800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00868",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00426",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -74613,6 +74681,86 @@
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00424",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "515 RITHET ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00868",
+      "applicationDate": 1708066800,
+      "addresses": [
+        "515 RITHET ST",
+        "519 RITHET ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to allow for a multiple dwelling. Concurrent with DPV00267",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1708066800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-02-16 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16F93437-D242-41FC-9A7C-5F61903D634F&folderId=03487C240216120905422970"
+        },
+        {
+          "docName": "2024-02-16 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=ADCD3A52-BF28-4AC7-98A8-C77745CA13DE&folderId=03487C240216120905422970"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1708066800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00267",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00426",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
