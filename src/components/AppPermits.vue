@@ -14,14 +14,14 @@ import AppGoogleLink from "./AppGoogleLink.vue";
 
 import type { PermitsEntity, RelatedPermit } from "@/types/Permits";
 
-// @ts-ignore: seems like a TS bug?? https://github.com/microsoft/TypeScript/issues/43784
 import permitInfo from "@/permitInfo.json";
-// @ts-ignore:
 import daysWithInfo from "@/daysContentPermitInfo.json";
 
 import MultiSelect from "primevue/multiselect";
 import Dropdown from "primevue/dropdown";
 import Toast from "primevue/toast";
+
+import { db } from "../db";
 
 const route = useRoute();
 const router = useRouter();
@@ -36,7 +36,13 @@ const filters = ref({
 	city: { value: null, matchMode: FilterMatchMode.IN }
 });
 
-const applicationTypes = ref(getApplicationTypes(permitInfo.permits));
+const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
+
+const applicationTypes = ref(getApplicationTypes(permitsList));
+
+function cloneObj(obj: any) {
+	return JSON.parse(JSON.stringify(obj));
+}
 
 function getApplicationTypes(permitApplications: PermitsEntity[]): string[] {
 	const set = new Set<string>();
@@ -47,11 +53,11 @@ function getApplicationTypes(permitApplications: PermitsEntity[]): string[] {
 	return applicationTypes;
 }
 
-const permitMap = ref(createPermitMap(permitInfo.permits));
+const permitMap = ref(createPermitMap(permitsList));
 
-const relatedPermits = ref(createRelatedPermits(permitInfo.permits));
+const relatedPermits = ref(createRelatedPermits(permitsList));
 
-const statuses = ref(getStatuses(permitInfo.permits));
+const statuses = ref(getStatuses(permitsList));
 
 function getStatuses(permitApplications: PermitsEntity[]): string[] {
 	const set = new Set<string>();
@@ -62,7 +68,7 @@ function getStatuses(permitApplications: PermitsEntity[]): string[] {
 	return statuses;
 }
 
-const cities = ref(getCities(permitInfo.permits));
+const cities = ref(getCities(permitsList));
 
 function getCities(permitApplications: PermitsEntity[]): string[] {
 	const set = new Set<string>();
@@ -127,18 +133,38 @@ function getApplicationByID(city: string, folderNumber: string): PermitsEntity |
 	return permit;
 }
 
+async function saveLastViewedPermit(permitData: PermitsEntity) {
+	return db.transaction("rw", db.lastSeenPermits, async () => {
+		// Add or update the permit data
+		const result = await db.lastSeenPermits
+			.where("folderNumber")
+			.equals(permitData.folderNumber)
+			.modify(function (this: any) {
+				this.value = permitData;
+			})
+			.then(async (numModified) => {
+				if (numModified === 0) {
+					return await db.lastSeenPermits.add(permitData, "folderNumber");
+				}
+			});
+		return result;
+	});
+}
+
 const dateRetrieved = ref(permitInfo.dateRetrieved);
-const permitApplications = ref(createPermitApplications(permitInfo.permits, daysWithInfo));
+const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
 const globalFilter = ref();
 
 // Permit Dialog
 const permit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
-const viewPermit = (permitData: PermitsEntity) => {
+const viewPermit = async (permitData: PermitsEntity) => {
 	permit.value = { ...permitData };
 	permitDialogVisible.value = true;
+	await saveLastViewedPermit(cloneObj(permitData));
 };
+
 function onDialogHide() {
 	router.push({ name: "home" });
 }
