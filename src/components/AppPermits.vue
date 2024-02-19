@@ -2,6 +2,8 @@
 import { ref, watch, nextTick } from "vue";
 import { useRoute, useRouter } from "vue-router";
 
+import pThrottle from "p-throttle";
+
 import { FilterMatchMode } from "primevue/api";
 import Button from "primevue/button";
 import Column from "primevue/column";
@@ -140,7 +142,9 @@ async function saveLastViewedPermit(permitData: PermitsEntity) {
 			.where("folderNumber")
 			.equals(permitData.folderNumber)
 			.modify(function (this: any) {
+				const oldValue = this.value;
 				this.value = permitData;
+				return oldValue;
 			})
 			.then(async (numModified) => {
 				if (numModified === 0) {
@@ -169,6 +173,13 @@ function onDialogHide() {
 	router.push({ name: "home" });
 }
 
+const throttle = pThrottle({
+	limit: 1,
+	interval: 1000
+});
+
+const setViewedPermit = throttle(setViewedPA);
+
 // fetch the user information when params change
 watch(
 	() => route.params.city,
@@ -176,7 +187,7 @@ watch(
 		if (!city) {
 			return;
 		}
-		setViewedPA(city as string, route.params.permitID as string);
+		setViewedPermit(city as string, route.params.permitID as string);
 	},
 	{
 		immediate: true
@@ -188,7 +199,7 @@ watch(
 		if (!permitID) {
 			return;
 		}
-		setViewedPA(route.params.city as string, permitID as string);
+		setViewedPermit(route.params.city as string, permitID as string);
 	}
 );
 
