@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1708429352,
+  "dateRetrieved": 1708515771,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -171,6 +171,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": 1707721200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
           "taskType": "FINAL ADOPTION OF BYLAW",
           "startDate": null,
           "endDate": null
@@ -191,7 +197,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707997751,
+      "lastUpdated": 1708516171,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001008",
@@ -217,14 +223,14 @@
       "purpose": "Variances have been requested to reduce the minimum lot frontage for subdivision from 14.75 metres to 13.05 metres for proposed Lots 1 and 2, and to 14.16 metres for proposed Lot 3 *Please also refer to Rezoning and/or OCP Amendment PL001006",
       "progressSections": [
         {
-          "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Applicable with variance",
           "taskType": "REFERRAL TO APC",
+          "startDate": 1701846000,
+          "endDate": 1707202800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -242,7 +248,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1706356159,
+      "lastUpdated": 1708516171,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001008",
@@ -358,6 +364,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": 1638774000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
           "taskType": "FINAL ADOPTION OF BYLAW",
           "startDate": null,
           "endDate": null
@@ -370,7 +382,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1638774000,
+      "lastUpdated": 1708516171,
       "relatedPermits": []
     },
     {
@@ -920,6 +932,12 @@
       "purpose": "The District has received an application for an amendment to Land Use Bylaw 2072 in order to allow an existing, occupied Carriage House and an existing, occupied secondary suite in the primary dwelling to remain as accessory dwelling units. Under the bylaw, only one or the other is permitted. The owner has been occupying the carriage house under a Temporary Use Permit for the past few years, which has now expired.",
       "progressSections": [
         {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1648450800,
+          "endDate": 1695625200
+        },
+        {
           "taskDescription": "",
           "taskType": "APC MEETING",
           "startDate": 1697612400,
@@ -944,15 +962,9 @@
           "endDate": 1699945200
         },
         {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1648450800,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
+          "taskType": "WITH APPLICANT",
+          "startDate": 1699945200,
           "endDate": null
         },
         {
@@ -964,7 +976,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1700308495,
+      "lastUpdated": 1708516171,
       "relatedPermits": []
     },
     {
@@ -1429,25 +1441,19 @@
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": 1707721200,
-          "endDate": 1707721200
-        },
-        {
-          "taskDescription": "",
           "taskType": "APC MEETING",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "3RD READING OF BYLAW",
+          "taskType": "2ND READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "WITH APPLICANT",
+          "taskType": "3RD READING OF BYLAW",
           "startDate": null,
           "endDate": null
         },
@@ -1465,7 +1471,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707997751,
+      "lastUpdated": 1708516171,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -1493,6 +1499,12 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1707721200,
+          "endDate": 1707721200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
           "startDate": null,
           "endDate": null
         },
@@ -1505,7 +1517,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1683788400,
+      "lastUpdated": 1708516171,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -1649,37 +1661,37 @@
         },
         {
           "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": 1707721200,
+          "endDate": 1707721200
+        },
+        {
+          "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
           "startDate": 1707721200,
-          "endDate": 1707894000
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
           "startDate": 1707721200,
-          "endDate": 1707894000
-        },
-        {
-          "taskDescription": "",
-          "taskType": "COUNCIL FOR INTRO",
-          "startDate": 1707721200,
-          "endDate": null
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
+          "startDate": 1707721200,
+          "endDate": 1707721200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "FINAL ADOPTION OF BYLAW",
           "startDate": null,
           "endDate": null
         }
@@ -1695,7 +1707,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707997751,
+      "lastUpdated": 1708516171,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001438",
@@ -1728,26 +1740,20 @@
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": 1707721200,
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1707721200,
+          "endDate": 1708412400
         },
         {
           "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
+          "startDate": 1708930800,
           "endDate": null
         },
         {
@@ -1759,7 +1765,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1687503600,
+      "lastUpdated": 1708516171,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001438",
@@ -1811,8 +1817,8 @@
         {
           "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705906800,
+          "endDate": 1705906800
         },
         {
           "taskDescription": "",
@@ -1832,7 +1838,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707392951,
+      "lastUpdated": 1708516171,
       "relatedPermits": []
     },
     {
@@ -2055,15 +2061,15 @@
         },
         {
           "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
+          "taskType": "COUNCIL FOR INTRO",
           "startDate": 1707721200,
           "endDate": 1707721200
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL FOR INTRO",
+          "taskType": "1ST READING OF BYLAW(S)",
           "startDate": 1707721200,
-          "endDate": null
+          "endDate": 1707721200
         },
         {
           "taskDescription": "",
@@ -2109,7 +2115,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707997751,
+      "lastUpdated": 1708516171,
       "relatedPermits": []
     },
     {
@@ -4862,7 +4868,7 @@
       "purpose": "Rezoning application to permit 6 storey, 55 unit, multifamily residential rental building.",
       "progressSections": [
         {
-          "taskDescription": "Scheduled for review by Planning and Land Use Committee Feb 5, 2024.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee February 5, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4877,7 +4883,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1706717281,
+      "lastUpdated": 1708516208,
       "relatedPermits": []
     },
     {
@@ -4926,7 +4932,7 @@
       "purpose": "Single family (with suites) residential subdivision, 12 bare land strata lots.",
       "progressSections": [
         {
-          "taskDescription": "Scheduled for review by Planning and Land Use Committee Feb 5, 2024.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee February 5, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4941,7 +4947,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1708429796,
+      "lastUpdated": 1708516208,
       "relatedPermits": []
     },
     {
@@ -72787,12 +72793,6 @@
           "endDate": 1677826800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1677826800,
-          "endDate": 1680073200
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1680073200,
@@ -72809,6 +72809,12 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1694156400,
           "endDate": 1697180400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1677826800,
+          "endDate": 1700722800
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -75294,6 +75300,81 @@
         {
           "relatedPermitID": "CLC00426",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1244 WHARF ST",
+      "applicant": "GREGORY DAMANT",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00869",
+      "applicationDate": 1708412400,
+      "addresses": [
+        "1244 WHARF ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to add two floor levels. Concurrent with Heritage Alteration Permit application #00262.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1708412400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-02-20 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=44DF9CC0-D38C-43FF-B5CC-CFF097B42BB2&folderId=04109C240220114351860008"
+        },
+        {
+          "docName": "Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53EC86CA-6BB1-4AA7-AF6F-02216E5557F0&folderId=04109C240220114351860008"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1708412400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "HAP00262",
+          "relatedPermitType": "HERITAGE ALTERATION PERMIT"
         }
       ]
     },
