@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1708515771,
+  "dateRetrieved": 1708602149,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -483,7 +483,7 @@
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1674716400,
-          "endDate": null
+          "endDate": 1707116400
         },
         {
           "taskDescription": "",
@@ -517,7 +517,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1703246265,
+      "lastUpdated": 1708602549,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -6300,10 +6300,10 @@
       "purpose": "Mixed-use commercial-residential building",
       "progressSections": [
         {
-          "taskDescription": "Presented to the Design Review Committee on December 13, 2023",
+          "taskDescription": "Presented to the Advisory Planning Commission on February 20, 2024",
           "taskType": "",
-          "startDate": 1702450800,
-          "endDate": 1702450800
+          "startDate": 1708412400,
+          "endDate": 1708412400
         }
       ],
       "documents": [
@@ -6315,7 +6315,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1702986558,
+      "lastUpdated": 1708602583,
       "relatedPermits": []
     },
     {
@@ -6843,10 +6843,10 @@
       "purpose": "Mixed-use commercial-residential building",
       "progressSections": [
         {
-          "taskDescription": "Presented to the Design Review Committee on December 13, 2023",
+          "taskDescription": "Presented to the Advisory Planning Commission on February 20, 2024",
           "taskType": "",
-          "startDate": 1702450800,
-          "endDate": 1702450800
+          "startDate": 1708412400,
+          "endDate": 1708412400
         }
       ],
       "documents": [
@@ -6858,7 +6858,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1702986558,
+      "lastUpdated": 1708602583,
       "relatedPermits": []
     },
     {
@@ -10483,22 +10483,16 @@
           "endDate": 1707289200
         },
         {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1708498800,
+          "endDate": 1708498800
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": 1708498800,
+          "endDate": 1708498800
         },
         {
           "taskDescription": "meeting date of council for initial consideration of the application",
@@ -10533,7 +10527,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1707566878,
+      "lastUpdated": 1708602549,
       "relatedPermits": []
     },
     {
@@ -10570,8 +10564,8 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1708498800,
+          "endDate": 1708498800
         },
         {
           "taskDescription": "meeting date of council for initial consideration of the application",
@@ -10611,7 +10605,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1707824941,
+      "lastUpdated": 1708602549,
       "relatedPermits": []
     },
     {
@@ -13312,6 +13306,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1706770800,
+          "endDate": 1708498800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1708498800,
           "endDate": null
         }
       ],
@@ -68378,6 +68378,12 @@
           "endDate": 1677135600
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1677222000,
+          "endDate": 1679641200
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1688022000,
@@ -68388,12 +68394,6 @@
           "taskType": "Council Meeting - Public Comment",
           "startDate": 1695884400,
           "endDate": 1695884400
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1677222000,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -68628,7 +68628,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1703142000,
-          "endDate": null
+          "endDate": 1705906800
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -72370,6 +72370,10 @@
         {
           "docName": "2023-12-14 - Plans - Revisions - deemed Nov 23, 2023.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AB618A93-F8C9-4FEB-B337-2957BC89418C&folderId=81484C221214094741040552"
+        },
+        {
+          "docName": "2024-02-20 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=950C9D03-D9DE-40A0-BDE0-9BB27EC0B7CE&folderId=81484C221214094741040552"
         }
       ],
       "city": "Victoria",
@@ -73448,7 +73452,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1699945200,
-          "endDate": null
+          "endDate": 1702537200
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -74265,7 +74269,7 @@
         "1041 CLARE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for subdivide into two small lots and construct single family dwellings containing secondary suites. Concurrent with DPV00246 to reduce lot width.",
+      "purpose": "The City is considering a Rezoning application to allow for subdivision into two small lots and construction of two new single family dwellings containing secondary suites. Concurrent with DPV00246 to reduce lot width.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75225,7 +75229,7 @@
     },
     {
       "primaryStreetName": "515 RITHET ST",
-      "applicant": "N/A",
+      "applicant": "MARGIE SHENDUK",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00868",
@@ -75241,7 +75245,7 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1708066800,
-          "endDate": null
+          "endDate": 1708498800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
@@ -75291,7 +75295,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1708066800,
+      "lastUpdated": 1708602549,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00267",
@@ -75314,7 +75318,7 @@
         "1244 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to add two floor levels. Concurrent with Heritage Alteration Permit application #00262.",
+      "purpose": "The City is considering a Rezoning application to add two floor levels and increase density. Concurrent with Heritage Alteration Permit application #00262.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75370,7 +75374,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1708412400,
+      "lastUpdated": 1708602549,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00262",
