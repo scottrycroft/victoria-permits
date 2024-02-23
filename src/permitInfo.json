@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1708602149,
+  "dateRetrieved": 1708688590,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12996,6 +12996,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1707462000,
+          "endDate": 1708585200
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1708585200,
           "endDate": null
         }
       ],
@@ -28566,14 +28572,14 @@
           "endDate": 1698649200
         },
         {
-          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
-          "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Preparation of required NOTICE and any agreements necessary for Hearing",
           "taskType": "Notice Preparation",
+          "startDate": 1706857200,
+          "endDate": 1706857200
+        },
+        {
+          "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
+          "taskType": "Council Meeting - Public Comment",
           "startDate": null,
           "endDate": null
         }
@@ -37546,7 +37552,7 @@
     },
     {
       "primaryStreetName": "1451 BAY ST",
-      "applicant": "EDDIE WILLIAMS",
+      "applicant": "N/A",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00202",
@@ -37562,7 +37568,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1651042800,
+      "lastUpdated": 1708688995,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -70195,7 +70201,7 @@
     },
     {
       "primaryStreetName": "1451 BAY ST",
-      "applicant": "EDDIE WILLIAMS",
+      "applicant": "N/A",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00819",
@@ -70269,7 +70275,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1708688995,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00202",
@@ -70937,7 +70943,7 @@
         "780 BLANSHARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning and Heritage Alteration Permit with Variances application to rehabilitate an existing building, to increase the density from 3:1 FSR to 4.6:1 FSR and to increase the height from 43m to 64.2m. to construct a mixed use hotel and residential building. Concurrent with Heritage Alteration Permit with Variance #HAV00034.",
+      "purpose": "The City is considering a Rezoning and Heritage Alteration Permit with Variances application to rehabilitate an existing building, to increase the density from 3:1 FSR to 4.6:1 FSR and to increase the height from 43m to 64.2m. to construct a mixed use hotel and residential building. CONCURRENT WITH HERITAGE ALTERATION PERMIT WITH VARIANCE #HAV00034.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -71028,6 +71034,38 @@
         {
           "docName": "2023-03-24 - Traffic Impact Assessment.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=17418C230427093633150541&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Heritage Impact Assessment.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E5735C40-352E-4E15-8945-9B3C25592805&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Large Project Supplementary Information_Booklet.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EE3CD404-7019-4BC9-A8BF-1D132DBCCDF4&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Large Project Supplementary Information_Booklet_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DB91DD0B-AB9A-4D16-B994-EFDE8E955198&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D04C3D5A-886E-4354-9872-F1FB904468D2&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Parking & TDM Study.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=29242819-7F37-4C0A-A487-12D865632337&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3D6F791A-08AD-4C17-AEF9-8EF36581C5F1&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=789ED2EE-930A-4B98-94BB-BAA733480E46&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-02-22 - Traffic Impact Assessment.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FB7B39E5-F0D9-48F8-B15D-B22AD71D4CE1&folderId=36819C220627125558163342"
         }
       ],
       "city": "Victoria",
@@ -72374,6 +72412,10 @@
         {
           "docName": "2024-02-20 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=950C9D03-D9DE-40A0-BDE0-9BB27EC0B7CE&folderId=81484C221214094741040552"
+        },
+        {
+          "docName": "2024-02-22 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=46D8FB48-871F-4275-83BF-D2BC5318F6C0&folderId=81484C221214094741040552"
         }
       ],
       "city": "Victoria",
@@ -75250,7 +75292,7 @@
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1708585200,
           "endDate": null
         },
         {
@@ -75295,7 +75337,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1708602549,
+      "lastUpdated": 1708688995,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00267",
@@ -75324,7 +75366,7 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1708412400,
-          "endDate": null
+          "endDate": 1708412400
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
@@ -75374,7 +75416,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1708602549,
+      "lastUpdated": 1708688995,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00262",
