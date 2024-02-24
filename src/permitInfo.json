@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1708688590,
+  "dateRetrieved": 1708774962,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11551,6 +11551,12 @@
           "taskType": "REFERRALS",
           "startDate": 1706252400,
           "endDate": null
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1708671600,
+          "endDate": null
         }
       ],
       "documents": [
@@ -13452,6 +13458,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1707462000,
+          "endDate": 1708671600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1708671600,
           "endDate": null
         }
       ],
@@ -16095,7 +16107,7 @@
         "3444 WHITTIER AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 (SINGLE FAMILY) INTO RA (RESIDENTIAL APARTMENT) TO CONSTRUCT 57 UNIT MULTI-FAMILY RENTAL BUILDING. VARIANCE REQUESTED.",
+      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 (SINGLE FAMILY) INTO RA-11 (RESIDENTIAL APARTMENT) TO CONSTRUCT A 57 UNIT MULTI-FAMILY RENTAL BUILDING WITH UNDERGROUND PARKING. VARIANCE REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -16129,7 +16141,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1707566878,
+      "lastUpdated": 1708775358,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -16187,6 +16199,36 @@
         {
           "relatedPermitID": "BLD20414",
           "relatedPermitType": "RESIDENTIAL PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1854 EMERY PL",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01065",
+      "applicationDate": 1708671600,
+      "addresses": [
+        "1854 EMERY PL"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1708671600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00763",
+          "relatedPermitType": "REZONING"
         }
       ]
     },
@@ -17928,6 +17970,36 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01063",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1854 EMERY PL",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00763",
+      "applicationDate": 1708671600,
+      "addresses": [
+        "1854 EMERY PL"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1708671600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01065",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -72875,14 +72947,14 @@
           "endDate": 1705906800
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -74961,6 +75033,12 @@
           "endDate": 1699254000
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1708585200,
+          "endDate": 1708585200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1699254000,
@@ -74975,12 +75053,6 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
@@ -75008,7 +75080,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1705751339,
+      "lastUpdated": 1708775358,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00420",
