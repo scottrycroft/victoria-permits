@@ -88,6 +88,14 @@ const formatDate = (unixDate?: number | null): string => {
 	return new Date(unixDate * 1000).toString().split(" ").slice(0, 4).slice(1).join(" ");
 };
 
+const isUnixDate = (unixDate: any): boolean => {
+	if (!unixDate || typeof unixDate !== "number") {
+		return false;
+	}
+	// Date range roughly 1995-2050
+	return unixDate >= 800000000 && unixDate <= 2500000000;
+};
+
 function createPermitMap(permitApplications: PermitsEntity[]): Map<string, PermitsEntity> {
 	const permitMap = new Map<string, PermitsEntity>();
 
@@ -417,9 +425,14 @@ function versionDiffTitle(
 	permit: PermitsEntityDB,
 	previousPermit: PermitsEntityDB
 ): string | undefined {
-	return permit[property] !== previousPermit[property]
-		? String(previousPermit[property])
-		: undefined;
+	if (permit[property] !== previousPermit[property]) {
+		const prevVal = previousPermit[property];
+		if (typeof prevVal === "number" && isUnixDate(prevVal)) {
+			return formatDate(prevVal);
+		}
+		return String(prevVal);
+	}
+	return undefined;
 }
 </script>
 
@@ -600,7 +613,13 @@ function versionDiffTitle(
 				</div>
 				<div class="col-2 field">
 					<label>Status</label>
-					<div class="font-bold">{{ permit.status }}</div>
+					<div
+						class="font-bold"
+						:class="versionDiffClass('status', permit, previousPermit)"
+						:title="versionDiffTitle('status', permit, previousPermit)"
+					>
+						{{ permit.status }}
+					</div>
 				</div>
 				<div class="col-2 field">
 					<label>Application Type</label>
@@ -618,7 +637,13 @@ function versionDiffTitle(
 				</div>
 				<div class="col-2 field">
 					<label>Application Date</label>
-					<div class="font-bold">{{ formatDate(permit.applicationDate) }}</div>
+					<div
+						class="font-bold"
+						:class="versionDiffClass('applicationDate', permit, previousPermit)"
+						:title="versionDiffTitle('applicationDate', permit, previousPermit)"
+					>
+						{{ formatDate(permit.applicationDate) }}
+					</div>
 				</div>
 			</div>
 			<div class="grid mt-3">
@@ -652,13 +677,25 @@ function versionDiffTitle(
 				</div>
 				<div class="col-2 field">
 					<label>Last Updated</label>
-					<div class="font-bold">{{ formatDate(permit.lastUpdated) }}</div>
+					<div
+						class="font-bold"
+						:class="versionDiffClass('lastUpdated', permit, previousPermit)"
+						:title="versionDiffTitle('lastUpdated', permit, previousPermit)"
+					>
+						{{ formatDate(permit.lastUpdated) }}
+					</div>
 				</div>
 			</div>
 			<div class="grid mt-3">
 				<div class="col-6 field">
 					<label>Purpose</label>
-					<div class="font-bold">{{ permit.purpose }}</div>
+					<div
+						class="font-bold"
+						:class="versionDiffClass('purpose', permit, previousPermit)"
+						:title="versionDiffTitle('purpose', permit, previousPermit)"
+					>
+						{{ permit.purpose }}
+					</div>
 				</div>
 				<div class="col-4 field">
 					<label>Documents</label>
