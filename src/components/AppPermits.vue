@@ -420,6 +420,25 @@ function versionDiffClass(
 	return [permit[property] !== previousPermit[property] ? "permitDataChanged" : null];
 }
 
+function versionDiffDocumentClass(
+	index: number,
+	permit: PermitsEntityDB,
+	previousPermit: PermitsEntityDB
+): Array<String | null> {
+	if (index >= previousPermit.documents.length) {
+		return ["permitDataNew"];
+	}
+	const permitDoc = permit.documents[index];
+	const previousPermitDoc = previousPermit.documents[index];
+	if (
+		permitDoc.docName !== previousPermitDoc.docName ||
+		permitDoc.docURL !== previousPermitDoc.docURL
+	) {
+		return ["permitDataChanged"];
+	}
+	return [];
+}
+
 function versionDiffTitle(
 	property: keyof PermitsEntityDB,
 	permit: PermitsEntityDB,
@@ -700,8 +719,14 @@ function versionDiffTitle(
 				<div class="col-4 field">
 					<label>Documents</label>
 					<div class="font-bold">
-						<div v-for="document in permit.documents" :key="document.docName">
-							<a :href="document.docURL" target="_blank">{{ document.docName }}</a>
+						<div v-for="(document, index) in permit.documents" :key="document.docName">
+							<a
+								:href="document.docURL"
+								target="_blank"
+								class="documentLink"
+								:class="versionDiffDocumentClass(index, permit, previousPermit)"
+								>{{ document.docName }}</a
+							>
 						</div>
 						<div v-if="permit.documents.length === 0">No Documents Submitted</div>
 					</div>

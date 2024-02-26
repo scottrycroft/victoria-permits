@@ -1,9 +1,24 @@
 :root {
 	--colour-data-changed: #d5e8b2;
+	--colour-data-new: hsl(84deg 55.56% 61.59%);
+}
+
+.permitDataChanged,
+.permitDataNew {
+	display: table;
 }
 
 .permitDataChanged {
-	display: table;
 	background-color: var(--colour-data-changed);
 	outline: 4px solid var(--colour-data-changed);
+}
+
+.permitDataNew {
+	background-color: var(--colour-data-new);
+	outline: 4px solid var(--colour-data-new);
+}
+
+.documentLink.permitDataChanged,
+.documentLink.permitDataNew {
+	outline: none;
 }
