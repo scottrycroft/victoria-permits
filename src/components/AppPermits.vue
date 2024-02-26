@@ -524,10 +524,37 @@ function progressRowClass(progress: ProgressSectionsEntity): String {
 	return "";
 }
 
+function relatedPermitRowClass(relatedPermit: RelatedPermit): String {
+	if (!permit.value || !previousPermit.value || !previousPermit.value.relatedPermits) {
+		return "";
+	}
+	const rowIndex = getRelatedPermitRowIndex(relatedPermit, permit.value);
+	if (rowIndex < 0) {
+		return "";
+	}
+	if (rowIndex >= previousPermit.value.relatedPermits.length) {
+		return "permitDataNewRow";
+	}
+	return "";
+}
+
 function getProgressRowIndex(progress: ProgressSectionsEntity, permit: PermitsEntity): number {
 	const progressJSON = JSON.stringify(progress);
 	for (const [index, progressItem] of permit.progressSections.entries()) {
 		if (progressJSON === JSON.stringify(progressItem)) {
+			return index;
+		}
+	}
+	return -1;
+}
+
+function getRelatedPermitRowIndex(relatedPermit: RelatedPermit, permit: PermitsEntity): number {
+	if (!permit.relatedPermits) {
+		return -1;
+	}
+	const relatedPermitJSON = JSON.stringify(relatedPermit);
+	for (const [index, relatedPermitITem] of permit.relatedPermits.entries()) {
+		if (relatedPermitJSON === JSON.stringify(relatedPermitITem)) {
 			return index;
 		}
 	}
@@ -861,10 +888,10 @@ function getProgressRowIndex(progress: ProgressSectionsEntity, permit: PermitsEn
 						</DataTable>
 					</div>
 				</div>
-				<div v-if="permit.relatedPermits?.length" class="col-12 field">
+				<div v-if="permit.relatedPermits && permit.relatedPermits.length" class="col-12 field">
 					<label>Related Permits</label>
 					<div>
-						<DataTable stripedRows :value="permit.relatedPermits || []">
+						<DataTable stripedRows :value="permit.relatedPermits" :rowClass="relatedPermitRowClass">
 							<Column field="relatedPermitID" header="ID">
 								<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
 									<router-link
