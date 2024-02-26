@@ -160,6 +160,7 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 		}
 		const currentPermit = result[0];
 		//  1a) 'current db' Exists True: Check if matches one being saved
+		// We could do a hash instead of update time, but this should be good enough for now
 		if(permitData.lastUpdated === currentPermit.lastUpdated) {
 			//  1 a i) Matches = true: do nothing
 			return;
@@ -183,18 +184,6 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 		return await db.lastSeenPermits.add(newCurrent);
 	});
 }
-/*
-			.modify(function (this: any) {
-				const oldValue = this.value;
-				this.value = permitData;
-				return oldValue;
-			})
-			.then(async (numModified) => {
-				if (numModified === 0) {
-					return await db.lastSeenPermits.add(permitData, "folderNumber");
-				}
-			});
-			*/
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
@@ -220,6 +209,7 @@ async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEnti
 				folderNumber: permitData.folderNumber,
 			}).toArray();
 	if(result.length === 0) {
+		// Always have a previous version, even if it's the exact same
 		return permitData;
 	}
 	return result[0];
