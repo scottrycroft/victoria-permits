@@ -730,7 +730,11 @@ function getRelatedPermitRowIndex(relatedPermit: RelatedPermit, permit: PermitsE
 				<div class="col-2 field">
 					<label>Primary Address</label>
 					<div>
-						<AppGoogleLink :address="permit.primaryStreetName" />
+						<AppGoogleLink
+							:address="permit.primaryStreetName"
+							:class="versionDiffClass('primaryStreetName', permit, previousPermit)"
+							:title="versionDiffTitle('primaryStreetName', permit, previousPermit)"
+						/>
 					</div>
 				</div>
 				<div class="col-2 field">
