@@ -560,6 +560,23 @@ function getRelatedPermitRowIndex(relatedPermit: RelatedPermit, permit: PermitsE
 	}
 	return -1;
 }
+
+async function saveAllCurrent() {
+	let count = 0;
+	for (const permitApp of permitApplications.value) {
+		// Last updated after Sep 01 2022
+		if (permitApp.lastUpdated && permitApp.lastUpdated > 1662037847) {
+			count++;
+			await saveLastViewedPermit(permitApp);
+		}
+	}
+	console.log(
+		"Saved " +
+			count.toString() +
+			" applications out of " +
+			permitApplications.value.length.toString()
+	);
+}
 </script>
 
 <template>
@@ -594,7 +611,7 @@ function getRelatedPermitRowIndex(relatedPermit: RelatedPermit, permit: PermitsE
 			<template #header>
 				<div class="flex justify-content-between">
 					<h2 class="mt-0">Permit Applications</h2>
-					<div>Data retrieved on {{ formatDate(dateRetrieved) }}</div>
+					<div @dblclick="saveAllCurrent">Data retrieved on {{ formatDate(dateRetrieved) }}</div>
 					<span class="p-input-icon-left">
 						<i class="pi pi-search" />
 						<InputText
