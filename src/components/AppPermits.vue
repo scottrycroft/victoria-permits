@@ -473,6 +473,31 @@ function versionDiffProgressClass(
 	return [permitProgressVal !== previousPermitProgressVal ? "permitDataChanged" : null];
 }
 
+function versionDiffProgressTitle(
+	index: number,
+	property: keyof ProgressSectionsEntity,
+	permit: PermitsEntityDB,
+	previousPermit: PermitsEntityDB
+): string | undefined {
+	if (index >= previousPermit.progressSections.length) {
+		// The whole progress row will be styled differently if it's new
+		return undefined;
+	}
+	const val = permit.progressSections[index][property];
+	const prevVal = previousPermit.progressSections[index][property];
+	if (val !== prevVal) {
+		return diffTitleString(prevVal);
+	}
+	return undefined;
+}
+
+function diffTitleString(val: any): string {
+	if (typeof val === "number" && isUnixDate(val)) {
+		return formatDate(val);
+	}
+	return String(val);
+}
+
 function versionDiffTitle(
 	property: keyof PermitsEntityDB,
 	permit: PermitsEntityDB,
@@ -480,10 +505,7 @@ function versionDiffTitle(
 ): string | undefined {
 	if (permit[property] !== previousPermit[property]) {
 		const prevVal = previousPermit[property];
-		if (typeof prevVal === "number" && isUnixDate(prevVal)) {
-			return formatDate(prevVal);
-		}
-		return String(prevVal);
+		return diffTitleString(prevVal);
 	}
 	return undefined;
 }
@@ -800,7 +822,8 @@ function getProgressRowIndex(progress: ProgressSectionsEntity, permit: PermitsEn
 								<template #body="{ data, index }">
 									<span
 										:class="versionDiffProgressClass(index, 'taskType', permit, previousPermit)"
-										>{{ formatDate(data.startDate) }}</span
+										:title="versionDiffProgressTitle(index, 'taskType', permit, previousPermit)"
+										>{{ data.taskType }}</span
 									>
 								</template>
 							</Column>
@@ -810,7 +833,10 @@ function getProgressRowIndex(progress: ProgressSectionsEntity, permit: PermitsEn
 										:class="
 											versionDiffProgressClass(index, 'taskDescription', permit, previousPermit)
 										"
-										>{{ formatDate(data.startDate) }}</span
+										:title="
+											versionDiffProgressTitle(index, 'taskDescription', permit, previousPermit)
+										"
+										>{{ data.taskDescription }}</span
 									>
 								</template>
 							</Column>
@@ -818,6 +844,7 @@ function getProgressRowIndex(progress: ProgressSectionsEntity, permit: PermitsEn
 								<template #body="{ data, index }">
 									<span
 										:class="versionDiffProgressClass(index, 'startDate', permit, previousPermit)"
+										:title="versionDiffProgressTitle(index, 'startDate', permit, previousPermit)"
 										>{{ formatDate(data.startDate) }}</span
 									>
 								</template>
@@ -826,6 +853,7 @@ function getProgressRowIndex(progress: ProgressSectionsEntity, permit: PermitsEn
 								<template #body="{ data, index }">
 									<span
 										:class="versionDiffProgressClass(index, 'endDate', permit, previousPermit)"
+										:title="versionDiffProgressTitle(index, 'endDate', permit, previousPermit)"
 										>{{ formatDate(data.endDate) }}</span
 									>
 								</template>
