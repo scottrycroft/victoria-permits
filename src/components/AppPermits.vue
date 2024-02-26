@@ -150,9 +150,10 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 			.where({
 				dbVersion: "current",
 				city: permitData.city,
-				folderNumber: permitData.folderNumber,
-			}).toArray();
-		if(result.length === 0) {
+				folderNumber: permitData.folderNumber
+			})
+			.toArray();
+		if (result.length === 0) {
 			// 1b) 'current db' does not exist: save to db
 			const toSave = cloneObj(permitData);
 			toSave.dbVersion = "current";
@@ -161,7 +162,7 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 		const currentPermit = result[0];
 		//  1a) 'current db' Exists True: Check if matches one being saved
 		// We could do a hash instead of update time, but this should be good enough for now
-		if(permitData.lastUpdated === currentPermit.lastUpdated) {
+		if (permitData.lastUpdated === currentPermit.lastUpdated) {
 			//  1 a i) Matches = true: do nothing
 			return;
 		}
@@ -170,14 +171,15 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 		await db.lastSeenPermits
 			.where({
 				city: permitData.city,
-				folderNumber: permitData.folderNumber,
-			}).delete();
+				folderNumber: permitData.folderNumber
+			})
+			.delete();
 
 		// Save new previous
 		const newPrevious = cloneObj(currentPermit);
 		newPrevious.dbVersion = "previous";
 		await db.lastSeenPermits.add(newPrevious);
-		
+
 		// Save new current
 		const newCurrent = cloneObj(permitData);
 		newCurrent.dbVersion = "current";
@@ -203,12 +205,13 @@ const viewPermit = async (permitData: PermitsEntity) => {
 
 async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEntity> {
 	const result = await db.lastSeenPermits
-			.where({
-				dbVersion: "previous",
-				city: permitData.city,
-				folderNumber: permitData.folderNumber,
-			}).toArray();
-	if(result.length === 0) {
+		.where({
+			dbVersion: "previous",
+			city: permitData.city,
+			folderNumber: permitData.folderNumber
+		})
+		.toArray();
+	if (result.length === 0) {
 		// Always have a previous version, even if it's the exact same
 		return permitData;
 	}
@@ -399,6 +402,24 @@ function getColwoodLinkByID(permitID: string) {
 
 function showNoPAToast() {
 	toast.add({ severity: "error", summary: "No such permit application" });
+}
+
+function versionDiffClass(
+	property: keyof PermitsEntityDB,
+	permit: PermitsEntityDB,
+	previousPermit: PermitsEntityDB
+): Array<String | null> {
+	return [permit[property] !== previousPermit[property] ? "permitDataChanged" : null];
+}
+
+function versionDiffTitle(
+	property: keyof PermitsEntityDB,
+	permit: PermitsEntityDB,
+	previousPermit: PermitsEntityDB
+): string | undefined {
+	return permit[property] !== previousPermit[property]
+		? String(previousPermit[property])
+		: undefined;
 }
 </script>
 
@@ -611,12 +632,19 @@ function showNoPAToast() {
 				</div>
 				<div class="col-2 field">
 					<label>Applicant</label>
-					<div class="font-bold">{{ permit.applicant }}</div>
-					<div class="font-bold">{{ previousPermit.applicant }}</div>
+					<div
+						class="font-bold"
+						:class="versionDiffClass('applicant', permit, previousPermit)"
+						:title="versionDiffTitle('applicant', permit, previousPermit)"
+					>
+						{{ permit.applicant }}
+					</div>
 				</div>
 				<div class="col-2 field">
 					<label>With Municipality Days</label>
-					<div class="font-bold">{{ permit.withDistrictDays }}</div>
+					<div class="font-bold">
+						{{ permit.withDistrictDays }}
+					</div>
 				</div>
 				<div class="col-2 field">
 					<label>With Applicant Days</label>

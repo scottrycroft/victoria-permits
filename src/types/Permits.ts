@@ -18,7 +18,7 @@ export interface PermitsEntity {
 }
 
 export interface PermitsEntityDB extends PermitsEntity {
-    dbVersion?: 'previous' | 'current';
+	dbVersion?: "previous" | "current";
 }
 
 export interface RelatedPermit {

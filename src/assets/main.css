@@ -1,0 +1,9 @@
+:root {
+	--colour-data-changed: #d5e8b2;
+}
+
+.permitDataChanged {
+	display: table;
+	background-color: var(--colour-data-changed);
+	outline: 4px solid var(--colour-data-changed);
+}
