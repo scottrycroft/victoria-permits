@@ -22,3 +22,7 @@ a.permitDataChanged,
 a.permitDataNew {
 	outline: none;
 }
+
+tr.permitDataNewRow td {
+	background-color: var(--colour-data-new);
+}

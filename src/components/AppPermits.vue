@@ -14,7 +14,12 @@ import { useToast } from "primevue/usetoast";
 
 import AppGoogleLink from "./AppGoogleLink.vue";
 
-import type { PermitsEntity, PermitsEntityDB, RelatedPermit } from "@/types/Permits";
+import type {
+	PermitsEntity,
+	PermitsEntityDB,
+	RelatedPermit,
+	ProgressSectionsEntity
+} from "@/types/Permits";
 
 import permitInfo from "@/permitInfo.json";
 import daysWithInfo from "@/daysContentPermitInfo.json";
@@ -453,6 +458,21 @@ function versionDiffAddressClass(
 	return [];
 }
 
+function versionDiffProgressClass(
+	index: number,
+	property: keyof ProgressSectionsEntity,
+	permit: PermitsEntityDB,
+	previousPermit: PermitsEntityDB
+): Array<String | null> {
+	if (index >= previousPermit.progressSections.length) {
+		// The whole progress row will be styled differently if it's new
+		return [];
+	}
+	const permitProgressVal = permit.progressSections[index][property];
+	const previousPermitProgressVal = previousPermit.progressSections[index][property];
+	return [permitProgressVal !== previousPermitProgressVal ? "permitDataChanged" : null];
+}
+
 function versionDiffTitle(
 	property: keyof PermitsEntityDB,
 	permit: PermitsEntityDB,
@@ -466,6 +486,30 @@ function versionDiffTitle(
 		return String(prevVal);
 	}
 	return undefined;
+}
+
+function progressRowClass(progress: ProgressSectionsEntity): String {
+	if (!permit.value || !previousPermit.value) {
+		return "";
+	}
+	const rowIndex = getProgressRowIndex(progress, permit.value);
+	if (rowIndex < 0) {
+		return "";
+	}
+	if (rowIndex >= previousPermit.value.progressSections.length) {
+		return "permitDataNewRow";
+	}
+	return "";
+}
+
+function getProgressRowIndex(progress: ProgressSectionsEntity, permit: PermitsEntity): number {
+	const progressJSON = JSON.stringify(progress);
+	for (const [index, progressItem] of permit.progressSections.entries()) {
+		if (progressJSON === JSON.stringify(progressItem)) {
+			return index;
+		}
+	}
+	return -1;
 }
 </script>
 
@@ -751,17 +795,39 @@ function versionDiffTitle(
 				<div class="col-12 field">
 					<label>Task Progress</label>
 					<div>
-						<DataTable stripedRows :value="permit.progressSections">
-							<Column field="taskType" header="Type"></Column>
-							<Column field="taskDescription" header="Description"></Column>
+						<DataTable stripedRows :value="permit.progressSections" :rowClass="progressRowClass">
+							<Column field="taskType" header="Type">
+								<template #body="{ data, index }">
+									<span
+										:class="versionDiffProgressClass(index, 'taskType', permit, previousPermit)"
+										>{{ formatDate(data.startDate) }}</span
+									>
+								</template>
+							</Column>
+							<Column field="taskDescription" header="Description">
+								<template #body="{ data, index }">
+									<span
+										:class="
+											versionDiffProgressClass(index, 'taskDescription', permit, previousPermit)
+										"
+										>{{ formatDate(data.startDate) }}</span
+									>
+								</template>
+							</Column>
 							<Column field="startDate" header="Start Date">
-								<template #body="{ data }">
-									{{ formatDate(data.startDate) }}
+								<template #body="{ data, index }">
+									<span
+										:class="versionDiffProgressClass(index, 'startDate', permit, previousPermit)"
+										>{{ formatDate(data.startDate) }}</span
+									>
 								</template>
 							</Column>
 							<Column field="endDate" header="End Date">
-								<template #body="{ data }">
-									{{ formatDate(data.endDate) }}
+								<template #body="{ data, index }">
+									<span
+										:class="versionDiffProgressClass(index, 'endDate', permit, previousPermit)"
+										>{{ formatDate(data.endDate) }}</span
+									>
 								</template>
 							</Column>
 						</DataTable>
