@@ -439,6 +439,20 @@ function versionDiffDocumentClass(
 	return [];
 }
 
+function versionDiffAddressClass(
+	index: number,
+	permit: PermitsEntityDB,
+	previousPermit: PermitsEntityDB
+): Array<String | null> {
+	if (index >= previousPermit.addresses.length) {
+		return ["permitDataNew"];
+	}
+	if (permit.addresses[index] !== previousPermit.addresses[index]) {
+		return ["permitDataChanged"];
+	}
+	return [];
+}
+
 function versionDiffTitle(
 	property: keyof PermitsEntityDB,
 	permit: PermitsEntityDB,
@@ -669,8 +683,11 @@ function versionDiffTitle(
 				<div class="col-2 field">
 					<label>Addresses</label>
 					<div class="font-bold">
-						<div v-for="address in permit.addresses" :key="address">
-							<AppGoogleLink :address="address" />
+						<div v-for="(address, index) in permit.addresses" :key="address">
+							<AppGoogleLink
+								:address="address"
+								:class="versionDiffAddressClass(index, permit, previousPermit)"
+							/>
 						</div>
 					</div>
 				</div>

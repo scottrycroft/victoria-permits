@@ -18,7 +18,7 @@
 	outline: 4px solid var(--colour-data-new);
 }
 
-.documentLink.permitDataChanged,
-.documentLink.permitDataNew {
+a.permitDataChanged,
+a.permitDataNew {
 	outline: none;
 }
