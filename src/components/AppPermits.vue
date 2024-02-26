@@ -14,7 +14,7 @@ import { useToast } from "primevue/usetoast";
 
 import AppGoogleLink from "./AppGoogleLink.vue";
 
-import type { PermitsEntity, RelatedPermit } from "@/types/Permits";
+import type { PermitsEntity, PermitsEntityDB, RelatedPermit } from "@/types/Permits";
 
 import permitInfo from "@/permitInfo.json";
 import daysWithInfo from "@/daysContentPermitInfo.json";
@@ -42,7 +42,7 @@ const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
 
 const applicationTypes = ref(getApplicationTypes(permitsList));
 
-function cloneObj(obj: any) {
+function cloneObj<T>(obj: T): T {
 	return JSON.parse(JSON.stringify(obj));
 }
 
@@ -135,12 +135,55 @@ function getApplicationByID(city: string, folderNumber: string): PermitsEntity |
 	return permit;
 }
 
-async function saveLastViewedPermit(permitData: PermitsEntity) {
+async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 	return db.transaction("rw", db.lastSeenPermits, async () => {
 		// Add or update the permit data
+
+		//  1. Check if 'current db' permit exists
+		//  1a) 'current db' Exists True: Check if matches one being saved
+		//  1 a i) Matches = true: do nothing
+		//  1 b ii) Matches = false. Save previous 'current' to 'previous'. Save given to 'current'.
+		//  1b) 'current db' does not exist: save to db
+		// Retrieve 'previous' version and use for permit view comparison
+
 		const result = await db.lastSeenPermits
-			.where("folderNumber")
-			.equals(permitData.folderNumber)
+			.where({
+				dbVersion: "current",
+				city: permitData.city,
+				folderNumber: permitData.folderNumber,
+			}).toArray();
+		if(result.length === 0) {
+			// 1b) 'current db' does not exist: save to db
+			const toSave = cloneObj(permitData);
+			toSave.dbVersion = "current";
+			return await db.lastSeenPermits.add(toSave);
+		}
+		const currentPermit = result[0];
+		//  1a) 'current db' Exists True: Check if matches one being saved
+		if(permitData.lastUpdated === currentPermit.lastUpdated) {
+			//  1 a i) Matches = true: do nothing
+			return;
+		}
+		//  1 b ii) Matches = false. Save previous 'current' to 'previous'. Save given to 'current'.
+		// Delete DB versions of both previous and current
+		await db.lastSeenPermits
+			.where({
+				city: permitData.city,
+				folderNumber: permitData.folderNumber,
+			}).delete();
+
+		// Save new previous
+		const newPrevious = cloneObj(currentPermit);
+		newPrevious.dbVersion = "previous";
+		await db.lastSeenPermits.add(newPrevious);
+		
+		// Save new current
+		const newCurrent = cloneObj(permitData);
+		newCurrent.dbVersion = "current";
+		return await db.lastSeenPermits.add(newCurrent);
+	});
+}
+/*
 			.modify(function (this: any) {
 				const oldValue = this.value;
 				this.value = permitData;
@@ -151,9 +194,7 @@ async function saveLastViewedPermit(permitData: PermitsEntity) {
 					return await db.lastSeenPermits.add(permitData, "folderNumber");
 				}
 			});
-		return result;
-	});
-}
+			*/
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
@@ -162,12 +203,27 @@ const globalFilter = ref();
 
 // Permit Dialog
 const permit = ref<PermitsEntity | null>(null);
+const previousPermit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
 const viewPermit = async (permitData: PermitsEntity) => {
 	permit.value = { ...permitData };
 	permitDialogVisible.value = true;
 	await saveLastViewedPermit(cloneObj(permitData));
+	previousPermit.value = await getPreviousPermit(permitData);
 };
+
+async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEntity> {
+	const result = await db.lastSeenPermits
+			.where({
+				dbVersion: "previous",
+				city: permitData.city,
+				folderNumber: permitData.folderNumber,
+			}).toArray();
+	if(result.length === 0) {
+		return permitData;
+	}
+	return result[0];
+}
 
 function onDialogHide() {
 	router.push({ name: "home" });
@@ -511,7 +567,7 @@ function showNoPAToast() {
 		</DataTable>
 
 		<Dialog
-			v-if="permit"
+			v-if="permit && previousPermit"
 			@after-hide="onDialogHide"
 			v-model:visible="permitDialogVisible"
 			:dismissableMask="true"
@@ -566,6 +622,7 @@ function showNoPAToast() {
 				<div class="col-2 field">
 					<label>Applicant</label>
 					<div class="font-bold">{{ permit.applicant }}</div>
+					<div class="font-bold">{{ previousPermit.applicant }}</div>
 				</div>
 				<div class="col-2 field">
 					<label>With Municipality Days</label>

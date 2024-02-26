@@ -17,6 +17,10 @@ export interface PermitsEntity {
 	relatedPermits?: RelatedPermit[];
 }
 
+export interface PermitsEntityDB extends PermitsEntity {
+    dbVersion?: 'previous' | 'current';
+}
+
 export interface RelatedPermit {
 	relatedPermitID: string;
 	relatedPermitType: string;
