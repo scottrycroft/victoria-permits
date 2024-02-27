@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1708947759,
+  "dateRetrieved": 1709034194,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2543,12 +2543,12 @@
       ],
       "documents": [
         {
-          "docName": "UPDATED Jan 25 2024 plans",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=DA92F26F-234B-4B2B-91E6-73D06AC22CB1&folderId=17311C231205135310990364"
+          "docName": "24Jan23 - 480 West View Dock - DPA Rev 5.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=21458C240226155433412627&folderId=17311C231205135310990364"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1707220151,
+      "lastUpdated": 1709034599,
       "relatedPermits": []
     },
     {
@@ -6923,6 +6923,38 @@
       "withApplicantDays": null,
       "city": "Esquimalt",
       "lastUpdated": 1699703238,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "500 Park Place",
+      "applicant": "Core Project Management",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00144",
+      "applicationDate": 1709034630,
+      "addresses": [
+        "500 Park Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Variance for front setback, building height and parking requirements",
+      "progressSections": [
+        {
+          "taskDescription": "Presented to the Advisory Planning Commission on February 20, 2024",
+          "taskType": "",
+          "startDate": 1708412400,
+          "endDate": 1708412400
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00144.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1709034630,
       "relatedPermits": []
     },
     {
@@ -13324,6 +13356,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1708498800,
+          "endDate": 1708930800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1708930800,
           "endDate": null
         }
       ],
@@ -13464,6 +13502,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1708671600,
+          "endDate": 1708930800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1708930800,
           "endDate": null
         }
       ],
@@ -38595,8 +38639,8 @@
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
           "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1708585200,
+          "endDate": 1708671600
         }
       ],
       "documents": [
@@ -38638,7 +38682,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1706874566,
+      "lastUpdated": 1709034599,
       "relatedPermits": []
     },
     {
@@ -39562,7 +39606,7 @@
         "880 PANDORA AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct a multi-storey mixed-use building. Concurrent with Rezoning Application No.00849.",
+      "purpose": "See Rezoning Application #REZ00849 for project information. The City is considering a Development Permit with Variance application to construct a multi-storey mixed-use building.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -60067,7 +60111,7 @@
         "2582 VANCOUVER ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct eight new townhouses in three separate buildings. Concurrent with Development Permit with Variance application DPV#00143.",
+      "purpose": "The City is considering a Rezoning application to construct eight new townhouses in three separate buildings. Concurrent with Development Permit with Variance application DPV No. 00143.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -60128,12 +60172,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1654585200,
           "endDate": 1668409200
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1584082800,
-          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -60215,7 +60253,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1709034599,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00143",
@@ -68142,6 +68180,12 @@
           "taskType": "Council Meeting - Public Comment",
           "startDate": 1702537200,
           "endDate": 1702537200
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -68856,6 +68900,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1708930800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -68884,6 +68934,18 @@
         {
           "docName": "2023-09-14 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A02F8AD0-D161-4848-A535-522E1C041F55&folderId=93946C220126091053188844"
+        },
+        {
+          "docName": "2024-02-26 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=611BFADF-955D-4E64-8271-EF51FFD5F08C&folderId=93946C220126091053188844"
+        },
+        {
+          "docName": "2024-02-26 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EB854247-24DB-4FFF-93DF-8CBE94638D3D&folderId=93946C220126091053188844"
+        },
+        {
+          "docName": "2024-02-26 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=02545F52-53DC-4EE1-A59C-F46482426286&folderId=93946C220126091053188844"
         }
       ],
       "city": "Victoria",
@@ -69135,6 +69197,10 @@
         {
           "docName": "2024-02-14 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88A81306-8519-43BA-9493-8A953EA26AD6&folderId=98234C220208110621041694"
+        },
+        {
+          "docName": "2024.-02-26 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D9B9B13A-D5FE-4D7B-8B0C-584B9886F130&folderId=98234C220208110621041694"
         }
       ],
       "city": "Victoria",
@@ -70840,7 +70906,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1704870000,
-          "endDate": 1706598000
+          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -71015,7 +71081,7 @@
         "780 BLANSHARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning and Heritage Alteration Permit with Variances application to rehabilitate an existing building, to increase the density from 3:1 FSR to 4.6:1 FSR and to increase the height from 43m to 64.2m. to construct a mixed use hotel and residential building. CONCURRENT WITH HERITAGE ALTERATION PERMIT WITH VARIANCE #HAV00034.",
+      "purpose": "The City is considering a Rezoning and Heritage Alteration Permit with Variances application to rehabilitate an existing building, to increase the density from 3:1 FSR to 4.6:1 FSR and to increase the height from 43m to 64.2m. to construct a mixed use hotel and residential building. Concurrent with Heritage Alteration Permit with Variance application No. 00034.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -71045,6 +71111,18 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1656399600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1708930800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -71519,8 +71597,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1706770800,
+          "endDate": 1706770800
         },
         {
           "taskDescription": "Meeting date for Council to consider approving the application.",
@@ -72392,6 +72470,12 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1702623600,
           "endDate": 1704438000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1708930800,
+          "endDate": null
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -75432,7 +75516,7 @@
         "1244 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to add two floor levels and increase density. Concurrent with Heritage Alteration Permit application #00262.",
+      "purpose": "The City is considering a Rezoning application to add two floor levels and increase density. Concurrent with Heritage Alteration Permit Application No. 00262.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75443,7 +75527,7 @@
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1708930800,
           "endDate": null
         },
         {
@@ -75488,7 +75572,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1708688995,
+      "lastUpdated": 1709034599,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00262",
