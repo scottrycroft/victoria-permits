@@ -562,6 +562,9 @@ function getRelatedPermitRowIndex(relatedPermit: RelatedPermit, permit: PermitsE
 }
 
 async function saveAllCurrent() {
+	if(!window.confirm("Save all current?")) {
+		return;
+	}
 	let count = 0;
 	for (const permitApp of permitApplications.value) {
 		// Last updated after Sep 01 2022
