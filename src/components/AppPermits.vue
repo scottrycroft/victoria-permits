@@ -306,10 +306,10 @@ function getDaysWith(
 }
 
 const getPermitApplicationLink = (pa: PermitsEntity): string => {
-	return getPermitApplicationLinkByID(pa.city, pa.folderNumber);
+	return getPermitApplicationLinkByID(pa.city, pa.folderNumber, pa);
 };
 
-const getPermitApplicationLinkByID = (city: string, permitID: string): string => {
+const getPermitApplicationLinkByID = (city: string, permitID: string, pa?: PermitsEntity): string => {
 	if (city === "Saanich") {
 		return (
 			"https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=" + permitID
@@ -334,6 +334,8 @@ const getPermitApplicationLinkByID = (city: string, permitID: string): string =>
 		return getEsquimaltLinkByID(permitID);
 	} else if (city === "View Royal") {
 		return getViewRoyalLinkByID(permitID);
+	} else if (city === "Sidney" && pa) {
+		return getSidneyPermitLink(pa);
 	}
 	return "";
 };
@@ -410,6 +412,14 @@ function getColwoodLinkByID(permitID: string) {
 	let baseUrl = "https://www.colwood.ca/city-services/development-services/development-activity";
 
 	const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(permitID).replace(/-/g, "%2D");
+	return fullUrl;
+}
+
+function getSidneyPermitLink(pa: PermitsEntity) {
+	// Sidney doesn't have permit IDs, and only one page for permits
+	let baseUrl = "https://www.sidney.ca/planning-building/community-planning/development/";
+
+	const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(pa.primaryStreetName).replace(/-/g, "%2D");
 	return fullUrl;
 }
 
@@ -930,7 +940,7 @@ async function saveAllCurrent() {
 									<a
 										v-else-if="permitExistByID(permit.city, relatedPermitID) === 'related'"
 										target="_blank"
-										:href="getPermitApplicationLinkByID(permit.city, relatedPermitID)"
+										:href="getPermitApplicationLinkByID(permit.city, relatedPermitID, permit)"
 									>
 										{{ relatedPermitID }}
 									</a>
