@@ -2,7 +2,7 @@
 import { ref, watch, nextTick } from "vue";
 import { useRoute, useRouter } from "vue-router";
 
-import pThrottle from "p-throttle";
+import pDebounce from 'p-debounce';
 
 import { FilterMatchMode } from "primevue/api";
 import Button from "primevue/button";
@@ -235,12 +235,7 @@ function onDialogHide() {
 	router.push({ name: "home" });
 }
 
-const throttle = pThrottle({
-	limit: 1,
-	interval: 1000
-});
-
-const setViewedPermit = throttle(setViewedPA);
+const setViewedPermit = pDebounce(setViewedPA, 1000, { before: true });
 
 // fetch the user information when params change
 watch(
