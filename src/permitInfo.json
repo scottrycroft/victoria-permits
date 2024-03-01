@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1709206945,
+  "dateRetrieved": 1709293340,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4683,6 +4683,32 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1697036014,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Beachlands Lot I ",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000005",
+      "applicationDate": 1709103600,
+      "addresses": [
+        "Beachlands Lot I ",
+        "J"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable two apartment buildings and 16 townhouses.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP000005_2024-02-28.pdf",
+          "docName": "DP000005_2024-02-28"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1709293783,
       "relatedPermits": []
     },
     {
@@ -14464,25 +14490,35 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1689231600,
+          "endDate": 1709190000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1709190000,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "ELEVATION_FEB 28 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E1384001-6D10-48B7-A0CE-4BB04EBF3131&folderId=76884C230228155742073499"
+          "docName": "REVISED ELEVATION PLANS_FEB 20 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A27127B3-0712-4B20-A549-2A3C9816BB01&folderId=76884C230228155742073499"
         },
         {
-          "docName": "LANDSCAPE_FEB 28 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FF8DC30C-8858-4641-AD81-D38DEB34D2A6&folderId=76884C230228155742073499"
+          "docName": "REVISED LANDSCAPE_FEB 20 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=0DE505F9-4B1B-40ED-B0C1-354CF06C4693&folderId=76884C230228155742073499"
         },
         {
-          "docName": "SITE_FEB 28 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=690115E1-26F6-4D19-90CE-77A9CEF797D2&folderId=76884C230228155742073499"
+          "docName": "REVISED SHADOW PLAN_FEB 20 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C122925E-F829-46BB-95E5-046E226AA6E3&folderId=76884C230228155742073499"
+        },
+        {
+          "docName": "REVISED SITE PLAN_FEB 20 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=244897E8-FDBA-41C9-B978-12EE1862F876&folderId=76884C230228155742073499"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1696848405,
+      "lastUpdated": 1709293748,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00733",
@@ -16321,7 +16357,7 @@
     },
     {
       "primaryStreetName": "1854 EMERY PL",
-      "applicant": "N/A",
+      "applicant": "JUSTIN HAMER",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01065",
@@ -16330,18 +16366,24 @@
         "1854 EMERY PL"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO A COMPREHENSIVE ZONE TO CONSTRUCT A NEW 2 FAMILY DWELLING",
       "progressSections": [
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1707807600,
+          "endDate": 1709190000
+        },
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1709190000,
+          "endDate": 1709190000
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1708671600,
+      "lastUpdated": 1709293748,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00763",
@@ -18093,7 +18135,7 @@
     },
     {
       "primaryStreetName": "1854 EMERY PL",
-      "applicant": "N/A",
+      "applicant": "JUSTIN HAMER",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00763",
@@ -18102,18 +18144,24 @@
         "1854 EMERY PL"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO A COMPREHENSIVE ZONE TO CONSTRUCT A NEW 2 FAMILY DWELLING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1709190000,
+          "endDate": 1709190000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1709190000,
+          "endDate": 1709190000
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1708671600,
+      "lastUpdated": 1709293748,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01065",
@@ -18389,6 +18437,12 @@
           "taskType": "",
           "startDate": 1708930800,
           "endDate": 1708930800
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -18399,12 +18453,16 @@
         {
           "docName": "February 26, 2024 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/35347/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf?handle=27BD3388FA2B418FA1863815C64E8F79"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Grove-Crescent-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709175109,
+      "lastUpdated": 1709293784,
       "relatedPermits": []
     },
     {
@@ -18545,6 +18603,12 @@
           "taskType": "",
           "startDate": 1708930800,
           "endDate": 1708930800
+        },
+        {
+          "taskDescription": "Notice of Development Variance Application Permit",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -18555,12 +18619,16 @@
         {
           "docName": "February 26, 2024 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/35361/6b-%20DVP%20100352-%2010214%20Resthaven%20Dr.pdf?handle=AA05210BBF784165A5DB5BE60245C992"
+        },
+        {
+          "docName": "Notice of Development Variance Application Permit",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10214-Resthaven-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709175109,
+      "lastUpdated": 1709293784,
       "relatedPermits": []
     },
     {
@@ -39861,9 +39929,15 @@
           "endDate": 1706770800
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1709190000,
+          "endDate": 1709190000
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1706598000,
+          "startDate": 1709190000,
           "endDate": null
         },
         {
@@ -39923,10 +39997,14 @@
         {
           "docName": "2024-01-30 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BD340157-DE49-4453-8E8C-491B3C4DA3CD&folderId=32025C230615153230103244"
+        },
+        {
+          "docName": "2024-02-28 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=431408FC-B576-4BD7-BFF1-0F7ABBE39E4E&folderId=32025C230615153230103244"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1707479364,
+      "lastUpdated": 1709293748,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00637",
@@ -41202,6 +41280,63 @@
         },
         {
           "relatedPermitID": "CLC00426",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "419 STANNARD AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00268",
+      "applicationDate": 1709190000,
+      "addresses": [
+        "419 STANNARD AVE",
+        "421 STANNARD AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00787 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a garden suite with the existing duplex.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1709190000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00787",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000603",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00328",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -74012,7 +74147,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1704870000,
-          "endDate": null
+          "endDate": 1709190000
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -74048,7 +74183,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1707392951,
+      "lastUpdated": 1709293748,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -74100,7 +74235,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1709103600,
           "endDate": null
         },
         {
@@ -74157,7 +74292,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709207349,
+      "lastUpdated": 1709293748,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000632",
@@ -75702,7 +75837,7 @@
         "1244 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to add two floor levels and increase density. Concurrent with Heritage Alteration Permit Application No. 00262.",
+      "purpose": "The City is considering a Rezoning application to increase density in conjunction with a Heritage Alteration permit with variances for a two storey addition to an existing building. Concurrent with Heritage Alteration Permit Application No. 00262.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75758,7 +75893,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709034599,
+      "lastUpdated": 1709293748,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00262",
