@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1709293340,
+  "dateRetrieved": 1709379751,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16381,9 +16381,22 @@
           "endDate": 1709190000
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_FEB 13 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=5FD81A59-D616-40E0-AADA-567BA1CE5705&folderId=90936C240223144841235689"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_FEB 13 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BD8BF782-E399-4310-B4B7-A5C08EAEF00D&folderId=90936C240223144841235689"
+        },
+        {
+          "docName": "SITE PLAN_FEB 13 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E45D03AB-3E16-4BBD-A11B-98F0653AA87A&folderId=90936C240223144841235689"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1709293748,
+      "lastUpdated": 1709380155,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00763",
@@ -17198,7 +17211,13 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1700550000,
-          "endDate": null
+          "endDate": 1709017200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1709017200,
+          "endDate": 1709017200
         },
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
@@ -17209,7 +17228,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1707306798,
+      "lastUpdated": 1709380155,
       "relatedPermits": []
     },
     {
@@ -27964,6 +27983,49 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "309 BELLEVILLE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000640",
+      "applicationDate": 1709276400,
+      "addresses": [
+        "309 BELLEVILLE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application to add small buildings for a sauna.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1709276400,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "584 JOHN ST",
@@ -70806,6 +70868,12 @@
           "endDate": 1685602800
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1686207600,
+          "endDate": 1686207600
+        },
+        {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
           "taskType": "Council Meeting - Public Comment",
           "startDate": 1688022000,
@@ -70840,12 +70908,6 @@
           "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [
@@ -70875,7 +70937,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1709380155,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00207",
