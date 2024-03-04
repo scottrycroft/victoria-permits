@@ -18,7 +18,8 @@ import type {
 	PermitsEntity,
 	PermitsEntityDB,
 	RelatedPermit,
-	ProgressSectionsEntity
+	ProgressSectionsEntity,
+	ViewedPermitInfoDB
 } from "@/types/Permits";
 
 import permitInfo from "@/permitInfo.json";
@@ -45,10 +46,31 @@ const filters = ref({
 
 const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
 
+
+const permitsViewedTodaySet = ref(new Set<string>());
+initPermitsViewedToday(permitsViewedTodaySet.value);
+
 const applicationTypes = ref(getApplicationTypes(permitsList));
 
 function cloneObj<T>(obj: T): T {
 	return JSON.parse(JSON.stringify(obj));
+}
+
+function getTodaysDate(): string {
+	return (new Date()).toLocaleDateString("en-ca");
+}
+
+async function initPermitsViewedToday(permitsViewedTodaySet:Set<string>) {
+	// Clear todaysViewedPermits DB where date isn't today
+	const today = getTodaysDate();
+	await db.todaysViewedPermits.where("lastViewedDate").notEqual(today).delete();
+
+	// Load DB todaysViewedPermits into permitsViewedTodaySet ref
+	const viewedToday = await db.todaysViewedPermits.where("lastViewedDate").equals(today).toArray();
+	for(const permitView of viewedToday) {
+		const permitViewKey = `${permitView.city}-${permitView.folderNumber}`;
+		permitsViewedTodaySet.add(permitViewKey);
+	}
 }
 
 function getApplicationTypes(permitApplications: PermitsEntity[]): string[] {
@@ -214,6 +236,15 @@ const viewPermit = async (permitData: PermitsEntity) => {
 	permitDialogVisible.value = true;
 	await saveLastViewedPermit(cloneObj(permitData));
 	previousPermit.value = await getPreviousPermit(permitData);
+
+	
+	const permitViewKey = `${permitData.city}-${permitData.folderNumber}`;
+	permitsViewedTodaySet.value.add(permitViewKey);
+	db.todaysViewedPermits.put({
+		city: permitData.city,
+		folderNumber: permitData.folderNumber,
+		lastViewedDate: getTodaysDate()
+	});
 };
 
 async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEntity> {

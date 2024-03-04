@@ -21,6 +21,12 @@ export interface PermitsEntityDB extends PermitsEntity {
 	dbVersion?: "previous" | "current";
 }
 
+export interface ViewedPermitInfoDB {
+	city: string;
+	folderNumber: string;
+	lastViewedDate: string; // YYYY-MM-DD
+}
+
 export interface RelatedPermit {
 	relatedPermitID: string;
 	relatedPermitType: string;
