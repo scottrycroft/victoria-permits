@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, watch, nextTick } from "vue";
+import { ref, reactive, watch, nextTick } from "vue";
 import { useRoute, useRouter } from "vue-router";
 
 import pDebounce from 'p-debounce';
@@ -47,8 +47,8 @@ const filters = ref({
 const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
 
 
-const permitsViewedTodaySet = ref(new Set<string>());
-initPermitsViewedToday(permitsViewedTodaySet.value);
+const permitsViewedTodaySet = reactive(new Set<string>());
+initPermitsViewedToday(permitsViewedTodaySet);
 
 const applicationTypes = ref(getApplicationTypes(permitsList));
 
@@ -57,7 +57,14 @@ function cloneObj<T>(obj: T): T {
 }
 
 function getTodaysDate(): string {
-	return (new Date()).toLocaleDateString("en-ca");
+	return getFormattedDate(new Date());
+}
+
+function getFormattedDate(date: Date|number): string {
+	if(typeof date === "number") {
+		date = date*1000;
+	}
+	return (new Date(date)).toLocaleDateString("en-ca");
 }
 
 async function initPermitsViewedToday(permitsViewedTodaySet:Set<string>) {
@@ -68,9 +75,13 @@ async function initPermitsViewedToday(permitsViewedTodaySet:Set<string>) {
 	// Load DB todaysViewedPermits into permitsViewedTodaySet ref
 	const viewedToday = await db.todaysViewedPermits.where("lastViewedDate").equals(today).toArray();
 	for(const permitView of viewedToday) {
-		const permitViewKey = `${permitView.city}-${permitView.folderNumber}`;
-		permitsViewedTodaySet.add(permitViewKey);
+		permitsViewedTodaySet.add(getPermitKey(permitView));
 	}
+}
+
+function getPermitKey(permit:ViewedPermitInfoDB|PermitsEntity) {
+	const permitViewKey = `${permit.city}-${permit.folderNumber}`;
+	return permitViewKey;
 }
 
 function getApplicationTypes(permitApplications: PermitsEntity[]): string[] {
@@ -239,7 +250,7 @@ const viewPermit = async (permitData: PermitsEntity) => {
 
 	
 	const permitViewKey = `${permitData.city}-${permitData.folderNumber}`;
-	permitsViewedTodaySet.value.add(permitViewKey);
+	permitsViewedTodaySet.add(permitViewKey);
 	db.todaysViewedPermits.put({
 		city: permitData.city,
 		folderNumber: permitData.folderNumber,
@@ -616,6 +627,22 @@ async function saveAllCurrent() {
 			permitApplications.value.length.toString()
 	);
 }
+
+function rowClass(permit: PermitsEntity) {
+	if(!permit.lastUpdated) {
+		return undefined;
+	}
+	const viewedToday = permitsViewedTodaySet.has(getPermitKey(permit));
+	if(viewedToday) {
+		return undefined;
+	}
+	const permitDate = getFormattedDate(permit.lastUpdated);
+	const todaysDate =  getTodaysDate();
+	if(permitDate === todaysDate) {
+		return "notSeenToday";
+	}
+	return undefined;
+}
 </script>
 
 <template>
@@ -641,9 +668,10 @@ async function saveAllCurrent() {
 			]"
 			:rowsPerPageOptions="[5, 10, 20, 50]"
 			:rows="5"
+			:rowClass="rowClass"
 			paginator
 			paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
-			sortField="applicationDate"
+			sortField="lastUpdated"
 			:sortOrder="-1"
 			currentPageReportTemplate="{first} to {last} of {totalRecords}"
 		>

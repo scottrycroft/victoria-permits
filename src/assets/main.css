@@ -26,3 +26,7 @@ a.permitDataNew {
 tr.permitDataNewRow td {
 	background-color: var(--colour-data-new);
 }
+
+tr.notSeenToday {
+	background-color: hsl(84deg 56% 62% / 20%) !important;
+}
