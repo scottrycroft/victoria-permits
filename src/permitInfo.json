@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1709654077,
+  "dateRetrieved": 1709725355,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4802,13 +4802,13 @@
       "documents": [
         {
           "docURL": "https://www.colwood.ca/sites/default/files/administration/DP000010_Complete%20Package%20%28Signed%29%20.pdf",
-          "docName": "DP000010_Complete Package (Signed) "
+          "docName": "DP000010_Complete Package (Signed)"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1706096969,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -4864,6 +4864,8 @@
     {
       "primaryStreetName": "3554A Ryder Hesjedal Way",
       "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
       "folderNumber": "DPA00002",
       "applicationDate": 1703055600,
       "addresses": [
@@ -4871,14 +4873,7 @@
       ],
       "status": "ACTIVE",
       "purpose": "A Form & Character Development Permit to enable the relocation of a garbage enclosure.",
-      "progressSections": [
-        {
-          "taskDescription": "December 20, 2023",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
+      "progressSections": [],
       "documents": [
         {
           "docURL": "https://www.colwood.ca/sites/default/files/administration/DPA00002_Permit%20Package.pdf",
@@ -4888,7 +4883,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1706096969,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -4905,7 +4900,19 @@
       "purpose": "Rezoning Application to enable the construction of a mixed-used building comprised of 52 dwelling units and 485 m² of ground floor commercial.",
       "progressSections": [
         {
-          "taskDescription": "1st & 2nd reading completed Feb 13, 2023. 3rd reading completed April 11, 2023.Adoption to be scheduled.",
+          "taskDescription": "1st & 2nd reading completed",
+          "taskType": "",
+          "startDate": 1676271600,
+          "endDate": 1676271600
+        },
+        {
+          "taskDescription": "3rd reading completed",
+          "taskType": "",
+          "startDate": 1681196400,
+          "endDate": 1681196400
+        },
+        {
+          "taskDescription": "Adoption to be scheduled.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -4915,12 +4922,20 @@
         {
           "docURL": "https://www.colwood.ca/sites/default/files/3211%20Jacklin%20Rezoning_0.pdf",
           "docName": "3211 Jacklin Rezoning_0"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3227",
+          "docName": "1st & 2nd reading completed Feb 13, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3234",
+          "docName": "3rd reading completed April 11, 2023."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696916907,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -4937,22 +4952,46 @@
       "purpose": "Rezoning application to permit 6 storey, 55 unit, multifamily residential rental building.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee February 5, 2024. Council motion to refer back to staff February 26, 2024.Recommendation to Council for endorsement March 11, 2024.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707116400,
+          "endDate": 1707116400
+        },
+        {
+          "taskDescription": "Council motion to refer back to staff",
+          "taskType": "",
+          "startDate": 1708930800,
+          "endDate": 1708930800
+        },
+        {
+          "taskDescription": "Recommendation to Council for endorsement",
+          "taskType": "",
+          "startDate": 1710140400,
+          "endDate": 1710140400
         }
       ],
       "documents": [
         {
           "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/RZ-22-001.pdf",
           "docName": "RZ-22-001"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3272",
+          "docName": "Reviewed by Planning and Land Use Committee February 5, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3387",
+          "docName": "Council motion to refer back to staff February 26, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3388",
+          "docName": "Recommendation to Council for endorsement March 11, 2024"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709654509,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -5001,22 +5040,36 @@
       "purpose": "Single family (with suites) residential subdivision, 12 bare land strata lots.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee February 5, 2024.Committee recommendation endorsed by Council February 26, 2024.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1707116400,
+          "endDate": 1707116400
+        },
+        {
+          "taskDescription": "Committee recommendation endorsed by Council",
+          "taskType": "",
+          "startDate": 1708930800,
+          "endDate": 1708930800
         }
       ],
       "documents": [
         {
           "docURL": "https://colwood.civicweb.net/document/195302/",
-          "docName": ""
+          "docName": "RZ-22-005/RZ000004"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3272",
+          "docName": "Reviewed by Planning and Land Use Committee February 5, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3387",
+          "docName": "Committee recommendation endorsed by Council February 26, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709121008,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -5131,7 +5184,25 @@
       "purpose": "28 Unit Townhouse development, all 3 storeys with a total of 64 parking stalls.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee Oct 3, 2023. 1st and 2nd reading completed Oct 10, 2023.3rd reading completed Oct 23, 2023.Adoption scheduled for Jan 8th, 2024.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee",
+          "taskType": "",
+          "startDate": 1696316400,
+          "endDate": 1696316400
+        },
+        {
+          "taskDescription": "1st and 2nd reading completed",
+          "taskType": "",
+          "startDate": 1696921200,
+          "endDate": 1696921200
+        },
+        {
+          "taskDescription": "3rd reading completed",
+          "taskType": "",
+          "startDate": 1698044400,
+          "endDate": 1698044400
+        },
+        {
+          "taskDescription": "Adoption scheduled for Jan 8th, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -5141,12 +5212,28 @@
         {
           "docURL": "https://colwood.civicweb.net/document/202270/",
           "docName": ""
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3268",
+          "docName": "Reviewed by Planning and Land Use Committee Oct 3, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3244",
+          "docName": "1st and 2nd reading completed Oct 10, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3245",
+          "docName": "3rd reading completed Oct 23, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3384",
+          "docName": "Adoption scheduled for Jan 8th, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1703159367,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -5195,22 +5282,56 @@
       "purpose": "Creation of a new CD zone to accommodate a 6-storey building with 67 units.",
       "progressSections": [
         {
-          "taskDescription": "Reviewed by Planning and Land Use Committee May 1, 2023.1st and 2nd reading completed Dec 11, 2023.3rd reading completed January 8, 2024Scheduled for adoption March 11, 2024.",
+          "taskDescription": "Reviewed by Planning and Land Use Committee",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1682924400,
+          "endDate": 1682924400
+        },
+        {
+          "taskDescription": "1st and 2nd reading completed",
+          "taskType": "",
+          "startDate": 1702278000,
+          "endDate": 1702278000
+        },
+        {
+          "taskDescription": "3rd reading completed",
+          "taskType": "",
+          "startDate": 1704697200,
+          "endDate": 1704697200
+        },
+        {
+          "taskDescription": "Scheduled for adoption",
+          "taskType": "",
+          "startDate": 1710140400,
+          "endDate": 1710140400
         }
       ],
       "documents": [
         {
           "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/Architectural%20Plans%20-%202324%20Sooke%20Road%20%282-7-23%29%20Revised%20June%2016%2C%202023_0.pdf",
           "docName": "Architectural Plans - 2324 Sooke Road (2-7-23) Revised June 16%2C 2023_0"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=3264",
+          "docName": "Reviewed by Planning and Land Use Committee May 1, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3248",
+          "docName": "1st and 2nd reading completed Dec 11, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3384",
+          "docName": "3rd reading completed January 8, 2024"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3388",
+          "docName": "Scheduled for adoption March 11, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709654509,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -5227,22 +5348,56 @@
       "purpose": "Creation of a new CD Zone to accommodate a 6-storey building with 150 units.",
       "progressSections": [
         {
-          "taskDescription": "Introduction to Council May 8, 2023.1st & 2nd reading completed June 12, 2023.3rd reading completed July 10, 2023.Staff recommendation endorsed by Council February 26, 2024.",
+          "taskDescription": "Introduction to Council",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1683529200,
+          "endDate": 1683529200
+        },
+        {
+          "taskDescription": "1st & 2nd reading completed",
+          "taskType": "",
+          "startDate": 1686553200,
+          "endDate": 1686553200
+        },
+        {
+          "taskDescription": "3rd reading completed",
+          "taskType": "",
+          "startDate": 1688972400,
+          "endDate": 1688972400
+        },
+        {
+          "taskDescription": "Staff recommendation endorsed by Council",
+          "taskType": "",
+          "startDate": 1708930800,
+          "endDate": 1708930800
         }
       ],
       "documents": [
         {
           "docURL": "https://colwood.civicweb.net/document/203029/",
           "docName": ""
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=3236",
+          "docName": "Introduction to Council May 8, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3238",
+          "docName": "1st & 2nd reading completed June 12, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3240",
+          "docName": "3rd reading completed July 10, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3387",
+          "docName": "Staff recommendation endorsed by Council February 26, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709654509,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -5387,22 +5542,46 @@
       "purpose": "Creation of a new CD zone to enable a 51-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Introduction to Planning and Land Use Committee December 4, 20231st & 2nd reading completed January 8, 2024.3rd reading completed January 22, 2024.",
+          "taskDescription": "Introduction to Planning and Land Use Committee",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1701673200,
+          "endDate": 1701673200
+        },
+        {
+          "taskDescription": "1st & 2nd reading completed",
+          "taskType": "",
+          "startDate": 1704697200,
+          "endDate": 1704697200
+        },
+        {
+          "taskDescription": "3rd reading completed",
+          "taskType": "",
+          "startDate": 1705906800,
+          "endDate": 1705906800
         }
       ],
       "documents": [
         {
           "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/Application%20-%203494%20Wishart_0.pdf",
           "docName": "Application - 3494 Wishart_0"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Org=Cal&Id=3270",
+          "docName": "Introduction to Planning and Land Use Committee December 4, 2023"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3384",
+          "docName": "1st & 2nd reading completed January 8, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3385",
+          "docName": "3rd reading completed January 22, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1706096969,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -5421,7 +5600,7 @@
       "purpose": "Permit a 27-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Under Review by Staff",
+          "taskDescription": "Under Review by  Staff",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -5436,7 +5615,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1700912988,
+      "lastUpdated": 1709705432,
       "relatedPermits": []
     },
     {
@@ -8825,7 +9004,7 @@
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
+          "startDate": 1709622000,
           "endDate": null
         },
         {
@@ -8860,7 +9039,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1708084669,
+      "lastUpdated": 1709725760,
       "relatedPermits": []
     },
     {
@@ -23687,6 +23866,36 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1707202800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2525 COOK ST",
+      "applicant": "MARGIE SHENDUK",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00434",
+      "applicationDate": 1709622000,
+      "addresses": [
+        "2525 COOK ST",
+        "2529 COOK ST",
+        "2533 COOK ST",
+        "2522 EMPIRE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-02-06 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00154C240207111028050601&folderId=ZT0Em8vMA0yuTEB1VAahVg"
+        },
+        {
+          "docName": "2024-02-06 - Project Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00154C240207111028135228&folderId=ZT0Em8vMA0yuTEB1VAahVg"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1709622000,
       "relatedPermits": []
     },
     {
@@ -55632,30 +55841,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1671519600,
           "endDate": 1696575600
-        },
-        {
-          "taskDescription": "Meeting date for Council to ratify Committee of the Whole Meeting (CotW) recommendations",
-          "taskType": "Council Meeting - to Ratify (CotW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Preparation of required bylaw and any agreements necessary for Public Hearing",
-          "taskType": "Bylaw and Notice Preparation",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to set Public Hearing date",
-          "taskType": "Council Meeting - Set Hearing Date",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [
@@ -55817,7 +56002,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1709725760,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00219",
@@ -68879,7 +69064,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1709103600,
-          "endDate": null
+          "endDate": 1709622000
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -69037,7 +69222,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709207349,
+      "lastUpdated": 1709725760,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00190",
