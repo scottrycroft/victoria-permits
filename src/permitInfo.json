@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1709725355,
+  "dateRetrieved": 1709811752,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -330,7 +330,7 @@
         "1741 VERLING AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Rezoning in order to locate a veterinary hospital",
+      "purpose": "Rezone from A-1 to A-6 in order to allow a veterinary hospital.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -382,7 +382,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1708516171,
+      "lastUpdated": 1709812162,
       "relatedPermits": []
     },
     {
@@ -974,9 +974,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "1592 Verling_Dev App_Redacted_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=21833C240306093149757755&folderId=91694C220328102829001219"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1708516171,
+      "lastUpdated": 1709812162,
       "relatedPermits": []
     },
     {
@@ -1442,8 +1447,8 @@
         {
           "taskDescription": "",
           "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1708498800,
+          "endDate": 1708498800
         },
         {
           "taskDescription": "",
@@ -1471,7 +1476,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1708516171,
+      "lastUpdated": 1709812162,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -1855,6 +1860,12 @@
       "purpose": "This is to notify that Council will be considering a Bylaw Amendment Application to amend the Agriculture (A-1) zoning to include a restaurant as a permitted use on the subject property.",
       "progressSections": [
         {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1691478000,
+          "endDate": 1708066800
+        },
+        {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
           "startDate": 1708930800,
@@ -1865,12 +1876,6 @@
           "taskType": "1ST READING OF BYLAW(S)",
           "startDate": 1708930800,
           "endDate": 1709017200
-        },
-        {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1691478000,
-          "endDate": null
         },
         {
           "taskDescription": "",
@@ -1910,7 +1915,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1709120974,
+      "lastUpdated": 1709812162,
       "relatedPermits": []
     },
     {
@@ -1965,8 +1970,13 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1692342000,
-      "relatedPermits": []
+      "lastUpdated": 1709812162,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001465",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
     },
     {
       "primaryStreetName": "1255 MARCHANT RD",
@@ -2025,8 +2035,13 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1709654476,
-      "relatedPermits": []
+      "lastUpdated": 1709812162,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001463",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "6983 HAGAN RD",
@@ -2062,8 +2077,8 @@
         {
           "taskDescription": "",
           "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1708498800,
+          "endDate": 1708498800
         },
         {
           "taskDescription": "",
@@ -2103,8 +2118,81 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1708516171,
-      "relatedPermits": []
+      "lastUpdated": 1709812162,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001478",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001477",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "6983 HAGAN RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001477",
+      "applicationDate": 1694070000,
+      "addresses": [
+        "6983 HAGAN RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001476",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1694070000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001478",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001476",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
     },
     {
       "primaryStreetName": "1934 CULTRA AVE",
@@ -2175,8 +2263,13 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1709654476,
-      "relatedPermits": []
+      "lastUpdated": 1709812162,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001482",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "7180 EAST SAANICH RD",
@@ -2331,8 +2424,81 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1709654476,
-      "relatedPermits": []
+      "lastUpdated": 1709812162,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001505",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001504",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1934 HOVEY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001504",
+      "applicationDate": 1699599600,
+      "addresses": [
+        "1934 HOVEY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*Please refer to Rezoning and/or OCP Amendment PL001503",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1699599600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001505",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001503",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
+        }
+      ]
     },
     {
       "primaryStreetName": "7840 LOCHSIDE DR",
@@ -2500,26 +2666,8 @@
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
+          "startDate": 1709708400,
           "endDate": null
         },
         {
@@ -2536,7 +2684,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1709034599,
+      "lastUpdated": 1709812162,
       "relatedPermits": []
     },
     {
@@ -11848,6 +11996,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1708671600,
+          "endDate": 1709708400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1709708400,
           "endDate": null
         }
       ],
@@ -11866,7 +12020,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1709120974,
+      "lastUpdated": 1709812162,
       "relatedPermits": []
     },
     {
@@ -16911,15 +17065,15 @@
           "endDate": 1706770800
         },
         {
-          "taskDescription": "Application has been approved by Council",
-          "taskType": "APPLICATION APPROVED BY COUNCIL",
-          "startDate": 1685948400,
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1706770800,
+      "lastUpdated": 1709812162,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20978",
@@ -39817,14 +39971,13 @@
       ]
     },
     {
-      "primaryStreetName": "2121 GOVERNMENT ST",
+      "primaryStreetName": "616 PEMBROKE ST",
       "applicant": "BRENT SAVARD",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00235",
       "applicationDate": 1682060400,
       "addresses": [
-        "2121 GOVERNMENT ST",
         "616 PEMBROKE ST",
         "624 PEMBROKE ST",
         "621 PRINCESS AVE",
@@ -39901,6 +40054,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1709708400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -39915,24 +40074,24 @@
       ],
       "documents": [
         {
-          "docName": "2024-01-26 - Letter of revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4967308B-0B00-42A0-8659-65A3428EDD3F&folderId=17121C230426092831161496"
+          "docName": "2024-03-06 - Civil Plan - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=254839F8-36EB-42E5-B22C-70C379A28CD8&folderId=17121C230426092831161496"
         },
         {
-          "docName": "2024-01-26 - Letter to Council - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=46C75A7D-CF37-458A-A054-23AD733F00B2&folderId=17121C230426092831161496"
+          "docName": "2024-03-06 - Landscape Plan - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0E39CD5A-B300-462F-A54A-65EF01102F55&folderId=17121C230426092831161496"
         },
         {
-          "docName": "2024-01-26 - Plans - Revisions - Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6572C935-664E-4F8F-A63D-84ABF63CF097&folderId=17121C230426092831161496"
+          "docName": "2024-03-06 - Letter to Council - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E75DA55F-AF85-4A92-9C27-D8EBC994B857&folderId=17121C230426092831161496"
         },
         {
-          "docName": "2024-01-26 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=33CFEDF9-8C9F-4A3F-B048-3A66C08CA0A3&folderId=17121C230426092831161496"
+          "docName": "2024-03-06 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9F122AA9-3796-49BE-9015-2877EA983E4D&folderId=17121C230426092831161496"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1706701747,
+      "lastUpdated": 1709812162,
       "relatedPermits": []
     },
     {
