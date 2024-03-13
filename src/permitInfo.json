@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1710240154,
+  "dateRetrieved": 1710326533,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2517,7 +2517,7 @@
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1700722800,
-          "endDate": null
+          "endDate": 1702537200
         },
         {
           "taskDescription": "",
@@ -2569,7 +2569,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1702381734,
+      "lastUpdated": 1710326940,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -5112,7 +5112,7 @@
           "endDate": 1708930800
         },
         {
-          "taskDescription": "Recommendation to Council for endorsement",
+          "taskDescription": "Committee recommendation endorsed by Council",
           "taskType": "",
           "startDate": 1710140400,
           "endDate": 1710140400
@@ -5133,13 +5133,13 @@
         },
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3388",
-          "docName": "Recommendation to Council for endorsement March 11, 2024"
+          "docName": "Committee recommendation endorsed by Council March 11, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709705432,
+      "lastUpdated": 1710326974,
       "relatedPermits": []
     },
     {
@@ -5448,7 +5448,7 @@
           "endDate": 1704697200
         },
         {
-          "taskDescription": "Scheduled for adoption",
+          "taskDescription": "Adopted",
           "taskType": "",
           "startDate": 1710140400,
           "endDate": 1710140400
@@ -5473,13 +5473,13 @@
         },
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3388",
-          "docName": "Scheduled for adoption March 11, 2024."
+          "docName": "Adopted March 11, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709705432,
+      "lastUpdated": 1710326974,
       "relatedPermits": []
     },
     {
@@ -5581,14 +5581,14 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "1977 Colwood Cres",
+      "primaryStreetName": "1977 Colwood Crescent",
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
       "folderNumber": "RZ-22-019",
       "applicationDate": 1668409200,
       "addresses": [
-        "1977 Colwood Cres"
+        "1977 Colwood Crescent"
       ],
       "status": "ACTIVE",
       "purpose": "Creation of a new CD Zone to accommodate a 6-storey building with 129 units.",
@@ -5609,7 +5609,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696916907,
+      "lastUpdated": 1710326974,
       "relatedPermits": []
     },
     {
@@ -16244,12 +16244,18 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1707894000,
+          "endDate": 1710226800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1710226800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1707997751,
+      "lastUpdated": 1710326940,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00514",
@@ -18865,39 +18871,25 @@
         "2306 Grove Crescent"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Variance Permit application to relax the minimum rear yard setback on the site from 9.85 m to 7.50 m",
+      "purpose": "Development Variance Permit application to relax the minimum rear yard setback on the site from 9.85 m to 7.50 m.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1708930800,
-          "endDate": 1708930800
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1710140400,
+          "endDate": 1710140400
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Grove-Crescent-Plans.pdf"
-        },
-        {
-          "docName": "February 26, 2024 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/35347/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf?handle=27BD3388FA2B418FA1863815C64E8F79"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Grove-Crescent-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709293784,
+      "lastUpdated": 1710326974,
       "relatedPermits": []
     },
     {
@@ -18943,37 +18935,13 @@
         "2060 White Birch Road"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Variance Permit and Zoning Amendment application for a 60-unit multi-family apartment building development with a mix of underground and above-ground parking.",
+      "purpose": "Development Permit and Zoning Amendment application for a 60-unit multi-family apartment building development with a mix of underground and above-ground parking.",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Application",
+          "taskDescription": "",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1693897200,
-          "endDate": 1693897200
-        },
-        {
-          "taskDescription": "APC Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1701759600,
-          "endDate": 1701759600
-        },
-        {
-          "taskDescription": "Notice of Zoning Amendment",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1705906800,
+          "endDate": 1705906800
         }
       ],
       "documents": [
@@ -18992,32 +18960,12 @@
         {
           "docName": "Traffic Study",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-2023-11-17-Traffic-Study.pdf"
-        },
-        {
-          "docName": "Notice of New Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-Plans-New-Development-Notice.pdf"
-        },
-        {
-          "docName": "September 5, 2023 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/31303/7a-RZ%20_%20DP%20-%202060%20White%20Birch%20Road.pdf"
-        },
-        {
-          "docName": "December 5, 2023 APC Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/33519#page=5"
-        },
-        {
-          "docName": "Notice of Zoning Amendment",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-Notice-of-Zoning-Amendment-RZ100107.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-DV-Notice-DV100350.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709175109,
+      "lastUpdated": 1710326974,
       "relatedPermits": []
     },
     {
@@ -19157,25 +19105,25 @@
         "10222 Resthaven Drive"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Variance Permit application to relax the required side yard setback in order to install a heat pump.",
+      "purpose": "Development Variance Permit application to increase the maximum permitted height of a two-family dwelling, to increase the lot coverage, and to increase the maximum permitted number of storeys from 2.5 to 3.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1710140400,
+          "endDate": 1710140400
         }
       ],
       "documents": [
         {
           "docName": "Plans",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/10222-Resthaven-Drive-Plans.pdf"
+          "docURL": "https://www.sidney.ca/wp-content/uploads/10214-Resthaven-Drive-Plans.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1708429796,
+      "lastUpdated": 1710326974,
       "relatedPermits": []
     },
     {
@@ -24004,8 +23952,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709654476,
-      "relatedPermits": []
+      "lastUpdated": 1710326940,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00870",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000641",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
     },
     {
       "primaryStreetName": "50 GOVERNMENT ST",
@@ -28485,6 +28442,58 @@
       "city": "Victoria",
       "lastUpdated": 1709984955,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1885 GOVERNMENT ST",
+      "applicant": "NATHAN MA",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000641",
+      "applicationDate": 1710226800,
+      "addresses": [
+        "1885 GOVERNMENT ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application for mixed use purpose built residential building with ground floor commercial uses. This application also includes the retention and rehabilitation of an existing building on the site with heritage significance. The proposal requires an amendment to the Official Community Plan. CONCURRENT WITH REZONING APPLICATION #000870. ALL ITEMS LOCATED IN THE REZONING FILE.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1710226800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1710226800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00870",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00428",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "584 JOHN ST",
@@ -60933,7 +60942,7 @@
         "2582 VANCOUVER ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct eight new townhouses in three separate buildings. Concurrent with Development Permit with Variance application DPV No. 00143.",
+      "purpose": "The City is considering a Rezoning application to construct eight new townhouses in three separate buildings. Concurrent with DPV No. 00143.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -61075,7 +61084,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709034599,
+      "lastUpdated": 1710326940,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00143",
@@ -75337,7 +75346,7 @@
         "1041 CLARE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for subdivision into two small lots and construction of two new single family dwellings containing secondary suites. Concurrent with DPV00246 to reduce lot width.",
+      "purpose": "The City is considering a Rezoning application to allow for subdivision into two small lots and construction of two new single family dwellings containing secondary suites. Concurrent with DPV No. 00246.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75399,7 +75408,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1708602549,
+      "lastUpdated": 1710326940,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -76454,6 +76463,89 @@
         {
           "relatedPermitID": "HAP00262",
           "relatedPermitType": "HERITAGE ALTERATION PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1885 GOVERNMENT ST",
+      "applicant": "NATHAN MA",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00870",
+      "applicationDate": 1710226800,
+      "addresses": [
+        "1885 GOVERNMENT ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for mixed use purpose built residential building with ground floor commercial uses. This application also includes the retention and rehabilitation of an existing building on the site with heritage significance. The proposal requires an amendment to the Official Community Plan. CONCURRENT WITH DEVELOPMENT PERMIT APPLICATION #000641. ALL ITEMS LOCATED IN THE REZONING FILE.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1710226800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-03-12 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4DF6F810-F155-45B4-8259-7E4D9F1E4DFD&folderId=11190C240312101819231835"
+        },
+        {
+          "docName": "Itemized Response Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2B39FAAB-ED0E-4DD6-B216-5D7ACEED3228&folderId=11190C240312101819231835"
+        },
+        {
+          "docName": "Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A0E9EE89-9138-4A45-8855-A3D46F7D9071&folderId=11190C240312101819231835"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1710226800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000641",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00428",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
