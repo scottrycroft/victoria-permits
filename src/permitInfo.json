@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1710412949,
+  "dateRetrieved": 1710499330,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5064,10 +5064,10 @@
           "endDate": 1681196400
         },
         {
-          "taskDescription": "Adoption to be scheduled.",
+          "taskDescription": "Adoption scheduled for",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1711350000,
+          "endDate": 1711350000
         }
       ],
       "documents": [
@@ -5087,7 +5087,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709705432,
+      "lastUpdated": 1710499778,
       "relatedPermits": []
     },
     {
@@ -5271,7 +5271,7 @@
       "purpose": "Joint OCP and Zoning Amendment application to enable the development and construction of a 6-storey multi-unit residential building consisting of 122 units.",
       "progressSections": [
         {
-          "taskDescription": "Under review by Staff.",
+          "taskDescription": "Introduction to Planning and Land Use Committee scheduled for May 6, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -5286,7 +5286,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696915873,
+      "lastUpdated": 1710499778,
       "relatedPermits": []
     },
     {
@@ -5402,7 +5402,7 @@
       "purpose": "Revision to a CD8 zone to allow for attached housing use.",
       "progressSections": [
         {
-          "taskDescription": "Under Review by Staff.",
+          "taskDescription": "Introduction to Planning and Land Use Committee scheduled for May 6, 2024.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -5417,7 +5417,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696916907,
+      "lastUpdated": 1710499778,
       "relatedPermits": []
     },
     {
@@ -9195,6 +9195,67 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "291 KING GEORGE TERR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000050",
+      "applicationDate": 1710399600,
+      "addresses": [
+        "291 KING GEORGE TERR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit for marine shoreline with variances.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1710399600,
+          "endDate": 1710399600
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1710399600,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -11229,6 +11290,91 @@
           "relatedPermitType": "SINGLE FAMILY DWELLING PERMIT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "291 KING GEORGE TERR",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00051",
+      "applicationDate": 1710399600,
+      "addresses": [
+        "291 KING GEORGE TERR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment for new comprehensive development zone.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1710399600,
+          "endDate": 1710399600
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
+          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "meeting date of council for initial consideration of the application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
+          "taskType": "PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1710399600,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "640 BEAVER LAKE RD",
@@ -18716,6 +18862,12 @@
           "taskType": "",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -18746,12 +18898,16 @@
         {
           "docName": "Notice of Zoning Amendment Bylaw",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9522-Lochside-Drive-Notice-of-Zoning-Amendment.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9522-Lochside-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709175109,
+      "lastUpdated": 1710499778,
       "relatedPermits": []
     },
     {
@@ -19072,6 +19228,12 @@
           "taskType": "",
           "startDate": 1710140400,
           "endDate": 1710140400
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -19082,12 +19244,16 @@
         {
           "docName": "March 11, 2024 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/36157/Development%20Permit%20Application%20No.%20DP100843_Dev.pdf?handle=0AFD5312E6B04FAC912B9DCE5CC7A2BC"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9535-Canora-Road-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709984990,
+      "lastUpdated": 1710499778,
       "relatedPermits": []
     },
     {
@@ -24084,6 +24250,33 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1709622000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "851 BROUGHTON ST",
+      "applicant": "JIMMY SUN",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00436",
+      "applicationDate": 1710486000,
+      "addresses": [
+        "851 BROUGHTON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-03-11 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11188C240312083122897012&folderId=2cKoEF8zdEOlhEWp4xkTmA"
+        },
+        {
+          "docName": "2024-03-12 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11188C240312103502889704&folderId=2cKoEF8zdEOlhEWp4xkTmA"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1710486000,
       "relatedPermits": []
     },
     {
@@ -71739,12 +71932,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1704870000,
-          "endDate": null
+          "endDate": 1709103600
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": 1706598000,
+          "startDate": 1709103600,
           "endDate": null
         },
         {
@@ -71793,7 +71986,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709034599,
+      "lastUpdated": 1710499742,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -75251,12 +75444,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1706598000,
-          "endDate": null
+          "endDate": 1710399600
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1710399600,
           "endDate": null
         },
         {
@@ -75301,7 +75494,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709207349,
+      "lastUpdated": 1710499742,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00245",
