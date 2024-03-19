@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1710758544,
+  "dateRetrieved": 1710844939,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5011,6 +5011,34 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1706096969,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "409 Trumpeter Street.",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000015",
+      "applicationDate": 1710399600,
+      "addresses": [
+        "409 Trumpeter Street.",
+        "417 Rock Dove Place Trumpeter Street.",
+        "3442 Trumpeter Street.",
+        "3426 Trumpeter Street."
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable four single-family homes with secondary suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/DP000015_Permit%20Package_Signed.pdf",
+          "docName": "DP000015_Permit Package_Signed"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1710845386,
       "relatedPermits": []
     },
     {
@@ -16603,11 +16631,11 @@
     },
     {
       "primaryStreetName": "804 MCKENZIE AVE",
-      "applicant": "N/A",
+      "applicant": "URBAN WEST ARCHITECHTURE INC.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01059",
-      "applicationDate": 1702018800,
+      "applicationDate": 1709794800,
       "addresses": [
         "804 MCKENZIE AVE",
         "812 MCKENZIE AVE",
@@ -16615,18 +16643,24 @@
         "4007 RAINBOW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT MULTI-FAMILY APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING WITH VARIANCES REQUESTED FOR PARKING AND BUILDING WIDTH",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1709794800,
+          "endDate": 1709794800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1709794800,
+          "endDate": 1709794800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1709898561,
+      "lastUpdated": 1710845351,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -18745,7 +18779,7 @@
     },
     {
       "primaryStreetName": "804 MCKENZIE AVE",
-      "applicant": "N/A",
+      "applicant": "URBAN WEST ARCHITECTURE INC.",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00764",
@@ -18757,18 +18791,24 @@
         "4007 RAINBOW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT MULTI-FAMILY APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING WITH VARIANCES REQUESTED FOR PARKING AND BUILDING WIDTH",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1709794800,
+          "endDate": 1709794800
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1709794800,
+          "endDate": 1709794800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1709794800,
+      "lastUpdated": 1710845351,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01059",
@@ -24281,12 +24321,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11188C240312083122897012&folderId=2cKoEF8zdEOlhEWp4xkTmA"
         },
         {
-          "docName": "2024-03-12 - Plans.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11188C240312103502889704&folderId=2cKoEF8zdEOlhEWp4xkTmA"
+          "docName": "2024-03-18 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=13044C240318084738424380&folderId=2cKoEF8zdEOlhEWp4xkTmA"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1710486000,
+      "lastUpdated": 1710845351,
       "relatedPermits": []
     },
     {
