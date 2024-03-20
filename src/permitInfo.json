@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1710844939,
+  "dateRetrieved": 1710931335,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5110,12 +5110,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3234",
           "docName": "3rd reading completed April 11, 2023."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3389",
+          "docName": "Adoption scheduled for March 25, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1710499778,
+      "lastUpdated": 1710931781,
       "relatedPermits": []
     },
     {
@@ -5148,6 +5152,12 @@
           "taskType": "",
           "startDate": 1710140400,
           "endDate": 1710140400
+        },
+        {
+          "taskDescription": "Recommendation to Council for review",
+          "taskType": "",
+          "startDate": 1711350000,
+          "endDate": 1711350000
         }
       ],
       "documents": [
@@ -5166,12 +5176,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3388",
           "docName": "Committee recommendation endorsed by Council March 11, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3389",
+          "docName": "Recommendation to Council for review March 25, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1710326974,
+      "lastUpdated": 1710931781,
       "relatedPermits": []
     },
     {
@@ -13994,25 +14008,31 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1708930800,
+          "endDate": 1710140400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1710140400,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "REVISED ELEVATION PLAN_AUG 29_2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C42188BF-1915-4AF0-BD6C-0EE559D5CEF3&folderId=61004C230110093933911513"
+          "docName": "REVISED_ELEVATIONS_MARCH 11, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=B6EC21BE-E4D6-4B5C-B561-3D2279069A6B&folderId=61004C230110093933911513"
         },
         {
-          "docName": "REVISED LANDSCAPE PLAN_AUG 29_2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=73182CDB-85D2-400A-BC4B-19E0471836A1&folderId=61004C230110093933911513"
+          "docName": "REVISED_LANDSCAPE_NFP_MARCH 11, 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=99256C240319114440355678&folderId=61004C230110093933911513"
         },
         {
-          "docName": "REVISED SITE PLAN_AUG 29_2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9FDC9E6E-1D85-429C-8C6A-99371CAD6769&folderId=61004C230110093933911513"
+          "docName": "REVISED_SITE_MARCH 11, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3372DFAE-516D-4EC9-8C28-60001EFC1017&folderId=61004C230110093933911513"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1709034599,
+      "lastUpdated": 1710931747,
       "relatedPermits": []
     },
     {
@@ -16658,9 +16678,22 @@
           "endDate": 1709794800
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_MARCH 7, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=142BCD37-F9CA-4925-AEC3-30A7FCC41C1A&folderId=67052C231208142510842902"
+        },
+        {
+          "docName": "LANDSCAPE_MARCH 7, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9A173717-6264-450B-BA93-DE4227CA9CAB&folderId=67052C231208142510842902"
+        },
+        {
+          "docName": "SITE_MARCH 7, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4B3703CD-8CB9-4C8E-BE9B-AEF5BD7079AF&folderId=67052C231208142510842902"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1710845351,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -41136,8 +41169,12 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
+        {
+          "relatedPermitID": "HAP00263",
+          "relatedPermitType": "HERITAGE ALTERATION PERMIT"
+        },
         {
           "relatedPermitID": "REZ00857",
           "relatedPermitType": "Rezoning Application"
@@ -66963,7 +67000,7 @@
         "1132 EMPRESS AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to a site-specific zone proposing a new three unit building connected to the existing duplex by a deck. The proposal requires a variance to the parking. Concurrent with Development Permit with Variance Application No. 00174.",
+      "purpose": "The City is considering a Rezoning application to a site-specific zone proposing a new three unit building connected to the existing duplex by a deck. The proposal requires a variance to the parking. Concurrent with Development Permit with Variance Application No. 00174. Concurrent with Heritage Designation No. 000208.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -67022,7 +67059,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1710831600,
           "endDate": null
         },
         {
@@ -67115,7 +67152,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1710586166,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -68500,15 +68537,15 @@
           "endDate": 1702278000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1635490800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1702364400,
+          "endDate": 1707980400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1635490800,
           "endDate": null
         },
         {
@@ -68665,7 +68702,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1702468147,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -74997,10 +75034,18 @@
         {
           "docName": "2023-11-02 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FC515BDA-AAF4-46A6-8A33-5AE1878EEAD9&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-02-23 - Plans - Revisions - Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E99D4758-0B82-46BE-B872-8008476C037C&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-02-23 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F1EF7EAF-07B2-40FA-B060-595D78C2DEC6&folderId=15938C230421091532521120"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709654476,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -75023,7 +75068,7 @@
         "943 COLLINSON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct an attached dwelling building. Concurrent with DP000632.",
+      "purpose": "The City is considering a Rezoning application to construct an attached dwelling building. Concurrent with DP No. 000632.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75109,7 +75154,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709293748,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000632",
@@ -75587,8 +75632,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1710499742,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
+        {
+          "relatedPermitID": "HAP00263",
+          "relatedPermitType": "HERITAGE ALTERATION PERMIT"
+        },
         {
           "relatedPermitID": "DPV00245",
           "relatedPermitType": "Development Permit with Variance"
@@ -76516,15 +76565,21 @@
           "endDate": 1707202800
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1710226800,
+          "endDate": 1710226800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1707202800,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1710226800,
           "endDate": null
         },
         {
@@ -76567,7 +76622,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1707306798,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00424",
@@ -76741,7 +76796,7 @@
         "1885 GOVERNMENT ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for mixed use purpose built residential building with ground floor commercial uses. This application also includes the retention and rehabilitation of an existing building on the site with heritage significance. The proposal requires an amendment to the Official Community Plan. CONCURRENT WITH DEVELOPMENT PERMIT APPLICATION No. 000641. ALL ITEMS LOCATED IN THE REZONING FILE.",
+      "purpose": "The City is considering a Rezoning application for mixed use purpose built residential building with ground floor commercial uses. This application also includes the retention and rehabilitation of an existing building on the site with heritage significance. The proposal requires an amendment to the Official Community Plan. Concurrent with Development Permit Application No. 000641. All items located in the rezoning file.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -76801,7 +76856,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1710413365,
+      "lastUpdated": 1710931747,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
