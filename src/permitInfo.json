@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1711017740,
+  "dateRetrieved": 1711104133,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14166,6 +14166,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1708930800,
+          "endDate": 1709622000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1709622000,
+          "endDate": 1711004400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1711004400,
           "endDate": null
         }
       ],
@@ -14184,7 +14196,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1709034599,
+      "lastUpdated": 1711104543,
       "relatedPermits": []
     },
     {
@@ -17498,8 +17510,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1696848405,
+      "lastUpdated": 1711104543,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00522",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
         {
           "relatedPermitID": "DPR01029",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -64312,6 +64328,18 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1635318000,
+          "endDate": 1644476400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1711004400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -64386,7 +64414,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1711018151,
+      "lastUpdated": 1711104543,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -76241,12 +76269,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1707980400,
-          "endDate": null
+          "endDate": 1711004400
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1711004400,
           "endDate": null
         },
         {
@@ -76299,7 +76327,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1708084669,
+      "lastUpdated": 1711104543,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
