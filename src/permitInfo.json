@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1711104133,
+  "dateRetrieved": 1711190554,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16693,7 +16693,7 @@
         "4007 RAINBOW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT MULTI-FAMILY APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING WITH VARIANCES REQUESTED FOR PARKING AND BUILDING WIDTH",
+      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING. VARIANCES REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -16723,7 +16723,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1710931747,
+      "lastUpdated": 1711190964,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -16984,6 +16984,12 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1706598000,
           "endDate": 1706598000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1711090800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -17001,7 +17007,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1707392951,
+      "lastUpdated": 1711190964,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20756",
@@ -24427,6 +24433,34 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1710745200,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "600 DALLAS RD",
+      "applicant": "MICHAEL MOODY",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00438",
+      "applicationDate": 1711090800,
+      "addresses": [
+        "600 DALLAS RD",
+        "602 DALLAS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-03-19 - Letter to CALUC.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=26BF7200-2185-48A5-8D15-5A1C8430C665&folderId=13467C240319160305521161"
+        },
+        {
+          "docName": "2024-03-19 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5D719A7B-1A30-41B1-898E-97429C25480F&folderId=13467C240319160305521161"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1711090800,
       "relatedPermits": []
     },
     {
@@ -68344,14 +68378,13 @@
       ]
     },
     {
-      "primaryStreetName": "480 ESQUIMALT RD",
+      "primaryStreetName": "492 ESQUIMALT RD",
       "applicant": "VINIT JAIN",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00794",
       "applicationDate": 1632898800,
       "addresses": [
-        "480 ESQUIMALT RD",
         "492 ESQUIMALT RD"
       ],
       "status": "ACTIVE",
@@ -68453,7 +68486,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1711190964,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00183",
@@ -73044,15 +73077,15 @@
           "endDate": 1702537200
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1702537200,
+          "endDate": 1702537200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1695020400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -73091,7 +73124,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1705578546,
+      "lastUpdated": 1711190964,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00217",
