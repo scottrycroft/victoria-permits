@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1711622519,
+  "dateRetrieved": 1711708925,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14212,6 +14212,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1711004400,
+          "endDate": 1711436400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1711609200,
           "endDate": null
         }
       ],
@@ -14230,7 +14236,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1711104543,
+      "lastUpdated": 1711709345,
       "relatedPermits": []
     },
     {
@@ -17109,6 +17115,42 @@
       ]
     },
     {
+      "primaryStreetName": "1864 FELTHAM RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01066",
+      "applicationDate": 1711609200,
+      "addresses": [
+        "1864 FELTHAM RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1711609200,
+          "endDate": 1711609200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1711609200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00765",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -18910,7 +18952,7 @@
         "4007 RAINBOW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT MULTI-FAMILY APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING WITH VARIANCES REQUESTED FOR PARKING AND BUILDING WIDTH",
+      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING. VARIANCES REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18927,10 +18969,46 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1710845351,
+      "lastUpdated": 1711709345,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01059",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1864 FELTHAM RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00765",
+      "applicationDate": 1711609200,
+      "addresses": [
+        "1864 FELTHAM RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1711609200,
+          "endDate": 1711609200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1711609200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01066",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -24468,6 +24546,37 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "1574 BAY ST",
+      "applicant": "CAM BROWN",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00439",
+      "applicationDate": 1711609200,
+      "addresses": [
+        "1574 BAY ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-03-20 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=13992C240320112459359732&folderId=eBM0XWDpnkGnDNGNagjG4g"
+        },
+        {
+          "docName": "2024-03-20 - Presentation Slides.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=13992C240320112459400912&folderId=eBM0XWDpnkGnDNGNagjG4g"
+        },
+        {
+          "docName": "2024-03-20 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=13992C240320112459435611&folderId=eBM0XWDpnkGnDNGNagjG4g"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1711609200,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "2 PAUL KANE PL",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMITS",
@@ -28828,6 +28937,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1711609200,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -28851,7 +28966,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709984955,
+      "lastUpdated": 1711709345,
       "relatedPermits": []
     },
     {
@@ -64937,8 +65052,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1697094000,
+          "endDate": 1697094000
         },
         {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
@@ -65016,7 +65131,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1700912957,
+      "lastUpdated": 1711709345,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000590",
@@ -68501,10 +68616,14 @@
         {
           "docName": "2023-06-06 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B28AA9AC-128A-47CC-991D-75E6213CA875&folderId=63035C210929112244743271"
+        },
+        {
+          "docName": "24-012.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16784C240328090848717352&folderId=63035C210929112244743271"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1711190964,
+      "lastUpdated": 1711709345,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00183",
@@ -75018,10 +75137,14 @@
         {
           "docName": "2023-12-04 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5BCD3DA3-6B89-4913-BA54-623FBF66C266&folderId=09635C230329103747177099"
+        },
+        {
+          "docName": "24-010.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16784C240328090904036520&folderId=09635C230329103747177099"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709120974,
+      "lastUpdated": 1711709345,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -76906,7 +77029,7 @@
         "1244 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to increase density in conjunction with a Heritage Alteration permit with variances for a two storey addition to an existing building. Concurrent with Heritage Alteration Permit Application No. 00262.",
+      "purpose": "The City is considering a Rezoning application to increase density in conjunction with a Heritage Alteration Permit with Variances for a two storey addition to an existing building. Concurrent with Heritage Alteration Permit Application No. 00262.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -76915,15 +77038,21 @@
           "endDate": 1708412400
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1711090800,
+          "endDate": 1711090800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1708930800,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1711090800,
           "endDate": null
         },
         {
@@ -76962,11 +77091,15 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1709293748,
+      "lastUpdated": 1711709345,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00262",
           "relatedPermitType": "HERITAGE ALTERATION PERMIT"
+        },
+        {
+          "relatedPermitID": "CLC00427",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
