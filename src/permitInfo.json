@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1712140953,
+  "dateRetrieved": 1712227451,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14384,6 +14384,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1710918000,
+          "endDate": 1712127600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1712127600,
           "endDate": null
         }
       ],
@@ -14402,7 +14408,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1711018151,
+      "lastUpdated": 1712227872,
       "relatedPermits": []
     },
     {
@@ -16266,6 +16272,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1702278000,
+          "endDate": 1712127600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1712127600,
           "endDate": null
         }
       ],
@@ -16288,7 +16300,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1702381734,
+      "lastUpdated": 1712227872,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -17125,7 +17137,7 @@
         "1864 FELTHAM RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO RT-7 FOR TWO BLOCKS OF 7 TOWNHOUSES EACH (14 TOTAL WITH 13 BEING 3 BEDROOM AND 1 ONE BEDROOM ACCESSIBLE UNIT) WITH ON-SITE PARKING (LIMITED). VARIANCE REQUESTED.",
+      "purpose": "TO REZONE FROM RS-10 TO RT-7 FOR TWO BLOCKS OF 7 STACKED TOWNHOUSES CONTAINING 14 UNITS TOTAL (13 THREE BEDROOMS AND 1 ACCESSIBLE ONE BEDROOM) . VARIANCES REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -17142,7 +17154,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712227872,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -18979,7 +18991,7 @@
     },
     {
       "primaryStreetName": "1864 FELTHAM RD",
-      "applicant": "N/A",
+      "applicant": "HABITAT FOR HUMANITY VICTORIA",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00765",
@@ -18988,7 +19000,7 @@
         "1864 FELTHAM RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO RT-7 FOR TWO BLOCKS OF 7 TOWNHOUSES EACH (14 TOTAL WITH 13 BEING 3 BEDROOM AND 1 ONE BEDROOM ACCESSIBLE UNIT) WITH ON-SITE PARKING (LIMITED). VARIANCE REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18997,15 +19009,15 @@
           "endDate": 1711609200
         },
         {
-          "taskDescription": "Application submission review for completeness",
-          "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1711609200,
+          "endDate": 1711609200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1711609200,
+      "lastUpdated": 1712227872,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01066",
@@ -28999,6 +29011,33 @@
         },
         {
           "relatedPermitID": "CLC00428",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1026 EMPRESS AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000642",
+      "applicationDate": 1712127600,
+      "addresses": [
+        "1026 EMPRESS AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to construct new townhouses. See Rezoning application No. 00871 for file details.",
+      "progressSections": [],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1712127600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00871",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00421",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -77029,7 +77068,7 @@
         "1244 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to increase density in conjunction with a Heritage Alteration Permit with Variances for a two storey addition to an existing building. Concurrent with Heritage Alteration Permit Application No. 00262.",
+      "purpose": "The City is considering a Rezoning application to increase density in conjunction with a Heritage Alteration Permit with Variances application for a two storey addition to an existing building. Concurrent with Heritage Alteration Permit Application No. 00262.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -77091,8 +77130,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712227872,
       "relatedPermits": [
+        {
+          "relatedPermitID": "HAV00036",
+          "relatedPermitType": "Heritage Alteration with Variance"
+        },
         {
           "relatedPermitID": "HAP00262",
           "relatedPermitType": "HERITAGE ALTERATION PERMIT"
@@ -77182,6 +77225,89 @@
         },
         {
           "relatedPermitID": "CLC00428",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1026 EMPRESS AVE",
+      "applicant": "TIMOTHY KINDRAT",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00871",
+      "applicationDate": 1712127600,
+      "addresses": [
+        "1026 EMPRESS AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to construct new townhouses. Concurrent Development Permit No. 000642.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "Application Received",
+          "startDate": 1712127600,
+          "endDate": 1712127600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Application Review by City",
+          "startDate": 1712127600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-04-03 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62372C83-6FD0-4EFD-B510-D94480D75959&folderId=17815C240403085040840704"
+        },
+        {
+          "docName": "2024-04-03 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CA61BA78-E2D0-4A33-AE9A-5908B1573311&folderId=17815C240403085040840704"
+        },
+        {
+          "docName": "2024-04-03 - Plans_Submission_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=64FD77B1-E391-4157-99FE-2A832761C2DB&folderId=17815C240403085040840704"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1712127600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000642",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00421",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
