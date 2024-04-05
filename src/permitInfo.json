@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1712227451,
+  "dateRetrieved": 1712313798,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15668,8 +15668,17 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1711536641,
-      "relatedPermits": []
+      "lastUpdated": 1712314228,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PLM25230",
+          "relatedPermitType": "PLUMBING PERMIT"
+        },
+        {
+          "relatedPermitID": "BLD20688",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "2795 RICHMOND RD",
@@ -17150,11 +17159,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1711609200,
           "endDate": 1712041200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1712127600,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1712227872,
+      "lastUpdated": 1712314228,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -76120,12 +76135,12 @@
           "taskDescription": "",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1704265200,
-          "endDate": null
+          "endDate": 1712214000
         },
         {
           "taskDescription": "",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1712214000,
           "endDate": null
         },
         {
@@ -76178,7 +76193,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712314228,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -77068,7 +77083,7 @@
         "1244 WHARF ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to increase density in conjunction with a Heritage Alteration Permit with Variances application for a two storey addition to an existing building. Concurrent with Heritage Alteration Permit Application No. 00262.",
+      "purpose": "The City is considering a Rezoning application to increase density in conjunction with a Heritage Alteration Permit with Variances application for a two storey addition to an existing building. Concurrent with Heritage Alteration Permit with Variance Application No.00036.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -77130,7 +77145,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712227872,
+      "lastUpdated": 1712314228,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00036",
