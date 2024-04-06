@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1712313798,
+  "dateRetrieved": 1712400213,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4988,6 +4988,31 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "Parcel H Royal Bay South Latoria",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000011",
+      "applicationDate": 1712127600,
+      "addresses": [
+        "Parcel H Royal Bay South Latoria"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable the construction of four apartment buildings and associated site improvements.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/DP000011_Reduced.pdf",
+          "docName": "DP000011_Reduced"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1712400667,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "3700-3771 Producers Way",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -5088,6 +5113,31 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1709705432,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "325 Royal Commons",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPA00003",
+      "applicationDate": 1712041200,
+      "addresses": [
+        "325 Royal Commons"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit Amendment to accommodate 12 additional studio units in Building A.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/documents/DPA00003_ReducedForWebsite.pdf",
+          "docName": "DPA00003_ReducedForWebsite"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1712400667,
       "relatedPermits": []
     },
     {
@@ -8846,6 +8896,12 @@
           "endDate": 1706857200
         },
         {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
           "startDate": null,
@@ -8854,7 +8910,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1706960956,
+      "lastUpdated": 1712400633,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00134",
@@ -9071,6 +9127,12 @@
           "endDate": 1707289200
         },
         {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": null,
@@ -9079,12 +9141,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
-          "taskType": "ADVISORY BODY MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -9103,7 +9159,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1707392951,
+      "lastUpdated": 1712400633,
       "relatedPermits": [
         {
           "relatedPermitID": "HRA00012",
@@ -15545,6 +15601,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1709794800,
+          "endDate": 1712300400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1712300400,
           "endDate": null
         }
       ],
@@ -15563,7 +15625,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1709898561,
+      "lastUpdated": 1712400633,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -17167,9 +17229,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_MARCH 28, 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A7577416-BC2F-4715-B432-CD473B59996B&folderId=02707C240328141506475367"
+        },
+        {
+          "docName": "LANDSCAPE_MARCH 28, 2024-nfp",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=562D3244-94FC-4706-915D-48C8A904ED40&folderId=02707C240328141506475367"
+        },
+        {
+          "docName": "SITE_MARCH 28, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DA0FCD9F-1F18-418E-9CA7-D32BFA72F7AE&folderId=02707C240328141506475367"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1712314228,
+      "lastUpdated": 1712400633,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -77326,6 +77401,76 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "638 CRAIGFLOWER RD",
+      "applicant": "JOHN DIETRICH",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00872",
+      "applicationDate": 1712300400,
+      "addresses": [
+        "638 CRAIGFLOWER RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to convert the existing building from a single- family dwelling to a duplex with suites.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "Application Received",
+          "startDate": 1712300400,
+          "endDate": 1712300400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Application Review by City",
+          "startDate": 1712300400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-04-04 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F1C459AD-2A9B-4363-B8D1-E5CACB621B50&folderId=18843C240405085318227679"
+        },
+        {
+          "docName": "Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0A8341B9-ABEC-4F7C-9337-401BE33D356C&folderId=18843C240405085318227679"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1712300400,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2000 West Park Ln",
