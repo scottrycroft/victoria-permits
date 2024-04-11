@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1712659347,
+  "dateRetrieved": 1712832146,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8898,8 +8898,8 @@
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712559600,
+          "endDate": 1712646000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -8910,7 +8910,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1712400633,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00134",
@@ -9129,8 +9129,8 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712646000,
+          "endDate": 1712646000
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
@@ -9159,7 +9159,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1712400633,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "HRA00012",
@@ -11127,8 +11127,8 @@
         {
           "taskDescription": "meeting date of council for initial consideration of the application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712559600,
+          "endDate": 1712646000
         },
         {
           "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
@@ -11157,7 +11157,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1708602549,
+      "lastUpdated": 1712832574,
       "relatedPermits": []
     },
     {
@@ -11200,8 +11200,8 @@
         {
           "taskDescription": "meeting date of council for initial consideration of the application",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712559600,
+          "endDate": 1712646000
         },
         {
           "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
@@ -11235,7 +11235,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1708602549,
+      "lastUpdated": 1712832574,
       "relatedPermits": []
     },
     {
@@ -19219,7 +19219,13 @@
       "purpose": "Development Variance Permit application to relax the required side yard setbacks in order to install two heat pumps.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1712041200,
+          "endDate": 1712041200
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -19229,12 +19235,20 @@
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/10222-Resthaven-Drive-Plans.pdf"
+        },
+        {
+          "docName": "April 2, 2024 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/36790/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf?handle=41DB574FE68741498DDFA93A2FBD9F2D"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10222-Resthaven-Notice-of-Dev-Variance-Permit-Application.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1711623029,
+      "lastUpdated": 1712832608,
       "relatedPermits": []
     },
     {
@@ -19311,6 +19325,12 @@
           "taskType": "",
           "startDate": 1698044400,
           "endDate": 1698044400
+        },
+        {
+          "taskDescription": "Notice of Zoning Amendment Bylaw",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -19345,12 +19365,16 @@
         {
           "docName": "October 23, 2023 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/32255/13a-Zoning%20_%20DP%20-%202180%20Beacon%20Avenue%20West.pdf"
+        },
+        {
+          "docName": "Notice of Zoning Amendment Bylaw",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2180-Beacon-Ave-W-Notice-of-Zoning-Amendment.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709175109,
+      "lastUpdated": 1712832608,
       "relatedPermits": []
     },
     {
@@ -19507,13 +19531,13 @@
       "purpose": "Development Variance Permit application to reduce the minimum setback to Highway 17 and to increase the allowable area for a home based business located in a detached accessory building in order to legalize a detached accessory building.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Staff Report",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
           "startDate": 1693983600,
           "endDate": 1693983600
         },
         {
-          "taskDescription": "Public notice distributed",
+          "taskDescription": "Notice of Development Variance Permit Application",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -19534,7 +19558,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1709175109,
+      "lastUpdated": 1712832608,
       "relatedPermits": []
     },
     {
@@ -40839,12 +40863,6 @@
         },
         {
           "taskDescription": "",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
@@ -40871,7 +40889,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712832574,
       "relatedPermits": []
     },
     {
@@ -42587,6 +42605,40 @@
         },
         {
           "relatedPermitID": "CLC00328",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "603 PANDORA AVE",
+      "applicant": "ERICA SANGSTER",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00269",
+      "applicationDate": 1712646000,
+      "addresses": [
+        "603 PANDORA AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application for hotel with commercial uses at ground level. CONCURRENT WITH REZONING APPLICATION #00873. REFER TO REZONING FILE FOR ALL DOCUMENTATION.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "Application Received",
+          "startDate": 1712646000,
+          "endDate": 1712646000
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1712646000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00873",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00433",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -67478,20 +67530,14 @@
         },
         {
           "taskDescription": "",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": 1712646000,
+          "endDate": 1712646000
+        },
+        {
+          "taskDescription": "",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1710831600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "Advisory Design Panel (ADP) Meeting",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -67572,7 +67618,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -68903,7 +68949,7 @@
         "2010 STORE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit residential uses, retail, commercial, arts and cultural facilities, high-tech, office, assembly, studio, small-scale commercial agriculture, parks and open space. An OCP amendment is required for density, the addition of residential uses and for height.",
+      "purpose": "The City is considering a Rezoning application to permit an increase in density and a number of land uses including: residential, retail, commercial, arts and cultural facilities, high-tech, office, assembly, studio, small-scale commercial agriculture, parks and open space. A concurrent Official Community Plan (OCP) Amendment is required to increase density, increase building heights and for the location of residential uses.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -69125,7 +69171,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -70879,6 +70925,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1710140400,
+          "endDate": 1712732400
+        },
+        {
+          "taskDescription": "",
           "taskType": "Application Review by City",
           "startDate": 1644908400,
           "endDate": null
@@ -70886,7 +70938,13 @@
         {
           "taskDescription": "",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1710140400,
+          "startDate": 1712732400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "With Applicant",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -70988,10 +71046,18 @@
         {
           "docName": "2024-03-07 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0C55FA38-6490-48C0-86D3-56CCDD27FFC7&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "2024-04-09 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=21FB574B-91FD-4A14-8C49-ABE455823F80&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "2024-04-09 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=65BEFDA6-EF3E-491E-815B-1C0FDB2E9428&folderId=00232C220215094041621090"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -72491,6 +72557,18 @@
           "taskDescription": "",
           "taskType": "With Applicant",
           "startDate": 1709103600,
+          "endDate": 1712646000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1712732400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "With Applicant",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -72536,10 +72614,26 @@
         {
           "docName": "2024-01-09 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E9B82259-7B2A-426D-AAAE-C754DECB3FC1&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-04-09 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=ACDA91D6-349C-4992-9879-FD74A4C8ADE7&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-04-09 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D855C030-0678-455C-BDE4-E7B96C17092D&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-04-09 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=25E050E3-28A3-4871-9238-36031E5862BF&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-04-09 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=61BCFE72-2F40-4B70-80E0-9968BF650050&folderId=32154C220610154226154683"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -76837,6 +76931,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1704783600,
+          "endDate": 1704783600
+        },
+        {
+          "taskDescription": "",
           "taskType": "Application Review by City",
           "startDate": 1702018800,
           "endDate": null
@@ -76849,7 +76949,7 @@
         },
         {
           "taskDescription": "",
-          "taskType": "City Provides Comments to Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -76889,7 +76989,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00260",
@@ -77255,7 +77355,7 @@
         "1885 GOVERNMENT ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for mixed use purpose built residential building with ground floor commercial uses. This application also includes the retention and rehabilitation of an existing building on the site with heritage significance. The proposal requires an amendment to the Official Community Plan. Concurrent with Development Permit Application No. 000641. All items located in the rezoning file.",
+      "purpose": "The City is considering a Rezoning application for mixed use purpose built residential building with ground floor commercial uses. This application also includes the retention and rehabilitation of an existing building on the site with heritage significance. Concurrent with Development Permit Application No. 000641. All items located in the rezoning file.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -77315,7 +77415,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1712832574,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
@@ -77479,6 +77579,85 @@
       "city": "Victoria",
       "lastUpdated": 1712300400,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "603 PANDORA AVE",
+      "applicant": "ERICA SANGSTER",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00873",
+      "applicationDate": 1712646000,
+      "addresses": [
+        "603 PANDORA AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for hotel with commercial uses at ground level. Concurrent with Development Permit Application No. 00269. Refer to rezoning file for all documentation.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "Application Received",
+          "startDate": 1712646000,
+          "endDate": 1712646000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Application Review by City",
+          "startDate": 1712646000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-04-09 - Plans_Submission_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=29A784CA-E6C8-4EB9-B900-7010AA884AEE&folderId=19743C240409110921616581"
+        },
+        {
+          "docName": "Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D9E7E0F8-DDCB-4855-B846-4238493FCCC7&folderId=19743C240409110921616581"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1712646000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00269",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00433",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "2000 West Park Ln",
