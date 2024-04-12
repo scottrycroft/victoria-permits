@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1712832146,
+  "dateRetrieved": 1712918537,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16829,6 +16829,12 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1709794800,
           "endDate": 1709794800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1711090800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -16846,7 +16852,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1711190964,
+      "lastUpdated": 1712918964,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -19331,6 +19337,12 @@
           "taskType": "",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "Draft Zoning Amendment Bylaw No. 2258",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -19369,12 +19381,16 @@
         {
           "docName": "Notice of Zoning Amendment Bylaw",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2180-Beacon-Ave-W-Notice-of-Zoning-Amendment.pdf"
+        },
+        {
+          "docName": "Draft Zoning Amendment Bylaw No. 2258",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2180-Beacon-Ave-West-Draft-Zoning-Amendment-Bylaw-2258.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1712832608,
+      "lastUpdated": 1712919002,
       "relatedPermits": []
     },
     {
@@ -40839,6 +40855,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "Received Revised Plans",
+          "startDate": 1711436400,
+          "endDate": 1712818800
+        },
+        {
+          "taskDescription": "",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1706598000,
           "endDate": null
@@ -40851,14 +40873,14 @@
         },
         {
           "taskDescription": "",
-          "taskType": "Received Revised Plans",
-          "startDate": 1711436400,
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1711522800,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1711522800,
+          "startDate": 1712818800,
           "endDate": null
         },
         {
@@ -40886,10 +40908,18 @@
         {
           "docName": "2024-03-26 - Letter to Concil - Revised.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=232BE3A5-A075-4520-A75C-1A5C752C55FE&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2024-04-05 - Architectural Drawings.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DA53CCA2-BAA3-4741-BB74-C4A7DD4713A5&folderId=17121C230426092831161496"
+        },
+        {
+          "docName": "2024-04-05 - Letter (DP Application).pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4347C7C2-99D3-426B-9DA0-37DB49F8138F&folderId=17121C230426092831161496"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712832574,
+      "lastUpdated": 1712918964,
       "relatedPermits": []
     },
     {
@@ -42640,6 +42670,36 @@
         {
           "relatedPermitID": "CLC00433",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "638 CRAIGFLOWER RD",
+      "applicant": "JOHN DIETRICH",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00270",
+      "applicationDate": 1712818800,
+      "addresses": [
+        "638 CRAIGFLOWER RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance Application to convert the existing building from a single- family dwelling to a duplex with suites. Concurrent with Rezoning Application No. 00872. Refer to rezoning file for all documentation.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "Application Received",
+          "startDate": 1712818800,
+          "endDate": 1712818800
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1712818800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00872",
+          "relatedPermitType": "Rezoning Application"
         }
       ]
     },
@@ -67538,6 +67598,18 @@
           "taskDescription": "",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1710831600,
+          "endDate": 1712818800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "With Applicant",
+          "startDate": 1712818800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -67618,7 +67690,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712832574,
+      "lastUpdated": 1712918964,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -77521,7 +77593,7 @@
         "638 CRAIGFLOWER RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to convert the existing building from a single- family dwelling to a duplex with suites.",
+      "purpose": "The City is considering a Rezoning application to convert the existing building from a single- family dwelling to a duplex with suites. Concurrent with Development Permit with Variance Application No. 00270. Refer to rezoning file for all documentation.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -77577,8 +77649,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712300400,
-      "relatedPermits": []
+      "lastUpdated": 1712918964,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00270",
+          "relatedPermitType": "Development Permit with Variance"
+        }
+      ]
     },
     {
       "primaryStreetName": "603 PANDORA AVE",
