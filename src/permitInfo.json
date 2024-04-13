@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1712918537,
+  "dateRetrieved": 1713005444,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -487,13 +487,25 @@
         },
         {
           "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
@@ -517,7 +529,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1711622932,
+      "lastUpdated": 1713005866,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -12306,12 +12318,18 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1709708400,
-          "endDate": null
+          "endDate": 1712905200
         },
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1709794800,
+          "endDate": 1712905200
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -12330,7 +12348,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1709984955,
+      "lastUpdated": 1713005866,
       "relatedPermits": []
     },
     {
@@ -68845,8 +68863,8 @@
         {
           "taskDescription": "",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": 1689231600,
-          "endDate": 1689231600
+          "startDate": null,
+          "endDate": null
         },
         {
           "taskDescription": "",
@@ -68870,7 +68888,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1712141368,
+      "lastUpdated": 1713005866,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00183",
