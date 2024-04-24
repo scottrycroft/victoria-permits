@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1713868928,
+  "dateRetrieved": 1713955315,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -17103,6 +17103,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1709190000,
+          "endDate": 1713855600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1713855600,
           "endDate": null
         }
       ],
@@ -17125,7 +17131,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1713955745,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -19269,36 +19275,22 @@
       "purpose": "Development Variance Permit application to relax the required side yard setbacks in order to install two heat pumps.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1712041200,
-          "endDate": 1712041200
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1713769200,
+          "endDate": 1713769200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/10222-Resthaven-Drive-Plans.pdf"
-        },
-        {
-          "docName": "April 2, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/36790/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf?handle=41DB574FE68741498DDFA93A2FBD9F2D"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/10222-Resthaven-Notice-of-Dev-Variance-Permit-Application.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1712832608,
+      "lastUpdated": 1713955782,
       "relatedPermits": []
     },
     {
@@ -19715,6 +19707,38 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1708429796,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2461 Beacon Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "e3c37045ff",
+      "applicationDate": 1713955782,
+      "addresses": [
+        "2461 Beacon Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to allow for more than one sign per building face, to allow for two fascia signs to exceed the maximum vertical dimension of 0.6 m, and to allow for a fascia sign to be located less than 2.1 m from the ground.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2461-Beacon-Ave-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1713955782,
       "relatedPermits": []
     },
     {
@@ -24704,8 +24728,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713869355,
-      "relatedPermits": []
+      "lastUpdated": 1713955745,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00874",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000643",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
     },
     {
       "primaryStreetName": "600 DALLAS RD",
@@ -29216,6 +29249,58 @@
         },
         {
           "relatedPermitID": "CLC00421",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "837 BROUGHTON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000643",
+      "applicationDate": 1713855600,
+      "addresses": [
+        "837 BROUGHTON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application for a purpose-built rental building with an at grade live-work unit. Concurrent with Rezoning Application No. 00874. Refer to rezoning file for all documentation.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1713855600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00874",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00437",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -61025,7 +61110,7 @@
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1698303600,
-          "endDate": 1699599600
+          "endDate": 1698303600
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -61245,7 +61330,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1713955745,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00348",
@@ -73393,7 +73478,7 @@
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1697698800,
-          "endDate": 1698908400
+          "endDate": 1697698800
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -73535,7 +73620,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1713955745,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00216",
@@ -77822,6 +77907,76 @@
         },
         {
           "relatedPermitID": "CLC00433",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "837 BROUGHTON ST",
+      "applicant": "GREGORY DAMANT",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00874",
+      "applicationDate": 1713855600,
+      "addresses": [
+        "837 BROUGHTON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for a purpose-built rental building with an at grade live-work unit. Concurrent with Development Permit Application No. 000643. Refer to rezoning file for all documentation.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1713855600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000643",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00437",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
