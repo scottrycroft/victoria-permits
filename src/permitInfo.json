@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1713955315,
+  "dateRetrieved": 1714041731,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -29269,7 +29269,7 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
+          "startDate": 1713942000,
           "endDate": null
         },
         {
@@ -29293,7 +29293,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1713855600,
+      "lastUpdated": 1714042159,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00874",
@@ -41814,7 +41814,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1695811635,
+      "lastUpdated": 1714042159,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00830",
@@ -41827,6 +41827,10 @@
         {
           "relatedPermitID": "CLC00385",
           "relatedPermitType": "Pre-Application (CALUC)"
+        },
+        {
+          "relatedPermitID": "REZ00651",
+          "relatedPermitType": "Rezoning Application"
         }
       ]
     },
@@ -42867,6 +42871,49 @@
           "relatedPermitType": "Rezoning Application"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1721 ADANAC ST",
+      "applicant": "MARK ASHBY",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00271",
+      "applicationDate": 1713942000,
+      "addresses": [
+        "1721 ADANAC ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a six-unit Missing Middle houseplex.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1713942000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1713942000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "516 DISCOVERY ST",
@@ -67098,16 +67145,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0E3677F6-49F6-49D1-ADFD-CCA95EE8DFC8&folderId=12266C210406112350109800"
         },
         {
-          "docName": "2023-01-11 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CB2E297F-7A39-4BEB-9349-8B6EDC6DF2E1&folderId=12266C210406112350109800"
-        },
-        {
           "docName": "23-086.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=64037C231005163329309209&folderId=12266C210406112350109800"
+        },
+        {
+          "docName": "FINAL APPROVED",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CB2E297F-7A39-4BEB-9349-8B6EDC6DF2E1&folderId=12266C210406112350109800"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714042159,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00223",
@@ -73976,7 +74023,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714042159,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00247",
@@ -73989,6 +74036,10 @@
         {
           "relatedPermitID": "CLC00385",
           "relatedPermitType": "Pre-Application (CALUC)"
+        },
+        {
+          "relatedPermitID": "REZ00651",
+          "relatedPermitType": "Rezoning Application"
         }
       ]
     },
@@ -77619,7 +77670,7 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1712646000,
           "endDate": null
         },
         {
@@ -77662,7 +77713,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714042159,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
@@ -77927,7 +77978,7 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
+          "startDate": 1713942000,
           "endDate": null
         },
         {
@@ -77967,9 +78018,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-04-23 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1DBC4D19-7A4C-4B8E-A4CB-132D86A73A90&folderId=24222C240423134735109160"
+        },
+        {
+          "docName": "Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=75E3CDF2-9EE4-4E56-9E05-AAD32AFD3343&folderId=24222C240423134735109160"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1713855600,
+      "lastUpdated": 1714042159,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000643",
