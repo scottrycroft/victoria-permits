@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1714128143,
+  "dateRetrieved": 1714214544,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -29270,30 +29270,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1713942000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.",
-          "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1714114800
         }
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1714042159,
+      "lastUpdated": 1714214973,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00874",
@@ -42889,7 +42871,7 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1713942000,
-          "endDate": null
+          "endDate": 1714114800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
@@ -42921,7 +42903,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714128572,
+      "lastUpdated": 1714214973,
       "relatedPermits": []
     },
     {
@@ -72543,6 +72525,12 @@
           "endDate": 1651734000
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1651734000,
+          "endDate": 1653375600
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1654153200,
@@ -72583,12 +72571,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1705906800,
           "endDate": 1705906800
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1651734000,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -72674,7 +72656,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714214973,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -75073,7 +75055,7 @@
         "1035 RUSSELL ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct eight ground-oriented townhouses. Concurrent with Development Permit with Variance DPV00266",
+      "purpose": "The City is considering a Rezoning application to construct eight ground-oriented townhouses. Concurrent with Development Permit with Variance DPV00266.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75155,7 +75137,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714214973,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00266",
@@ -76737,12 +76719,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1709794800,
-          "endDate": null
+          "endDate": 1714114800
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1714114800,
           "endDate": null
         },
         {
@@ -76806,10 +76788,26 @@
         {
           "docName": "2024-02-09 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=85A5160A-F402-48E3-90BA-933B78F5DBC9&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-04-26 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DA938C89-CB87-4B6B-AF3B-EFD969D4EA31&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-04-26 - List of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DCFAF627-5B9D-437F-87C5-2993BCFCB96D&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-04-26 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=94FBA66A-4294-4826-BA60-B13AA001A8DB&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-04-26 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FA7E08C9-1324-49CC-8E16-7AF374257E7A&folderId=59751C230920092653440323"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714214973,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -77322,6 +77320,12 @@
           "endDate": 1702450800
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1704870000,
+          "endDate": 1704870000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1702450800,
@@ -77334,8 +77338,8 @@
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -77379,7 +77383,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714214973,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
@@ -77840,12 +77844,18 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1712300400,
-          "endDate": null
+          "endDate": 1714114800
         },
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "startDate": 1714114800,
+          "endDate": 1714114800
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1714114800,
           "endDate": null
         },
         {
@@ -77884,7 +77894,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714214973,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00270",
@@ -77988,12 +77998,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1713942000,
-          "endDate": null
+          "endDate": 1714114800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1714114800,
           "endDate": null
         },
         {
@@ -78038,7 +78048,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714042159,
+      "lastUpdated": 1714214973,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000643",
