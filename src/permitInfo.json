@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1714387328,
+  "dateRetrieved": 1714473737,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1898,20 +1898,20 @@
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712559600,
+          "endDate": 1712559600
         },
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1713769200,
+          "endDate": 1713769200
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1713769200,
+          "endDate": 1713769200
         },
         {
           "taskDescription": "",
@@ -1931,7 +1931,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714474168,
       "relatedPermits": []
     },
     {
@@ -2443,6 +2443,10 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=16614C231123114622980420&folderId=16332C231110115426945016"
         },
         {
+          "docName": "1934 Hovey Rd_Architectural Plans REVISED_April 29 2024_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=23563C240429101403270491&folderId=16332C231110115426945016"
+        },
+        {
           "docName": "1934 Hovey Road_Letter of Rationale_Nov 10 2023_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=16614C231123114622991161&folderId=16332C231110115426945016"
         },
@@ -2452,7 +2456,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714474168,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -2780,6 +2784,61 @@
       "documents": [],
       "city": "Central Saanich",
       "lastUpdated": 1706252400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1906 STELLY'S X RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001567",
+      "applicationDate": 1713510000,
+      "addresses": [
+        "1906 STELLY'S X RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit Delegated",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1713510000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1713510000,
       "relatedPermits": []
     },
     {
@@ -11157,14 +11216,14 @@
           "endDate": 1712646000
         },
         {
-          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
-          "taskType": "COUNCIL - THIRD READING",
+          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
+          "taskType": "PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -11183,7 +11242,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1712832574,
+      "lastUpdated": 1714474168,
       "relatedPermits": []
     },
     {
@@ -11230,14 +11289,14 @@
           "endDate": 1712646000
         },
         {
-          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
-          "taskType": "COUNCIL - THIRD READING",
+          "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
+          "taskType": "PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -11261,7 +11320,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1712832574,
+      "lastUpdated": 1714474168,
       "relatedPermits": []
     },
     {
@@ -24779,7 +24838,7 @@
         "1574 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -24796,7 +24855,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1711609200,
+      "lastUpdated": 1714474168,
       "relatedPermits": []
     },
     {
@@ -40366,7 +40425,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1709881200,
-          "endDate": null
+          "endDate": 1713164400
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -40408,7 +40467,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714474168,
       "relatedPermits": []
     },
     {
@@ -42905,6 +42964,62 @@
       "city": "Victoria",
       "lastUpdated": 1714214973,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "837 BROUGHTON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00272",
+      "applicationDate": 1714374000,
+      "addresses": [
+        "837 BROUGHTON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application for a purpose-built rental building with an at grade live-work unit. Concurrent with Rezoning Application No. 00874. Refer to rezoning file for all documentation.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1714374000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00874",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000643",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00437",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "516 DISCOVERY ST",
@@ -77992,7 +78107,7 @@
         "837 BROUGHTON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a purpose-built rental building with an at grade live-work unit. Concurrent with Development Permit Application No. 000643. Refer to rezoning file for all documentation.",
+      "purpose": "The City is considering a Rezoning application for a purpose-built rental building with an at grade live-work unit. Concurrent with Development Permit with Variance Application No. 00272. Refer to rezoning file for all documentation.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -78048,8 +78163,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714214973,
+      "lastUpdated": 1714474168,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00272",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "DP000643",
           "relatedPermitType": "DEVELOPMENT PERMITS"
