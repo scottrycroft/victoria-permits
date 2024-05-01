@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1714473737,
+  "dateRetrieved": 1714574607,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1521,20 +1521,20 @@
         },
         {
           "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1714460400,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1708516171,
+      "lastUpdated": 1714575011,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001425",
@@ -16549,6 +16549,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1706079600,
+          "endDate": 1708671600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1708671600,
           "endDate": null
         }
       ],
@@ -16567,7 +16573,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714575011,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -74714,6 +74720,12 @@
           "endDate": 1697180400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1700636400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -74759,7 +74771,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714575011,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00419",
@@ -75112,12 +75124,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
           "taskType": "Council Meeting - Public Comment",
           "startDate": null,
@@ -75138,12 +75144,20 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA9FB130-4FB9-4EFD-8D90-2DD1B5E04090&folderId=01974C230302120631273092"
         },
         {
+          "docName": "2024-04-09 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0055CC6A-ECA4-4874-9D37-7B440CFA41C3&folderId=01974C230302120631273092"
+        },
+        {
+          "docName": "2024-04-29 - Landscape Plan - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F4349640-754F-4640-BFED-C5807DC42874&folderId=01974C230302120631273092"
+        },
+        {
           "docName": "24-008.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99183C240205121637684799&folderId=01974C230302120631273092"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714575011,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00257",
@@ -76197,7 +76211,7 @@
         "1075 PENDERGAST ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for office, service commercial, and retail use on the second floor.",
+      "purpose": "The City is considering a Rezoning application to allow for office, service commercial, and retail use on the second floor. Concurrent with DVP00288.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -76271,8 +76285,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714575011,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00288",
+          "relatedPermitType": "Development Variance Permit"
+        },
         {
           "relatedPermitID": "CLC00409",
           "relatedPermitType": "Pre-Application (CALUC)"
@@ -77695,16 +77713,16 @@
           "endDate": 1708412400
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1708930800,
+          "endDate": 1711090800
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1711090800,
           "endDate": 1711090800
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1708930800,
-          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -77748,7 +77766,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714575011,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00036",
@@ -77876,6 +77894,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1712127600,
+          "endDate": 1714460400
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1714460400,
           "endDate": null
         },
         {
@@ -77924,7 +77948,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714575011,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
