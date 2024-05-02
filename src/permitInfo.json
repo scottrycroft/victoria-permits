@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1714574607,
+  "dateRetrieved": 1714646558,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5477,6 +5477,39 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "586 Latoria Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ-22-008-RZ000010",
+      "applicationDate": 1650870000,
+      "addresses": [
+        "586 Latoria Road",
+        "588 Latoria Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Joint OCP and Zoning Amendment application to enable the development and construction of a 6-storey multi-unit residential building consisting of 122 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Introduction to Planning and Land Use Committee scheduled for May 6, 2024.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://colwood.civicweb.net/document/195300/",
+          "docName": "RZ-22-008/RZ000010"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1714647010,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "532 Latoria Road",
       "applicant": "",
       "cityApplicationType": "Rezoning",
@@ -5945,7 +5978,7 @@
           "endDate": 1712041200
         },
         {
-          "taskDescription": "1st, 2nd, & 3rd readings scheduled for",
+          "taskDescription": "1st, 2nd, & 3rd readings completed",
           "taskType": "",
           "startDate": 1713769200,
           "endDate": 1713769200
@@ -5962,13 +5995,13 @@
         },
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3391",
-          "docName": "1st, 2nd, & 3rd readings scheduled for April 22, 2024."
+          "docName": "1st, 2nd, & 3rd readings completed April 22, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1713350998,
+      "lastUpdated": 1714647010,
       "relatedPermits": []
     },
     {
@@ -15302,6 +15335,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1709881200,
+          "endDate": 1714546800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1714546800,
           "endDate": null
         }
       ],
@@ -15324,7 +15363,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714646972,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00733",
@@ -16555,6 +16594,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1708671600,
+          "endDate": 1714546800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1714546800,
           "endDate": null
         }
       ],
@@ -16573,7 +16618,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1714575011,
+      "lastUpdated": 1714646972,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -29087,6 +29132,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1714546800,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
@@ -29141,10 +29192,22 @@
         {
           "docName": "2024-03-20 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0FEC0AC7-E9E2-4553-8518-810696D986EF&folderId=62078C230928155731622796"
+        },
+        {
+          "docName": "2024-05-01 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=46C333E7-6185-4FDD-A3B6-4C59ACD158CE&folderId=62078C230928155731622796"
+        },
+        {
+          "docName": "2024-05-01 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E69B2D37-C1E9-44E0-B4B8-B103B4EC9A64&folderId=62078C230928155731622796"
+        },
+        {
+          "docName": "2024-05-01 - Revision List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B89ABA59-4F8B-45A4-BF57-E3C5BECEFFBE&folderId=62078C230928155731622796"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714646972,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00250",
@@ -76779,10 +76842,22 @@
         {
           "docName": "2024-01-08 - Transmittal of Changes.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A6AA2FFD-A428-4FC7-98DC-6D6C0BEA5BF9&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-05-01 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DFAD44DA-114D-4005-B06D-49696791AC4E&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-05-01 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4692275C-FA42-49C2-BC34-6D0A905068B7&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-05-01 - Transmittal of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11463E5E-1BE2-48A7-AF6C-D7F23C468FFD&folderId=53740C230830100501497708"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714646972,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
