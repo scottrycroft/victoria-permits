@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1714732935,
+  "dateRetrieved": 1714819346,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -9516,8 +9516,8 @@
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1714633200,
+          "endDate": 1714633200
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -9558,7 +9558,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1714633200,
+      "lastUpdated": 1714819786,
       "relatedPermits": []
     },
     {
@@ -13732,25 +13732,31 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1676530800,
+          "endDate": 1714460400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1714460400,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "ELEVATION_NOV 28 2022.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C027ECE0-2BA7-4CDD-8837-D158AA25409E&folderId=51164C221128130512166129"
+          "docName": "REVISED_ELEVATIONS_APRIL 30, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=61C48290-F749-47C7-9CBA-AAEFAAE53450&folderId=51164C221128130512166129"
         },
         {
-          "docName": "LANDSCAPE_NOV 28 2022.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E07109C9-496E-4567-BD77-064C6F7EDBEC&folderId=51164C221128130512166129"
+          "docName": "REVISED_LANDSCAPE_APRIL 30, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=149A05F4-CF9D-43A4-AA62-2FB59A7A5FA7&folderId=51164C221128130512166129"
         },
         {
-          "docName": "SITE PLAN_NOV 28 2022.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=89FE772A-5E99-4D86-8B6F-F7DA512BCC5F&folderId=51164C221128130512166129"
+          "docName": "REVISED_SITE_APRIL 30, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=7DDC8D02-CBCF-4FF7-B358-F49264C45C01&folderId=51164C221128130512166129"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714819786,
       "relatedPermits": []
     },
     {
@@ -16991,6 +16997,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1709103600,
+          "endDate": 1714633200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1714719600,
           "endDate": null
         }
       ],
@@ -17013,7 +17025,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714819786,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00751",
@@ -19424,6 +19436,40 @@
         {
           "relatedPermitID": "DPR01066",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "4029 ZINNIA RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00766",
+      "applicationDate": 1714719600,
+      "addresses": [
+        "4029 ZINNIA RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1714719600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00957",
+          "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "DVP00524",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         }
       ]
     },
@@ -41287,6 +41333,12 @@
           "endDate": 1712818800
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1714028400,
+          "endDate": 1714028400
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1706598000,
@@ -41308,12 +41360,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1712818800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -41346,7 +41392,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714819786,
       "relatedPermits": []
     },
     {
@@ -72331,15 +72377,15 @@
           "endDate": 1707462000
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1714028400,
+          "endDate": 1714028400
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1707462000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -72418,7 +72464,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714819786,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00279",
@@ -77462,25 +77508,13 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1702278000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1706684400
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1713423600,
+          "endDate": 1713423600
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -77514,7 +77548,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1714819786,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00416",
