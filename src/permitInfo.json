@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1714992139,
+  "dateRetrieved": 1715078546,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5162,6 +5162,31 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "3341 Betula Pl",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000016",
+      "applicationDate": 1714633200,
+      "addresses": [
+        "3341 Betula Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Natural Hazards (Steeply Sloped) and Environmental Development (Hillside) permit to enable the construction of an accessory building with rooftop pool.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/Permit_DP000016_3341BetulaPl_COMPLETE_2024-05-02.pdf",
+          "docName": "Permit_DP000016_3341BetulaPl_COMPLETE_2024-05-02"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1715079021,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "3554A Ryder Hesjedal Way",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -9445,7 +9470,7 @@
         "291 KING GEORGE TERR"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit for marine shoreline with variances.",
+      "purpose": "This is an application for a development permit for Infill Residential with variances.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -9492,7 +9517,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1710586166,
+      "lastUpdated": 1715078984,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00051",
@@ -43244,35 +43269,10 @@
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Development Permit with Variance application for a purpose-built rental building with an at grade live-work unit. Concurrent with Rezoning Application No. 00874. Refer to rezoning file for all documentation.",
-      "progressSections": [
-        {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.",
-          "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
+      "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1714374000,
+      "lastUpdated": 1715078984,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00874",
@@ -77404,6 +77404,12 @@
           "endDate": 1714633200
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1714978800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -77461,7 +77467,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714733366,
+      "lastUpdated": 1715078984,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
