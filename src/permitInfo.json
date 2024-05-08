@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715078546,
+  "dateRetrieved": 1715164942,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11648,8 +11648,8 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715065200,
+          "endDate": 1715065200
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
@@ -11708,7 +11708,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1710586166,
+      "lastUpdated": 1715165378,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -76851,10 +76851,14 @@
         {
           "docName": "2024-01-26 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=12D82658-EF5F-4A9F-A6B6-369F9E1DB636&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-05-06 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=56DB0979-80A7-4DF8-934F-021C4A0B2A4B&folderId=48037C230809101541209990"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715165378,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00263",
@@ -77458,16 +77462,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=366C4B4F-B855-44B0-B961-27C36827E192&folderId=66971C231018105314442892"
         },
         {
-          "docName": "2024-05-02 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7A5777E7-527A-4325-91BC-8ED30DF82B03&folderId=66971C231018105314442892"
+          "docName": "2024-05-02 - Landscape Plan - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=28928C240507152118079991&folderId=66971C231018105314442892"
         },
         {
-          "docName": "Landscape Plan - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C45F01D9-2272-4044-A976-5966A324F93A&folderId=66971C231018105314442892"
+          "docName": "2024-05-02 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7A5777E7-527A-4325-91BC-8ED30DF82B03&folderId=66971C231018105314442892"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715078984,
+      "lastUpdated": 1715165378,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
@@ -77929,15 +77933,21 @@
           "endDate": 1708498800
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1710918000,
+          "endDate": 1710918000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1708585200,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1710918000,
           "endDate": null
         },
         {
@@ -77976,7 +77986,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715165378,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00267",
@@ -78099,8 +78109,8 @@
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
-          "startDate": 1712646000,
-          "endDate": 1712646000
+          "startDate": 1712732400,
+          "endDate": 1712732400
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
@@ -78154,7 +78164,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714042159,
+      "lastUpdated": 1715165378,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
@@ -78192,14 +78202,20 @@
           "endDate": 1714460400
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1714460400,
+          "endDate": 1714460400
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1714460400,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -78243,7 +78259,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714575011,
+      "lastUpdated": 1715165378,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
