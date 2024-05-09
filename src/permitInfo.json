@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715164942,
+  "dateRetrieved": 1715251322,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -9479,6 +9479,12 @@
           "endDate": 1710399600
         },
         {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -9497,12 +9503,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
-          "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
@@ -9517,7 +9517,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1715078984,
+      "lastUpdated": 1715251758,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00051",
@@ -17569,6 +17569,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1712127600,
+          "endDate": 1715151600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1715151600,
           "endDate": null
         }
       ],
@@ -17587,7 +17593,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715251758,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
