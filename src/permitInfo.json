@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715251322,
+  "dateRetrieved": 1715337730,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5172,7 +5172,7 @@
         "3341 Betula Pl"
       ],
       "status": "ACTIVE",
-      "purpose": "A Natural Hazards (Steeply Sloped) and Environmental Development (Hillside) permit to enable the construction of an accessory building with rooftop pool.",
+      "purpose": "A Natural Hazards (Steeply Sloped) and Environmental (Hillside) Development Permit to enable the construction of an accessory building with rooftop pool.",
       "progressSections": [],
       "documents": [
         {
@@ -5183,7 +5183,33 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1715079021,
+      "lastUpdated": 1715338202,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Lot I J Beachlands",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000025",
+      "applicationDate": 1715151600,
+      "addresses": [
+        "Lot I J Beachlands",
+        "Lot J Beachlands"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Natural Hazards (Steeply Sloped) Development Permit to enable tree removals and grading works.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/Permit_DP000025_LotI%26LotJBeachlands_COMPLETE_2024-05-08.pdf",
+          "docName": "Permit_DP000025_LotI%26LotJBeachlands_COMPLETE_2024-05-08"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1715338202,
       "relatedPermits": []
     },
     {
@@ -5328,6 +5354,12 @@
           "taskType": "",
           "startDate": 1711350000,
           "endDate": 1711350000
+        },
+        {
+          "taskDescription": "1st, 2nd & 3rd reading scheduled for",
+          "taskType": "",
+          "startDate": 1715583600,
+          "endDate": 1715583600
         }
       ],
       "documents": [
@@ -5350,12 +5382,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3389",
           "docName": "Committee recommendation endorsed by Council March 25, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3392",
+          "docName": "1st, 2nd & 3rd reading scheduled for May 13, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1711536678,
+      "lastUpdated": 1715338202,
       "relatedPermits": []
     },
     {
@@ -5767,6 +5803,12 @@
           "taskType": "",
           "startDate": 1708930800,
           "endDate": 1708930800
+        },
+        {
+          "taskDescription": "Adoption scheduled for",
+          "taskType": "",
+          "startDate": 1715583600,
+          "endDate": 1715583600
         }
       ],
       "documents": [
@@ -5789,12 +5831,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3387",
           "docName": "Staff recommendation endorsed by Council February 26, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3392",
+          "docName": "Adoption scheduled for May 13, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709705432,
+      "lastUpdated": 1715338202,
       "relatedPermits": []
     },
     {
@@ -13763,6 +13809,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1714460400,
+          "endDate": 1715238000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1715238000,
           "endDate": null
         }
       ],
@@ -13781,7 +13833,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1714819786,
+      "lastUpdated": 1715338167,
       "relatedPermits": []
     },
     {
@@ -19503,6 +19555,31 @@
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "3838 EPSOM DR",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00767",
+      "applicationDate": 1715238000,
+      "addresses": [
+        "3838 EPSOM DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1715238000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2257 Harbour Road",
@@ -29316,7 +29393,7 @@
         "909 REDFERN ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit application to make changes to the previously approved Development Permit plans.",
+      "purpose": "The City is considering a Development Permit application to make changes to the previously approved Development Permit plans. File transferred to DPV00273.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -29436,8 +29513,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714733366,
+      "lastUpdated": 1715338167,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00273",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "HAP00250",
           "relatedPermitType": "HERITAGE ALTERATION PERMIT"
@@ -30611,6 +30692,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1713337200,
+          "endDate": 1715238000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1715238000,
           "endDate": null
         }
       ],
@@ -30757,7 +30844,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713869355,
+      "lastUpdated": 1715338167,
       "relatedPermits": []
     },
     {
@@ -43291,6 +43378,76 @@
         {
           "relatedPermitID": "CLC00437",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "902 FOUL BAY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00273",
+      "applicationDate": 1715238000,
+      "addresses": [
+        "902 FOUL BAY RD",
+        "907 REDFERN ST",
+        "909 REDFERN ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to make changes to the previously approved Development Permit plans with a variance to landscaping for outdoor parking spaces.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1715238000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000638",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "HAP00250",
+          "relatedPermitType": "HERITAGE ALTERATION PERMIT"
+        },
+        {
+          "relatedPermitID": "DPV00192",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00313",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        },
+        {
+          "relatedPermitID": "REZ00737",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "HAV00022",
+          "relatedPermitType": "Heritage Alteration with Variance"
         }
       ]
     },
@@ -76225,6 +76382,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1709535600,
+          "endDate": 1713423600
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1715238000,
           "endDate": null
         },
         {
@@ -76266,10 +76429,26 @@
         {
           "docName": "2024-02-23 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F1EF7EAF-07B2-40FA-B060-595D78C2DEC6&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-04-18 - Landscape Plans - Bubbled - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=740CCCBB-2175-4303-886C-0A5FC1664FFD&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-04-18 - Landscape Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=67B2AA21-DC30-44D7-8690-C327DCFC154F&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-04-18 - Plans - Bubbled - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EA931A5A-FEFA-46C3-9E90-CD6851065B36&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-04-18 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1462FCED-CE7B-48AD-94F1-C752A8BEEF05&folderId=15938C230421091532521120"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715338167,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
