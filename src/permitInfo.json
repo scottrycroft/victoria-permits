@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715337730,
+  "dateRetrieved": 1715424314,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2840,6 +2840,66 @@
       "city": "Central Saanich",
       "lastUpdated": 1713510000,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2384 ALTA VISTA PL",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001582",
+      "applicationDate": 1715065200,
+      "addresses": [
+        "2384 ALTA VISTA PL"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit w/ Variances",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1715065200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001583",
+          "relatedPermitType": "Subdivision"
+        }
+      ]
     },
     {
       "primaryStreetName": "3510 Wishart Road",
@@ -16829,6 +16889,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1714546800,
+          "endDate": 1715324400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1715324400,
           "endDate": null
         }
       ],
@@ -16847,7 +16913,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1714733366,
+      "lastUpdated": 1715424750,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -19195,7 +19261,7 @@
         "3950 CEDAR HILL RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO ALLOW A 13 STOREY MIXED USE DEVELOPMENT WITH A LIBRARY AT GRADE WITH RENTAL HOUSING ABOVE UNDERGROUND PARKING.",
+      "purpose": "TO REZONE TO ALLOW A MULTI-STOREY MIXED USE TOWER WITH A LIBRARY AT GRADE WITH AFFORDABLE RENTAL HOUSING ABOVE UNDERGROUND PARKING.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -19251,7 +19317,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715424750,
       "relatedPermits": []
     },
     {
@@ -20133,22 +20199,26 @@
       "purpose": "Development Variance Permit application to allow for more than one sign per building face, to allow for two fascia signs to exceed the maximum vertical dimension of 0.6 m, and to allow for a fascia sign to be located less than 2.1 m from the ground.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Council Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715583600,
+          "endDate": 1715583600
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2461-Beacon-Ave-Plans.pdf"
+        },
+        {
+          "docName": "May 13, 2024 Council Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/37764/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf?handle=EE025EAC8B48447AABCCA9CE8E459AEB"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1713955782,
+      "lastUpdated": 1715424788,
       "relatedPermits": []
     },
     {
@@ -25207,6 +25277,42 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1714474168,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "728 LAURENTIAN PL",
+      "applicant": "GLENLYON NORFOLK SCHOOL",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00441",
+      "applicationDate": 1715324400,
+      "addresses": [
+        "728 LAURENTIAN PL",
+        "729 LAURENTIAN PL",
+        "733 LAURENTIAN PL",
+        "724 MADDISON ST",
+        "730 MADDISON ST",
+        "736 MADDISON ST",
+        "830 MADDISON ST",
+        "731 RICHMOND AVE",
+        "735 RICHMOND AVE",
+        "781 RICHMOND AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-05-03 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=28477C240506094851393450&folderId=2S6mex3jF0GVUPOlckCaFA"
+        },
+        {
+          "docName": "2024-05-03 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=28477C240506094851477682&folderId=2S6mex3jF0GVUPOlckCaFA"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1715324400,
       "relatedPermits": []
     },
     {
@@ -69840,15 +69946,15 @@
           "endDate": 1707980400
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1714633200,
+          "endDate": 1714633200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1635490800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -69999,7 +70105,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715424750,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -77784,6 +77890,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": null,
@@ -77792,12 +77904,6 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
-          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         },
@@ -77823,7 +77929,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713523762,
+      "lastUpdated": 1715424750,
       "relatedPermits": []
     },
     {
