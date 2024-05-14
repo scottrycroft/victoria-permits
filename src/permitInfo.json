@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715596948,
+  "dateRetrieved": 1715683333,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11441,14 +11441,14 @@
           "endDate": 1712646000
         },
         {
-          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
-          "taskType": "COUNCIL - THIRD READING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
           "taskType": "PUBLIC HEARING",
+          "startDate": 1715583600,
+          "endDate": 1715583600
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
+          "taskType": "COUNCIL - THIRD READING",
           "startDate": null,
           "endDate": null
         },
@@ -11467,7 +11467,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1714474168,
+      "lastUpdated": 1715683775,
       "relatedPermits": []
     },
     {
@@ -11758,6 +11758,18 @@
           "endDate": 1715065200
         },
         {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": 1715583600,
+          "endDate": 1715583600
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": null,
@@ -11772,12 +11784,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -11814,7 +11820,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1715165378,
+      "lastUpdated": 1715683775,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -19303,6 +19309,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1713250800,
+          "endDate": 1715583600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -19317,7 +19329,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1715424750,
+      "lastUpdated": 1715683775,
       "relatedPermits": []
     },
     {
@@ -27448,11 +27460,11 @@
         "2852 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00768 FOR PROJECT DETAILS. The City is considering a Development Permit application to develop a seven unit townhouse building.",
+      "purpose": "SEE CONCURRENT REZONING APPLICATION #REZ00768 FOR PROJECT DETAILS. The City is considering a Development Permit application to develop a seven unit townhouse building. APPROVED BY COUNCIL MAY 9, 2024",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1614582000,
+      "lastUpdated": 1715683775,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00768",
@@ -41482,7 +41494,7 @@
         "629 PRINCESS AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct a self-storage facility with ground floor commercial space.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a self-storage facility with ground floor commercial space. APPROVED BY COUNCIL MAY 9, 2024",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -41616,7 +41628,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714819786,
+      "lastUpdated": 1715683775,
       "relatedPermits": []
     },
     {
