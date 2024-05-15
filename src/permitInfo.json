@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715683333,
+  "dateRetrieved": 1715769729,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -9633,7 +9633,7 @@
     },
     {
       "primaryStreetName": "2442 EASTDOWNE RD",
-      "applicant": "N/A",
+      "applicant": "HILLEL ARCHITECTURE",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000051",
@@ -9687,9 +9687,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne - Survey.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=99350C240502144834401269&folderId=99294C240502101136118542"
+        }
+      ],
       "city": "Oak Bay",
-      "lastUpdated": 1714819786,
+      "lastUpdated": 1715770171,
       "relatedPermits": []
     },
     {
@@ -11143,12 +11148,6 @@
           "endDate": 1698217200
         },
         {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
-          "startDate": 1699426800,
-          "endDate": 1699426800
-        },
-        {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": 1700636400,
@@ -11214,7 +11213,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1711450143,
+      "lastUpdated": 1715770171,
       "relatedPermits": []
     },
     {
@@ -11399,7 +11398,7 @@
     },
     {
       "primaryStreetName": "2095 GRANITE ST",
-      "applicant": "N/A",
+      "applicant": "THRESHOLD HOUSING SOCIETY",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00047",
@@ -11449,14 +11448,14 @@
         {
           "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
           "taskType": "COUNCIL - THIRD READING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715583600,
+          "endDate": 1715670000
         },
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715583600,
+          "endDate": 1715670000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -11465,9 +11464,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ZON00047 - 2095 Granite St - Survey Plan 2095 Granite Street.jpg",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=5797943F-E58E-485F-9444-F3437F035E5F&folderId=85939C231201161530657212"
+        }
+      ],
       "city": "Oak Bay",
-      "lastUpdated": 1715683775,
+      "lastUpdated": 1715770171,
       "relatedPermits": []
     },
     {
@@ -11516,8 +11520,8 @@
         {
           "taskDescription": "Meeting date for Council to consider 3rd reading of the bylaw.",
           "taskType": "COUNCIL - THIRD READING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715583600,
+          "endDate": 1715670000
         },
         {
           "taskDescription": "Meeting date for council to hold the Public Hearing and to hear from the applicant and the public.",
@@ -11545,7 +11549,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1714474168,
+      "lastUpdated": 1715770171,
       "relatedPermits": []
     },
     {
@@ -11576,12 +11580,6 @@
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
           "startDate": null,
           "endDate": null
         },
@@ -11630,7 +11628,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1707807600,
+      "lastUpdated": 1715770171,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00138",
@@ -11670,12 +11668,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
@@ -11720,7 +11712,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1708084669,
+      "lastUpdated": 1715770171,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00007",
@@ -11776,12 +11768,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
@@ -11820,7 +11806,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1715683775,
+      "lastUpdated": 1715770171,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -11856,12 +11842,6 @@
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date to provide information to community residents on the application, as hosted by the applicant.",
-          "taskType": "APPLICANT NEIGHBOUR INFO MTG",
           "startDate": null,
           "endDate": null
         },
@@ -11910,7 +11890,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1714633200,
+      "lastUpdated": 1715770171,
       "relatedPermits": []
     },
     {
@@ -17819,8 +17799,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715770171,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD20740",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        },
         {
           "relatedPermitID": "SUB00925",
           "relatedPermitType": "SUBDIVISION"
@@ -18335,8 +18319,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715770171,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD20741",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        },
         {
           "relatedPermitID": "SUB00940",
           "relatedPermitType": "SUBDIVISION"
@@ -19827,46 +19815,10 @@
       "purpose": "Zoning Amendment and Development Permit application for a 5 storey 140 unit multi-family residential development with surface and underground parking.",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Application",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1646636400,
-          "endDate": 1646636400
-        },
-        {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1673852400,
-          "endDate": 1673852400
-        },
-        {
-          "taskDescription": "APC Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1676962800,
-          "endDate": 1676962800
-        },
-        {
-          "taskDescription": "Council Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1698044400,
-          "endDate": 1698044400
-        },
-        {
-          "taskDescription": "Notice of Zoning Amendment Bylaw",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Draft Zoning Amendment Bylaw No. 2258",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715583600,
+          "endDate": 1715583600
         }
       ],
       "documents": [
@@ -19881,40 +19833,12 @@
         {
           "docName": "Revised Plans (January 2023)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2180-Beacon-Ave-W-Revised-Plans-Jan-2023-1.pdf"
-        },
-        {
-          "docName": "Notice of New Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2180-Beacon-Ave-W-New-Application-Notice-1.pdf"
-        },
-        {
-          "docName": "March 7, 2022 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/15399/Official/"
-        },
-        {
-          "docName": "January 16, 2023 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/24858/Zoning/"
-        },
-        {
-          "docName": "February 21, 2023 APC Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/26212/#page=6"
-        },
-        {
-          "docName": "October 23, 2023 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/32255/13a-Zoning%20_%20DP%20-%202180%20Beacon%20Avenue%20West.pdf"
-        },
-        {
-          "docName": "Notice of Zoning Amendment Bylaw",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2180-Beacon-Ave-W-Notice-of-Zoning-Amendment.pdf"
-        },
-        {
-          "docName": "Draft Zoning Amendment Bylaw No. 2258",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2180-Beacon-Ave-West-Draft-Zoning-Amendment-Bylaw-2258.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1712919002,
+      "lastUpdated": 1715770207,
       "relatedPermits": []
     },
     {
@@ -43501,7 +43425,7 @@
     },
     {
       "primaryStreetName": "902 FOUL BAY RD",
-      "applicant": "N/A",
+      "applicant": "LIV MCMAHON",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00273",
@@ -43515,15 +43439,9 @@
       "purpose": "The City is considering a Development Permit with Variance application to make changes to the previously approved Development Permit plans with a variance to landscaping for outdoor parking spaces.",
       "progressSections": [
         {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1715670000,
           "endDate": null
         },
         {
@@ -43539,9 +43457,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-05-01 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=474B8D54-A73F-45EB-89C3-FD24918484A5&folderId=29864C240509160540558454"
+        },
+        {
+          "docName": "2024-05-01 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16C536BC-7BFC-43A1-8FE0-79722342358C&folderId=29864C240509160540558454"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1715238000,
+      "lastUpdated": 1715770171,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000638",
@@ -77599,7 +77526,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1710486000,
-          "endDate": null
+          "endDate": 1715670000
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -77640,10 +77567,22 @@
         {
           "docName": "2024-01-16 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8ECC6D7F-3AE1-42CF-8685-4F9DA9399606&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-05-14 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2146FD30-1E26-4B2A-BF66-5399E51E81B7&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-05-14 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=488D5E0B-923D-479C-AFA4-86CA5DF0A962&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-05-14 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1AF12D74-A4C1-48CC-B09B-42A1215E4FB8&folderId=61367C230926151425966861"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715770171,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
