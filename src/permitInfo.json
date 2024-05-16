@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715769729,
+  "dateRetrieved": 1715856125,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2839,6 +2839,73 @@
       "documents": [],
       "city": "Central Saanich",
       "lastUpdated": 1713510000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1183 VERDIER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001572",
+      "applicationDate": 1713855600,
+      "addresses": [
+        "1183 VERDIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Text Amendment",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1713855600,
       "relatedPermits": []
     },
     {
@@ -9528,13 +9595,13 @@
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1709622000,
-          "endDate": null
+          "endDate": 1715756400
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715756400,
+          "endDate": 1715756400
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
@@ -9562,7 +9629,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1714733366,
+      "lastUpdated": 1715856565,
       "relatedPermits": []
     },
     {
@@ -12698,6 +12765,12 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1715583600,
+          "endDate": 1715583600
+        },
+        {
+          "taskDescription": "Public Hearing scheduled to hear presentations for application",
+          "taskType": "PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         }
@@ -12717,7 +12790,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715856565,
       "relatedPermits": []
     },
     {
@@ -19590,7 +19663,7 @@
     },
     {
       "primaryStreetName": "4029 ZINNIA RD",
-      "applicant": "N/A",
+      "applicant": "RUSS COLLINS ZEBRA DESIGN",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00766",
@@ -19599,18 +19672,24 @@
         "4029 ZINNIA RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-4 TO RS-6 TO CREATE 1 ADDITIONAL LOT FOR SINGLE FAMILY DWELLING USE RESULTING IN A TOTAL OF 2 LOTS. VARIANCES REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1715756400,
+          "endDate": 1715756400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1715756400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1714719600,
+      "lastUpdated": 1715856565,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00957",
@@ -19638,13 +19717,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1715756400,
+          "endDate": 1715756400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1715756400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1715238000,
+      "lastUpdated": 1715856565,
       "relatedPermits": []
     },
     {
@@ -71803,21 +71888,21 @@
           "endDate": 1712732400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1644908400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1712732400,
-          "endDate": null
+          "endDate": 1712818800
         },
         {
           "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
-          "startDate": null,
+          "startDate": 1715670000,
+          "endDate": 1715670000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1644908400,
           "endDate": null
         },
         {
@@ -71936,7 +72021,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714733366,
+      "lastUpdated": 1715856565,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -77385,7 +77470,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1714114800,
-          "endDate": null
+          "endDate": 1715756400
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -77467,7 +77552,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714214973,
+      "lastUpdated": 1715856565,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -77529,6 +77614,12 @@
           "endDate": 1715670000
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1715756400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -77582,7 +77673,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715770171,
+      "lastUpdated": 1715856565,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
