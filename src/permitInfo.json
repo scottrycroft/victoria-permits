@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1715856125,
+  "dateRetrieved": 1715942538,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1087,13 +1087,19 @@
         {
           "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1715842800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1706183329,
+      "lastUpdated": 1715942980,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001272",
@@ -17779,6 +17785,45 @@
       ]
     },
     {
+      "primaryStreetName": "970 MCKENZIE AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01067",
+      "applicationDate": 1715842800,
+      "addresses": [
+        "970 MCKENZIE AVE",
+        "974 MCKENZIE AVE",
+        "4015 SAANICH RD",
+        "4017 SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1715842800,
+          "endDate": 1715842800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1715842800,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1715842800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00768",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -19733,6 +19778,45 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "970 MCKENZIE AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00768",
+      "applicationDate": 1715842800,
+      "addresses": [
+        "970 MCKENZIE AVE",
+        "974 MCKENZIE AVE",
+        "4015 SAANICH RD",
+        "4017 SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1715842800,
+          "endDate": 1715842800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1715842800,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1715842800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01067",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "2257 Harbour Road",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -20224,6 +20308,12 @@
           "taskType": "",
           "startDate": 1715583600,
           "endDate": 1715583600
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -20234,12 +20324,16 @@
         {
           "docName": "May 13, 2024 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/37764/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf?handle=EE025EAC8B48447AABCCA9CE8E459AEB"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2461-Beacon-Ave-Notice-of-DVP-Application.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1715424788,
+      "lastUpdated": 1715943020,
       "relatedPermits": []
     },
     {
@@ -71706,18 +71800,12 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1713423600,
+          "endDate": 1713423600
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
-          "taskType": "Council Meeting - Public Comment",
           "startDate": null,
           "endDate": null
         }
@@ -71769,7 +71857,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715942980,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000639",
@@ -75129,18 +75217,12 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712818800,
+          "endDate": 1712818800
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
-          "taskType": "Council Meeting - Public Comment",
           "startDate": null,
           "endDate": null
         }
@@ -75224,7 +75306,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1715942980,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00236",
@@ -78787,6 +78869,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1714114800,
+          "endDate": 1715842800
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1715842800,
           "endDate": null
         },
         {
@@ -78831,7 +78919,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714474168,
+      "lastUpdated": 1715942980,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
@@ -80282,7 +80370,7 @@
         "38 HELMCKEN RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The application proposes to a new Comprehesive Development (CD) Zone to construct a six storey mixed-use development that includes approximately 61 market rental units, and ground floor commercial space for office or retail use. The proposal also includes an amendment to the Official Community Plan to change the existing land use designation from Neighbourhood Mixed Use to Neighbourhood Centre.",
+      "purpose": "The application proposes to a new Comprehensive Development (CD) Zone to construct a six storey mixed-use development that includes approximately 61 market rental units, and ground floor commercial space for office or retail use. The proposal also includes an amendment to the Official Community Plan to change the existing land use designation from Neighbourhood Mixed Use to Neighbourhood Centre.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -80304,7 +80392,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1704541769,
+      "lastUpdated": 1715943017,
       "relatedPermits": []
     },
     {
@@ -80428,6 +80516,46 @@
       "withApplicantDays": null,
       "city": "View Royal",
       "lastUpdated": 1704541769,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "346 Island Highway",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ 2024-01",
+      "applicationDate": 1715943017,
+      "addresses": [
+        "346 Island Highway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The application proposes a multifamily development for a 94 unit building.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Letter to Mayor & Council [PDF - 1 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2024-01 LMC.pdf"
+        },
+        {
+          "docName": "2024 04 05 Plans [PDF - 5 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2024-01 Plans.pdf"
+        },
+        {
+          "docName": "",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2024-01 LMC.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1715943017,
       "relatedPermits": []
     }
   ]
