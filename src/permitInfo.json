@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1716288131,
+  "dateRetrieved": 1716374538,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11514,7 +11514,7 @@
         },
         {
           "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskType": "*PUBLIC HEARING",
           "startDate": 1715583600,
           "endDate": 1715583600
         },
@@ -11544,7 +11544,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1716374984,
       "relatedPermits": []
     },
     {
@@ -11598,7 +11598,7 @@
         },
         {
           "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskType": "*PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -11622,7 +11622,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1716374984,
       "relatedPermits": []
     },
     {
@@ -11676,7 +11676,7 @@
         },
         {
           "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskType": "*PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -11701,7 +11701,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1716374984,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00138",
@@ -11760,7 +11760,7 @@
         },
         {
           "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskType": "*PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -11785,7 +11785,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1716374984,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00007",
@@ -11854,7 +11854,7 @@
         },
         {
           "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskType": "*PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -11879,7 +11879,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1716374984,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -11938,7 +11938,7 @@
         },
         {
           "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
-          "taskType": "PUBLIC HEARING",
+          "taskType": "*PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -11963,7 +11963,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1716374984,
       "relatedPermits": []
     },
     {
@@ -16359,6 +16359,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1688713200,
+          "endDate": 1716274800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1716274800,
           "endDate": null
         }
       ],
@@ -16373,7 +16379,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1716374984,
       "relatedPermits": []
     },
     {
@@ -43544,6 +43550,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1714028400,
+          "endDate": 1716274800
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1716274800,
           "endDate": null
         },
         {
@@ -43570,7 +43582,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714214973,
+      "lastUpdated": 1716374984,
       "relatedPermits": []
     },
     {
@@ -72108,10 +72120,18 @@
         {
           "docName": "2024-04-09 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=65BEFDA6-EF3E-491E-815B-1C0FDB2E9428&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "2024-05-21 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B057460E-E607-4165-B351-1BCBB6E43AD4&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "2024-05-21 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FE0E5F82-3156-4F6A-A044-31BF0FA01482&folderId=00232C220215094041621090"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715856565,
+      "lastUpdated": 1716374984,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -77659,7 +77679,7 @@
         "50 GOVERNMENT ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to increase the density and allow construction of an approximately four storey multiple dwelling building. Concurrent with DPV00251.",
+      "purpose": "The City is considering a Rezoning application to increase the density and allow construction of an approximately four-storey multiple dwelling building. Concurrent with DPV00251.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -77757,7 +77777,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715856565,
+      "lastUpdated": 1716374984,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
