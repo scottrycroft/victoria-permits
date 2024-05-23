@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1716374538,
+  "dateRetrieved": 1716460938,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16364,22 +16364,22 @@
         {
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
-          "startDate": 1716274800,
+          "startDate": 1715670000,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "ELEVATIONS_APR 17 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AB39DDFE-FD68-4C16-932B-F1F8885B4B89&folderId=91584C230417092949045337"
+          "docName": "REVISED ELEVATIONS PLAN_MAY 14 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=522FBB52-6AD1-453B-AF58-F67D6CA83746&folderId=91584C230417092949045337"
         },
         {
-          "docName": "SITE PLAN_APR 17 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9974DEBA-566C-4F5A-AD51-855A58CD663E&folderId=91584C230417092949045337"
+          "docName": "REVISED SITE PLAN_MAY 14 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=93A735C0-6DCC-4548-8ADB-F35EE18021B6&folderId=91584C230417092949045337"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1716374984,
+      "lastUpdated": 1716461380,
       "relatedPermits": []
     },
     {
@@ -43192,6 +43192,12 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1715929200,
+          "endDate": 1716361200
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1716361200,
           "endDate": null
         },
         {
@@ -43222,7 +43228,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1716461380,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -71868,10 +71874,14 @@
         {
           "docName": "2024.-02-26 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D9B9B13A-D5FE-4D7B-8B0C-584B9886F130&folderId=98234C220208110621041694"
+        },
+        {
+          "docName": "24-041.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=33922C240522153754827081&folderId=98234C220208110621041694"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715942980,
+      "lastUpdated": 1716461380,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000639",
@@ -72014,6 +72024,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -72131,7 +72147,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716374984,
+      "lastUpdated": 1716461380,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
