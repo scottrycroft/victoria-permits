@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1716806539,
+  "dateRetrieved": 1716892946,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11645,6 +11645,18 @@
           "endDate": 1707807600
         },
         {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": 1714114800,
+          "endDate": 1716793200
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -11657,20 +11669,8 @@
           "endDate": null
         },
         {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
-          "taskType": "*COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -11701,7 +11701,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716374984,
+      "lastUpdated": 1716893389,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00138",
@@ -11831,8 +11831,8 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1716361200,
+          "endDate": 1716361200
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
@@ -11879,7 +11879,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716374984,
+      "lastUpdated": 1716893389,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -16365,6 +16365,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1715670000,
+          "endDate": 1716793200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1716793200,
           "endDate": null
         }
       ],
@@ -16379,7 +16385,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1716461380,
+      "lastUpdated": 1716893389,
       "relatedPermits": []
     },
     {
@@ -25434,6 +25440,33 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1715324400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2601 AVEBURY AVE",
+      "applicant": "JIM MANN",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00442",
+      "applicationDate": 1716793200,
+      "addresses": [
+        "2601 AVEBURY AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-05-22 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=33848C240522130324305145&folderId=pxBpmhFheUGfKfreNWd65A"
+        },
+        {
+          "docName": "2024-05-22 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=33848C240522130324364517&folderId=pxBpmhFheUGfKfreNWd65A"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1716793200,
       "relatedPermits": []
     },
     {
@@ -39249,11 +39282,11 @@
         "225 RUSSELL ST"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE REZ#00801 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to reduce the number of vehicle parking spaces from 8 to 6.",
+      "purpose": "SEE REZ#00801 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to reduce the number of vehicle parking spaces from 8 to 6. Approved by Council May 23, 2024",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1639378800,
+      "lastUpdated": 1716893389,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00801",
@@ -42130,15 +42163,21 @@
           "endDate": 1695970800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1689318000,
+          "endDate": 1716793200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1687762800,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1689318000,
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1716793200,
           "endDate": null
         },
         {
@@ -42166,10 +42205,18 @@
         {
           "docName": "2023-09-08 -Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F68E5079-4738-4796-AAC2-67F1E7269F0B&folderId=34832C230623090303099674"
+        },
+        {
+          "docName": "2024-05-27 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0619F3FB-1677-42C8-B85C-C3E80740631E&folderId=34832C230623090303099674"
+        },
+        {
+          "docName": "2024-05-27 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90C42255-19E9-44F8-9251-45FA7C79FBFF&folderId=34832C230623090303099674"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1716893389,
       "relatedPermits": []
     },
     {
@@ -65751,6 +65798,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
@@ -65822,7 +65875,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1716893389,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
