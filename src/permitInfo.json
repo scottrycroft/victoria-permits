@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1716892946,
+  "dateRetrieved": 1716979325,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12796,8 +12796,13 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1715856565,
-      "relatedPermits": []
+      "lastUpdated": 1716979765,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD20762",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "4444 NARVAEZ CRES",
@@ -13898,7 +13903,7 @@
         "4077 EBONY TERR"
       ],
       "status": "ACTIVE",
-      "purpose": "**GARDEN SUITE** TO CONSTRUCT A NEW GARDEN SUITE ON A MEDIUM LOT. VARIANCES REQUESTED FOR SEPARATION SPACE.",
+      "purpose": "**GARDEN SUITE** TO CONSTRUCT A NEW GARDEN SUITE ON A MEDIUM LOT. VARIANCE REQUESTED FOR SEPARATION SPACE.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -13940,6 +13945,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1715238000,
+          "endDate": 1716879600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1716879600,
           "endDate": null
         }
       ],
@@ -13958,7 +13969,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1715338167,
+      "lastUpdated": 1716979765,
       "relatedPermits": []
     },
     {
@@ -42169,15 +42180,27 @@
           "endDate": 1716793200
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1716793200,
+          "endDate": 1716879600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1687762800,
           "endDate": null
         },
         {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1716793200,
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1716879600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -42216,7 +42239,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716893389,
+      "lastUpdated": 1716979765,
       "relatedPermits": []
     },
     {
@@ -78884,15 +78907,21 @@
           "endDate": 1712646000
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1715756400,
+          "endDate": 1715756400
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1712646000,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1715756400,
           "endDate": null
         },
         {
@@ -78931,7 +78960,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1716979765,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
