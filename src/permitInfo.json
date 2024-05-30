@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1716979325,
+  "dateRetrieved": 1717065730,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2237,6 +2237,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "WITH APPLICANT",
+          "startDate": 1709276400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
           "startDate": null,
           "endDate": null
@@ -2285,7 +2291,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1717066175,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001482",
@@ -9771,6 +9777,72 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2101 SUTHERLAND RD",
+      "applicant": "WHITE WOLF HOMES",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000052",
+      "applicationDate": 1716966000,
+      "addresses": [
+        "2101 SUTHERLAND RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit with variances.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1716966000,
+          "endDate": 1716966000
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1716966000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ZON00053",
+          "relatedPermitType": "ZONING BYLAW AMENDMENT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -11967,6 +12039,78 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2101 SUTHERLAND RD",
+      "applicant": "WHITE WOLF",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00053",
+      "applicationDate": 1716966000,
+      "addresses": [
+        "2101 SUTHERLAND RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1716966000,
+          "endDate": 1716966000
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1716966000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000052",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "640 BEAVER LAKE RD",
       "applicant": "CALID SERVICES LTD.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -13894,7 +14038,7 @@
     },
     {
       "primaryStreetName": "4077 EBONY TERR",
-      "applicant": "BEN HE",
+      "applicant": "JAVA DESIGNS",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01015",
@@ -13951,7 +14095,7 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1716879600,
-          "endDate": null
+          "endDate": 1716966000
         }
       ],
       "documents": [
@@ -13969,7 +14113,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1716979765,
+      "lastUpdated": 1717066175,
       "relatedPermits": []
     },
     {
@@ -17809,7 +17953,7 @@
     },
     {
       "primaryStreetName": "970 MCKENZIE AVE",
-      "applicant": "N/A",
+      "applicant": "CHRISTINE LINTOTTT ARCHITETT I",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01067",
@@ -17838,7 +17982,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1715842800,
+      "lastUpdated": 1717066175,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00768",
@@ -20111,7 +20255,7 @@
       "purpose": "Development Permit and Zoning Amendment application for a 60-unit multi-family apartment building development with a mix of underground and above-ground parking.",
       "progressSections": [
         {
-          "taskDescription": "",
+          "taskDescription": ".",
           "taskType": "",
           "startDate": 1705906800,
           "endDate": 1705906800
@@ -20138,7 +20282,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1710326974,
+      "lastUpdated": 1717066212,
       "relatedPermits": []
     },
     {
@@ -20327,36 +20471,22 @@
       "purpose": "Development Variance Permit application to allow for more than one sign per building face, to allow for two fascia signs to exceed the maximum vertical dimension of 0.6 m, and to allow for a fascia sign to be located less than 2.1 m from the ground.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1715583600,
-          "endDate": 1715583600
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1716793200,
+          "endDate": 1716793200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2461-Beacon-Ave-Plans.pdf"
-        },
-        {
-          "docName": "May 13, 2024 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/37764/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf?handle=EE025EAC8B48447AABCCA9CE8E459AEB"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2461-Beacon-Ave-Notice-of-DVP-Application.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1715943020,
+      "lastUpdated": 1717066212,
       "relatedPermits": []
     },
     {
@@ -25478,6 +25608,38 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1716793200,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1620 BLANSHARD ST",
+      "applicant": "GREG DAMANT",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00443",
+      "applicationDate": 1716966000,
+      "addresses": [
+        "1620 BLANSHARD ST",
+        "741 FISGARD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-05-27 - Landscape Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35399C240528085846517322&folderId=34981C240527160438196286"
+        },
+        {
+          "docName": "2024-05-27 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35399C240528085846586653&folderId=34981C240527160438196286"
+        },
+        {
+          "docName": "2024-05-27 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35399C240528085846649143&folderId=34981C240527160438196286"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1716966000,
       "relatedPermits": []
     },
     {
