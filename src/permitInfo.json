@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1717152629,
+  "dateRetrieved": 1717238540,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11871,7 +11871,7 @@
     },
     {
       "primaryStreetName": "291 KING GEORGE TERR",
-      "applicant": "N/A",
+      "applicant": "CHRISTOPHER DEVELOPMENTS INC",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00051",
@@ -11951,7 +11951,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716893389,
+      "lastUpdated": 1717238990,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -11961,7 +11961,7 @@
     },
     {
       "primaryStreetName": "2442 EASTDOWNE RD",
-      "applicant": "N/A",
+      "applicant": "HILLEL ARCHITECTURE INC",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00052",
@@ -12035,7 +12035,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716374984,
+      "lastUpdated": 1717238990,
       "relatedPermits": []
     },
     {
@@ -14096,6 +14096,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1716879600,
           "endDate": 1716966000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -14113,7 +14119,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1717066175,
+      "lastUpdated": 1717238990,
       "relatedPermits": []
     },
     {
@@ -17980,9 +17986,26 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_MAY 16 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=29E2206E-B2A2-4A4D-9A76-B33636B56578&folderId=19848C240516154355767522"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_MAY 16 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8DB6309E-A03D-4420-AEF6-C4742086E4B1&folderId=19848C240516154355767522"
+        },
+        {
+          "docName": "SHADOW STUDY_MAY 16 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6F886B09-ABA0-40E8-A21C-A566D8DBA95F&folderId=19848C240516154355767522"
+        },
+        {
+          "docName": "SITE PLAN COLOR_MAY 16 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DAA6F521-4DF5-4E53-A0F3-66C5EB88D604&folderId=19848C240516154355767522"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1717153070,
+      "lastUpdated": 1717238990,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00768",
@@ -78680,10 +78703,26 @@
         {
           "docName": "2024-02-16 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=ADCD3A52-BF28-4AC7-98A8-C77745CA13DE&folderId=03487C240216120905422970"
+        },
+        {
+          "docName": "2024-05-31 -  Architectural - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6295F674-78D2-4BFB-A162-2FC06E7CD9DA&folderId=03487C240216120905422970"
+        },
+        {
+          "docName": "2024-05-31 - Landscape -  Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=339BB24B-4403-4325-8800-7815CD966846&folderId=03487C240216120905422970"
+        },
+        {
+          "docName": "2024-05-31 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C52C7C08-8161-43BE-B07A-B9F2F2AD7E13&folderId=03487C240216120905422970"
+        },
+        {
+          "docName": "2024-05-31 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=611A0F11-5DDE-4270-8C6F-9335B8CB51D9&folderId=03487C240216120905422970"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715165378,
+      "lastUpdated": 1717238990,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00267",
