@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1717411364,
+  "dateRetrieved": 1717497734,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20061,6 +20061,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "9667 Fifth Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "1c75651df7",
+      "applicationDate": 1717498217,
+      "addresses": [
+        "9667 Fifth Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit and Development Variance Permit application to construct an 8-unit townhouse development.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1717498217,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "9522 Lochside Drive",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -20094,6 +20126,38 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1711623029,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "10232 Summerset Place",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "4e78ca803d",
+      "applicationDate": 1717498217,
+      "addresses": [
+        "10232 Summerset Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to relax the minimum natural boundary setback on the site in order to renovate an existing building on the property.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10232-Summerset-Place-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1717498217,
       "relatedPermits": []
     },
     {
@@ -20471,13 +20535,13 @@
       "documents": [
         {
           "docName": "Plans",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-Plans.pdf"
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-Plans-1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1708429796,
+      "lastUpdated": 1717498217,
       "relatedPermits": []
     },
     {
@@ -42383,12 +42447,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -42424,7 +42482,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716979765,
+      "lastUpdated": 1717498178,
       "relatedPermits": []
     },
     {
@@ -42836,15 +42894,15 @@
           "endDate": 1702537200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1695279600,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1702537200,
+          "endDate": 1715583600
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1695279600,
           "endDate": null
         },
         {
@@ -42883,7 +42941,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1717498178,
       "relatedPermits": []
     },
     {
@@ -43211,15 +43269,15 @@
           "endDate": 1710918000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1700636400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1710918000,
+          "endDate": 1713942000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1700636400,
           "endDate": null
         },
         {
@@ -43264,7 +43322,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1717498178,
       "relatedPermits": []
     },
     {
@@ -71840,15 +71898,15 @@
           "endDate": 1701241200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1643180400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1708930800,
+          "endDate": 1712732400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1643180400,
           "endDate": null
         },
         {
@@ -71895,7 +71953,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1717498178,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00255",
@@ -73063,16 +73121,16 @@
           "endDate": 1707462000
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1707462000,
+          "endDate": 1708412400
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1714028400,
           "endDate": 1714028400
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1707462000,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -73150,7 +73208,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714819786,
+      "lastUpdated": 1717498178,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00279",
@@ -78659,21 +78717,21 @@
           "endDate": 1710918000
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1710918000,
+          "endDate": 1717138800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1708585200,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1710918000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1717398000,
           "endDate": null
         },
         {
@@ -78722,7 +78780,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1717238990,
+      "lastUpdated": 1717498178,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00267",
@@ -79199,14 +79257,20 @@
           "endDate": 1715842800
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1715842800,
+          "endDate": 1715842800
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1715842800,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -79246,7 +79310,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715942980,
+      "lastUpdated": 1717498178,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
