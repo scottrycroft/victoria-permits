@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1717584126,
+  "dateRetrieved": 1717670522,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -39688,21 +39688,21 @@
       ]
     },
     {
-      "primaryStreetName": "1702 QUADRA ST",
+      "primaryStreetName": "1708 QUADRA ST",
       "applicant": "N/A",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00193",
       "applicationDate": 1640329200,
       "addresses": [
-        "1702 QUADRA ST"
+        "1708 QUADRA ST"
       ],
       "status": "ACTIVE",
       "purpose": "SEE REZ00806 FOR PROJECT INFORMATION. The City is considering a Development Permit with Variance application concurrent with rezoning application to retain the existing two-storey building façade and construct an 11-storey building consisting of ground floor commercial and residential above.",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1640329200,
+      "lastUpdated": 1717670964,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
@@ -71359,6 +71359,18 @@
           "endDate": 1715929200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1715929200,
+          "endDate": 1717570800
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1717570800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -71498,7 +71510,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1717584579,
+      "lastUpdated": 1717670964,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -71749,7 +71761,8 @@
       "folderNumber": "REZ00806",
       "applicationDate": 1640329200,
       "addresses": [
-        "1702 QUADRA ST"
+        "1702 QUADRA ST",
+        "1708 QUADRA ST"
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Rezoning application to construct a 13 storey building consisting of ground floor commercial and residential above.",
@@ -71890,7 +71903,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1717670964,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
