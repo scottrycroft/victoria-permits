@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1717670522,
+  "dateRetrieved": 1717756924,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -9486,6 +9486,12 @@
           "endDate": 1712646000
         },
         {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": null,
@@ -9498,12 +9504,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
           "startDate": null,
@@ -9512,7 +9512,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1712832574,
+      "lastUpdated": 1717757359,
       "relatedPermits": [
         {
           "relatedPermitID": "HRA00012",
@@ -9691,6 +9691,12 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
+          "startDate": 1715583600,
+          "endDate": 1715583600
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -9713,12 +9719,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
           "startDate": null,
@@ -9727,7 +9727,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1715251758,
+      "lastUpdated": 1717757359,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00051",
@@ -11932,6 +11932,12 @@
           "endDate": 1716361200
         },
         {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": null,
@@ -11940,12 +11946,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
-          "taskType": "*COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -11976,7 +11976,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1717238990,
+      "lastUpdated": 1717757359,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -13063,13 +13063,13 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1663138800,
-          "endDate": null
+          "endDate": 1717657200
         },
         {
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1666076400,
-          "endDate": null
+          "endDate": 1717657200
         },
         {
           "taskDescription": "Applicant has requested application be put on hold",
@@ -13080,7 +13080,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1717757359,
       "relatedPermits": [
         {
           "relatedPermitID": "ALR00038",
