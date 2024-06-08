@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1717756924,
+  "dateRetrieved": 1717843328,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2917,8 +2917,13 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1713855600,
-      "relatedPermits": []
+      "lastUpdated": 1717843771,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001586",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "2384 ALTA VISTA PL",
@@ -2977,6 +2982,71 @@
         {
           "relatedPermitID": "PL001583",
           "relatedPermitType": "Subdivision"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1183 VERDIER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001586",
+      "applicationDate": 1715324400,
+      "addresses": [
+        "1183 VERDIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1715324400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1183 Verdier_Application Pkg_May 10 2024_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240607160822229929&folderId=24246C240510104124587103"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1715324400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001572",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
         }
       ]
     },
@@ -16562,6 +16632,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1716793200,
+          "endDate": 1717743600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1717743600,
           "endDate": null
         }
       ],
@@ -16576,7 +16652,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1716893389,
+      "lastUpdated": 1717843771,
       "relatedPermits": []
     },
     {
@@ -18946,8 +19022,13 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
-      "relatedPermits": []
+      "lastUpdated": 1717843771,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "LIQ00027",
+          "relatedPermitType": "LIQUOR APPLICATION"
+        }
+      ]
     },
     {
       "primaryStreetName": "3989 SHELBOURNE ST",
@@ -77043,15 +77124,15 @@
           "endDate": 1713423600
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1717743600,
+          "endDate": 1717743600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1715238000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -77106,7 +77187,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715338167,
+      "lastUpdated": 1717843771,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
