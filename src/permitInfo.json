@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1718102531,
+  "dateRetrieved": 1718188934,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -9558,8 +9558,8 @@
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1718002800,
+          "endDate": 1718089200
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
@@ -9582,7 +9582,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1717757359,
+      "lastUpdated": 1718189381,
       "relatedPermits": [
         {
           "relatedPermitID": "HRA00012",
@@ -9767,8 +9767,8 @@
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1718002800,
+          "endDate": 1718089200
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -9797,7 +9797,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1717757359,
+      "lastUpdated": 1718189381,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00051",
@@ -11820,8 +11820,8 @@
         {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1718002800,
+          "endDate": 1718089200
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -11868,7 +11868,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716893389,
+      "lastUpdated": 1718189381,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00138",
@@ -12004,8 +12004,8 @@
         {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1717657200,
+          "endDate": 1718089200
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
@@ -12046,7 +12046,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1717757359,
+      "lastUpdated": 1718189381,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -20114,6 +20114,46 @@
         {
           "relatedPermitID": "DPR01067",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3745 TILLICUM RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00769",
+      "applicationDate": 1718089200,
+      "addresses": [
+        "3745 TILLICUM RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1718089200,
+          "endDate": 1718089200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1718089200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00959",
+          "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "DVP00526",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         }
       ]
     },
@@ -78349,7 +78389,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1714978800,
-          "endDate": null
+          "endDate": 1717398000
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -78409,7 +78449,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715165378,
+      "lastUpdated": 1718189381,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
