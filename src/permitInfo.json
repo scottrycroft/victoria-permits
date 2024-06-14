@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1718275341,
+  "dateRetrieved": 1718361729,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14633,6 +14633,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1701846000,
+          "endDate": 1717398000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1717398000,
           "endDate": null
         }
       ],
@@ -14655,7 +14661,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1718362174,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00728",
@@ -15902,8 +15908,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1718362174,
       "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00958",
+          "relatedPermitType": "SUBDIVISION"
+        },
         {
           "relatedPermitID": "REZ00732",
           "relatedPermitType": "REZONING"
@@ -18661,8 +18671,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1718362174,
       "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00958",
+          "relatedPermitType": "SUBDIVISION"
+        },
         {
           "relatedPermitID": "DPR01033",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -41238,11 +41252,49 @@
         "351 KIPLING ST"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE REZONING APPLICATION #REZ00702 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct attached dwellings.",
-      "progressSections": [],
-      "documents": [],
+      "purpose": "The City is considering a Development Permit with Variance application to construct corner townhouses.",
+      "progressSections": [
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1718262000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-06-12 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=52D48074-3848-4734-8554-2973C7EDCDD8&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-06-12 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=72673870-07B9-453E-8B40-882664556071&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-06-12 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B2D4A12B-44B0-46BD-B1FD-C2D1917F7C52&folderId=71763C221107134252793704"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1667804400,
+      "lastUpdated": 1718362174,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -74284,7 +74336,13 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1715929200,
+          "endDate": 1718262000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1718262000,
           "endDate": null
         },
         {
@@ -74346,10 +74404,22 @@
         {
           "docName": "2024-04-09 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=61BCFE72-2F40-4B70-80E0-9968BF650050&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-06-13 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8A54C7CA-CE6A-47B8-A996-C468FB5F777A&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-06-13 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=750BC6F3-B3E6-45A3-8D27-0C9443274DED&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-06-13 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF2B9EAF-7D32-4E60-9200-F90CC7DE2503&folderId=32154C220610154226154683"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716029394,
+      "lastUpdated": 1718362174,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
