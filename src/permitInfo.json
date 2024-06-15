@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1718361729,
+  "dateRetrieved": 1718448938,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2922,6 +2922,74 @@
         {
           "relatedPermitID": "PL001586",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1035 STELLY'S X RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001580",
+      "applicationDate": 1714978800,
+      "addresses": [
+        "1035 STELLY'S X RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "DP Infill for Lot B",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1716534000,
+          "endDate": 1716534000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1716534000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001257",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001256",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        },
+        {
+          "relatedPermitID": "PL001255",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
         }
       ]
     },
@@ -11914,6 +11982,12 @@
           "endDate": 1707980400
         },
         {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -11928,12 +12002,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -11970,7 +12038,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1716374984,
+      "lastUpdated": 1718449379,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00007",
@@ -74346,6 +74414,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -74419,7 +74493,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718362174,
+      "lastUpdated": 1718449379,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
