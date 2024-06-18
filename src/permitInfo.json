@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1718620939,
+  "dateRetrieved": 1718707870,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -25942,7 +25942,7 @@
         "781 RICHMOND AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -25955,7 +25955,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715324400,
+      "lastUpdated": 1718708312,
       "relatedPermits": []
     },
     {
@@ -44309,16 +44309,22 @@
       "purpose": "The City is considering a Development Permit with Variance application to make changes to the previously approved Development Permit plans with a variance to landscaping for outdoor parking spaces.",
       "progressSections": [
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1715670000,
+          "endDate": 1716447600
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1716447600,
+          "endDate": 1716447600
+        },
+        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1718175600,
           "endDate": 1718175600
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1715670000,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
@@ -44329,12 +44335,6 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
@@ -44372,7 +44372,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718275789,
+      "lastUpdated": 1718708312,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000638",
@@ -66444,6 +66444,18 @@
           "endDate": 1644476400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1644476400,
+          "endDate": 1711004400
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1718607600,
+          "endDate": 1718607600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1711004400,
@@ -66452,12 +66464,12 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1718607600,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -66533,7 +66545,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716893389,
+      "lastUpdated": 1718708312,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -81392,6 +81404,39 @@
       "withApplicantDays": null,
       "city": "View Royal",
       "lastUpdated": 1715943017,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Text Amendment Bylaw No. 1143 - Lot Coverage Coverage",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ 2024-02",
+      "applicationDate": 1718708346,
+      "addresses": [
+        "Text Amendment Bylaw No. 1143 - Lot Coverage Coverage",
+        "Impermeable Coverage"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The application proposes to remove “Lot Coverage, maximum” and “Impermeable Surface Coverage, maximum” as provisions under the heading Lot Density within standard zones, and placing them under a new heading “Lot Coverage and Impermeable Coverage”.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024 06 11 Staff Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/72182/SSMUH%20Zoning%20Amendments.pdf?handle=A767BEC2191D4DC5AEEBFEA5AD48CDAC"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1718708346,
       "relatedPermits": []
     }
   ]
