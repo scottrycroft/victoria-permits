@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1718707870,
+  "dateRetrieved": 1718793740,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -17851,6 +17851,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1710918000,
+          "endDate": 1717657200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1718694000,
           "endDate": null
         }
       ],
@@ -17869,7 +17875,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1718794189,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -42773,15 +42779,15 @@
           "endDate": 1716879600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1687762800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1716879600,
+          "endDate": 1717657200
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1687762800,
           "endDate": null
         },
         {
@@ -42816,7 +42822,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718102977,
+      "lastUpdated": 1718794189,
       "relatedPermits": []
     },
     {
@@ -44399,6 +44405,58 @@
           "relatedPermitType": "Heritage Alteration with Variance"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1124 TOPAZ AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00275",
+      "applicationDate": 1718694000,
+      "addresses": [
+        "1124 TOPAZ AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to allow a corner townhouse missing middle project to go forward with a variance for open site space.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1718694000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-06-17 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=848E2065-40C9-4D87-B13B-261A26A0F2AC&folderId=42900C240618151726321772"
+        },
+        {
+          "docName": "2024-06-17 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06CEE93D-C1AD-48AD-9CF3-B02DF217B18E&folderId=42900C240618151726321772"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1718694000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "516 DISCOVERY ST",
