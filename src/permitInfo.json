@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1718793740,
+  "dateRetrieved": 1718880134,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2869,8 +2869,8 @@
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1718780400,
+          "endDate": 1718780400
         },
         {
           "taskDescription": "",
@@ -2917,7 +2917,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1718275789,
+      "lastUpdated": 1718880583,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001586",
@@ -11910,6 +11910,12 @@
           "endDate": 1718089200
         },
         {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -11934,12 +11940,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
-          "taskType": "*COUNCIL - READINGS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
           "startDate": null,
@@ -11954,7 +11954,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1718189381,
+      "lastUpdated": 1718880583,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00138",
@@ -18139,6 +18139,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1715151600,
+          "endDate": 1718780400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1718780400,
           "endDate": null
         }
       ],
@@ -18157,7 +18163,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1715251758,
+      "lastUpdated": 1718880583,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -44423,12 +44429,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1718694000,
-          "endDate": null
+          "endDate": 1718780400
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1718780400,
           "endDate": null
         },
         {
@@ -44455,7 +44461,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718694000,
+      "lastUpdated": 1718880583,
       "relatedPermits": []
     },
     {
@@ -72804,6 +72810,12 @@
           "endDate": 1709881200
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1644908400,
+          "endDate": 1710140400
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1710140400,
@@ -72820,12 +72832,6 @@
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
           "startDate": 1715670000,
           "endDate": 1715670000
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1644908400,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -72963,7 +72969,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716547776,
+      "lastUpdated": 1718880583,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -77475,16 +77481,16 @@
           "endDate": 1713423600
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1715238000,
+          "endDate": 1716447600
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1717743600,
           "endDate": 1717743600
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1715238000,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -77538,7 +77544,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1717843771,
+      "lastUpdated": 1718880583,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
