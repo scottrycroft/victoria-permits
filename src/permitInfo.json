@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1718880134,
+  "dateRetrieved": 1718967106,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2996,6 +2996,104 @@
     {
       "primaryStreetName": "2384 ALTA VISTA PL",
       "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001581",
+      "applicationDate": 1715065200,
+      "addresses": [
+        "2384 ALTA VISTA PL",
+        "6673 BUENA VISTA RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Subdivision from 2 lots to 5 lots",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1715324400,
+          "endDate": 1715324400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2384 Alta Vista_Application_May 7 2024_WEB_Redacted.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240620121946387035&folderId=24167C240507150007956072"
+        },
+        {
+          "docName": "2384 Alta Vista_Archaeological Data Request_May 7 2024_WEB_Redacted.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240620121946405638&folderId=24167C240507150007956072"
+        },
+        {
+          "docName": "2384 Alta Vista_Info Sheet_May 7 2024_WEB_Redacted.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240620121946416424&folderId=24167C240507150007956072"
+        },
+        {
+          "docName": "6673 Buena Vista_Archaeological Data Request_May 7 2024_Redacted.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240620121946427389&folderId=24167C240507150007956072"
+        },
+        {
+          "docName": "Arborist Report_May 7 2024_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240620121946437400&folderId=24167C240507150007956072"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1715324400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001583",
+          "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001582",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2384 ALTA VISTA PL",
+      "applicant": "N/A",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "PL001582",
@@ -3004,7 +3102,7 @@
         "2384 ALTA VISTA PL"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Permit w/ Variances",
+      "purpose": "*Please refer to Rezoning and/or OCP Amendment PL001581",
       "progressSections": [
         {
           "taskDescription": "",
@@ -3045,11 +3143,15 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1715065200,
+      "lastUpdated": 1718967554,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001583",
           "relatedPermitType": "Subdivision"
+        },
+        {
+          "relatedPermitID": "PL001581",
+          "relatedPermitType": "Rezoning and/or OCP Amendment"
         }
       ]
     },
@@ -13107,7 +13209,13 @@
         {
           "taskDescription": "Public Hearing scheduled to hear presentations for application",
           "taskType": "PUBLIC HEARING",
-          "startDate": null,
+          "startDate": 1718694000,
+          "endDate": 1718694000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1718780400,
           "endDate": null
         }
       ],
@@ -13126,7 +13234,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1716979765,
+      "lastUpdated": 1718967554,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD20762",
@@ -78181,15 +78289,15 @@
           "endDate": 1694415600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1692169200,
-          "endDate": null
-        },
-        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1694415600,
+          "endDate": 1718866800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1692169200,
           "endDate": null
         },
         {
@@ -78225,10 +78333,22 @@
         {
           "docName": "2023-08-14 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7C76D3FD-F4E6-4AFD-B70E-882849B7E499&folderId=49540C230815092228522765"
+        },
+        {
+          "docName": "2024-06-20 - List of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E1EA51DA-1BAC-491C-B9BA-3B4173A7B3DF&folderId=49540C230815092228522765"
+        },
+        {
+          "docName": "2024-06-20 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6F1BC4A3-0EFB-49C8-B6CE-2973989F0A9B&folderId=49540C230815092228522765"
+        },
+        {
+          "docName": "2024-06-20 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E99A6A41-8F0D-4D1F-B3D8-CB1726FAC5FC&folderId=49540C230815092228522765"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1718967554,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -81493,14 +81613,22 @@
       ],
       "documents": [
         {
+          "docName": "Bylaw Amendment 1143 [PDF - 82 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/REZ2024-02 Bylaw Amendment 1143.pdf"
+        },
+        {
           "docName": "2024 06 11 Staff Report",
           "docURL": "https://viewroyalbc.civicweb.net/document/72182/SSMUH%20Zoning%20Amendments.pdf?handle=A767BEC2191D4DC5AEEBFEA5AD48CDAC"
+        },
+        {
+          "docName": "2024 06 19 Notice of Waiver of Public Hearing [PDF - 138 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2024/2024 06 19 Notice Rez 2024-02.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1718708346,
+      "lastUpdated": 1718967587,
       "relatedPermits": []
     }
   ]
