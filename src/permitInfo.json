@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1719225747,
+  "dateRetrieved": 1719312128,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14820,24 +14820,20 @@
       ],
       "documents": [
         {
-          "docName": "REVISED_ELEVATION_JUL 27 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FDF479A5-0E90-4DE0-B677-D149729DB9E9&folderId=55117C221221113004450624"
+          "docName": "REVISED ELEVATION PLANS_JUNE 3 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=66511ED2-2658-4B6A-9697-F6043E502BC5&folderId=55117C221221113004450624"
         },
         {
-          "docName": "REVISED_LANDSCAPE_JUL 25 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2801204C-2E68-43FE-9343-1544485797C9&folderId=55117C221221113004450624"
+          "docName": "REVISED SITE PLAN_JUNE 03 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=10410DB3-870D-4F87-B3F3-6344FDA9DAE7&folderId=55117C221221113004450624"
         },
         {
           "docName": "REVISED_SHADOW STUDY_JULY 27 2023.pdf",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A0F43F0F-9833-4FEA-8E62-BF9E56480CFD&folderId=55117C221221113004450624"
-        },
-        {
-          "docName": "REVISED_SITE PLAN_JUL 27 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E1E73F6F-8C44-4F5D-B162-10FCBDD3288A&folderId=55117C221221113004450624"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1718362174,
+      "lastUpdated": 1719312579,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00728",
@@ -17970,20 +17966,20 @@
       ],
       "documents": [
         {
-          "docName": "ELEVATIONS_DEC 13 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3B580468-B4B9-4C57-9E1A-A072E41BE9F2&folderId=69247C231213095035621277"
+          "docName": "REVISED ELEVATIONS_JUNE 6 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6395A294-B000-4875-8098-8CE612C94A3E&folderId=69247C231213095035621277"
         },
         {
-          "docName": "LANDSCAPE PLAN_DEC 13  2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=B5462D0B-B17F-495F-8CFB-2CDE21D2F22B&folderId=69247C231213095035621277"
+          "docName": "REVISED LANDSCAPE PLAN_JUNE 6 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2B5F6E2E-F5AD-43B4-8562-37E823F7155A&folderId=69247C231213095035621277"
         },
         {
-          "docName": "SITE PLAN_DEC 13 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FCBB0EEC-5ADA-4764-A870-D9CCDC9DEF2C&folderId=69247C231213095035621277"
+          "docName": "REVISED SITE PLAN_JUNE 6 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FDA91644-014A-454C-BCFF-3A2A945D8112&folderId=69247C231213095035621277"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1718794189,
+      "lastUpdated": 1719312579,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -18305,7 +18301,7 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1715842800,
-          "endDate": null
+          "endDate": 1719212400
         }
       ],
       "documents": [
@@ -18327,7 +18323,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1717238990,
+      "lastUpdated": 1719312579,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00768",
@@ -18365,6 +18361,42 @@
       "city": "Saanich",
       "lastUpdated": 1718175600,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1899 COCHRANE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01069",
+      "applicationDate": 1719212400,
+      "addresses": [
+        "1899 COCHRANE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1718953200,
+          "endDate": 1719212400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1719212400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00770",
+          "relatedPermitType": "REZONING"
+        }
+      ]
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
@@ -20411,6 +20443,36 @@
         {
           "relatedPermitID": "DVP00526",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1899 COCHRANE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00770",
+      "applicationDate": 1719212400,
+      "addresses": [
+        "1899 COCHRANE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1719212400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01069",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
     },
@@ -41446,23 +41508,23 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1718262000,
-          "endDate": null
+          "endDate": 1719212400
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1718262000,
           "endDate": null
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1719212400,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         }
@@ -41482,7 +41544,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718362174,
+      "lastUpdated": 1719312579,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -44522,7 +44584,7 @@
     },
     {
       "primaryStreetName": "1124 TOPAZ AVE",
-      "applicant": "N/A",
+      "applicant": "TARA CUMMING",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00275",
@@ -44531,7 +44593,7 @@
         "1124 TOPAZ AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to allow a corner townhouse missing middle project to go forward with a variance for open site space.",
+      "purpose": "The City is considering a Development Permit with Variance application to allow a corner townhouse missing middle project with a variance for open site space.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -44569,7 +44631,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718880583,
+      "lastUpdated": 1719312579,
       "relatedPermits": []
     },
     {
@@ -72555,10 +72617,14 @@
         {
           "docName": "2024-02-26 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=02545F52-53DC-4EE1-A59C-F46482426286&folderId=93946C220126091053188844"
+        },
+        {
+          "docName": "24-048.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=44705C240624095034403470&folderId=93946C220126091053188844"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1717498178,
+      "lastUpdated": 1719312579,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00255",
