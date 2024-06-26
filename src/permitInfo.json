@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1719312128,
+  "dateRetrieved": 1719413530,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5764,6 +5764,12 @@
           "taskType": "",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "1st, 2nd, & 3rd reading rescheduled",
+          "taskType": "",
+          "startDate": 1719212400,
+          "endDate": 1719212400
         }
       ],
       "documents": [
@@ -5794,12 +5800,16 @@
         {
           "docURL": "http://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3392",
           "docName": "ompleted May 13, 2024"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3395",
+          "docName": "1st, 2nd, & 3rd reading rescheduled June 24, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1718275827,
+      "lastUpdated": 1719414007,
       "relatedPermits": []
     },
     {
@@ -6423,6 +6433,12 @@
           "taskType": "",
           "startDate": 1705906800,
           "endDate": 1705906800
+        },
+        {
+          "taskDescription": "3rd reading as amended and adoption scheduled for",
+          "taskType": "",
+          "startDate": 1719212400,
+          "endDate": 1719212400
         }
       ],
       "documents": [
@@ -6441,12 +6457,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3385",
           "docName": "3rd reading completed January 22, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3395",
+          "docName": "3rd reading as amended and adoption scheduled for June 24, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1709705432,
+      "lastUpdated": 1719414007,
       "relatedPermits": []
     },
     {
@@ -12086,8 +12106,8 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1718694000,
+          "endDate": 1718694000
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -12140,7 +12160,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1718449379,
+      "lastUpdated": 1719413975,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00007",
@@ -17931,7 +17951,7 @@
         "2625 ARBUTUS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM P-1 TO A SITE SPECIFIC ZONE TO CONSTRUCT AN APARTMENT BUILDING AND ATTACHED HOUSING",
+      "purpose": "TO REZONE FROM P-1 TO A SITE SPECIFIC ZONE TO CONSTRUCT AN APARTMENT BUILDING WITH INSTUTIONAL USE AND ATTACHED HOUSING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -17979,7 +17999,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1719312579,
+      "lastUpdated": 1719413975,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -20390,15 +20410,15 @@
           "endDate": 1715842800
         },
         {
-          "taskDescription": "Application submission review for completeness",
-          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
           "startDate": 1715842800,
-          "endDate": null
+          "endDate": 1715842800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1717153070,
+      "lastUpdated": 1719413975,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01067",
@@ -20408,7 +20428,7 @@
     },
     {
       "primaryStreetName": "3745 TILLICUM RD",
-      "applicant": "N/A",
+      "applicant": "MCNEIL DESIGNS",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00769",
@@ -20417,7 +20437,7 @@
         "3745 TILLICUM RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RS-2 TO CREATE ONE ADDITIONAL LOT FOR SINGLE FAMILY DWELLING USE, RESULTING IN A TOTAL OF TWO LOTS, VARIANCE REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -20426,15 +20446,15 @@
           "endDate": 1718089200
         },
         {
-          "taskDescription": "Application submission review for completeness",
-          "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1718089200,
+          "endDate": 1718089200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1718089200,
+      "lastUpdated": 1719413975,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00959",
@@ -44512,7 +44532,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1718175600,
-          "endDate": null
+          "endDate": 1719298800
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -44554,7 +44574,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718708312,
+      "lastUpdated": 1719413975,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000638",
@@ -44632,6 +44652,60 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1719312579,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1312 BALMORAL RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00276",
+      "applicationDate": 1719298800,
+      "addresses": [
+        "1312 BALMORAL RD",
+        "1703 FERNWOOD RD",
+        "1705 FERNWOOD RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to build a new missing middle corner townhouse.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1719298800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-06-24 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D554B5A9-7A79-42EC-AB02-81017893DB47&folderId=45143C240625112338600070"
+        },
+        {
+          "docName": "2024-06-24 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87CCD09C-76E2-40F8-8D4B-0AAC8DC26474&folderId=45143C240625112338600070"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1719298800,
       "relatedPermits": []
     },
     {
