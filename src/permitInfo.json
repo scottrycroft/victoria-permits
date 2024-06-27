@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1719413530,
+  "dateRetrieved": 1719485002,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2875,18 +2875,12 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1719212400,
+          "endDate": 1719212400
         },
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "APC MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -2898,13 +2892,19 @@
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "taskType": "3RD READING OF BYLAW",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "3RD READING OF BYLAW",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
           "startDate": null,
           "endDate": null
         },
@@ -2917,7 +2917,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1718880583,
+      "lastUpdated": 1719485455,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001586",
@@ -3170,6 +3170,12 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1719212400,
+          "endDate": 1719212400
+        },
+        {
+          "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1715324400,
           "endDate": null
@@ -3212,13 +3218,100 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1718275789,
+      "lastUpdated": 1719485455,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001572",
           "relatedPermitType": "Rezoning and/or OCP Amendment"
         }
       ]
+    },
+    {
+      "primaryStreetName": "HIGHFIELD RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001610",
+      "applicationDate": 1719385200,
+      "addresses": [
+        "HIGHFIELD RD",
+        "1840 HIGHFIELD RD",
+        "1841 HIGHFIELD RD",
+        "1864 HIGHFIELD RD",
+        "MEADOWBANK RD",
+        "1801 MEADOWBANK RD",
+        "1860 MEADOWBANK RD",
+        "1890 MEADOWBANK RD",
+        "1417 SLUGGETT RD",
+        "WALLACE DR",
+        "B-7161 WALLACE DR",
+        "7235 WALLACE DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The District is considering a REZONING proposal to create a new zone \"Maber Wetlands Agriculture: A-2\" to restrict the land use to agriculture which would include 20 properties.",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Maber Flats_A-2 Draft Bylaw_June 24 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240626093853455832&folderId=25434C240626093314975166"
+        },
+        {
+          "docName": "Maber Wetlands Agriculture A-2 Zone - Project Update_June 24 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240626102313063786&folderId=25434C240626093314975166"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1719385200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "3510 Wishart Road",
@@ -17847,6 +17940,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1711090800,
+          "endDate": 1719385200
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1719385200,
           "endDate": null
         }
       ],
@@ -17865,7 +17964,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1719485455,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -19669,12 +19768,18 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1706684400,
+          "endDate": 1719385200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1719385200,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1719485455,
       "relatedPermits": []
     },
     {
@@ -44535,6 +44640,12 @@
           "endDate": 1719298800
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1719385200,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
@@ -44571,10 +44682,22 @@
         {
           "docName": "2024-06-12 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6C12B548-D50A-48EC-A0B7-7A7603E6EBD5&folderId=29864C240509160540558454"
+        },
+        {
+          "docName": "2024-06-26 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0C4DED3C-F6F3-4A99-973B-60D3D3E95EC2&folderId=29864C240509160540558454"
+        },
+        {
+          "docName": "2024-06-26 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C8571F88-64CC-4765-A6B7-8A3230ECE67D&folderId=29864C240509160540558454"
+        },
+        {
+          "docName": "2024-06-26 - Revisions_List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E6E5A051-E52B-4D4C-B8BB-9C02FCADFD0E&folderId=29864C240509160540558454"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719413975,
+      "lastUpdated": 1719485455,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000638",
@@ -44673,12 +44796,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1719298800,
-          "endDate": null
+          "endDate": 1719385200
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1719385200,
           "endDate": null
         },
         {
@@ -44705,7 +44828,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719298800,
+      "lastUpdated": 1719485455,
       "relatedPermits": []
     },
     {
