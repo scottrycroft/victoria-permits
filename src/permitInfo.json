@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1719485002,
+  "dateRetrieved": 1719571413,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18452,7 +18452,7 @@
     },
     {
       "primaryStreetName": "3800 FINNERTY RD",
-      "applicant": "N/A",
+      "applicant": "UNIVERSITY OF VICTORIA",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01068",
@@ -18461,7 +18461,7 @@
         "3800 FINNERTY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "**STREAMSIDE DP** TO CONSTRUCT AN ASPHALT BICYCLE PATH AND CONCRETE PEDESTRIAN SIDEWALK ADJACENT TO BOWKER CREEK",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18472,13 +18472,13 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1718175600,
+          "endDate": 1719471600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1718175600,
+      "lastUpdated": 1719571866,
       "relatedPermits": []
     },
     {
@@ -26276,7 +26276,7 @@
         "2601 AVEBURY AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -26289,7 +26289,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716793200,
+      "lastUpdated": 1719571866,
       "relatedPermits": []
     },
     {
@@ -44152,7 +44152,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1716361200,
-          "endDate": null
+          "endDate": 1719471600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -44206,7 +44206,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1717584579,
+      "lastUpdated": 1719571866,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -44640,15 +44640,21 @@
           "endDate": 1719298800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1718175600,
+          "endDate": 1719385200
+        },
+        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1719385200,
-          "endDate": null
+          "endDate": 1719471600
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1719471600,
           "endDate": null
         },
         {
@@ -44697,7 +44703,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719485455,
+      "lastUpdated": 1719571866,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000638",
@@ -44779,7 +44785,7 @@
     },
     {
       "primaryStreetName": "1312 BALMORAL RD",
-      "applicant": "N/A",
+      "applicant": "ALEXANDER RAY",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00276",
@@ -44802,6 +44808,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1719385200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -44828,7 +44840,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719485455,
+      "lastUpdated": 1719571866,
       "relatedPermits": []
     },
     {
@@ -78560,6 +78572,12 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
+          "startDate": 1719471600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -78605,7 +78623,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719054545,
+      "lastUpdated": 1719571866,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -79853,6 +79871,18 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4DF6F810-F155-45B4-8259-7E4D9F1E4DFD&folderId=11190C240312101819231835"
         },
         {
+          "docName": "2024-06-27 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0CB7B6CA-E3D7-4445-8D45-7CA72D4E3AA8&folderId=11190C240312101819231835"
+        },
+        {
+          "docName": "2024-06-27 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C235CC38-3EA6-46FF-A0B1-0D82372A5563&folderId=11190C240312101819231835"
+        },
+        {
+          "docName": "2024-06-27 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4204C4B3-2262-4A12-ACC3-EB8E3A68D9E0&folderId=11190C240312101819231835"
+        },
+        {
           "docName": "Itemized Response Letter.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2B39FAAB-ED0E-4DD6-B216-5D7ACEED3228&folderId=11190C240312101819231835"
         },
@@ -79862,7 +79892,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715165378,
+      "lastUpdated": 1719571866,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
