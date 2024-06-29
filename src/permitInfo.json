@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1719571413,
+  "dateRetrieved": 1719657740,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5863,6 +5863,12 @@
           "taskType": "",
           "startDate": 1719212400,
           "endDate": 1719212400
+        },
+        {
+          "taskDescription": "1st, 2nd, & 3rd reading rescinded and completed",
+          "taskType": "",
+          "startDate": 1719212400,
+          "endDate": 1719212400
         }
       ],
       "documents": [
@@ -5897,12 +5903,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3395",
           "docName": "1st, 2nd, & 3rd reading rescheduled June 24, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3395",
+          "docName": "1st, 2nd, & 3rd reading rescinded and completed June 24, 2024"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1719414007,
+      "lastUpdated": 1719658231,
       "relatedPermits": []
     },
     {
@@ -44155,6 +44165,12 @@
           "endDate": 1719471600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1719558000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -44206,7 +44222,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719571866,
+      "lastUpdated": 1719658195,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -72286,10 +72302,6 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6EF547DC-B5A1-41EB-927C-0A7B78E9E213&folderId=86097C211222091219582725"
         },
         {
-          "docName": "2024-06-04 - Letter to Mayor and Council.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F4990D48-F279-483A-A1E3-E023042431DE&folderId=86097C211222091219582725"
-        },
-        {
           "docName": "2024-06-04 - List of Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D27D0D1E-0F64-4094-845E-14A4220172A3&folderId=86097C211222091219582725"
         },
@@ -72303,7 +72315,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1717670964,
+      "lastUpdated": 1719658195,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -73025,8 +73037,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1719471600,
+          "endDate": 1719471600
         }
       ],
       "documents": [
@@ -73080,7 +73092,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716461380,
+      "lastUpdated": 1719658195,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000639",
@@ -79829,21 +79841,21 @@
           "endDate": 1712732400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1712646000,
+          "endDate": 1719558000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1710313200,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1712646000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1719558000,
           "endDate": null
         },
         {
@@ -79892,7 +79904,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719571866,
+      "lastUpdated": 1719658195,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
@@ -80603,7 +80615,7 @@
       "purpose": "Application for a 43 unit multifamily building.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Approved",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -80630,7 +80642,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1705147098,
+      "lastUpdated": 1719658228,
       "relatedPermits": []
     },
     {
@@ -80863,7 +80875,7 @@
       "purpose": "This is an Environment Development permit application for new home construction located on a lot on Pike Lake.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Approved",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -80882,7 +80894,79 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1705147098,
+      "lastUpdated": 1719658228,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1950 wEST PARK lANE (PH 6)",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2024-01",
+      "applicationDate": 1719658228,
+      "addresses": [
+        "1950 wEST PARK lANE (PH 6)"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Application for Phase 6 of the development which consists of 13 townhouse units.",
+      "progressSections": [
+        {
+          "taskDescription": "Approved",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024 01 11 Letter to Mayor & Council [PDF - 32 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-01 LMC.pdf"
+        },
+        {
+          "docName": "2024 01 09 Plans [PDF - 1 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-01  Plans - Jan 2024.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1719658228,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "View Royal Park",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2024-02",
+      "applicationDate": 1719658228,
+      "addresses": [
+        "View Royal Park"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The application proposes protection and restoration works to the tidal marsh and stream area in View Royal Park.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024 06 04 Application Letter [PDF - 152 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-02 LMC.pdf"
+        },
+        {
+          "docName": "2024 05 31 Environmental Report [PDF - 20 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-02 Enviro report.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1719658228,
       "relatedPermits": []
     },
     {
