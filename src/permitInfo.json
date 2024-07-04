@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1719744273,
+  "dateRetrieved": 1720089721,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3213,12 +3213,24 @@
       ],
       "documents": [
         {
+          "docName": "1183 Verdier Ave - Civil  Design Report_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=26896C240703150114783120&folderId=24246C240510104124587103"
+        },
+        {
+          "docName": "1183 Verdier Ave Parking Study_Final_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=26896C240703150520400985&folderId=24246C240510104124587103"
+        },
+        {
           "docName": "1183 Verdier_Application Pkg_May 10 2024_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240607160822229929&folderId=24246C240510104124587103"
+        },
+        {
+          "docName": "Verdier Arborist Report 12.21.23 final_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=26896C240703150425785592&folderId=24246C240510104124587103"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1719485455,
+      "lastUpdated": 1720090176,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001572",
@@ -6218,22 +6230,40 @@
       "purpose": "Revision to a CD8 zone to allow for attached housing use.",
       "progressSections": [
         {
-          "taskDescription": "Introduction to Planning and Land Use Committee May 6, 2024.",
+          "taskDescription": "Introduction to Planning and Land Use Committee",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1714978800,
+          "endDate": 1714978800
+        },
+        {
+          "taskDescription": "Recommendations scheduled for Council consideration",
+          "taskType": "",
+          "startDate": 1720422000,
+          "endDate": 1720422000
         }
       ],
       "documents": [
         {
           "docURL": "https://www.colwood.ca/sites/default/files/administration/RZ-22-015.pdf",
           "docName": "RZ-22-015"
+        },
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/administration/RZ-22-015.pdf",
+          "docName": "RZ-22-015"
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3274",
+          "docName": "Introduction to Planning and Land Use Committee May 6, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3396",
+          "docName": "Recommendations scheduled for Council consideration July 8, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1718275827,
+      "lastUpdated": 1720090211,
       "relatedPermits": []
     },
     {
@@ -6598,6 +6628,12 @@
           "taskType": "",
           "startDate": 1713769200,
           "endDate": 1713769200
+        },
+        {
+          "taskDescription": "Scheduled for adoption on",
+          "taskType": "",
+          "startDate": 1720422000,
+          "endDate": 1720422000
         }
       ],
       "documents": [
@@ -6612,12 +6648,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3391",
           "docName": "1st, 2nd, & 3rd readings completed April 22, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3396",
+          "docName": "Scheduled for adoption on July 8, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1714647010,
+      "lastUpdated": 1720090211,
       "relatedPermits": []
     },
     {
@@ -14938,6 +14978,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1717398000,
+          "endDate": 1719903600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1719903600,
           "endDate": null
         }
       ],
@@ -14945,6 +14991,10 @@
         {
           "docName": "REVISED ELEVATION PLANS_JUNE 3 2024",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=66511ED2-2658-4B6A-9697-F6043E502BC5&folderId=55117C221221113004450624"
+        },
+        {
+          "docName": "REVISED LANDSCAPE PLANS_JUNE 03 2024_L-1.02A",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4DA90262-53BE-450B-B476-1FFAE7553BD8&folderId=55117C221221113004450624"
         },
         {
           "docName": "REVISED SITE PLAN_JUNE 03 2024",
@@ -14956,7 +15006,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1719312579,
+      "lastUpdated": 1720090176,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00728",
@@ -18486,9 +18536,18 @@
           "endDate": 1719471600
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "SITE PLAN_EXISTING_JUNE 12, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1FFAE32D-D795-4B79-A824-9D0EC982D8C5&folderId=29937C240612160840750805"
+        },
+        {
+          "docName": "SITE PLAN_PROPOSED_JUNE 12, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C9464EB2-2025-4E1B-AA7E-0BFCD72F3879&folderId=29937C240612160840750805"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1719571866,
+      "lastUpdated": 1720090176,
       "relatedPermits": []
     },
     {
@@ -20666,6 +20725,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2242 Harbour Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "1470a3ec74",
+      "applicationDate": 1720090212,
+      "addresses": [
+        "2242 Harbour Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit application for a new marine industrial development.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1720090212,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "9667 Fifth Street",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -20808,7 +20899,7 @@
         "2312 Orchard Avenue"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Permit and Development Variance Permit application for a 2 lot single family small lot residential development and to increase the maximum building height from 8 m to 8.79 m.",
+      "purpose": "Development Permit and Development Variance Permit application for a 4-unit residential development.",
       "progressSections": [
         {
           "taskDescription": "Application under review by staff.",
@@ -20826,7 +20917,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1708429796,
+      "lastUpdated": 1720090212,
       "relatedPermits": []
     },
     {
@@ -26314,7 +26405,7 @@
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -26331,7 +26422,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716966000,
+      "lastUpdated": 1720090176,
       "relatedPermits": []
     },
     {
@@ -30677,11 +30768,11 @@
         "1212 VISTA HTS"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE REZ#00809 FOR PROJECT INFORMATION The City is considering a Development Permit application for a new two family dwelling located in DPA 15F.",
+      "purpose": "SEE REZ#00809 FOR PROJECT INFORMATION The City is considering a Development Permit application for a new two family dwelling located in DPA 15F. Approved by Council June 27, 2024",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1711450143,
+      "lastUpdated": 1720090176,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00264",
@@ -31836,6 +31927,12 @@
           "taskType": "With Applicant",
           "startDate": 1715238000,
           "endDate": null
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1719990000,
+          "endDate": null
         }
       ],
       "documents": [
@@ -31978,10 +32075,26 @@
         {
           "docName": "2024-04-16 - Revisions List_Landscape.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FA511772-AA27-465F-B71C-521F713A313B&folderId=76975C170809111720510000"
+        },
+        {
+          "docName": "2024-07-03 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=71A06BA4-1142-4447-8A14-53E743E30A14&folderId=76975C170809111720510000"
+        },
+        {
+          "docName": "2024-07-03 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=998CC8D0-A7B8-4245-B2A3-93A42F9D142D&folderId=76975C170809111720510000"
+        },
+        {
+          "docName": "2024-07-03 - Revisions List_Architectural.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=939EF426-5878-461E-86F6-AF02EEDB983B&folderId=76975C170809111720510000"
+        },
+        {
+          "docName": "2024-07-03 - Revisions List_Civil.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=755EE38E-15FF-4D98-981A-AA2347D93D4A&folderId=76975C170809111720510000"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715338167,
+      "lastUpdated": 1720090176,
       "relatedPermits": []
     },
     {
@@ -43057,7 +43170,7 @@
         "250 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct a long-term bicycle storage accessory building.",
+      "purpose": "The City is considering a Development Permit with Variances application to construct a long-term bicycle storage accessory building.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -43096,15 +43209,15 @@
           "endDate": 1717657200
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1719471600,
+          "endDate": 1719990000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1687762800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -43133,7 +43246,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718794189,
+      "lastUpdated": 1720090176,
       "relatedPermits": []
     },
     {
@@ -44812,7 +44925,7 @@
         "1705 FERNWOOD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to build a new missing middle corner townhouse.",
+      "purpose": "The City is considering a Missing Middle Development Permit with Variances application to consolidate three lots into one to construct 19 new corner townhouse units.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -44856,7 +44969,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719571866,
+      "lastUpdated": 1720090176,
       "relatedPermits": []
     },
     {
@@ -72984,7 +73097,7 @@
         "1212 VISTA HTS"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit the construction of a new duplex. Concurrent with DP No. 000639.",
+      "purpose": "The City is considering a Rezoning application to permit the construction of a new duplex. Concurrent with DP No. 000639. Approved by Council June 27, 2024",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -73092,7 +73205,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719658195,
+      "lastUpdated": 1720090176,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000639",
