@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1720089721,
+  "dateRetrieved": 1720176129,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -17934,6 +17934,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1710918000,
+          "endDate": 1720076400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1720076400,
           "endDate": null
         }
       ],
@@ -17956,7 +17962,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1720176584,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -18552,7 +18558,7 @@
     },
     {
       "primaryStreetName": "1899 COCHRANE ST",
-      "applicant": "N/A",
+      "applicant": "AGENT",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01069",
@@ -18561,7 +18567,7 @@
         "1899 COCHRANE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO DEVELOPE 8 UNIT TOWNSHOUSE SITE AND TO REZONE FROM RS-6 SINGLE FAMILY DWELLING TO RT-WA ATTACHED WHITTIER AVENUE ZONE. VARIANCES REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18572,13 +18578,13 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1720076400,
+          "endDate": 1720076400
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1719212400,
+      "lastUpdated": 1720176584,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -20651,7 +20657,7 @@
         "1899 COCHRANE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 SINGLE FAMILY DWELLING TO RT-WA ATTACHED WHITTIER AVENUE ZONE. VARIANCES REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -20662,7 +20668,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1719212400,
+      "lastUpdated": 1720176584,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01069",
@@ -31926,12 +31932,30 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1715238000,
-          "endDate": null
+          "endDate": 1719990000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1715238000,
+          "endDate": 1719990000
         },
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1719990000,
+          "endDate": 1719990000
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1720076400,
+          "endDate": 1720076400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1720076400,
           "endDate": null
         }
       ],
@@ -32077,12 +32101,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FA511772-AA27-465F-B71C-521F713A313B&folderId=76975C170809111720510000"
         },
         {
-          "docName": "2024-07-03 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=71A06BA4-1142-4447-8A14-53E743E30A14&folderId=76975C170809111720510000"
+          "docName": "2024-07-03 - Plans_Revisions_Bubbled_Deemed Sep 27 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=48074C240704133943093947&folderId=76975C170809111720510000"
         },
         {
-          "docName": "2024-07-03 - Plans_Revisions_Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=998CC8D0-A7B8-4245-B2A3-93A42F9D142D&folderId=76975C170809111720510000"
+          "docName": "2024-07-03 - Plans_Revisions_Deemed Sep 27 2023.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=48074C240704133943294213&folderId=76975C170809111720510000"
         },
         {
           "docName": "2024-07-03 - Revisions List_Architectural.pdf",
@@ -32091,10 +32115,14 @@
         {
           "docName": "2024-07-03 - Revisions List_Civil.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=755EE38E-15FF-4D98-981A-AA2347D93D4A&folderId=76975C170809111720510000"
+        },
+        {
+          "docName": "2024-07-03 - Revisions List_Landscape.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80466CB0-B8E9-45EB-933E-3B07C6A40547&folderId=76975C170809111720510000"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720090176,
+      "lastUpdated": 1720176584,
       "relatedPermits": []
     },
     {
@@ -44672,6 +44700,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1720076400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -44692,10 +44726,22 @@
         {
           "docName": "2024-04-24 - Plans.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=24732C240424093427483437&folderId=24732C240424093107807369"
+        },
+        {
+          "docName": "2024-07-04 - Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BC7FDF7A-4A7F-49EC-AC02-0BE0CA4B59F9&folderId=24732C240424093107807369"
+        },
+        {
+          "docName": "2024-07-04 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F4F2C7B6-F7EA-4E24-A69E-9AC2A989B0BA&folderId=24732C240424093107807369"
+        },
+        {
+          "docName": "2024-07-04 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00B16620-89A5-4C45-A1DD-795A60977FBA&folderId=24732C240424093107807369"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1716374984,
+      "lastUpdated": 1720176584,
       "relatedPermits": []
     },
     {
@@ -74798,10 +74844,26 @@
         {
           "docName": "2024-01-22 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F230C437-B77C-45A6-BEC8-B183B249E077&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "2024-07-04 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8CE9F1DF-2902-48BB-AD6C-BA9141AFC75F&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "2024-07-04 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A218420D-7289-479B-A85B-BD0D1F162334&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "2024-07-04 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=70185B78-C330-4E78-9013-0D51B9E8CF90&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "2024-07-04 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6DEA8D6F-2E55-4C3D-A989-AD72EBE939C9&folderId=21705C220505084912868458"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718102977,
+      "lastUpdated": 1720176584,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -78049,10 +78111,18 @@
         {
           "docName": "2024-04-18 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1462FCED-CE7B-48AD-94F1-C752A8BEEF05&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-07-04 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=43AE067E-84C6-486C-8AF1-FD18227A4D3D&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "2024-07-04 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7FF9273E-6D57-4B66-9043-0C0996FBF317&folderId=15938C230421091532521120"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718880583,
+      "lastUpdated": 1720176584,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -79583,15 +79653,15 @@
           "endDate": 1704870000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1702450800,
-          "endDate": null
-        },
-        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1704870000,
+          "endDate": 1720076400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1702450800,
           "endDate": null
         },
         {
@@ -79637,10 +79707,30 @@
         {
           "docName": "2023-12-11 - Rezoning Book.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A85FDCEB-DBCD-4CF4-911F-2377BAB8DE0A&folderId=82940C231212161833044233"
+        },
+        {
+          "docName": "2024-07-04 - Letter_to_Mayor_and_Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=33D7DD2B-2299-4037-AF33-D0D21D6536E5&folderId=82940C231212161833044233"
+        },
+        {
+          "docName": "2024-07-04 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6A053BDB-B0F3-4416-85B6-5CC7F8F6F352&folderId=82940C231212161833044233"
+        },
+        {
+          "docName": "2024-07-04 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A8BBF720-C795-4825-8EAB-B9DC0B67D44E&folderId=82940C231212161833044233"
+        },
+        {
+          "docName": "2024-07-04 - Rezoning_Book_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0A7D16E0-5402-4985-B457-56B2825B4FB1&folderId=82940C231212161833044233"
+        },
+        {
+          "docName": "2024-07-04 - Rezoning_Book_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D77DD39B-0C62-4F3B-A15E-57A3FD98C6AD&folderId=82940C231212161833044233"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714214973,
+      "lastUpdated": 1720176584,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
