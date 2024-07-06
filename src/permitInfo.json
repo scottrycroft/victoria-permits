@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1720176129,
+  "dateRetrieved": 1720262522,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3251,7 +3251,6 @@
         "1841 HIGHFIELD RD",
         "1864 HIGHFIELD RD",
         "MEADOWBANK RD",
-        "1801 MEADOWBANK RD",
         "1860 MEADOWBANK RD",
         "1890 MEADOWBANK RD",
         "1417 SLUGGETT RD",
@@ -3322,7 +3321,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1719385200,
+      "lastUpdated": 1720262974,
       "relatedPermits": []
     },
     {
@@ -18116,7 +18115,7 @@
         "2625 ARBUTUS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM P-1 TO A SITE SPECIFIC ZONE TO CONSTRUCT AN APARTMENT BUILDING WITH INSTUTIONAL USE AND ATTACHED HOUSING",
+      "purpose": "TO REZONE FROM P-1 TO A SITE SPECIFIC ZONE TO CONSTRUCT AN APARTMENT BUILDING WITH INSTITUTIONAL USE AND ATTACHED HOUSING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18146,6 +18145,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1718694000,
+          "endDate": 1720162800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1720162800,
           "endDate": null
         }
       ],
@@ -18164,7 +18169,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1719413975,
+      "lastUpdated": 1720262974,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -18567,7 +18572,7 @@
         "1899 COCHRANE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO DEVELOPE 8 UNIT TOWNSHOUSE SITE AND TO REZONE FROM RS-6 SINGLE FAMILY DWELLING TO RT-WA ATTACHED WHITTIER AVENUE ZONE. VARIANCES REQUESTED.",
+      "purpose": "TO REZONE FROM RS-6 SINGLE FAMILY ZONE TO RT-WA (ATTACHED HOUSING WHITTIER AVENUE) ZONE TO CONSTRUCT AN 8 UNIT TOWNHOUSE PROJECT. VARIANCES WILL BE REQUIRED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18584,7 +18589,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1720262974,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -74764,6 +74769,18 @@
           "endDate": 1705906800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1708498800,
+          "endDate": 1720162800
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1720162800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -74863,7 +74880,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1720262974,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
