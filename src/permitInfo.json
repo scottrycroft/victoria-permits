@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1720435337,
+  "dateRetrieved": 1720521725,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18545,6 +18545,12 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1718175600,
           "endDate": 1719471600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1719990000,
+          "endDate": null
         }
       ],
       "documents": [
@@ -18558,7 +18564,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720090176,
+      "lastUpdated": 1720522179,
       "relatedPermits": []
     },
     {
@@ -18593,6 +18599,37 @@
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "945 NICHOLSON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01070",
+      "applicationDate": 1720422000,
+      "addresses": [
+        "945 NICHOLSON ST",
+        "4085 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1720422000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00771",
           "relatedPermitType": "REZONING"
         }
       ]
@@ -20677,6 +20714,37 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01069",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "945 NICHOLSON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00771",
+      "applicationDate": 1720422000,
+      "addresses": [
+        "945 NICHOLSON ST",
+        "4085 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1720422000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01070",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -44702,12 +44770,18 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1716274800,
-          "endDate": null
+          "endDate": 1720076400
         },
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1720076400,
+          "endDate": 1720076400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1720422000,
           "endDate": null
         },
         {
@@ -44746,7 +44820,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1720522179,
       "relatedPermits": []
     },
     {
@@ -78080,6 +78154,18 @@
           "endDate": 1717743600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1716361200,
+          "endDate": 1720076400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1720422000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -78139,7 +78225,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1720522179,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -79682,14 +79768,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1720422000,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -79747,7 +79833,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1720522179,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
@@ -81921,7 +82007,7 @@
       "purpose": "The application proposes the RM-3: Mixed Residential Zone to construct two six-storey multi-unit residential buildings with a total of 238 rental dwelling unit. The proposal also includes an amendment to the Official Community Plan.",
       "progressSections": [
         {
-          "taskDescription": "Public Hearing - December 5, 2023",
+          "taskDescription": "Approved",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -81984,7 +82070,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1704541769,
+      "lastUpdated": 1720522215,
       "relatedPermits": []
     },
     {
@@ -82179,12 +82265,16 @@
         {
           "docName": "",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2024-01 LMC.pdf"
+        },
+        {
+          "docName": "2024 07 09 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/72937/Rezoning%20Application%202024-01-%20346%20Island%20Highway.pdf?handle=31F91FE2ABAD44FFB5E50C94EAB81337"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1715943017,
+      "lastUpdated": 1720522215,
       "relatedPermits": []
     },
     {
