@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1720521725,
+  "dateRetrieved": 1720608134,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3176,14 +3176,14 @@
         },
         {
           "taskDescription": "",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1715324400,
-          "endDate": null
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1720422000,
+          "endDate": 1720508400
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1715324400,
           "endDate": null
         },
         {
@@ -3230,7 +3230,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1720090176,
+      "lastUpdated": 1720608591,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001572",
@@ -17897,14 +17897,13 @@
       ]
     },
     {
-      "primaryStreetName": "3982 GORDON HEAD RD",
+      "primaryStreetName": "3984 GORDON HEAD RD",
       "applicant": "SEBA CONSTRUCTION",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01058",
       "applicationDate": 1701327600,
       "addresses": [
-        "3982 GORDON HEAD RD",
         "3984 GORDON HEAD RD",
         "3986 GORDON HEAD RD"
       ],
@@ -17961,7 +17960,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1720608591,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -18074,6 +18073,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1709103600,
+          "endDate": 1720508400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1720508400,
           "endDate": null
         }
       ],
@@ -18092,7 +18097,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1720608591,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -18319,6 +18324,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1711090800,
+          "endDate": 1720508400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1720508400,
           "endDate": null
         }
       ],
@@ -18337,7 +18348,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1720608591,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20756",
@@ -19448,12 +19459,6 @@
           "endDate": 1700550000
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": 1695279600,
-          "endDate": 1704783600
-        },
-        {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1700550000,
@@ -19466,6 +19471,12 @@
           "endDate": 1709017200
         },
         {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1695279600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1704783600,
@@ -19474,7 +19485,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1720608591,
       "relatedPermits": []
     },
     {
@@ -19978,14 +19989,13 @@
       ]
     },
     {
-      "primaryStreetName": "3982 GORDON HEAD RD",
+      "primaryStreetName": "3984 GORDON HEAD RD",
       "applicant": "SEBA CONSTRUCTION LTD.",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00752",
       "applicationDate": 1701327600,
       "addresses": [
-        "3982 GORDON HEAD RD",
         "3984 GORDON HEAD RD",
         "3986 GORDON HEAD RD"
       ],
@@ -20007,7 +20017,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1720608591,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00516",
@@ -26469,8 +26479,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719571866,
-      "relatedPermits": []
+      "lastUpdated": 1720608591,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00875",
+          "relatedPermitType": "Rezoning Application"
+        }
+      ]
     },
     {
       "primaryStreetName": "1620 BLANSHARD ST",
@@ -32008,12 +32023,6 @@
           "endDate": 1719990000
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1715238000,
-          "endDate": 1719990000
-        },
-        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1719990000,
@@ -32195,7 +32204,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1720608591,
       "relatedPermits": []
     },
     {
@@ -74846,7 +74855,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1708498800,
-          "endDate": 1720162800
+          "endDate": 1720076400
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -74954,7 +74963,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720262974,
+      "lastUpdated": 1720608591,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -80574,6 +80583,72 @@
         },
         {
           "relatedPermitID": "CLC00437",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2601 AVEBURY AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00875",
+      "applicationDate": 1719903600,
+      "addresses": [
+        "2601 AVEBURY AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to permit the existing single family dwelling with secondary suite to be converted to duplex.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1719903600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00442",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
