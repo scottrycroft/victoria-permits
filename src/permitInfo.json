@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1720608134,
+  "dateRetrieved": 1720695262,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12176,8 +12176,8 @@
         {
           "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
           "taskType": "*COUNCIL - READINGS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1720422000,
+          "endDate": 1720422000
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -12218,7 +12218,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1718880583,
+      "lastUpdated": 1720695724,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00138",
@@ -16730,17 +16730,23 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1712300400,
+          "endDate": 1720594800
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "REVISED ELEVATIONS_FEB 15 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=ED1EF940-B3FA-4972-AEF5-3990622897F1&folderId=87004C230330133255831817"
+          "docName": "LANDSCAPE_4551 VIEWMONT",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=7C9436D1-5917-48EE-B495-8338372679AC&folderId=87004C230330133255831817"
         },
         {
-          "docName": "REVISED LANDSCAPE PLANS_FEB 15 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=20E692A0-4D87-45ED-9C57-A59CEED5F08D&folderId=87004C230330133255831817"
+          "docName": "REVISED ELEVATIONS_FEB 15 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=ED1EF940-B3FA-4972-AEF5-3990622897F1&folderId=87004C230330133255831817"
         },
         {
           "docName": "REVISED SITE PLAN_FEB 15 2024",
@@ -16748,7 +16754,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1720695724,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -19459,6 +19465,12 @@
           "endDate": 1700550000
         },
         {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1695279600,
+          "endDate": 1701068400
+        },
+        {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1700550000,
@@ -19471,12 +19483,6 @@
           "endDate": 1709017200
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": 1695279600,
-          "endDate": null
-        },
-        {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1704783600,
@@ -19485,7 +19491,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1720608591,
+      "lastUpdated": 1720695724,
       "relatedPermits": []
     },
     {
@@ -72424,6 +72430,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1717570800,
+          "endDate": 1719471600
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -72562,7 +72574,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719658195,
+      "lastUpdated": 1720695724,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
