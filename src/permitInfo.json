@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1720695262,
+  "dateRetrieved": 1720780927,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3262,6 +3262,18 @@
       "purpose": "The District is considering a REZONING proposal to create a new zone \"Maber Wetlands Agriculture: A-2\" to restrict the land use to agriculture which would include 20 properties.",
       "progressSections": [
         {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": 1719212400,
+          "endDate": 1719212400
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": null,
@@ -3282,18 +3294,6 @@
         {
           "taskDescription": "",
           "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
           "startDate": null,
           "endDate": null
         },
@@ -3321,7 +3321,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1720262974,
+      "lastUpdated": 1720781383,
       "relatedPermits": []
     },
     {
@@ -5721,6 +5721,31 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "328 Wale Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000026",
+      "applicationDate": 1719903600,
+      "addresses": [
+        "328 Wale Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable the alteration of an accessory building.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/Development%20Permit%20DP000026%20%28signed%29.pdf",
+          "docName": "Development Permit DP000026 (signed)"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1720781423,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "3554A Ryder Hesjedal Way",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -6235,7 +6260,7 @@
           "endDate": 1714978800
         },
         {
-          "taskDescription": "Recommendations scheduled for Council consideration",
+          "taskDescription": "Recommendations deferred by Council",
           "taskType": "",
           "startDate": 1720422000,
           "endDate": 1720422000
@@ -6256,13 +6281,13 @@
         },
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3396",
-          "docName": "Recommendations scheduled for Council consideration July 8, 2024."
+          "docName": "Recommendations deferred by Council July 8, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1720090211,
+      "lastUpdated": 1720781423,
       "relatedPermits": []
     },
     {
@@ -43334,7 +43359,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1687762800,
-          "endDate": null
+          "endDate": 1720681200
         },
         {
           "taskDescription": "Meeting date for Council to hold the Opportunity for Public Comment and to hear presentations from the applicant and the public.",
@@ -43362,7 +43387,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720090176,
+      "lastUpdated": 1720781383,
       "relatedPermits": []
     },
     {
@@ -45110,6 +45135,49 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1720090176,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2900 DOUGLAS ST",
+      "applicant": "GREGORY EEMAN",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00277",
+      "applicationDate": 1720508400,
+      "addresses": [
+        "2900 DOUGLAS ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to build new retail furniture sales building.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1720681200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1720681200,
       "relatedPermits": []
     },
     {
@@ -72435,8 +72503,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1720681200,
+          "endDate": 1720681200
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -72574,7 +72642,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720695724,
+      "lastUpdated": 1720781383,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
