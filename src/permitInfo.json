@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1720780927,
+  "dateRetrieved": 1720867820,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2459,6 +2459,10 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=23563C240429101403270491&folderId=16332C231110115426945016"
         },
         {
+          "docName": "1934 Hovey Rd_Architectural Plans REVISED_July 2024_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=26896C240712131425239760&folderId=16332C231110115426945016"
+        },
+        {
           "docName": "1934 Hovey Road_Letter of Rationale_Nov 10 2023_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=16614C231123114622991161&folderId=16332C231110115426945016"
         },
@@ -2468,7 +2472,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1714474168,
+      "lastUpdated": 1720868277,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -2880,19 +2884,19 @@
         },
         {
           "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1720422000,
+          "endDate": 1720422000
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
+          "startDate": 1720422000,
+          "endDate": 1720422000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
@@ -2917,7 +2921,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1719485455,
+      "lastUpdated": 1720868277,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001586",
@@ -12277,6 +12281,12 @@
           "endDate": 1718694000
         },
         {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -12291,12 +12301,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
-          "taskType": "*COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -12327,7 +12331,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1719413975,
+      "lastUpdated": 1720868277,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00007",
@@ -12383,6 +12387,12 @@
           "endDate": 1718089200
         },
         {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": null,
@@ -12401,12 +12411,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
-          "taskType": "*COUNCIL - READINGS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
           "startDate": null,
@@ -12421,7 +12425,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1718189381,
+      "lastUpdated": 1720868277,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
