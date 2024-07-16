@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721040122,
+  "dateRetrieved": 1721126535,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10317,6 +10317,76 @@
       ]
     },
     {
+      "primaryStreetName": "2298 LANSDOWNE RD",
+      "applicant": "MARKING DEVELOPMENTS",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000053",
+      "applicationDate": 1721026800,
+      "addresses": [
+        "2298 LANSDOWNE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit with variances.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1721026800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ZON00054",
+          "relatedPermitType": "ZONING BYLAW AMENDMENT"
+        },
+        {
+          "relatedPermitID": "OCP00009",
+          "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -12585,6 +12655,82 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DP000052",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2298 LANSDOWNE RD",
+      "applicant": "MARKING DEVELOPMENTS",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00054",
+      "applicationDate": 1721026800,
+      "addresses": [
+        "2298 LANSDOWNE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1721026800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "OCP00009",
+          "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT"
+        },
+        {
+          "relatedPermitID": "DP000053",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -18596,6 +18742,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1719990000,
+          "endDate": 1721026800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1721026800,
           "endDate": null
         }
       ],
@@ -18610,7 +18762,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720522179,
+      "lastUpdated": 1721126993,
       "relatedPermits": []
     },
     {
@@ -18661,7 +18813,7 @@
         "4085 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM C-1NC NEIGHBOURHOOD COMMERCIAL AND RS-6 SINGLE FAMILY DWELLING INTO A SITE SPECIFIC ZONE FOR A 12 STORY MIXED COMMERCIAL AND RESIDENTIAL USE WITH A THREE LEVEL UNDERGROUND PARKING.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18672,7 +18824,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1720422000,
+      "lastUpdated": 1721126993,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -20775,7 +20927,7 @@
         "4085 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM C-1NC NEIGHBOURHOOD COMMERCIAL AND RS-6 SINGLE FAMILY DWELLING INTO A SITE SPECIFIC ZONE FOR A 12 STORY MIXED COMMERCIAL AND RESIDENTIAL USE WITH A THREE LEVEL UNDERGROUND PARKING.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -20786,7 +20938,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1720422000,
+      "lastUpdated": 1721126993,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01070",
@@ -20894,22 +21046,26 @@
       "purpose": "Development Permit and Development Variance Permit application to construct an 8-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Council Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1721026800,
+          "endDate": 1721026800
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-Plans.pdf"
+        },
+        {
+          "docName": "July 15, 2024 Council Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/39477/6a-DP%20_%20DVP%20-%209667%20Fifth%20Street.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1717498217,
+      "lastUpdated": 1721127028,
       "relatedPermits": []
     },
     {
@@ -45158,12 +45314,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1720681200,
-          "endDate": null
+          "endDate": 1721026800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1721026800,
           "endDate": null
         },
         {
@@ -45181,7 +45337,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1720681200,
+      "lastUpdated": 1721126993,
       "relatedPermits": []
     },
     {
