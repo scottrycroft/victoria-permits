@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721126535,
+  "dateRetrieved": 1721212937,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2398,13 +2398,13 @@
           "taskDescription": "",
           "taskType": "WITH APPLICANT",
           "startDate": 1707462000,
-          "endDate": null
+          "endDate": 1712300400
         },
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1721113200,
+          "endDate": 1721113200
         },
         {
           "taskDescription": "",
@@ -2472,7 +2472,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1720868277,
+      "lastUpdated": 1721213394,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -17467,6 +17467,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1708066800,
+          "endDate": 1720335600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1721113200,
           "endDate": null
         }
       ],
@@ -17489,7 +17495,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1721213394,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -18802,14 +18808,13 @@
       ]
     },
     {
-      "primaryStreetName": "945 NICHOLSON ST",
+      "primaryStreetName": "4085 QUADRA ST",
       "applicant": "N/A",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01070",
       "applicationDate": 1720422000,
       "addresses": [
-        "945 NICHOLSON ST",
         "4085 QUADRA ST"
       ],
       "status": "ACTIVE",
@@ -18818,13 +18823,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1720422000,
+          "endDate": 1721113200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1721113200,
+          "endDate": 1721113200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1721126993,
+      "lastUpdated": 1721213394,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -20932,13 +20943,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1720422000,
+          "endDate": 1721113200
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1721113200,
+          "endDate": 1721113200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1721126993,
+      "lastUpdated": 1721213394,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01070",
@@ -42074,7 +42091,7 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1720335600,
           "endDate": null
         }
       ],
@@ -42093,7 +42110,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719312579,
+      "lastUpdated": 1721213394,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -45112,6 +45129,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to consider approving the application.",
           "taskType": "Council Meeting",
           "startDate": null,
@@ -45157,7 +45180,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719571866,
+      "lastUpdated": 1721213394,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000638",
@@ -45211,6 +45234,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1721113200,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -45234,7 +45263,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719312579,
+      "lastUpdated": 1721213394,
       "relatedPermits": []
     },
     {
@@ -73719,7 +73748,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1716447600,
-          "endDate": null
+          "endDate": 1718348400
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -73851,7 +73880,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718880583,
+      "lastUpdated": 1721213394,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
