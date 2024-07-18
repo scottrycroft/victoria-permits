@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721212937,
+  "dateRetrieved": 1721299329,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2624,12 +2624,16 @@
       ],
       "documents": [
         {
+          "docName": "7840 Lochside Dr_Architectural Plans Resubmission_July 5 2024_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240717120254579414&folderId=16614C231124123438372925"
+        },
+        {
           "docName": "7840 Lochside Dr_Architectural Plans_Nov 23 2023_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=16614C231124140806164023&folderId=16614C231124123438372925"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -5571,6 +5575,31 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "Lot A (West) Royal Bay South Latoria",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000012",
+      "applicationDate": 1715756400,
+      "addresses": [
+        "Lot A (West) Royal Bay South Latoria"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable 86 Townhouses",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/DP12%20-%20Web.pdf",
+          "docName": "DP12 - Web"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1721299828,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "3700-3771 Producers Way",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -5696,6 +5725,32 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1717584618,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3464 Trumpeter Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000022",
+      "applicationDate": 1720594800,
+      "addresses": [
+        "3464 Trumpeter Street",
+        "3466 Trumpeter Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable 2 Duplexes with Suites",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/DP000022_Complete_Signed.pdf",
+          "docName": "DP000022_Complete_Signed"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1721299828,
       "relatedPermits": []
     },
     {
@@ -10138,6 +10193,18 @@
           "endDate": 1710399600
         },
         {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": 1710745200,
+          "endDate": 1710745200
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": 1714546800,
+          "endDate": 1714546800
+        },
+        {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
           "startDate": 1715583600,
@@ -10150,20 +10217,8 @@
           "endDate": 1718089200
         },
         {
-          "taskDescription": "The application is under initial review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
           "endDate": null
         },
@@ -10176,7 +10231,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1718189381,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00051",
@@ -10332,8 +10387,8 @@
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1721199600,
+          "endDate": 1721199600
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -10374,7 +10429,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1721026800,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -12336,7 +12391,7 @@
         "3275 UPPER TERRACE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment for the rezoning of the property of RS1 to RS2 to allow for a subdivision (2 lots).",
+      "purpose": "This is an application for a zoning bylaw amendment for the rezoning of the property of R-1 to R-2 to allow for a subdivision (2 lots).",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -12401,7 +12456,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1720868277,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00007",
@@ -12424,7 +12479,7 @@
         "291 KING GEORGE TERR"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment for new comprehensive development zone.",
+      "purpose": "This is an application for a zoning bylaw amendment for new comprehensive development zone to enable a three lot residential subdivision.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -12495,7 +12550,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1720868277,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -12675,8 +12730,8 @@
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1721199600,
+          "endDate": 1721199600
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -12723,7 +12778,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1721026800,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -16910,6 +16965,12 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1721026800,
+          "endDate": 1721199600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
@@ -16929,7 +16990,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720695724,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -17478,24 +17539,16 @@
       ],
       "documents": [
         {
-          "docName": "ELEVATIONS_JULY 10, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A3D498FE-8DEB-40AC-9C94-766A669271D6&folderId=20922C230710160751528861"
+          "docName": "REVISED SHADOW PLANS_JULY 7 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=F9BCE181-47E0-4FD6-B4EB-5C2DA1754CB2&folderId=20922C230710160751528861"
         },
         {
-          "docName": "LANDSCAPE_JULY 21, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E8132CB1-F170-49D1-822C-858C5E5DF5AC&folderId=20922C230710160751528861"
-        },
-        {
-          "docName": "SHADOW STUDY_JULY 10, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=551644A0-E70E-48CD-A7EE-3D5904D028CE&folderId=20922C230710160751528861"
-        },
-        {
-          "docName": "SITE_JULY 10, 2023-nfp.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=EE6AB7E0-AD5F-4A9E-90FF-C9B31BF35074&folderId=20922C230710160751528861"
+          "docName": "REVISED SITE PLAN_JULY 7 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=51AA06CE-4A5D-4ABD-95C1-27AE44015AEA&folderId=20922C230710160751528861"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1721213394,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -18795,11 +18848,30 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1720076400,
           "endDate": 1720076400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1721199600,
+          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATION PLANS_JUNE 21 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E87BFA93-8E0C-4D5D-AFD7-AF0244E5859D&folderId=33783C240624080622607443"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_JUNE 21 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1F72DF63-8C45-4B8F-B67E-550CE15EB226&folderId=33783C240624080622607443"
+        },
+        {
+          "docName": "SITE PLAN_JUNE 21 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9A29E453-5CF8-4650-9A72-05103E7C2B0D&folderId=33783C240624080622607443"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1720262974,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -19413,11 +19485,17 @@
           "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
           "startDate": 1681974000,
           "endDate": 1681974000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -20907,7 +20985,7 @@
         "1899 COCHRANE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 SINGLE FAMILY DWELLING TO RT-WA ATTACHED WHITTIER AVENUE ZONE. VARIANCES REQUESTED.",
+      "purpose": "TO REZONE FROM RS-6 SINGLE FAMILY ZONE TO RT-WA (ATTACHED HOUSING WHITTIER AVENUE) ZONE TO CONSTRUCT AN 8 UNIT TOWNHOUSE PROJECT. VARIANCES WILL BE REQUIRED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -20918,7 +20996,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1720176584,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01069",
@@ -29769,10 +29847,17 @@
       ],
       "status": "ACTIVE",
       "purpose": "See REZ00810 for project details. The City is considering a Development Permit application to construct an assisted living building.",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1695984488,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -31110,15 +31195,21 @@
           "endDate": 1709881200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1711609200,
+          "endDate": 1721199600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1709881200,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1711609200,
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1721199600,
           "endDate": null
         },
         {
@@ -31154,10 +31245,18 @@
         {
           "docName": "2024-06-12 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4A120271-D144-44CF-B7A9-B6ABAB904185&folderId=07932C240301083919484591"
+        },
+        {
+          "docName": "2024-07-16 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F8170C03-F8BB-4A41-93DA-2581FA2049F7&folderId=07932C240301083919484591"
+        },
+        {
+          "docName": "2024-07-16 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EA264300-77BF-48CE-A035-083A2812BD65&folderId=07932C240301083919484591"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718275789,
+      "lastUpdated": 1721299793,
       "relatedPermits": []
     },
     {
@@ -79050,7 +79149,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1710399600,
-          "endDate": null
+          "endDate": 1721199600
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -79095,10 +79194,26 @@
         {
           "docName": "2024-05-06 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=56DB0979-80A7-4DF8-934F-021C4A0B2A4B&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-07-17 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=060B1646-AF9C-469E-AF88-21AA6445B939&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-07-17 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B48F0415-C88C-42E2-85A7-EC91BFDA05DB&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-07-17 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=76C78085-248E-4225-BEC2-E3C3E20DD2D5&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-07-17 - Plans -Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC1E19B4-466F-41AF-A744-34690B2AEFD8&folderId=48037C230809101541209990"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715165378,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00263",
@@ -79270,6 +79385,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1721199600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -79328,10 +79449,26 @@
         {
           "docName": "2024-05-01 - Transmittal of Changes.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11463E5E-1BE2-48A7-AF6C-D7F23C468FFD&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-07-17 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1220E079-CB92-4EBA-815A-127FFAEC667F&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-07-17 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BED5F9CF-51C9-4972-81B6-BEC711B212DC&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-07-17 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1E19896A-5C3F-481E-B827-97DB2866AF4F&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-07-17 - Transmittal of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=52646C240717153511343695&folderId=53740C230830100501497708"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714733366,
+      "lastUpdated": 1721299793,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
