@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721385734,
+  "dateRetrieved": 1721472104,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20082,8 +20082,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1721472561,
       "relatedPermits": [
+        {
+          "relatedPermitID": "ALR00042",
+          "relatedPermitType": "AGRICULTURAL LAND RESERVE"
+        },
         {
           "relatedPermitID": "DVP00513",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
@@ -29871,13 +29875,13 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1721286000,
+          "endDate": 1721372400
         }
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1721472561,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -75413,10 +75417,18 @@
         {
           "docName": "2024-07-04 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6DEA8D6F-2E55-4C3D-A989-AD72EBE939C9&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "24-055.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53289C240719135837694690&folderId=21705C220505084912868458"
+        },
+        {
+          "docName": "24-056.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53289C240719135745132314&folderId=21705C220505084912868458"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720608591,
+      "lastUpdated": 1721472561,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -75610,12 +75622,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1718262000,
-          "endDate": null
+          "endDate": 1721372400
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1721372400,
           "endDate": null
         },
         {
@@ -75692,7 +75704,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1718449379,
+      "lastUpdated": 1721472561,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -78028,10 +78040,18 @@
         {
           "docName": "2023-10-11 - Plans - Revisions - bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=84FD4E42-5F13-4E90-AF5B-CEDBB526EBE1&folderId=02279C230303090438303812"
+        },
+        {
+          "docName": "24-057.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53289C240719140120110923&folderId=02279C230303090438303812"
+        },
+        {
+          "docName": "24-058.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53289C240719140012965901&folderId=02279C230303090438303812"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1721472561,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
