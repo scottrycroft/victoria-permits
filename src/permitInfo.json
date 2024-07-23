@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721644914,
+  "dateRetrieved": 1721731325,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18168,7 +18168,7 @@
         "3986 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 TO A SITE SPECIFIC RESIDENTIAL MIXED ZONE TO CONSTRUCT A 6 STOREY APARTMENT BUILDING CONTAINING 78 UNITS AND A 3 STOREY TOWNHOUSE BUILDING CONTAINING 5 UNITS, WITH UNDERGROUND PARKING",
+      "purpose": "TO REZONE TO RA-11 TO CONSTRUCT A 6 STOREY APARTMENT BUILDING CONTAINING 78 UNITS WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18220,7 +18220,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720608591,
+      "lastUpdated": 1721731790,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -45506,6 +45506,18 @@
       "purpose": "The City is considering a Development Permit with Variance application to add small buildings for a sauna with a variance for open site space. See DP000640 for project details prior to July 18, 2024.",
       "progressSections": [
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1721113200,
+          "endDate": 1721113200
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1721631600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": null,
@@ -45549,7 +45561,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721286000,
+      "lastUpdated": 1721731790,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
@@ -75420,7 +75432,7 @@
         },
         {
           "docName": "24-055.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53289C240719135837694690&folderId=21705C220505084912868458"
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53742C240722120048900851&folderId=21705C220505084912868458"
         },
         {
           "docName": "24-056.pdf",
@@ -75428,7 +75440,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721472561,
+      "lastUpdated": 1721731790,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -81041,26 +81053,26 @@
           "endDate": 1715842800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1718607600,
+          "endDate": 1721286000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1714114800,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1715842800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
+          "startDate": 1721631600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -81110,7 +81122,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721386201,
+      "lastUpdated": 1721731790,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
