@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721731325,
+  "dateRetrieved": 1721817705,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -6778,7 +6778,7 @@
       "purpose": "Permit a 38-unit townhouse development and a 60-unit apartment development.",
       "progressSections": [
         {
-          "taskDescription": "Under Review by Staff",
+          "taskDescription": "Under Review by Staff.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -6793,7 +6793,40 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1700912988,
+      "lastUpdated": 1721818203,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2420 Sooke Road",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000014",
+      "applicationDate": 1719385200,
+      "addresses": [
+        "2420 Sooke Road",
+        "2426 Sooke Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Permit a 102-unit rental apartment development.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review by Staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/RZ14Web.pdf",
+          "docName": "RZ14Web"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1721818203,
       "relatedPermits": []
     },
     {
@@ -18827,6 +18860,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1721026800,
+          "endDate": 1721631600
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVAL",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -18841,7 +18880,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1721126993,
+      "lastUpdated": 1721818166,
       "relatedPermits": []
     },
     {
@@ -32356,12 +32395,6 @@
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
-          "startDate": 1719990000,
-          "endDate": 1719990000
-        },
-        {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
           "startDate": 1720076400,
           "endDate": 1720076400
         },
@@ -32535,7 +32568,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720608591,
+      "lastUpdated": 1721818166,
       "relatedPermits": []
     },
     {
@@ -45500,7 +45533,13 @@
       "folderNumber": "DPV00278",
       "applicationDate": 1721286000,
       "addresses": [
-        "309 BELLEVILLE ST"
+        "309 BELLEVILLE ST",
+        "319 BELLEVILLE ST",
+        "321 BELLEVILLE ST",
+        "327 BELLEVILLE ST",
+        "329 BELLEVILLE ST",
+        "660 OSWEGO ST",
+        "330 QUEBEC ST"
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Development Permit with Variance application to add small buildings for a sauna with a variance for open site space. See DP000640 for project details prior to July 18, 2024.",
@@ -45561,7 +45600,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721731790,
+      "lastUpdated": 1721818166,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
