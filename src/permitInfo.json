@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721817705,
+  "dateRetrieved": 1721904118,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3350,6 +3350,66 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1720781383,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "553 SENANUS DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001618",
+      "applicationDate": 1720508400,
+      "addresses": [
+        "553 SENANUS DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit with Variance for retaining wall within the Environmental Development Permit Area",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "553 Senanus Dr_Application Pkg_June 20 2024_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=113574E8-FD6F-4D81-9589-CA35DD9B83CA&folderId=26896C240709122711235522"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1720508400,
       "relatedPermits": []
     },
     {
@@ -45551,21 +45611,15 @@
           "endDate": 1721113200
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1709881200,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1721631600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -45600,7 +45654,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721818166,
+      "lastUpdated": 1721904580,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
@@ -75475,11 +75529,11 @@
         },
         {
           "docName": "24-056.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53289C240719135745132314&folderId=21705C220505084912868458"
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=54582C240724110009046567&folderId=21705C220505084912868458"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721731790,
+      "lastUpdated": 1721904580,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -79511,12 +79565,6 @@
           "endDate": 1693378800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1693378800,
-          "endDate": 1695625200
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1695625200,
@@ -79545,6 +79593,12 @@
           "taskType": "With Applicant",
           "startDate": 1714546800,
           "endDate": 1721199600
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1693378800,
+          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -79636,7 +79690,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721386201,
+      "lastUpdated": 1721904580,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
