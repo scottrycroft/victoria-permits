@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1721990513,
+  "dateRetrieved": 1722077231,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2908,6 +2908,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1720422000,
+          "endDate": 1720422000
+        },
+        {
+          "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
           "startDate": 1720422000,
           "endDate": 1720422000
@@ -2920,15 +2926,9 @@
         },
         {
           "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
           "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1721199600,
+          "endDate": 1721199600
         },
         {
           "taskDescription": "",
@@ -2945,7 +2945,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1720868277,
+      "lastUpdated": 1722077688,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001586",
@@ -17599,7 +17599,7 @@
         "3991 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 48 UNIT APARTMENT BUILDING WITH UNDERGROUND PARKING (29 SPACES)",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 48 UNIT MULTI FAMILY DWELLING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -17647,6 +17647,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1721113200,
+          "endDate": 1721977200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1721977200,
           "endDate": null
         }
       ],
@@ -17661,7 +17667,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1722077688,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -18618,6 +18624,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1713855600,
+          "endDate": 1721977200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1721977200,
           "endDate": null
         }
       ],
@@ -18640,7 +18652,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713955745,
+      "lastUpdated": 1722077688,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -19967,7 +19979,7 @@
         "3991 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 48 UNIT APARTMENT BUILDING WITH UNDERGROUND PARKING (29 SPACES)",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 48 UNIT MULTI FAMILY DWELLING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -19984,7 +19996,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1722077688,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00506",
@@ -45510,6 +45522,24 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1721977200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
@@ -45539,7 +45569,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720090176,
+      "lastUpdated": 1722077688,
       "relatedPermits": []
     },
     {
