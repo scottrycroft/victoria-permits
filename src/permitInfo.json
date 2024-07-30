@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1722249727,
+  "dateRetrieved": 1722336246,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10495,7 +10495,7 @@
         "2298 LANSDOWNE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit with variances.",
+      "purpose": "This is an application for a development permit with variances for a 13 unit town house project.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -10542,7 +10542,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1722336714,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -12838,7 +12838,7 @@
         "2298 LANSDOWNE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment.",
+      "purpose": "This is an application for a zoning bylaw amendment to rezone the the property from the R-4 to allow a 13 unit townhouse project.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -12889,9 +12889,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ZON00054 - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718090617724035&folderId=06162C240715134040653746"
+        }
+      ],
       "city": "Oak Bay",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1722336714,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -21471,6 +21476,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2114 Beacon Avenue West",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "68a67cf307",
+      "applicationDate": 1722336749,
+      "addresses": [
+        "2114 Beacon Avenue West"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit and Development Variance Permit application for a four-storey 136-unit multi-family residential development with underground parking.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2114-Beacon-Ave-W-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1722336749,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "2306 Grove Crescent",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -21780,6 +21817,38 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1717066212,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "9895/9899 Seventh Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "e55abb9b07",
+      "applicationDate": 1722336749,
+      "addresses": [
+        "9895/9899 Seventh Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit and Development Variance Permit application for a four-storey 21-unit multi-family residential development with surface parking.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1722336749,
       "relatedPermits": []
     },
     {
@@ -64644,7 +64713,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1685343600,
-          "endDate": null
+          "endDate": 1722236400
         },
         {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
@@ -64708,7 +64777,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1722336714,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00144",
@@ -77210,7 +77279,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1722236400,
           "endDate": null
         },
         {
@@ -77279,7 +77348,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1722336714,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -77457,10 +77526,14 @@
         {
           "docName": "2024-02-22 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=46D8FB48-871F-4275-83BF-D2BC5318F6C0&folderId=81484C221214094741040552"
+        },
+        {
+          "docName": "24-042.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=55950C240729152204484766&folderId=81484C221214094741040552"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715942980,
+      "lastUpdated": 1722336714,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00236",
@@ -80538,21 +80611,21 @@
           "endDate": 1710226800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1710226800,
+          "endDate": 1721890800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1707202800,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1710226800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1722236400,
           "endDate": null
         },
         {
@@ -80601,7 +80674,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721990983,
+      "lastUpdated": 1722336714,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00424",
