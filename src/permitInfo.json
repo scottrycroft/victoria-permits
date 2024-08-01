@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1722336246,
+  "dateRetrieved": 1722508912,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5555,6 +5555,31 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2930 Brickshire Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000007",
+      "applicationDate": 1721804400,
+      "addresses": [
+        "2930 Brickshire Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "An Environmental (Riparian) and Form & Character Development Permit to enable site works associated with a car dealership.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/Permit_DP000007_2930BrickshireDr_COMPLETE_2024-07-24.pdf",
+          "docName": "Permit_DP000007_2930BrickshireDr_COMPLETE_2024-07-24"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1722509413,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "Mary Anne Crescent",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -6403,6 +6428,12 @@
           "taskType": "",
           "startDate": 1720422000,
           "endDate": 1720422000
+        },
+        {
+          "taskDescription": "Recommendations to Special Parks, Trails, and Recreation Committee Meeting",
+          "taskType": "",
+          "startDate": 1723014000,
+          "endDate": 1723014000
         }
       ],
       "documents": [
@@ -6421,12 +6452,16 @@
         {
           "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3396",
           "docName": "Recommendations deferred by Council July 8, 2024."
+        },
+        {
+          "docURL": "https://colwood.civicweb.net/Portal/MeetingInformation.aspx?Id=3500",
+          "docName": "Recommendations to Special Parks, Trails, and Recreation Committee Meeting August 7, 2024."
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1720781423,
+      "lastUpdated": 1722509413,
       "relatedPermits": []
     },
     {
@@ -10474,9 +10509,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "DP000052 -  2101 Sutherland- site plan (8.5x11).pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=191E8EBB-5307-44E1-85C8-22FA9D4AB179&folderId=01386C240529102630803724"
+        }
+      ],
       "city": "Oak Bay",
-      "lastUpdated": 1716966000,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00053",
@@ -10540,9 +10580,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "DP000053  - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017369486&folderId=06162C240715130520214419"
+        },
+        {
+          "docName": "DP000053  - 2298 Lansdowne Rod -Landscape.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017447603&folderId=06162C240715130520214419"
+        },
+        {
+          "docName": "DP000053 - 2298 Lansdowne Road -  Rationale Letter.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017478839&folderId=06162C240715130520214419"
+        }
+      ],
       "city": "Oak Bay",
-      "lastUpdated": 1722336714,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -12627,8 +12680,8 @@
         {
           "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
           "taskType": "*COUNCIL - READINGS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1722236400,
+          "endDate": 1722236400
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
@@ -12663,7 +12716,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -12817,9 +12870,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ZON00053 -  2101 Sutherland- site plan (8.5x11).pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=843AE5C0-5EBF-4CD1-8B25-83BF8CAEF094&folderId=01386C240529093150784572"
+        }
+      ],
       "city": "Oak Bay",
-      "lastUpdated": 1716966000,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000052",
@@ -12891,12 +12949,20 @@
       ],
       "documents": [
         {
+          "docName": "ZON00054 -  2298 Lansdowne Rod -Landscape.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718090617661552&folderId=06162C240715134040653746"
+        },
+        {
+          "docName": "ZON00054 - 2298 Lansdowne Road -  Rationale Letter.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718090617692793&folderId=06162C240715134040653746"
+        },
+        {
           "docName": "ZON00054 - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718090617724035&folderId=06162C240715134040653746"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1722336714,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -13744,8 +13810,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1718967554,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD20873",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        },
         {
           "relatedPermitID": "BLD20762",
           "relatedPermitType": "RESIDENTIAL PERMIT"
@@ -16845,7 +16915,7 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1684998000,
-          "endDate": null
+          "endDate": 1722409200
         }
       ],
       "documents": [
@@ -16859,7 +16929,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1722509375,
       "relatedPermits": []
     },
     {
@@ -18134,12 +18204,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1710226800,
+          "endDate": 1722322800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1722322800,
+          "endDate": 1722322800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1722322800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00514",
@@ -19047,6 +19129,42 @@
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "4015 BRAEFOOT RD",
+      "applicant": "AGENT",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01071",
+      "applicationDate": 1722322800,
+      "addresses": [
+        "4015 BRAEFOOT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM A-1 RURAL TO SITE SPECIFIC ZONE TO CONSTRUCT 24 TOWNHOME UNITS.",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1722322800,
+          "endDate": 1722322800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1722409200,
+          "endDate": 1722409200
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1722409200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00772",
           "relatedPermitType": "REZONING"
         }
       ]
@@ -21177,6 +21295,42 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01070",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "4015 BRAEFOOT RD",
+      "applicant": "AGENT",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00772",
+      "applicationDate": 1722322800,
+      "addresses": [
+        "4015 BRAEFOOT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM A-1 RURAL TO SITE SPECIFIC ZONE TO CONSTRUCT 24 TOWNHOME UNITS.",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1722322800,
+          "endDate": 1722322800
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1722409200,
+          "endDate": 1722409200
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1722409200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01071",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -27007,6 +27161,38 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1720090176,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "824 ALSTON ST",
+      "applicant": "MORGAN HENDERSON",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00444",
+      "applicationDate": 1722322800,
+      "addresses": [
+        "824 ALSTON ST",
+        "826 ALSTON ST",
+        "210 LANGFORD ST",
+        "212 LANGFORD ST",
+        "220 LANGFORD ST",
+        "222 LANGFORD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=591F6683-AA89-4508-A334-32C5BBE8A521&folderId=dqU5BYJCIU68nsncS8Zikg"
+        },
+        {
+          "docName": "Summary Letter",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0DF84CFB-09CC-4830-A011-057D73ACED7E&folderId=dqU5BYJCIU68nsncS8Zikg"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1722322800,
       "relatedPermits": []
     },
     {
@@ -45679,9 +45865,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-07-09 - Letter Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8FAE65EC-C0C6-433F-A9F5-0DBB89BAFAF5&folderId=50289C240711144653543748"
+        },
+        {
+          "docName": "2024-07-09 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=734FDCEF-B37C-4754-8B88-2CC68EF85DB3&folderId=50289C240711144653543748"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1721126993,
+      "lastUpdated": 1722509375,
       "relatedPermits": []
     },
     {
@@ -78912,10 +79107,14 @@
         {
           "docName": "2024-07-04 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7FF9273E-6D57-4B66-9043-0C0996FBF317&folderId=15938C230421091532521120"
+        },
+        {
+          "docName": "24-061.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=56243C240730095151067218&folderId=15938C230421091532521120"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1720522179,
+      "lastUpdated": 1722509375,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
