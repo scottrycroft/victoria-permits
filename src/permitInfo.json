@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1722508912,
+  "dateRetrieved": 1722595331,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12684,20 +12684,8 @@
           "endDate": 1722236400
         },
         {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
-          "taskType": "*PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -12716,7 +12704,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1722509375,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000050",
@@ -12744,18 +12732,6 @@
           "endDate": 1714633200
         },
         {
-          "taskDescription": "The application is under review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
@@ -12764,6 +12740,12 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Revisions and/or additional information submitted by applicant post advisory body meeting.",
+          "taskType": "*REVISED MATERIALS/INFORMATION SUBMITTED",
           "startDate": null,
           "endDate": null
         },
@@ -12796,6 +12778,18 @@
           "taskType": "FILE COMPLETED",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -12805,7 +12799,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1717584579,
+      "lastUpdated": 1722595802,
       "relatedPermits": []
     },
     {
@@ -12905,6 +12899,12 @@
           "endDate": 1721199600
         },
         {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -12962,7 +12962,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1722509375,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -16746,6 +16746,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1714546800,
+          "endDate": 1722495600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1722495600,
           "endDate": null
         }
       ],
@@ -16768,7 +16774,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1714646972,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00733",
@@ -19170,6 +19176,37 @@
       ]
     },
     {
+      "primaryStreetName": "3301 QUADRA ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01072",
+      "applicationDate": 1722495600,
+      "addresses": [
+        "3301 QUADRA ST",
+        "3329 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1722495600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00773",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -21331,6 +21368,37 @@
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01071",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3301 QUADRA ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00773",
+      "applicationDate": 1722495600,
+      "addresses": [
+        "3301 QUADRA ST",
+        "3329 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1722495600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01072",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -44688,19 +44756,11 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1698908400,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
-        {
-          "relatedPermitID": "DP000610",
-          "relatedPermitType": "DEVELOPMENT PERMITS"
-        },
         {
           "relatedPermitID": "REZ00807",
           "relatedPermitType": "Rezoning Application"
-        },
-        {
-          "relatedPermitID": "CLC00353",
-          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -73948,19 +74008,11 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719312579,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00255",
           "relatedPermitType": "Development Permit with Variance"
-        },
-        {
-          "relatedPermitID": "DP000610",
-          "relatedPermitType": "DEVELOPMENT PERMITS"
-        },
-        {
-          "relatedPermitID": "CLC00353",
-          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -78196,6 +78248,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
           "taskType": "Council Meeting - Public Comment",
           "startDate": null,
@@ -78229,7 +78287,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714575011,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00257",
@@ -79782,11 +79840,17 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1719471600,
-          "endDate": null
+          "endDate": 1722409200
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
+          "startDate": 1722495600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -79832,7 +79896,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1719571866,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -81208,7 +81272,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1714460400,
-          "endDate": null
+          "endDate": 1722495600
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -81256,7 +81320,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715165378,
+      "lastUpdated": 1722595802,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
