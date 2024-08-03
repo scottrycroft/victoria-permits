@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1722595331,
+  "dateRetrieved": 1722681764,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3410,6 +3410,61 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1721990983,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "7806 EAST SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001625",
+      "applicationDate": 1721977200,
+      "addresses": [
+        "7806 EAST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "DP for replacement of existing enclosed deck",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1721977200,
       "relatedPermits": []
     },
     {
@@ -12890,7 +12945,7 @@
         "2298 LANSDOWNE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment to rezone the the property from the R-4 to allow a 13 unit townhouse project.",
+      "purpose": "This is an application for a zoning bylaw amendment to rezone the the property from R-4 to allow a 13 unit townhouse project.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -12962,7 +13017,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1722595802,
+      "lastUpdated": 1722682228,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -18225,9 +18280,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "REVISED ELEVATIONS PLANS_JULY 25 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=49022C240802161137644584&folderId=62239C231121123309352251"
+        },
+        {
+          "docName": "REVISED LANDSCAPE PLANS_JULY 25 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=29E09011-5C6F-4545-A2D3-7F40691B00BA&folderId=62239C231121123309352251"
+        },
+        {
+          "docName": "REVISED SITE PLAN_JULY 25 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=49022C240802160932640272&folderId=62239C231121123309352251"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1722509375,
+      "lastUpdated": 1722682228,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00514",
@@ -18462,6 +18530,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1719385200,
+          "endDate": 1722582000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1722582000,
           "endDate": null
         }
       ],
@@ -18480,7 +18554,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1719485455,
+      "lastUpdated": 1722682228,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -42938,9 +43012,7 @@
       "folderNumber": "DPV00225",
       "applicationDate": 1675148400,
       "addresses": [
-        "2512 GOVERNMENT ST",
-        "2520 GOVERNMENT ST",
-        "2526 GOVERNMENT ST"
+        "2512 GOVERNMENT ST"
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Development Permit with Variance application to construct new car dealership/garage.",
@@ -42968,6 +43040,12 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1709881200,
           "endDate": 1713164400
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1722582000,
+          "endDate": null
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
@@ -43004,12 +43082,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A26CEA6D-4AA7-4465-A90D-46F8BFF76190&folderId=93107C230131150321411136"
         },
         {
-          "docName": "Landscape.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3CA61452-8D27-418B-911C-ED46C4C93ABE&folderId=93107C230131150321411136"
+          "docName": "2024-08-02 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3ECF6B80-D1C6-4820-8130-3D99B9A60082&folderId=93107C230131150321411136"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714474168,
+      "lastUpdated": 1722682228,
       "relatedPermits": []
     },
     {
@@ -43596,6 +43674,12 @@
           "endDate": 1706598000
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1708585200,
+          "endDate": 1708585200
+        },
+        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1709708400,
@@ -43667,7 +43751,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1715683775,
+      "lastUpdated": 1722682228,
       "relatedPermits": []
     },
     {
@@ -77592,10 +77676,14 @@
         {
           "docName": "2023-11-29 - Plans_Revisions_TH.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06D631AF-223B-40BE-BFA2-6F9BB3E4D4E0&folderId=80107C221208110315611098"
+        },
+        {
+          "docName": "2024-05-21 - Letter to Mayor and Council - Deemed 2023-04-12.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7972D947-2132-4EF1-BDA0-E070032A1A81&folderId=80107C221208110315611098"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1722336714,
+      "lastUpdated": 1722682228,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
