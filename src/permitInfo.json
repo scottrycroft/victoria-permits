@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1723027581,
+  "dateRetrieved": 1723113721,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -6017,6 +6017,32 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1712400667,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Lot I J Beachlands",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPA00004",
+      "applicationDate": 1722582000,
+      "addresses": [
+        "Lot I J Beachlands",
+        "Lot J Beachlands"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Natural Hazards (Steeply Sloped) Development Permit to enable tree removals and grading works.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/Permit_DPA00004_REDUCED_2024-08-02.pdf",
+          "docName": "Permit_DPA00004_REDUCED_2024-08-02"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1723114228,
       "relatedPermits": []
     },
     {
@@ -67993,8 +68019,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1706166000,
+          "endDate": 1706166000
         }
       ],
       "documents": [
@@ -68108,7 +68134,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1723114188,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00226",
@@ -77269,8 +77295,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1709794800,
+          "endDate": 1709794800
         },
         {
           "taskDescription": "Meeting date for Council to consider approving the application.",
@@ -77382,7 +77408,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714042159,
+      "lastUpdated": 1723114188,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00247",
@@ -77642,7 +77668,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1702969200,
-          "endDate": null
+          "endDate": 1723014000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -77736,7 +77762,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1722956822,
+      "lastUpdated": 1723114188,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -78385,8 +78411,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1709794800,
+          "endDate": 1709794800
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -78428,7 +78454,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1722595802,
+      "lastUpdated": 1723114188,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00257",
@@ -79029,8 +79055,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712214000,
+          "endDate": 1712214000
         },
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.",
@@ -79062,7 +79088,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1723114188,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00415",
@@ -79244,9 +79270,21 @@
           "endDate": 1720076400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1720076400,
+          "endDate": 1722927600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1720422000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1723014000,
           "endDate": null
         },
         {
@@ -79277,7 +79315,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723028069,
+      "lastUpdated": 1723114188,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -79535,8 +79573,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1715842800,
+          "endDate": 1715842800
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
@@ -79574,7 +79612,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1714575011,
+      "lastUpdated": 1723114188,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00288",
@@ -81795,6 +81833,81 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "728 LAURENTIAN PL",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00876",
+      "applicationDate": 1723014000,
+      "addresses": [
+        "728 LAURENTIAN PL",
+        "729 LAURENTIAN PL",
+        "733 LAURENTIAN PL",
+        "724 MADDISON ST",
+        "730 MADDISON ST",
+        "736 MADDISON ST",
+        "731 RICHMOND AVE",
+        "735 RICHMOND AVE",
+        "781 RICHMOND AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for Pemberton Woods Campus Renewal",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1723014000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1723014000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1723014000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2000 West Park Ln",
