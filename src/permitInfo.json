@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1723459338,
+  "dateRetrieved": 1723546204,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20230,12 +20230,18 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1704783600,
+          "endDate": 1723446000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1720695724,
+      "lastUpdated": 1723546673,
       "relatedPermits": []
     },
     {
@@ -20297,12 +20303,18 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1704697200,
+          "endDate": 1723446000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1717843771,
+      "lastUpdated": 1723546673,
       "relatedPermits": [
         {
           "relatedPermitID": "LIQ00027",
@@ -27454,6 +27466,37 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1723028069,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "235 RUSSELL ST",
+      "applicant": "DAN ROBBINS",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00446",
+      "applicationDate": 1723446000,
+      "addresses": [
+        "235 RUSSELL ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "PLANS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99F82D26-4610-4DCC-B3E1-58D4AF4DAEE8&folderId=59889C240812164225345664"
+        },
+        {
+          "docName": "SUMMARY LETTER.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4BC95E9A-F0FD-4D7E-91B8-AD0C03F20890&folderId=59889C240812164225345664"
+        },
+        {
+          "docName": "Visualization",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4D44A991-6D70-4D49-90CA-6AA6B0C55F35&folderId=59889C240812164225345664"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1723446000,
       "relatedPermits": []
     },
     {
@@ -46174,7 +46217,7 @@
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00278",
-      "applicationDate": 1721286000,
+      "applicationDate": 1709708400,
       "addresses": [
         "309 BELLEVILLE ST",
         "319 BELLEVILLE ST",
@@ -46237,7 +46280,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723546673,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
@@ -82290,7 +82333,7 @@
       "purpose": "External renovations to Burger King restaurant.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Approved - March 5, 2024",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -82317,7 +82360,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1705147098,
+      "lastUpdated": 1723546708,
       "relatedPermits": []
     },
     {
@@ -82334,7 +82377,7 @@
       "purpose": "Application for a 43 unit multifamily building.",
       "progressSections": [
         {
-          "taskDescription": "Approved",
+          "taskDescription": "Approved Oct 17, 2023",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -82361,7 +82404,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1719658228,
+      "lastUpdated": 1723546708,
       "relatedPermits": []
     },
     {
@@ -82422,7 +82465,7 @@
       "purpose": "Application for landscaping within 15m of the high water mark.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Approved July 4, 2023",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -82461,7 +82504,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1705147098,
+      "lastUpdated": 1723546708,
       "relatedPermits": []
     },
     {
@@ -82630,7 +82673,7 @@
       "purpose": "Application for Phase 6 of the development which consists of 13 townhouse units.",
       "progressSections": [
         {
-          "taskDescription": "Approved",
+          "taskDescription": "Approved May 21, 2024",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -82649,7 +82692,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1719658228,
+      "lastUpdated": 1723546708,
       "relatedPermits": []
     },
     {
@@ -82666,7 +82709,7 @@
       "purpose": "The application proposes protection and restoration works to the tidal marsh and stream area in View Royal Park.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Approved",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -82685,7 +82728,77 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1719658228,
+      "lastUpdated": 1723546708,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "294 Helmcken Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2024-03",
+      "applicationDate": 1723546708,
+      "addresses": [
+        "294 Helmcken Rd",
+        "296 Eltham Helmcken Rd",
+        "242 Helmcken Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This application proposes a residential development of 12 residential townhouse units.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Letter to Mayor & Council [PDF - 149 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP2024-03 LMC.pdf"
+        },
+        {
+          "docName": "2024 07 11 Plans [PDF - 27 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP2024-03 Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1723546708,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "99 Marler Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2024-04",
+      "applicationDate": 1723546708,
+      "addresses": [
+        "99 Marler Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Application for work within the riparian area of a watercourse.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Letter to Mayor & Council [PDF - 58 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP2024-04 LTM.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1723546708,
       "relatedPermits": []
     },
     {
