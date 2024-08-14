@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1723546204,
+  "dateRetrieved": 1723632328,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2414,13 +2414,13 @@
         },
         {
           "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
+          "taskType": "APC MEETING",
           "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "APC MEETING",
+          "taskType": "1ST READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
@@ -2472,7 +2472,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1723374030,
+      "lastUpdated": 1723632796,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -10728,6 +10728,10 @@
       ],
       "documents": [
         {
+          "docName": "Architectural Plans for Development Tracker.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=08542C240813093003824970&folderId=06162C240715130520214419"
+        },
+        {
           "docName": "DP000053  - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017369486&folderId=06162C240715130520214419"
         },
@@ -10741,7 +10745,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1722509375,
+      "lastUpdated": 1723632796,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -13045,14 +13049,14 @@
           "endDate": 1721199600
         },
         {
-          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": 1723532400,
+          "endDate": 1723532400
+        },
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
           "startDate": null,
           "endDate": null
         },
@@ -13071,6 +13075,18 @@
         {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
+          "taskType": "*PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for council to hold a Public Hearing and to hear from the applicant and the public.",
+          "taskType": "*PUBLIC HEARING",
           "startDate": null,
           "endDate": null
         },
@@ -13095,6 +13111,10 @@
       ],
       "documents": [
         {
+          "docName": "Architectural Plans for Development Tracker.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=08542C240813093121250958&folderId=06162C240715134040653746"
+        },
+        {
           "docName": "ZON00054 -  2298 Lansdowne Rod -Landscape.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718090617661552&folderId=06162C240715134040653746"
         },
@@ -13108,7 +13128,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1722682228,
+      "lastUpdated": 1723632796,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -19291,7 +19311,7 @@
         "4085 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM C-1NC AND RS-6 TO A NEW ZONE FOR A 12-STOREY MIXED USE BUILDING WITH UNDERGROUND PARKING.",
+      "purpose": "TO REZONE FROM C-1NC AND RS-6 TO A NEW ZONE FOR A 12-STOREY MIXED USE BUILDING WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -19308,7 +19328,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723632796,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -46100,7 +46120,7 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1719385200,
-          "endDate": null
+          "endDate": 1721977200
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -46150,7 +46170,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723632796,
       "relatedPermits": []
     },
     {
@@ -67920,10 +67940,14 @@
         {
           "docName": "2024-05-02 - Plans - Revisions - deemed Jan 22, 2024.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=27537C240502091848119505&folderId=61303C201001092155276953"
+        },
+        {
+          "docName": "24-049.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=59218C240809084130120082&folderId=61303C201001092155276953"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723632796,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00158",
@@ -80130,7 +80154,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1722495600,
-          "endDate": null
+          "endDate": 1723532400
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -80180,7 +80204,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723632796,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -81723,15 +81747,15 @@
           "endDate": 1715756400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1712646000,
-          "endDate": null
-        },
-        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1715756400,
+          "endDate": 1723186800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1712646000,
           "endDate": null
         },
         {
@@ -81765,12 +81789,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=29A784CA-E6C8-4EB9-B900-7010AA884AEE&folderId=19743C240409110921616581"
         },
         {
+          "docName": "2024-08-09 - Plans - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2936B70A-E40D-4411-9D50-F2760A963834&folderId=19743C240409110921616581"
+        },
+        {
           "docName": "Letter to Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D9E7E0F8-DDCB-4855-B846-4238493FCCC7&folderId=19743C240409110921616581"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723632796,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
@@ -81978,29 +82006,23 @@
         "781 RICHMOND AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for Pemberton Woods Campus Renewal",
+      "purpose": "The City is considering a Rezoning application for Pemberton Woods Campus Renewal.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1723014000,
-          "endDate": null
+          "endDate": 1723532400
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1723014000,
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1723532400,
           "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
           "startDate": null,
           "endDate": null
         },
@@ -82031,7 +82053,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723632796,
       "relatedPermits": []
     },
     {
