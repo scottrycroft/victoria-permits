@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1723632328,
+  "dateRetrieved": 1723718528,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3363,7 +3363,7 @@
         "6536 RODOLPH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Permit with Variances for a previous 2-lot subdivision",
+      "purpose": "Development Permit with Variance for frontage for a 2-lot subdivision",
       "progressSections": [
         {
           "taskDescription": "",
@@ -3409,7 +3409,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1720076400,
+      "lastUpdated": 1723719003,
       "relatedPermits": []
     },
     {
@@ -3530,6 +3530,42 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1723028069,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6540 BROWNLEE PL",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001633",
+      "applicationDate": 1723618800,
+      "addresses": [
+        "6540 BROWNLEE PL"
+      ],
+      "status": "ACTIVE",
+      "purpose": "New Garden Suite",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1723618800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6540 Brownlee_Plans_Aug 14 2024_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=28509C240814105508717160&folderId=28509C240814093428940682"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1723618800,
       "relatedPermits": []
     },
     {
@@ -19324,11 +19360,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1721113200,
           "endDate": 1721113200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1723618800,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1723632796,
+      "lastUpdated": 1723719003,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -21621,6 +21663,36 @@
         {
           "relatedPermitID": "DPR01072",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2094 FERNDALE RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00774",
+      "applicationDate": 1723618800,
+      "addresses": [
+        "2094 FERNDALE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1723618800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00960",
+          "relatedPermitType": "SUBDIVISION"
         }
       ]
     },
@@ -27493,6 +27565,42 @@
       "applicant": "DAN ROBBINS",
       "cityApplicationType": "Pre-Application (CALUC)",
       "applicationType": "Pre-Application",
+      "folderNumber": "CLC00445",
+      "applicationDate": 1723446000,
+      "addresses": [
+        "235 RUSSELL ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024.8.6 235 Russell Visualization.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4BF0E08A-5D91-4D29-A2DE-7F6BEF1BA6B9&folderId=/Ky8npc9802j2dYeIwMAGQ"
+        },
+        {
+          "docName": "PLANS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3A0C0282-D7B4-4DE9-8B84-FCBFCB5DF3C6&folderId=/Ky8npc9802j2dYeIwMAGQ"
+        },
+        {
+          "docName": "SUMMARY LETTER.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F3124A2A-1DC0-405A-984B-A7BE4912784D&folderId=/Ky8npc9802j2dYeIwMAGQ"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1723446000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00446",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "235 RUSSELL ST",
+      "applicant": "DAN ROBBINS",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
       "folderNumber": "CLC00446",
       "applicationDate": 1723446000,
       "addresses": [
@@ -27516,8 +27624,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723446000,
-      "relatedPermits": []
+      "lastUpdated": 1723719003,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00445",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -33053,6 +33166,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1720076400,
+          "endDate": 1722409200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1722582000,
           "endDate": null
         }
       ],
@@ -33219,7 +33338,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723719003,
       "relatedPermits": []
     },
     {
@@ -45420,6 +45539,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1719558000,
+          "endDate": 1723618800
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1723618800,
           "endDate": null
         },
         {
@@ -45471,10 +45596,18 @@
         {
           "docName": "2024-05-17 -  Plans - Revised.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D30652CC-22FE-48DE-9260-BA530330B6BA&folderId=85717C231221145836243066"
+        },
+        {
+          "docName": "2024-08-14 - Letter to Council - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D949D5FD-C112-452D-B20F-ABE0C9574D12&folderId=85717C231221145836243066"
+        },
+        {
+          "docName": "2024-08-14 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F120C24A-4FA5-49A3-907B-745B9FF3ECB7&folderId=85717C231221145836243066"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723719003,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -45483,6 +45616,10 @@
         {
           "relatedPermitID": "DPV00205",
           "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "DP000618",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
         },
         {
           "relatedPermitID": "CLC00375",
@@ -81565,12 +81702,6 @@
           "endDate": 1712127600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1712127600,
-          "endDate": 1714460400
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1714460400,
@@ -81583,14 +81714,20 @@
           "endDate": 1722495600
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1712127600,
           "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
+          "startDate": 1723618800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -81628,7 +81765,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723719003,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
