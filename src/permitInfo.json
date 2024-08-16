@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1723718528,
+  "dateRetrieved": 1723804917,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2648,12 +2648,16 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240717124816144293&folderId=16614C231124123438372925"
         },
         {
+          "docName": "7840 Lochside_Traffice Assessment_April 30 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=24312C240508155203290492&folderId=16614C231124123438372925"
+        },
+        {
           "docName": "July 9 2024 - 7840 Lochside Infill - Resubmission Letter to Mayor and Council_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240718163440778619&folderId=16614C231124123438372925"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1721990983,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -17367,6 +17371,12 @@
         {
           "taskDescription": "Council meeting scheduled to review application",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1723446000,
+          "endDate": 1723446000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
@@ -17386,7 +17396,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -19368,9 +19378,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_JULY 8 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AAACA7D3-25BF-4457-932E-98BFA7210DF6&folderId=39272C240708143944469227"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_JULY 8 2024-NFP",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=EE763E74-6F4A-4B82-B68A-8F5E77237D39&folderId=39272C240708143944469227"
+        },
+        {
+          "docName": "SITE PLAN_JULY 8 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=02BFEC72-F261-40EA-816D-C17506D3A83B&folderId=39272C240708143944469227"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1723719003,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -19416,17 +19439,19 @@
     },
     {
       "primaryStreetName": "3301 QUADRA ST",
-      "applicant": "N/A",
+      "applicant": "WESTPLAN CONSULTING GROUP",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01072",
       "applicationDate": 1722495600,
       "addresses": [
         "3301 QUADRA ST",
+        "3309 QUADRA ST",
+        "3319 QUADRA ST",
         "3329 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONTRUCT A 4 STORY 104 UNIT BLD",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -19437,13 +19462,13 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1723705200,
+          "endDate": 1723705200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1723374030,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00773",
@@ -21631,17 +21656,19 @@
     },
     {
       "primaryStreetName": "3301 QUADRA ST",
-      "applicant": "N/A",
+      "applicant": "WESTPLAN CONSULTING GROUP",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00773",
       "applicationDate": 1722495600,
       "addresses": [
         "3301 QUADRA ST",
+        "3309 QUADRA ST",
+        "3319 QUADRA ST",
         "3329 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONTRUCT A 4 STORY 104 UNIT BLD",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21650,15 +21677,21 @@
           "endDate": 1723186800
         },
         {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1723705200,
+          "endDate": 1723705200
+        },
+        {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1723705200,
+          "endDate": 1723705200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1723374030,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01072",
@@ -27624,13 +27657,8 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723719003,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "CLC00445",
-          "relatedPermitType": "Pre-Application (CALUC)"
-        }
-      ]
+      "lastUpdated": 1723805389,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -45545,6 +45573,12 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1723618800,
+          "endDate": 1723705200
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1723705200,
           "endDate": null
         },
         {
@@ -45607,7 +45641,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723719003,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -68505,21 +68539,27 @@
           "endDate": 1718607600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1710918000,
+          "endDate": 1723705200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1718607600,
+          "endDate": 1723705200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1711004400,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1718607600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1723705200,
           "endDate": null
         },
         {
@@ -68591,10 +68631,18 @@
         {
           "docName": "2024-03-20 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=10F41807-868C-4F60-9FE7-5B71277CF15D&folderId=78439C201203162056900501"
+        },
+        {
+          "docName": "2024-08-14 - Letter to Council - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BACA3518-EBB3-4189-BA52-64D73B236A5D&folderId=78439C201203162056900501"
+        },
+        {
+          "docName": "2024-08-14 - Plans - Revised - Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5368FCF3-1E9A-48B5-94E0-A59BD33A6DC7&folderId=78439C201203162056900501"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -77963,6 +78011,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1723705200,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
@@ -78048,7 +78102,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -80296,7 +80350,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1723705200,
           "endDate": null
         },
         {
@@ -80341,7 +80395,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723632796,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -81898,7 +81952,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1723705200,
           "endDate": null
         },
         {
@@ -81935,7 +81989,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723632796,
+      "lastUpdated": 1723805389,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
