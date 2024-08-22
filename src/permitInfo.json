@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1724236945,
+  "dateRetrieved": 1724323358,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14015,13 +14015,13 @@
           "endDate": 1712905200
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1715583600,
           "endDate": 1715583600
         },
         {
-          "taskDescription": "Public Hearing scheduled to hear presentations for application",
+          "taskDescription": "Public Hearing scheduled to hear presentations for application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "PUBLIC HEARING",
           "startDate": 1718694000,
           "endDate": 1718694000
@@ -14048,7 +14048,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1722509375,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD20873",
@@ -17088,7 +17088,7 @@
           "endDate": 1704178800
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1705906800,
           "endDate": 1705993200
@@ -17115,7 +17115,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1724323835,
       "relatedPermits": []
     },
     {
@@ -17395,19 +17395,19 @@
           "endDate": 1720594800
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1721026800,
           "endDate": 1721199600
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1723446000,
           "endDate": 1723446000
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
@@ -17428,7 +17428,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1723805389,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -19457,11 +19457,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1722409200,
           "endDate": 1722409200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1724137200,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1722409200,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00772",
@@ -20080,7 +20086,7 @@
           "endDate": 1681974000
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
@@ -20088,7 +20094,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP20690",
@@ -20352,7 +20358,7 @@
           "endDate": 1723446000
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
@@ -20360,7 +20366,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1723546673,
+      "lastUpdated": 1724323835,
       "relatedPermits": []
     },
     {
@@ -20425,7 +20431,7 @@
           "endDate": 1723446000
         },
         {
-          "taskDescription": "Council meeting scheduled to review application",
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
@@ -20433,7 +20439,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1723546673,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "LIQ00027",
@@ -21733,7 +21739,7 @@
     },
     {
       "primaryStreetName": "2094 FERNDALE RD",
-      "applicant": "N/A",
+      "applicant": "REB DEVELOPMNET SERVICES",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00774",
@@ -21747,13 +21753,19 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1724223600,
+          "endDate": 1724223600
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1724223600,
+          "endDate": 1724223600
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1724237419,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00960",
@@ -45614,6 +45626,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -45673,7 +45691,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723805389,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -45936,11 +45954,17 @@
           "taskType": "Application Received",
           "startDate": 1712646000,
           "endDate": 1712646000
+        },
+        {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00873",
@@ -68583,6 +68607,12 @@
           "endDate": 1723705200
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1606978800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1711004400,
@@ -68674,7 +68704,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723805389,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00213",
@@ -78049,6 +78079,12 @@
           "endDate": 1723014000
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1670482800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1723705200,
@@ -78063,6 +78099,12 @@
         {
           "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -78123,14 +78165,6 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7972D947-2132-4EF1-BDA0-E070032A1A81&folderId=80107C221208110315611098"
         },
         {
-          "docName": "2024-05-21 - Plans_Revision_Apt - Deemed 24-04-12.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8E182927-CA9C-445A-848B-FFC45051C0B0&folderId=80107C221208110315611098"
-        },
-        {
-          "docName": "2024-05-21 - Plans_Revisions_Bubbled_Apt - Deemed 24-04-12.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=39167B93-7BA9-439B-8899-1CAD3686CD77&folderId=80107C221208110315611098"
-        },
-        {
           "docName": "2024-05-21 - Plans_Revisions_Bubbled_TH - Deemed 2023-04-12.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A9E07B6F-73B9-44AE-8958-D60058C1F8A5&folderId=80107C221208110315611098"
         },
@@ -78140,7 +78174,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724237419,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -82012,6 +82046,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -82045,7 +82085,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723805389,
+      "lastUpdated": 1724323835,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
