@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1724409743,
+  "dateRetrieved": 1724496588,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -6067,6 +6067,31 @@
       "withApplicantDays": null,
       "city": "Colwood",
       "lastUpdated": 1720781423,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3271 Galloway",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000027",
+      "applicationDate": 1723186800,
+      "addresses": [
+        "3271 Galloway"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A Form & Character Development Permit to enable a duplex with suites.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docURL": "https://www.colwood.ca/sites/default/files/Permit_DP000027_3271GallowayRd_COMPLETE_2024-08-09.pdf",
+          "docName": "Permit_DP000027_3271GallowayRd_COMPLETE_2024-08-09"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Colwood",
+      "lastUpdated": 1724497096,
       "relatedPermits": []
     },
     {
@@ -19502,11 +19527,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1723705200,
           "endDate": 1723705200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1724223600,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1724237419,
+      "lastUpdated": 1724497058,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00773",
@@ -76247,7 +76278,7 @@
     },
     {
       "primaryStreetName": "1733 FAIRFIELD RD",
-      "applicant": "ROBERT STARKEY",
+      "applicant": "MIKE WAGAR, ARYZE",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00821",
@@ -76434,7 +76465,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1724497058,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -78929,6 +78960,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1706166000,
+          "endDate": 1724396400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1724396400,
           "endDate": null
         },
         {
@@ -78972,10 +79009,14 @@
         {
           "docName": "2023-12-01 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=62E8F7F2-F9B6-485E-908B-3A34080BA687&folderId=01974C230302151324660459"
+        },
+        {
+          "docName": "2024-08-23 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FE03C041-F266-43A3-9970-2CEC0D384C95&folderId=01974C230302151324660459"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1724497058,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00266",
@@ -82348,6 +82389,85 @@
       "city": "Victoria",
       "lastUpdated": 1723632796,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1574 BAY ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00877",
+      "applicationDate": 1724396400,
+      "addresses": [
+        "1574 BAY ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to allow for 2 3-story residential buildings.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1724396400,
+          "endDate": 1724396400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1724396400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-08-23 Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1872BA53-216E-447A-B549-20E67C50791A&folderId=63668C240823101640028354"
+        },
+        {
+          "docName": "2024-08-23 Plans_Submission_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7FFD31C3-DE32-4E7F-A431-185C3E0D0B9A&folderId=63668C240823101640028354"
+        },
+        {
+          "docName": "2024-08-23 Plans_Submission_Unbubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8D05DA64-B2E5-4979-8EF7-E28255027CEF&folderId=63668C240823101640028354"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1724396400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00439",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "2000 West Park Ln",
