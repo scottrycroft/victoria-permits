@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1724668960,
+  "dateRetrieved": 1724755395,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14055,6 +14055,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1718780400,
+          "endDate": 1724655600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -14073,7 +14079,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1724755873,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD20873",
@@ -18485,18 +18491,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1710226800,
-          "endDate": 1722322800
+          "endDate": 1721890800
         },
         {
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
-          "startDate": 1722322800,
-          "endDate": 1722322800
+          "startDate": 1721890800,
+          "endDate": 1724655600
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1722322800,
+          "endDate": 1724655600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1724655600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -18515,7 +18533,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1722682228,
+      "lastUpdated": 1724755873,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00514",
@@ -78954,7 +78972,13 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1677826800,
-          "endDate": 1706598000
+          "endDate": 1716447600
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1716447600,
+          "endDate": 1716447600
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -78966,18 +78990,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1724396400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -79016,7 +79028,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724497058,
+      "lastUpdated": 1724755873,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00266",
@@ -79713,8 +79725,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": 1717743600,
-          "endDate": 1717743600
+          "startDate": 1716447600,
+          "endDate": 1716447600
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -79732,7 +79744,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1720422000,
-          "endDate": null
+          "endDate": 1723014000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -79768,7 +79780,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1724755873,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00234",
@@ -82392,7 +82404,7 @@
     },
     {
       "primaryStreetName": "1574 BAY ST",
-      "applicant": "N/A",
+      "applicant": "CAM BROWN",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00877",
@@ -82401,7 +82413,7 @@
         "1574 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for 2 3-story residential buildings.",
+      "purpose": "The City is considering a Rezoning application to allow for 2 3-storey residential buildings.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -82461,7 +82473,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724396400,
+      "lastUpdated": 1724755873,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00439",
