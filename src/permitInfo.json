@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1724928117,
+  "dateRetrieved": 1725014528,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10789,7 +10789,7 @@
         {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
+          "startDate": 1722495600,
           "endDate": null
         },
         {
@@ -10842,7 +10842,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1723632796,
+      "lastUpdated": 1725015009,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -32303,6 +32303,55 @@
         {
           "relatedPermitID": "CLC00437",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2931 SHELBOURNE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000644",
+      "applicationDate": 1724914800,
+      "addresses": [
+        "2931 SHELBOURNE ST",
+        "2937 SHELBOURNE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application to build two new multifamily buildings.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1724914800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1724914800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00878",
+          "relatedPermitType": "Rezoning Application"
         }
       ]
     },
@@ -82482,6 +82531,82 @@
         {
           "relatedPermitID": "CLC00439",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2931 SHELBOURNE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00878",
+      "applicationDate": 1724914800,
+      "addresses": [
+        "2931 SHELBOURNE ST",
+        "2937 SHELBOURNE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to allow for two new multifamily dwellings.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1724914800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-08-28 Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06F41119-6F87-454B-9DD1-B3A322DDECD3&folderId=65331C240829095744902660"
+        },
+        {
+          "docName": "2024-08-28 Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3BFAE49B-5819-4B02-9252-43DDA940BC36&folderId=65331C240829095744902660"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1724914800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000644",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
         }
       ]
     },
