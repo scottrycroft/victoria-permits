@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1725014528,
+  "dateRetrieved": 1725101034,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -76360,7 +76360,7 @@
         "1737 FAIRFIELD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for a four-storey multiple dwelling consisting of 29 dwelling units with an amendment to the Official Community Plan. Concurrent with Development Permit with Variance Application No. 00204.",
+      "purpose": "The City is considering a Rezoning application to allow for a four-storey multiple dwelling consisting of 29 dwelling units with an amendment to the Official Community Plan. Concurrent with Development Permit with Variance Application No. 00204. File is associated with REZ00845.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -76423,15 +76423,15 @@
           "endDate": 1720076400
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1722495600,
+          "endDate": 1722495600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1720162800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -76536,7 +76536,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724497058,
+      "lastUpdated": 1725101527,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -79144,6 +79144,12 @@
           "endDate": 1701932400
         },
         {
+          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Public Comment",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
@@ -79152,12 +79158,6 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting - Public Comment",
           "startDate": null,
           "endDate": null
         }
@@ -79197,7 +79197,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1725101527,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -82536,7 +82536,7 @@
     },
     {
       "primaryStreetName": "2931 SHELBOURNE ST",
-      "applicant": "N/A",
+      "applicant": "MATTHEW GUSTAVSON",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00878",
@@ -82552,12 +82552,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1724914800,
-          "endDate": null
+          "endDate": 1725001200
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1725001200,
           "endDate": null
         },
         {
@@ -82602,7 +82602,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724914800,
+      "lastUpdated": 1725101527,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000644",
