@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1725360127,
+  "dateRetrieved": 1725446528,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19508,9 +19508,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATION PLANS_JULY 30 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8318C23D-4341-45BB-BCE4-ED2442C25EE2&folderId=47537C240730153318560604"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_JULY 30 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=02B94C47-D12B-428B-A503-36AC48EB005A&folderId=47537C240730153318560604"
+        },
+        {
+          "docName": "SITE PLAN_JULY 30 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=503B45C0-7CC0-45B5-AAFD-2C04F6400EC6&folderId=47537C240730153318560604"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1725447006,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00772",
@@ -19532,7 +19545,7 @@
         "3329 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 ZONE TO RA-11 ZONE TO CONSTRUCT A 6 STOREY 104 UNIT BLD",
+      "purpose": "TO REZONE FROM RS-6 ZONE TO RA-11 ZONE TO CONSTRUCT A 6 STOREY RESIDENTIAL BUILDING WITH 104 UNITS",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -19553,9 +19566,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_AUG 9 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=75B12973-D939-43C7-9719-37C0EAE7D438&folderId=47537C240801125129317009"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_AUG 9 2024_nfp.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=58213C240903090733686334&folderId=47537C240801125129317009"
+        },
+        {
+          "docName": "SITE PLAN_AUG 9 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=B5E5548D-58C0-4EFF-8EBB-0D7A154E34B3&folderId=47537C240801125129317009"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1724497058,
+      "lastUpdated": 1725447006,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00773",
@@ -21930,6 +21956,12 @@
           "taskType": "",
           "startDate": 1721026800,
           "endDate": 1721026800
+        },
+        {
+          "taskDescription": "APC Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1725346800,
+          "endDate": 1725346800
         }
       ],
       "documents": [
@@ -21940,12 +21972,16 @@
         {
           "docName": "July 15, 2024 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/39477/6a-DP%20_%20DVP%20-%209667%20Fifth%20Street.pdf"
+        },
+        {
+          "docName": "September 3, 2024 APC Meeting Staff Report",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-APC-Staff-Report.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1721127028,
+      "lastUpdated": 1725447137,
       "relatedPermits": []
     },
     {
@@ -22049,6 +22085,42 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2242/2244 Harbour Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "5cfbb13bbe",
+      "applicationDate": 1725447137,
+      "addresses": [
+        "2242/2244 Harbour Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit application for a new marine industrial development.",
+      "progressSections": [
+        {
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1725346800,
+          "endDate": 1725346800
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans.pdf"
+        },
+        {
+          "docName": "September 3, 2024 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/40493/7a-DP100846%20-%202242%20_%202244%20Harbour%20Road.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1725447137,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "2312 Orchard Avenue",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -22066,6 +22138,12 @@
           "taskType": "",
           "startDate": 1723446000,
           "endDate": 1723446000
+        },
+        {
+          "taskDescription": "APC Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1725346800,
+          "endDate": 1725346800
         }
       ],
       "documents": [
@@ -22076,12 +22154,16 @@
         {
           "docName": "August 12, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/39650/Development%20Permit%20Application%20No.%20DP100840_Dev.pdf"
+        },
+        {
+          "docName": "September 3, 2024 APC Meeting Staff Report",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-APC-Staff-Report.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1723200658,
+      "lastUpdated": 1725447137,
       "relatedPermits": []
     },
     {
@@ -22338,6 +22420,38 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1712832608,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2104 Colinwood Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "9ca4b87927",
+      "applicationDate": 1725447137,
+      "addresses": [
+        "2104 Colinwood Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to vary the Subdivision and Development Bylaw requirements in order to allow for overhead wiring rather than underground connections to a new residential development.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2104-Colinwood-Road.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1725447137,
       "relatedPermits": []
     },
     {
@@ -27674,7 +27788,7 @@
         "222 LANGFORD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -27687,7 +27801,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723028069,
+      "lastUpdated": 1725447006,
       "relatedPermits": []
     },
     {
@@ -32324,12 +32438,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1724914800,
-          "endDate": null
+          "endDate": 1725346800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1725346800,
           "endDate": null
         },
         {
@@ -32347,7 +32461,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1724914800,
+      "lastUpdated": 1725447006,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00878",
@@ -76423,16 +76537,16 @@
           "endDate": 1720076400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1720162800,
+          "endDate": 1722322800
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": 1722495600,
           "endDate": 1722495600
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1720162800,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -76536,7 +76650,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725101527,
+      "lastUpdated": 1725447006,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -81448,15 +81562,15 @@
           "endDate": 1720076400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1702450800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1720422000,
+          "endDate": 1721977200
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1702450800,
           "endDate": null
         },
         {
@@ -81519,7 +81633,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1725447006,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
@@ -83285,7 +83399,7 @@
       "purpose": "The application proposes protection and restoration works to the tidal marsh and stream area in View Royal Park.",
       "progressSections": [
         {
-          "taskDescription": "Approved",
+          "taskDescription": "Approved - June 28, 2024",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -83304,7 +83418,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1723546708,
+      "lastUpdated": 1725447132,
       "relatedPermits": []
     },
     {
