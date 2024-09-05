@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1725446528,
+  "dateRetrieved": 1725532913,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2831,6 +2831,73 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2487 MT ST MICHAEL RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001563",
+      "applicationDate": 1712905200,
+      "addresses": [
+        "2487 MT ST MICHAEL RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Bylaw amendment to allow non-farm use for indoor lounge.",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1712905200,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "1906 STELLY'S X RD",
       "applicant": "N/A",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -3269,6 +3336,54 @@
           "relatedPermitType": "Rezoning and/or OCP Amendment"
         }
       ]
+    },
+    {
+      "primaryStreetName": "7043 CENTRAL SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001600",
+      "applicationDate": 1718002800,
+      "addresses": [
+        "7043 CENTRAL SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Harvest Ridge - Development Permit to change four single family dwellings to four triplexes",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1720162800,
+          "endDate": 1725433200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Harvest Ridge DP Plans.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=54A50FC3-4ADB-4A82-9877-697FCA37BA61&folderId=25434C240611105018692946"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1725433200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "HIGHFIELD RD",
@@ -10608,6 +10723,12 @@
           "endDate": 1718089200
         },
         {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": null,
@@ -10622,7 +10743,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1725533387,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00051",
@@ -20015,8 +20136,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1725533387,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00532",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
         {
           "relatedPermitID": "SUB00935",
           "relatedPermitType": "SUBDIVISION"
@@ -45591,6 +45716,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1725433200,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
@@ -45629,10 +45760,18 @@
         {
           "docName": "2024-03-20 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1E4F656A-6AC3-413E-9441-5B7CBE284B1A&folderId=76764C231122090108635026"
+        },
+        {
+          "docName": "2024-09-04 - Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F6661E38-FDD0-425F-A7FA-03EADE81E34B&folderId=76764C231122090108635026"
+        },
+        {
+          "docName": "2024-09-04 - Plans - Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC5C2478-FFE9-44A6-8DBF-CC97A3B2250D&folderId=76764C231122090108635026"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1725533387,
       "relatedPermits": []
     },
     {
@@ -78387,10 +78526,22 @@
         {
           "docName": "2024-05-21 - Plans_Revisions_TH - Deemed 2023-04-12.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=919C6DEA-32ED-4FC7-A0D8-7BE257EB01C5&folderId=80107C221208110315611098"
+        },
+        {
+          "docName": "2024-08-21 - Plans_Revision_Unbubbled_Apt - Deemed 24-04-12.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D3D8AB43-6346-4467-A422-9E82CC9C731F&folderId=80107C221208110315611098"
+        },
+        {
+          "docName": "2024-08-21 - Plans_Revisions_Bubbled_Apt - Deemed 24-04-12.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E32A5FFA-668E-4E3E-920A-C1573BCA8CF0&folderId=80107C221208110315611098"
+        },
+        {
+          "docName": "2025-08-21 - Letter to Mayor and Council - Deemed 2024-04-12.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83F4DECF-BEF5-4BE6-B4C7-3B6192CD64E3&folderId=80107C221208110315611098"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1725533387,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
