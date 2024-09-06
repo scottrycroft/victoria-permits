@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1725532913,
+  "dateRetrieved": 1725619330,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10762,7 +10762,7 @@
         "2442 EASTDOWNE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit.",
+      "purpose": "This is an application for a form and character Development Permit for Multi-Unit Residential to facilitate the construction of an 18-unit residential building.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -10809,13 +10809,30 @@
       ],
       "documents": [
         {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne  - A3.0-Elevation - Revised.JPG",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905143828359226&folderId=99294C240502101136118542"
+        },
+        {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne  - A4.1-Section - Revised.JPG",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905143828425849&folderId=99294C240502101136118542"
+        },
+        {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne  - Landscape DP [Option 2] - Revised.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905143828475911&folderId=99294C240502101136118542"
+        },
+        {
           "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne - Survey.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=99350C240502144834401269&folderId=99294C240502101136118542"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1715770171,
-      "relatedPermits": []
+      "lastUpdated": 1725619815,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ZON00052",
+          "relatedPermitType": "ZONING BYLAW AMENDMENT"
+        }
+      ]
     },
     {
       "primaryStreetName": "2101 SUTHERLAND RD",
@@ -13091,7 +13108,7 @@
         "2442 EASTDOWNE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment.",
+      "purpose": "An application for amendments to the Official Community Plan (OCP) and the Zoning Bylaw has been submitted to amend the OCP Land Use Designation of the subject property from 'Established Neighbourhoods' to 'Multi-Unit Residential' and to rezone the subject property from R-5 to a new Comprehensive Development Zone to facilitate an 18-unit multi-family residential development.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -13162,13 +13179,30 @@
       ],
       "documents": [
         {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne  - A3.0-Elevation - Revised.JPG",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905144017909370&folderId=99294C240502095949675236"
+        },
+        {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne  - A4.1-Section - Revised.JPG",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905144017995945&folderId=99294C240502095949675236"
+        },
+        {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne  - Landscape DP [Option 2] - Revised.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905144018044173&folderId=99294C240502095949675236"
+        },
+        {
           "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=99350C240502144929111663&folderId=99294C240502095949675236"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1722595802,
-      "relatedPermits": []
+      "lastUpdated": 1725619815,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000051",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "2101 SUTHERLAND RD",
@@ -15791,6 +15825,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1719903600,
+          "endDate": 1725519600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1725519600,
           "endDate": null
         }
       ],
@@ -15813,7 +15853,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720090176,
+      "lastUpdated": 1725619815,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00728",
@@ -18399,7 +18439,7 @@
         "A-3861 CADBORO BAY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO RM-5 TO CONSTRUCT 12 TOWN HOMES DEVELOPMENT. VARIANCES REQUESTED",
+      "purpose": "TO REZONE FROM RS-10 TO RT-7 TO CONSTRUCT 12 TOWNHOUSE DEVELOPMENT. VARIANCES REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18454,6 +18494,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1722582000,
           "endDate": null
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1725346800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -18471,7 +18517,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1723028069,
+      "lastUpdated": 1725619815,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -82872,6 +82918,81 @@
         {
           "relatedPermitID": "DP000644",
           "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1911 BELMONT AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00879",
+      "applicationDate": 1725519600,
+      "addresses": [
+        "1911 BELMONT AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to legalize an existing roof deck and increase to floor space.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1725519600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-09-05 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=642FD44C-46CD-4172-830D-F6A981912367&folderId=67187C240905102145518075"
+        },
+        {
+          "docName": "2024-09-05 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7C25212B-2D91-4274-A3DB-78C1E499AF80&folderId=67187C240905102145518075"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1725519600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00289",
+          "relatedPermitType": "Development Variance Permit"
         }
       ]
     },
