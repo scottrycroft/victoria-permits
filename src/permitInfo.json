@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1725878530,
+  "dateRetrieved": 1725964932,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10830,12 +10830,16 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905143828475911&folderId=99294C240502101136118542"
         },
         {
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne - Arch Intent Revised Sept 6.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=11122C240909152906758196&folderId=99294C240502101136118542"
+        },
+        {
           "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne - Survey.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=99350C240502144834401269&folderId=99294C240502101136118542"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1725619815,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00052",
@@ -10972,12 +10976,12 @@
       ],
       "documents": [
         {
-          "docName": "Architectural Plans for Development Tracker.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=08542C240813093003824970&folderId=06162C240715130520214419"
-        },
-        {
           "docName": "DP000053  - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017369486&folderId=06162C240715130520214419"
+        },
+        {
+          "docName": "DP000053  - 2298 Lansdowne Road -Parking & Traffic.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017385110&folderId=06162C240715130520214419"
         },
         {
           "docName": "DP000053  - 2298 Lansdowne Rod -Landscape.pdf",
@@ -10989,7 +10993,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1725015009,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -13200,12 +13204,12 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=10795C240905144018044173&folderId=99294C240502095949675236"
         },
         {
-          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=99350C240502144929111663&folderId=99294C240502095949675236"
+          "docName": "OCP00008 ZON00052 DP000051 - 2442 Eastdowne - Arch Intent Revised Sept 6.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=11122C240909152708941480&folderId=99294C240502095949675236"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1725619815,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000051",
@@ -13386,10 +13390,14 @@
         {
           "docName": "ZON00054 - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718090617724035&folderId=06162C240715134040653746"
+        },
+        {
+          "docName": "ZON00054 - 2298 Lansdowne Road -Parking & Traffic.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718090617739657&folderId=06162C240715134040653746"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1723632796,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -19585,6 +19593,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1721199600,
+          "endDate": 1725606000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1725865200,
           "endDate": null
         }
       ],
@@ -19603,7 +19617,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1721299793,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -32626,7 +32640,7 @@
         "2937 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit application to build two new multifamily buildings.",
+      "purpose": "The City is considering a Development Permit application to build a new multifamily building. Concurrent with application REZ00878. Refer to rezoning file for all documents.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -32655,7 +32669,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1725447006,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00878",
@@ -79383,7 +79397,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1724396400,
-          "endDate": null
+          "endDate": 1725865200
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -79421,7 +79435,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724755873,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00266",
@@ -80517,7 +80531,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1689577200,
-          "endDate": null
+          "endDate": 1725865200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -80552,10 +80566,22 @@
         {
           "docName": "2023-06 -23 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0C373723-1753-48A3-8108-8AF64EF91EB4&folderId=34832C230623094052584819"
+        },
+        {
+          "docName": "2024-09-09 -  Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E7A13293-9FED-4054-A6FF-BF151338C0D3&folderId=34832C230623094052584819"
+        },
+        {
+          "docName": "2024-09-09 -  Rezoning Book.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5240A16D-ED88-4BDF-A8E5-BAE5079587AD&folderId=34832C230623094052584819"
+        },
+        {
+          "docName": "2024-09-09 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=265AD1D0-E09E-41F1-B5A4-BDA21932CB52&folderId=34832C230623094052584819"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00140",
@@ -82886,7 +82912,7 @@
         "2937 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for two new multifamily dwellings.",
+      "purpose": "The City is considering a Rezoning application for a new multifamily dwelling. Concurrent with application DP000644. Refer to the rezoning file for all documents.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -82942,7 +82968,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725101527,
+      "lastUpdated": 1725965407,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000644",
