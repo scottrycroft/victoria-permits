@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1725964932,
+  "dateRetrieved": 1726051336,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10976,6 +10976,10 @@
       ],
       "documents": [
         {
+          "docName": "2298 Lansdowne Road -Architectural - Updated for Tracker - Sept 10.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=11237C240910134903378232&folderId=06162C240715130520214419"
+        },
+        {
           "docName": "DP000053  - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017369486&folderId=06162C240715130520214419"
         },
@@ -10993,7 +10997,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1726051814,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -13376,8 +13380,8 @@
       ],
       "documents": [
         {
-          "docName": "Architectural Plans for Development Tracker.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=08542C240813093121250958&folderId=06162C240715134040653746"
+          "docName": "2298 Lansdowne Road -Architectural - Updated for Tracker - Sept 10.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=11237C240910134713107949&folderId=06162C240715134040653746"
         },
         {
           "docName": "ZON00054 -  2298 Lansdowne Rod -Landscape.pdf",
@@ -13397,7 +13401,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1726051814,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -28077,6 +28081,29 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1723805389,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1 COOK ST",
+      "applicant": "DBROWN@VICTORIA.CA",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00451",
+      "applicationDate": 1725951600,
+      "addresses": [
+        "1 COOK ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TEST",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "PLANS",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F0424CC9-07D1-4607-8F62-AB764033AE51&folderId=UQApbR+8WkqIL4t4mdL/hw"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1725951600,
       "relatedPermits": []
     },
     {
@@ -82780,6 +82807,12 @@
           "endDate": 1723532400
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1725951600,
+          "endDate": 1725951600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1723532400,
@@ -82792,8 +82825,8 @@
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -82818,7 +82851,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1723632796,
+      "lastUpdated": 1726051814,
       "relatedPermits": []
     },
     {
@@ -82978,7 +83011,7 @@
     },
     {
       "primaryStreetName": "1911 BELMONT AVE",
-      "applicant": "N/A",
+      "applicant": "MATT MAUZA",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00879",
@@ -83043,7 +83076,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725706231,
+      "lastUpdated": 1726051814,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
