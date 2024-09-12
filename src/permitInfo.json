@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1726051336,
+  "dateRetrieved": 1726137731,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10699,7 +10699,7 @@
         "291 KING GEORGE TERR"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit for Infill Residential with variances.",
+      "purpose": "This is an application for a development permit for Infill Residential with variances. 2024 Sept 11 - Bond for Lot A - $ 34,361.00 Bond for Lot B - $ 27,024.00 Bond for Lot C - $ 27,451.00",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -10734,14 +10734,8 @@
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1725865200,
+          "endDate": 1725865200
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -10752,7 +10746,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1725533387,
+      "lastUpdated": 1726138213,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00051",
@@ -22174,6 +22168,12 @@
           "taskType": "",
           "startDate": 1725346800,
           "endDate": 1725346800
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -22188,12 +22188,16 @@
         {
           "docName": "September 3, 2024 APC Meeting Staff Report",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-APC-Staff-Report.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1725447137,
+      "lastUpdated": 1726138254,
       "relatedPermits": []
     },
     {
@@ -22356,6 +22360,12 @@
           "taskType": "",
           "startDate": 1725346800,
           "endDate": 1725346800
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -22370,12 +22380,16 @@
         {
           "docName": "September 3, 2024 APC Meeting Staff Report",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-APC-Staff-Report.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1725447137,
+      "lastUpdated": 1726138254,
       "relatedPermits": []
     },
     {
@@ -28098,12 +28112,24 @@
       "progressSections": [],
       "documents": [
         {
+          "docName": "2022-08-25 - Mailout to Printshop.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00D8D8CF-D126-4409-ADAB-F99AC79DF3D7&folderId=UQApbR+8WkqIL4t4mdL/hw"
+        },
+        {
+          "docName": "adding a nother attchmnt from clc00446 as requested by CS",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=33580C78-C539-4C37-923E-3FE059578BF0&folderId=UQApbR+8WkqIL4t4mdL/hw"
+        },
+        {
           "docName": "PLANS",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F0424CC9-07D1-4607-8F62-AB764033AE51&folderId=UQApbR+8WkqIL4t4mdL/hw"
+        },
+        {
+          "docName": "PLANS_test.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=68977C240911100630997255&folderId=UQApbR+8WkqIL4t4mdL/hw"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725951600,
+      "lastUpdated": 1726138213,
       "relatedPermits": []
     },
     {
@@ -46429,13 +46455,13 @@
         {
           "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1725951600,
+          "endDate": 1726038000
         }
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1726138213,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00873",
@@ -77102,9 +77128,15 @@
           "endDate": 1721372400
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1724828400,
+          "endDate": 1724828400
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": 1721372400,
+          "startDate": 1724828400,
           "endDate": null
         },
         {
@@ -77181,7 +77213,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1726138213,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -81037,6 +81069,12 @@
           "endDate": 1721199600
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1721199600,
+          "endDate": 1726038000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1693378800,
@@ -81046,12 +81084,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1714633200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1721199600,
           "endDate": null
         },
         {
@@ -81132,7 +81164,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1726138213,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -82533,6 +82565,12 @@
           "endDate": 1723186800
         },
         {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": 1725951600,
+          "endDate": 1726038000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1712646000,
@@ -82542,12 +82580,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1723705200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
-          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -82584,7 +82616,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1726138213,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
@@ -82798,7 +82830,7 @@
         "781 RICHMOND AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for Pemberton Woods Campus Renewal.",
+      "purpose": "The City is considering a Rezoning application for GNS Pemberton Woods Campus Renewal.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -82851,7 +82883,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1726051814,
+      "lastUpdated": 1726138213,
       "relatedPermits": []
     },
     {
