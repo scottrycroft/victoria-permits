@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1726137731,
+  "dateRetrieved": 1726224623,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15500,25 +15500,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1689145200,
-          "endDate": null
-        }
-      ],
-      "documents": [
-        {
-          "docName": "ELEVATIONS_APR 17 2023-NFP",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=413C607F-631A-44D3-9B9E-38015F58C129&folderId=52784C221202103835307863"
+          "endDate": 1693206000
         },
         {
-          "docName": "LANDSCAPE_APR 17 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=94DB29A2-FBFE-4F31-B56F-DE61A1C77588&folderId=52784C221202103835307863"
-        },
-        {
-          "docName": "SITE_APR 17 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=70FA9B2D-AD9D-436C-A771-787F55BEAF17&folderId=52784C221202103835307863"
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVAL",
+          "startDate": 1693206000,
+          "endDate": 1693206000
         }
       ],
+      "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1690281972,
+      "lastUpdated": 1726225104,
       "relatedPermits": []
     },
     {
@@ -28096,6 +28089,55 @@
       "city": "Victoria",
       "lastUpdated": 1723805389,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "933 CONVENT PL",
+      "applicant": "JULIAN WEST",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00450",
+      "applicationDate": 1726210800,
+      "addresses": [
+        "933 CONVENT PL",
+        "935 CONVENT PL"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC).\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "Landscape Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4A3F85BF-83BC-44AA-8183-B118A7DC7070&folderId=67164C240905160511131127"
+        },
+        {
+          "docName": "PLANS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CCB17074-D725-493B-B685-85A7B0735223&folderId=67164C240905160511131127"
+        },
+        {
+          "docName": "SUMMARY LETTER.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C82212C4-FF6F-47A5-A0C8-2AF672734B05&folderId=67164C240905160511131127"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1726210800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00213",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "REZ00756",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000586",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00295",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "1 COOK ST",
@@ -43309,8 +43351,12 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1711536641,
+      "lastUpdated": 1726225104,
       "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00450",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        },
         {
           "relatedPermitID": "REZ00756",
           "relatedPermitType": "Rezoning Application"
@@ -69201,8 +69247,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1726225104,
       "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00450",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        },
         {
           "relatedPermitID": "DPV00213",
           "relatedPermitType": "Development Permit with Variance"
@@ -74323,6 +74373,12 @@
           "endDate": 1662534000
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1664348400,
+          "endDate": 1664348400
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1662620400,
@@ -74530,7 +74586,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723892288,
+      "lastUpdated": 1726225104,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -81319,10 +81375,18 @@
         {
           "docName": "2024-04-26 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FA7E08C9-1324-49CC-8E16-7AF374257E7A&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-09-12 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=48255114-2551-4152-934D-C26C561D0AA2&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "2024-09-12 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BF387AB1-75E2-43BD-BBEE-3C0998427540&folderId=59751C230920092653440323"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1726225104,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -82724,12 +82788,24 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8F4A9936-9E06-4B25-B314-3A3205DD8221&folderId=24222C240423134735109160"
         },
         {
+          "docName": "2024-09-12 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9E928FF6-2631-403A-9B61-7949F03045F8&folderId=24222C240423134735109160"
+        },
+        {
+          "docName": "2024-09-12 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=86CF91E7-EBAD-4825-B828-3D8BA21D4497&folderId=24222C240423134735109160"
+        },
+        {
+          "docName": "2024-09-12 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C7F138C5-F204-427A-B2FE-565C096D5EC5&folderId=24222C240423134735109160"
+        },
+        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=75E3CDF2-9EE4-4E56-9E05-AAD32AFD3343&folderId=24222C240423134735109160"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724410220,
+      "lastUpdated": 1726225104,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
