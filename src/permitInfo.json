@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1726224623,
+  "dateRetrieved": 1726310532,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19618,7 +19618,7 @@
     },
     {
       "primaryStreetName": "4085 QUADRA ST",
-      "applicant": "N/A",
+      "applicant": "CHRISTINE LINTOTT",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01070",
@@ -19663,7 +19663,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1723805389,
+      "lastUpdated": 1726311013,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -20521,12 +20521,12 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1685516400,
-          "endDate": null
+          "endDate": 1726210800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1726311013,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00941",
@@ -21909,7 +21909,7 @@
         "4085 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM C-1NC NEIGHBOURHOOD COMMERCIAL AND RS-6 SINGLE FAMILY DWELLING INTO A SITE SPECIFIC ZONE FOR A 12 STORY MIXED COMMERCIAL AND RESIDENTIAL USE WITH A THREE LEVEL UNDERGROUND PARKING.",
+      "purpose": "TO REZONE FROM C-1NC AND RS-6 TO A NEW ZONE FOR A 12-STOREY MIXED USE BUILDING WITH UNDERGROUND PARKING.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21926,7 +21926,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1721213394,
+      "lastUpdated": 1726311013,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01070",
@@ -81305,6 +81305,12 @@
           "endDate": 1718866800
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1726124400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -81386,7 +81392,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726225104,
+      "lastUpdated": 1726311013,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -81451,12 +81457,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1715756400,
-          "endDate": null
+          "endDate": 1718780400
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1726210800,
           "endDate": null
         },
         {
@@ -81513,7 +81519,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1726311013,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
