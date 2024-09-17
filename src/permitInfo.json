@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1726483325,
+  "dateRetrieved": 1726569738,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3367,13 +3367,13 @@
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1726470000,
+          "endDate": 1726470000
         },
         {
           "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -3391,7 +3391,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1725433200,
+      "lastUpdated": 1726570223,
       "relatedPermits": []
     },
     {
@@ -11002,6 +11002,67 @@
           "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000054",
+      "applicationDate": 1726470000,
+      "addresses": [
+        "N/A"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit, to manage soil and to shore construction materials.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1726470000,
+          "endDate": 1726470000
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1726470000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "1742 ELGIN RD",
@@ -46587,9 +46648,21 @@
           "endDate": 1720076400
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1726470000,
+          "endDate": 1726470000
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1720422000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1726470000,
           "endDate": null
         },
         {
@@ -46625,10 +46698,22 @@
         {
           "docName": "2024-07-04 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00B16620-89A5-4C45-A1DD-795A60977FBA&folderId=24732C240424093107807369"
+        },
+        {
+          "docName": "2024-09-16 - Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=46F419DB-5F70-4583-952C-22E545FBDD60&folderId=24732C240424093107807369"
+        },
+        {
+          "docName": "2024-09-16 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C1C5F689-81E3-48ED-9B73-F9005135601E&folderId=24732C240424093107807369"
+        },
+        {
+          "docName": "2024-09-16 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC407516-FDE4-434D-8579-1FDE89028A44&folderId=24732C240424093107807369"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1726570223,
       "relatedPermits": []
     },
     {
@@ -80651,7 +80736,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1726470000,
           "endDate": null
         },
         {
@@ -80696,7 +80781,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1726570223,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00140",
@@ -82745,6 +82830,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1724310000,
+          "endDate": 1726124400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1726470000,
           "endDate": null
         },
         {
@@ -82811,7 +82902,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726225104,
+      "lastUpdated": 1726570223,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
@@ -83966,6 +84057,45 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "14 ",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2024-05",
+      "applicationDate": 1726584308,
+      "addresses": [
+        "14 ",
+        "14A Helmcken Rd ",
+        "",
+        "6 Camden Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The application proposes 12 ground oriented townhouse units, each with an individual parking space. This application will be considered concurrently with the property's rezoning application REZ 2022-06.",
+      "progressSections": [
+        {
+          "taskDescription": "Under Review",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024 09 12 Letter to Mayor & Council [PDF - 139 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-05 LMC.pdf"
+        },
+        {
+          "docName": "2024 09 09 Architectural Plans [PDF - 23 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-05 Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1726584308,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "34 Haagensen Crt",
       "applicant": "",
       "cityApplicationType": "Development Variance",
@@ -84644,7 +84774,7 @@
         "6 Camden Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "The application proposes a new Comprehensive Development (CD) Zone to construct a single three-storey multi-unit residential building with a total of 27 rental dwelling units.",
+      "purpose": "The application proposes to rezone the existing property from R1-B to a new site specific zone to allow for 12 ground oriented townhouse units each with an individual parking space. This application will be considered concurrently with the form and character development permit DP 2024-05",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -84663,12 +84793,20 @@
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 Ltr M&C 2023 11 30 (1).pdf"
         },
         {
+          "docName": "2024 09 11 Revised Letter to Mayor & Council [PDF - 139 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-05 LMC.pdf"
+        },
+        {
           "docName": "2022 08 16 Plans [PDF - 5 MB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 plans.pdf"
         },
         {
           "docName": "2023 11 30 Revised Plans [PDF - 7 MB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/Rez 2022-06 Rev Plans 2023 12 21.pdf"
+        },
+        {
+          "docName": "2024 09 09 Revised Architectural Plans [PDF - 23 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP 2024-05 Plans.pdf"
         },
         {
           "docName": "2024 01 09  COW Report",
@@ -84678,7 +84816,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1704541769,
+      "lastUpdated": 1726584308,
       "relatedPermits": []
     },
     {
@@ -84853,7 +84991,7 @@
       "purpose": "The application proposes a multifamily development for 20 units across two three storey buildings with shared underground parking.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Denied",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -84884,7 +85022,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1706960985,
+      "lastUpdated": 1726584308,
       "relatedPermits": []
     },
     {
@@ -84924,20 +85062,20 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "346 Island Highway",
+      "primaryStreetName": "346 Island Hwy",
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
       "folderNumber": "REZ 2024-01",
       "applicationDate": 1715943017,
       "addresses": [
-        "346 Island Highway"
+        "346 Island Hwy"
       ],
       "status": "ACTIVE",
       "purpose": "The application proposes a multifamily development for a 94 unit building.",
       "progressSections": [
         {
-          "taskDescription": "Under Review",
+          "taskDescription": "Denied",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -84964,7 +85102,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1720522215,
+      "lastUpdated": 1726584308,
       "relatedPermits": []
     },
     {
