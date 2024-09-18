@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1726569738,
+  "dateRetrieved": 1726656145,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3000,19 +3000,13 @@
         },
         {
           "taskDescription": "",
-          "taskType": "3RD READING OF BYLAW",
-          "startDate": 1720422000,
-          "endDate": 1720422000
-        },
-        {
-          "taskDescription": "",
           "taskType": "APC MEETING",
           "startDate": 1721199600,
           "endDate": 1721199600
         },
         {
           "taskDescription": "",
-          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "taskType": "3RD READING OF BYLAW",
           "startDate": null,
           "endDate": null
         },
@@ -3025,7 +3019,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1722077688,
+      "lastUpdated": 1726656633,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001586",
@@ -4311,7 +4305,6 @@
       "applicationDate": 1614322800,
       "addresses": [
         "Royal Bay Sector 4 ",
-        " ",
         ""
       ],
       "status": "ACTIVE",
@@ -4326,7 +4319,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Colwood",
-      "lastUpdated": 1696915873,
+      "lastUpdated": 1726656675,
       "relatedPermits": []
     },
     {
@@ -20699,13 +20692,25 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1725865200,
+          "endDate": 1726556400
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application has been approved by Council",
+          "taskType": "APPLICATION APPROVED BY COUNCIL",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1726656633,
       "relatedPermits": []
     },
     {
@@ -20772,13 +20777,25 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1725865200,
+          "endDate": 1726556400
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application has been approved by Council",
+          "taskType": "APPLICATION APPROVED BY COUNCIL",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1724323835,
+      "lastUpdated": 1726656633,
       "relatedPermits": [
         {
           "relatedPermitID": "LIQ00027",
@@ -21135,9 +21152,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "SITE PLAN_NOV 16 2023.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BA5EC8C6-A0C6-4DE0-ACF8-CF5EB1D3E064&folderId=61600C231117122518266835"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1719485455,
+      "lastUpdated": 1726656633,
       "relatedPermits": []
     },
     {
@@ -22236,6 +22258,10 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-Plans.pdf"
         },
         {
+          "docName": "Revised Plans (September 2024)",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-Plans-September-2024.pdf"
+        },
+        {
           "docName": "July 15, 2024 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/39477/6a-DP%20_%20DVP%20-%209667%20Fifth%20Street.pdf"
         },
@@ -22251,7 +22277,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1726138254,
+      "lastUpdated": 1726656676,
       "relatedPermits": []
     },
     {
@@ -28131,7 +28157,7 @@
         "235 RUSSELL ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -28148,7 +28174,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723805389,
+      "lastUpdated": 1726656633,
       "relatedPermits": []
     },
     {
@@ -83225,7 +83251,7 @@
         "1911 BELMONT AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to legalize an existing roof deck and increase to floor space.",
+      "purpose": "The City is considering a Rezoning application to permit unauthorized construction resulting in an increase to the total floor area above 300m2 in the R1-B zone.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -83281,7 +83307,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726051814,
+      "lastUpdated": 1726656633,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
@@ -84057,16 +84083,15 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "14 ",
+      "primaryStreetName": "14 Helmcken Rd",
       "applicant": "",
       "cityApplicationType": "Development Permit",
       "applicationType": "Development Permit",
       "folderNumber": "DP 2024-05",
       "applicationDate": 1726584308,
       "addresses": [
-        "14 ",
-        "14A Helmcken Rd ",
-        "",
+        "14 Helmcken Rd",
+        "14A Helmcken Rd",
         "6 Camden Ave"
       ],
       "status": "ACTIVE",
@@ -84092,7 +84117,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1726584308,
+      "lastUpdated": 1726656671,
       "relatedPermits": []
     },
     {
@@ -84731,7 +84756,6 @@
       "applicationDate": 1688431516,
       "addresses": [
         "296 Eltham Rd ",
-        "",
         "241 Helmcken Rd"
       ],
       "status": "ARCHIVED",
@@ -84757,20 +84781,19 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1701431425,
+      "lastUpdated": 1726656671,
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "14 ",
+      "primaryStreetName": "14 Helmcken Rd",
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
       "folderNumber": "REZ 2022-06",
       "applicationDate": 1688431516,
       "addresses": [
-        "14 ",
-        "14A Helmcken Rd ",
-        "",
+        "14 Helmcken Rd",
+        "14A Helmcken Rd",
         "6 Camden Ave"
       ],
       "status": "ACTIVE",
@@ -84816,7 +84839,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1726584308,
+      "lastUpdated": 1726656671,
       "relatedPermits": []
     },
     {
@@ -84975,16 +84998,15 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "294 ",
+      "primaryStreetName": "294 Eltham Rd",
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
       "folderNumber": "REZ 2023-04",
       "applicationDate": 1701431425,
       "addresses": [
-        "294 ",
-        "296 Eltham Rd ",
-        "",
+        "294 Eltham Rd",
+        "296 Eltham Rd",
         "242 Helmcken Rd"
       ],
       "status": "ACTIVE",
@@ -85022,7 +85044,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1726584308,
+      "lastUpdated": 1726656671,
       "relatedPermits": []
     },
     {
