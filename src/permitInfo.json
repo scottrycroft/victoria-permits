@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1726742558,
+  "dateRetrieved": 1726828920,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3160,6 +3160,10 @@
       ],
       "documents": [
         {
+          "docName": "2384 Alta Vista Place Plans_April 16 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=FECC1938-6BBD-446E-8FCC-454BDD048EEF&folderId=24167C240507150007956072"
+        },
+        {
           "docName": "2384 Alta Vista_Application_May 7 2024_WEB_Redacted.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=25434C240620121946387035&folderId=24167C240507150007956072"
         },
@@ -3181,7 +3185,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1715324400,
+      "lastUpdated": 1726829407,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001583",
@@ -17768,8 +17772,8 @@
         {
           "taskDescription": "Permit approved by delegated authority",
           "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVAL",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1712559600,
+          "endDate": 1712559600
         }
       ],
       "documents": [
@@ -17787,8 +17791,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1712314228,
+      "lastUpdated": 1726829407,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP21195",
+          "relatedPermitType": "TREE PERMIT"
+        },
         {
           "relatedPermitID": "PLM25230",
           "relatedPermitType": "PLUMBING PERMIT"
@@ -18752,12 +18760,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1724655600,
-          "endDate": null
+          "endDate": 1726729200
         },
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
-          "startDate": null,
+          "startDate": 1726729200,
           "endDate": null
         }
       ],
@@ -18776,7 +18784,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1724755873,
+      "lastUpdated": 1726829407,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00514",
@@ -22133,6 +22141,68 @@
           "relatedPermitType": "SUBDIVISION"
         }
       ]
+    },
+    {
+      "primaryStreetName": "4541 BISSENDEN PL",
+      "applicant": "WEST PLAN CONSULTING",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00775",
+      "applicationDate": 1726729200,
+      "addresses": [
+        "4541 BISSENDEN PL"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM RS-12 TO RS-8",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1726729200,
+          "endDate": 1726729200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1726729200,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1726729200,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "225 VIADUCT AVE W",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00776",
+      "applicationDate": 1726729200,
+      "addresses": [
+        "225 VIADUCT AVE W"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1726729200,
+          "endDate": 1726729200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1726729200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2257 Harbour Road",
@@ -79658,10 +79728,14 @@
         {
           "docName": "2024-08-23 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FE03C041-F266-43A3-9970-2CEC0D384C95&folderId=01974C230302151324660459"
+        },
+        {
+          "docName": "24-078.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=71797C240919112305223719&folderId=01974C230302151324660459"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1726829407,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00266",
@@ -81419,6 +81493,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1726124400,
+          "endDate": 1726729200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -81503,7 +81583,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726311013,
+      "lastUpdated": 1726829407,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -82865,12 +82945,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -82928,7 +83002,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726570223,
+      "lastUpdated": 1726829407,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
