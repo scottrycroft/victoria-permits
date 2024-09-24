@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1727088155,
+  "dateRetrieved": 1727174544,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19869,12 +19869,12 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1726815600,
-          "endDate": null
+          "endDate": 1727074800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1726815600,
+      "lastUpdated": 1727175038,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -22211,7 +22211,7 @@
     },
     {
       "primaryStreetName": "225 VIADUCT AVE W",
-      "applicant": "N/A",
+      "applicant": "HAUSEN PROJECTS INC.",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00776",
@@ -22220,7 +22220,7 @@
         "225 VIADUCT AVE W"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM A-4 RURAL TO A-2 RURAL TO ALLOW CONSTRUCTION OF A SECOND SINGLE FAMILY DWELLING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -22231,13 +22231,13 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1726729200,
+          "endDate": 1726729200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1726729200,
+      "lastUpdated": 1727175038,
       "relatedPermits": []
     },
     {
@@ -82987,7 +82987,7 @@
         "837 BROUGHTON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a purpose-built rental building with an at grade live-work unit. Concurrent with Development Permit with Variance Application No. 00272. Refer to rezoning file for all documentation.",
+      "purpose": "The City is considering a Rezoning application for a purpose-built rental building with an at-grade live-work unit. Concurrent with Development Permit with Variance Application No. 00272. Refer to rezoning file for all documentation.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -83089,7 +83089,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726829407,
+      "lastUpdated": 1727175038,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
@@ -83266,6 +83266,12 @@
           "endDate": 1724396400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1724396400,
+          "endDate": 1726815600
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1726815600,
@@ -83278,15 +83284,9 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1727074800,
           "endDate": null
         },
         {
@@ -83331,7 +83331,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726915814,
+      "lastUpdated": 1727175038,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00439",
