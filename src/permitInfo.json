@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1727347322,
+  "dateRetrieved": 1727433748,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22235,9 +22235,14 @@
           "endDate": 1726729200
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "SITE_SEPT 19, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=152EF522-CE77-459C-B1FB-5E02DEDB2C8A&folderId=64743C240919140918844707"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1727175038,
+      "lastUpdated": 1727434241,
       "relatedPermits": []
     },
     {
@@ -22340,22 +22345,10 @@
       "purpose": "Development Permit and Development Variance Permit application to construct an 8-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1721026800,
-          "endDate": 1721026800
-        },
-        {
-          "taskDescription": "APC Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1725346800,
-          "endDate": 1725346800
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1727074800,
+          "endDate": 1727074800
         }
       ],
       "documents": [
@@ -22366,24 +22359,12 @@
         {
           "docName": "Revised Plans (September 2024)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-Plans-September-2024.pdf"
-        },
-        {
-          "docName": "July 15, 2024 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/39477/6a-DP%20_%20DVP%20-%209667%20Fifth%20Street.pdf"
-        },
-        {
-          "docName": "September 3, 2024 APC Meeting Staff Report",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-APC-Staff-Report.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1726656676,
+      "lastUpdated": 1727434273,
       "relatedPermits": []
     },
     {
@@ -22512,6 +22493,10 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans.pdf"
         },
         {
+          "docName": "Revised Plans (Sept 2024)",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans-Sept-2024.pdf"
+        },
+        {
           "docName": "September 3, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/40493/7a-DP100846%20-%202242%20_%202244%20Harbour%20Road.pdf"
         }
@@ -22519,7 +22504,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1725447137,
+      "lastUpdated": 1727434273,
       "relatedPermits": []
     },
     {
@@ -22536,22 +22521,10 @@
       "purpose": "Development Permit and Development Variance Permit application for a 4-unit residential development.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1723446000,
-          "endDate": 1723446000
-        },
-        {
-          "taskDescription": "APC Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1725346800,
-          "endDate": 1725346800
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1727074800,
+          "endDate": 1727074800
         }
       ],
       "documents": [
@@ -22560,22 +22533,14 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-Plans.pdf"
         },
         {
-          "docName": "August 12, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/39650/Development%20Permit%20Application%20No.%20DP100840_Dev.pdf"
-        },
-        {
-          "docName": "September 3, 2024 APC Meeting Staff Report",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-APC-Staff-Report.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-DV-Notice.pdf"
+          "docName": "Revised Plans (Sept 2024)",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans-Sept-2024.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1726138254,
+      "lastUpdated": 1727434273,
       "relatedPermits": []
     },
     {
@@ -22791,6 +22756,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "10440 Resthaven Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "94271c8c22",
+      "applicationDate": 1727434273,
+      "addresses": [
+        "10440 Resthaven Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit to relax the maximum percentage of vehicle parking areas permitted in a front yard.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10440-Resthaven-Drive-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1727434273,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "2130 James White Boulevard West",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -22864,6 +22861,38 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1725447137,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2306 Beacon Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "a894ead472",
+      "applicationDate": 1727434273,
+      "addresses": [
+        "2306 Beacon Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit to permit the installation of two roof signs.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Beacon-Ave-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1727434273,
       "relatedPermits": []
     },
     {
@@ -22953,13 +22982,13 @@
       "documents": [
         {
           "docName": "Plans",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-Plans-1.pdf"
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-Plans.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1717498217,
+      "lastUpdated": 1727434273,
       "relatedPermits": []
     },
     {
@@ -83012,12 +83041,6 @@
           "endDate": 1714114800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1714114800,
-          "endDate": 1715842800
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1715842800,
@@ -83040,6 +83063,12 @@
           "taskType": "With Applicant",
           "startDate": 1724310000,
           "endDate": 1726124400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1714114800,
+          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -83105,7 +83134,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727175038,
+      "lastUpdated": 1727434241,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
@@ -83376,12 +83405,6 @@
           "endDate": 1725001200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1725001200,
-          "endDate": null
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": null,
@@ -83423,7 +83446,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1727434241,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000644",
@@ -85049,7 +85072,7 @@
       "purpose": "The application proposes the RM-3: Mixed Residential Zone to construct two six-storey multi-unit residential buildings with a total of 238 rental dwelling unit. The proposal also includes an amendment to the Official Community Plan.",
       "progressSections": [
         {
-          "taskDescription": "Approved",
+          "taskDescription": "Approved June 18, 2024",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -85101,6 +85124,14 @@
           "docURL": "https://viewroyalbc.civicweb.net/document/66467/Staff%20Presentation%20-%20Rezoning%20Application%20-%20339,%203.pdf?handle=5F42D159FBCB4F8293757E9EA320A0BE"
         },
         {
+          "docName": "2023 09 12 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/65040/Rezoning%20Application%20-%20339-345%20Island%20Highway.pdf?handle=257D63477BEB445F9E415C3689F9A544"
+        },
+        {
+          "docName": "2023 09 12 Staff Presentation",
+          "docURL": "https://viewroyalbc.civicweb.net/document/65159/Staff%20Presentation%20-%20Rezoning%20Application%20-%20339-34.pdf?handle=0DF428F13B3E4E8B9C6832335E1B395A"
+        },
+        {
           "docName": "2023 06 13 COW Report",
           "docURL": "https://viewroyalbc.civicweb.net/document/63397/Rezoning%20and%20OCP%20Amendment%20-%20339-345%20Island%20Highwa.pdf?handle=CBB316B8CA48480DB71DDBC2E1191440"
         },
@@ -85112,7 +85143,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1720522215,
+      "lastUpdated": 1727434268,
       "relatedPermits": []
     },
     {
@@ -85204,7 +85235,7 @@
       "purpose": "The application proposes a multifamily development for 20 units across two three storey buildings with shared underground parking.",
       "progressSections": [
         {
-          "taskDescription": "Denied",
+          "taskDescription": "Denied September 9, 2024",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -85235,7 +85266,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1726656671,
+      "lastUpdated": 1727434268,
       "relatedPermits": []
     },
     {
