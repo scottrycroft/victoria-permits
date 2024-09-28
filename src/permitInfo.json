@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1727433748,
+  "dateRetrieved": 1727520154,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -82952,6 +82952,18 @@
           "endDate": null
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1727420400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1727420400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -83009,7 +83021,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727261422,
+      "lastUpdated": 1727520641,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
