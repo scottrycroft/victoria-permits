@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1727779329,
+  "dateRetrieved": 1727865731,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3499,6 +3499,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": 1727074800,
+          "endDate": 1727074800
+        },
+        {
+          "taskDescription": "",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
@@ -3506,12 +3512,6 @@
         {
           "taskDescription": "Applicable with variance",
           "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
           "startDate": null,
           "endDate": null
         },
@@ -3535,7 +3535,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1723719003,
+      "lastUpdated": 1727866219,
       "relatedPermits": []
     },
     {
@@ -19529,6 +19529,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1719212400,
+          "endDate": 1727766000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1727766000,
           "endDate": null
         }
       ],
@@ -19551,7 +19557,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1723028069,
+      "lastUpdated": 1727866219,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00768",
@@ -22233,16 +22239,26 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1726729200,
           "endDate": 1726729200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1727766000,
+          "endDate": null
         }
       ],
       "documents": [
+        {
+          "docName": "ELEVATIONS_SEPT 19, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=034E910E-BD47-40B1-B14C-CB54BF7A7637&folderId=64743C240919140918844707"
+        },
         {
           "docName": "SITE_SEPT 19, 2024",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=152EF522-CE77-459C-B1FB-5E02DEDB2C8A&folderId=64743C240919140918844707"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1727434241,
+      "lastUpdated": 1727866219,
       "relatedPermits": []
     },
     {
@@ -22357,14 +22373,14 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-Plans.pdf"
         },
         {
-          "docName": "Revised Plans (September 2024)",
+          "docName": "Revised Plans (Sept. 2024)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9667-Fifth-Street-Plans-September-2024.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1727434273,
+      "lastUpdated": 1727866251,
       "relatedPermits": []
     },
     {
@@ -22493,7 +22509,7 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans.pdf"
         },
         {
-          "docName": "Revised Plans (Sept 2024)",
+          "docName": "Revised Plans (Sept. 2024)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans-Sept-2024.pdf"
         },
         {
@@ -22504,7 +22520,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1727434273,
+      "lastUpdated": 1727866251,
       "relatedPermits": []
     },
     {
@@ -22533,14 +22549,14 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-Plans.pdf"
         },
         {
-          "docName": "Revised Plans (Sept 2024)",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans-Sept-2024.pdf"
+          "docName": "Revised Plans (Sept. 2024)",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2312-Orchard-Ave-Plans-Sept-2024.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1727434273,
+      "lastUpdated": 1727866251,
       "relatedPermits": []
     },
     {
@@ -46852,16 +46868,22 @@
           "endDate": 1720076400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1720422000,
+          "endDate": 1724828400
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1724828400,
+          "endDate": 1726470000
+        },
+        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1726470000,
           "endDate": 1726470000
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1720422000,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
@@ -46917,7 +46939,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726570223,
+      "lastUpdated": 1727866219,
       "relatedPermits": []
     },
     {
@@ -77482,7 +77504,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1724828400,
-          "endDate": null
+          "endDate": 1727766000
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -77555,10 +77577,18 @@
         {
           "docName": "2024-06-13 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF2B9EAF-7D32-4E60-9200-F90CC7DE2503&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-10-01 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=59E6D08B-2C7A-426A-A165-B40C75F1368C&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2024-10-01 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A3896730-1FAE-4231-B610-15F563BF7D74&folderId=32154C220610154226154683"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726138213,
+      "lastUpdated": 1727866219,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -82934,27 +82964,27 @@
           "endDate": 1723186800
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1723705200,
+          "endDate": 1725951600
+        },
+        {
           "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
           "startDate": 1725951600,
           "endDate": 1726038000
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1725951600,
+          "endDate": 1727161200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1712646000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1723705200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1727420400,
           "endDate": null
         },
         {
@@ -83021,7 +83051,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727520641,
+      "lastUpdated": 1727866219,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
@@ -83477,7 +83507,7 @@
         "1911 BELMONT AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit unauthorized construction resulting in an increase to the total floor area above 300m2 in the R1-B zone.",
+      "purpose": "The City is considering a Rezoning application to permit construction resulting in an increase to the total floor area above 300m2 in the R1-B zone.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -83533,7 +83563,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726656633,
+      "lastUpdated": 1727866219,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
