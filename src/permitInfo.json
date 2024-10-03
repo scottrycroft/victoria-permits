@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1727865731,
+  "dateRetrieved": 1727952138,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3505,19 +3505,13 @@
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1727074800,
+          "endDate": 1727074800
         },
         {
           "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -3535,7 +3529,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1727866219,
+      "lastUpdated": 1727952624,
       "relatedPermits": []
     },
     {
@@ -47338,6 +47332,12 @@
           "endDate": 1721113200
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1725519600,
+          "endDate": 1725519600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1709881200,
@@ -47347,12 +47347,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1721631600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -47381,7 +47375,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723546673,
+      "lastUpdated": 1727952624,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
@@ -68891,8 +68885,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1727334000,
+          "endDate": 1727334000
         },
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -69028,7 +69022,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723632796,
+      "lastUpdated": 1727952624,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00158",
@@ -75152,7 +75146,7 @@
         "1708 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct a 13 storey building consisting of ground floor commercial and residential above.",
+      "purpose": "The City is considering a Rezoning application to construct a 13 storey building consisting of ground floor commercial and residential above. Approved by Council Sept 26, 2024",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -75290,7 +75284,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1727952624,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00393",
@@ -78939,12 +78933,6 @@
           "endDate": 1701327600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1670482800,
-          "endDate": 1702450800
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1701327600,
@@ -78961,6 +78949,12 @@
           "taskType": "With Applicant",
           "startDate": 1702969200,
           "endDate": 1723014000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1670482800,
+          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -79058,7 +79052,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727261422,
+      "lastUpdated": 1727952624,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -81974,12 +81968,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=28928C240507152118079991&folderId=66971C231018105314442892"
         },
         {
-          "docName": "2024-05-02 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7A5777E7-527A-4325-91BC-8ED30DF82B03&folderId=66971C231018105314442892"
+          "docName": "2024-05-02 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2840C5AE-F8F0-4722-9562-763C769A3867&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2024-05-02 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A801952E-B694-4E12-85E2-0F36FF35FF18&folderId=66971C231018105314442892"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1727952624,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
@@ -83328,9 +83326,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-08-01 - Architectural Set.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7334EABD-EBB5-4556-9126-992C94B0FF37&folderId=58400C240807084952634194"
+        },
+        {
+          "docName": "2024-08-01 - Landscape Set.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6B23E3F7-0173-4A41-A342-82A1D4AF4E0F&folderId=58400C240807084952634194"
+        },
+        {
+          "docName": "Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B41C63B0-D036-4C41-8525-A3858A23CED8&folderId=58400C240807084952634194"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1726915814,
+      "lastUpdated": 1727952624,
       "relatedPermits": []
     },
     {
@@ -83344,7 +83355,7 @@
         "1574 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for two 3-storey residential buildings.",
+      "purpose": "The City is considering a Rezoning application to allow for two three-storey residential buildings.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -83418,7 +83429,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727175038,
+      "lastUpdated": 1727952624,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00439",
@@ -83507,7 +83518,7 @@
         "1911 BELMONT AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit construction resulting in an increase to the total floor area above 300m2 in the R1-B zone.",
+      "purpose": "The City is considering a Rezoning application to permit construction resulting in an increase to the total floor area above 300m2 in the R1-B zone. Concurrent Development Variance Application No.00289.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -83563,7 +83574,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727866219,
+      "lastUpdated": 1727952624,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
