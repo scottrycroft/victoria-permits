@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1728297723,
+  "dateRetrieved": 1728384118,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15891,6 +15891,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1725519600,
+          "endDate": 1728284400
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -15913,7 +15919,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1725619815,
+      "lastUpdated": 1728384607,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00728",
@@ -18576,7 +18582,19 @@
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
+          "startDate": 1728284400,
+          "endDate": 1728284400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
           "startDate": 1725606000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1728284400,
           "endDate": null
         }
       ],
@@ -18595,7 +18613,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1725706231,
+      "lastUpdated": 1728384607,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -18941,29 +18959,31 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1720076400,
+          "endDate": 1727766000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1727766000,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "ELEVATIONS_PHASE 1_NOV 30, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D7536411-0BD5-4155-87A8-762152D49101&folderId=65395C231130134432494255"
+          "docName": "REVISED ELEVATION PLANS_OCT 1 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E49857AA-6AFC-4A74-9ADE-DDD71677DEF8&folderId=65395C231130134432494255"
         },
         {
-          "docName": "ELEVATIONS_PHASE 2_NOV 30, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D1C1D431-098B-4A16-B613-5ABD5DFCC2A7&folderId=65395C231130134432494255"
+          "docName": "REVISED LANDSCAPE PLANS_OCT 1 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D8C54C6C-B8D7-4F32-8468-01F6DC74974E&folderId=65395C231130134432494255"
         },
         {
-          "docName": "LANDSCAPE PLANS_NOV 30, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3D825877-208C-42E5-B59E-7788A2CB42D4&folderId=65395C231130134432494255"
-        },
-        {
-          "docName": "SITE PLAN_NOV 30, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4515105E-3CDC-45B3-B19A-A00045A05A92&folderId=65395C231130134432494255"
+          "docName": "REVISED SIMPLIFIED SITE PLAN_OCT 1 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=F53852C8-C31A-4187-B445-5B3C362EBC01&folderId=65395C231130134432494255"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1721731790,
+      "lastUpdated": 1728384607,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -22887,22 +22907,26 @@
       "purpose": "Development Variance Permit to permit the installation of two roof signs.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1728284400,
+          "endDate": 1728284400
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Beacon-Ave-Plans.pdf"
+        },
+        {
+          "docName": "October 7, 2024 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/41805/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1727434273,
+      "lastUpdated": 1728384639,
       "relatedPermits": []
     },
     {
@@ -22983,22 +23007,26 @@
       "purpose": "Development Permit and Development Variance Permit application to construct a 2 lot single family small lot residential development.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1728284400,
+          "endDate": 1728284400
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-Plans.pdf"
+        },
+        {
+          "docName": "October 7, 2024 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/42910/Development%20Permit%20Application%20No.%20DP100827_Dev.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1727434273,
+      "lastUpdated": 1728384639,
       "relatedPermits": []
     },
     {
