@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1728556939,
+  "dateRetrieved": 1728643336,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3507,6 +3507,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1727074800,
+          "endDate": 1727074800
+        },
+        {
+          "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
           "startDate": 1727074800,
           "endDate": 1727074800
@@ -3516,12 +3522,6 @@
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
           "startDate": 1727074800,
           "endDate": 1727074800
-        },
-        {
-          "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
         },
         {
           "taskDescription": "",
@@ -3537,7 +3537,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1727952624,
+      "lastUpdated": 1728643830,
       "relatedPermits": []
     },
     {
@@ -18452,6 +18452,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1712127600,
+          "endDate": 1727938800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1727938800,
           "endDate": null
         }
       ],
@@ -18474,7 +18480,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1728643830,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -28292,8 +28298,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728471144,
+      "lastUpdated": 1728643830,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DP000645",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
         {
           "relatedPermitID": "REZ00880",
           "relatedPermitType": "Rezoning Application"
@@ -33191,6 +33201,58 @@
         {
           "relatedPermitID": "REZ00878",
           "relatedPermitType": "Rezoning Application"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "741 FISGARD ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000645",
+      "applicationDate": 1728543600,
+      "addresses": [
+        "741 FISGARD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application for a multiple dwelling building with commercial on the ground floor and underground parking. CONCURRENT WITH REZ00880. REFER TO REZONING FILE FOR APPLICATION MATERIALS.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1728543600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1728543600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00880",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00443",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -47026,6 +47088,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1726470000,
+          "endDate": 1728025200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1728025200,
           "endDate": null
         },
         {
@@ -47076,7 +47144,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727866219,
+      "lastUpdated": 1728643830,
       "relatedPermits": []
     },
     {
@@ -47603,18 +47671,18 @@
         "235 RUSSELL ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for additional floors to include residential rental units. The proposal requires an OCP amendment. CONCURRENT WITH REZ00881. REFER TO REZONING FILE FOR ALL APPLICATION MATERIALS.",
+      "purpose": "The City is considering a Development Permit with Variance application for additional floors to include residential rental units. CONCURRENT WITH REZ00881. REFER TO REZONING FILE FOR ALL APPLICATION MATERIALS.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1728457200,
-          "endDate": null
+          "endDate": 1728457200
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1728543600,
           "endDate": null
         },
         {
@@ -47632,7 +47700,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1728457200,
+      "lastUpdated": 1728643830,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00881",
@@ -81613,6 +81681,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1728543600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -81666,7 +81740,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728557431,
+      "lastUpdated": 1728643830,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -83653,12 +83727,6 @@
           "endDate": 1724396400
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1724396400,
-          "endDate": 1726815600
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1726815600,
@@ -83668,6 +83736,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1724396400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1726815600,
           "endDate": null
         },
         {
@@ -83718,7 +83792,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727952624,
+      "lastUpdated": 1728643830,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00439",
@@ -83816,15 +83890,21 @@
           "endDate": 1725606000
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1727766000,
+          "endDate": 1728543600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1725606000,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1728543600,
           "endDate": null
         },
         {
@@ -83863,7 +83943,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727952624,
+      "lastUpdated": 1728643830,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
@@ -83872,89 +83952,22 @@
       ]
     },
     {
-      "primaryStreetName": "1620 BLANSHARD ST",
+      "primaryStreetName": "741 FISGARD ST",
       "applicant": "GREGORY DAMANT",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00880",
       "applicationDate": 1728370800,
       "addresses": [
-        "1620 BLANSHARD ST",
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking.",
+      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking. CONCURRENT WITH DP000645. REFER TO REZONING FILE FOR APPLICATION MATERIALS.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Victoria",
-      "lastUpdated": 1728370800,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "CLC00443",
-          "relatedPermitType": "Pre-Application (CALUC)"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "235 RUSSELL ST",
-      "applicant": "DAN ROBBINS",
-      "cityApplicationType": "Rezoning Application",
-      "applicationType": "Rezoning",
-      "folderNumber": "REZ00881",
-      "applicationDate": 1728457200,
-      "addresses": [
-        "235 RUSSELL ST"
-      ],
-      "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for additional floors to include residential rental units. The proposal requires an OCP amendment. CONCURRENT WITH DPV00280. REFER TO REZONING FILE FOR ALL APPLICATION MATERIALS.",
-      "progressSections": [
-        {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": 1728457200,
+          "startDate": 1728543600,
           "endDate": null
         },
         {
@@ -83996,6 +84009,79 @@
       ],
       "documents": [
         {
+          "docName": "2024-10-10 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=77698C241010100912733647&folderId=76690C241008090510641516"
+        },
+        {
+          "docName": "2024-10-10 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=77698C241010100912849200&folderId=76690C241008090510641516"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1728643830,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000645",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00443",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "235 RUSSELL ST",
+      "applicant": "DAN ROBBINS",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00881",
+      "applicationDate": 1728457200,
+      "addresses": [
+        "235 RUSSELL ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for additional floors to include residential rental units. CONCURRENT WITH DPV00280. REFER TO REZONING FILE FOR ALL APPLICATION MATERIALS.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1728457200,
+          "endDate": 1728457200
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1728543600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
           "docName": "2024-10-09 - Plans_Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82DDFB74-461F-46A5-B30F-DC4331309CED&folderId=77246C241009105507809214"
         },
@@ -84009,7 +84095,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728457200,
+      "lastUpdated": 1728643830,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00280",
@@ -84827,17 +84913,17 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "4 Helmcken Road",
+      "primaryStreetName": "4 Helmcken Rd",
       "applicant": "",
       "cityApplicationType": "Development Permit",
       "applicationType": "Development Permit",
       "folderNumber": "DP 2024-06",
       "applicationDate": 1728557458,
       "addresses": [
-        "4 Helmcken Road"
+        "4 Helmcken Rd"
       ],
       "status": "ACTIVE",
-      "purpose": "The application proposes the form & character for a 4 unit houseplex development.",
+      "purpose": "The application proposes the form and character for a 4 unit houseplex development.",
       "progressSections": [
         {
           "taskDescription": "Under Review",
@@ -84859,7 +84945,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1728557458,
+      "lastUpdated": 1728643858,
       "relatedPermits": []
     },
     {
@@ -85847,7 +85933,7 @@
       "purpose": "The application proposes a multifamily development for a 94 unit building.",
       "progressSections": [
         {
-          "taskDescription": "Denied",
+          "taskDescription": "Withdrawn",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -85874,7 +85960,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1726584308,
+      "lastUpdated": 1728643858,
       "relatedPermits": []
     },
     {
