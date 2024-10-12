@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1728643336,
+  "dateRetrieved": 1728729748,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1563,13 +1563,13 @@
         "1131 VERDIER AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "*Refer to Rezoning and/or OCP Amendment PL001430",
+      "purpose": "The District has received an application to construct 7 townhouses.",
       "progressSections": [
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1728284400,
+          "endDate": 1728284400
         },
         {
           "taskDescription": "",
@@ -1578,9 +1578,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "1131 Verdier_Letter of Rationale_May 31 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=C1222D35-4245-41C0-970F-59F6C69B6FE5&folderId=10290C230531085027245094"
+        },
+        {
+          "docName": "1131 Verdier_Plans_May 31 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=E63652E9-7ABA-4C29-B246-7ADE2705A185&folderId=10290C230531085027245094"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1685516400,
+      "lastUpdated": 1728730241,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001430",
@@ -1644,18 +1653,9 @@
           "endDate": null
         }
       ],
-      "documents": [
-        {
-          "docName": "1131 Verdier_Letter of Rationale_May 31 2023_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=12605C230725145543802579&folderId=10290C230531090104905463"
-        },
-        {
-          "docName": "1131 Verdier_Plans_May 31 2023_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=12605C230725145543814335&folderId=10290C230531090104905463"
-        }
-      ],
+      "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1728730241,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001428",
@@ -19198,7 +19198,19 @@
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
+          "startDate": 1728630000,
+          "endDate": 1728630000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
           "startDate": 1720162800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1728630000,
           "endDate": null
         }
       ],
@@ -19217,7 +19229,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720262974,
+      "lastUpdated": 1728730241,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
