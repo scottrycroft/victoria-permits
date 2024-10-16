@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1728989221,
+  "dateRetrieved": 1729075339,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13295,6 +13295,12 @@
           "endDate": 1716966000
         },
         {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -13303,12 +13309,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -13344,7 +13344,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1723028069,
+      "lastUpdated": 1729075838,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000052",
@@ -33227,20 +33227,8 @@
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit application for a multiple dwelling building with commercial on the ground floor and underground parking. CONCURRENT WITH REZ00880. REFER TO REZONING FILE FOR APPLICATION MATERIALS.",
+      "purpose": "The City is considering a Development Permit application for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with REZ00880. Refer to rezoning file for application materials.",
       "progressSections": [
-        {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": 1728543600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": null,
-          "endDate": null
-        },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
@@ -33256,7 +33244,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1728543600,
+      "lastUpdated": 1729075838,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00880",
@@ -47686,15 +47674,55 @@
       "purpose": "The City is considering a Development Permit with Variance application for additional floors to include residential rental units. CONCURRENT WITH REZ00881. REFER TO REZONING FILE FOR ALL APPLICATION MATERIALS.",
       "progressSections": [
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1729075838,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00881",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00446",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1574 BAY ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00281",
+      "applicationDate": 1728975600,
+      "addresses": [
+        "1574 BAY ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to build 2 housing complexes with 8 units total.",
+      "progressSections": [
+        {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": 1728457200,
-          "endDate": 1728457200
+          "startDate": null,
+          "endDate": null
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": 1728543600,
+          "startDate": null,
           "endDate": null
         },
         {
@@ -47712,14 +47740,14 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1728643830,
+      "lastUpdated": 1728975600,
       "relatedPermits": [
         {
-          "relatedPermitID": "REZ00881",
+          "relatedPermitID": "REZ00877",
           "relatedPermitType": "Rezoning Application"
         },
         {
-          "relatedPermitID": "CLC00446",
+          "relatedPermitID": "CLC00439",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -83544,12 +83572,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C7F138C5-F204-427A-B2FE-565C096D5EC5&folderId=24222C240423134735109160"
         },
         {
+          "docName": "2024-10-11 - Updated Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3FEEFAFC-1AA7-42B3-9B8C-D98BAA71DCF7&folderId=24222C240423134735109160"
+        },
+        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=75E3CDF2-9EE4-4E56-9E05-AAD32AFD3343&folderId=24222C240423134735109160"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728471144,
+      "lastUpdated": 1729075838,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
@@ -83793,19 +83825,15 @@
         {
           "docName": "2024-08-23 Plans_Submission_Unbubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8D05DA64-B2E5-4979-8EF7-E28255027CEF&folderId=63668C240823101640028354"
-        },
-        {
-          "docName": "2024-09-20 - Plans_Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=48A9131C-94D5-4EF9-B7B2-F6B3A2B4E08A&folderId=63668C240823101640028354"
-        },
-        {
-          "docName": "2024-09-20 - Plans_Revised_Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=237B08F4-6E36-475E-BECB-58F1B6ACC1A4&folderId=63668C240823101640028354"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728643830,
+      "lastUpdated": 1729075838,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00281",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "CLC00439",
           "relatedPermitType": "Pre-Application (CALUC)"
@@ -83974,18 +84002,18 @@
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking. CONCURRENT WITH DP000645. REFER TO REZONING FILE FOR APPLICATION MATERIALS.",
+      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with DP000645. Refer to rezoning file for application materials.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1728543600,
-          "endDate": null
+          "endDate": 1728543600
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1728975600,
           "endDate": null
         },
         {
@@ -84030,7 +84058,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728643830,
+      "lastUpdated": 1729075838,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000645",
