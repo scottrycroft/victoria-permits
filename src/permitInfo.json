@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1729075339,
+  "dateRetrieved": 1729248195,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2970,6 +2970,61 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "6303 MARIE MEADOWS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001568",
+      "applicationDate": 1713510000,
+      "addresses": [
+        "6303 MARIE MEADOWS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The District has received an Development Permit application with Variances for a new single family dwelling.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1713510000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1713510000,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "1183 VERDIER AVE",
       "applicant": "N/A",
       "cityApplicationType": "Rezoning and/or OCP Amendment",
@@ -3126,18 +3181,18 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1728284400,
+          "endDate": 1728284400
         },
         {
           "taskDescription": "",
           "taskType": "APC MEETING",
+          "startDate": 1729062000,
+          "endDate": 1729062000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
           "startDate": null,
           "endDate": null
         },
@@ -3193,7 +3248,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1726829407,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001583",
@@ -3694,6 +3749,78 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1723618800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1188 SLUGGETT RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001663",
+      "applicationDate": 1727766000,
+      "addresses": [
+        "1188 SLUGGETT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The District has received a Development Permit application for a proposed 4 unit strata. The existing is to remain as a single family dwelling and a triplex is proposed to be constructed at the rear portion of the property.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1727938800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1188 Sluggett Rd_Existing plan WEB_Oct 1, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241017094606111316&folderId=30449C241002155348123485"
+        },
+        {
+          "docName": "1188 Sluggett Rd_Landscape Concept Plan WEB_Oct 1, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241017094606122817&folderId=30449C241002155348123485"
+        },
+        {
+          "docName": "1188 Sluggett Rd_Proposed plan WEB_Oct 1, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241017094606135619&folderId=30449C241002155348123485"
+        },
+        {
+          "docName": "1188 Sluggett Rd_Site survey WEB_Oct 1, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241017094606142645&folderId=30449C241002155348123485"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1727938800,
       "relatedPermits": []
     },
     {
@@ -17278,8 +17405,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1722595802,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP21762",
+          "relatedPermitType": "TREE PERMIT"
+        },
         {
           "relatedPermitID": "REZ00733",
           "relatedPermitType": "REZONING"
@@ -18943,7 +19074,7 @@
         "3986 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO RA-11 TO CONSTRUCT A 6 STOREY APARTMENT BUILDING CONTAINING 78 UNITS WITH UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM RS- 6 TO RA-11 TO CONSTRUCT A 6STOREY APARTMENT BUILDING CONTAINING 78 UNITS WITH 1 LEVEL UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18979,6 +19110,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1727766000,
+          "endDate": 1729148400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1729148400,
           "endDate": null
         }
       ],
@@ -18997,7 +19134,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1728384607,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -19808,6 +19945,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1724137200,
+          "endDate": 1729062000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1729062000,
           "endDate": null
         }
       ],
@@ -19826,7 +19969,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1725447006,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00772",
@@ -20474,8 +20617,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP21762",
+          "relatedPermitType": "TREE PERMIT"
+        },
         {
           "relatedPermitID": "DPR01034",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -22312,7 +22459,7 @@
         "5032 WESLEY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM SPLIT ZONE RS-12A AND RS-12 TO RS-12 TO CREATE ONE ADDITIONAL LOT.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -22321,15 +22468,15 @@
           "endDate": 1728370800
         },
         {
-          "taskDescription": "Application submission review for completeness",
-          "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1729062000,
+          "endDate": 1729062000
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1728370800,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00963",
@@ -22973,6 +23120,12 @@
           "taskType": "",
           "startDate": 1728284400,
           "endDate": 1728284400
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -22983,12 +23136,16 @@
         {
           "docName": "October 7, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/41805/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Beacon-Ave-DVP-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1728384639,
+      "lastUpdated": 1729248729,
       "relatedPermits": []
     },
     {
@@ -33227,7 +33384,7 @@
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit application for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with REZ00880. Refer to rezoning file for application materials.",
+      "purpose": "SEE REZ00880 FOR PROJECT DETAILS. The City is considering a Development Permit application for a multiple dwelling building with commercial on the ground floor and underground parking.",
       "progressSections": [
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -33244,7 +33401,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1729075838,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00880",
@@ -47711,18 +47868,18 @@
         "1574 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to build 2 housing complexes with 8 units total.",
+      "purpose": "The City is considering a Development Permit with Variance application for two three-storey residential buildings.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1728975600,
+          "endDate": 1728975600
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1729062000,
           "endDate": null
         },
         {
@@ -47740,7 +47897,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1728975600,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00877",
@@ -82189,7 +82346,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1726210800,
-          "endDate": null
+          "endDate": 1729148400
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -82242,10 +82399,26 @@
         {
           "docName": "2024-05-14 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1AF12D74-A4C1-48CC-B09B-42A1215E4FB8&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-10-17 - Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=20617033-4612-4199-9C6A-773B0D4DE1FD&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-10-17 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E81D8C47-A5F2-4940-8B7F-791D3D9EBD10&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-10-17 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=492FEDE7-B7BA-4D4A-A230-8DEB5192776B&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-10-17 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=223C6168-A1BA-4D11-A17A-79F9819B7A51&folderId=61367C230926151425966861"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726311013,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
@@ -83748,8 +83921,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728038987,
-      "relatedPermits": []
+      "lastUpdated": 1729248695,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00441",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "1574 BAY ST",
@@ -83921,7 +84099,7 @@
         "1911 BELMONT AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit construction resulting in an increase to the total floor area above 300m2 in the R1-B zone. Concurrent Development Variance Application No.00289.",
+      "purpose": "The City is considering a Rezoning and Development Variance Permit application to increase the total floor area from 300m2 to 336m2 and legalize previous work done without permits. No new construction is proposed with this application. Concurrent Development Variance Application No.00289.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -83932,7 +84110,7 @@
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
-          "startDate": 1727766000,
+          "startDate": 1728543600,
           "endDate": 1728543600
         },
         {
@@ -83983,7 +84161,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728643830,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
@@ -84002,7 +84180,7 @@
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with DP000645. Refer to rezoning file for application materials.",
+      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with DP000645.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -84058,7 +84236,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729075838,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000645",
@@ -84126,16 +84304,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82DDFB74-461F-46A5-B30F-DC4331309CED&folderId=77246C241009105507809214"
         },
         {
-          "docName": "Letter to Mayor and Council - VicWest CA.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=78B80B0A-870F-4CB4-AF78-915FC649E92B&folderId=77246C241009105507809214"
-        },
-        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35E97CF4-D1C5-4C96-A00B-3DCE0E7C0378&folderId=77246C241009105507809214"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728643830,
+      "lastUpdated": 1729248695,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00280",
