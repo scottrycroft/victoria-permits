@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1729248195,
+  "dateRetrieved": 1729334570,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -1589,13 +1589,8 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1728730241,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "PL001430",
-          "relatedPermitType": "Rezoning and/or OCP Amendment"
-        }
-      ]
+      "lastUpdated": 1729335069,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "1131 VERDIER AVE",
@@ -2477,10 +2472,14 @@
         {
           "docName": "1934 Hovey_Architectural Plans_Nov 10 2023_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=16614C231123124402976587&folderId=16332C231110115426945016"
+        },
+        {
+          "docName": "1934 Hovey_Landscape plans REVISED WEB_Oct 16, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241018150913358076&folderId=16332C231110115426945016"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1728557431,
+      "lastUpdated": 1729335069,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -3821,6 +3820,66 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1727938800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "7147 BRENTWOOD DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001671",
+      "applicationDate": 1729234800,
+      "addresses": [
+        "7147 BRENTWOOD DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The District has received a Development Permit application for a proposed detached garage with suite above west elevation",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1729234800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7147 BrentwoodDr_Plans WEB_Oct 18, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241018095541138515&folderId=30529C241018085119690308"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1729234800,
       "relatedPermits": []
     },
     {
@@ -23084,22 +23143,26 @@
       "purpose": "Development Variance Permit application to vary the Subdivision and Development Bylaw requirements in order to allow for overhead wiring rather than underground connections to a new residential development.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1729494000,
+          "endDate": 1729494000
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2104-Colinwood-Road.pdf"
+        },
+        {
+          "docName": "October 21, 2024 Committee of the Whole Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/43180/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1725447137,
+      "lastUpdated": 1729335103,
       "relatedPermits": []
     },
     {
@@ -23294,22 +23357,26 @@
       "purpose": "Development Permit and Development Variance Permit application for a four-storey 21-unit multi-family residential development with surface parking.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1729494000,
+          "endDate": 1729494000
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-Plans.pdf"
+        },
+        {
+          "docName": "October 21, 2024 Committee of the Whole Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/43333/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1722336749,
+      "lastUpdated": 1729335103,
       "relatedPermits": []
     },
     {
@@ -80247,6 +80314,12 @@
           "endDate": 1709794800
         },
         {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": 1729148400,
+          "endDate": 1729234800
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -80286,7 +80359,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1729335069,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00257",
@@ -83249,6 +83322,18 @@
           "endDate": 1719558000
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1727938800,
+          "endDate": 1727938800
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": 1729148400,
+          "endDate": 1729234800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1710313200,
@@ -83261,20 +83346,8 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting",
           "startDate": null,
           "endDate": null
         }
@@ -83306,7 +83379,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1729335069,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
