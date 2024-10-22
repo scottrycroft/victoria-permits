@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1729507378,
+  "dateRetrieved": 1729593721,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19087,6 +19087,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1714719600,
+          "endDate": 1729234800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1729234800,
           "endDate": null
         }
       ],
@@ -19109,7 +19115,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1714819786,
+      "lastUpdated": 1729594217,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00751",
@@ -46538,11 +46544,11 @@
         "133 GORGE RD E"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE REZ00843 FOR PROJECT INFORMATION The City is considering a Development Permit application for phase 1 development.",
+      "purpose": "SEE REZ00843 FOR PROJECT INFORMATION The City is considering a Development Permit application for phase 1 development. Approved by Council October 17, 2024",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1677740400,
+      "lastUpdated": 1729594217,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00843",
@@ -47824,7 +47830,7 @@
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00279",
-      "applicationDate": 1728370800,
+      "applicationDate": 1727074800,
       "addresses": [
         "1132 JOHNSON ST",
         "1138 JOHNSON ST"
@@ -47835,13 +47841,13 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": 1728370800,
-          "endDate": 1728370800
+          "startDate": 1727161200,
+          "endDate": 1727161200
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": 1728370800,
+          "startDate": 1727161200,
           "endDate": null
         },
         {
@@ -47868,7 +47874,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728370800,
+      "lastUpdated": 1729594217,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00287",
@@ -72859,7 +72865,7 @@
         "1132 EMPRESS AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to a site-specific zone proposing a new three unit building connected to the existing duplex by a deck. The proposal requires a variance to the parking. Concurrent with Development Permit with Variance Application No. 00174. Concurrent with Heritage Designation No. 000208.",
+      "purpose": "The City is considering a Rezoning application to allow a new three-unit building connected to the existing duplex by a deck. The proposal requires a variance to the parking. Concurrent with Development Permit with Variance Application No. 00174. Concurrent with Heritage Designation No. 000208.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -73017,7 +73023,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1729594217,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -80263,7 +80269,7 @@
         "135 GORGE RD E"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to redevelop the site in two phases: Phase 1 - 133 Gorge Road building and surface parking lot, replacing the existing 59 rental homes with 174 new rental units, as well as 3 Commercial units for shops and services. Phase 2 - 135 Gorge Road building and surface parking lot, replacing the existing 141 rental homes with approximately 310 new units.",
+      "purpose": "The City is considering a Rezoning application to redevelop the site in two phases: Phase 1 - 133 Gorge Road building and surface parking lot, replacing the existing 59 rental homes with 174 new rental units, as well as 3 Commercial units for shops and services. Phase 2 - 135 Gorge Road building and surface parking lot, replacing the existing 141 rental homes with approximately 310 new units. Approved by Council Octover 17, 2024",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -80317,7 +80323,7 @@
           "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting",
           "startDate": 1729148400,
-          "endDate": 1729234800
+          "endDate": 1729148400
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -80359,7 +80365,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729335069,
+      "lastUpdated": 1729594217,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00257",
@@ -82422,6 +82428,12 @@
           "endDate": 1729148400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1729494000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -82491,7 +82503,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729248695,
+      "lastUpdated": 1729594217,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
