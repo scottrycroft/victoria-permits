@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1729680119,
+  "dateRetrieved": 1729766745,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -82357,10 +82357,14 @@
         {
           "docName": "2024-09-12 - Plans_Revised_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BF387AB1-75E2-43BD-BBEE-3C0998427540&folderId=59751C230920092653440323"
+        },
+        {
+          "docName": "24-071.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=81500C241023092142728106&folderId=59751C230920092653440323"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727261422,
+      "lastUpdated": 1729767244,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -84207,6 +84211,12 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
+          "startDate": 1725519600,
+          "endDate": 1729580400
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": 1728543600,
           "endDate": 1729580400
         },
@@ -84219,7 +84229,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1729666800,
           "endDate": null
         },
         {
@@ -84264,7 +84274,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729680622,
+      "lastUpdated": 1729767244,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
