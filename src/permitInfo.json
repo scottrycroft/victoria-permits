@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1729766745,
+  "dateRetrieved": 1729852913,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18793,13 +18793,13 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1725606000,
-          "endDate": null
+          "endDate": 1729753200
         },
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1728284400,
-          "endDate": null
+          "endDate": 1729753200
         }
       ],
       "documents": [
@@ -18817,7 +18817,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1728384607,
+      "lastUpdated": 1729853408,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -28751,13 +28751,14 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "1312 BROAD ST",
+      "primaryStreetName": "1306 BROAD ST",
       "applicant": "ANTHONY QUIN",
       "cityApplicationType": "Pre-Application (CALUC)",
       "applicationType": "Pre-Application",
       "folderNumber": "CLC00454",
       "applicationDate": 1726815600,
       "addresses": [
+        "1306 BROAD ST",
         "1312 BROAD ST",
         "1314 BROAD ST",
         "1316 BROAD ST",
@@ -28790,7 +28791,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726815600,
+      "lastUpdated": 1729853408,
       "relatedPermits": []
     },
     {
@@ -47779,22 +47780,28 @@
           "endDate": 1721113200
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1709881200,
+          "endDate": 1725519600
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1721631600,
+          "endDate": 1725519600
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1725519600,
           "endDate": 1725519600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1709881200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1721631600,
-          "endDate": null
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": 1729753200,
+          "endDate": 1729753200
         },
         {
           "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -47822,7 +47829,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727952624,
+      "lastUpdated": 1729853408,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
@@ -47908,23 +47915,10 @@
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Development Permit with Variance application for additional floors to include residential rental units. CONCURRENT WITH REZ00881. REFER TO REZONING FILE FOR ALL APPLICATION MATERIALS.",
-      "progressSections": [
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
+      "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1729075838,
+      "lastUpdated": 1729853408,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00881",
@@ -72943,7 +72937,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1712818800,
-          "endDate": null
+          "endDate": 1729753200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -73008,6 +73002,22 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9F58F9CB-0C88-424F-A7C5-26EF5F2B335D&folderId=26085C210521111758372003"
         },
         {
+          "docName": "2024-10-24 - Letter to Mayor and Council Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8294629D-DB22-4AFF-B3B8-E2CD005D3DFB&folderId=26085C210521111758372003"
+        },
+        {
+          "docName": "2024-10-24 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A7F5A37A-8E1C-4058-9833-3A5155084876&folderId=26085C210521111758372003"
+        },
+        {
+          "docName": "2024-10-24 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC0C411E-7F35-4030-92D8-8F204D815A4F&folderId=26085C210521111758372003"
+        },
+        {
+          "docName": "2024-10-24 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6267A850-74A1-43CD-ADB7-997AEECBC12C&folderId=26085C210521111758372003"
+        },
+        {
           "docName": "24-03-15 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1B0521CE-7E41-46A2-BB87-25E127DF4088&folderId=26085C210521111758372003"
         },
@@ -73029,7 +73039,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729594217,
+      "lastUpdated": 1729853408,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -79572,26 +79582,32 @@
           "endDate": 1723014000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1670482800,
-          "endDate": null
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": 1728370800,
+          "endDate": 1728370800
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1729666800,
+          "endDate": 1729666800
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1723705200,
-          "endDate": null
+          "endDate": 1729753200
         },
         {
-          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
-          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
-          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -79673,7 +79689,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728125410,
+      "lastUpdated": 1729853408,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
