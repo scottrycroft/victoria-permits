@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1729852913,
+  "dateRetrieved": 1729939317,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18648,6 +18648,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1727938800,
+          "endDate": 1729839600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1729839600,
           "endDate": null
         }
       ],
@@ -18670,7 +18676,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1728643830,
+      "lastUpdated": 1729939816,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -18800,6 +18806,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1728284400,
           "endDate": 1729753200
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -18817,7 +18829,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1729853408,
+      "lastUpdated": 1729939816,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -19777,6 +19789,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1727766000,
+          "endDate": 1729839600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1729839600,
           "endDate": null
         }
       ],
@@ -19799,7 +19817,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1727866219,
+      "lastUpdated": 1729939816,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00768",
@@ -47331,6 +47349,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1728025200,
+          "endDate": 1729839600
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1729839600,
           "endDate": null
         },
         {
@@ -47381,7 +47405,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728643830,
+      "lastUpdated": 1729939816,
       "relatedPermits": []
     },
     {
@@ -47771,7 +47795,7 @@
         "330 QUEBEC ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to add small buildings for a sauna with a variance for open site space. See DP000640 for project details prior to July 18, 2024.",
+      "purpose": "The City is considering a Development Permit with Variance application to add small buildings for a sauna with a variance for open site space. See DP000640 for project details prior to July 18, 2024. APPROVED BY COUNCIL OCTOBER 24, 2024",
       "progressSections": [
         {
           "taskDescription": "City receives updated plans from the applicant",
@@ -47829,7 +47853,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729853408,
+      "lastUpdated": 1729939816,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
@@ -82097,6 +82121,12 @@
           "endDate": 1714546800
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1714633200,
+          "endDate": 1716534000
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1714546800,
@@ -82112,12 +82142,6 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1693378800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1714633200,
           "endDate": null
         },
         {
@@ -82198,7 +82222,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726138213,
+      "lastUpdated": 1729939816,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -83461,15 +83485,15 @@
           "endDate": 1722495600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1712127600,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1723618800,
+          "endDate": 1725606000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1712127600,
           "endDate": null
         },
         {
@@ -83524,7 +83548,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723892288,
+      "lastUpdated": 1729939816,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
