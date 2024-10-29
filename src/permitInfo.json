@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1730112123,
+  "dateRetrieved": 1730198976,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3833,7 +3833,7 @@
         "7147 BRENTWOOD DR"
       ],
       "status": "ACTIVE",
-      "purpose": "The District has received a Development Permit application for a proposed detached garage with suite above west elevation",
+      "purpose": "The District has received a Development Permit application for a proposed detached garage with suite above.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -3879,7 +3879,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1729234800,
+      "lastUpdated": 1730199475,
       "relatedPermits": []
     },
     {
@@ -47355,6 +47355,12 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1729839600,
+          "endDate": 1729839600
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1730098800,
           "endDate": null
         },
         {
@@ -47405,7 +47411,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729939816,
+      "lastUpdated": 1730199475,
       "relatedPermits": []
     },
     {
@@ -47929,7 +47935,7 @@
     },
     {
       "primaryStreetName": "235 RUSSELL ST",
-      "applicant": "N/A",
+      "applicant": "DAN ROBBINS",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00280",
@@ -47942,7 +47948,7 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1729853408,
+      "lastUpdated": 1730199475,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00881",
@@ -72966,7 +72972,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1730098800,
           "endDate": null
         },
         {
@@ -73063,7 +73069,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729853408,
+      "lastUpdated": 1730199475,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
