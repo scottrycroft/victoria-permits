@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1730198976,
+  "dateRetrieved": 1730284917,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3749,6 +3749,75 @@
       "city": "Central Saanich",
       "lastUpdated": 1723618800,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1052 CLARKE RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001651",
+      "applicationDate": 1726556400,
+      "addresses": [
+        "1052 CLARKE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "New construction of 3 townhouse units",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1726729200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1052 Clarke - Triplex Architectural DP Plans WEB - 2024-09-08.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241029112710329964&folderId=29399C240917130141353274"
+        },
+        {
+          "docName": "1052 Clarke_Rationale letter WEB_Sept 9 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241029112710339805&folderId=29399C240917130141353274"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1726729200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL000884",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "1188 SLUGGETT RD",
@@ -11199,7 +11268,7 @@
         "N/A"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit, to manage soil and to shore construction materials.",
+      "purpose": "This is an application by the District for a watercourses development permit, to manage soil and to store construction materials in the Haro Road right of way.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -11246,7 +11315,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1726470000,
+      "lastUpdated": 1730285415,
       "relatedPermits": []
     },
     {
@@ -72895,7 +72964,7 @@
         "1132 EMPRESS AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow a new three-unit building connected to the existing duplex by a deck. The proposal requires a variance to the parking. Concurrent with Development Permit with Variance Application No. 00174. Concurrent with Heritage Designation No. 000208.",
+      "purpose": "The City is considering a Rezoning application to allow a new three-unit building connected to the existing duplex by a deck. The proposal requires a variance to the parking. Concurrent with Development Permit with Variance Application No. 00174 and Heritage Designation Application No. 000208.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -73069,7 +73138,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730199475,
+      "lastUpdated": 1730285415,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -80321,7 +80390,7 @@
         "135 GORGE RD E"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to redevelop the site in two phases: Phase 1 - 133 Gorge Road building and surface parking lot, replacing the existing 59 rental homes with 174 new rental units, as well as 3 Commercial units for shops and services. Phase 2 - 135 Gorge Road building and surface parking lot, replacing the existing 141 rental homes with approximately 310 new units. Approved by Council Octover 17, 2024",
+      "purpose": "The City is considering a Rezoning application to redevelop the site in two phases: Phase 1 - 133 Gorge Road building and surface parking lot, replacing the existing 59 rental homes with 174 new rental units, as well as 3 Commercial units for shops and services. Phase 2 - 135 Gorge Road building and surface parking lot, replacing the existing 141 rental homes with approximately 310 new units. Approved by Council October 17, 2024",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -80417,7 +80486,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729594217,
+      "lastUpdated": 1730285415,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00257",
@@ -83200,21 +83269,21 @@
           "endDate": 1717138800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1708585200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1717398000,
-          "endDate": null
+          "endDate": 1721890800
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
+          "startDate": 1721890800,
+          "endDate": 1721890800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1708585200,
           "endDate": null
         },
         {
@@ -83254,10 +83323,14 @@
         {
           "docName": "2024-05-31 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=611A0F11-5DDE-4270-8C6F-9335B8CB51D9&folderId=03487C240216120905422970"
+        },
+        {
+          "docName": "24-085.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83340C241029082913742094&folderId=03487C240216120905422970"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1730285415,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00267",
@@ -84477,6 +84550,101 @@
         {
           "relatedPermitID": "CLC00446",
           "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1314 BROAD ST",
+      "applicant": "ANTHONY QUIN",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00882",
+      "applicationDate": 1730185200,
+      "addresses": [
+        "1314 BROAD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for a new hotel with ground floor restaurant and meeting rooms, while retaining historical components of the Duck's building. Concurrent with Rezoning application No. 00037. Refer to rezoning file for related application materials.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1730185200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-10-29 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4C591920-EA4D-4AC9-9D85-E2B8F36DCD94&folderId=83326C241029125254875539"
+        },
+        {
+          "docName": "2024-10-29 - Rezoning Booklet.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2ECBC657-43CC-4D23-920B-C68B43E807A4&folderId=83326C241029125254875539"
+        },
+        {
+          "docName": "Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=103F2073-932A-4518-B7BC-236361E759CE&folderId=83326C241029125254875539"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1730185200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "HAV00037",
+          "relatedPermitType": "Heritage Alteration with Variance"
+        },
+        {
+          "relatedPermitID": "HAV00018",
+          "relatedPermitType": "Heritage Alteration with Variance"
+        },
+        {
+          "relatedPermitID": "DPV00083",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "HAV00010",
+          "relatedPermitType": "Heritage Alteration with Variance"
+        },
+        {
+          "relatedPermitID": "REZ00611",
+          "relatedPermitType": "Rezoning Application"
         }
       ]
     },
