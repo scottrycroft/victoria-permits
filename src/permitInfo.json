@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1730284917,
+  "dateRetrieved": 1730371308,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3949,6 +3949,73 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1730199475,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6631 WALLACE DR",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001677",
+      "applicationDate": 1730271600,
+      "addresses": [
+        "6631 WALLACE DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1730271600,
       "relatedPermits": []
     },
     {
@@ -19174,6 +19241,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1729234800,
+          "endDate": 1730271600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1730271600,
           "endDate": null
         }
       ],
@@ -19196,7 +19269,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1729594217,
+      "lastUpdated": 1730371810,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00751",
@@ -47905,8 +47978,8 @@
         {
           "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1729753200,
+          "endDate": 1729753200
         }
       ],
       "documents": [
@@ -47928,7 +48001,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729939816,
+      "lastUpdated": 1730371810,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000640",
