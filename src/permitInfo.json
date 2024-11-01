@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1730371308,
+  "dateRetrieved": 1730457760,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16226,7 +16226,13 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1730098800,
+          "endDate": 1730098800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1730185200,
           "endDate": null
         }
       ],
@@ -16249,8 +16255,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1728384607,
+      "lastUpdated": 1730458259,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLC06980",
+          "relatedPermitType": "COMMERCIAL PERMIT"
+        },
         {
           "relatedPermitID": "REZ00728",
           "relatedPermitType": "REZONING"
@@ -20598,8 +20608,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1730458259,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLC06980",
+          "relatedPermitType": "COMMERCIAL PERMIT"
+        },
         {
           "relatedPermitID": "DPR01020",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -29013,6 +29027,33 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1728370800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1908 FOUL BAY RD",
+      "applicant": "MARIA PAWLUCZUK",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00459",
+      "applicationDate": 1730790000,
+      "addresses": [
+        "1908 FOUL BAY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-10-31 - Plans",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=84425C241031091655091726&folderId=dsDoUmsoukmdZkyaXRuGEw"
+        },
+        {
+          "docName": "2024-10-31 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=84425C241031091747640715&folderId=dsDoUmsoukmdZkyaXRuGEw"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1730790000,
       "relatedPermits": []
     },
     {
