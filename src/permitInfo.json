@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1730457760,
+  "dateRetrieved": 1730544108,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3751,6 +3751,125 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "8012 TURGOOSE TERR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001641",
+      "applicationDate": 1724828400,
+      "addresses": [
+        "8012 TURGOOSE TERR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Delegated DP - new retaining wall within shoreline",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1724828400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1724828400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "788 SEA DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001642",
+      "applicationDate": 1725346800,
+      "addresses": [
+        "788 SEA DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "DP for 2 new SFD (Strata Lot)",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1725433200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "788 Sea Dr_DVP plans WEB_Sept 3 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=31518C241101163127616972&folderId=29275C240903094155394861"
+        },
+        {
+          "docName": "788 Sea Dr_Rationale letter WEB_Sept 3 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=31518C241101163127627908&folderId=29275C240903094155394861"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1725433200,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "1052 CLARKE RD",
       "applicant": "N/A",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -3967,7 +4086,7 @@
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": null,
+          "startDate": 1730444400,
           "endDate": null
         },
         {
@@ -4013,9 +4132,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "6631 Wallace_Site plan WEB_Oct 30, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=31518C241101154416581043&folderId=31518C241030135032535950"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1730271600,
+      "lastUpdated": 1730544612,
       "relatedPermits": []
     },
     {
@@ -82670,7 +82794,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1729494000,
-          "endDate": null
+          "endDate": 1730444400
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -82742,7 +82866,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729594217,
+      "lastUpdated": 1730544612,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
@@ -84684,12 +84808,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1730185200,
-          "endDate": null
+          "endDate": 1730185200
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1730444400,
           "endDate": null
         },
         {
@@ -84738,7 +84862,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730185200,
+      "lastUpdated": 1730544612,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
