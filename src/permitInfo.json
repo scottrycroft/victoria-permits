@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1730806915,
+  "dateRetrieved": 1730893344,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18717,6 +18717,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1721977200,
+          "endDate": 1730790000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1730790000,
           "endDate": null
         }
       ],
@@ -18739,7 +18745,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1725706231,
+      "lastUpdated": 1730893849,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -23466,6 +23472,12 @@
           "taskType": "",
           "startDate": 1729494000,
           "endDate": 1729494000
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -23476,12 +23488,16 @@
         {
           "docName": "October 21, 2024 Committee of the Whole Staff Report",
           "docURL": "https://sidney.civicweb.net/document/43180/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/2104-Colinwood-Variance-Permit-Noticifcation-Mail-out.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1729335103,
+      "lastUpdated": 1730893882,
       "relatedPermits": []
     },
     {
@@ -29114,7 +29130,7 @@
         "1909 COOK ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC).\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -29131,7 +29147,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728025200,
+      "lastUpdated": 1730893849,
       "relatedPermits": []
     },
     {
@@ -47995,12 +48011,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1721977200,
-          "endDate": null
+          "endDate": 1730790000
         },
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
-          "startDate": null,
+          "startDate": 1730790000,
           "endDate": null
         },
         {
@@ -48039,7 +48055,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1724928595,
+      "lastUpdated": 1730893849,
       "relatedPermits": []
     },
     {
@@ -79948,7 +79964,7 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1730444400,
           "endDate": null
         },
         {
@@ -80035,7 +80051,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729853408,
+      "lastUpdated": 1730893849,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -84875,11 +84891,15 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730807415,
+      "lastUpdated": 1730893849,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
           "relatedPermitType": "Heritage Alteration with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00454",
+          "relatedPermitType": "Pre-Application (CALUC)"
         },
         {
           "relatedPermitID": "HAV00018",
