@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1730979846,
+  "dateRetrieved": 1731066105,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -33844,6 +33844,49 @@
       ]
     },
     {
+      "primaryStreetName": "1784 DENMAN ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000646",
+      "applicationDate": 1730962800,
+      "addresses": [
+        "1784 DENMAN ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application to create a strata with new houseplex, and strata-converted heritage home.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1730962800,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "584 JOHN ST",
       "applicant": "",
       "cityApplicationType": "Development Permit with Variance",
@@ -48343,6 +48386,50 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1660 CHANDLER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00282",
+      "applicationDate": 1730962800,
+      "addresses": [
+        "1660 CHANDLER AVE",
+        "1670 CHANDLER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to subdivide into two lots and construct a single family dwelling with a gardens suite on each lot. Variances are required to the lot widths and east side setbacks.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1730962800,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "516 DISCOVERY ST",
@@ -76906,10 +76993,14 @@
         {
           "docName": "2024-05-21 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FE0E5F82-3156-4F6A-A044-31BF0FA01482&folderId=00232C220215094041621090"
+        },
+        {
+          "docName": "24-080_1.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=326987D6-1A18-4D1A-B176-49961451FDC3&folderId=00232C220215094041621090"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1731066610,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -81916,10 +82007,14 @@
         {
           "docName": "2023-09-18 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E6E2799C-22DD-49F5-B60F-5660898AD663&folderId=31101C230613135505757551"
+        },
+        {
+          "docName": "24-086.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=86907C241107134153473308&folderId=31101C230613135505757551"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1731066610,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00288",
@@ -82430,7 +82525,7 @@
         "1907 FORT ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for a mixed-use building and to amend the Official Community Plan. Concurrent with DPV00248.",
+      "purpose": "The City is considering a Rezoning application to allow for a six-storey mixed-use building Concurrent with DPV00248.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -82564,7 +82659,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729939816,
+      "lastUpdated": 1731066610,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -83807,7 +83902,10 @@
       "folderNumber": "REZ00871",
       "applicationDate": 1712127600,
       "addresses": [
-        "1026 EMPRESS AVE"
+        "1026 EMPRESS AVE",
+        "1-1026 EMPRESS AVE",
+        "2-1026 EMPRESS AVE",
+        "3-1026 EMPRESS AVE"
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Rezoning application to construct new townhouses. Concurrent Development Permit No. 000642.",
@@ -83894,7 +83992,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729939816,
+      "lastUpdated": 1731066610,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
