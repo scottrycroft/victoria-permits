@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1731066105,
+  "dateRetrieved": 1731152508,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -73323,12 +73323,6 @@
           "endDate": 1621580400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1621580400,
-          "endDate": 1623394800
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1623394800,
@@ -73387,6 +73381,12 @@
           "taskType": "With Applicant",
           "startDate": 1712818800,
           "endDate": 1729753200
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1621580400,
+          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -73488,7 +73488,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730285415,
+      "lastUpdated": 1731153011,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -82981,8 +82981,8 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E81D8C47-A5F2-4940-8B7F-791D3D9EBD10&folderId=61367C230926151425966861"
         },
         {
-          "docName": "2024-10-17 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=492FEDE7-B7BA-4D4A-A230-8DEB5192776B&folderId=61367C230926151425966861"
+          "docName": "2024-10-17 - Plans_Revisions_ Compressed.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87368C241108092439095763&folderId=61367C230926151425966861"
         },
         {
           "docName": "2024-10-17 - Plans_Revisions_Bubbled.pdf",
@@ -82990,7 +82990,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730544612,
+      "lastUpdated": 1731153011,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
