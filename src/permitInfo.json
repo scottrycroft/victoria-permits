@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1731411706,
+  "dateRetrieved": 1731498105,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22869,6 +22869,40 @@
       ]
     },
     {
+      "primaryStreetName": "4541 BISSENDEN PL",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00778",
+      "applicationDate": 1731394800,
+      "addresses": [
+        "4541 BISSENDEN PL"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1731394800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00964",
+          "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "REZ00775",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "2257 Harbour Road",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -44708,6 +44742,12 @@
           "endDate": 1719212400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1720335600,
+          "endDate": 1731394800
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1718262000,
@@ -44720,9 +44760,9 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1720335600,
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1731394800,
           "endDate": null
         }
       ],
@@ -44738,10 +44778,26 @@
         {
           "docName": "2024-06-12 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B2D4A12B-44B0-46BD-B1FD-C2D1917F7C52&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-11-12 - Plans_Revised_Bubbled_Fairfield.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF65FCBB-B616-4940-AFFD-1E59E069403C&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-11-12 - Plans_Revised_Bubbled_Kipling.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C7CAB9FD-5786-4333-99F6-8B9D9C87E1A2&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-11-12 - Plans_Revised_Fairfield.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DB7BF92F-BBBA-4CA4-9FAA-7AE81FC41CDC&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-11-12 - Plans_Revised_Kipling.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3FC85DCD-BF16-4A12-A76B-C21939BD25FF&folderId=71763C221107134252793704"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1721213394,
+      "lastUpdated": 1731498610,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -48060,12 +48116,12 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1730790000,
-          "endDate": null
+          "endDate": 1730790000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1731394800,
           "endDate": null
         },
         {
@@ -48098,7 +48154,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730893849,
+      "lastUpdated": 1731498610,
       "relatedPermits": []
     },
     {
@@ -48389,7 +48445,7 @@
     },
     {
       "primaryStreetName": "1660 CHANDLER AVE",
-      "applicant": "N/A",
+      "applicant": "SARA TAYLOR",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00282",
@@ -48399,12 +48455,64 @@
         "1670 CHANDLER AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to subdivide into two lots and construct a single family dwelling with a gardens suite on each lot. Variances are required to the lot widths and east side setbacks.",
+      "purpose": "The City is considering a Development Permit with Variance application to subdivide into two lots and construct a single family dwelling with a garden suite on each lot. Variances are required to the lot widths and east side setbacks.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
+          "startDate": 1731394800,
+          "endDate": 1731394800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1731394800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-11-07 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87938C241112143744804095&folderId=86909C241107133733981593"
+        },
+        {
+          "docName": "Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0F8C37FE-843C-4611-80B9-65DDF4FADEC4&folderId=86909C241107133733981593"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1731498610,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1784 DENMAN ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00283",
+      "applicationDate": 1731394800,
+      "addresses": [
+        "1784 DENMAN ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application to create a strata with new houseplex, and strata-converted heritage home.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1731394800,
           "endDate": null
         },
         {
@@ -48426,10 +48534,24 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-11-07 - Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87823C241112133112621626&folderId=87823C241112123641724520"
+        },
+        {
+          "docName": "2024-11-07 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87823C241112133112633072&folderId=87823C241112123641724520"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1730962800,
-      "relatedPermits": []
+      "lastUpdated": 1731394800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000646",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
     },
     {
       "primaryStreetName": "516 DISCOVERY ST",
@@ -84976,8 +85098,8 @@
       ],
       "documents": [
         {
-          "docName": "2024-10-29 - Plans_Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4C591920-EA4D-4AC9-9D85-E2B8F36DCD94&folderId=83326C241029125254875539"
+          "docName": "2024-10-29 - Plans_Submission_Compressed.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87938C241112162138344501&folderId=83326C241029125254875539"
         },
         {
           "docName": "2024-10-29 - Rezoning Booklet.pdf",
@@ -84989,7 +85111,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730893849,
+      "lastUpdated": 1731498610,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
