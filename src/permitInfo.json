@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1731498105,
+  "dateRetrieved": 1731584606,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2416,13 +2416,13 @@
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": 1729494000,
-          "endDate": 1729494000
+          "startDate": null,
+          "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": 1729494000,
+          "startDate": null,
           "endDate": null
         },
         {
@@ -2474,12 +2474,24 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=16614C231123124402976587&folderId=16332C231110115426945016"
         },
         {
+          "docName": "1934 Hovey_Correspondence WEB_Updated Nov 13, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32003C241113114340796272&folderId=16332C231110115426945016"
+        },
+        {
           "docName": "1934 Hovey_Landscape plans REVISED WEB_Oct 16, 2024.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=30529C241018150913358076&folderId=16332C231110115426945016"
+        },
+        {
+          "docName": "1934 Hovey_Landscape plans REVISED_Nov 12, 204.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=D56460C7-2DAE-4B78-8A1B-BE5B72EABD00&folderId=16332C231110115426945016"
+        },
+        {
+          "docName": "1934 Hovey_Site plans REVISED_Nov 12, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=E241CC96-15D1-488B-AD56-E6C0124EE14A&folderId=16332C231110115426945016"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1729680622,
+      "lastUpdated": 1731585113,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -21770,17 +21782,27 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1719385200,
+          "endDate": 1731481200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1730876400,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "SITE PLAN_NOV 16 2023.pdf",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=BA5EC8C6-A0C6-4DE0-ACF8-CF5EB1D3E064&folderId=61600C231117122518266835"
+          "docName": "REVISED_ELEVATIONS_NOV 6 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C6391A34-6D69-4746-8B4C-9ADDE97650FE&folderId=61600C231117122518266835"
+        },
+        {
+          "docName": "REVISED_SITE PLAN_NOV 6 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=98887F68-79EA-4A71-B14E-CF8B96C8FADF&folderId=61600C231117122518266835"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1726656633,
+      "lastUpdated": 1731585113,
       "relatedPermits": []
     },
     {
@@ -23502,36 +23524,22 @@
       "purpose": "Development Variance Permit application to vary the Subdivision and Development Bylaw requirements in order to allow for overhead wiring rather than underground connections to a new residential development.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1729494000,
-          "endDate": 1729494000
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1731394800,
+          "endDate": 1731394800
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2104-Colinwood-Road.pdf"
-        },
-        {
-          "docName": "October 21, 2024 Committee of the Whole Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/43180/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/2104-Colinwood-Variance-Permit-Noticifcation-Mail-out.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1730893882,
+      "lastUpdated": 1731585146,
       "relatedPermits": []
     },
     {
@@ -23662,6 +23670,12 @@
           "taskType": "",
           "startDate": 1728284400,
           "endDate": 1728284400
+        },
+        {
+          "taskDescription": "APC Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1730790000,
+          "endDate": 1730790000
         }
       ],
       "documents": [
@@ -23672,12 +23686,16 @@
         {
           "docName": "October 7, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/42910/Development%20Permit%20Application%20No.%20DP100827_Dev.pdf"
+        },
+        {
+          "docName": "November 5, 2024 APC Meeting Staff Report",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-APC-Staff-Report.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1728384639,
+      "lastUpdated": 1731585146,
       "relatedPermits": []
     },
     {
@@ -23730,6 +23748,12 @@
           "taskType": "",
           "startDate": 1729494000,
           "endDate": 1729494000
+        },
+        {
+          "taskDescription": "APC Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1730790000,
+          "endDate": 1730790000
         }
       ],
       "documents": [
@@ -23740,12 +23764,16 @@
         {
           "docName": "October 21, 2024 Committee of the Whole Staff Report",
           "docURL": "https://sidney.civicweb.net/document/43333/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
+        },
+        {
+          "docName": "November 5, 2024 APC Meeting Staff Report",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-APC-Staff-Report.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1729335103,
+      "lastUpdated": 1731585146,
       "relatedPermits": []
     },
     {
@@ -44748,6 +44776,12 @@
           "endDate": 1731394800
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1731394800,
+          "endDate": 1731394800
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1718262000,
@@ -44760,9 +44794,9 @@
           "endDate": null
         },
         {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1731394800,
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1731481200,
           "endDate": null
         }
       ],
@@ -44797,7 +44831,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731498610,
+      "lastUpdated": 1731585113,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -48484,16 +48518,12 @@
       ],
       "documents": [
         {
-          "docName": "2024-11-07 - Plans_Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87938C241112143744804095&folderId=86909C241107133733981593"
-        },
-        {
           "docName": "Letter to DS.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0F8C37FE-843C-4611-80B9-65DDF4FADEC4&folderId=86909C241107133733981593"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731498610,
+      "lastUpdated": 1731585113,
       "relatedPermits": []
     },
     {
@@ -48513,12 +48543,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1731394800,
-          "endDate": null
+          "endDate": 1731394800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1731481200,
           "endDate": null
         },
         {
@@ -48545,7 +48575,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731394800,
+      "lastUpdated": 1731585113,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000646",
@@ -85041,14 +85071,18 @@
       ]
     },
     {
-      "primaryStreetName": "1314 BROAD ST",
+      "primaryStreetName": "1312 BROAD ST",
       "applicant": "ANTHONY QUIN",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00882",
       "applicationDate": 1730185200,
       "addresses": [
-        "1314 BROAD ST"
+        "1312 BROAD ST",
+        "1314 BROAD ST",
+        "1324 BROAD ST",
+        "615 JOHNSON ST",
+        "625 JOHNSON ST"
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Rezoning application for a new hotel with ground floor restaurant and meeting rooms, while retaining historical components of the Duck's building. Concurrent with Heritage Alteration Permit with Variances Application #HAV00037.",
@@ -85111,7 +85145,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731498610,
+      "lastUpdated": 1731585113,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
