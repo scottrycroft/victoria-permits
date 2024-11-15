@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1731584606,
+  "dateRetrieved": 1731670956,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -17733,6 +17733,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1722495600,
+          "endDate": 1731567600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1731567600,
           "endDate": null
         }
       ],
@@ -17755,7 +17761,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1729248695,
+      "lastUpdated": 1731671467,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21762",
@@ -23276,22 +23282,30 @@
       "purpose": "Development Permit and Development Variance Permit application for a four-storey 136-unit multi-family residential development with underground parking.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1731913200,
+          "endDate": 1731913200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2114-Beacon-Ave-W-Plans.pdf"
+        },
+        {
+          "docName": "Parking Study",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2114-Beacon-Avenue-W-Parking-Study-and-Swept-Path-Assessment_Final_2024-09-11.pdf"
+        },
+        {
+          "docName": "November 18, 2024 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/46278/Development%20Permit%20Application%20No.%20DP100847_Dev.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1722336749,
+      "lastUpdated": 1731671503,
       "relatedPermits": []
     },
     {
@@ -23482,8 +23496,8 @@
         {
           "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
-          "startDate": 1693983600,
-          "endDate": 1693983600
+          "startDate": 1662447600,
+          "endDate": 1662447600
         },
         {
           "taskDescription": "Notice of Development Variance Permit Application",
@@ -23507,7 +23521,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1712832608,
+      "lastUpdated": 1731671503,
       "relatedPermits": []
     },
     {
@@ -23556,36 +23570,22 @@
       "purpose": "Development Variance Permit to permit the installation of two roof signs.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1728284400,
-          "endDate": 1728284400
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1730098800,
+          "endDate": 1730098800
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Beacon-Ave-Plans.pdf"
-        },
-        {
-          "docName": "October 7, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/41805/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2306-Beacon-Ave-DVP-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1729248729,
+      "lastUpdated": 1731671503,
       "relatedPermits": []
     },
     {
@@ -23676,6 +23676,12 @@
           "taskType": "",
           "startDate": 1730790000,
           "endDate": 1730790000
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -23690,12 +23696,16 @@
         {
           "docName": "November 5, 2024 APC Meeting Staff Report",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-APC-Staff-Report.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1731585146,
+      "lastUpdated": 1731671503,
       "relatedPermits": []
     },
     {
@@ -23744,7 +23754,7 @@
       "purpose": "Development Permit and Development Variance Permit application for a four-storey 21-unit multi-family residential development with surface parking.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Staff Report",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
           "startDate": 1729494000,
           "endDate": 1729494000
@@ -23754,6 +23764,12 @@
           "taskType": "",
           "startDate": 1730790000,
           "endDate": 1730790000
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -23762,18 +23778,22 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-Plans.pdf"
         },
         {
-          "docName": "October 21, 2024 Committee of the Whole Staff Report",
+          "docName": "October 21, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/43333/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
         },
         {
           "docName": "November 5, 2024 APC Meeting Staff Report",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-APC-Staff-Report.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1731585146,
+      "lastUpdated": 1731671503,
       "relatedPermits": []
     },
     {
@@ -84929,7 +84949,7 @@
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with DP000645.",
+      "purpose": "The City is considering a Rezoning application and an OCP amendment for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with DP000645.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -84985,7 +85005,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729248695,
+      "lastUpdated": 1731671467,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000645",
