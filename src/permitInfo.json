@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1731930114,
+  "dateRetrieved": 1732016509,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3891,14 +3891,14 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "1052 CLARKE RD",
+      "primaryStreetName": "1048 CLARKE RD",
       "applicant": "N/A",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "PL001651",
       "applicationDate": 1726556400,
       "addresses": [
-        "1052 CLARKE RD"
+        "1048 CLARKE RD"
       ],
       "status": "ACTIVE",
       "purpose": "New construction of 3 townhouse units",
@@ -3951,7 +3951,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1726729200,
+      "lastUpdated": 1732017024,
       "relatedPermits": [
         {
           "relatedPermitID": "PL000884",
@@ -82788,9 +82788,21 @@
           "endDate": 1726038000
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1723100400,
+          "endDate": 1731913200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1693378800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1731913200,
           "endDate": null
         },
         {
@@ -82868,10 +82880,22 @@
         {
           "docName": "2024-07-17 - Transmittal of Changes.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=52646C240717153511343695&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-11-18 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=09EFD86E-FB84-4907-BE6E-CD62CD8AC10B&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-11-18 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8779055F-A847-4CCD-9EF9-C7209F9806D2&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2024-11-18 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=28B8DDA3-3C94-4713-A2AD-CED64EE332AA&folderId=53740C230830100501497708"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731066610,
+      "lastUpdated": 1732017024,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
