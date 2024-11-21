@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1732016509,
+  "dateRetrieved": 1732189325,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3898,7 +3898,8 @@
       "folderNumber": "PL001651",
       "applicationDate": 1726556400,
       "addresses": [
-        "1048 CLARKE RD"
+        "1048 CLARKE RD",
+        "1052 CLARKE RD"
       ],
       "status": "ACTIVE",
       "purpose": "New construction of 3 townhouse units",
@@ -3951,7 +3952,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1732017024,
+      "lastUpdated": 1732189836,
       "relatedPermits": [
         {
           "relatedPermitID": "PL000884",
@@ -20482,6 +20483,31 @@
       ]
     },
     {
+      "primaryStreetName": "794 BURNSIDE RD W",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01074",
+      "applicationDate": 1732086000,
+      "addresses": [
+        "794 BURNSIDE RD W"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1732086000,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -23101,6 +23127,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "9687 Eighth Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "49e1f43447",
+      "applicationDate": 1732189871,
+      "addresses": [
+        "9687 Eighth Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit and Development Variance Permit to relax the minimum front yard setback to allow for an enclosed entryway addition.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9687-Eighth-Street-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1732189871,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "10232 Summerset Place",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -23162,6 +23220,38 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1713955782,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "10255 Resthaven Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "5ce2eb8d2b",
+      "applicationDate": 1732189871,
+      "addresses": [
+        "10255 Resthaven Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to relax the minimum building envelope dimensions and minimum setback requirements for two-single family dwellings.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10255-Resthaven-Drive-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1732189871,
       "relatedPermits": []
     },
     {
@@ -23601,6 +23691,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "10473 Resthaven Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "b0d9a3f8fd",
+      "applicationDate": 1732189871,
+      "addresses": [
+        "10473 Resthaven Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit and Development Variance Permit application for a three-storey 9-unit townhouse development.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10473-Resthaven-Drive-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1732189871,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "9535 Canora Road",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -23690,7 +23812,7 @@
           "endDate": 1730790000
         },
         {
-          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskDescription": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -23710,14 +23832,14 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-APC-Staff-Report.pdf"
         },
         {
-          "docName": "Notice of Development Variance Permit Application",
+          "docName": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1731671503,
+      "lastUpdated": 1732189871,
       "relatedPermits": []
     },
     {
@@ -23778,7 +23900,7 @@
           "endDate": 1730790000
         },
         {
-          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskDescription": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -23790,6 +23912,10 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-Plans.pdf"
         },
         {
+          "docName": "Revised Plans (Oct 2024)",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9895-Seventh-Street-Plans-Oct-2024.pdf"
+        },
+        {
           "docName": "October 21, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/43333/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
         },
@@ -23798,14 +23924,14 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-APC-Staff-Report.pdf"
         },
         {
-          "docName": "Notice of Development Variance Permit Application",
+          "docName": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1731671503,
+      "lastUpdated": 1732189871,
       "relatedPermits": []
     },
     {
@@ -44821,13 +44947,19 @@
         "351 KIPLING ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct corner townhouses.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct 2 three-storey corner townhouses, consisting of 7 and 8 units respectively.",
       "progressSections": [
         {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1718262000,
           "endDate": 1719212400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1718262000,
+          "endDate": 1720422000
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -44842,12 +44974,6 @@
           "endDate": 1731394800
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1718262000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1719212400,
@@ -44857,6 +44983,24 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1731481200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -44891,7 +45035,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731585113,
+      "lastUpdated": 1732189836,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -46758,7 +46902,7 @@
         "1734 HOLLYWOOD CRES"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct two Missing Middle corner townhouse buildings.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct two three-storey, 4-unit Missing Middle corner townhouse buildings.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -46826,7 +46970,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1732189836,
       "relatedPermits": []
     },
     {
@@ -47125,7 +47269,7 @@
         "1320 PURCELL PL"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct a Missing Middle heritage conserving infill houseplex.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct a three-storey, 4-unit Missing Middle heritage conserving infill houseplex.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -47219,7 +47363,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725706231,
+      "lastUpdated": 1732189836,
       "relatedPermits": []
     },
     {
@@ -47378,7 +47522,7 @@
         "1961 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to develop three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Variance for height and parking.",
+      "purpose": "The City is considering a Development Permit with Variances application to allow for form and character changes to a previously approved proposal,which includes three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Additional variances from the Council approved proposal relate to height and parking. A zoning bylaw amendment is required to repeal the CD-19 Zone, Douglas Caledonia Comprehensive Development District and replace it with a new zone that will be substantively the same as the existing zone but without a bonus density or community amenities section, consistent with the recently enacted changes to the Local Government Act.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -47494,8 +47638,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728125410,
+      "lastUpdated": 1732189836,
       "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00883",
+          "relatedPermitType": "Rezoning Application"
+        },
         {
           "relatedPermitID": "REZ00815",
           "relatedPermitType": "Rezoning Application"
@@ -48126,7 +48274,7 @@
         "1124 TOPAZ AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to allow a corner townhouse missing middle project with a variance for open site space.",
+      "purpose": "The City is considering a Development Permit with Variance application to allow a three-storey, 6-unit corner townhouse Missing Middle project with a variance for open site space.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -48170,7 +48318,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1732189836,
       "relatedPermits": []
     },
     {
@@ -48186,7 +48334,7 @@
         "1705 FERNWOOD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variances application to consolidate three lots into one to construct 19 new corner townhouse missing middle units.",
+      "purpose": "The City is considering a Development Permit with Variances application to construct 19 units in three 3-storey Missing Middle corner townhouses.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -48248,7 +48396,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731498610,
+      "lastUpdated": 1732189836,
       "relatedPermits": []
     },
     {
@@ -76020,6 +76168,12 @@
           "endDate": 1720681200
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -76167,7 +76321,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1726225104,
+      "lastUpdated": 1732189836,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -77945,10 +78099,14 @@
         {
           "docName": "2024-02-09 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FB6A48A5-4C91-43CB-96C3-A17FF015FEFA&folderId=15565C220411114709185208"
+        },
+        {
+          "docName": "24-084.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90976C241120155557764701&folderId=15565C220411114709185208"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1732189836,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00279",
@@ -82737,7 +82895,7 @@
         "1907 FORT ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for a six-storey mixed-use building Concurrent with DPV00248.",
+      "purpose": "The City is considering a Rezoning application to allow for a six-storey mixed-use building. Concurrent with DPV00248.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -82895,7 +83053,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732017024,
+      "lastUpdated": 1732189836,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -85254,6 +85412,89 @@
         {
           "relatedPermitID": "REZ00611",
           "relatedPermitType": "Rezoning Application"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "710 CALEDONIA AVE",
+      "applicant": "CALEDONIA EQUITY",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00883",
+      "applicationDate": 1731999600,
+      "addresses": [
+        "710 CALEDONIA AVE",
+        "1961 DOUGLAS ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1731999600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00262",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "REZ00815",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00205",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "DP000618",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00375",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
