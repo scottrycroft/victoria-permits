@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1732189325,
+  "dateRetrieved": 1732276318,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11532,6 +11532,72 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "57 BEACH DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000055",
+      "applicationDate": 1732172400,
+      "addresses": [
+        "57 BEACH DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1732172400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1732172400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ZON00055",
+          "relatedPermitType": "ZONING BYLAW AMENDMENT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -13931,6 +13997,78 @@
         },
         {
           "relatedPermitID": "DP000053",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "57 BEACH DR",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00055",
+      "applicationDate": 1732172400,
+      "addresses": [
+        "57 BEACH DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1732172400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1732172400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000055",
           "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
@@ -23812,7 +23950,7 @@
           "endDate": 1730790000
         },
         {
-          "taskDescription": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
+          "taskDescription": "Notice of Development Variance Permit Application",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -23832,14 +23970,14 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-APC-Staff-Report.pdf"
         },
         {
-          "docName": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
+          "docName": "Notice of Development Variance Permit Application",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9633-Third-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1732189871,
+      "lastUpdated": 1732276869,
       "relatedPermits": []
     },
     {
@@ -23900,7 +24038,7 @@
           "endDate": 1730790000
         },
         {
-          "taskDescription": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
+          "taskDescription": "Notice of Development Variance Permit Application",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -23924,14 +24062,14 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-APC-Staff-Report.pdf"
         },
         {
-          "docName": "Notice of Development Variance Permit Application (ON HOLD due to postal strike)",
+          "docName": "Notice of Development Variance Permit Application",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1732189871,
+      "lastUpdated": 1732276869,
       "relatedPermits": []
     },
     {
@@ -47522,7 +47660,7 @@
         "1961 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variances application to allow for form and character changes to a previously approved proposal,which includes three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Additional variances from the Council approved proposal relate to height and parking. A zoning bylaw amendment is required to repeal the CD-19 Zone, Douglas Caledonia Comprehensive Development District and replace it with a new zone that will be substantively the same as the existing zone but without a bonus density or community amenities section, consistent with the recently enacted changes to the Local Government Act.",
+      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00883 FOR PROJECT DETAILS. The City is considering a Development Permit with Variances application to allow for form and character changes to a previously approved proposal,which includes three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Additional variances from the Council approved proposal relate to height and parking.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -47591,54 +47729,9 @@
           "endDate": null
         }
       ],
-      "documents": [
-        {
-          "docName": "2023-12-21 - Letter to Mayor and Council.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B85D21AA-DB1C-4D77-A58E-FC02554B9C59&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2023-12-21 - Plans_Submission_Architectural.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DCBA1495-A06F-4B63-A0DD-8CEB290B30BE&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2023-12-21 - Plans_Submission_Civil.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F375AC49-9B76-4C30-8282-B384E4650802&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2023-12-21 - Plans_Submission_Landscape.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=44187DD3-5E39-480F-A2A3-FB0F7803130A&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2023-12-21 - Revisions List_Architectural.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F86F2177-8362-4A01-980B-9FF8C0CC8EE0&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2023-12-21 - Revisions List_Landscape.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=57156C18-4A80-4756-A1CA-AF2B6C36BDB1&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2024-05-17 -  Landscape Plan - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E6AA3BFE-8DB5-4DC8-83FF-9416F879A7EA&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2024-05-17 -  Letter to Council - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C2594061-C176-49B4-A93E-FB826F03EA81&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2024-05-17 -  Plans - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D30652CC-22FE-48DE-9260-BA530330B6BA&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2024-08-14 - Letter to Council - Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D949D5FD-C112-452D-B20F-ABE0C9574D12&folderId=85717C231221145836243066"
-        },
-        {
-          "docName": "2024-08-14 - Plans - Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F120C24A-4FA5-49A3-907B-745B9FF3ECB7&folderId=85717C231221145836243066"
-        }
-      ],
+      "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1732189836,
+      "lastUpdated": 1732276834,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00883",
@@ -75384,6 +75477,34 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4DBAA655-50E5-4F9A-86D9-E4AC5D61D1E9&folderId=70620C211027141358342820"
         },
         {
+          "docName": "2024-11-21 - Capital Cutlure Disctrict_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A77442C9-5042-410F-82C1-0E93A5950BC3&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2024-11-21 - Capital Cutlure Disctrict_Revisions_Changes Noted.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0D8531A3-E6A8-42E9-A7C8-2CD71CDC37EA&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2024-11-21 - Civil and Landscape.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F3002A95-83E7-44C3-A1CC-225B8B2C88BA&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2024-11-21 - Civil and Landscape_Changes Noted.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3FA350FE-484B-489D-86C4-225722B59460&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2024-11-21 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=855E5358-3D0E-447A-BC26-DACD7E5FDCA6&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2024-11-21 - Rezoning Booklet_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5BE527DC-CBFD-49D3-B52D-C194C6F31DD1&folderId=70620C211027141358342820"
+        },
+        {
+          "docName": "2024-11-21 - Rezoning Booklet_Revisions_Changes Noted.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6EBA0CE1-DB73-463D-A38F-2B72471FB6D2&folderId=70620C211027141358342820"
+        },
+        {
           "docName": "Capital Culture District_Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=870F9E0E-DBAC-415F-9375-57E88DDF8968&folderId=70620C211027141358342820"
         },
@@ -75401,7 +75522,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1732276834,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -83381,10 +83502,18 @@
         {
           "docName": "2024-10-17 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=223C6168-A1BA-4D11-A17A-79F9819B7A51&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-11-21 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5EE289B3-C31B-4EDA-85F8-4774585F1E12&folderId=61367C230926151425966861"
+        },
+        {
+          "docName": "2024-11-21 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=95B5536A-F925-491A-BA59-EC75033A86CA&folderId=61367C230926151425966861"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731153011,
+      "lastUpdated": 1732276834,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
@@ -85161,13 +85290,14 @@
       ]
     },
     {
-      "primaryStreetName": "741 FISGARD ST",
+      "primaryStreetName": "1620 BLANSHARD ST",
       "applicant": "GREGORY DAMANT",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00880",
       "applicationDate": 1728370800,
       "addresses": [
+        "1620 BLANSHARD ST",
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
@@ -85180,15 +85310,21 @@
           "endDate": 1728543600
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1731654000,
+          "endDate": 1731654000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1728975600,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1731654000,
           "endDate": null
         },
         {
@@ -85227,7 +85363,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731671467,
+      "lastUpdated": 1732276834,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000645",
@@ -85427,7 +85563,7 @@
         "1961 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to",
+      "purpose": "The City is considering a Rezoning application to repeal the CD-19 Zone, Douglas Caledonia Comprehensive Development District and replace it with a new zone that will be substantively the same as the existing zone but without a bonus density or community amenities section, consistent with the recently enacted changes to the Local Government Act. A concurrent Development Permit with Variances application and relates to form and character changes to a previously approved proposal, with variances related to height and parking. Concurrent with DPV No. 00262.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -85472,9 +85608,26 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-08-14 - Civil List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=91156C241121100452172861&folderId=90265C241119105149894285"
+        },
+        {
+          "docName": "2024-08-14 - Landscape list of revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=91156C241121100452185760&folderId=90265C241119105149894285"
+        },
+        {
+          "docName": "2024-08-14 - Letter to Council - Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=91156C241121100452192759&folderId=90265C241119105149894285"
+        },
+        {
+          "docName": "2024-08-14 - Plans - Revisions - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=91156C241121100452199145&folderId=90265C241119105149894285"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1731999600,
+      "lastUpdated": 1732276834,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00262",
