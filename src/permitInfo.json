@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1732534924,
+  "dateRetrieved": 1732621308,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -29625,6 +29625,41 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2525 COOK ST",
+      "applicant": "MARGIE SHENDUK",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00461",
+      "applicationDate": 1732863600,
+      "addresses": [
+        "2525 COOK ST",
+        "2529 COOK ST",
+        "2533 COOK ST",
+        "2522 EMPIRE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-11-25 - Architectural Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92585C241125144740986000&folderId=chMnR6bVLUqw2QzakPLbTw"
+        },
+        {
+          "docName": "2024-11-25 - Landscape Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92291C241125101121711559&folderId=chMnR6bVLUqw2QzakPLbTw"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1732863600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00434",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "2 PAUL KANE PL",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMITS",
@@ -44857,8 +44892,12 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1655276400,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DDP00988",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT"
+        },
         {
           "relatedPermitID": "REZ00824",
           "relatedPermitType": "Rezoning Application"
@@ -45247,6 +45286,10 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B2D4A12B-44B0-46BD-B1FD-C2D1917F7C52&folderId=71763C221107134252793704"
         },
         {
+          "docName": "2024-11-12 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=44155B86-A211-4F86-A336-99AC92CB2935&folderId=71763C221107134252793704"
+        },
+        {
           "docName": "2024-11-12 - Plans_Revised_Bubbled_Fairfield.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DF65FCBB-B616-4940-AFFD-1E59E069403C&folderId=71763C221107134252793704"
         },
@@ -45264,7 +45307,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732189836,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -46292,8 +46335,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
-      "relatedPermits": []
+      "lastUpdated": 1732621824,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP00990",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "1005 CHAMBERLAIN ST",
@@ -48774,8 +48822,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729594217,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DDP00972",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT"
+        },
         {
           "relatedPermitID": "DVP00287",
           "relatedPermitType": "Development Variance Permit"
@@ -75438,6 +75490,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1732518000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -75613,7 +75671,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732276834,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -76382,8 +76440,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732172400,
+          "endDate": 1732172400
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -76533,7 +76591,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732189836,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -79346,8 +79404,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DDP00988",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT"
+        },
         {
           "relatedPermitID": "DPV00211",
           "relatedPermitType": "Development Permit with Variance"
@@ -79396,6 +79458,12 @@
           "endDate": 1687503600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1731654000,
+          "endDate": 1732518000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1656399600,
@@ -79408,9 +79476,9 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1732518000,
           "endDate": null
         },
         {
@@ -79504,10 +79572,30 @@
         {
           "docName": "2024-02-22 - Traffic Impact Assessment.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FB7B39E5-F0D9-48F8-B15D-B22AD71D4CE1&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-11-25 - Large Project Supplementary Information Booklet.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F071F6EC-E6DB-4540-8585-47D476302F3C&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-11-25 - Large Project Supplementary Information Booklet_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4C2A201F-EC02-40A5-B3C5-3736B57E1F2A&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-11-25 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA2BB42C-9092-4C6D-8810-6335D9234820&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-11-25 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CA3C1F0F-0551-4E83-83A2-8606948DF3A6&folderId=36819C220627125558163342"
+        },
+        {
+          "docName": "2024-11-25 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8B185DB5-04CB-41F0-9485-08C7AE1BC131&folderId=36819C220627125558163342"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00034",
@@ -83352,8 +83440,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732172400,
+          "endDate": 1732172400
         }
       ],
       "documents": [
@@ -83435,7 +83523,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729767244,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -83515,6 +83603,12 @@
           "endDate": 1730444400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1732518000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -83592,7 +83686,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732276834,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
@@ -84245,15 +84339,15 @@
           "endDate": 1721890800
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1732172400,
+          "endDate": 1732172400
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1708585200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -84294,7 +84388,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730285415,
+      "lastUpdated": 1732621824,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00267",
