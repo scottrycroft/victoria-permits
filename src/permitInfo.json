@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1732621308,
+  "dateRetrieved": 1732707757,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -11255,6 +11255,12 @@
           "endDate": 1728370800
         },
         {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -11308,7 +11314,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1728471144,
+      "lastUpdated": 1732708280,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00052",
@@ -20002,6 +20008,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1721977200,
+          "endDate": 1732604400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1732604400,
           "endDate": null
         }
       ],
@@ -20024,7 +20036,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1722077688,
+      "lastUpdated": 1732708280,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -47212,6 +47224,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1716966000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -47247,7 +47265,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732189836,
+      "lastUpdated": 1732708280,
       "relatedPermits": []
     },
     {
@@ -85736,7 +85754,7 @@
         "1961 DOUGLAS ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to repeal the CD-19 Zone, Douglas Caledonia Comprehensive Development District and replace it with a new zone that will be substantively the same as the existing zone but without a bonus density or community amenities section, consistent with the recently enacted changes to the Local Government Act. A concurrent Development Permit with Variances application and relates to form and character changes to a previously approved proposal, with variances related to height and parking. Concurrent with DPV No. 00262.",
+      "purpose": "The City is considering a Rezoning application to repeal the CD-19 Zone, Douglas Caledonia Comprehensive Development District and replace it with a new zone that will be substantively the same as the existing zone but without a bonus density or community amenities section, consistent with the recently enacted changes to the Local Government Act. A concurrent Development Permit with Variances application relates to form and character changes to a previously approved proposal,which includes three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Additional variances from the Council approved proposal relate to height and parking. Concurrent with DPV No. 00262.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -85800,7 +85818,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732276834,
+      "lastUpdated": 1732708280,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00262",
