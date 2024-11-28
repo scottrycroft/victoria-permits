@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1732707757,
+  "dateRetrieved": 1732794139,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -17832,7 +17832,7 @@
         "985 MCKENZIE AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10, RS-6, RD-1 ZONES TO RA-11 APARTMENT ZONE TO CONSTRUCT 142 UNITS IN TWO APARTMENT BUILDINGS. VARIANCES ARE REQUESTED.",
+      "purpose": "TO REZONE FROM RS-10, RS-6, RD-1 ZONES TO RA-11 APARTMENT ZONE TO CONSTRUCT 122 UNITS IN TWO APARTMENT BUILDINGS. VARIANCES ARE REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -17914,7 +17914,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1731671467,
+      "lastUpdated": 1732794654,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21762",
@@ -20672,6 +20672,53 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "81 CADILLAC AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01075",
+      "applicationDate": 1732690800,
+      "addresses": [
+        "81 CADILLAC AVE",
+        "83 CADILLAC AVE",
+        "85 CADILLAC AVE",
+        "89 CADILLAC AVE",
+        "95 CADILLAC AVE",
+        "3691 WASCANA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "CONSOLIDATION OF SIX RS-6 LOTS TO CONSTRUCT 104 MULTI FAMILY UNITS",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1732690800,
+          "endDate": 1732690800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1732690800,
+          "endDate": 1732690800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1732690800,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1732690800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00965",
+          "relatedPermitType": "SUBDIVISION"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -21204,7 +21251,7 @@
         "985 MCKENZIE AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10, RS-6, RD-1 ZONES TO RA-11 APARTMENT ZONE TO CONSTRUCT 126 UNITS IN TWO APARTMENT BUILDINGS. VARIANCES ARE REQUESTED.",
+      "purpose": "TO REZONE FROM RS-10, RS-6, RD-1 ZONES TO RA-11 APARTMENT ZONE TO CONSTRUCT 122 UNITS IN TWO APARTMENT BUILDINGS. VARIANCES ARE REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21221,7 +21268,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1729248695,
+      "lastUpdated": 1732794654,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21762",
@@ -23106,7 +23153,7 @@
     },
     {
       "primaryStreetName": "4541 BISSENDEN PL",
-      "applicant": "N/A",
+      "applicant": "MARK HOLLAND",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00778",
@@ -23115,22 +23162,26 @@
         "4541 BISSENDEN PL"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-12 TO RS-8 TO CREATE 1 ADDITIONAL LOT FOR SINGLE FAMILY DWELLING USE RESULTING IN A TOTAL OF 2 LOTS. VARIANCES REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732690800,
+          "endDate": 1732690800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1731394800,
+      "lastUpdated": 1732794654,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00964",
           "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "DVP00535",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
         },
         {
           "relatedPermitID": "REZ00775",
@@ -29578,8 +29629,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731757819,
-      "relatedPermits": []
+      "lastUpdated": 1732794654,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00885",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000648",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
     },
     {
       "primaryStreetName": "1908 FOUL BAY RD",
@@ -29633,8 +29693,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731913200,
-      "relatedPermits": []
+      "lastUpdated": 1732794654,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00878",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000644",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
     },
     {
       "primaryStreetName": "2525 COOK ST",
@@ -34226,46 +34295,25 @@
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000644",
-      "applicationDate": 1724914800,
+      "applicationDate": 1732690800,
       "addresses": [
         "2931 SHELBOURNE ST",
         "2937 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
       "purpose": "The City is considering a Development Permit application to build a new multifamily building. Concurrent with application REZ00878. Refer to rezoning file for all documents.",
-      "progressSections": [
-        {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": 1724914800,
-          "endDate": 1725346800
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1725346800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
+      "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1732794654,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00878",
           "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00460",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -34406,6 +34454,59 @@
         },
         {
           "relatedPermitID": "CLC00455",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2839 CEDAR HILL RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000648",
+      "applicationDate": 1732690800,
+      "addresses": [
+        "2839 CEDAR HILL RD",
+        "2845 CEDAR HILL RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application for the 3 4-unit strata townhomes. CONCURRENT WITH REZONING APPLICATION #00885.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1732690800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00885",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00457",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -47603,15 +47704,27 @@
           "endDate": 1725433200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1725433200,
+          "endDate": 1731654000
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1725606000,
+          "endDate": 1731999600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1700636400,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1725606000,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -47658,7 +47771,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732189836,
+      "lastUpdated": 1732794654,
       "relatedPermits": []
     },
     {
@@ -48990,7 +49103,7 @@
     },
     {
       "primaryStreetName": "1784 DENMAN ST",
-      "applicant": "N/A",
+      "applicant": "SAM LAWLESS",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00283",
@@ -49037,7 +49150,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731585113,
+      "lastUpdated": 1732794654,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000646",
@@ -85317,7 +85430,7 @@
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00878",
-      "applicationDate": 1724914800,
+      "applicationDate": 1732690800,
       "addresses": [
         "2931 SHELBOURNE ST",
         "2937 SHELBOURNE ST"
@@ -85330,6 +85443,18 @@
           "taskType": "Application Received",
           "startDate": 1724914800,
           "endDate": 1725001200
+        },
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1732690800,
+          "endDate": 1732690800
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1732690800,
+          "endDate": null
         },
         {
           "taskDescription": "All City comments provided to the applicant",
@@ -85370,14 +85495,26 @@
         {
           "docName": "2024-08-28 Plans_Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3BFAE49B-5819-4B02-9252-43DDA940BC36&folderId=65331C240829095744902660"
+        },
+        {
+          "docName": "2024-11-27 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=972F4215-B69F-4572-9F87-29AA70307FDD&folderId=65331C240829095744902660"
+        },
+        {
+          "docName": "2024-11-27 - Plans_Submission_Deemed Aug 28 2024.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E4B40525-A35F-49AB-9688-38C08269ED9D&folderId=65331C240829095744902660"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727434241,
+      "lastUpdated": 1732794654,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000644",
           "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00460",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -85923,6 +86060,77 @@
         },
         {
           "relatedPermitID": "CLC00455",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2839 CEDAR HILL RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00885",
+      "applicationDate": 1732690800,
+      "addresses": [
+        "2839 CEDAR HILL RD",
+        "2845 CEDAR HILL RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for 3 4-unit strata townhomes. CONCURRENT WITH DEVELOPMENT PERMIT APPLICATION #000648.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1732690800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000648",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00457",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
