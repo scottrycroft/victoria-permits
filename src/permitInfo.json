@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1732794139,
+  "dateRetrieved": 1732880592,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19266,6 +19266,18 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
+          "startDate": 1731913200,
+          "endDate": 1731913200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1731999600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
@@ -19285,7 +19297,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1729939816,
+      "lastUpdated": 1732881113,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00747",
@@ -20692,25 +20704,31 @@
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": 1732690800,
+          "startDate": 1732518000,
           "endDate": 1732690800
         },
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": 1732690800,
+          "startDate": 1732518000,
           "endDate": 1732690800
         },
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1732690800,
-          "endDate": null
+          "endDate": 1732777200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1732777200,
+          "endDate": 1732777200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1732690800,
+      "lastUpdated": 1732881113,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -29711,7 +29729,7 @@
       "cityApplicationType": "Pre-Application (CALUC)",
       "applicationType": "Pre-Application",
       "folderNumber": "CLC00461",
-      "applicationDate": 1732863600,
+      "applicationDate": 1732777200,
       "addresses": [
         "2525 COOK ST",
         "2529 COOK ST",
@@ -29727,12 +29745,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92585C241125144740986000&folderId=chMnR6bVLUqw2QzakPLbTw"
         },
         {
-          "docName": "2024-11-25 - Landscape Plans.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92291C241125101121711559&folderId=chMnR6bVLUqw2QzakPLbTw"
+          "docName": "2024-11-25 - Landscape Plans_Compressed.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=93809C241128121644944181&folderId=chMnR6bVLUqw2QzakPLbTw"
+        },
+        {
+          "docName": "SUMMARY LETTER.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B3E77B6F-4525-4302-A4EF-2F330A72C0C6&folderId=chMnR6bVLUqw2QzakPLbTw"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732863600,
+      "lastUpdated": 1732881113,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00434",
@@ -49155,6 +49177,45 @@
         {
           "relatedPermitID": "DP000646",
           "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2839 CEDAR HILL RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00284",
+      "applicationDate": 1732777200,
+      "addresses": [
+        "2839 CEDAR HILL RD",
+        "2845 CEDAR HILL RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for to construct 14 strata Townhouse units within 3 separate buildings. CONCURRENT WITH REZONING APPLICATION #00885.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1732777200,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1732777200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00885",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000648",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00457",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -79253,7 +79314,7 @@
         "139 MENZIES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning Application to increase the density to facilitate the development of an approximately five-storey, mixed-use building with commercial and residential uses. Concurrent with DPV00210.",
+      "purpose": "The City is considering a Rezoning Application to increase the density to facilitate the development of an approximately four-storey, mixed-use building with commercial and residential uses. Concurrent with DPV00210.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -79437,7 +79498,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1728471144,
+      "lastUpdated": 1732881113,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -83099,6 +83160,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1723791600,
+          "endDate": 1732777200
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1732777200,
           "endDate": null
         },
         {
@@ -83160,10 +83227,22 @@
         {
           "docName": "2024-07-17 - Plans -Revisions - bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC1E19B4-466F-41AF-A744-34690B2AEFD8&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-11-28 - List of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=509B1020-F3FA-46DF-A9C4-1016F1FFAE45&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-11-28 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99D12420-2EFB-4C34-B2FD-1DA231E42569&folderId=48037C230809101541209990"
+        },
+        {
+          "docName": "2024-11-28 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2564C39A-C06B-46A5-8578-E840346ED1D5&folderId=48037C230809101541209990"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723892288,
+      "lastUpdated": 1732881113,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00263",
@@ -86070,24 +86149,24 @@
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00885",
-      "applicationDate": 1732690800,
+      "applicationDate": 1732777200,
       "addresses": [
         "2839 CEDAR HILL RD",
         "2845 CEDAR HILL RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for 3 4-unit strata townhomes. CONCURRENT WITH DEVELOPMENT PERMIT APPLICATION #000648.",
+      "purpose": "The City is considering a Rezoning application for to construct 14 strata Townhouse units within 3 separate buildings. CONCURRENT WITH DEVELOPMENT PERMIT WITH VARIANCE APPLICATION DPV00284.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732777200,
+          "endDate": 1732777200
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1732777200,
           "endDate": null
         },
         {
@@ -86121,10 +86200,23 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-11-28 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=93702C241128105915117271&folderId=93200C241127165709709178"
+        },
+        {
+          "docName": "2024-11-28 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=96CECB8C-4CF8-4930-BAF3-724AF83931A5&folderId=93200C241127165709709178"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1732690800,
+      "lastUpdated": 1732881113,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00284",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "DP000648",
           "relatedPermitType": "DEVELOPMENT PERMITS"
