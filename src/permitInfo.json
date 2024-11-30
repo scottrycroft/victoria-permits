@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1732880592,
+  "dateRetrieved": 1732966941,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20477,6 +20477,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1727247600,
+          "endDate": 1732518000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1732518000,
           "endDate": null
         }
       ],
@@ -20495,7 +20501,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1729680622,
+      "lastUpdated": 1732967466,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -29698,7 +29704,7 @@
         "2937 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City. Please note: a CALUC meeting will be scheduled once mail service resumes.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
       "progressSections": [],
       "documents": [
         {
@@ -29711,7 +29717,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732794654,
+      "lastUpdated": 1732967466,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00878",
@@ -29737,7 +29743,7 @@
         "2522 EMPIRE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City. Please note: a CALUC meeting will be scheduled once mail service resumes.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
       "progressSections": [],
       "documents": [
         {
@@ -29749,12 +29755,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=93809C241128121644944181&folderId=chMnR6bVLUqw2QzakPLbTw"
         },
         {
-          "docName": "SUMMARY LETTER.pdf",
+          "docName": "2024-11-25 - Summary Letter",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B3E77B6F-4525-4302-A4EF-2F330A72C0C6&folderId=chMnR6bVLUqw2QzakPLbTw"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732881113,
+      "lastUpdated": 1732967466,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00434",
@@ -34532,6 +34538,58 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1744 BAY ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000649",
+      "applicationDate": 1732777200,
+      "addresses": [
+        "1744 BAY ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application for missing middle houseplex",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-11-28 - Letter to Council and DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=94188C241129143719572852&folderId=94188C241129122910833154"
+        },
+        {
+          "docName": "2024-11-28 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=94188C241129143719609105&folderId=94188C241129122910833154"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1732777200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "584 JOHN ST",
@@ -85041,15 +85099,15 @@
           "endDate": 1727161200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1712646000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1727420400,
+          "endDate": 1732863600
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1712646000,
           "endDate": null
         },
         {
@@ -85110,7 +85168,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727866219,
+      "lastUpdated": 1732967466,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00269",
@@ -85515,7 +85573,7 @@
         "2937 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a new multifamily dwelling. Concurrent with application DP000644. Refer to the rezoning file for all documents.",
+      "purpose": "The City is considering a Rezoning application to construct 9 new Townhouse units within one multi-family building. Concurrent with application DP000644. Refer to the rezoning file for all documents.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -85585,7 +85643,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732794654,
+      "lastUpdated": 1732967466,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000644",
@@ -86155,7 +86213,7 @@
         "2845 CEDAR HILL RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for to construct 14 strata Townhouse units within 3 separate buildings. CONCURRENT WITH DEVELOPMENT PERMIT WITH VARIANCE APPLICATION DPV00284.",
+      "purpose": "The City is considering a Rezoning application for to construct 14 strata Townhouse units within 3 separate buildings. Concurrent with Development Permit with Variance Application DPV00284.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -86211,7 +86269,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732881113,
+      "lastUpdated": 1732967466,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00284",
