@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1733139735,
+  "dateRetrieved": 1733226162,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2643,6 +2643,14 @@
       ],
       "documents": [
         {
+          "docName": "01 - ARCHITECTURAL - RESUBMISSION 2024.11.20 WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32692C241202110143662032&folderId=16614C231124123438372925"
+        },
+        {
+          "docName": "02 - LANDSCAPE - RESUBMISSION 2024.11.08 WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32692C241202110143673999&folderId=16614C231124123438372925"
+        },
+        {
           "docName": "20201201 - 33004  - L - 2515 Hackett - Servicing Report - sealed_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240718163836068764&folderId=16614C231124123438372925"
         },
@@ -2680,7 +2688,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1732362731,
+      "lastUpdated": 1733226685,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -4170,6 +4178,73 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1730544612,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1117 GREIG AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001693",
+      "applicationDate": 1733122800,
+      "addresses": [
+        "1117 GREIG AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1733122800,
       "relatedPermits": []
     },
     {
@@ -20639,7 +20714,7 @@
         "3950 CEDAR HILL RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO CONSTRUCT MIXED-USE DEVELOPMENT WITH THREE LEVELS OF UNDERGROUND PARKING, LIBRARY REPLACEMENT AND UP TO 210 AFFORDABLE HOUSING UNITES.",
+      "purpose": "TO CONSTRUCT MIXED-USE DEVELOPMENT WITH THREE LEVELS OF UNDERGROUND PARKING, LIBRARY REPLACEMENT AND UP TO 210 AFFORDABLE HOUSING UNITS.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -20656,7 +20731,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1727175038,
+      "lastUpdated": 1733226685,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -20691,7 +20766,7 @@
     },
     {
       "primaryStreetName": "81 CADILLAC AVE",
-      "applicant": "N/A",
+      "applicant": "GREG VOUTE",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01075",
@@ -20734,7 +20809,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1732881113,
+      "lastUpdated": 1733226685,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -23212,6 +23287,37 @@
           "relatedPermitType": "REZONING"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1040 MCKENZIE AVE",
+      "applicant": "CITYSPACES CONSULTING LTD.",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00779",
+      "applicationDate": 1733122800,
+      "addresses": [
+        "1040 MCKENZIE AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM P2 (UTILITY) ZONE TO A CD (COMPREHENSIVE DEVELOPMENT) ZONE TO CONSTRUCT A NEW SAANICH OPERATIONS CENTRE (PHASE 1), AND TWO MAXIMUM 18 STOREY BUILDINGS ON MCKENZIE AVENUE AND BORDEN STREET WITH COMMERCIAL UNITS AT GRADE, OFFICES AND RESIDENTIAL UNITS WITH UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1732518000,
+          "endDate": 1733122800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1732518000,
+          "endDate": 1733122800
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1733122800,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2257 Harbour Road",
@@ -81731,10 +81837,6 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E31242A1-57C0-4F0D-A105-46077FDD492A&folderId=01974C230302120631273092"
         },
         {
-          "docName": "2024-01-22 - Plans.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA9FB130-4FB9-4EFD-8D90-2DD1B5E04090&folderId=01974C230302120631273092"
-        },
-        {
           "docName": "2024-04-09 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0055CC6A-ECA4-4874-9D37-7B440CFA41C3&folderId=01974C230302120631273092"
         },
@@ -81749,10 +81851,14 @@
         {
           "docName": "FINAL APPROVED PLANS",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A45C8AFA-B362-4980-9A31-8D07133D6C1E&folderId=01974C230302120631273092"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA9FB130-4FB9-4EFD-8D90-2DD1B5E04090&folderId=01974C230302120631273092"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730807415,
+      "lastUpdated": 1733226685,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00257",
@@ -86178,14 +86284,10 @@
         {
           "docName": "2024-11-22 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90E78F5A-5F83-48FF-BAC1-12724AAED5E3&folderId=92068C241122145630064084"
-        },
-        {
-          "docName": "2024-11-22 - Plans_Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4C880BA6-20A2-42B6-9E8E-A25C59EFE8F4&folderId=92068C241122145630064084"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732258800,
+      "lastUpdated": 1733226685,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
@@ -86203,7 +86305,7 @@
     },
     {
       "primaryStreetName": "2839 CEDAR HILL RD",
-      "applicant": "N/A",
+      "applicant": "DEANE STRONGITHARM",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00885",
@@ -86269,7 +86371,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732967466,
+      "lastUpdated": 1733226685,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00284",
