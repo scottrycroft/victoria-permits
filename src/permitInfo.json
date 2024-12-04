@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1733226162,
+  "dateRetrieved": 1733312530,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20303,8 +20303,8 @@
       ],
       "documents": [
         {
-          "docName": "ELEVATIONS_MARCH 28, 2024-reduced",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A7577416-BC2F-4715-B432-CD473B59996B&folderId=02707C240328141506475367"
+          "docName": "REVISED_ELEVATIONS_NOV 13 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=5D607958-E7BC-4983-B0AA-197C126D5C20&folderId=02707C240328141506475367"
         },
         {
           "docName": "REVISED_LANDSCAPE PLAN_NOV 13 2024_1.pdf",
@@ -20316,7 +20316,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1731757819,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -20727,11 +20727,29 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1726815600,
           "endDate": 1727074800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1729062000,
+          "endDate": 1733122800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1733122800,
+          "endDate": 1733209200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1733209200,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733226685,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -20816,6 +20834,37 @@
           "relatedPermitType": "SUBDIVISION"
         }
       ]
+    },
+    {
+      "primaryStreetName": "233 BATTLEFORD AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01076",
+      "applicationDate": 1733209200,
+      "addresses": [
+        "233 BATTLEFORD AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1733209200,
+          "endDate": 1733209200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1733209200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
@@ -45984,11 +46033,11 @@
         "1737 ROCKLAND AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application. Concurrent with Rezoning Application No. 00755 and Heritage Designation No. 000195.",
+      "purpose": "The City is considering a Development Permit with Variance application. Concurrent with Rezoning Application No. 00755 and Heritage Designation No. 000195. Approved by Council November 28, 2024",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1677049200,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -46450,7 +46499,7 @@
         "1055 ALSTON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE REZONING #00851 FOR PROJECT INFORMATION The City is considering a Development Permit with Variance application for a mixed-use (industrial and residential) building concurrent with rezoning application #00851 The proposal requires variances for height, setbacks and parking.",
+      "purpose": "SEE REZONING #00851 FOR PROJECT INFORMATION The City is considering a Development Permit with Variance application for a mixed-use (industrial and residential) building concurrent with rezoning application #00851 The proposal requires variances for height, setbacks and parking. Approved by Council November 28, 2024",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -46467,7 +46516,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00851",
@@ -48913,6 +48962,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1731394800,
+          "endDate": 1733209200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1733209200,
           "endDate": null
         },
         {
@@ -48942,10 +48997,14 @@
         {
           "docName": "2024-06-24 - Plans_Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87CCD09C-76E2-40F8-8D4B-0AAC8DC26474&folderId=45143C240625112338600070"
+        },
+        {
+          "docName": "2024-11-05 -  Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0CED66EF-C5FC-4098-89B8-D393C29ED178&folderId=45143C240625112338600070"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732189836,
+      "lastUpdated": 1733313056,
       "relatedPermits": []
     },
     {
@@ -49279,12 +49338,16 @@
       ],
       "documents": [
         {
+          "docName": "2024-11-12 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88363C241113082508162906&folderId=86909C241107133733981593"
+        },
+        {
           "docName": "Letter to DS.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0F8C37FE-843C-4611-80B9-65DDF4FADEC4&folderId=86909C241107133733981593"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731585113,
+      "lastUpdated": 1733313056,
       "relatedPermits": []
     },
     {
@@ -49298,7 +49361,7 @@
         "1784 DENMAN ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit application to create a strata with new houseplex, and strata-converted heritage home.",
+      "purpose": "The City is considering a Development Permit with Variance application to create a strata with new houseplex, and strata-converted heritage home.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -49336,7 +49399,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732794654,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000646",
@@ -49379,6 +49442,38 @@
         },
         {
           "relatedPermitID": "CLC00457",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "2931 SHELBOURNE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00285",
+      "applicationDate": 1733209200,
+      "addresses": [
+        "2931 SHELBOURNE ST",
+        "2937 SHELBOURNE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to build a new multifamily building. Concurrent with application REZ00878. Refer to rezoning file for all documents.",
+      "progressSections": [],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1733209200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00878",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000644",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00460",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -83816,6 +83911,12 @@
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": 1732172400,
           "endDate": 1732172400
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -83897,7 +83998,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732621824,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00249",
@@ -85679,7 +85780,7 @@
         "2937 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct 9 new Townhouse units within one multi-family building. Concurrent with application DP000644. Refer to the rezoning file for all documents.",
+      "purpose": "The City is considering a Rezoning application to construct 9 new Townhouse units within one multi-family building. Concurrent with application DPV00285. Refer to the rezoning file for all documents.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -85749,8 +85850,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732967466,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00285",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "DP000644",
           "relatedPermitType": "DEVELOPMENT PERMITS"
@@ -86137,6 +86242,12 @@
       "purpose": "The City is considering a Rezoning application to repeal the CD-19 Zone, Douglas Caledonia Comprehensive Development District and replace it with a new zone that will be substantively the same as the existing zone but without a bonus density or community amenities section, consistent with the recently enacted changes to the Local Government Act. A concurrent Development Permit with Variances application relates to form and character changes to a previously approved proposal,which includes three distinct buildings over a shared commercial podium that includes office, a full-service grocery store, childcare and a large public urban plaza. Additional variances from the Council approved proposal relate to height and parking. Concurrent with DPV No. 00262.",
       "progressSections": [
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": null,
@@ -86157,12 +86268,6 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
@@ -86198,7 +86303,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732708280,
+      "lastUpdated": 1733313056,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00262",
