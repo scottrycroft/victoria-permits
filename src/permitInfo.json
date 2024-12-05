@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1733312530,
+  "dateRetrieved": 1733398935,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2416,14 +2416,14 @@
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732518000,
+          "endDate": 1732518000
         },
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732518000,
+          "endDate": 1732518000
         },
         {
           "taskDescription": "",
@@ -2491,7 +2491,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1732362731,
+      "lastUpdated": 1733399461,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -11332,8 +11332,8 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1733209200,
+          "endDate": 1733209200
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -11389,7 +11389,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1732708280,
+      "lastUpdated": 1733399461,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00052",
@@ -11423,6 +11423,12 @@
           "endDate": 1728370800
         },
         {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": null,
@@ -11441,12 +11447,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
           "startDate": null,
@@ -11460,7 +11460,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1728471144,
+      "lastUpdated": 1733399461,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00053",
@@ -20747,9 +20747,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_DEC 2, 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=89821C241204083916608762&folderId=65265C240920152057645717"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_DEC 2, 2024_reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=89821C241204091619508334&folderId=65265C240920152057645717"
+        },
+        {
+          "docName": "SITE PLAN_DEC 2, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DCD345D9-D5C3-490B-8A98-92AF9036B0A6&folderId=65265C240920152057645717"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1733313056,
+      "lastUpdated": 1733399461,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -86062,7 +86075,7 @@
         "235 RUSSELL ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning Application to increase the density and add multiple dwelling residential use to facilitate the development of an approximately six-storey, mixed-use building with industrial uses below and residential rental units above. CONCURRENT WITH DPV00280. REFER TO REZONING FILE FOR ALL APPLICATION MATERIALS.",
+      "purpose": "The City is considering a Rezoning Application to increase the density and add multiple dwelling residential use to facilitate the development of an approximately six-storey, mixed-use building with industrial uses below and residential rental units above. Concurrent with DPV00280. Refer to Rezoning file for all application materials.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -86071,15 +86084,21 @@
           "endDate": 1728457200
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1732863600,
+          "endDate": 1732863600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1728543600,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1732863600,
           "endDate": null
         },
         {
@@ -86112,7 +86131,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730807415,
+      "lastUpdated": 1733399461,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00280",
