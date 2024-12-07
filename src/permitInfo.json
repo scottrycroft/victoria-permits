@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1733485341,
+  "dateRetrieved": 1733571766,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20298,6 +20298,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1731654000,
+          "endDate": 1733468400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1733468400,
           "endDate": null
         }
       ],
@@ -20316,7 +20322,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1733313056,
+      "lastUpdated": 1733572295,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -20772,7 +20778,7 @@
     },
     {
       "primaryStreetName": "794 BURNSIDE RD W",
-      "applicant": "N/A",
+      "applicant": "0927969 BC LTD",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01074",
@@ -20784,15 +20790,33 @@
       "purpose": "TO ACCOMMODATE A HOUSE MOVE OF GROUP C RESIDENTIAL BUILDING AND ADDITION TO CREATE GROUP D COMMERCIAL SPACE",
       "progressSections": [
         {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1732086000,
+          "endDate": 1732086000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1732086000,
+          "endDate": 1733382000
+        },
+        {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732086000,
+          "endDate": 1733468400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1733382000,
+          "endDate": 1733468400
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733485869,
+      "lastUpdated": 1733572295,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21802",
@@ -49003,12 +49027,6 @@
           "endDate": 1733209200
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1733209200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
@@ -49042,7 +49060,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733313056,
+      "lastUpdated": 1733572295,
       "relatedPermits": []
     },
     {
@@ -79707,7 +79725,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1728370800,
-          "endDate": null
+          "endDate": 1732258800
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -79795,7 +79813,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732881113,
+      "lastUpdated": 1733572295,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -84119,7 +84137,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1732518000,
-          "endDate": null
+          "endDate": 1732518000
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -84199,7 +84217,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732621824,
+      "lastUpdated": 1733572295,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
