@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1733845860,
+  "dateRetrieved": 1733918055,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -477,7 +477,7 @@
         "6922 SAANICH X RD"
       ],
       "status": "ACTIVE",
-      "purpose": "Rezone from R-1 to R-1XS (2Lots) and R-1S (retain existing house)",
+      "purpose": "Rezone from RN to 3 RN Lots with Reduced Size (retain existing house)",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -488,8 +488,8 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1732518000,
+          "endDate": 1732518000
         },
         {
           "taskDescription": "",
@@ -529,7 +529,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1713869355,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -3853,38 +3853,32 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": 1732518000,
+          "endDate": 1732518000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1732518000,
+          "endDate": 1732518000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1732518000,
+          "endDate": 1733814000
+        },
+        {
+          "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1725433200,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
-          "startDate": null,
+          "startDate": 1733814000,
           "endDate": null
         }
       ],
@@ -3903,7 +3897,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1732362731,
+      "lastUpdated": 1733918580,
       "relatedPermits": []
     },
     {
@@ -4196,7 +4190,7 @@
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": null,
+          "startDate": 1733814000,
           "endDate": null
         },
         {
@@ -4242,9 +4236,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "1117 Greig Ave_Site_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32943C241210141431470185&folderId=32692C241202111822137071"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1733122800,
+      "lastUpdated": 1733918580,
       "relatedPermits": []
     },
     {
@@ -11425,8 +11424,8 @@
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1733727600,
+          "endDate": 1733727600
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -11460,7 +11459,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1733399461,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00053",
@@ -11581,8 +11580,8 @@
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1733727600,
+          "endDate": 1733727600
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -11617,7 +11616,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1733485869,
+      "lastUpdated": 1733918580,
       "relatedPermits": []
     },
     {
@@ -13926,8 +13925,8 @@
         {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1733727600,
+          "endDate": 1733727600
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -13967,7 +13966,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1733485869,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000052",
@@ -23583,7 +23582,7 @@
         "9687 Eighth Street"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Permit and Development Variance Permit to relax the minimum front yard setback to allow for an enclosed entryway addition.",
+      "purpose": "Development Permit and Development Variance Permit application to relax the minimum front yard setback to allow for an enclosed entryway addition.",
       "progressSections": [
         {
           "taskDescription": "Application under review by staff.",
@@ -23601,7 +23600,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1732189871,
+      "lastUpdated": 1733918616,
       "relatedPermits": []
     },
     {
@@ -23861,6 +23860,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "A-2042 Melville Drive",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "736e6f6d4f",
+      "applicationDate": 1733918616,
+      "addresses": [
+        "A-2042 Melville Drive"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to permit an accessory structure in the front yard and to reduce the minimum accessory structure setback requirement.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/A-2042-Melville-Drive-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1733918616,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "2306 Grove Crescent",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -24011,7 +24042,7 @@
         "10440 Resthaven Drive"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Variance Permit to relax the maximum percentage of vehicle parking areas permitted in a front yard.",
+      "purpose": "Development Variance Permit application to relax the maximum percentage of vehicle parking areas permitted in a front yard.",
       "progressSections": [
         {
           "taskDescription": "Committee of the Whole Meeting Staff Report",
@@ -24033,7 +24064,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1733485903,
+      "lastUpdated": 1733918616,
       "relatedPermits": []
     },
     {
@@ -49533,6 +49564,49 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1020 ST CHARLES ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00286",
+      "applicationDate": 1733814000,
+      "addresses": [
+        "1020 ST CHARLES ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to expand and upgrade the existing seniors residential facility adding 36 additional units.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1733814000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "516 DISCOVERY ST",
@@ -85100,6 +85174,10 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4204C4B3-2262-4A12-ACC3-EB8E3A68D9E0&folderId=11190C240312101819231835"
         },
         {
+          "docName": "25-002.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97441C241210111557027064&folderId=11190C240312101819231835"
+        },
+        {
           "docName": "Itemized Response Letter.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2B39FAAB-ED0E-4DD6-B216-5D7ACEED3228&folderId=11190C240312101819231835"
         },
@@ -85109,7 +85187,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1729335069,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
@@ -85863,12 +85941,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -85906,7 +85978,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733313056,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00285",
@@ -86340,12 +86412,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -86377,7 +86443,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733313056,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00262",
@@ -86435,12 +86501,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -86470,7 +86530,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733846377,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
@@ -86519,12 +86579,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -86554,7 +86608,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733226685,
+      "lastUpdated": 1733918580,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00284",
