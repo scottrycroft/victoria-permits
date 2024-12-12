@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1733918055,
+  "dateRetrieved": 1734003764,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4244,6 +4244,61 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1733918580,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2070 KEATING CROSS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001694",
+      "applicationDate": 1733295600,
+      "addresses": [
+        "2070 KEATING CROSS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1733900400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1733900400,
       "relatedPermits": []
     },
     {
@@ -11636,7 +11691,7 @@
           "taskDescription": "An application for a Development Permit has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
           "startDate": 1732172400,
-          "endDate": null
+          "endDate": 1733900400
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -11677,7 +11732,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1732172400,
+      "lastUpdated": 1734004301,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00055",
@@ -14106,7 +14161,7 @@
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
           "startDate": 1732172400,
-          "endDate": null
+          "endDate": 1733900400
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -14153,7 +14208,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1732172400,
+      "lastUpdated": 1734004301,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000055",
@@ -33972,11 +34027,15 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1734004301,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00856",
           "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DVP00290",
+          "relatedPermitType": "Development Variance Permit"
         },
         {
           "relatedPermitID": "CLC00412",
@@ -49581,7 +49640,7 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
+          "startDate": 1733900400,
           "endDate": null
         },
         {
@@ -49603,9 +49662,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2024-12-10 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E7ADF268-DBAA-4948-AFD9-24B22B41281A&folderId=97242C241210085633589461"
+        },
+        {
+          "docName": "2024-12-10 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E87C6103-F102-4C5A-8544-430D1A43E84C&folderId=97242C241210085633589461"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1733814000,
+      "lastUpdated": 1734004301,
       "relatedPermits": []
     },
     {
@@ -83477,11 +83545,15 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1734004301,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000633",
           "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "DVP00290",
+          "relatedPermitType": "Development Variance Permit"
         },
         {
           "relatedPermitID": "CLC00412",
