@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1734003764,
+  "dateRetrieved": 1734090121,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20967,6 +20967,62 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2315 EDGELOW ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01077",
+      "applicationDate": 1733986800,
+      "addresses": [
+        "2315 EDGELOW ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM RS-6, RS-12 AND RS-14 TO RA-11 TO CONSTRUCT 249 UNITS TOTAL IN 2 6-STOREY BUILDINGS WITH 1-STOREY OF UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1733986800,
+          "endDate": 1733986800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1733986800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3880 FINNERTY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01078",
+      "applicationDate": 1733986800,
+      "addresses": [
+        "3880 FINNERTY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1733986800,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "843 NIGEL AVE",
       "applicant": "",
       "cityApplicationType": "REZONING",
@@ -23466,6 +23522,62 @@
       "documents": [],
       "city": "Saanich",
       "lastUpdated": 1733122800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2315 EDGELOW ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00780",
+      "applicationDate": 1733986800,
+      "addresses": [
+        "2315 EDGELOW ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM RS-6, RS-12 AND RS-14 TO RA-11 TO CONSTRUCT 249 UNITS TOTAL IN 2 6-STOREY BUILDINGS WITH 1-STOREY OF UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1733986800,
+          "endDate": 1733986800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1733986800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3880 FINNERTY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00781",
+      "applicationDate": 1733986800,
+      "addresses": [
+        "3880 FINNERTY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1733986800,
       "relatedPermits": []
     },
     {
@@ -34741,7 +34853,7 @@
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000647",
-      "applicationDate": 1732258800,
+      "applicationDate": 1733209200,
       "addresses": [
         "1110 CALEDONIA AVE",
         "1112 CALEDONIA AVE",
@@ -34777,7 +34889,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1732258800,
+      "lastUpdated": 1734090660,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00884",
@@ -47718,6 +47830,18 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1733986800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -47750,10 +47874,18 @@
         {
           "docName": "2023-12-14 - Transmittal of Changes.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DEFC4EED-0C0E-4FF1-BACC-31234C3CDE18&folderId=60166C230921090840284643"
+        },
+        {
+          "docName": "2024-12-12 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0465854A-5F74-46E8-9FD9-558F8558C914&folderId=60166C230921090840284643"
+        },
+        {
+          "docName": "2024-12-12 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AF52B974-5113-470D-B337-9CFE74A53F45&folderId=60166C230921090840284643"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732708280,
+      "lastUpdated": 1734090660,
       "relatedPermits": []
     },
     {
@@ -49119,6 +49251,24 @@
         {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1733900400,
+          "endDate": 1733900400
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1733986800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -49150,7 +49300,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733572295,
+      "lastUpdated": 1734090660,
       "relatedPermits": []
     },
     {
@@ -49641,7 +49791,7 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1733900400,
-          "endDate": null
+          "endDate": 1733900400
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
@@ -49673,7 +49823,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734004301,
+      "lastUpdated": 1734090660,
       "relatedPermits": []
     },
     {
@@ -81374,7 +81524,7 @@
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": 1730444400,
+          "startDate": 1730790000,
           "endDate": null
         },
         {
@@ -81461,7 +81611,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1730893849,
+      "lastUpdated": 1734090660,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -86545,14 +86695,14 @@
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00884",
-      "applicationDate": 1732258800,
+      "applicationDate": 1733209200,
       "addresses": [
         "1110 CALEDONIA AVE",
         "1112 CALEDONIA AVE",
         "1909 COOK ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow residential buildings with the existing church. CONCURRENT WITH DP00647 AND HAP00267.",
+      "purpose": "The City is considering a Rezoning application to allow two residential rental buildings with the existing church. CONCURRENT WITH DP00647 AND HAP00267.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -86563,7 +86713,7 @@
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1733986800,
           "endDate": null
         },
         {
@@ -86602,7 +86752,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733918580,
+      "lastUpdated": 1734090660,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
@@ -86630,7 +86780,7 @@
         "2845 CEDAR HILL RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for to construct 14 strata Townhouse units within 3 separate buildings. Concurrent with Development Permit with Variance Application DPV00284.",
+      "purpose": "The City is considering a Rezoning application for to construct 12 strata Townhouse units within 3 separate buildings. Concurrent with Development Permit with Variance Application DPV00284.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -86680,7 +86830,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733918580,
+      "lastUpdated": 1734090660,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00284",
