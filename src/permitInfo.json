@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1734435750,
+  "dateRetrieved": 1734522121,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4299,6 +4299,61 @@
       "documents": [],
       "city": "Central Saanich",
       "lastUpdated": 1733900400,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1981 STELLY'S X RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001697",
+      "applicationDate": 1734418800,
+      "addresses": [
+        "1981 STELLY'S X RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1734418800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1734418800,
       "relatedPermits": []
     },
     {
@@ -20847,7 +20902,7 @@
         "794 BURNSIDE RD W"
       ],
       "status": "ACTIVE",
-      "purpose": "TO ACCOMMODATE A HOUSE MOVE OF GROUP C RESIDENTIAL BUILDING AND ADDITION TO CREATE GROUP D COMMERCIAL SPACE",
+      "purpose": "RELOCATION OF EXISTING COMMERCIAL BUILDING (FORMER DWELLING) AND CONSTRUCTION OF ADDITION",
       "progressSections": [
         {
           "taskDescription": "Application submission review for completeness",
@@ -20872,11 +20927,30 @@
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1733382000,
           "endDate": 1733468400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1734418800,
+          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_DEC 5, 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=94702C241217154118929802&folderId=85222C241120111748167228"
+        },
+        {
+          "docName": "LANDSCAPE_DEC 5, 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=94702C241217154118990778&folderId=85222C241120111748167228"
+        },
+        {
+          "docName": "SITE SURVEY_DEC 5, 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E8E24644-FDF7-4C6E-B32C-D38C93FF1B98&folderId=85222C241120111748167228"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1733572295,
+      "lastUpdated": 1734522673,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21802",
@@ -20965,11 +21039,22 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1733209200,
           "endDate": 1734073200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1734418800,
+          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "SITE_DEC 3 2024.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C66C47DF-6473-4165-871D-9C6F83A6F8DD&folderId=85755C241203145114961989"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1734436280,
+      "lastUpdated": 1734522673,
       "relatedPermits": []
     },
     {
@@ -23453,8 +23538,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1734263465,
+      "lastUpdated": 1734522673,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP21934",
+          "relatedPermitType": "TREE PERMIT"
+        },
         {
           "relatedPermitID": "BLD21064",
           "relatedPermitType": "RESIDENTIAL PERMIT"
@@ -85658,12 +85747,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1714114800,
-          "endDate": null
+          "endDate": 1734332400
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1734418800,
           "endDate": null
         },
         {
@@ -85714,7 +85803,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734436280,
+      "lastUpdated": 1734522673,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00270",
