@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1734522121,
+  "dateRetrieved": 1734608530,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21090,7 +21090,7 @@
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
-      "applicant": "N/A",
+      "applicant": "MICHAEL MOODY",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01078",
@@ -21099,19 +21099,30 @@
         "3880 FINNERTY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-14 ZONE TO RA-11 ZONE TO CONSTRUCT A SIX STORY 70 UNIT APT BLG WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1733986800,
+          "endDate": 1733986800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1734505200,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733986800,
-      "relatedPermits": []
+      "lastUpdated": 1734609072,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00781",
+          "relatedPermitType": "REZONING"
+        }
+      ]
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
@@ -23603,7 +23614,7 @@
         "1040 MCKENZIE AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM P2 (UTILITY) ZONE TO A CD (COMPREHENSIVE DEVELOPMENT) ZONE TO CONSTRUCT A NEW SAANICH OPERATIONS CENTRE (PHASE 1), AND TWO MAXIMUM 18 STOREY BUILDINGS ON MCKENZIE AVENUE AND BORDEN STREET WITH COMMERCIAL UNITS AT GRADE, OFFICES AND RESIDENTIAL UNITS WITH UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM P2 (UTILITY) ZONE TO A CD (COMPREHENSIVE DEVELOPMENT) ZONE TO CONSTRUCT A NEW SAANICH OPERATIONS CENTRE, AND TWO MAXIMUM 18 STOREY BUILDINGS ON MCKENZIE AVENUE AND BORDEN STREET WITH COMMERCIAL UNITS AT GRADE, OFFICES AND RESIDENTIAL UNITS WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23616,11 +23627,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1732518000,
           "endDate": 1733122800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1734505200,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733122800,
+      "lastUpdated": 1734609072,
       "relatedPermits": []
     },
     {
@@ -23656,7 +23673,7 @@
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
-      "applicant": "N/A",
+      "applicant": "MICHAEL MOODY",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00781",
@@ -23665,19 +23682,30 @@
         "3880 FINNERTY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-14 ZONE TO RA-11 ZONE TO CONSTRUCT A SIX STORY 70 UNIT APT BLG WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1734505200,
+          "endDate": 1734505200
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1734505200,
+          "endDate": 1734505200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733986800,
-      "relatedPermits": []
+      "lastUpdated": 1734609072,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01078",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "2257 Harbour Road",
@@ -48322,12 +48350,6 @@
           "endDate": 1725433200
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1725433200,
-          "endDate": 1731654000
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1725606000,
@@ -48337,6 +48359,12 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1700636400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1725433200,
           "endDate": null
         },
         {
@@ -48389,7 +48417,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732794654,
+      "lastUpdated": 1734609072,
       "relatedPermits": []
     },
     {
@@ -49942,7 +49970,7 @@
         "1020 ST CHARLES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to expand and upgrade the existing seniors residential facility adding 36 additional units.",
+      "purpose": "The City is considering a Development Permit with Variance application to expand and upgrade the existing seniors residential facility by adding 36 rental residential units to the existing 53-unit facility, which proposes modifying and extending the house immediately to the south and moving all surface parking underground.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -49980,7 +50008,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734090660,
+      "lastUpdated": 1734609072,
       "relatedPermits": []
     },
     {
@@ -86946,12 +86974,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90E78F5A-5F83-48FF-BAC1-12724AAED5E3&folderId=92068C241122145630064084"
         },
         {
-          "docName": "2024-11-28 - Plans_Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=95467C241204121509973925&folderId=92068C241122145630064084"
+          "docName": "2024-11-22 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99923C241218092228061507&folderId=92068C241122145630064084"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734090660,
+      "lastUpdated": 1734609072,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
