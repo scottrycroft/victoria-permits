@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1734608530,
+  "dateRetrieved": 1734694925,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19294,6 +19294,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1729839600,
+          "endDate": 1734591600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1734591600,
           "endDate": null
         }
       ],
@@ -19316,7 +19322,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1729939816,
+      "lastUpdated": 1734695466,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -20964,7 +20970,7 @@
     },
     {
       "primaryStreetName": "81 CADILLAC AVE",
-      "applicant": "GREG VOUTE",
+      "applicant": "DAVE BASPALY",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01075",
@@ -21007,7 +21013,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733226685,
+      "lastUpdated": 1734695466,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -23635,9 +23641,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "SITE_NOV 25, 2024-reduced",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=95581C241219144555755174&folderId=88752C241202131038100165"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1734609072,
+      "lastUpdated": 1734695466,
       "relatedPermits": []
     },
     {
@@ -24343,6 +24354,12 @@
           "taskType": "",
           "startDate": 1733727600,
           "endDate": 1733727600
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -24353,12 +24370,16 @@
         {
           "docName": "December 9, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/46267/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10440-Resthaven-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1733918616,
+      "lastUpdated": 1734695500,
       "relatedPermits": []
     },
     {
@@ -30259,8 +30280,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732967466,
+      "lastUpdated": 1734695466,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00285",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "REZ00878",
           "relatedPermitType": "Rezoning Application"
