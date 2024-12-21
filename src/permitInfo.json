@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1734694925,
+  "dateRetrieved": 1734781312,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2486,12 +2486,16 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=D56460C7-2DAE-4B78-8A1B-BE5B72EABD00&folderId=16332C231110115426945016"
         },
         {
+          "docName": "1934 Hovey_Plans REVISED WEB_Dec 19, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=33703C241220114445486906&folderId=16332C231110115426945016"
+        },
+        {
           "docName": "1934 Hovey_Site plans REVISED_Nov 12, 2024.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=E241CC96-15D1-488B-AD56-E6C0124EE14A&folderId=16332C231110115426945016"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1734436280,
+      "lastUpdated": 1734781844,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -14272,6 +14276,73 @@
       ]
     },
     {
+      "primaryStreetName": "2757 DUFFERIN AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00056",
+      "applicationDate": 1734678000,
+      "addresses": [
+        "2757 DUFFERIN AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1734678000,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "640 BEAVER LAKE RD",
       "applicant": "CALID SERVICES LTD.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -19297,6 +19368,24 @@
           "endDate": 1734591600
         },
         {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1733986800,
+          "endDate": 1734678000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1734678000,
+          "endDate": 1734678000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1733986800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1734591600,
@@ -19322,7 +19411,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1734695466,
+      "lastUpdated": 1734781844,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -20871,6 +20960,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1733209200,
+          "endDate": 1734678000
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -20889,7 +20984,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1733399461,
+      "lastUpdated": 1734781844,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -20970,7 +21065,7 @@
     },
     {
       "primaryStreetName": "81 CADILLAC AVE",
-      "applicant": "DAVE BASPALY",
+      "applicant": "ABORIGINAL LAND TRUST SOCIETY",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01075",
@@ -21013,7 +21108,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1734695466,
+      "lastUpdated": 1734781844,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -84277,15 +84372,15 @@
           "endDate": 1731913200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1693378800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1731913200,
+          "endDate": 1734678000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1693378800,
           "endDate": null
         },
         {
@@ -84378,7 +84473,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732189836,
+      "lastUpdated": 1734781844,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -84598,6 +84693,12 @@
           "endDate": 1695970800
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1695970800,
+          "endDate": 1698130800
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1698130800,
@@ -84644,12 +84745,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1732518000,
           "endDate": 1732518000
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1695970800,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -84729,7 +84824,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733846377,
+      "lastUpdated": 1734781844,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
