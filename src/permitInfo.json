@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1734954118,
+  "dateRetrieved": 1735040529,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4358,6 +4358,74 @@
       "documents": [],
       "city": "Central Saanich",
       "lastUpdated": 1734418800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6996 CENTRAL SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning and/or OCP Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PL001701",
+      "applicationDate": 1734937200,
+      "addresses": [
+        "6996 CENTRAL SAANICH RD",
+        "7012 EAST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "A 4 storey multi-family residential project providing 61 units (mix of studio, 1 and 2 bed",
+      "progressSections": [
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1734937200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL FOR INTRO",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "APC MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "2ND READING OF BYLAW(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "3RD READING OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1734937200,
       "relatedPermits": []
     },
     {
@@ -14291,8 +14359,8 @@
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1734937200,
+          "endDate": 1734937200
         },
         {
           "taskDescription": "The application is under review by District Staff.",
@@ -14339,7 +14407,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1734678000,
+      "lastUpdated": 1735041071,
       "relatedPermits": []
     },
     {
@@ -18147,6 +18215,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1731567600,
+          "endDate": 1734937200
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -18169,7 +18243,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1732794654,
+      "lastUpdated": 1735041071,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21762",
@@ -30429,6 +30503,35 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "443 GOVERNMENT ST",
+      "applicant": "NICHOLAS STANDEVEN",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00463",
+      "applicationDate": 1736319600,
+      "addresses": [
+        "443 GOVERNMENT ST",
+        "605 MICHIGAN ST",
+        "607 MICHIGAN ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=84BB2515-9EA2-4A29-B9E9-E4C45CFC181F&folderId=kEyBGrjzQ0iJnMWD+t9c1Q"
+        },
+        {
+          "docName": "Summary Letter",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=38D71EDB-E45A-4ADA-831A-F8CAC44DC96E&folderId=kEyBGrjzQ0iJnMWD+t9c1Q"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1736319600,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -50081,7 +50184,7 @@
     },
     {
       "primaryStreetName": "1020 ST CHARLES ST",
-      "applicant": "N/A",
+      "applicant": "JEREMY BEINTEMA",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00286",
@@ -50101,6 +50204,12 @@
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
+          "startDate": 1734937200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -50128,7 +50237,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734609072,
+      "lastUpdated": 1735041071,
       "relatedPermits": []
     },
     {
@@ -77548,6 +77657,12 @@
           "endDate": 1732172400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -77692,10 +77807,18 @@
         {
           "docName": "2024-08-16 - Plans - Revisions - Deemed June 4, 2024.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=61510C240816111120702730&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2024-12-23 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8603EB1E-88DB-4F5C-986B-F0013B986017&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2024-12-23 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=378007EC-C49D-4B0F-8DDF-41D4844C649A&folderId=86097C211222091219582725"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732621824,
+      "lastUpdated": 1735041071,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -85385,15 +85508,21 @@
           "endDate": 1721890800
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1722236400,
+          "endDate": 1734505200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1707202800,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1722236400,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1734505200,
           "endDate": null
         },
         {
@@ -85442,7 +85571,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1735041071,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00424",
@@ -86881,6 +87010,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -86909,12 +87044,20 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2ECBC657-43CC-4D23-920B-C68B43E807A4&folderId=83326C241029125254875539"
         },
         {
+          "docName": "2024-12-23 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=01294C241223170359980760&folderId=83326C241029125254875539"
+        },
+        {
+          "docName": "2024-12-23 - Revisions Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=01294C241223170400065866&folderId=83326C241029125254875539"
+        },
+        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=103F2073-932A-4518-B7BC-236361E759CE&folderId=83326C241029125254875539"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733485869,
+      "lastUpdated": 1735041071,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
