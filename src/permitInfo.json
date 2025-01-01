@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1735645347,
+  "dateRetrieved": 1735731725,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -46373,6 +46373,18 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1735628400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
@@ -46423,10 +46435,26 @@
         {
           "docName": "2024-11-12 - Plans_Revised_Kipling.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3FC85DCD-BF16-4A12-A76B-C21939BD25FF&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-12-31 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D5752C54-29EC-4F3A-AB32-3932883CE4E1&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-12-31 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=51D3C28A-BA1D-4D7C-A92C-E63784E52674&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-12-31 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D9A6E00D-C1BD-45AC-BB8D-78722F024BD6&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-12-31 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53C5DC23-4BB4-427C-9BDD-B672808365D8&folderId=71763C221107134252793704"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732621824,
+      "lastUpdated": 1735732269,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -84674,6 +84702,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1734678000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -84763,7 +84797,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734781844,
+      "lastUpdated": 1735732269,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -87211,20 +87245,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2ECBC657-43CC-4D23-920B-C68B43E807A4&folderId=83326C241029125254875539"
         },
         {
-          "docName": "2024-12-23 - Plans_Revisions_Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=01294C241223170359980760&folderId=83326C241029125254875539"
-        },
-        {
-          "docName": "2024-12-23 - Revisions Letter.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=01294C241223170400065866&folderId=83326C241029125254875539"
-        },
-        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=103F2073-932A-4518-B7BC-236361E759CE&folderId=83326C241029125254875539"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735127501,
+      "lastUpdated": 1735732269,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
