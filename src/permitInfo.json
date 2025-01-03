@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1735818126,
+  "dateRetrieved": 1735904533,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -23850,8 +23850,13 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1732362731,
-      "relatedPermits": []
+      "lastUpdated": 1735905063,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "TRP21957",
+          "relatedPermitType": "TREE PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "5032 WESLEY RD",
@@ -46441,20 +46446,32 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D5752C54-29EC-4F3A-AB32-3932883CE4E1&folderId=71763C221107134252793704"
         },
         {
-          "docName": "2024-12-31 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=51D3C28A-BA1D-4D7C-A92C-E63784E52674&folderId=71763C221107134252793704"
+          "docName": "2024-12-31 - Plans_Revisions_1400 Fairfield.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6A72EA82-DD30-41E8-A575-E29D794E77CE&folderId=71763C221107134252793704"
         },
         {
-          "docName": "2024-12-31 - Plans_Revisions_Bubbled.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D9A6E00D-C1BD-45AC-BB8D-78722F024BD6&folderId=71763C221107134252793704"
+          "docName": "2024-12-31 - Plans_Revisions_349 Kipling.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=02476C250102084100115516&folderId=71763C221107134252793704"
         },
         {
-          "docName": "2024-12-31 - Revisions List.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53C5DC23-4BB4-427C-9BDD-B672808365D8&folderId=71763C221107134252793704"
+          "docName": "2024-12-31 - Plans_Revisions_Bubbled_1400 Fairfield.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2BD87396-9FE7-40E2-9B51-119F4597B1A3&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-12-31 - Plans_Revisions_Bubbled_349 Kipling.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=02423C250102081816928555&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-12-31 - Revisions List_1400 Fairfeld.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9413B902-FDC5-4832-83D0-02005C2804ED&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2024-12-31 - Revisions List_349 Kipling.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4E21E713-A76A-400D-A64B-854BD304ECAC&folderId=71763C221107134252793704"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735732269,
+      "lastUpdated": 1735905063,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -48335,6 +48352,12 @@
           "endDate": 1695279600
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1695279600,
+          "endDate": 1697439600
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1697698800,
@@ -48363,12 +48386,6 @@
           "taskType": "Received Revised Plans",
           "startDate": 1733986800,
           "endDate": 1733986800
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1695279600,
-          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
@@ -48420,7 +48437,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734436280,
+      "lastUpdated": 1735905063,
       "relatedPermits": []
     },
     {
@@ -48728,6 +48745,12 @@
           "endDate": 1700636400
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1700636400,
+          "endDate": 1702364400
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1702882800,
@@ -48762,12 +48785,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1725606000,
           "endDate": 1731999600
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1700636400,
-          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -48825,7 +48842,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734609072,
+      "lastUpdated": 1735905063,
       "relatedPermits": []
     },
     {
@@ -87475,18 +87492,18 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1732777200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1735801200
         },
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "startDate": 1735801200,
+          "endDate": 1735801200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1735801200,
           "endDate": null
         },
         {
@@ -87525,7 +87542,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734177055,
+      "lastUpdated": 1735905063,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00284",
