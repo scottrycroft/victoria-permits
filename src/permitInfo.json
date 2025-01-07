@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1736163741,
+  "dateRetrieved": 1736250124,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2381,7 +2381,7 @@
         "1934 HOVEY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This project consists of two purpose built rental buildings. Building 1 is the west side and has 133 homes ranging from studios to 3-bedroom units. Building 2, managed by Legion Manor Victoria, has 64 affordable 1-bedroom units for seniors. Building 1 has underground parking, while Building 2 has a surface parking lot. MOTION TO GIVE 1ST READING OCP AMENDMENT BYLAW - FAILED AT COUNCIL",
+      "purpose": "This project consists of two purpose built rental buildings. Building 1 is the west side and has 133 homes ranging from studios to 3-bedroom units. Building 2, managed by Legion Manor Victoria, has 64 affordable 1-bedroom units for seniors. Building 1 has underground parking, while Building 2 has a surface parking lot.",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -2495,7 +2495,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1734781844,
+      "lastUpdated": 1736250666,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -21322,11 +21322,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1732777200,
           "endDate": 1732777200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1733122800,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1734781844,
+      "lastUpdated": 1736250666,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -30641,7 +30647,7 @@
         "2522 EMPIRE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City. Please note: a CALUC meeting will be scheduled once mail service resumes.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
       "progressSections": [],
       "documents": [
         {
@@ -30658,7 +30664,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732967466,
+      "lastUpdated": 1736250666,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00434",
@@ -46339,7 +46345,7 @@
         "351 KIPLING ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to construct 2 three-storey corner townhouses, consisting of 7 and 8 units respectively.",
+      "purpose": "The City is considering a Development Permit with Variance application to construct 2 three-storey corner townhouses (each on their own lot), consisting of 7 and 8 units respectively.",
       "progressSections": [
         {
           "taskDescription": "City receives updated plans from the applicant",
@@ -46366,6 +46372,12 @@
           "endDate": 1731394800
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1735628400,
+          "endDate": 1735628400
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1719212400,
@@ -46378,15 +46390,9 @@
           "endDate": null
         },
         {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1735628400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1736146800,
           "endDate": null
         },
         {
@@ -46471,7 +46477,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735905063,
+      "lastUpdated": 1736250666,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -87395,7 +87401,7 @@
     },
     {
       "primaryStreetName": "1110 CALEDONIA AVE",
-      "applicant": "N/A",
+      "applicant": "YURIY VYSHNEVSKYY",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00884",
@@ -87456,7 +87462,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734609072,
+      "lastUpdated": 1736250666,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
