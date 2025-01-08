@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1736250124,
+  "dateRetrieved": 1736336506,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4494,10 +4494,18 @@
         {
           "docName": "7865 East Saanich_Architectural renderings WEB_Dec 20 24.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=33703C241224132324261113&folderId=33703C241224124145220589"
+        },
+        {
+          "docName": "7865 East Saanich_Architectural WEB_Dec 20 24.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107142131339502&folderId=33703C241224124145220589"
+        },
+        {
+          "docName": "7865 East Saanich_Letter of rationale WEB_Dec 20 24.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107142355221642&folderId=33703C241224124145220589"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1735023600,
+      "lastUpdated": 1736337048,
       "relatedPermits": []
     },
     {
@@ -4552,12 +4560,24 @@
       ],
       "documents": [
         {
+          "docName": "7185 West Saanich_Architectural WEB_Dec 24, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=33703C241224140211282142&folderId=33703C241224132957277183"
+        },
+        {
+          "docName": "7185 West Saanich_Civil WEB_Dec 24, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107141805409502&folderId=33703C241224132957277183"
+        },
+        {
           "docName": "7185 West Saanich_Landscape WEB_Dec 24, 2024.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=33703C241224140211299642&folderId=33703C241224132957277183"
+        },
+        {
+          "docName": "7185 West Saanich_Letter of rationale WEB_Dec 24, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107141805425459&folderId=33703C241224132957277183"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1735023600,
+      "lastUpdated": 1736337048,
       "relatedPermits": []
     },
     {
@@ -20913,6 +20933,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1725865200,
+          "endDate": 1736233200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1736233200,
           "endDate": null
         }
       ],
@@ -20931,7 +20957,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1736337048,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -35526,6 +35552,49 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1732777200,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "680 MONTREAL ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000650",
+      "applicationDate": 1736233200,
+      "addresses": [
+        "680 MONTREAL ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application to build two new pergolas.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1736233200,
       "relatedPermits": []
     },
     {
