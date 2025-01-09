@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1736336506,
+  "dateRetrieved": 1736422922,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4300,9 +4300,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2070 Keating Cross_Letter of rationale WEB_Dec 4, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250108111231578424&folderId=32692C241204113805215814"
+        },
+        {
+          "docName": "2070 Keating Cross_survey WEB_Dec 4, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250108111231583526&folderId=32692C241204113805215814"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1733900400,
+      "lastUpdated": 1736423468,
       "relatedPermits": []
     },
     {
@@ -4355,9 +4364,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "1981 Stelly's X Rd_Plans WEB_Dec 17, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=33454C241217152313957861&folderId=32943C241217143645504172"
+        },
+        {
+          "docName": "1981 Stelly's X Rd_Survey WEB_Dec 17, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=33454C241217152313980735&folderId=32943C241217143645504172"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1734418800,
+      "lastUpdated": 1736423468,
       "relatedPermits": []
     },
     {
@@ -4423,9 +4441,26 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "7012 East Saanich_Architectural plans WEB_Dec 17, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=33703C241224084943372106&folderId=33703C241223094844255597"
+        },
+        {
+          "docName": "7012 East Saanich_Letter of rationale WEB_Dec 17, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250108101634744521&folderId=33703C241223094844255597"
+        },
+        {
+          "docName": "7012 East Saanich_Survey WEB_Dec 17, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250108101924959364&folderId=33703C241223094844255597"
+        },
+        {
+          "docName": "7102 East Saanich_Landscape plan WEB_Dec 17, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250108101924968274&folderId=33703C241223094844255597"
+        }
+      ],
       "city": "Central Saanich",
-      "lastUpdated": 1734937200,
+      "lastUpdated": 1736423468,
       "relatedPermits": []
     },
     {
@@ -12020,6 +12055,76 @@
       ]
     },
     {
+      "primaryStreetName": "960 FOUL BAY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000056",
+      "applicationDate": 1736319600,
+      "addresses": [
+        "960 FOUL BAY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1736319600,
+          "endDate": 1736319600
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1736319600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "OCP00010",
+          "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT"
+        },
+        {
+          "relatedPermitID": "HRA00016",
+          "relatedPermitType": "HERITAGE REVITALIZATION AGRMNT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -14265,14 +14370,8 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1736319600,
+          "endDate": 1736319600
         },
         {
           "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
@@ -14283,6 +14382,12 @@
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
           "endDate": null
         },
@@ -14300,7 +14405,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1733918580,
+      "lastUpdated": 1736423468,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000052",
@@ -14560,6 +14665,73 @@
       "documents": [],
       "city": "Oak Bay",
       "lastUpdated": 1735041071,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3223 HENDERSON RD",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00057",
+      "applicationDate": 1736319600,
+      "addresses": [
+        "3223 HENDERSON RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1736319600,
+          "endDate": 1736319600
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1736319600,
       "relatedPermits": []
     },
     {
@@ -20130,7 +20302,7 @@
         "3986 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS- 6 TO RA-11 TO CONSTRUCT A 6STOREY APARTMENT BUILDING CONTAINING 78 UNITS WITH 1 LEVEL UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM RS- 6 TO RA-11 TO CONSTRUCT A 6 STOREY APARTMENT BUILDING CONTAINING 78 UNITS WITH 1 LEVEL UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -20177,7 +20349,7 @@
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
-          "startDate": 1732258800,
+          "startDate": 1736233200,
           "endDate": null
         }
       ],
@@ -20196,7 +20368,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1732362731,
+      "lastUpdated": 1736423468,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -35560,7 +35732,7 @@
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000650",
-      "applicationDate": 1736233200,
+      "applicationDate": 1736319600,
       "addresses": [
         "680 MONTREAL ST"
       ],
@@ -35570,7 +35742,7 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
+          "startDate": 1736319600,
           "endDate": null
         },
         {
@@ -35592,9 +35764,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2025-01-07 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B1D123BD-D754-46C0-A45A-0B1B31A46FD5&folderId=03828C250107114206384841"
+        },
+        {
+          "docName": "2025-01-07 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AE857604-F0D4-4A9A-88F0-1934A5F2D6D1&folderId=03828C250107114206384841"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1736233200,
+      "lastUpdated": 1736423468,
       "relatedPermits": []
     },
     {
