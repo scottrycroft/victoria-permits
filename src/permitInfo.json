@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1736422922,
+  "dateRetrieved": 1736595730,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4189,7 +4189,7 @@
         "1117 GREIG AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "Request to make TUP camping site to permanent use",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -4247,7 +4247,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1733918580,
+      "lastUpdated": 1736596280,
       "relatedPermits": []
     },
     {
@@ -4461,6 +4461,78 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1736423468,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "7054 BRENTWOOD DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001702",
+      "applicationDate": 1734937200,
+      "addresses": [
+        "7054 BRENTWOOD DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Proposed 5 unit travel accommodation development",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1734937200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "7054 Brentwood_Arch Drawings WEB_Dec 18, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107145638386355&folderId=33703C241223153215798093"
+        },
+        {
+          "docName": "7054 Brentwood_Civil Drawings WEB_Dec 18, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107154652852838&folderId=33703C241223153215798093"
+        },
+        {
+          "docName": "7054 Brentwood_Landscape plans WEB_Dec 18, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107154652862811&folderId=33703C241223153215798093"
+        },
+        {
+          "docName": "7054 Brentwood_Letter of rationale WEB_Dec 18, 2024.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107154652871787&folderId=33703C241223153215798093"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1734937200,
       "relatedPermits": []
     },
     {
@@ -20349,7 +20421,7 @@
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
-          "startDate": 1736233200,
+          "startDate": 1732258800,
           "endDate": null
         }
       ],
@@ -20368,7 +20440,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1736423468,
+      "lastUpdated": 1736596280,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -21657,6 +21729,113 @@
         {
           "relatedPermitID": "REZ00781",
           "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3468 TILLICUM RD",
+      "applicant": "MAXCELLENT GROUP",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01079",
+      "applicationDate": 1736406000,
+      "addresses": [
+        "3468 TILLICUM RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM C-3 (SHOPPING CENTRE) TO A MIXED-USE ZONE TO CONSTRUCT AN 18 STOREY RESIDENTIAL BUILDING WITH COMMERCIAL UNITS AT GRADE AND UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1736406000,
+          "endDate": 1736406000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1736406000,
+          "endDate": 1736492400
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1736492400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00782",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "535 DUPPLIN RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01080",
+      "applicationDate": 1736406000,
+      "addresses": [
+        "535 DUPPLIN RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1736406000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3216 SHELBOURNE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01081",
+      "applicationDate": 1736406000,
+      "addresses": [
+        "3216 SHELBOURNE ST",
+        "3220 SHELBOURNE ST",
+        "3224 SHELBOURNE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1736406000,
+          "endDate": 1736406000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1736406000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00783",
+          "relatedPermitType": "REZONING"
+        },
+        {
+          "relatedPermitID": "TRP21064",
+          "relatedPermitType": "TREE PERMIT"
+        },
+        {
+          "relatedPermitID": "BLD20545",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
         }
       ]
     },
@@ -24090,8 +24269,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1734522673,
+      "lastUpdated": 1736596280,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD21094",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        },
         {
           "relatedPermitID": "TRP21934",
           "relatedPermitType": "TREE PERMIT"
@@ -24250,6 +24433,88 @@
         {
           "relatedPermitID": "DPR01078",
           "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3468 TILLICUM RD",
+      "applicant": "MAXCELLENT GROUP",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00782",
+      "applicationDate": 1736406000,
+      "addresses": [
+        "3468 TILLICUM RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM C-3 (SHOPPING CENTRE) TO A MIXED-USE ZONE TO CONSTRUCT AN 18 STOREY RESIDENTIAL BUILDING WITH COMMERCIAL UNITS AT GRADE AND UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1736406000,
+          "endDate": 1736406000
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1736492400,
+          "endDate": 1736492400
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1736492400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01079",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3216 SHELBOURNE ST",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00783",
+      "applicationDate": 1736406000,
+      "addresses": [
+        "3216 SHELBOURNE ST",
+        "3220 SHELBOURNE ST",
+        "3224 SHELBOURNE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1736406000,
+          "endDate": 1736406000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1736406000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01081",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        },
+        {
+          "relatedPermitID": "TRP21064",
+          "relatedPermitType": "TREE PERMIT"
+        },
+        {
+          "relatedPermitID": "BLD20545",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
         }
       ]
     },
@@ -67095,12 +67360,6 @@
           "endDate": 1572937200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1572937200,
-          "endDate": 1575010800
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1575010800,
@@ -67147,6 +67406,12 @@
           "taskType": "With Applicant",
           "startDate": 1688022000,
           "endDate": 1735023600
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1572937200,
+          "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
@@ -67236,7 +67501,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735386662,
+      "lastUpdated": 1736596280,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000568",
@@ -80922,6 +81187,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -81001,7 +81272,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733572295,
+      "lastUpdated": 1736596280,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
