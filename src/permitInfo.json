@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1736768543,
+  "dateRetrieved": 1736854938,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21743,7 +21743,7 @@
         "3468 TILLICUM RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM C-3 (SHOPPING CENTRE) TO A MIXED-USE ZONE TO CONSTRUCT AN 18 STOREY RESIDENTIAL BUILDING WITH COMMERCIAL UNITS AT GRADE AND UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM C-3 (SHOPPING CENTRE) TO A MIXED-USE ZONE TO CONSTRUCT A 407 UNIT, 18 STOREY RESIDENTIAL BUILDING WITH COMMERCIAL UNITS AT GRADE AND UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21756,11 +21756,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1736406000,
           "endDate": 1736492400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1736751600,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1736492400,
+      "lastUpdated": 1736855491,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
@@ -24269,8 +24275,20 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1736596280,
+      "lastUpdated": 1736855491,
       "relatedPermits": [
+        {
+          "relatedPermitID": "PLM25829",
+          "relatedPermitType": "PLUMBING PERMIT"
+        },
+        {
+          "relatedPermitID": "PLM25827",
+          "relatedPermitType": "PLUMBING PERMIT"
+        },
+        {
+          "relatedPermitID": "BLD21095",
+          "relatedPermitType": "RESIDENTIAL PERMIT"
+        },
         {
           "relatedPermitID": "BLD21094",
           "relatedPermitType": "RESIDENTIAL PERMIT"
@@ -24447,7 +24465,7 @@
         "3468 TILLICUM RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM C-3 (SHOPPING CENTRE) TO A MIXED-USE ZONE TO CONSTRUCT AN 18 STOREY RESIDENTIAL BUILDING WITH COMMERCIAL UNITS AT GRADE AND UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM C-3 (SHOPPING CENTRE) TO A MIXED-USE ZONE TO CONSTRUCT A 407 UNITS, 18 STOREY RESIDENTIAL BUILDING WITH COMMERCIAL UNITS AT GRADE AND UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -24464,7 +24482,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1736492400,
+      "lastUpdated": 1736855491,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01079",
@@ -31165,6 +31183,34 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "1545 BAY ST",
+      "applicant": "COLIN HARPER",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00467",
+      "applicationDate": 1736751600,
+      "addresses": [
+        "1545 BAY ST",
+        "1551 BAY ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2025-01-13 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=20053D6E-AA84-461F-899A-7189EF6DFC64&folderId=05813C250113120046251279"
+        },
+        {
+          "docName": "2025-01-13 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F356EFED-36A9-4C22-B503-A823A1D47001&folderId=05813C250113120046251279"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1736751600,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "2 PAUL KANE PL",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMITS",
@@ -35993,7 +36039,7 @@
     },
     {
       "primaryStreetName": "680 MONTREAL ST",
-      "applicant": "N/A",
+      "applicant": "NAVID SARIOLGHALAM",
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000650",
@@ -36008,12 +36054,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1736319600,
-          "endDate": null
+          "endDate": 1736319600
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1736751600,
           "endDate": null
         },
         {
@@ -36040,7 +36086,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1736423468,
+      "lastUpdated": 1736855491,
       "relatedPermits": []
     },
     {
@@ -81189,7 +81235,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1736751600,
           "endDate": null
         },
         {
@@ -81272,7 +81318,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1736596280,
+      "lastUpdated": 1736855491,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
