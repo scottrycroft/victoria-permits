@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1736854938,
+  "dateRetrieved": 1736956585,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14683,7 +14683,7 @@
         "2757 DUFFERIN AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment.",
+      "purpose": "This is an application for a zoning bylaw amendment to rezone the subject property from Residential (R-4) to Residential (R-5) and to reduce the minimum lot width from 15.25m to 15.24m in order to create a two lot subdivision.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -14736,7 +14736,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1735041071,
+      "lastUpdated": 1736957125,
       "relatedPermits": []
     },
     {
@@ -21776,7 +21776,7 @@
     },
     {
       "primaryStreetName": "535 DUPPLIN RD",
-      "applicant": "N/A",
+      "applicant": "ANNIE M CHARBONNEAU",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01080",
@@ -21785,18 +21785,37 @@
         "535 DUPPLIN RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO CONSTRUCT A NEW MIXED USE BUILDING VARIANCES REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1736406000,
+          "endDate": 1736838000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1736838000,
+          "endDate": 1736838000
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_JAN 9 2025.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=25E50018-6DC1-4721-B3A1-FCB6080E995A&folderId=99861C250109120623968625"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_JAN 9 2025.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=12A1C7F9-3315-4957-A203-6EB9D1395C37&folderId=99861C250109120623968625"
+        },
+        {
+          "docName": "SITE PLAN_JAN 9 2025_nfp.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=02285C250114155701508210&folderId=99861C250109120623968625"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1736406000,
+      "lastUpdated": 1736957125,
       "relatedPermits": []
     },
     {
@@ -79509,6 +79528,12 @@
           "endDate": 1718348400
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
@@ -79523,12 +79548,6 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         },
@@ -79642,7 +79661,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731066610,
+      "lastUpdated": 1736957125,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00251",
@@ -88000,6 +88019,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -88029,7 +88054,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1736250666,
+      "lastUpdated": 1736957125,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
