@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1736956585,
+  "dateRetrieved": 1737037544,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21597,12 +21597,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1733122800,
+          "endDate": 1736924400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1736924400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1736250666,
+      "lastUpdated": 1737038087,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -21764,9 +21770,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_JAN 9, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=30ED4E99-4793-4BE8-B924-CCB3273E9720&folderId=00324C250109092607160441"
+        },
+        {
+          "docName": "LANDSCAPE_JAN 9, 2025_nfp.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=02395C250115082241042483&folderId=00324C250109092607160441"
+        },
+        {
+          "docName": "SITE_JAN 9, 2025_nfp.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=02328C250114162932926308&folderId=00324C250109092607160441"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1736855491,
+      "lastUpdated": 1737038087,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00782",
