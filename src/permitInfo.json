@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1737125971,
+  "dateRetrieved": 1737200584,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21768,7 +21768,7 @@
         "535 DUPPLIN RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO CONSTRUCT A NEW MIXED USE BUILDING VARIANCES REQUESTED",
+      "purpose": "TO CONSTRUCT A NEW MIXED USE BUILDING (INDUSTRIAL +1 ACCESSORY RESIDENTIAL UNIT) VARIANCES REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21798,7 +21798,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1736957125,
+      "lastUpdated": 1737201135,
       "relatedPermits": []
     },
     {
@@ -24275,8 +24275,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1736855491,
+      "lastUpdated": 1737201135,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP21989",
+          "relatedPermitType": "TREE PERMIT"
+        },
         {
           "relatedPermitID": "PLM25829",
           "relatedPermitType": "PLUMBING PERMIT"
@@ -87080,8 +87084,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1729753200,
+          "endDate": 1729753200
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -87143,7 +87147,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735991518,
+      "lastUpdated": 1737201135,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
@@ -87437,11 +87441,23 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1732690800,
+          "endDate": 1736492400
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1736492400,
           "endDate": null
         },
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -87479,7 +87495,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735991518,
+      "lastUpdated": 1737201135,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00285",
@@ -87547,7 +87563,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1737097200,
           "endDate": null
         },
         {
@@ -87604,7 +87620,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1737126514,
+      "lastUpdated": 1737201135,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
@@ -87915,6 +87931,12 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1733382000,
+          "endDate": 1733382000
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         },
@@ -87933,12 +87955,6 @@
         {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
           "endDate": null
         },
@@ -87972,7 +87988,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735991518,
+      "lastUpdated": 1737201135,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00262",
