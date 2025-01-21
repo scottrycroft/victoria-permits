@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1737373383,
+  "dateRetrieved": 1737459768,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14658,8 +14658,8 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1737356400,
+          "endDate": 1737356400
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
@@ -14686,6 +14686,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
           "startDate": null,
@@ -14700,7 +14706,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1736957125,
+      "lastUpdated": 1737460320,
       "relatedPermits": []
     },
     {
@@ -20945,9 +20951,21 @@
           "endDate": 1733468400
         },
         {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1737097200,
+          "endDate": 1737356400
+        },
+        {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1733468400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1737356400,
           "endDate": null
         }
       ],
@@ -20966,7 +20984,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1733572295,
+      "lastUpdated": 1737460320,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -24537,6 +24555,31 @@
           "relatedPermitType": "RESIDENTIAL PERMIT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "3950 CAREY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00784",
+      "applicationDate": 1737356400,
+      "addresses": [
+        "3950 CAREY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1737356400,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2257 Harbour Road",
@@ -31197,6 +31240,39 @@
       "city": "Victoria",
       "lastUpdated": 1735127501,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "600 DALLAS RD",
+      "applicant": "MICHAEL MOODY",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00464",
+      "applicationDate": 1737356400,
+      "addresses": [
+        "600 DALLAS RD",
+        "602 DALLAS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2024-12-18 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00704C241220095657646998&folderId=00406C241219115527739783"
+        },
+        {
+          "docName": "2024-12-18 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00406C241219120324965386&folderId=00406C241219115527739783"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1737356400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00438",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
     },
     {
       "primaryStreetName": "1545 BAY ST",
@@ -50636,15 +50712,15 @@
           "endDate": 1734073200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1727161200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1734332400,
+          "endDate": 1737356400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1727161200,
           "endDate": null
         },
         {
@@ -50687,7 +50763,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734436280,
+      "lastUpdated": 1737460320,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP00972",
@@ -77423,7 +77499,7 @@
         "2010 STORE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit an increase in density and a number of land uses including: residential, retail, commercial, arts and cultural facilities, high-tech, office, assembly, studio, small-scale commercial agriculture, parks and open space. A concurrent Official Community Plan (OCP) Amendment is required to increase density, increase building heights and for the location of residential uses.",
+      "purpose": "The City is considering a Rezoning application to permit an increase in density and a number of land uses including: residential, retail, commercial, arts and cultural facilities, high-tech, office, assembly, studio, small-scale commercial agriculture, parks and open space. A concurrent Official Community Plan (OCP) Amendment is required to increase density, increase building heights and for the location of residential uses.\nVoice your opinion and ask questions here. Your submission will be provided to City staff and Council for consideration.\n",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -77679,7 +77755,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732621824,
+      "lastUpdated": 1737460320,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -85830,8 +85906,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1729148400,
+          "endDate": 1737356400
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -85889,7 +85965,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1727952624,
+      "lastUpdated": 1737460320,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
@@ -88034,15 +88110,21 @@
           "endDate": 1733382000
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1734073200,
+          "endDate": 1736838000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1733986800,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1736751600,
           "endDate": null
         },
         {
@@ -88081,7 +88163,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1736957125,
+      "lastUpdated": 1737460320,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
