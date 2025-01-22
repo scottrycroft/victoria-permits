@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1737459768,
+  "dateRetrieved": 1737546239,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19820,12 +19820,6 @@
           "endDate": 1734678000
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": 1733986800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1734591600,
@@ -19851,7 +19845,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1734781844,
+      "lastUpdated": 1737546785,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -21588,9 +21582,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATION PLANS_NOV 25 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3113DA1B-A7BB-4050-AA51-2DD0548B23A2&folderId=87557C241127094156028860"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_NOV 25 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AE8003DC-2095-4FC9-8DEA-31D019C8D9C0&folderId=87557C241127094156028860"
+        },
+        {
+          "docName": "SITE PLAN_PROJECT DATA_NOV 25 2024",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=62E4BAC1-AE9A-41A2-9711-A9B32D2205E4&folderId=87557C241127094156028860"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1737038087,
+      "lastUpdated": 1737546785,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -21862,6 +21869,38 @@
           "relatedPermitType": "RESIDENTIAL PERMIT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "957 BURNSIDE RD W",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01082",
+      "applicationDate": 1737442800,
+      "addresses": [
+        "957 BURNSIDE RD W",
+        "3751 GRANGE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1737442800,
+          "endDate": 1737442800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1737442800,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1737442800,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
@@ -24558,7 +24597,7 @@
     },
     {
       "primaryStreetName": "3950 CAREY RD",
-      "applicant": "N/A",
+      "applicant": "3950 CAREY ROAD DEVELOPMENTS",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00784",
@@ -24567,18 +24606,24 @@
         "3950 CAREY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM M-5 ZONE TO A MIXED USE ZONE FOR A TWO STOREY BUILDING WITH A FOOD MANUFACTURING SPACE AT GRADE AND 9 RESIDENTIAL UNITS ABOVE FOR EXISTING BUILDING TO ALIGN WITH THE ZONING BYLAW",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1737356400,
+          "endDate": 1737356400
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1737356400,
+          "endDate": 1737356400
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1737356400,
+      "lastUpdated": 1737546785,
       "relatedPermits": []
     },
     {
@@ -76081,6 +76126,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -76147,6 +76198,14 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6267A850-74A1-43CD-ADB7-997AEECBC12C&folderId=26085C210521111758372003"
         },
         {
+          "docName": "2025-01-21 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7BFCA4B6-BFDD-4911-AFE3-841EECB1BA6D&folderId=26085C210521111758372003"
+        },
+        {
+          "docName": "2025-01-21 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80DF71AC-3443-4785-BA35-40DA5C2D98D5&folderId=26085C210521111758372003"
+        },
+        {
           "docName": "24-03-15 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1B0521CE-7E41-46A2-BB87-25E127DF4088&folderId=26085C210521111758372003"
         },
@@ -76168,7 +76227,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1731153011,
+      "lastUpdated": 1737546785,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
