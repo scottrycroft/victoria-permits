@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1737546239,
+  "dateRetrieved": 1737632556,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18586,7 +18586,13 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1737356400,
+          "endDate": 1737356400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1737442800,
           "endDate": null
         }
       ],
@@ -18609,7 +18615,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1735041071,
+      "lastUpdated": 1737633115,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21762",
@@ -21872,7 +21878,7 @@
     },
     {
       "primaryStreetName": "957 BURNSIDE RD W",
-      "applicant": "N/A",
+      "applicant": "MCELHANNEY LTD.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01082",
@@ -21882,7 +21888,7 @@
         "3751 GRANGE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "STREAMSIDE DP - SPECTRUM SPORT FIELD UPGRADE TO REPLACE AND UPGRADE THE SPORT FIELD INCLUDING THE REPLACEMENT OF THE GRASS FIELD WITH AN ARTIFICIAL TURF SURFACE, ASSOCIATED PATHWAY IMPROVEMENTS AND A FUTURE CLUBHOUSE SITE.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21894,12 +21900,27 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1737442800,
+          "endDate": 1737529200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1737529200,
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_JAN 21, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1D3192F7-E880-4016-A42D-11AB4F9A927E&folderId=04442C250121102250658930"
+        },
+        {
+          "docName": "SITE_JAN 21, 2025-reduced.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=05341C250122155249236027&folderId=04442C250121102250658930"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1737442800,
+      "lastUpdated": 1737633115,
       "relatedPermits": []
     },
     {
@@ -24606,7 +24627,7 @@
         "3950 CAREY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM M-5 ZONE TO A MIXED USE ZONE FOR A TWO STOREY BUILDING WITH A FOOD MANUFACTURING SPACE AT GRADE AND 9 RESIDENTIAL UNITS ABOVE FOR EXISTING BUILDING TO ALIGN WITH THE ZONING BYLAW",
+      "purpose": "TO REZONE FROM THE M-5 ZONE TO A MIXED-USE ZONE FOR A TWO STOREY BUILDING (WITH FOOD MANUFACTURING SPACE AT GRADE AND 9 RESIDENTIAL UNITS ABOVE) IN ORDER FOR EXISTING BUILDING TO COMPLY WITH ZONING BYLAW",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -24623,7 +24644,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1737546785,
+      "lastUpdated": 1737633115,
       "relatedPermits": []
     },
     {
@@ -31318,6 +31339,33 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1520 BLANSHARD ST",
+      "applicant": "JUAN PEREIRA",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00466",
+      "applicationDate": 1737529200,
+      "addresses": [
+        "1520 BLANSHARD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=26D5D4EE-137F-4DEC-A3FF-0BB9E398E618&folderId=RIOQrE56T0y9vMGZwMHskg"
+        },
+        {
+          "docName": "Project Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=91EA1D30-92B3-40A4-BABF-D0CDB359F25D&folderId=RIOQrE56T0y9vMGZwMHskg"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1737529200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "1545 BAY ST",
@@ -50805,10 +50853,18 @@
         {
           "docName": "2024-12-13 - Revisions List_Landscape.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F05B86F1-A3FD-4906-8BC3-44D4706111F4&folderId=76683C241008115500227336"
+        },
+        {
+          "docName": "2025-01-22 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=999F750F-EC22-4457-A96A-A8AFC2EA22A7&folderId=76683C241008115500227336"
+        },
+        {
+          "docName": "2025-01-22 - Revisions Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8F244960-3D2D-4018-A7B8-384DA6C0BF1C&folderId=76683C241008115500227336"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1737460320,
+      "lastUpdated": 1737633115,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP00972",
