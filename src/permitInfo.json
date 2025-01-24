@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1737632556,
+  "dateRetrieved": 1737719104,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2619,6 +2619,10 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32692C241202110143673999&folderId=16614C231124123438372925"
         },
         {
+          "docName": "04 - TIA UPDATE - RESUBMISSION 2024.11.13.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=A732E81A-8B6C-459C-9E3C-832E83725D7A&folderId=16614C231124123438372925"
+        },
+        {
           "docName": "20201201 - 33004  - L - 2515 Hackett - Servicing Report - sealed_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240718163836068764&folderId=16614C231124123438372925"
         },
@@ -2656,7 +2660,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1733226685,
+      "lastUpdated": 1737719654,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -2843,33 +2847,27 @@
       "purpose": "Bylaw amendment to allow non-farm use for indoor lounge.",
       "progressSections": [
         {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1725606000,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1736751600,
+          "endDate": 1736751600
         },
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "APC MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1736751600,
+          "endDate": 1736751600
         },
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
+          "startDate": 1736751600,
+          "endDate": 1736751600
+        },
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1725606000,
           "endDate": null
         },
         {
@@ -2902,7 +2900,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1725706231,
+      "lastUpdated": 1737719654,
       "relatedPermits": []
     },
     {
@@ -24640,11 +24638,26 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1737356400,
           "endDate": 1737356400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1737529200,
+          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_JAN 20, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DEEF6D27-2118-445A-A2A4-8338A4B2AC56&folderId=04346C250120145346320046"
+        },
+        {
+          "docName": "SITE_JAN 20, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2821814F-9950-4797-A92B-A0021A47BEEB&folderId=04346C250120145346320046"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1737633115,
+      "lastUpdated": 1737719654,
       "relatedPermits": []
     },
     {
@@ -51170,6 +51183,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1737615600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -51199,7 +51218,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735041071,
+      "lastUpdated": 1737719654,
       "relatedPermits": []
     },
     {
@@ -76184,6 +76203,12 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review.",
           "taskType": "Staff Review of Revised Plans",
+          "startDate": 1737615600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -76283,7 +76308,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1737546785,
+      "lastUpdated": 1737719654,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
