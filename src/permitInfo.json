@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1737719104,
+  "dateRetrieved": 1737805696,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -526,10 +526,26 @@
         {
           "docName": "6922 Saanich X Rd_Revised Plans_Oct 11 2023_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=17311C231221113337301459&folderId=84761C211104140831747327"
+        },
+        {
+          "docName": "6922 Saanich X_Survey WEB_Dec 14 2023.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=35249C250124112809295861&folderId=84761C211104140831747327"
+        },
+        {
+          "docName": "6922 Tree Protection Plan_WEB_Nov 4, 2021.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=35249C250124114806191676&folderId=84761C211104140831747327"
+        },
+        {
+          "docName": "Rationale Letter 6922 Saanich Cross_ WEB_October 3, 2023_Redacted.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=35249C250124114806215611&folderId=84761C211104140831747327"
+        },
+        {
+          "docName": "Site and Grading Plan_WEB_Oct 6 2023.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=35249C250124112809375636&folderId=84761C211104140831747327"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1733918580,
+      "lastUpdated": 1737806245,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -51222,6 +51238,71 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "775 FINLAYSON ST",
+      "applicant": "WILLIAM YANG",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00287",
+      "applicationDate": 1732086000,
+      "addresses": [
+        "775 FINLAYSON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Variance Permit application to vary the number of parking spaces due to a proposed change of use from retail to club.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2024-11-20 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=31308D28-7875-46F0-B14A-1EEA09825F17&folderId=10248C250124115126227414"
+        },
+        {
+          "docName": "2024-12-12 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=222DA321-9FB1-4C25-AAE3-99EAEA724709&folderId=10248C250124115126227414"
+        },
+        {
+          "docName": "Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F97ABEA8-9288-4CF3-B7A6-CC9BF860E75B&folderId=10248C250124115126227414"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1732086000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00291",
+          "relatedPermitType": "Development Variance Permit"
+        },
+        {
+          "relatedPermitID": "DDV00037",
+          "relatedPermitType": "Delegated Development Variance Permit"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "516 DISCOVERY ST",
       "applicant": "N/A",
       "cityApplicationType": "Rezoning Application",
@@ -81547,10 +81628,14 @@
         {
           "docName": "2024-10-08 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8864D068-C666-415B-9C1E-DF3CC1A022E9&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "2025-01-10 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99FDFC1B-7CCE-45AD-9FE3-FC626389116F&folderId=32154C220610154226154683"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1736855491,
+      "lastUpdated": 1737806245,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
