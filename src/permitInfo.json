@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1738150977,
+  "dateRetrieved": 1738237756,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -528,6 +528,10 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=17311C231221113337301459&folderId=84761C211104140831747327"
         },
         {
+          "docName": "6922 Saanich X_Correspondence_WEB_Jan 27, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=35713C250129102326492080&folderId=84761C211104140831747327"
+        },
+        {
           "docName": "6922 Saanich X_Survey WEB_Dec 14 2023.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=35249C250124112809295861&folderId=84761C211104140831747327"
         },
@@ -545,7 +549,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1738151533,
+      "lastUpdated": 1738238312,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -2462,8 +2466,16 @@
       ],
       "documents": [
         {
+          "docName": "1934 Hovey Road_Letter of Rationale_Nov 10 2023_WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=35713C250129100557141795&folderId=16332C231110115426945016"
+        },
+        {
           "docName": "1934 Hovey_Architectural Plans WEB_Jan 14, 2025.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34922C250116114501926235&folderId=16332C231110115426945016"
+        },
+        {
+          "docName": "1934 Hovey_Correspondence WEB_Jan 27, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=4B6DFB0E-7826-459E-84D9-C0C04DDF0ECB&folderId=16332C231110115426945016"
         },
         {
           "docName": "1934 Hovey_Landscape WEB_Jan 14, 2025.pdf",
@@ -2475,7 +2487,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1738065792,
+      "lastUpdated": 1738238312,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -2562,7 +2574,7 @@
         "7840 LOCHSIDE DR"
       ],
       "status": "ACTIVE",
-      "purpose": "Starlight Developments has applied for a rezoning, development permit and subdivision at 7840 Lochside Dr. The proposed development consists of 131-unit, 6-storey wood-frame purpose-built rental building with 1 level of underground parking, 12-units of wood-frame townhomes, a commercial retail unit and an amenity building.",
+      "purpose": "Starlight Developments has applied for a rezoning, development permit and subdivision at 7840 Lochside Dr. The proposed development consists of 131-unit, 6-storey wood-frame purpose-built rental building with 1 level of underground parking, a commercial retail unit and an amenity building.",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -2676,7 +2688,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1737719654,
+      "lastUpdated": 1738238312,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -14678,8 +14690,8 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1738134000,
+          "endDate": 1738134000
         },
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
@@ -14720,7 +14732,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1737460320,
+      "lastUpdated": 1738238312,
       "relatedPermits": []
     },
     {
@@ -30986,8 +30998,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1725447006,
-      "relatedPermits": []
+      "lastUpdated": 1738238312,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00887",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00288",
+          "relatedPermitType": "Development Permit with Variance"
+        }
+      ]
     },
     {
       "primaryStreetName": "235 RUSSELL ST",
@@ -49315,7 +49336,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1734332400,
-          "endDate": null
+          "endDate": 1737529200
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -49361,7 +49382,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1735905063,
+      "lastUpdated": 1738238312,
       "relatedPermits": []
     },
     {
@@ -50740,12 +50761,12 @@
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1737961200,
-          "endDate": null
+          "endDate": 1737961200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1738134000,
           "endDate": null
         },
         {
@@ -50798,7 +50819,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738065792,
+      "lastUpdated": 1738238312,
       "relatedPermits": []
     },
     {
@@ -51452,6 +51473,60 @@
         {
           "relatedPermitID": "DDV00037",
           "relatedPermitType": "Delegated Development Variance Permit"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "824 ALSTON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00288",
+      "applicationDate": 1738134000,
+      "addresses": [
+        "824 ALSTON ST",
+        "210 LANGFORD ST",
+        "220 LANGFORD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application for a 55 Unit Affordable Housing Development. Concurrent with REZ#00887. Refer to rezoning file for all materials.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1738134000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1738134000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00887",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00444",
+          "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
     },
@@ -87178,14 +87253,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1738134000,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review.",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -87247,7 +87322,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738065792,
+      "lastUpdated": 1738238312,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
@@ -88739,6 +88814,81 @@
         },
         {
           "relatedPermitID": "CLC00434",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "824 ALSTON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00887",
+      "applicationDate": 1738134000,
+      "addresses": [
+        "824 ALSTON ST",
+        "210 LANGFORD ST",
+        "220 LANGFORD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application for a 55 Unit Affordable Housing Development. Concurrent with DP#00288. Refer to Rezoning file for all materials.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1738134000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2025-01-29 - Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D0815119-5285-49E4-AD88-7DA2DC08F61B&folderId=11879C250129134221765536"
+        },
+        {
+          "docName": "2025-01-29 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0EE9A8DA-EB8A-4376-B096-FEFF96F6F822&folderId=11879C250129134221765536"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1738134000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00288",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00444",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
