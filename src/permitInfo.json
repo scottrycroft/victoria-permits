@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1738237756,
+  "dateRetrieved": 1738323776,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19855,6 +19855,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1734591600,
+          "endDate": 1738220400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1738220400,
           "endDate": null
         }
       ],
@@ -19877,7 +19883,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1737546785,
+      "lastUpdated": 1738324336,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -21672,6 +21678,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1734418800,
+          "endDate": 1738220400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1738220400,
           "endDate": null
         }
       ],
@@ -21682,7 +21694,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1734522673,
+      "lastUpdated": 1738324336,
       "relatedPermits": []
     },
     {
@@ -24765,6 +24777,40 @@
       ]
     },
     {
+      "primaryStreetName": "4931 LOCHSIDE DR",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00786",
+      "applicationDate": 1738220400,
+      "addresses": [
+        "4931 LOCHSIDE DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1738220400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00966",
+          "relatedPermitType": "SUBDIVISION"
+        },
+        {
+          "relatedPermitID": "DVP00536",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "2257 Harbour Road",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -25228,6 +25274,12 @@
           "taskType": "",
           "startDate": 1737356400,
           "endDate": 1737356400
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -25238,12 +25290,16 @@
         {
           "docName": "January 20, 2025 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/47560/Development%20Variance%20Permit%20Application%20No.%20DVP.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2042-Melville-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1737126547,
+      "lastUpdated": 1738324372,
       "relatedPermits": []
     },
     {
@@ -25564,6 +25620,12 @@
           "taskType": "",
           "startDate": 1737442800,
           "endDate": 1737442800
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -25582,12 +25644,16 @@
         {
           "docName": "January 21, 2025 APC Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/47732#page=4"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/10473-Resthaven-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1737126547,
+      "lastUpdated": 1738324372,
       "relatedPermits": []
     },
     {
@@ -25772,6 +25838,12 @@
           "taskType": "",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "Committee of the Whole Staff Report",
+          "taskType": "",
+          "startDate": 1738566000,
+          "endDate": 1738566000
         }
       ],
       "documents": [
@@ -25784,6 +25856,10 @@
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-Seventh-Street-Plans-Oct-2024.pdf"
         },
         {
+          "docName": "Revised Plans (Jan. 2025)",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9899-Seventh-Street-Revised-Plans-Jan-2025.pdf"
+        },
+        {
           "docName": "October 21, 2024 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/43333/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
         },
@@ -25794,12 +25870,16 @@
         {
           "docName": "Notice of Development Variance Permit Application",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-DV-Notice.pdf"
+        },
+        {
+          "docName": "February 3, 2025 Committee of the Whole Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/47868/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1733485903,
+      "lastUpdated": 1738324372,
       "relatedPermits": []
     },
     {
@@ -51495,12 +51575,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1738134000,
-          "endDate": null
+          "endDate": 1738134000
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1738220400,
           "endDate": null
         },
         {
@@ -51518,7 +51598,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1738134000,
+      "lastUpdated": 1738324336,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00887",
@@ -79232,6 +79312,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -79364,12 +79450,24 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E94BC3A8-FC93-415F-9A89-B95D5AFCEF4E&folderId=86093C211222092200818765"
         },
         {
+          "docName": "2025-01-30 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EAAEF123-87A5-434B-865F-A8491C90D567&folderId=86093C211222092200818765"
+        },
+        {
+          "docName": "2025-01-30 - Plans_Resubmission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=44BB4D3C-EA7B-4FB2-A6F2-CA1CF80BA488&folderId=86093C211222092200818765"
+        },
+        {
+          "docName": "2025-01-30 - Plans_Resubmission_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C1BA5C6F-0AEB-444C-8A42-BDCE5A9D6993&folderId=86093C211222092200818765"
+        },
+        {
           "docName": "23-075.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=51706C230822115745762110&folderId=86093C211222092200818765"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1738324336,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00190",
@@ -83209,7 +83307,7 @@
     },
     {
       "primaryStreetName": "1342 PANDORA AVE",
-      "applicant": "GREGORY MITCHELL",
+      "applicant": "ECHO REN",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00833",
@@ -83369,7 +83467,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1734090660,
+      "lastUpdated": 1738324336,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00256",
@@ -88837,12 +88935,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1738134000,
-          "endDate": null
+          "endDate": 1738134000
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1738220400,
           "endDate": null
         },
         {
@@ -88881,7 +88979,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738134000,
+      "lastUpdated": 1738324336,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00288",
