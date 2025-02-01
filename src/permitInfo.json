@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1738323776,
+  "dateRetrieved": 1738410186,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -12187,6 +12187,67 @@
       ]
     },
     {
+      "primaryStreetName": "1762 BEACH DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000057",
+      "applicationDate": 1738306800,
+      "addresses": [
+        "1762 BEACH DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for an environmental development permit to work within the 30m riparian assessment area of Bowker Creek",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1738306800,
+          "endDate": 1738306800
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1738306800,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -14746,7 +14807,7 @@
         "3223 HENDERSON RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment.",
+      "purpose": "This is an application for a zoning bylaw amendment to create a new residential lot.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -14799,7 +14860,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1736319600,
+      "lastUpdated": 1738410742,
       "relatedPermits": []
     },
     {
@@ -20424,6 +20485,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1732258800,
+          "endDate": 1738306800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1738306800,
           "endDate": null
         }
       ],
@@ -20442,7 +20509,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1736596280,
+      "lastUpdated": 1738410742,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00752",
@@ -21899,12 +21966,18 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1736406000,
-          "endDate": 1737010800
+          "endDate": 1736406000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1736406000,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1737126514,
+      "lastUpdated": 1738410742,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00783",
@@ -24541,6 +24614,12 @@
           "taskType": "REFERRALS",
           "startDate": 1734505200,
           "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -24550,7 +24629,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1734695466,
+      "lastUpdated": 1738410742,
       "relatedPermits": []
     },
     {
@@ -87726,8 +87805,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1738220400,
+          "endDate": 1738220400
         },
         {
           "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -87791,7 +87870,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738065792,
+      "lastUpdated": 1738410742,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00272",
@@ -88581,8 +88660,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1738220400,
+          "endDate": 1738220400
         },
         {
           "taskDescription": "Application is received by the City",
@@ -88632,7 +88711,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1737201135,
+      "lastUpdated": 1738410742,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00262",
@@ -88864,7 +88943,7 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
+          "startDate": 1738306800,
           "endDate": null
         },
         {
@@ -88900,7 +88979,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1737961200,
+      "lastUpdated": 1738410742,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000651",
