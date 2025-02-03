@@ -233,6 +233,14 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 	});
 }
 
+async function clickedDoc(document: DocumentsEntity) {
+	console.log(`Clicked document url: ${document.docURL}`);
+	await db.clickedDocs.put({
+		docName: document.docName,
+		docURL: document.docURL
+	});
+}
+
 const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
@@ -923,6 +931,9 @@ function rowClass(permit: PermitsEntity) {
 								target="_blank"
 								class="documentLink"
 								:class="versionDiffDocumentClass(index, permit, previousPermit)"
+								@click.left="clickedDoc(document)"
+								@click.right="clickedDoc(document)"
+								@click.middle="clickedDoc(document)"
 								>{{ document.docName }}</a
 							>
 						</div>

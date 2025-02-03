@@ -12,9 +12,10 @@ export class PermitsDB extends Dexie {
 
 	constructor() {
 		super("permits");
-		this.version(6).stores({
+		this.version(7).stores({
 			lastSeenPermits: "++id, [city+folderNumber], [dbVersion+city+folderNumber]", // Primary key and indexed props
-			todaysViewedPermits: "[city+folderNumber], lastViewedDate"
+			todaysViewedPermits: "[city+folderNumber], lastViewedDate",
+			clickedDocs: "[docName+docURL]"
 		});
 	}
 }
