@@ -50,6 +50,9 @@ const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
 const permitsViewedTodaySet = reactive(new Set<string>());
 initPermitsViewedToday(permitsViewedTodaySet);
 
+const viewedDocs = reactive(new Map<string, boolean>());
+initViewedDocs(viewedDocs);
+
 const applicationTypes = ref(getApplicationTypes(permitsList));
 
 function cloneObj<T>(obj: T): T {
@@ -65,6 +68,13 @@ function getFormattedDate(date: Date|number): string {
 		date = date*1000;
 	}
 	return (new Date(date)).toLocaleDateString("en-ca");
+}
+
+async function initViewedDocs(viewedDocs:Map<string>) {
+	// TODO implement
+	if(viewedDocs) {
+		return;
+	}
 }
 
 async function initPermitsViewedToday(permitsViewedTodaySet:Set<string>) {
@@ -234,11 +244,12 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 }
 
 async function clickedDoc(document: DocumentsEntity) {
-	console.log(`Clicked document url: ${document.docURL}`);
 	await db.clickedDocs.put({
 		docName: document.docName,
 		docURL: document.docURL
 	});
+	const mapKey = getViewedDocMapKey(document);
+	viewedDocs.set(mapKey, true);
 }
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
@@ -478,6 +489,25 @@ function versionDiffClass(
 	previousPermit: PermitsEntityDB
 ): Array<String | null> {
 	return [permit[property] !== previousPermit[property] ? "permitDataChanged" : null];
+}
+
+function documentLinkClass(
+	document: DocumentsEntity,
+	index: number,
+	permit: PermitsEntityDB,
+	previousPermit: PermitsEntityDB
+): Array<String | null> {
+	const docLinkClasses = versionDiffDocumentClass(index, permit, previousPermit);
+	const viewedDocMapKey = getViewedDocMapKey(document);
+	const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
+	if(hasViewedDoc) {
+		docLinkClasses.push("viewedDoc");
+	}
+	return docLinkClasses;
+}
+
+function getViewedDocMapKey(document: DocumentsEntity) {
+	return document.docName + "|" + document.docURL;
 }
 
 function versionDiffDocumentClass(
@@ -930,7 +960,7 @@ function rowClass(permit: PermitsEntity) {
 								:href="document.docURL"
 								target="_blank"
 								class="documentLink"
-								:class="versionDiffDocumentClass(index, permit, previousPermit)"
+								:class="documentLinkClass(document, index, permit, previousPermit)"
 								@click.left="clickedDoc(document)"
 								@click.right="clickedDoc(document)"
 								@click.middle="clickedDoc(document)"
