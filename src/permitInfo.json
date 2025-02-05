@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1738669400,
+  "dateRetrieved": 1738769442,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2639,10 +2639,6 @@
       ],
       "documents": [
         {
-          "docName": "01 - ARCHITECTURAL - RESUBMISSION 2024.11.20 WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32692C241202110143662032&folderId=16614C231124123438372925"
-        },
-        {
           "docName": "02 - LANDSCAPE - RESUBMISSION 2024.11.08 WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32692C241202110143673999&folderId=16614C231124123438372925"
         },
@@ -2659,28 +2655,16 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240718163552475520&folderId=16614C231124123438372925"
         },
         {
-          "docName": "7840 Lochside Dr_Architectural Plans Resubmission_July 5 2024_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240717120254579414&folderId=16614C231124123438372925"
-        },
-        {
-          "docName": "7840 Lochside Dr_Architectural Plans_Nov 23 2023_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=16614C231124140806164023&folderId=16614C231124123438372925"
-        },
-        {
           "docName": "7840 Lochside Drive Parking Study_2024-07-09 (Rev-3)_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240718163641751761&folderId=16614C231124123438372925"
         },
         {
-          "docName": "7840 Lochside_Landscaping_July 5 2024_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240717124816144293&folderId=16614C231124123438372925"
+          "docName": "7840 Lochside_Architectural Resubmission_Jan 31, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=8AF7CBE3-CDB2-41D4-AF7B-03A83321CCEF&folderId=16614C231124123438372925"
         },
         {
           "docName": "7840 Lochside_Traffice Assessment_April 30 2024.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=24312C240508155203290492&folderId=16614C231124123438372925"
-        },
-        {
-          "docName": "July 9 2024 - 7840 Lochside Infill - Resubmission Letter to Mayor and Council_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240718163440778619&folderId=16614C231124123438372925"
         },
         {
           "docName": "November 18 2024 - 7840 Lochside Resubmission Letter.pdf",
@@ -2688,7 +2672,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1738238312,
+      "lastUpdated": 1738769992,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -17086,6 +17070,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1705906800,
+          "endDate": 1738652400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1738652400,
           "endDate": null
         }
       ],
@@ -17104,7 +17094,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1738769992,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00727",
@@ -21343,6 +21333,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1738220400,
+          "endDate": 1738652400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1738652400,
           "endDate": null
         }
       ],
@@ -21361,7 +21357,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738769992,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -21546,7 +21542,7 @@
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
-          "startDate": null,
+          "startDate": 1734678000,
           "endDate": null
         }
       ],
@@ -21565,7 +21561,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1734781844,
+      "lastUpdated": 1738769992,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -21818,7 +21814,7 @@
         "3880 FINNERTY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-14 ZONE TO RA-11 ZONE TO CONSTRUCT A SIX STORY 70 UNIT APT BLG WITH UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM RS-14 ZONE TO RA-11 ZONE TO CONSTRUCT A SIX STORY 70 UNIT APT BLG WITH UNDERGROUND PARKING- RENTAL UNITS",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21848,7 +21844,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1735645891,
+      "lastUpdated": 1738769992,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00781",
@@ -50941,12 +50937,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -50990,7 +50980,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738769992,
       "relatedPermits": []
     },
     {
@@ -88570,6 +88560,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -88598,12 +88594,20 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2ECBC657-43CC-4D23-920B-C68B43E807A4&folderId=83326C241029125254875539"
         },
         {
+          "docName": "2025-02-04 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4B1CB013-9219-4C4B-B3E6-F3508AEC1F54&folderId=83326C241029125254875539"
+        },
+        {
+          "docName": "2025-02-04 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=13822C250204170452438679&folderId=83326C241029125254875539"
+        },
+        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=103F2073-932A-4518-B7BC-236361E759CE&folderId=83326C241029125254875539"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738769992,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
