@@ -3,10 +3,11 @@ import { computed } from "vue";
 
 const props = defineProps<{
 	address: string;
+	city: string;
 }>();
 
 const googleHref = computed(
-	() => `https://www.google.com/maps?q=${encodeURIComponent(props.address)}`
+	() => `https://www.google.com/maps?q=${encodeURIComponent(props.address)}, ${encodeURIComponent(props.city)}`
 );
 </script>
 

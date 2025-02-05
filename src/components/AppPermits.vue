@@ -502,6 +502,8 @@ function documentLinkClass(
 	const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
 	if(hasViewedDoc) {
 		docLinkClasses.push("viewedDoc");
+	} else {
+		docLinkClasses.push("notViewedDoc");
 	}
 	return docLinkClasses;
 }
@@ -772,7 +774,7 @@ function rowClass(permit: PermitsEntity) {
 					/>
 				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
-					<AppGoogleLink :address="data.primaryStreetName" />
+					<AppGoogleLink :address="data.primaryStreetName" :city="data.city" />
 				</template>
 			</Column>
 			<Column field="city" header="City" :sortable="true" :showFilterMenu="false" class="w-2">
@@ -854,6 +856,7 @@ function rowClass(permit: PermitsEntity) {
 					<div>
 						<AppGoogleLink
 							:address="permit.primaryStreetName"
+							:city="permit.city"
 							:class="versionDiffClass('primaryStreetName', permit, previousPermit)"
 							:title="versionDiffTitle('primaryStreetName', permit, previousPermit)"
 						/>
@@ -905,6 +908,7 @@ function rowClass(permit: PermitsEntity) {
 						<div v-for="(address, index) in permit.addresses" :key="address">
 							<AppGoogleLink
 								:address="address"
+								:city="permit.city"
 								:class="versionDiffAddressClass(index, permit, previousPermit)"
 							/>
 						</div>
@@ -942,7 +946,7 @@ function rowClass(permit: PermitsEntity) {
 				</div>
 			</div>
 			<div class="grid mt-3">
-				<div class="col-6 field">
+				<div class="col-5 field">
 					<label>Purpose</label>
 					<div
 						class="font-bold"
@@ -952,7 +956,7 @@ function rowClass(permit: PermitsEntity) {
 						{{ permit.purpose }}
 					</div>
 				</div>
-				<div class="col-4 field">
+				<div class="col-7 field">
 					<label>Documents</label>
 					<div class="font-bold">
 						<div v-for="(document, index) in permit.documents" :key="document.docName">
