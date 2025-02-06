@@ -71,9 +71,11 @@ function getFormattedDate(date: Date|number): string {
 }
 
 async function initViewedDocs(viewedDocs:Map<string>) {
-	// TODO implement
-	if(viewedDocs) {
-		return;
+
+	const dbClickedDocs = await db.clickedDocs.toArray();
+	for(const dbClickedDoc of dbClickedDocs) {
+		const mapKey = getViewedDocMapKey(dbClickedDoc);
+		viewedDocs.set(mapKey, true);;
 	}
 }
 
