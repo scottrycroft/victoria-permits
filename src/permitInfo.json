@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1738769442,
+  "dateRetrieved": 1738842234,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4659,6 +4659,70 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1736337048,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1424 HOVEY RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001728",
+      "applicationDate": 1738306800,
+      "addresses": [
+        "1424 HOVEY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1738738800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1424 Hovey_Letter of rationale WEB_Jan 31, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=36200C250205102657553720&folderId=36200C250205101511000485"
+        },
+        {
+          "docName": "1424 Hovey_Plans WEB_Jan 31, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=36200C250205102602648847&folderId=36200C250205101511000485"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1738738800,
       "relatedPermits": []
     },
     {
@@ -21827,6 +21891,12 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1734505200,
           "endDate": 1734505200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1735282800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -21844,7 +21914,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738769992,
+      "lastUpdated": 1738842793,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00781",
@@ -21962,7 +22032,7 @@
         "3224 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 ZONE TO A COMPREHENSIVE DEVELOPMENT ZONE TO CONSTRUCT A 77 UNIT 6 STOREY RESIDENTIAL BUILDING WITH UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM RS-6 ZONE TO C-16 NEIGHBOURHOOD MIXED USE ZONE TO CONSTRUCT A 6 STOREY, 77 UNIT RESIDENTIAL BUILDING WITH ONE LEVEL OF UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21980,12 +22050,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1736406000,
+          "endDate": 1738738800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1738738800,
+          "endDate": 1738738800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1738738800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1738410742,
+      "lastUpdated": 1738842793,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00783",
@@ -22050,7 +22132,7 @@
     },
     {
       "primaryStreetName": "3960 ASHFORD RD",
-      "applicant": "N/A",
+      "applicant": "JAMES GARDINER",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01083",
@@ -22059,7 +22141,7 @@
         "3960 ASHFORD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO RT-WA TO CONSTRUCT 8 TOWNHOUSES WITH SUITES",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -22070,13 +22152,13 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1738738800,
+          "endDate": 1738738800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1738047600,
+      "lastUpdated": 1738842793,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00785",
@@ -24834,28 +24916,28 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "",
-      "applicant": "N/A",
+      "primaryStreetName": "3960 ASHFORD RD",
+      "applicant": "JAMES GARDINER",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00785",
       "applicationDate": 1738047600,
       "addresses": [
-        "N/A"
+        "3960 ASHFORD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-10 TO RT-WA TO CONSTRUCT 8 TOWNHOUSES WITH SUITES",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1738738800,
+          "endDate": 1738738800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1738047600,
+      "lastUpdated": 1738842793,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01083",
@@ -25165,26 +25247,22 @@
       "purpose": "Development Variance Permit application to relax the minimum building envelope dimensions and minimum setback requirements for two-single family dwellings.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1733727600,
-          "endDate": 1733727600
+          "startDate": 1734332400,
+          "endDate": 1734332400
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/10255-Resthaven-Drive-Plans.pdf"
-        },
-        {
-          "docName": "December 9, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/47031/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1733485903,
+      "lastUpdated": 1738842834,
       "relatedPermits": []
     },
     {
@@ -25543,36 +25621,22 @@
       "purpose": "Development Variance Permit application to relax the maximum percentage of vehicle parking areas permitted in a front yard.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1733727600,
-          "endDate": 1733727600
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1737961200,
+          "endDate": 1737961200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/10440-Resthaven-Drive-Plans.pdf"
-        },
-        {
-          "docName": "December 9, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/46267/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/10440-Resthaven-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1734695500,
+      "lastUpdated": 1738842834,
       "relatedPermits": []
     },
     {
@@ -83973,6 +84037,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -84006,7 +84076,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1732362731,
+      "lastUpdated": 1738842793,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000625",
@@ -88145,10 +88215,16 @@
           "endDate": 1732690800
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1736492400,
+          "endDate": 1736492400
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1732690800,
-          "endDate": 1736492400
+          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -88157,8 +88233,8 @@
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -88202,7 +88278,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738842793,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00285",
@@ -88936,7 +89012,7 @@
         "2522 EMPIRE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with underground parking and townhouse complex. Concurrent with DP000651",
+      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with underground parking and townhouse complex. Concurrent with DP000651.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -88977,7 +89053,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738842793,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000651",
