@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1738842234,
+  "dateRetrieved": 1738928881,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21799,7 +21799,7 @@
         "233 BATTLEFORD AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "**SSMUH** TO CONSTRUCT NEW 6-UNIT SMALL-SCALE MULTI-UNIT HOUSING. VARIANCE REQUESTED FOR FRONT YARD OPEN SITE SPACE.",
+      "purpose": "TO CONSTRUCT NEW 6-UNIT SMALL-SCALE MULTI-UNIT HOUSING. VARIANCE REQUESTED FOR FRONT YARD OPEN SITE SPACE.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21833,7 +21833,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738324336,
+      "lastUpdated": 1738929444,
       "relatedPermits": []
     },
     {
@@ -22095,7 +22095,7 @@
         "3751 GRANGE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "STREAMSIDE DP - SPECTRUM SPORT FIELD UPGRADE TO REPLACE AND UPGRADE THE SPORT FIELD INCLUDING THE REPLACEMENT OF THE GRASS FIELD WITH AN ARTIFICIAL TURF SURFACE, ASSOCIATED PATHWAY IMPROVEMENTS AND A FUTURE CLUBHOUSE SITE.",
+      "purpose": "**STORMWATER** - SPECTRUM SPORT FIELD UPGRADE TO REPLACE AND UPGRADE THE SPORT FIELD INCLUDING THE REPLACEMENT OF THE GRASS FIELD WITH AN ARTIFICIAL TURF SURFACE, ASSOCIATED PATHWAY IMPROVEMENTS AND A FUTURE CLUBHOUSE SITE.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -22127,7 +22127,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1737633115,
+      "lastUpdated": 1738929444,
       "relatedPermits": []
     },
     {
@@ -22381,8 +22381,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1724928595,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
+        {
+          "relatedPermitID": "RBP00043",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT"
+        },
         {
           "relatedPermitID": "TRP21589",
           "relatedPermitType": "TREE PERMIT"
@@ -24947,7 +24951,7 @@
     },
     {
       "primaryStreetName": "4931 LOCHSIDE DR",
-      "applicant": "N/A",
+      "applicant": "DENISE KORS",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00786",
@@ -24956,7 +24960,7 @@
         "4931 LOCHSIDE DR"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM RS-18 TO RS-10 AND RS-12 TO CREATE 3 ADDITIONAL LOTS FOR A TOTAL OF 4 LOTS. VARIANCES REQUESTED",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -24967,7 +24971,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1738220400,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00966",
@@ -36645,7 +36649,7 @@
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000651",
-      "applicationDate": 1737961200,
+      "applicationDate": 1738825200,
       "addresses": [
         "2525 COOK ST",
         "2529 COOK ST",
@@ -36658,7 +36662,7 @@
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
+          "startDate": 1738825200,
           "endDate": null
         },
         {
@@ -36682,7 +36686,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1737961200,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00886",
@@ -76699,6 +76703,12 @@
           "endDate": 1729753200
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1733986800,
+          "endDate": 1733986800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1621580400,
@@ -76708,12 +76718,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1730098800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -76824,7 +76828,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -81995,8 +81999,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1733986800,
+          "endDate": 1733986800
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
@@ -82088,7 +82092,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -85641,6 +85645,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -85687,10 +85697,22 @@
         {
           "docName": "2024-08-06 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3A110BD6-A593-4875-8CF0-00ABA49AA596&folderId=41341C230714162603177810"
+        },
+        {
+          "docName": "2025-02-06 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1A104FC2-B30C-4A4C-B5D6-87D70F74A43A&folderId=41341C230714162603177810"
+        },
+        {
+          "docName": "2025-02-06 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=193855C1-5008-4BC2-9B99-49EB9445174C&folderId=41341C230714162603177810"
+        },
+        {
+          "docName": "2025-02-06 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=282ED3D7-A304-4057-A54E-A8533A02CAB7&folderId=41341C230714162603177810"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000633",
@@ -86433,8 +86455,8 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1733986800,
+          "endDate": 1733986800
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -86508,7 +86530,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00429",
@@ -86588,6 +86610,12 @@
           "endDate": 1737356400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -86640,10 +86668,26 @@
         {
           "docName": "2024-05-02 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A801952E-B694-4E12-85E2-0F36FF35FF18&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2025-02-06 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0D0DE014-536B-44CD-8F67-851745E083CB&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2025-02-06 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CDA2CD82-AB6E-4614-942F-51B55DC841A8&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2025-02-06 - Revision List - Architectural.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=273BBDAC-A786-46A6-BFA0-7AFAA85EFBB9&folderId=66971C231018105314442892"
+        },
+        {
+          "docName": "2025-02-06 - Revision List - Landscape.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A2F3AEC4-7BB4-4837-A20F-8B233B94CCBF&folderId=66971C231018105314442892"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
@@ -86948,15 +86992,15 @@
           "endDate": 1734332400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1702450800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1734332400,
+          "endDate": 1738566000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1702450800,
           "endDate": null
         },
         {
@@ -87025,7 +87069,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00425",
@@ -89004,7 +89048,7 @@
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00886",
-      "applicationDate": 1737961200,
+      "applicationDate": 1738825200,
       "addresses": [
         "2525 COOK ST",
         "2529 COOK ST",
@@ -89015,15 +89059,15 @@
       "purpose": "The City is considering a Rezoning application for a multiple dwelling building with underground parking and townhouse complex. Concurrent with DP000651.",
       "progressSections": [
         {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": 1738306800,
-          "endDate": 1738306800
-        },
-        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1738566000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1738825200,
           "endDate": null
         },
         {
@@ -89051,9 +89095,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2025-02-06 - Letter to Mayor & Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14349C250206125456518883&folderId=10655C250127130132122937"
+        },
+        {
+          "docName": "2025-02-06 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14349C250206125456608869&folderId=10655C250127130132122937"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1738842793,
+      "lastUpdated": 1738929444,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000651",
