@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, reactive, watch, nextTick } from "vue";
+import { ref, reactive, computed, watch, nextTick } from "vue";
 import { useRoute, useRouter } from "vue-router";
 
 import pDebounce from 'p-debounce';
@@ -7,7 +7,7 @@ import pDebounce from 'p-debounce';
 import { FilterMatchMode } from "primevue/api";
 import Button from "primevue/button";
 import Column from "primevue/column";
-import DataTable from "primevue/datatable";
+import DataTable, { type DataTableFilterMetaData } from "primevue/datatable";
 import Dialog from "primevue/dialog";
 import InputText from "primevue/inputtext";
 import { useToast } from "primevue/usetoast";
@@ -36,14 +36,40 @@ const route = useRoute();
 const router = useRouter();
 const toast = useToast();
 
-const filters = ref({
+// Define the filter structure
+interface Filters {
+  global: DataTableFilterMetaData;
+  folderNumber: DataTableFilterMetaData;
+  primaryStreetName: DataTableFilterMetaData;
+  applicationType: DataTableFilterMetaData;
+  status: DataTableFilterMetaData;
+  city: DataTableFilterMetaData;
+  unviewedDocs?: { value: boolean | null; matchMode: string; constraint?: (value: boolean, filter: boolean | null) => boolean };
+}
+
+const filters = ref<Filters>({
 	global: { value: null, matchMode: FilterMatchMode.CONTAINS },
 	folderNumber: { value: null, matchMode: FilterMatchMode.CONTAINS },
 	primaryStreetName: { value: null, matchMode: FilterMatchMode.CONTAINS },
 	applicationType: { value: null, matchMode: FilterMatchMode.IN },
 	status: { value: null, matchMode: FilterMatchMode.EQUALS },
 	city: { value: null, matchMode: FilterMatchMode.IN }
+	//,unviewedDocs: { value: null, matchMode: 'custom', constraint: undefined } // Add custom filter 
 });
+
+const showOnlyUnviewedDocs = ref(false);
+
+// Custom filter function for "active" field
+const unviewedDocsFilterFunction = (value: boolean, filter: boolean | null): boolean => {
+  if (filter === null) return true; // No filter applied
+  return value === filter; // Match true/false
+};
+
+// Toggle filter when checkbox is clicked
+const toggleUnviewedDocsFilter = () => {
+  filters.value.unviewedDocs.value = showOnlyUnviewedDocs.value ? true : null;
+  filters.value.unviewedDocs.constraint = unviewedDocsFilterFunction;
+};
 
 const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
 
