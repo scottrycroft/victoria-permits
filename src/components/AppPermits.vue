@@ -18,6 +18,7 @@ import type {
 	PermitsEntity,
 	PermitsEntityDB,
 	RelatedPermit,
+	DocumentsEntity,
 	ProgressSectionsEntity,
 	ViewedPermitInfoDB
 } from "@/types/Permits";
@@ -70,7 +71,7 @@ function getFormattedDate(date: Date|number): string {
 	return (new Date(date)).toLocaleDateString("en-ca");
 }
 
-async function initViewedDocs(viewedDocs:Map<string>) {
+async function initViewedDocs(viewedDocs:Map<string,boolean>) {
 
 	const dbClickedDocs = await db.clickedDocs.toArray();
 	for(const dbClickedDoc of dbClickedDocs) {

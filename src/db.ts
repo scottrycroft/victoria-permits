@@ -1,7 +1,7 @@
 // db.ts
 import Dexie, { type Table } from "dexie";
 
-import { type PermitsEntityDB, type ViewedPermitInfoDB } from "./types/Permits";
+import { type DocumentsEntity, type PermitsEntityDB, type ViewedPermitInfoDB } from "./types/Permits";
 
 export class PermitsDB extends Dexie {
 	// 'lastSeenPermits' is added by dexie when declaring the stores()
@@ -9,6 +9,8 @@ export class PermitsDB extends Dexie {
 	lastSeenPermits!: Table<PermitsEntityDB>;
 
 	todaysViewedPermits!: Table<ViewedPermitInfoDB>;
+
+	clickedDocs!: Table<DocumentsEntity>;
 
 	constructor() {
 		super("permits");
