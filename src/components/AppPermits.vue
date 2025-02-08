@@ -31,6 +31,7 @@ import Dropdown from "primevue/dropdown";
 import Toast from "primevue/toast";
 
 import { db } from "../db";
+import Checkbox from "primevue/checkbox";
 
 const route = useRoute();
 const router = useRouter();
@@ -54,22 +55,7 @@ const filters = ref<Filters>({
 	applicationType: { value: null, matchMode: FilterMatchMode.IN },
 	status: { value: null, matchMode: FilterMatchMode.EQUALS },
 	city: { value: null, matchMode: FilterMatchMode.IN }
-	//,unviewedDocs: { value: null, matchMode: 'custom', constraint: undefined } // Add custom filter 
 });
-
-const showOnlyUnviewedDocs = ref(false);
-
-// Custom filter function for "active" field
-const unviewedDocsFilterFunction = (value: boolean, filter: boolean | null): boolean => {
-  if (filter === null) return true; // No filter applied
-  return value === filter; // Match true/false
-};
-
-// Toggle filter when checkbox is clicked
-const toggleUnviewedDocsFilter = () => {
-  filters.value.unviewedDocs.value = showOnlyUnviewedDocs.value ? true : null;
-  filters.value.unviewedDocs.constraint = unviewedDocsFilterFunction;
-};
 
 const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
 
@@ -283,6 +269,27 @@ async function clickedDoc(document: DocumentsEntity) {
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
+
+const showOnlyUnviewedDocs = ref(false);
+
+const filteredPermitApplications = computed(() => {
+	if(showOnlyUnviewedDocs.value) {
+		return permitApplications.value.filter((permit) => {
+			if(permit.documents.length === 0) {
+				return false;
+			}
+			for(const permitDoc of permit.documents) {
+				const viewedDocMapKey = getViewedDocMapKey(permitDoc);
+				const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
+				if(hasViewedDoc) {
+					return false;
+				}
+			}
+			return true;
+		});
+	}
+	return permitApplications.value;
+});
 
 const globalFilter = ref();
 
@@ -717,7 +724,7 @@ function rowClass(permit: PermitsEntity) {
 <template>
 	<main>
 		<DataTable
-			:value="permitApplications"
+			:value="filteredPermitApplications"
 			width="100%"
 			v-model:filters="filters"
 			:globalFilter="globalFilter"
@@ -748,6 +755,10 @@ function rowClass(permit: PermitsEntity) {
 				<div class="flex justify-content-between">
 					<h2 class="mt-0">Permit Applications</h2>
 					<div @dblclick="saveAllCurrent">Data retrieved on {{ formatDate(dateRetrieved) }}</div>
+					<div class="p-field-checkbox">
+						<Checkbox v-model="showOnlyUnviewedDocs" inputId="filterUnviewedOnly" binary />
+						<label for="filterUnviewedOnly" class="ml-2">Show only unviewed docs</label>
+					</div>
 					<span class="p-input-icon-left">
 						<i class="pi pi-search" />
 						<InputText
