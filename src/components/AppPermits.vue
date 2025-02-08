@@ -2,7 +2,7 @@
 import { ref, reactive, computed, watch, nextTick } from "vue";
 import { useRoute, useRouter } from "vue-router";
 
-import pDebounce from 'p-debounce';
+import pDebounce from "p-debounce";
 
 import { FilterMatchMode } from "primevue/api";
 import Button from "primevue/button";
@@ -39,13 +39,17 @@ const toast = useToast();
 
 // Define the filter structure
 interface Filters {
-  global: DataTableFilterMetaData;
-  folderNumber: DataTableFilterMetaData;
-  primaryStreetName: DataTableFilterMetaData;
-  applicationType: DataTableFilterMetaData;
-  status: DataTableFilterMetaData;
-  city: DataTableFilterMetaData;
-  unviewedDocs?: { value: boolean | null; matchMode: string; constraint?: (value: boolean, filter: boolean | null) => boolean };
+	global: DataTableFilterMetaData;
+	folderNumber: DataTableFilterMetaData;
+	primaryStreetName: DataTableFilterMetaData;
+	applicationType: DataTableFilterMetaData;
+	status: DataTableFilterMetaData;
+	city: DataTableFilterMetaData;
+	unviewedDocs?: {
+		value: boolean | null;
+		matchMode: string;
+		constraint?: (value: boolean, filter: boolean | null) => boolean;
+	};
 }
 
 const filters = ref<Filters>({
@@ -58,7 +62,6 @@ const filters = ref<Filters>({
 });
 
 const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
-
 
 const permitsViewedTodaySet = reactive(new Set<string>());
 initPermitsViewedToday(permitsViewedTodaySet);
@@ -76,35 +79,34 @@ function getTodaysDate(): string {
 	return getFormattedDate(new Date());
 }
 
-function getFormattedDate(date: Date|number): string {
-	if(typeof date === "number") {
-		date = date*1000;
+function getFormattedDate(date: Date | number): string {
+	if (typeof date === "number") {
+		date = date * 1000;
 	}
-	return (new Date(date)).toLocaleDateString("en-ca");
+	return new Date(date).toLocaleDateString("en-ca");
 }
 
-async function initViewedDocs(viewedDocs:Map<string,boolean>) {
-
+async function initViewedDocs(viewedDocs: Map<string, boolean>) {
 	const dbClickedDocs = await db.clickedDocs.toArray();
-	for(const dbClickedDoc of dbClickedDocs) {
+	for (const dbClickedDoc of dbClickedDocs) {
 		const mapKey = getViewedDocMapKey(dbClickedDoc);
-		viewedDocs.set(mapKey, true);;
+		viewedDocs.set(mapKey, true);
 	}
 }
 
-async function initPermitsViewedToday(permitsViewedTodaySet:Set<string>) {
+async function initPermitsViewedToday(permitsViewedTodaySet: Set<string>) {
 	// Clear todaysViewedPermits DB where date isn't today
 	const today = getTodaysDate();
 	await db.todaysViewedPermits.where("lastViewedDate").notEqual(today).delete();
 
 	// Load DB todaysViewedPermits into permitsViewedTodaySet ref
 	const viewedToday = await db.todaysViewedPermits.where("lastViewedDate").equals(today).toArray();
-	for(const permitView of viewedToday) {
+	for (const permitView of viewedToday) {
 		permitsViewedTodaySet.add(getPermitKey(permitView));
 	}
 }
 
-function getPermitKey(permit:ViewedPermitInfoDB|PermitsEntity) {
+function getPermitKey(permit: ViewedPermitInfoDB | PermitsEntity) {
 	const permitViewKey = `${permit.city}-${permit.folderNumber}`;
 	return permitViewKey;
 }
@@ -273,15 +275,15 @@ const permitApplications = ref(createPermitApplications(permitsList, daysWithInf
 const showOnlyUnviewedDocs = ref(false);
 
 const filteredPermitApplications = computed(() => {
-	if(showOnlyUnviewedDocs.value) {
+	if (showOnlyUnviewedDocs.value) {
 		return permitApplications.value.filter((permit) => {
-			if(permit.documents.length === 0) {
+			if (permit.documents.length === 0) {
 				return false;
 			}
-			for(const permitDoc of permit.documents) {
+			for (const permitDoc of permit.documents) {
 				const viewedDocMapKey = getViewedDocMapKey(permitDoc);
 				const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
-				if(hasViewedDoc) {
+				if (hasViewedDoc) {
 					return false;
 				}
 			}
@@ -303,7 +305,6 @@ const viewPermit = async (permitData: PermitsEntity) => {
 	await saveLastViewedPermit(cloneObj(permitData));
 	previousPermit.value = await getPreviousPermit(permitData);
 
-	
 	const permitViewKey = `${permitData.city}-${permitData.folderNumber}`;
 	permitsViewedTodaySet.add(permitViewKey);
 	db.todaysViewedPermits.put({
@@ -401,7 +402,11 @@ const getPermitApplicationLink = (pa: PermitsEntity): string => {
 	return getPermitApplicationLinkByID(pa.city, pa.folderNumber, pa);
 };
 
-const getPermitApplicationLinkByID = (city: string, permitID: string, pa?: PermitsEntity): string => {
+const getPermitApplicationLinkByID = (
+	city: string,
+	permitID: string,
+	pa?: PermitsEntity
+): string => {
 	if (city === "Saanich") {
 		return (
 			"https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=" + permitID
@@ -511,7 +516,8 @@ function getSidneyPermitLink(pa: PermitsEntity) {
 	// Sidney doesn't have permit IDs, and only one page for permits
 	let baseUrl = "https://www.sidney.ca/planning-building/community-planning/development/";
 
-	const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(pa.primaryStreetName).replace(/-/g, "%2D");
+	const fullUrl =
+		baseUrl + "#:~:text=" + encodeURIComponent(pa.primaryStreetName).replace(/-/g, "%2D");
 	return fullUrl;
 }
 
@@ -536,7 +542,7 @@ function documentLinkClass(
 	const docLinkClasses = versionDiffDocumentClass(index, permit, previousPermit);
 	const viewedDocMapKey = getViewedDocMapKey(document);
 	const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
-	if(hasViewedDoc) {
+	if (hasViewedDoc) {
 		docLinkClasses.push("viewedDoc");
 	} else {
 		docLinkClasses.push("notViewedDoc");
@@ -685,7 +691,7 @@ function getRelatedPermitRowIndex(relatedPermit: RelatedPermit, permit: PermitsE
 }
 
 async function saveAllCurrent() {
-	if(!window.confirm("Save all current?")) {
+	if (!window.confirm("Save all current?")) {
 		return;
 	}
 	let count = 0;
@@ -705,16 +711,16 @@ async function saveAllCurrent() {
 }
 
 function rowClass(permit: PermitsEntity) {
-	if(!permit.lastUpdated) {
+	if (!permit.lastUpdated) {
 		return undefined;
 	}
 	const viewedToday = permitsViewedTodaySet.has(getPermitKey(permit));
-	if(viewedToday) {
+	if (viewedToday) {
 		return undefined;
 	}
 	const permitDate = getFormattedDate(permit.lastUpdated);
-	const todaysDate =  getTodaysDate();
-	if(permitDate === todaysDate) {
+	const todaysDate = getTodaysDate();
+	if (permitDate === todaysDate) {
 		return "notSeenToday";
 	}
 	return undefined;

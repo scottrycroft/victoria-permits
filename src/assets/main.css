@@ -36,7 +36,7 @@ a.documentLink {
 }
 
 a.documentLink.notViewedDoc::before {
-	content: '!';
+	content: "!";
 	position: absolute;
 	top: 0px;
 	right: -17px;

@@ -7,7 +7,10 @@ const props = defineProps<{
 }>();
 
 const googleHref = computed(
-	() => `https://www.google.com/maps?q=${encodeURIComponent(props.address)}, ${encodeURIComponent(props.city)}`
+	() =>
+		`https://www.google.com/maps?q=${encodeURIComponent(props.address)}, ${encodeURIComponent(
+			props.city
+		)}`
 );
 </script>
 
