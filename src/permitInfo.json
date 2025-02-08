@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1738928881,
+  "dateRetrieved": 1739015399,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2903,6 +2903,10 @@
       ],
       "documents": [
         {
+          "docName": "2487 Mt St Michael_Correspondence_Feb 7, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=36200C250207154041084390&folderId=23041C240412142925293310"
+        },
+        {
           "docName": "9. Farm Site plan showing buildings_WEB.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=29524C240906103841513883&folderId=23041C240412142925293310"
         },
@@ -2912,7 +2916,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1737719654,
+      "lastUpdated": 1739015959,
       "relatedPermits": []
     },
     {
@@ -4149,8 +4153,13 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1730544612,
-      "relatedPermits": []
+      "lastUpdated": 1739015959,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001680",
+          "relatedPermitType": "Subdivision"
+        }
+      ]
     },
     {
       "primaryStreetName": "1117 GREIG AVE",
@@ -12039,7 +12048,7 @@
     },
     {
       "primaryStreetName": "",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000054",
@@ -12095,12 +12104,12 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1733918580,
+      "lastUpdated": 1739015959,
       "relatedPermits": []
     },
     {
       "primaryStreetName": "57 BEACH DR",
-      "applicant": "N/A",
+      "applicant": "TERENCE WILLIAMS ARCHITECT",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000055",
@@ -12156,7 +12165,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1734004301,
+      "lastUpdated": 1739015959,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00055",
@@ -12166,7 +12175,7 @@
     },
     {
       "primaryStreetName": "960 FOUL BAY RD",
-      "applicant": "N/A",
+      "applicant": "WEST PLAN CONSULTING",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000056",
@@ -12175,7 +12184,7 @@
         "960 FOUL BAY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit.",
+      "purpose": "This is an application for a development permit in order to allow a townhouse development and conversion of the heritage house into a multi-unit residential building.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -12222,7 +12231,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1736319600,
+      "lastUpdated": 1739015959,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00010",
@@ -12236,7 +12245,7 @@
     },
     {
       "primaryStreetName": "1762 BEACH DR",
-      "applicant": "N/A",
+      "applicant": "FLINTSTONES",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000057",
@@ -12292,7 +12301,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1738306800,
+      "lastUpdated": 1739015959,
       "relatedPermits": []
     },
     {
@@ -14866,8 +14875,8 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1738911600,
+          "endDate": 1738911600
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
@@ -14908,7 +14917,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1738410742,
+      "lastUpdated": 1739015959,
       "relatedPermits": []
     },
     {
@@ -19736,6 +19745,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1730790000,
+          "endDate": 1738911600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1738911600,
           "endDate": null
         }
       ],
@@ -19758,7 +19773,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1730893849,
+      "lastUpdated": 1739015959,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00741",
@@ -21799,7 +21814,7 @@
         "233 BATTLEFORD AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO CONSTRUCT NEW 6-UNIT SMALL-SCALE MULTI-UNIT HOUSING. VARIANCE REQUESTED FOR FRONT YARD OPEN SITE SPACE.",
+      "purpose": "**SSMUH**TO CONSTRUCT NEW 6-UNIT SMALL-SCALE MULTI-UNIT HOUSING. VARIANCES REQUESTED FOR FRONT YARD OPEN SITE SPACE AND OPEN SITE SPACE.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -21833,7 +21848,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1739015959,
       "relatedPermits": []
     },
     {
@@ -24708,12 +24723,6 @@
           "taskType": "REFERRALS",
           "startDate": 1734505200,
           "endDate": null
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [
@@ -24723,7 +24732,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738410742,
+      "lastUpdated": 1739015959,
       "relatedPermits": []
     },
     {
