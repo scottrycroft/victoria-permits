@@ -476,15 +476,15 @@ function getViewRoyalLinkByID(permitID: string) {
 	switch (prefix) {
 		case "DVP":
 			baseUrl =
-				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-applications/development-variance-permit-applications.html";
+				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-tracker/development-variance-permit-applications.html";
 			break;
 		case "REZ":
 			baseUrl =
-				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-applications/rezoning-applications.html";
+				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-tracker/rezoning-applications.html";
 			break;
 		case "DP":
 			baseUrl =
-				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-applications/development-permit-applications.html";
+				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-tracker/development-permit-applications.html";
 			break;
 	}
 	if (!baseUrl) {
