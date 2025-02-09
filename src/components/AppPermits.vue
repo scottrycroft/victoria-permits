@@ -551,6 +551,15 @@ function getViewedDocMapKey(document: DocumentsEntity) {
 	return document.docName + "|" + document.docURL;
 }
 
+function getDocNameFromURL(docURL: string) {
+	const lastSlashIdx = docURL.lastIndexOf("/");
+	if(lastSlashIdx < 0) {
+		return "<No Name>";
+	}
+	let docName = docURL.substring(lastSlashIdx + 1);
+	return decodeURI(docName.split(".")[0]);
+}
+
 function versionDiffDocumentClass(
 	index: number,
 	permit: PermitsEntityDB,
@@ -1011,7 +1020,7 @@ function rowClass(permit: PermitsEntity) {
 								@click.left="clickedDoc(document)"
 								@click.right="clickedDoc(document)"
 								@click.middle="clickedDoc(document)"
-								>{{ document.docName }}</a
+								>{{ document.docName || getDocNameFromURL(document.docURL) }}</a
 							>
 						</div>
 						<div v-if="permit.documents.length === 0">No Documents Submitted</div>
