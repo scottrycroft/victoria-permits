@@ -277,17 +277,14 @@ const showOnlyUnviewedDocs = ref(false);
 const filteredPermitApplications = computed(() => {
 	if (showOnlyUnviewedDocs.value) {
 		return permitApplications.value.filter((permit) => {
-			if (permit.documents.length === 0) {
-				return false;
-			}
 			for (const permitDoc of permit.documents) {
-				const viewedDocMapKey = getViewedDocMapKey(permitDoc);
-				const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
-				if (hasViewedDoc) {
-					return false;
+				const docMapKey = getViewedDocMapKey(permitDoc);
+				const docViewed = viewedDocs.has(docMapKey);
+				if (!docViewed) {
+					return true;
 				}
 			}
-			return true;
+			return false;
 		});
 	}
 	return permitApplications.value;
