@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1739188438,
+  "dateRetrieved": 1739286955,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2474,20 +2474,20 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34922C250116114501926235&folderId=16332C231110115426945016"
         },
         {
-          "docName": "1934 Hovey_Correspondence WEB_Jan 27, 2025.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=4B6DFB0E-7826-459E-84D9-C0C04DDF0ECB&folderId=16332C231110115426945016"
-        },
-        {
           "docName": "1934 Hovey_Landscape WEB_Jan 14, 2025.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34922C250116114501939977&folderId=16332C231110115426945016"
         },
         {
           "docName": "1934 Hovey_Tree Management Plan WEB_Jan 14, 2025.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34922C250116114501956612&folderId=16332C231110115426945016"
+        },
+        {
+          "docName": "Correspondence - 1934 Hovey Road WEB - February 10, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=36200C250210101548982888&folderId=16332C231110115426945016"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1738238312,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -13367,7 +13367,7 @@
         "57 BEACH DR"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a development permit.",
+      "purpose": "This is an application for a development permit for a 2 unit Townhouse development.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -13414,7 +13414,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1739015959,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00055",
@@ -15968,7 +15968,7 @@
         "57 BEACH DR"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a zoning bylaw amendment.",
+      "purpose": "This is an application for a zoning bylaw amendment to facilitate a 2 unit Townhouse development.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -16021,7 +16021,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1734004301,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000055",
@@ -16164,9 +16164,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ZON00057 - 3223 Henderson -  Site Plan.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=F7B0ABC7-16BE-4B1B-9612-CC7DE2098BC3&folderId=21133C250108121416502539"
+        }
+      ],
       "city": "Oak Bay",
-      "lastUpdated": 1739015959,
+      "lastUpdated": 1739287511,
       "relatedPermits": []
     },
     {
@@ -37926,7 +37931,7 @@
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1739170800,
           "endDate": null
         },
         {
@@ -37944,7 +37949,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00886",
@@ -86885,6 +86890,12 @@
           "endDate": 1722927600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1734332400,
+          "endDate": 1738825200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1705993200,
@@ -86897,15 +86908,9 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1734332400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1739170800,
           "endDate": null
         },
         {
@@ -86970,7 +86975,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000633",
@@ -87870,7 +87875,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1739170800,
           "endDate": null
         },
         {
@@ -87945,7 +87950,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
@@ -89926,6 +89931,18 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1739170800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
@@ -89985,7 +90002,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738769992,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
@@ -90317,15 +90334,15 @@
       "purpose": "The City is considering a Rezoning application for a multiple dwelling building with underground parking and townhouse complex. Concurrent with DP000651.",
       "progressSections": [
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1738566000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1738825200,
+          "endDate": 1738825200
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1738566000,
           "endDate": null
         },
         {
@@ -90364,7 +90381,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1739287511,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000651",
