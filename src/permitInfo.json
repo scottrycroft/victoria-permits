@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1739286955,
+  "dateRetrieved": 1739361199,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -995,14 +995,14 @@
         },
         {
           "taskDescription": "",
-          "taskType": "WITH APPLICANT",
-          "startDate": 1699945200,
-          "endDate": null
+          "taskType": "FINAL ADOPTION OF BYLAW",
+          "startDate": 1739170800,
+          "endDate": 1739257200
         },
         {
           "taskDescription": "",
-          "taskType": "FINAL ADOPTION OF BYLAW",
-          "startDate": null,
+          "taskType": "WITH APPLICANT",
+          "startDate": 1699945200,
           "endDate": null
         }
       ],
@@ -1013,7 +1013,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1739361775,
       "relatedPermits": []
     },
     {
@@ -2442,13 +2442,13 @@
         {
           "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1739170800,
+          "endDate": 1739170800
         },
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
+          "startDate": 1739257200,
           "endDate": null
         },
         {
@@ -2487,7 +2487,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1739287511,
+      "lastUpdated": 1739361775,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -2877,21 +2877,21 @@
           "endDate": 1736751600
         },
         {
-          "taskDescription": "Staff are circulating and reviewing the application internally.",
-          "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": 1725606000,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1739170800,
+          "endDate": 1739257200
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
+          "startDate": 1739170800,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "Staff are circulating and reviewing the application internally.",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1725606000,
           "endDate": null
         },
         {
@@ -2916,7 +2916,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1739015959,
+      "lastUpdated": 1739361775,
       "relatedPermits": []
     },
     {
@@ -3967,37 +3967,31 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1739170800,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1739257200,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1727938800,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1739257200,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "ISSUE PERMIT TO APPLICANT",
           "startDate": null,
           "endDate": null
         }
@@ -4021,7 +4015,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1727938800,
+      "lastUpdated": 1739361775,
       "relatedPermits": []
     },
     {
@@ -4312,37 +4306,31 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1739170800,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1739257200,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1734418800,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1739257200,
           "endDate": null
         },
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "ISSUE PERMIT TO APPLICANT",
           "startDate": null,
           "endDate": null
         }
@@ -4358,7 +4346,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1736423468,
+      "lastUpdated": 1739361775,
       "relatedPermits": []
     },
     {
@@ -18367,7 +18355,7 @@
         "3312 TENNYSON AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RD-1 AND M-1DW ZONES TO M-1DW ZONE TO CONSTRUCT AN 8 STOREY MIXED USE LIGHT INDUSTRIAL AND COMMERCIAL BUILDING",
+      "purpose": "TO REZONE FROM RD-1 AND M-1DW ZONES TO ALLOW AN 8 STOREY MIXED USE LIGHT INDUSTRIAL AND COMMERCIAL BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -18403,7 +18391,7 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1738652400,
-          "endDate": null
+          "endDate": 1739257200
         }
       ],
       "documents": [
@@ -18421,7 +18409,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738769992,
+      "lastUpdated": 1739361775,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00727",
@@ -22943,6 +22931,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1734418800,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1739257200,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1739257200,
           "endDate": null
         }
       ],
@@ -22961,7 +22961,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1734522673,
+      "lastUpdated": 1739361775,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21802",
@@ -23092,6 +23092,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1738220400,
+          "endDate": 1739257200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1739257200,
           "endDate": null
         }
       ],
@@ -23102,7 +23108,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1739015959,
+      "lastUpdated": 1739361775,
       "relatedPermits": []
     },
     {
@@ -37530,11 +37536,11 @@
         "1026 EMPRESS AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct new townhouses. See Rezoning application No. 00871 for file details.",
+      "purpose": "The City is considering a Development Permit application to subdivide existing lots, keeping the existing conversions facing Empress Ave, and construct a new townhouse facing Bay St. See Rezoning application No. 00871 for file details.",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1712127600,
+      "lastUpdated": 1739361775,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00871",
@@ -37921,35 +37927,10 @@
       ],
       "status": "ACTIVE",
       "purpose": "SEE REZ00886 FOR PROJECT DETAILS The City is considering a Development Permit application for a multiple dwelling building with underground parking and townhouse complex.",
-      "progressSections": [
-        {
-          "taskDescription": "Application is received by the City",
-          "taskType": "Application Received",
-          "startDate": 1738825200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1739170800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
+      "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1739287511,
+      "lastUpdated": 1739361775,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00886",
@@ -88758,7 +88739,7 @@
         "1026 EMPRESS AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct new townhouses. Concurrent Development Permit No. 000642.",
+      "purpose": "The City is considering a Rezoning application to subdivide existing lots, keeping the existing conversions facing Empress Ave, and construct a new townhouse facing Bay St. Concurrent Development Permit No. 000642.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -88860,7 +88841,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1739361775,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
@@ -90331,7 +90312,7 @@
         "2522 EMPIRE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with underground parking and townhouse complex. Concurrent with DP000651.",
+      "purpose": "The City is considering a Rezoning application for a five storey multiple dwelling building with underground parking and a townhouse complex. Concurrent with DP000651.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -90381,7 +90362,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739287511,
+      "lastUpdated": 1739361775,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000651",
