@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1739446975,
+  "dateRetrieved": 1739533382,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13188,8 +13188,16 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1739447536,
+      "lastUpdated": 1739533941,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP016790",
+          "relatedPermitType": "PART 9 BUILDING (STANDARD)"
+        },
+        {
+          "relatedPermitID": "BP016789",
+          "relatedPermitType": "PART 9 BUILDING (STANDARD)"
+        },
         {
           "relatedPermitID": "ZON00053",
           "relatedPermitType": "ZONING BYLAW AMENDMENT"
@@ -15831,8 +15839,16 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1739447536,
+      "lastUpdated": 1739533941,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP016790",
+          "relatedPermitType": "PART 9 BUILDING (STANDARD)"
+        },
+        {
+          "relatedPermitID": "BP016789",
+          "relatedPermitType": "PART 9 BUILDING (STANDARD)"
+        },
         {
           "relatedPermitID": "DP000052",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -26287,7 +26303,7 @@
     },
     {
       "primaryStreetName": "4060 BLENKINSOP RD",
-      "applicant": "N/A",
+      "applicant": "JOHN ESPLEY",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00787",
@@ -26296,7 +26312,7 @@
         "4060 BLENKINSOP RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM A-1 ZONE TO SITE SPECIFIC ZONE TO CONTINUE OPERATION OF RETAIL LANDSCAPE BUSINESS TUF-TURF",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -26307,13 +26323,19 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
+          "startDate": 1739430000,
+          "endDate": 1739430000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1739430000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1739343600,
+      "lastUpdated": 1739533941,
       "relatedPermits": []
     },
     {
@@ -48860,21 +48882,21 @@
           "endDate": 1735628400
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1719212400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1731481200,
-          "endDate": null
+          "endDate": 1739430000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1736146800,
+          "endDate": 1739430000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1719212400,
           "endDate": null
         },
         {
@@ -48959,7 +48981,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1739533941,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -87093,15 +87115,21 @@
           "endDate": 1732777200
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1732777200,
+          "endDate": 1739430000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1691650800,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1732777200,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1739430000,
           "endDate": null
         },
         {
@@ -87178,7 +87206,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1739533941,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00263",
