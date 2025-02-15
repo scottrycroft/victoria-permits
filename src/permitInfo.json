@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1739533382,
+  "dateRetrieved": 1739619800,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13559,6 +13559,72 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "310 KING GEORGE TERR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000058",
+      "applicationDate": 1739516400,
+      "addresses": [
+        "310 KING GEORGE TERR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a development permit. This is an application for a zoning bylaw amendment for 4 lot Bareland Strata subdivision to allow construction of 4 new homes with secondary suites.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1739516400,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1739516400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ZON00058",
+          "relatedPermitType": "ZONING BYLAW AMENDMENT"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "1742 ELGIN RD",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -16204,6 +16270,84 @@
       "city": "Oak Bay",
       "lastUpdated": 1739287511,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "310 KING GEORGE TERR",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00058",
+      "applicationDate": 1739516400,
+      "addresses": [
+        "310 KING GEORGE TERR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a zoning bylaw amendment for 4 lot Bareland Strata subdivision to allow construction of 4 new homes with secondary suites.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1739516400,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1739516400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000058",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "640 BEAVER LAKE RD",
@@ -22210,6 +22354,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1735023600,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1739516400,
           "endDate": null
         }
       ],
@@ -22232,7 +22382,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1735127501,
+      "lastUpdated": 1739620359,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -23162,7 +23312,7 @@
     },
     {
       "primaryStreetName": "2315 EDGELOW ST",
-      "applicant": "N/A",
+      "applicant": "DOUG FOORD",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01077",
@@ -23182,14 +23332,31 @@
         {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
+          "startDate": 1734591600,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1739516400,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1739516400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733986800,
-      "relatedPermits": []
+      "lastUpdated": 1739620359,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00780",
+          "relatedPermitType": "REZONING"
+        }
+      ]
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
@@ -23220,6 +23387,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1735282800,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1739343600,
           "endDate": null
         }
       ],
@@ -23238,7 +23411,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738842793,
+      "lastUpdated": 1739620359,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00781",
@@ -26046,7 +26219,7 @@
     },
     {
       "primaryStreetName": "2315 EDGELOW ST",
-      "applicant": "N/A",
+      "applicant": "DOUG FOORD",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00780",
@@ -26072,8 +26245,13 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1733986800,
-      "relatedPermits": []
+      "lastUpdated": 1739620359,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01077",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
@@ -26220,6 +26398,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1737529200,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1739516400,
           "endDate": null
         }
       ],
@@ -26234,7 +26418,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1737719654,
+      "lastUpdated": 1739620359,
       "relatedPermits": []
     },
     {
@@ -26794,36 +26978,22 @@
       "purpose": "Development Variance Permit application to permit an accessory structure in the front yard and to reduce the minimum accessory structure setback requirement.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1737356400,
-          "endDate": 1737356400
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1739170800,
+          "endDate": 1739170800
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/A-2042-Melville-Drive-Plans.pdf"
-        },
-        {
-          "docName": "January 20, 2025 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/47560/Development%20Variance%20Permit%20Application%20No.%20DVP.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/2042-Melville-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1738324372,
+      "lastUpdated": 1739620393,
       "relatedPermits": []
     },
     {
@@ -27120,22 +27290,10 @@
       "purpose": "Development Permit and Development Variance Permit application for a three-storey 9-unit townhouse development.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1733727600,
-          "endDate": 1733727600
-        },
-        {
-          "taskDescription": "APC Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1737442800,
-          "endDate": 1737442800
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1739170800,
+          "endDate": 1739170800
         }
       ],
       "documents": [
@@ -27146,24 +27304,12 @@
         {
           "docName": "Revised Plans (Nov. 2024)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/10473-Resthave-Dr-Plans-Nov-2024.pdf"
-        },
-        {
-          "docName": "December 9, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/46953/Development%20Permit%20Application%20No.%20DP100849_Dev.pdf"
-        },
-        {
-          "docName": "January 21, 2025 APC Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/47732#page=4"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/10473-Resthaven-Drive-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1738324372,
+      "lastUpdated": 1739620393,
       "relatedPermits": []
     },
     {
@@ -86549,6 +86695,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -86599,10 +86751,18 @@
         {
           "docName": "2024-02-28 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F87DB32E-E8D0-4030-BEB0-D7C001A03B66&folderId=23392C230517114949599764"
+        },
+        {
+          "docName": "2025-02-14 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=ED37D3B8-E141-4C17-ABAD-4D8F18615A1F&folderId=23392C230517114949599764"
+        },
+        {
+          "docName": "2025-02-14 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5941CFDA-43B5-4C95-B162-22B136F05B0E&folderId=23392C230517114949599764"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1739620359,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000632",
