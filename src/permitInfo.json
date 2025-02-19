@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1739879043,
+  "dateRetrieved": 1739965389,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3191,6 +3191,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "1ST READING OF BYLAW(S)",
+          "startDate": 1728284400,
+          "endDate": 1728284400
+        },
+        {
+          "taskDescription": "",
           "taskType": "2ND READING OF BYLAW(S)",
           "startDate": 1728284400,
           "endDate": 1728284400
@@ -3212,12 +3218,6 @@
           "taskType": "3RD READING OF BYLAW",
           "startDate": 1730703600,
           "endDate": 1730703600
-        },
-        {
-          "taskDescription": "",
-          "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
         },
         {
           "taskDescription": "",
@@ -3257,7 +3257,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1732362731,
+      "lastUpdated": 1739965951,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001583",
@@ -22069,6 +22069,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1722582000,
+          "endDate": 1739343600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1739343600,
           "endDate": null
         }
       ],
@@ -22087,7 +22093,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1722682228,
+      "lastUpdated": 1739965951,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -23063,6 +23069,18 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1734678000,
+          "endDate": 1734937200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1734850800,
+          "endDate": 1739516400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1739862000,
           "endDate": null
         }
       ],
@@ -23081,7 +23099,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738769992,
+      "lastUpdated": 1739965951,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -23350,13 +23368,8 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1739620359,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "REZ00780",
-          "relatedPermitType": "REZONING"
-        }
-      ]
+      "lastUpdated": 1739965951,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
@@ -26245,13 +26258,8 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1739620359,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "DPR01077",
-          "relatedPermitType": "DEVELOPMENT PERMIT"
-        }
-      ]
+      "lastUpdated": 1739965951,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
@@ -86692,12 +86700,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1709103600,
-          "endDate": null
+          "endDate": 1739862000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1739862000,
           "endDate": null
         },
         {
@@ -86762,7 +86770,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739620359,
+      "lastUpdated": 1739965951,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000632",
@@ -89665,21 +89673,27 @@
           "endDate": 1726815600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1726815600,
+          "endDate": 1739862000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1724396400,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1726815600,
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1727074800,
           "endDate": null
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1727074800,
+          "startDate": null,
           "endDate": null
         },
         {
@@ -89713,10 +89727,22 @@
         {
           "docName": "2024-08-23 Plans_Submission_Unbubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8D05DA64-B2E5-4979-8EF7-E28255027CEF&folderId=63668C240823101640028354"
+        },
+        {
+          "docName": "2025-02-18 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A5998A47-1F4D-43F0-906C-D6495A7A5C92&folderId=63668C240823101640028354"
+        },
+        {
+          "docName": "2025-02-18 - Plans_Revised.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6859A7EB-5EF3-4A1A-8548-42AFF023F895&folderId=63668C240823101640028354"
+        },
+        {
+          "docName": "2025-02-18 - Plans_Revised_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6BCB00A4-0665-4F91-BDE4-582E20E15F67&folderId=63668C240823101640028354"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1739965951,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00281",
@@ -91536,6 +91562,64 @@
       "withApplicantDays": null,
       "city": "View Royal",
       "lastUpdated": 1739132846,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "49 Tovey Cres",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2025-01",
+      "applicationDate": 1739965982,
+      "addresses": [
+        "49 Tovey Cres"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The application proposes an addition to the dwelling and refurbishment to the dock and deck structures.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2025 01 25 Letter to Mayor and Council [PDF - 193 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2025-01 LMC.pdf"
+        },
+        {
+          "docName": "2025 01 25 Plans [PDF - 12 MB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2025-01 Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1739965982,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3560 Highland Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2025-02",
+      "applicationDate": 1739965982,
+      "addresses": [
+        "3560 Highland Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This application proposes to increase the maximum area for  accessory structures from 60m2 to 61m2 and to allow an accessory structure within the front yard.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2025 01 27 Letter to Mayor and Council [PDF - 722 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2025-02 LMC (1).pdf"
+        },
+        {
+          "docName": "2025 01 06 Plans [PDF - 534 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2025-02 PLANS.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1739965982,
       "relatedPermits": []
     },
     {
