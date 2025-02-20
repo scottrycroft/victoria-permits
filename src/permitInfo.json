@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1739965389,
+  "dateRetrieved": 1740051813,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2448,7 +2448,7 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": 1739257200,
+          "startDate": null,
           "endDate": null
         },
         {
@@ -2487,7 +2487,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1739361775,
+      "lastUpdated": 1740052372,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -23081,6 +23081,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1739862000,
+          "endDate": 1739948400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1739948400,
           "endDate": null
         }
       ],
@@ -23099,7 +23105,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1739965951,
+      "lastUpdated": 1740052372,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -23325,8 +23331,13 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1739361775,
-      "relatedPermits": []
+      "lastUpdated": 1740052372,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BOV01110",
+          "relatedPermitType": "BOARD OF VARIANCE"
+        }
+      ]
     },
     {
       "primaryStreetName": "2315 EDGELOW ST",
@@ -23368,8 +23379,13 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1739965951,
-      "relatedPermits": []
+      "lastUpdated": 1740052372,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00780",
+          "relatedPermitType": "REZONING"
+        }
+      ]
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
@@ -26250,16 +26266,21 @@
           "endDate": 1733986800
         },
         {
-          "taskDescription": "Application submission review for completeness",
-          "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1739948400,
+          "endDate": 1739948400
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1739965951,
-      "relatedPermits": []
+      "lastUpdated": 1740052372,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01077",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
@@ -37953,6 +37974,12 @@
       "purpose": "The City is considering a Development Permit application to construct residential buildings. CONCURRENT WITH REZ00884 and HAP00267, SEE REZ00884 FOR PROJECT DETAILS.",
       "progressSections": [
         {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": null,
@@ -37979,7 +38006,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1734090660,
+      "lastUpdated": 1740052372,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00884",
@@ -90178,6 +90205,12 @@
           "endDate": 1734937200
         },
         {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": 1739257200,
+          "endDate": 1739257200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1730444400,
@@ -90193,12 +90226,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1739170800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
-          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -90261,7 +90288,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739287511,
+      "lastUpdated": 1740052372,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
@@ -90427,6 +90454,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -90470,7 +90503,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1740052372,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
