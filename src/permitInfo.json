@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1740051813,
+  "dateRetrieved": 1740138746,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13227,18 +13227,18 @@
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1722495600,
-          "endDate": null
+          "endDate": 1731394800
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1731394800,
+          "endDate": 1738738800
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
+          "startDate": 1740034800,
           "endDate": null
         },
         {
@@ -13266,6 +13266,10 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=11237C240910134903378232&folderId=06162C240715130520214419"
         },
         {
+          "docName": "2298 Lansdowne-Arch-Bubbled-8.5x11-compressed.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=25250C250220093322553064&folderId=06162C240715130520214419"
+        },
+        {
           "docName": "DP000053  - 2298 Lansdowne Road -Conceptual Servicing Plan.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=06566C240718091017369486&folderId=06162C240715130520214419"
         },
@@ -13283,7 +13287,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1726051814,
+      "lastUpdated": 1740139316,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00054",
@@ -15947,14 +15951,20 @@
           "endDate": 1723532400
         },
         {
-          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
-          "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": 1731394800,
+          "endDate": 1738738800
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": 1738738800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
           "startDate": null,
           "endDate": null
         },
@@ -16003,6 +16013,10 @@
       ],
       "documents": [
         {
+          "docName": "2298 Lansdowne-Arch-Bubbled-8.5x11-compressed.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=25250C250220093333551756&folderId=06162C240715134040653746"
+        },
+        {
           "docName": "2298 Lansdowne-Architectural-Bubbled-04Feb2025.pdf",
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=24358C250210143256973436&folderId=06162C240715134040653746"
         },
@@ -16028,7 +16042,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1739447536,
+      "lastUpdated": 1740139316,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -33245,7 +33259,7 @@
       "cityApplicationType": "Pre-Application (CALUC)",
       "applicationType": "Pre-Application",
       "folderNumber": "CLC00466",
-      "applicationDate": 1737529200,
+      "applicationDate": 1737702000,
       "addresses": [
         "1520 BLANSHARD ST"
       ],
@@ -33263,7 +33277,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1737529200,
+      "lastUpdated": 1740139316,
       "relatedPermits": []
     },
     {
@@ -33291,8 +33305,17 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1736751600,
-      "relatedPermits": []
+      "lastUpdated": 1740139316,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00888",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DP000652",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        }
+      ]
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -38209,6 +38232,59 @@
         },
         {
           "relatedPermitID": "CLC00434",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1545 BAY ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMITS",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000652",
+      "applicationDate": 1740034800,
+      "addresses": [
+        "1545 BAY ST",
+        "1551 BAY ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit application for a 5-storey apartment building Concurrent with REZ00888. Refer to rezoning file for all materials.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1740034800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00888",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00467",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -79670,7 +79746,7 @@
         "2010 STORE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to permit an increase in density and a number of land uses including: residential, retail, commercial, arts and cultural facilities, high-tech, office, assembly, studio, small-scale commercial agriculture, parks and open space. A concurrent Official Community Plan (OCP) Amendment is required to increase density, increase building heights and for the location of residential uses.\nVoice your opinion and ask questions here. Your submission will be provided to City staff and Council for consideration.\n",
+      "purpose": "The City is considering a Rezoning application to permit an increase in density and a number of land uses including: residential, retail, commercial, arts and cultural facilities, high-tech, office, assembly, studio, small-scale commercial agriculture, parks and open space. A concurrent Official Community Plan (OCP) Amendment is required to increase density, increase building heights and for the location of residential uses.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -79926,7 +80002,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1740139316,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -87621,6 +87697,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -87707,10 +87789,22 @@
         {
           "docName": "2024-11-18 - Plans_Revised_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=28B8DDA3-3C94-4713-A2AD-CED64EE332AA&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2025-02-20 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=18568C250220160456800169&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2025-02-20 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=18568C250220160456869831&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "2025-02-20- Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=18568C250220160456897900&folderId=53740C230830100501497708"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1740139316,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -89706,6 +89800,12 @@
           "endDate": 1739862000
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1727074800,
+          "endDate": 1739862000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1724396400,
@@ -89714,13 +89814,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": 1727074800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1740034800,
           "endDate": null
         },
         {
@@ -89769,7 +89863,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739965951,
+      "lastUpdated": 1740139316,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00281",
@@ -90454,6 +90548,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
           "startDate": null,
@@ -90500,10 +90600,14 @@
         {
           "docName": "2025-01-28 - Letter to Mayor and Council from St. Nicholas Ukrainian Church.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11020C250128110530266340&folderId=92068C241122145630064084"
+        },
+        {
+          "docName": "ADP Report-reduced.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16990C250213111151566230&folderId=92068C241122145630064084"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740052372,
+      "lastUpdated": 1740139316,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
@@ -90760,6 +90864,71 @@
         },
         {
           "relatedPermitID": "CLC00444",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1545 BAY ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00888",
+      "applicationDate": 1740034800,
+      "addresses": [
+        "1545 BAY ST",
+        "1551 BAY ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to develop a five-storey rental apartment",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1740034800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1740034800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP000652",
+          "relatedPermitType": "DEVELOPMENT PERMITS"
+        },
+        {
+          "relatedPermitID": "CLC00467",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
