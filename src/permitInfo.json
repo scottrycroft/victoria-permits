@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1740138746,
+  "dateRetrieved": 1740225154,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4720,6 +4720,70 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1738738800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "8020 ARTHUR DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001733",
+      "applicationDate": 1740034800,
+      "addresses": [
+        "8020 ARTHUR DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Proposal to construct/install a modular style home",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1740121200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "8020 Arthur Dr_Plans WEB_Feb 20, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=37128C250221140945370292&folderId=37128C250221134810814436"
+        },
+        {
+          "docName": "8020 Arthur Dr_Survey WEB_Feb 20, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=37128C250221140945398759&folderId=37128C250221134810814436"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1740121200,
       "relatedPermits": []
     },
     {
@@ -22332,7 +22396,7 @@
         "3444 WHITTIER AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 (SINGLE FAMILY) INTO RA-11 (RESIDENTIAL APARTMENT) TO CONSTRUCT A 57 UNIT MULTI-FAMILY RENTAL BUILDING WITH UNDERGROUND PARKING. VARIANCE REQUESTED.",
+      "purpose": "TO REZONE THREE PROPERTIES FROM RS-6 (SINGLE FAMILY) INTO RA-11 (RESIDENTIAL APARTMENT) TO CONSTRUCT A 68 UNIT MULTI-FAMILY RENTAL BUILDING WITH UNDERGROUND PARKING. VARIANCE REQUESTED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -22402,7 +22466,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1739620359,
+      "lastUpdated": 1740225714,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -26562,8 +26626,13 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1739533941,
-      "relatedPermits": []
+      "lastUpdated": 1740225714,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ALR00044",
+          "relatedPermitType": "AGRICULTURAL LAND RESERVE"
+        }
+      ]
     },
     {
       "primaryStreetName": "2257 Harbour Road",
@@ -89129,6 +89198,12 @@
           "endDate": 1712127600
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1712127600,
+          "endDate": 1714028400
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1714460400,
@@ -89147,16 +89222,10 @@
           "endDate": 1725606000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1712127600,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1738134000,
-          "endDate": null
+          "endDate": 1740121200
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -89222,7 +89291,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739447536,
+      "lastUpdated": 1740225714,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000642",
