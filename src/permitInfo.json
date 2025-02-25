@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1740397390,
+  "dateRetrieved": 1740483794,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15819,8 +15819,8 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1740121200,
+          "endDate": 1740121200
         },
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
@@ -15896,7 +15896,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1725965407,
+      "lastUpdated": 1740484362,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000051",
@@ -80850,6 +80850,18 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1740380400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -81002,10 +81014,18 @@
         {
           "docName": "2024-12-23 - Plans_Revised_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=378007EC-C49D-4B0F-8DDF-41D4844C649A&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2025-02-24 - Plans_Revised_Bubbled_Compressed.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F52A9DD6-CC85-4099-9561-E0FC000CFF91&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "2025-02-24 - Plans_Revised_Compressed.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D4580F86-40A9-451E-9736-507A087BC495&folderId=86097C211222091219582725"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1740484362,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -87754,21 +87774,21 @@
           "endDate": 1734678000
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1734678000,
+          "endDate": 1740034800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1693378800,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1734678000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1740380400,
           "endDate": null
         },
         {
@@ -87873,7 +87893,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740139316,
+      "lastUpdated": 1740484362,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00418",
@@ -90955,12 +90975,12 @@
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1740034800,
-          "endDate": null
+          "endDate": 1740034800
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1740380400,
           "endDate": null
         },
         {
@@ -90988,9 +91008,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2025-02-20 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=19515C250224155941383768&folderId=18596C250220125617687365"
+        },
+        {
+          "docName": "2025-02-20 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=19515C250224155941452869&folderId=18596C250220125617687365"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1740034800,
+      "lastUpdated": 1740484362,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000652",
