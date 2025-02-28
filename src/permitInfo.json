@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1740670826,
+  "dateRetrieved": 1740742996,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22300,14 +22300,8 @@
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": 1728630000,
-          "endDate": 1728630000
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
           "startDate": 1720162800,
-          "endDate": null
+          "endDate": 1728630000
         },
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
@@ -22331,7 +22325,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1728730241,
+      "lastUpdated": 1740743572,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -23579,8 +23573,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1737038087,
+      "lastUpdated": 1740743572,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLC07024",
+          "relatedPermitType": "COMMERCIAL PERMIT"
+        },
         {
           "relatedPermitID": "REZ00782",
           "relatedPermitType": "REZONING"
@@ -26455,8 +26453,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1736855491,
+      "lastUpdated": 1740743572,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLC07024",
+          "relatedPermitType": "COMMERCIAL PERMIT"
+        },
         {
           "relatedPermitID": "DPR01079",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -84977,10 +84979,18 @@
         {
           "docName": "2024-01-24 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=445A568C-DFBD-4901-AFE5-E6190C2652BC&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "24-002_V2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=21089C250227150108385354&folderId=61288C220927141506591408"
+        },
+        {
+          "docName": "25-010.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=20847C250227091945129919&folderId=61288C220927141506591408"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1740743572,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00247",
@@ -87709,7 +87719,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1728543600,
-          "endDate": null
+          "endDate": 1738306800
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -87765,7 +87775,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1740743572,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -90705,6 +90715,12 @@
           "endDate": 1736838000
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1740553200,
+          "endDate": 1740553200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1733986800,
@@ -90714,12 +90730,6 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1736751600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
-          "taskType": "Advisory Design Panel (ADP) Meeting",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -90776,7 +90786,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740139316,
+      "lastUpdated": 1740743572,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00267",
