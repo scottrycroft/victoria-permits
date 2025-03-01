@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1740742996,
+  "dateRetrieved": 1740829962,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22119,7 +22119,7 @@
         "4007 RAINBOW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING. VARIANCES REQUESTED.",
+      "purpose": "TO REZONE FROM RS-10 TO RA-11 TO CONSTRUCT A 6 STOREY 113 UNIT APARTMENT BUILDING WITH TWO LEVELS OF UNDERGROUND PARKING.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -22155,6 +22155,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1739343600,
+          "endDate": 1740726000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1740726000,
           "endDate": null
         }
       ],
@@ -22173,7 +22179,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740570774,
+      "lastUpdated": 1740830535,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -23428,7 +23434,7 @@
         "2315 EDGELOW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6, RS-12 AND RS-14 TO RA-11 TO CONSTRUCT 2 6-STOREY BUILDINGS WITH 1-STOREY OF UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM RS-6, RS-12 AND RS-14 (SINGLE FAMILY) ZONES TO RA-11 (APARTMENT) ZONE TO CONSTRUCT 349 UNITS IN TWO 6-STOREY BUILDINGS WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23457,7 +23463,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1740671386,
+      "lastUpdated": 1740830535,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00780",
@@ -33394,7 +33400,7 @@
         "1551 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nAn in-person CALUC meeting is scheduled for March 18 with the Fernwood Neighbourhood Association.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
       "progressSections": [],
       "documents": [
         {
@@ -33407,7 +33413,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740139316,
+      "lastUpdated": 1740830535,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00888",
@@ -83763,6 +83769,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -83846,7 +83858,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1740830535,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
