@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741002192,
+  "dateRetrieved": 1741088591,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22162,6 +22162,12 @@
           "taskType": "REFERRALS",
           "startDate": 1740726000,
           "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1740985200,
+          "endDate": null
         }
       ],
       "documents": [
@@ -22179,7 +22185,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740830535,
+      "lastUpdated": 1741089160,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00764",
@@ -23296,7 +23302,7 @@
         "3691 WASCANA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "CONSOLIDATION OF SIX RS-6 LOTS TO CONSTRUCT 104 MULTI FAMILY UNITS",
+      "purpose": "CONSOLIDATION OF SIX RS-6 LOTS TO CONSTRUCT 104 MULTI FAMILY UNIT BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23356,7 +23362,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1741089160,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -23768,7 +23774,7 @@
         "3960 ASHFORD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO RT-WA TO CONSTRUCT 8 TOWNHOUSES WITH SUITES",
+      "purpose": "TO REZONE FROM RS-10 TO TBD RT ZONE TO CONSTRUCT 8 TOWNHOUSES WITH SUITES",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23785,7 +23791,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1738842793,
+      "lastUpdated": 1741089160,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00785",
@@ -33400,7 +33406,7 @@
         "1551 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nAn in-person CALUC meeting is scheduled for March 18 with the Fernwood Neighbourhood Association.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nA second CALUC meeting is scheduled in-person for March 18 at 7pm with the Fernwood Neighbourhood Association.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
       "progressSections": [],
       "documents": [
         {
@@ -33413,7 +33419,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740830535,
+      "lastUpdated": 1741089160,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00888",
@@ -51675,6 +51681,18 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1725433200,
+          "endDate": 1740985200
+        },
+        {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1740985200,
+          "endDate": 1740985200
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1740985200,
           "endDate": null
         },
         {
@@ -51724,10 +51742,22 @@
         {
           "docName": "2024-09-04 - Plans - Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC5C2478-FFE9-44A6-8DBF-CC97A3B2250D&folderId=76764C231122090108635026"
+        },
+        {
+          "docName": "2025-03-03 - Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=21769C250303083227248593&folderId=76764C231122090108635026"
+        },
+        {
+          "docName": "2025-03-03 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=21769C250303083227333234&folderId=76764C231122090108635026"
+        },
+        {
+          "docName": "2025-03-03 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=21769C250303083227364577&folderId=76764C231122090108635026"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1741089160,
       "relatedPermits": []
     },
     {
@@ -78469,7 +78499,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1740985200,
           "endDate": null
         },
         {
@@ -78547,6 +78577,22 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=80DF71AC-3443-4785-BA35-40DA5C2D98D5&folderId=26085C210521111758372003"
         },
         {
+          "docName": "2025-03-03 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=444E76D9-ABF4-427C-B39E-F2A4E19DF131&folderId=26085C210521111758372003"
+        },
+        {
+          "docName": "2025-03-03 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FC2C0A52-3768-43B6-9B4C-E2B70735F98D&folderId=26085C210521111758372003"
+        },
+        {
+          "docName": "2025-03-03 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7C23F48F-1363-44FF-8450-1E50E34ABDCA&folderId=26085C210521111758372003"
+        },
+        {
+          "docName": "2025-03-03 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7C5EB8A8-700D-4A77-A307-40040AFD90E5&folderId=26085C210521111758372003"
+        },
+        {
           "docName": "24-03-15 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1B0521CE-7E41-46A2-BB87-25E127DF4088&folderId=26085C210521111758372003"
         },
@@ -78568,7 +78614,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1741089160,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -83771,7 +83817,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1740985200,
           "endDate": null
         },
         {
@@ -83858,7 +83904,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740830535,
+      "lastUpdated": 1741089160,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
