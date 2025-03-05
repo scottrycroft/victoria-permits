@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741088591,
+  "dateRetrieved": 1741174983,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3074,9 +3074,15 @@
         },
         {
           "taskDescription": "",
+          "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
+          "startDate": 1727074800,
+          "endDate": 1727074800
+        },
+        {
+          "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1727074800,
+          "endDate": 1727074800
         },
         {
           "taskDescription": "",
@@ -3087,7 +3093,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1726656633,
+      "lastUpdated": 1741175558,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001586",
@@ -23302,7 +23308,7 @@
         "3691 WASCANA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "CONSOLIDATION OF SIX RS-6 LOTS TO CONSTRUCT 104 MULTI FAMILY UNIT BUILDING",
+      "purpose": "NON-MARKET + PRIORITY CONSOLIDATION OF SIX RS-6 LOTS TO CONSTRUCT 104 MULTI FAMILY UNIT BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23362,7 +23368,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1741089160,
+      "lastUpdated": 1741175558,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -27635,25 +27641,19 @@
       "purpose": "Development Permit and Development Variance Permit application for a four-storey 21-unit multi-family residential development with surface parking.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1729494000,
-          "endDate": 1729494000
+          "startDate": 1740380400,
+          "endDate": 1740380400
         },
         {
-          "taskDescription": "APC Meeting Staff Report",
+          "taskDescription": "",
           "taskType": "",
-          "startDate": 1730790000,
-          "endDate": 1730790000
+          "startDate": null,
+          "endDate": null
         },
         {
-          "taskDescription": "Committee of the Whole Staff Report",
-          "taskType": "",
-          "startDate": 1738566000,
-          "endDate": 1738566000
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskDescription": ".",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -27671,28 +27671,12 @@
         {
           "docName": "Revised Plans (Jan. 2025)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9899-Seventh-Street-Revised-Plans-Jan-2025.pdf"
-        },
-        {
-          "docName": "October 21, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/43333/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
-        },
-        {
-          "docName": "November 5, 2024 APC Meeting Staff Report",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-APC-Staff-Report.pdf"
-        },
-        {
-          "docName": "February 3, 2025 Committee of the Whole Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/47868/Development%20Permit%20Application%20No.%20DP100848_Dev.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "http://www.sidney.ca/wp-content/uploads/9895-9899-Seventh-Street-DV-Notice-1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1739447570,
+      "lastUpdated": 1741175598,
       "relatedPermits": []
     },
     {
@@ -53401,6 +53385,18 @@
       "purpose": "The City is considering a Development Permit with Variances application to permit building a long-term bicycle parking accessory structure and a parking variance, both triggered by a proposed change of use from retail to club.",
       "progressSections": [
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1741071600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -53423,12 +53419,20 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=222DA321-9FB1-4C25-AAE3-99EAEA724709&folderId=10248C250124115126227414"
         },
         {
+          "docName": "2025-03-04 - List of Changes.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=155E0963-DF2C-4787-9536-D7335B308A79&folderId=10248C250124115126227414"
+        },
+        {
+          "docName": "2025-03-04 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=25688D89-94C4-45E3-9AAB-3DBFEBE5BCFF&folderId=10248C250124115126227414"
+        },
+        {
           "docName": "Letter to DS.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F97ABEA8-9288-4CF3-B7A6-CC9BF860E75B&folderId=10248C250124115126227414"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738151533,
+      "lastUpdated": 1741175558,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00291",
@@ -88478,6 +88482,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -88549,7 +88559,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739287511,
+      "lastUpdated": 1741175558,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00252",
