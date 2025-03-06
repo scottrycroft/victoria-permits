@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741174983,
+  "dateRetrieved": 1741261392,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2482,12 +2482,12 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34922C250116114501956612&folderId=16332C231110115426945016"
         },
         {
-          "docName": "Correspondence - 1934 Hovey Road WEB - February 10, 2025.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=36200C250210101548982888&folderId=16332C231110115426945016"
+          "docName": "Correspondence - 1934 Hovey Road WEB - March 5, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=37557C250305150153621397&folderId=16332C231110115426945016"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1740052372,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -13259,8 +13259,12 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1740671386,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP016839",
+          "relatedPermitType": "DEMOLITION PERMIT"
+        },
         {
           "relatedPermitID": "BP016790",
           "relatedPermitType": "PART 9 BUILDING (STANDARD)"
@@ -15981,8 +15985,12 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1740671386,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP016839",
+          "relatedPermitType": "DEMOLITION PERMIT"
+        },
         {
           "relatedPermitID": "BP016790",
           "relatedPermitType": "PART 9 BUILDING (STANDARD)"
@@ -23471,11 +23479,17 @@
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1739516400,
           "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1741158000,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1740830535,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00780",
@@ -33375,8 +33389,13 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740139316,
-      "relatedPermits": []
+      "lastUpdated": 1741261961,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00889",
+          "relatedPermitType": "Rezoning Application"
+        }
+      ]
     },
     {
       "primaryStreetName": "1545 BAY ST",
@@ -53423,6 +53442,10 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=155E0963-DF2C-4787-9536-D7335B308A79&folderId=10248C250124115126227414"
         },
         {
+          "docName": "2025-03-04 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=73F71F20-FDC7-406E-9B4A-8F3A26BEF764&folderId=10248C250124115126227414"
+        },
+        {
           "docName": "2025-03-04 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=25688D89-94C4-45E3-9AAB-3DBFEBE5BCFF&folderId=10248C250124115126227414"
         },
@@ -53432,7 +53455,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741175558,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00291",
@@ -90525,7 +90548,7 @@
         "625 JOHNSON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a new hotel with ground floor restaurant and meeting rooms, while retaining historical components of the Duck's building. Concurrent with Heritage Alteration Permit with Variances Application #HAV00037.",
+      "purpose": "The City is considering a Rezoning application for a new hotel with ground floor restaurant and meeting rooms, while retaining historical components of the Duck's building. Concurrent with Heritage Alteration Permit with Variances Application HAV00037.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -90629,7 +90652,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740052372,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
@@ -90882,7 +90905,7 @@
         "2845 CEDAR HILL RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for to construct 12 strata Townhouse units within 3 separate buildings. Concurrent with Development Permit with Variance Application DPV00284.",
+      "purpose": "The City is considering a Rezoning application to construct 12 strata Townhouse units within three separate buildings. Concurrent with Development Permit with Variance Application DPV00284.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -90944,7 +90967,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00284",
@@ -91062,14 +91085,26 @@
           "endDate": 1738134000
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1740726000,
+          "endDate": 1740726000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1738220400,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1740726000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -91103,7 +91138,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1741261961,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00288",
@@ -91185,6 +91220,66 @@
         },
         {
           "relatedPermitID": "CLC00467",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1520 BLANSHARD ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00889",
+      "applicationDate": 1741158000,
+      "addresses": [
+        "1520 BLANSHARD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1741158000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00466",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
