@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741261392,
+  "dateRetrieved": 1741347892,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13192,15 +13192,14 @@
       ]
     },
     {
-      "primaryStreetName": "1039 FALKLAND RD",
+      "primaryStreetName": "",
       "applicant": "WHITE WOLF HOMES",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000052",
       "applicationDate": 1716966000,
       "addresses": [
-        "1039 FALKLAND RD",
-        "1047 FALKLAND RD"
+        "N/A"
       ],
       "status": "ACTIVE",
       "purpose": "This is an application for a development permit with variances. To construct rezoning for 2 existing small lots. (was originally addressed as 2101 Sutherland Road (Readdressed as 1047 and 1039 Falkland Rd)",
@@ -13222,6 +13221,12 @@
           "taskType": "COUNCIL MEETING",
           "startDate": 1733727600,
           "endDate": 1733727600
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -13259,7 +13264,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1741261961,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "BP016839",
@@ -33344,7 +33349,7 @@
         "602 DALLAS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at mayorandcouncil@victoria.ca\n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”.",
       "progressSections": [],
       "documents": [
         {
@@ -33357,7 +33362,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1737356400,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00438",
@@ -53410,6 +53415,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -53455,7 +53466,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741261961,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00291",
@@ -81004,7 +81015,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1735023600,
-          "endDate": null
+          "endDate": 1738825200
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
@@ -81182,7 +81193,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740484362,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -83928,10 +83939,14 @@
         {
           "docName": "2025-01-10 - Plans_Revised.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99FDFC1B-7CCE-45AD-9FE3-FC626389116F&folderId=32154C220610154226154683"
+        },
+        {
+          "docName": "25-018.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=23218C250306085449520089&folderId=32154C220610154226154683"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741089160,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -87807,6 +87822,12 @@
           "endDate": 1738306800
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -87860,7 +87881,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740743572,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -90049,7 +90070,7 @@
         "1574 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow for two three-storey residential buildings.",
+      "purpose": "The City is considering a Rezoning application to allow for two three-storey residential buildings. Concurrent with DPV00281.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -90133,7 +90154,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740139316,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00281",
@@ -91152,7 +91173,7 @@
     },
     {
       "primaryStreetName": "1545 BAY ST",
-      "applicant": "N/A",
+      "applicant": "COLIN HARPER",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00888",
@@ -91162,7 +91183,7 @@
         "1551 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to develop a five-storey rental apartment",
+      "purpose": "The City is considering a Rezoning application to develop a five-storey rental apartment. Concurrent with DP000652.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -91212,7 +91233,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740484362,
+      "lastUpdated": 1741348459,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000652",
