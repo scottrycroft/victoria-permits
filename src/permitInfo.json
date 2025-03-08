@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741347892,
+  "dateRetrieved": 1741434565,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -23321,7 +23321,7 @@
         "3691 WASCANA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "NON-MARKET + PRIORITY CONSOLIDATION OF SIX RS-6 LOTS TO CONSTRUCT 104 MULTI FAMILY UNIT BUILDING",
+      "purpose": "CONSOLIDATION OF SIX RS-6 LOTS TO CONSTRUCT 104 MULTI FAMILY UNIT BUILDING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23381,7 +23381,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1741175558,
+      "lastUpdated": 1741435141,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -33362,8 +33362,16 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741348459,
+      "lastUpdated": 1741435141,
       "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00890",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "DPV00290",
+          "relatedPermitType": "Development Permit with Variance"
+        },
         {
           "relatedPermitID": "CLC00438",
           "relatedPermitType": "Pre-Application (CALUC)"
@@ -53409,21 +53417,21 @@
       "purpose": "The City is considering a Development Permit with Variances application to permit building a long-term bicycle parking accessory structure and a parking variance, both triggered by a proposed change of use from retail to club.",
       "progressSections": [
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1737702000,
+          "endDate": 1741071600
+        },
+        {
           "taskDescription": "City receives updated plans from the applicant",
           "taskType": "Received Revised Plans",
           "startDate": 1741071600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1741071600
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1741330800,
           "endDate": null
         },
         {
@@ -53466,7 +53474,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741348459,
+      "lastUpdated": 1741435141,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00291",
@@ -53545,6 +53553,62 @@
         },
         {
           "relatedPermitID": "CLC00412",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "600 DALLAS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00290",
+      "applicationDate": 1741330800,
+      "addresses": [
+        "600 DALLAS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "SEE REZ00890 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a new 9 unit apartment building.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1741330800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00890",
+          "relatedPermitType": "Rezoning Application"
+        },
+        {
+          "relatedPermitID": "CLC00464",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        },
+        {
+          "relatedPermitID": "CLC00438",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
@@ -78647,12 +78711,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6899C36A-8821-4A36-B03B-CE0AB44CD2FA&folderId=26085C210521111758372003"
         },
         {
+          "docName": "25-009.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=23860C250307124832934920&folderId=26085C210521111758372003"
+        },
+        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=28ADFB8F-E8D3-46E9-97FC-6E506126361C&folderId=26085C210521111758372003"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741089160,
+      "lastUpdated": 1741435141,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -87824,7 +87892,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1741330800,
           "endDate": null
         },
         {
@@ -87881,7 +87949,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741348459,
+      "lastUpdated": 1741435141,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -91086,7 +91154,7 @@
     },
     {
       "primaryStreetName": "824 ALSTON ST",
-      "applicant": "N/A",
+      "applicant": "M'AKOLA DEVELOPMENT SERVICES",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00887",
@@ -91159,7 +91227,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741261961,
+      "lastUpdated": 1741435141,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00288",
@@ -91301,6 +91369,74 @@
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00466",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "600 DALLAS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00890",
+      "applicationDate": 1741330800,
+      "addresses": [
+        "600 DALLAS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to construct a new 9 unit apartment building. Concurrent with DPV00290.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1741330800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00290",
+          "relatedPermitType": "Development Permit with Variance"
+        },
+        {
+          "relatedPermitID": "CLC00464",
+          "relatedPermitType": "Pre-Application (CALUC)"
+        },
+        {
+          "relatedPermitID": "CLC00438",
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
