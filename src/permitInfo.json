@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741603392,
+  "dateRetrieved": 1741690075,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -27004,10 +27004,10 @@
       "purpose": "Development Permit application for a new marine industrial development.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1725346800,
-          "endDate": 1725346800
+          "startDate": 1733122800,
+          "endDate": 1733122800
         }
       ],
       "documents": [
@@ -27018,16 +27018,12 @@
         {
           "docName": "Revised Plans (Sept. 2024)",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2242-Harbour-Road-Plans-Sept-2024.pdf"
-        },
-        {
-          "docName": "September 3, 2024 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/40493/7a-DP100846%20-%202242%20_%202244%20Harbour%20Road.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1727866251,
+      "lastUpdated": 1741690685,
       "relatedPermits": []
     },
     {
@@ -52753,6 +52749,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1738134000,
+          "endDate": 1741590000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1741590000,
           "endDate": null
         },
         {
@@ -52799,7 +52801,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738769992,
+      "lastUpdated": 1741690649,
       "relatedPermits": []
     },
     {
@@ -53563,23 +53565,23 @@
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00290",
-      "applicationDate": 1741330800,
+      "applicationDate": 1741590000,
       "addresses": [
         "600 DALLAS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE REZ00890 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a new 9 unit apartment building.",
+      "purpose": "SEE REZ00890 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a new 9-unit apartment building.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741590000,
+          "endDate": 1741590000
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1741590000,
           "endDate": null
         },
         {
@@ -53597,7 +53599,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1741330800,
+      "lastUpdated": 1741690649,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00890",
@@ -81352,12 +81354,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1738566000,
-          "endDate": null
+          "endDate": 1741590000
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1741590000,
           "endDate": null
         },
         {
@@ -81510,7 +81512,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1741690649,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00190",
@@ -87890,12 +87892,6 @@
           "endDate": 1738306800
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1741330800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -87949,7 +87945,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741435141,
+      "lastUpdated": 1741690649,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -91379,23 +91375,23 @@
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00890",
-      "applicationDate": 1741330800,
+      "applicationDate": 1741590000,
       "addresses": [
         "600 DALLAS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct a new 9 unit apartment building. Concurrent with DPV00290.",
+      "purpose": "The City is considering a Rezoning application to construct a new 9-unit apartment building. Concurrent with DPV00290.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741590000,
+          "endDate": 1741590000
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1741590000,
           "endDate": null
         },
         {
@@ -91423,9 +91419,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2025-03-10 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=24152C250310081703701353&folderId=23636C250307094109873569"
+        },
+        {
+          "docName": "2025-03-10 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=24152C250310081703734353&folderId=23636C250307094109873569"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1741330800,
+      "lastUpdated": 1741690649,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00290",
@@ -92161,12 +92166,16 @@
         {
           "docName": "2024 07 11 Plans [PDF - 27 MB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP2024-03 Plans.pdf"
+        },
+        {
+          "docName": "2025 03 11 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/77073/2025%2003%2011%20DP%202024-03-%20294,%20296%20Eltham%20Road%20and%2024.pdf?handle=7983C003CF024A2C810FDEE4DC95260F"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1739133193,
+      "lastUpdated": 1741690681,
       "relatedPermits": []
     },
     {
@@ -92266,12 +92275,16 @@
         {
           "docName": "2024 10 04 Plans [PDF - 16 MB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP2024-06 Plans.pdf"
+        },
+        {
+          "docName": "2025 03 11 COW Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/77070/2024%2003%2011%20-%20DP%202024-06%20-%204%20Helmcken%20Road%20(SSMUH).pdf?handle=651FB1CC8F5A42529B4FB55D4558BB15"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1739132846,
+      "lastUpdated": 1741690681,
       "relatedPermits": []
     },
     {
