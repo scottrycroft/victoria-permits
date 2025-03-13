@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741690075,
+  "dateRetrieved": 1741862591,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4172,7 +4172,7 @@
         "1117 GREIG AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Request to make TUP camping site to permanent use",
+      "purpose": "The District has received a Zoning BYLAW AMENDMENT application to permit seasonal farm camping.",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -4230,7 +4230,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1736596280,
+      "lastUpdated": 1741863164,
       "relatedPermits": []
     },
     {
@@ -4790,6 +4790,70 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1740121200,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1013 VERDIER AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001737",
+      "applicationDate": 1741158000,
+      "addresses": [
+        "1013 VERDIER AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The District has received a Development Permit application to construct 4 new single family homes. Variances have been requested for the number of buildings and rear yard setback.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1741158000,
+          "endDate": 1741158000
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1013 Verdier_Draft DP Plans WEB_Jan 31 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=37557C250310100256853668&folderId=37868C250305103749009661"
+        },
+        {
+          "docName": "1013 Verdier_Letter of rationale WEB_March 7, 2025_Redacted.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=37557C250310100256896563&folderId=37868C250305103749009661"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1741158000,
       "relatedPermits": []
     },
     {
@@ -13225,8 +13289,8 @@
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741590000,
+          "endDate": 1741590000
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
@@ -13264,7 +13328,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1741348459,
+      "lastUpdated": 1741863164,
       "relatedPermits": [
         {
           "relatedPermitID": "BP016839",
@@ -23646,6 +23710,24 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1736838000,
           "endDate": 1736838000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1741762800,
+          "endDate": 1741762800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1741762800,
+          "endDate": 1741762800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1741762800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -23663,7 +23745,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1737201135,
+      "lastUpdated": 1741863164,
       "relatedPermits": []
     },
     {
@@ -26691,15 +26773,57 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1739430000,
+          "endDate": 1741676400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1741676400,
+          "endDate": 1741676400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1740639600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1740225714,
+      "lastUpdated": 1741863164,
       "relatedPermits": [
         {
           "relatedPermitID": "ALR00044",
+          "relatedPermitType": "AGRICULTURAL LAND RESERVE"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "5455 SPOTTS CLOSE",
+      "applicant": "N/A",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00788",
+      "applicationDate": 1741762800,
+      "addresses": [
+        "5455 SPOTTS CLOSE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1741762800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "ALR00045",
           "relatedPermitType": "AGRICULTURAL LAND RESERVE"
         }
       ]
@@ -87892,6 +88016,12 @@
           "endDate": 1738306800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1741762800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -87945,7 +88075,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741690649,
+      "lastUpdated": 1741863164,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
@@ -91315,23 +91445,23 @@
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00889",
-      "applicationDate": 1741158000,
+      "applicationDate": 1741244400,
       "addresses": [
         "1520 BLANSHARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to",
+      "purpose": "The City is considering a Rezoning application for a 35 storey mixed use tower, with commercial and strata dwelling units. The proposal includes an OCP amendment to decrease the proportion of required commercial uses and to increase the allowable building height.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741244400,
+          "endDate": 1741244400
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
-          "startDate": null,
+          "startDate": 1741762800,
           "endDate": null
         },
         {
@@ -91359,9 +91489,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2025-03-06 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=24639C250311115051512522&folderId=22600C250305100930422551"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1741158000,
+      "lastUpdated": 1741863164,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00466",
