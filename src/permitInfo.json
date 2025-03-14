@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741862591,
+  "dateRetrieved": 1741948989,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -24121,8 +24121,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1738929444,
+      "lastUpdated": 1741949561,
       "relatedPermits": [
+        {
+          "relatedPermitID": "RBP00151",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT"
+        },
         {
           "relatedPermitID": "RBP00043",
           "relatedPermitType": "RESIDENTIAL BUILDING PERMIT"
@@ -91221,14 +91225,26 @@
           "endDate": 1738825200
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1741849200,
+          "endDate": 1741849200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1738566000,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1741849200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -91262,7 +91278,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739361775,
+      "lastUpdated": 1741949561,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000651",
@@ -91515,7 +91531,7 @@
         "600 DALLAS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to construct a new 9-unit apartment building. Concurrent with DPV00290.",
+      "purpose": "The City is considering a Rezoning application to increase the density and add multiple dwellings as a permitted use to facilitate the development of an approximately four-storey rental housing development. Concurrent with DPV00290.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -91565,7 +91581,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741690649,
+      "lastUpdated": 1741949561,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00290",
