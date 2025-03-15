@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1741948989,
+  "dateRetrieved": 1742035387,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22535,6 +22535,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1739516400,
+          "endDate": 1741935600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1741935600,
           "endDate": null
         }
       ],
@@ -22557,7 +22563,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740225714,
+      "lastUpdated": 1742035962,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -23256,6 +23262,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1739948400,
+          "endDate": 1741935600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1741935600,
+          "endDate": 1741935600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1741935600,
           "endDate": null
         }
       ],
@@ -23278,7 +23296,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740570774,
+      "lastUpdated": 1742035962,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00758",
@@ -25236,9 +25254,21 @@
           "endDate": 1731481200
         },
         {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1741590000,
+          "endDate": 1741590000
+        },
+        {
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1730876400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1741676400,
           "endDate": null
         }
       ],
@@ -25253,7 +25283,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1731585113,
+      "lastUpdated": 1742035962,
       "relatedPermits": []
     },
     {
@@ -83719,8 +83749,8 @@
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1726124400,
+          "endDate": 1726124400
         }
       ],
       "documents": [
@@ -83818,7 +83848,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1742035962,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -85171,6 +85201,12 @@
           "endDate": 1709794800
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1741849200,
+          "endDate": 1741849200
+        },
+        {
           "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting",
           "startDate": null,
@@ -85288,7 +85324,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740743572,
+      "lastUpdated": 1742035962,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00247",
@@ -86536,8 +86572,8 @@
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1726124400,
+          "endDate": 1726124400
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -86587,7 +86623,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1742035962,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -87707,6 +87743,12 @@
           "endDate": 1738825200
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1741849200,
+          "endDate": 1741849200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1705993200,
@@ -87722,12 +87764,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1739170800,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -87786,7 +87822,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1740570774,
+      "lastUpdated": 1742035962,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00289",
