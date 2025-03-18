@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1742208187,
+  "dateRetrieved": 1742320613,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3087,13 +3087,13 @@
         {
           "taskDescription": "",
           "taskType": "FINAL ADOPTION OF BYLAW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741590000,
+          "endDate": 1741590000
         }
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1741175558,
+      "lastUpdated": 1742321175,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001586",
@@ -16109,17 +16109,17 @@
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": 1738738800,
+          "endDate": 1742194800
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
           "endDate": null
         },
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
           "taskType": "*APPLICATION SUBMITTED",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -16191,7 +16191,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1740139316,
+      "lastUpdated": 1742321175,
       "relatedPermits": [
         {
           "relatedPermitID": "OCP00009",
@@ -16388,14 +16388,14 @@
           "endDate": 1738911600
         },
         {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": null,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
           "endDate": null
         },
@@ -16431,7 +16431,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1739287511,
+      "lastUpdated": 1742321175,
       "relatedPermits": []
     },
     {
@@ -18747,6 +18747,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1739343600,
+          "endDate": 1742194800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1742194800,
           "endDate": null
         }
       ],
@@ -18765,7 +18771,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740570774,
+      "lastUpdated": 1742321175,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00727",
@@ -26834,27 +26840,33 @@
     },
     {
       "primaryStreetName": "5455 SPOTTS CLOSE",
-      "applicant": "N/A",
+      "applicant": "STRONGITHARM CONSULTING",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00788",
-      "applicationDate": 1741762800,
+      "applicationDate": 1741849200,
       "addresses": [
         "5455 SPOTTS CLOSE"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO REZONE FROM A-1 RURAL TO A-2 RURAL TO ALLOW FOR A SECOND SINGLE FAMILY DWELLING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
           "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
+          "startDate": 1741849200,
+          "endDate": 1741849200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1742194800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1741762800,
+      "lastUpdated": 1742321175,
       "relatedPermits": [
         {
           "relatedPermitID": "ALR00045",
@@ -48728,11 +48740,11 @@
         "1737 FAIRFIELD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00821 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a multiple dwelling building with variance.",
+      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00821 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a multiple dwelling building with variance. Approved by Council Marh 13, 2025",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1696848405,
+      "lastUpdated": 1742321175,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00422",
@@ -49105,7 +49117,7 @@
         "1043 MEARES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE REZ00827 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a multiple dwelling building with live/work on the ground floor and a parking variance.",
+      "purpose": "SEE REZ00827 FOR PROJECT DETAILS. The City is considering a Development Permit with Variance application to construct a multiple dwelling building with live/work on the ground floor and a parking variance. Approved by Council March 13, 2025",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -49134,7 +49146,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1723200621,
+      "lastUpdated": 1742321175,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00827",
@@ -91545,10 +91557,14 @@
         {
           "docName": "2025-03-06 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=24639C250311115051512522&folderId=22600C250305100930422551"
+        },
+        {
+          "docName": "2025-03-06 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=24639C250311115051541044&folderId=22600C250305100930422551"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741863164,
+      "lastUpdated": 1742321175,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00466",
