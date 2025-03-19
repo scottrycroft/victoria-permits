@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1742320613,
+  "dateRetrieved": 1742380974,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3777,7 +3777,7 @@
         "8012 TURGOOSE TERR"
       ],
       "status": "ACTIVE",
-      "purpose": "Delegated DP - new retaining wall within shoreline",
+      "purpose": "New retaining wall up to 4m within shoreline and extension of pool",
       "progressSections": [
         {
           "taskDescription": "",
@@ -3823,7 +3823,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1730807415,
+      "lastUpdated": 1742381549,
       "relatedPermits": []
     },
     {
@@ -22330,12 +22330,16 @@
       ],
       "documents": [
         {
-          "docName": "compressed",
+          "docName": "ELEVATIONS_DEC 11, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1E3F56D2-A505-4A0B-BE60-5B9C77EE0A07&folderId=68224C231208143329212625"
+        },
+        {
+          "docName": "LANDSCAPE_DEC 11, 2023_1",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4C008C1E-41B4-48E5-B549-DBF63F5FE2B7&folderId=68224C231208143329212625"
         },
         {
-          "docName": "ELEVATIONS_DEC 11, 2023",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1E3F56D2-A505-4A0B-BE60-5B9C77EE0A07&folderId=68224C231208143329212625"
+          "docName": "SHADOW STUDY_DEC 11, 2023",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A2BF2001-D84E-4955-9B0B-488E319F9083&folderId=68224C231208143329212625"
         },
         {
           "docName": "SITE PLAN_DEC 11, 2023",
@@ -22343,7 +22347,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1720608591,
+      "lastUpdated": 1742381549,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -26861,12 +26865,12 @@
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1742194800,
-          "endDate": null
+          "endDate": 1742281200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1742321175,
+      "lastUpdated": 1742381549,
       "relatedPermits": [
         {
           "relatedPermitID": "ALR00045",
@@ -53731,7 +53735,7 @@
     },
     {
       "primaryStreetName": "600 DALLAS RD",
-      "applicant": "N/A",
+      "applicant": "MICHAEL MOODY",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00290",
@@ -53749,12 +53753,6 @@
           "endDate": 1741590000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1741590000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -53769,7 +53767,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1741690649,
+      "lastUpdated": 1742381549,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00890",
@@ -91574,7 +91572,7 @@
     },
     {
       "primaryStreetName": "600 DALLAS RD",
-      "applicant": "N/A",
+      "applicant": "MICHAEL MOODY",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00890",
@@ -91633,7 +91631,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741949561,
+      "lastUpdated": 1742381549,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00290",
