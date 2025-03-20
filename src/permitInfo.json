@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1742380974,
+  "dateRetrieved": 1742467827,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2448,14 +2448,14 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC HEARING OR INPUT FOR DVP",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741158000,
+          "endDate": 1742367600
         },
         {
           "taskDescription": "",
           "taskType": "3RD READING OF BYLAW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741590000,
+          "endDate": 1742367600
         },
         {
           "taskDescription": "",
@@ -2487,7 +2487,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1741261961,
+      "lastUpdated": 1742468428,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001505",
@@ -3910,25 +3910,25 @@
         },
         {
           "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1741590000,
+          "endDate": 1741590000
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": 1739948400,
+          "endDate": 1742367600
+        },
+        {
+          "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1726729200,
           "endDate": null
         },
         {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
           "startDate": null,
           "endDate": null
         },
@@ -3950,7 +3950,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1738151533,
+      "lastUpdated": 1742468428,
       "relatedPermits": [
         {
           "relatedPermitID": "PL000884",
@@ -16390,8 +16390,8 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1742367600,
+          "endDate": 1742367600
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
@@ -16431,7 +16431,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1742321175,
+      "lastUpdated": 1742468428,
       "relatedPermits": []
     },
     {
@@ -23050,6 +23050,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1738652400,
+          "endDate": 1742367600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1742367600,
           "endDate": null
         }
       ],
@@ -23068,7 +23074,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740570774,
+      "lastUpdated": 1742468428,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -27069,6 +27075,70 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2499 Rothesay Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "4ce83d445d",
+      "applicationDate": 1742468487,
+      "addresses": [
+        "2499 Rothesay Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to relax the front and rear setbacks in order to legalize the siting of an existing single-family dwelling.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/2499-Rothesay-Ave-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1742468487,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "9972 Third Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "4e35e5a269",
+      "applicationDate": 1742468487,
+      "addresses": [
+        "9972 Third Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Zoning Amendment, Development Permit, and Development Variance Permit application for a four-storey 75-unit multi-family development.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9972-Third-Street-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1742468487,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "10232 Summerset Place",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -27378,6 +27448,38 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1710326974,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "9646 Fifth Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "7eb19082e5",
+      "applicationDate": 1742468487,
+      "addresses": [
+        "9646 Fifth Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to permit a heat pump in an exterior side yard.",
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "http://www.sidney.ca/wp-content/uploads/9646-Fifth-Street-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1742468487,
       "relatedPermits": []
     },
     {
@@ -49467,6 +49569,18 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1742367600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
           "taskType": "Advisory Design Panel (ADP) Meeting",
           "startDate": null,
@@ -49545,10 +49659,30 @@
         {
           "docName": "2024-12-31 - Revisions List_349 Kipling.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4E21E713-A76A-400D-A64B-854BD304ECAC&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2025-03-19 - Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7816847F-F6C3-4B44-9824-547E09535340&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2025-03-19 - Plans_Revisions_1400 Fairfield.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=27661C250319172557031853&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2025-03-19 - Plans_Revisions_349 Kipling.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CD8D3864-4A2E-44DB-889B-41DC590FA5D7&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2025-03-19 - Plans_Revisions_Bubbled_1400 Fairfield.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=27661C250319172557816875&folderId=71763C221107134252793704"
+        },
+        {
+          "docName": "2025-03-19 - Plans_Revisions_Bubbled_349 Kipling.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B44352D5-5D5E-4268-A69E-96E86794759A&folderId=71763C221107134252793704"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1739533941,
+      "lastUpdated": 1742468428,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -78751,21 +78885,21 @@
           "endDate": 1733986800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1621580400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1730098800,
-          "endDate": null
+          "endDate": 1737615600
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1737615600,
+          "endDate": 1740985200
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1621580400,
           "endDate": null
         },
         {
@@ -78890,7 +79024,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741435141,
+      "lastUpdated": 1742468428,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -88066,6 +88200,12 @@
           "endDate": 1738306800
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1691996400,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1741762800,
@@ -88125,7 +88265,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741863164,
+      "lastUpdated": 1742468428,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00246",
