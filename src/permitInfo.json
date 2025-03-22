@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1742467827,
+  "dateRetrieved": 1742601550,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4854,6 +4854,70 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1741158000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1255 MARCHANT RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001746",
+      "applicationDate": 1741935600,
+      "addresses": [
+        "1255 MARCHANT RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Proposed 4 dwelling units, comprised of four two story stratified single family homes.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1741935600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "1255 Marchant_DP Drawings WEB_March 14, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=38996C250321152803638907&folderId=38863C250319105240073690"
+        },
+        {
+          "docName": "1255 Marchant_Rationale letter WEB_March 14, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=38996C250321152803675748&folderId=38863C250319105240073690"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1741935600,
       "relatedPermits": []
     },
     {
@@ -22274,8 +22338,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1741089160,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP22168",
+          "relatedPermitType": "TREE PERMIT"
+        },
         {
           "relatedPermitID": "REZ00764",
           "relatedPermitType": "REZONING"
@@ -22409,9 +22477,21 @@
           "endDate": 1728630000
         },
         {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1742194800,
+          "endDate": 1742194800
+        },
+        {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1728630000,
+          "endDate": 1742454000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1742454000,
           "endDate": null
         }
       ],
@@ -22430,7 +22510,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740743572,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -22551,29 +22631,41 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1741935600,
+          "endDate": 1742281200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1742281200,
+          "endDate": 1742540400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1742540400,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "REVISED ELEVATIONS_NOV 18 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FFAD7593-5D57-4D40-B046-D1EC360A9636&folderId=80186C240125100202716054"
+          "docName": "REVISED_PLANS_ELEVATIONS_MAR 18 2025_COMPRESSED",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C90D4BD9-3FED-4CB1-B670-E04C6140D440&folderId=80186C240125100202716054"
         },
         {
-          "docName": "REVISED LANDSCAPE PLANS_NOV 18 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1EADD12C-E6A9-4E06-A425-D2B20AE3E6BB&folderId=80186C240125100202716054"
+          "docName": "REVISED_PLANS_LANDSCAPE_MAR 18 2025_NFP",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D7756994-FCEA-4C44-8977-E6C2CD95D1B7&folderId=80186C240125100202716054"
         },
         {
-          "docName": "REVISED SHADOW PLANS_NOV 18 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9225F5C5-1C5B-4C8A-B3C6-31CB28A5A6E7&folderId=80186C240125100202716054"
+          "docName": "REVISED_PLANS_SITE_MAR 18,2025_NFP",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4A3D3A20-F6EF-4FA0-9607-FA09ABD73811&folderId=80186C240125100202716054"
         },
         {
-          "docName": "REVISED SITE PLAN_NOV 18 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=218E5936-BE38-499E-B504-C20448910E9A&folderId=80186C240125100202716054"
+          "docName": "REVISED_PLANS_STREETSCAPE_MAR 18, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=23F7F333-0FB7-496E-8FB4-8003179F1DFE&folderId=80186C240125100202716054"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742035962,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -23373,6 +23465,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1739257200,
+          "endDate": 1740380400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1740380400,
+          "endDate": 1742454000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1741935600,
           "endDate": null
         }
       ],
@@ -23391,7 +23495,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1739361775,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21802",
@@ -23590,9 +23694,26 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_FEB 13, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=98691939-0CA2-4875-AB71-ED2B5DAFF750&folderId=92828C241212100728188162"
+        },
+        {
+          "docName": "Landscape Plan NFP_ Feb 13,2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=96EA80A9-E067-4CD9-AD61-0AD765D0703C&folderId=92828C241212100728188162"
+        },
+        {
+          "docName": "SHADOW STUDY_FEB 13, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AF8E6098-8379-46EF-AFBF-C430B8C20A78&folderId=92828C241212100728188162"
+        },
+        {
+          "docName": "SITE PLAN FEB 13 2025_COMPRESSED",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3245A9C9-AD6C-416D-A3C6-BC96645D9CD8&folderId=92828C241212100728188162"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1741261961,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00780",
@@ -23690,6 +23811,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1736751600,
+          "endDate": 1741849200
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1741849200,
           "endDate": null
         }
       ],
@@ -23708,7 +23835,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740743572,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "BLC07024",
@@ -25896,8 +26023,12 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP22168",
+          "relatedPermitType": "TREE PERMIT"
+        },
         {
           "relatedPermitID": "DPR01059",
           "relatedPermitType": "DEVELOPMENT PERMIT"
@@ -49563,21 +49694,21 @@
           "endDate": 1739430000
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1742367600,
+          "endDate": 1742367600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1719212400,
           "endDate": null
         },
         {
-          "taskDescription": "City receives updated plans from the applicant",
-          "taskType": "Received Revised Plans",
-          "startDate": 1742367600,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1742454000,
           "endDate": null
         },
         {
@@ -49682,7 +49813,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1742468428,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00362",
@@ -53719,7 +53850,7 @@
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00287",
-      "applicationDate": 1732086000,
+      "applicationDate": 1737702000,
       "addresses": [
         "775 FINLAYSON ST"
       ],
@@ -53759,14 +53890,6 @@
       ],
       "documents": [
         {
-          "docName": "2024-11-20 - Plans_Submission.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=31308D28-7875-46F0-B14A-1EEA09825F17&folderId=10248C250124115126227414"
-        },
-        {
-          "docName": "2024-12-12 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=222DA321-9FB1-4C25-AAE3-99EAEA724709&folderId=10248C250124115126227414"
-        },
-        {
           "docName": "2025-03-04 - List of Changes.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=155E0963-DF2C-4787-9536-D7335B308A79&folderId=10248C250124115126227414"
         },
@@ -53777,14 +53900,10 @@
         {
           "docName": "2025-03-04 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=25688D89-94C4-45E3-9AAB-3DBFEBE5BCFF&folderId=10248C250124115126227414"
-        },
-        {
-          "docName": "Letter to DS.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F97ABEA8-9288-4CF3-B7A6-CC9BF860E75B&folderId=10248C250124115126227414"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741435141,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00291",
@@ -90667,7 +90786,7 @@
         "1911 BELMONT AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning and Development Variance Permit application to increase the total floor area from 300m2 to 336m2 and legalize previous work done without permits. No new construction is proposed with this application. Concurrent Development Variance Application No.00289.",
+      "purpose": "The City is considering a Rezoning and Development Variance Permit application to increase the total floor area from 300m2 to 336m2 and legalize previous work done without permits. No new construction is proposed with this application. Concurrent Development Variance Permit Application No.00289.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -90762,10 +90881,14 @@
         {
           "docName": "2025-01-16 - Plans_Revised_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B9867C49-65BE-4FA3-A24F-102FF5D00BA6&folderId=67187C240905102145518075"
+        },
+        {
+          "docName": "25-019.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=27844C250320113739061598&folderId=67187C240905102145518075"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00289",
@@ -90897,6 +91020,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1742454000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -90921,12 +91050,24 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82DDFB74-461F-46A5-B30F-DC4331309CED&folderId=77246C241009105507809214"
         },
         {
+          "docName": "2025-03-20 - Letter to Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4F2BB120-7527-4A5F-8B25-8595E0F6AFA5&folderId=77246C241009105507809214"
+        },
+        {
+          "docName": "2025-03-20 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D00757F0-2705-4734-A3DC-E0A76D0B4947&folderId=77246C241009105507809214"
+        },
+        {
+          "docName": "2025-03-20 - Plans_Revisionss.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A0692D6B-7572-4DDD-82E9-D9B402C02935&folderId=77246C241009105507809214"
+        },
+        {
           "docName": "Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=35E97CF4-D1C5-4C96-A00B-3DCE0E7C0378&folderId=77246C241009105507809214"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1733399461,
+      "lastUpdated": 1742602117,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00280",
