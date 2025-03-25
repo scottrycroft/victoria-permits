@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1742812985,
+  "dateRetrieved": 1742899377,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4918,6 +4918,70 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1741935600,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "6753 CENTRAL SAANICH RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL001750",
+      "applicationDate": 1742540400,
+      "addresses": [
+        "6753 CENTRAL SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Proposed 6 unit townhouse development",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1742799600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "6753 Central Saanich_letter of rationale WEB_March 21, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=38996C250324125359458756&folderId=38996C250324111430614213"
+        },
+        {
+          "docName": "6753 Central Saanich_Plans WEB_March 21, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=38996C250324125359469911&folderId=38996C250324111430614213"
+        }
+      ],
+      "city": "Central Saanich",
+      "lastUpdated": 1742799600,
       "relatedPermits": []
     },
     {
@@ -22492,6 +22556,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1742454000,
+          "endDate": 1742799600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1742799600,
           "endDate": null
         }
       ],
@@ -22510,7 +22580,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742602117,
+      "lastUpdated": 1742899956,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -23382,6 +23452,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1741935600,
+          "endDate": 1742799600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1742799600,
+          "endDate": 1742799600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1742799600,
           "endDate": null
         }
       ],
@@ -23404,8 +23486,12 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742035962,
+      "lastUpdated": 1742899956,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00538",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        },
         {
           "relatedPermitID": "REZ00758",
           "relatedPermitType": "REZONING"
@@ -23482,20 +23568,20 @@
       ],
       "documents": [
         {
-          "docName": "ELEVATIONS_DEC 5, 2024-reduced",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=94702C241217154118929802&folderId=85222C241120111748167228"
+          "docName": "REVISED_ELEVATION_FEB 24, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9E3177DC-19F0-4E76-975D-B2081B7997A7&folderId=85222C241120111748167228"
         },
         {
-          "docName": "LANDSCAPE_DEC 5, 2024-reduced",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=94702C241217154118990778&folderId=85222C241120111748167228"
+          "docName": "REVISED_LANDSCAPE_FEB 24, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=7897C013-19EC-4680-B3A2-A5AD139CB327&folderId=85222C241120111748167228"
         },
         {
-          "docName": "SITE SURVEY_DEC 5, 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E8E24644-FDF7-4C6E-B32C-D38C93FF1B98&folderId=85222C241120111748167228"
+          "docName": "REVISED_SITE_FEB 24, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6A11AA71-23BB-4B1C-9CD8-31A6870F477C&folderId=85222C241120111748167228"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742602117,
+      "lastUpdated": 1742899956,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP21802",
@@ -91008,15 +91094,15 @@
           "endDate": 1732863600
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1728543600,
-          "endDate": null
-        },
-        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1732863600,
+          "endDate": 1742454000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1728543600,
           "endDate": null
         },
         {
@@ -91067,7 +91153,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1742602117,
+      "lastUpdated": 1742899956,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00280",
