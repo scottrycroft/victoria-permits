@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1742899377,
+  "dateRetrieved": 1742985778,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4234,14 +4234,14 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "2070 KEATING CROSS RD",
+      "primaryStreetName": "2070 KEATING X RD",
       "applicant": "N/A",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "PL001694",
       "applicationDate": 1733295600,
       "addresses": [
-        "2070 KEATING CROSS RD"
+        "2070 KEATING X RD"
       ],
       "status": "ACTIVE",
       "purpose": "Development Permit",
@@ -4294,7 +4294,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1736423468,
+      "lastUpdated": 1742986349,
       "relatedPermits": []
     },
     {
@@ -4754,18 +4754,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
           "startDate": null,
@@ -4789,7 +4777,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1740121200,
+      "lastUpdated": 1742986349,
       "relatedPermits": []
     },
     {
@@ -23133,6 +23121,12 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1736233200,
+          "endDate": 1742454000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1742886000,
           "endDate": null
         }
       ],
@@ -23151,7 +23145,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1736337048,
+      "lastUpdated": 1742986349,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -52801,8 +52795,12 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1726138213,
+      "lastUpdated": 1742986349,
       "relatedPermits": [
+        {
+          "relatedPermitID": "HAP00269",
+          "relatedPermitType": "HERITAGE ALTERATION PERMIT"
+        },
         {
           "relatedPermitID": "REZ00873",
           "relatedPermitType": "Rezoning Application"
@@ -53644,19 +53642,13 @@
         "1574 BAY ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for two three-storey residential buildings.",
+      "purpose": "The City is considering a Development Permit with Variance application for two three-storey residential buildings. Concurrent with REZ00877.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
           "taskType": "Application Received",
           "startDate": 1728975600,
           "endDate": 1728975600
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1729062000,
-          "endDate": null
         },
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -53673,7 +53665,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1729248695,
+      "lastUpdated": 1742986349,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00877",
@@ -90332,8 +90324,12 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1742986349,
       "relatedPermits": [
+        {
+          "relatedPermitID": "HAP00269",
+          "relatedPermitType": "HERITAGE ALTERATION PERMIT"
+        },
         {
           "relatedPermitID": "DPV00269",
           "relatedPermitType": "Development Permit with Variance"
@@ -91870,7 +91866,7 @@
     },
     {
       "primaryStreetName": "1520 BLANSHARD ST",
-      "applicant": "N/A",
+      "applicant": "JUAN, PEREIRA",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00889",
@@ -91929,7 +91925,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1742321175,
+      "lastUpdated": 1742986349,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00466",
