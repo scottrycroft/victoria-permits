@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1743072949,
+  "dateRetrieved": 1743158596,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4966,10 +4966,14 @@
         {
           "docName": "6753 Central Saanich_Plans WEB_March 21, 2025.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=38996C250324125359469911&folderId=38996C250324111430614213"
+        },
+        {
+          "docName": "6753 Central Saanich_Renders WEB_March 21, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=38996C250327131218884564&folderId=38996C250324111430614213"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1742799600,
+      "lastUpdated": 1743159179,
       "relatedPermits": []
     },
     {
@@ -22180,6 +22184,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1730271600,
+          "endDate": 1743058800
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1743058800,
           "endDate": null
         }
       ],
@@ -22202,7 +22212,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1730371810,
+      "lastUpdated": 1743159179,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00751",
@@ -23132,20 +23142,20 @@
       ],
       "documents": [
         {
-          "docName": "ELEVATION PLANS_JUNE 21 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E87BFA93-8E0C-4D5D-AFD7-AF0244E5859D&folderId=33783C240624080622607443"
-        },
-        {
           "docName": "LANDSCAPE PLANS_JUNE 21 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1F72DF63-8C45-4B8F-B67E-550CE15EB226&folderId=33783C240624080622607443"
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=76BC3CFA-0132-468A-B836-512CA51C325D&folderId=33783C240624080622607443"
         },
         {
-          "docName": "SITE PLAN_JUNE 21 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9A29E453-5CF8-4650-9A72-05103E7C2B0D&folderId=33783C240624080622607443"
+          "docName": "REVISED_ELEVATION PLANS_MAR 20 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DCC4CEB1-11A1-48E1-B961-242232FB6E10&folderId=33783C240624080622607443"
+        },
+        {
+          "docName": "REVISED_SITE PLAN_MAR 20 2025_NFP.pdf",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4D9265CE-6CB4-4435-9496-E83BD23B559D&folderId=33783C240624080622607443"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742986349,
+      "lastUpdated": 1743159179,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -70523,6 +70533,12 @@
           "endDate": 1572937200
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1572937200,
+          "endDate": 1575010800
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1575010800,
@@ -70575,12 +70591,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1735023600,
           "endDate": 1742972400
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1572937200,
-          "endDate": null
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
@@ -70670,7 +70680,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1743073537,
+      "lastUpdated": 1743159179,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000568",
@@ -91829,14 +91839,26 @@
           "endDate": 1740034800
         },
         {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1743058800,
+          "endDate": 1743058800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1740380400,
           "endDate": null
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1743058800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -91870,7 +91892,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741348459,
+      "lastUpdated": 1743159179,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000652",
