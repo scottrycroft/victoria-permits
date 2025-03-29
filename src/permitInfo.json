@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1743158596,
+  "dateRetrieved": 1743244980,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -512,8 +512,8 @@
         {
           "taskDescription": "",
           "taskType": "1ST READING OF BYLAW(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1737961200,
+          "endDate": 1743145200
         },
         {
           "taskDescription": "",
@@ -549,7 +549,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1738238312,
+      "lastUpdated": 1743245559,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -23390,7 +23390,7 @@
         "3950 CEDAR HILL RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO CONSTRUCT MIXED-USE DEVELOPMENT WITH THREE LEVELS OF UNDERGROUND PARKING, LIBRARY REPLACEMENT AND UP TO 210 AFFORDABLE HOUSING UNITS.",
+      "purpose": "TO CONSTRUCT MIXED-USE DEVELOPMENT WITH THREE LEVELS OF UNDERGROUND PARKING, LIBRARY REPLACEMENT AND 210 AFFORDABLE HOUSING UNITS.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23496,7 +23496,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1743073537,
+      "lastUpdated": 1743245559,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00538",
@@ -27353,7 +27353,7 @@
       "purpose": "Zoning Amendment, Development Permit, and Development Variance Permit application for a four-storey 75-unit multi-family development.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Notice of New Development Application",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -27363,12 +27363,16 @@
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9972-Third-Street-Plans.pdf"
+        },
+        {
+          "docName": "Notice of New Development Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-St-Notice-of-New-Development-Application.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1742468487,
+      "lastUpdated": 1743245595,
       "relatedPermits": []
     },
     {
@@ -33985,6 +33989,39 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1740466800,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "930 BALMORAL RD",
+      "applicant": "KIERAN LYNCH",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00469",
+      "applicationDate": 1743145200,
+      "addresses": [
+        "930 BALMORAL RD",
+        "934 BALMORAL RD",
+        "1701 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2025-03-26 - Arch Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=29427C250326154243673456&folderId=Zkl/g2dkEUq8nTYYig0DzQ"
+        },
+        {
+          "docName": "2025-03-26 - Lanscape Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=29427C250326151730353012&folderId=Zkl/g2dkEUq8nTYYig0DzQ"
+        },
+        {
+          "docName": "Summary Letter",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F4C38B9C-1019-4C42-932C-5F352565DC0A&folderId=Zkl/g2dkEUq8nTYYig0DzQ"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1743145200,
       "relatedPermits": []
     },
     {
