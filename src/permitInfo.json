@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1743590599,
+  "dateRetrieved": 1743676974,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13646,20 +13646,20 @@
         {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1743577200,
+          "endDate": 1743577200
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1743577200,
+          "endDate": 1743577200
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1743577200,
+          "endDate": 1743577200
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
@@ -13682,7 +13682,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1739287511,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00055",
@@ -16345,14 +16345,14 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1743577200,
+          "endDate": 1743577200
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1743577200,
+          "endDate": 1743577200
         },
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
@@ -16392,7 +16392,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1739447536,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000055",
@@ -16551,8 +16551,13 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1742468428,
-      "relatedPermits": []
+      "lastUpdated": 1743677549,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00173",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT"
+        }
+      ]
     },
     {
       "primaryStreetName": "310 KING GEORGE TERR",
@@ -22559,7 +22564,7 @@
         {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
-          "startDate": 1742799600,
+          "startDate": 1743404400,
           "endDate": null
         }
       ],
@@ -22578,7 +22583,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742899956,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00756",
@@ -22711,6 +22716,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1742540400,
+          "endDate": 1743577200
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1743577200,
           "endDate": null
         }
       ],
@@ -22733,7 +22744,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742602117,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00762",
@@ -23101,7 +23112,7 @@
         "1899 COCHRANE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 SINGLE FAMILY ZONE TO RT-WA (ATTACHED HOUSING WHITTIER AVENUE) ZONE TO CONSTRUCT AN 8 UNIT TOWNHOUSE PROJECT. VARIANCES WILL BE REQUIRED",
+      "purpose": "TO REZONE FROM RS-6 SINGLE FAMILY ZONE TO RT- 8 (ATTACHED HOUSING) ZONE (DRAFT ZONE) TO CONSTRUCT AN 8 UNIT TOWNHOUSE PROJECT. VARIANCES REQUIRED.",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23137,6 +23148,12 @@
           "taskDescription": "Revised information and/or plans received for review by District",
           "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
           "startDate": 1742886000,
+          "endDate": 1743577200
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1743577200,
           "endDate": null
         }
       ],
@@ -23152,10 +23169,14 @@
         {
           "docName": "REVISED_SITE PLAN_MAR 20 2025_NFP.pdf",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4D9265CE-6CB4-4435-9496-E83BD23B559D&folderId=33783C240624080622607443"
+        },
+        {
+          "docName": "REVISED_TREE REPORT_MAR 20 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=B17A7350-7CCD-40BB-937C-0197A2DCD595&folderId=33783C240624080622607443"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1743159179,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -23686,12 +23707,28 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AE8003DC-2095-4FC9-8DEA-31D019C8D9C0&folderId=87557C241127094156028860"
         },
         {
+          "docName": "REVISED_ELEVATIONS_MAR 28, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4AE2BDC9-FC55-45DC-AA85-427DA3DC044D&folderId=87557C241127094156028860"
+        },
+        {
+          "docName": "REVISED_LANDSCAPE_MAR 28, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9400985C-2F74-4B09-9B01-3EB996DA0C83&folderId=87557C241127094156028860"
+        },
+        {
+          "docName": "REVISED_SITE_MAR 28, 2025_NFP",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C9D8726D-AD83-4293-8B28-B45F1CD81B29&folderId=87557C241127094156028860"
+        },
+        {
+          "docName": "REVISED_STREETSCAPE_MAR 28, 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=00FD0598-124D-433E-9259-9C569B198218&folderId=87557C241127094156028860"
+        },
+        {
           "docName": "SITE PLAN_PROJECT DATA_NOV 25 2024",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=62E4BAC1-AE9A-41A2-9711-A9B32D2205E4&folderId=87557C241127094156028860"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1743591176,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00965",
@@ -26958,6 +26995,12 @@
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1739516400,
+          "endDate": 1743577200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1743577200,
           "endDate": null
         }
       ],
@@ -26972,7 +27015,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1739620359,
+      "lastUpdated": 1743677549,
       "relatedPermits": []
     },
     {
@@ -81836,10 +81879,18 @@
         {
           "docName": "2025-02-24 - Plans_Revised_Compressed.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D4580F86-40A9-451E-9736-507A087BC495&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "25-015.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=31438C250402092132524028&folderId=86097C211222091219582725"
+        },
+        {
+          "docName": "25-016.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=31438C250402092132546029&folderId=86097C211222091219582725"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741348459,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
@@ -91639,7 +91690,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1743577200,
           "endDate": null
         },
         {
@@ -91684,7 +91735,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1743591176,
+      "lastUpdated": 1743677549,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00284",
@@ -92833,6 +92884,10 @@
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP2024-03 Plans.pdf"
         },
         {
+          "docName": "2025 04 15 Public Notice [PDF - 502 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2025/2025 04 15 DP Notice - Helmcken -Eltham.pdf"
+        },
+        {
           "docName": "2025 03 11 COW Report",
           "docURL": "https://viewroyalbc.civicweb.net/document/77073/2025%2003%2011%20DP%202024-03-%20294,%20296%20Eltham%20Road%20and%2024.pdf?handle=7983C003CF024A2C810FDEE4DC95260F"
         }
@@ -92840,7 +92895,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1741690681,
+      "lastUpdated": 1743677578,
       "relatedPermits": []
     },
     {
@@ -92909,6 +92964,10 @@
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2024-05 Plans.pdf"
         },
         {
+          "docName": "2025 04 02 Public Notice [PDF - 417 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2025/2025 04 02 DP Notice 2024-05.pdf"
+        },
+        {
           "docName": "2025 01 14 COW Report",
           "docURL": "https://viewroyalbc.civicweb.net/document/75604/Rezoning%20and%20Development%20Permit%20-%2014-14A%20Helmcken%20.pdf?handle=DDE30C49B3DD45398581D0C0619C0280"
         }
@@ -92916,7 +92975,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1739133193,
+      "lastUpdated": 1743677578,
       "relatedPermits": []
     },
     {
@@ -93002,12 +93061,16 @@
         {
           "docName": "2025 01 06 Plans [PDF - 534 KB]",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2025-02 PLANS.pdf"
+        },
+        {
+          "docName": "2025 04 15 Public Notice [PDF - 453 KB]",
+          "docURL": "https://www.viewroyal.ca/assets/Home/Public~Notices/2025/2025 04 15 DP Notice - 3560 Highland Rd.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1739965982,
+      "lastUpdated": 1743677578,
       "relatedPermits": []
     },
     {
