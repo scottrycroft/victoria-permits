@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1743676974,
+  "dateRetrieved": 1743763397,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -23159,8 +23159,8 @@
       ],
       "documents": [
         {
-          "docName": "LANDSCAPE PLANS_JUNE 21 2024",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=76BC3CFA-0132-468A-B836-512CA51C325D&folderId=33783C240624080622607443"
+          "docName": "REVISED LANDSCAPE PLAN_MAR 20 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D7D68DC1-7486-4737-8FB4-681EF115A18C&folderId=33783C240624080622607443"
         },
         {
           "docName": "REVISED_ELEVATION PLANS_MAR 20 2025",
@@ -23176,7 +23176,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1743677549,
+      "lastUpdated": 1743763972,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -23908,6 +23908,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1739343600,
           "endDate": 1743404400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1743663600,
+          "endDate": null
         }
       ],
       "documents": [
@@ -23925,7 +23931,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1743504754,
+      "lastUpdated": 1743763972,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00781",
@@ -24101,6 +24107,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1738738800,
+          "endDate": 1743663600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1743663600,
           "endDate": null
         }
       ],
@@ -24119,7 +24131,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1740570774,
+      "lastUpdated": 1743763972,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00783",
@@ -27382,22 +27394,26 @@
       "purpose": "Development Variance Permit application to relax the front and rear setbacks in order to legalize the siting of an existing single-family dwelling.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1744009200,
+          "endDate": 1744009200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/2499-Rothesay-Ave-Plans.pdf"
+        },
+        {
+          "docName": "April 7, 2025 Committee of the Whole Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/48563/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1742468487,
+      "lastUpdated": 1743764006,
       "relatedPermits": []
     },
     {
@@ -27762,22 +27778,26 @@
       "purpose": "Development Variance Permit application to permit a heat pump in an exterior side yard.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1744009200,
+          "endDate": 1744009200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "http://www.sidney.ca/wp-content/uploads/9646-Fifth-Street-Plans.pdf"
+        },
+        {
+          "docName": "April 7, 2025 Committee of the Whole Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/48548/DV100371-%209646%20Fifth%20Street.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1742468487,
+      "lastUpdated": 1743764006,
       "relatedPermits": []
     },
     {
@@ -90036,6 +90056,18 @@
           "endDate": 1719558000
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1710313200,
+          "endDate": 1727938800
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1719558000,
+          "endDate": 1727938800
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1727938800,
@@ -90048,22 +90080,10 @@
           "endDate": 1729234800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1710313200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1719558000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1737010800,
+          "endDate": 1737010800
         }
       ],
       "documents": [
@@ -90097,7 +90117,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1738669958,
+      "lastUpdated": 1743763972,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000641",
@@ -92161,6 +92181,61 @@
           "relatedPermitType": "Pre-Application (CALUC)"
         }
       ]
+    },
+    {
+      "primaryStreetName": "1555 VANCOUVER ST",
+      "applicant": "N/A",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00891",
+      "applicationDate": 1743663600,
+      "addresses": [
+        "1555 VANCOUVER ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Rezoning application to allow Cannabis Retail at this location.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1743663600,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2000 West Park Ln",
