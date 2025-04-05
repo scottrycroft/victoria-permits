@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1743763397,
+  "dateRetrieved": 1743849803,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21720,6 +21720,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1738220400,
+          "endDate": 1742367600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1742367600,
+          "endDate": 1743750000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1743750000,
           "endDate": null
         }
       ],
@@ -21742,7 +21754,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1738324336,
+      "lastUpdated": 1743850380,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00745",
@@ -23195,7 +23207,7 @@
         "4085 QUADRA ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM C-1NC AND RS-6 TO A NEW ZONE FOR A 12-STOREY MIXED USE BUILDING WITH UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROPlM C-1NC AND RS-6 TO A NEW ZONE FOR A 12-STOREY MIXED USE BUILDING WITH UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -23240,9 +23252,27 @@
           "endDate": 1742367600
         },
         {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1743663600,
+          "endDate": 1743663600
+        },
+        {
           "taskDescription": "Review of referral responses from District departments and external agencies",
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1742367600,
+          "endDate": 1743750000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1743750000,
+          "endDate": 1743750000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1743750000,
           "endDate": null
         }
       ],
@@ -23261,7 +23291,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1742468428,
+      "lastUpdated": 1743850380,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00771",
@@ -24226,6 +24256,43 @@
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00785",
+          "relatedPermitType": "REZONING"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "816 CLOVERDALE AVE",
+      "applicant": "ISLAND VIEW LAND MANAGEMENT LT",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01084",
+      "applicationDate": 1743663600,
+      "addresses": [
+        "816 CLOVERDALE AVE",
+        "3311 OAK ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM C-6UD TO A NEW ZONE TO CONSTRUCT TWO RESIDENTIAL TOWERS FOR 467 UNITS WITH RETAIL AT GRADE AND TWO LEVELS OF UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1743663600,
+          "endDate": 1743663600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1743750000,
+          "endDate": 1743750000
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1743750000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00789",
           "relatedPermitType": "REZONING"
         }
       ]
@@ -27187,6 +27254,43 @@
         {
           "relatedPermitID": "ALR00045",
           "relatedPermitType": "AGRICULTURAL LAND RESERVE"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "816 CLOVERDALE AVE",
+      "applicant": "ISLAND VIEW LAND MANAGEMENT LT",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00789",
+      "applicationDate": 1743663600,
+      "addresses": [
+        "816 CLOVERDALE AVE",
+        "3311 OAK ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM C-6UD TO A NEW ZONE TO CONSTRUCT TWO RESIDENTIAL TOWERS FOR 467 UNITS WITH RETAIL AT GRADE AND TWO LEVELS OF UNDERGROUND PARKING",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1743663600,
+          "endDate": 1743663600
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1743663600,
+          "endDate": 1743663600
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1743663600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01084",
+          "relatedPermitType": "DEVELOPMENT PERMIT"
         }
       ]
     },
@@ -79234,6 +79338,12 @@
           "endDate": 1740985200
         },
         {
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1743663600,
+          "endDate": 1743663600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1621580400,
@@ -79243,12 +79353,6 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1740985200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -79361,7 +79465,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1742468428,
+      "lastUpdated": 1743850380,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00174",
@@ -84578,8 +84682,8 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1743663600,
+          "endDate": 1743663600
         },
         {
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
@@ -84663,7 +84767,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1743073537,
+      "lastUpdated": 1743850380,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00411",
@@ -91369,6 +91473,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": null,
@@ -91383,12 +91493,6 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\nSetting to SCHEDULED will:\n1. Send email to OurCity Subscribers\n2. Send email to applicant notifying them of the meeting",
-          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
@@ -91428,7 +91532,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1741261961,
+      "lastUpdated": 1743850380,
       "relatedPermits": [
         {
           "relatedPermitID": "HAV00037",
