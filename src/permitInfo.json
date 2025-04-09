@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1744108999,
+  "dateRetrieved": 1744195363,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -3372,6 +3372,12 @@
         },
         {
           "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1741590000,
+          "endDate": 1744095600
+        },
+        {
+          "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1715324400,
           "endDate": null
@@ -3379,12 +3385,6 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
           "startDate": null,
           "endDate": null
         },
@@ -3414,7 +3414,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1724237419,
+      "lastUpdated": 1744195941,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001572",
@@ -13371,11 +13371,15 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1733399461,
+      "lastUpdated": 1744195941,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00052",
           "relatedPermitType": "ZONING BYLAW AMENDMENT"
+        },
+        {
+          "relatedPermitID": "OCP00008",
+          "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT"
         }
       ]
     },
@@ -13668,8 +13672,8 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1744095600,
+          "endDate": 1744095600
         },
         {
           "taskDescription": "Meeting date of Council to consider decision on the application.",
@@ -13686,7 +13690,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1743677549,
+      "lastUpdated": 1744195941,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00055",
@@ -16029,8 +16033,8 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1740553200,
+          "endDate": 1740553200
         },
         {
           "taskDescription": "Revisions and/or additional information submitted by applicant post advisory body meeting.",
@@ -16100,8 +16104,12 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1740484362,
+      "lastUpdated": 1744195941,
       "relatedPermits": [
+        {
+          "relatedPermitID": "OCP00008",
+          "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT"
+        },
         {
           "relatedPermitID": "DP000051",
           "relatedPermitType": "DEVELOPMENT PERMIT"
