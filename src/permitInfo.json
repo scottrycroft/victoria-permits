@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1744195363,
+  "dateRetrieved": 1744282561,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -2639,10 +2639,6 @@
       ],
       "documents": [
         {
-          "docName": "02 - LANDSCAPE - RESUBMISSION 2024.11.08 WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32692C241202110143673999&folderId=16614C231124123438372925"
-        },
-        {
           "docName": "04 - TIA UPDATE - RESUBMISSION 2024.11.13.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=A732E81A-8B6C-459C-9E3C-832E83725D7A&folderId=16614C231124123438372925"
         },
@@ -2659,12 +2655,16 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=27494C240718163641751761&folderId=16614C231124123438372925"
         },
         {
-          "docName": "7840 Lochside_Architectural Resubmission_Jan 31, 2025.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=8AF7CBE3-CDB2-41D4-AF7B-03A83321CCEF&folderId=16614C231124123438372925"
-        },
-        {
           "docName": "7840 Lochside_Traffice Assessment_April 30 2024.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=24312C240508155203290492&folderId=16614C231124123438372925"
+        },
+        {
+          "docName": "7840 Lochside_Updated Architectural WEB_April 3, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=39655C250409103427731989&folderId=16614C231124123438372925"
+        },
+        {
+          "docName": "7840 Lochside_Updated landscaping WEB_April 3, 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=39655C250409103427769033&folderId=16614C231124123438372925"
         },
         {
           "docName": "November 18 2024 - 7840 Lochside Resubmission Letter.pdf",
@@ -2672,7 +2672,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1738769992,
+      "lastUpdated": 1744283142,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001512",
@@ -4225,16 +4225,16 @@
       ],
       "documents": [
         {
-          "docName": "1117 Greig Ave_Letter of rational_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32943C241210141431458925&folderId=32692C241202111822137071"
+          "docName": "1117 Greig_Letter of Rationale WEB_April 9 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=39655C250409153125329311&folderId=32692C241202111822137071"
         },
         {
-          "docName": "1117 Greig Ave_Site_WEB.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=32943C241210141431470185&folderId=32692C241202111822137071"
+          "docName": "1117 Greig_Proposed Site Plan WEB_April 9 2025.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=39655C250409153407920253&folderId=32692C241202111822137071"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1744109595,
+      "lastUpdated": 1744283142,
       "relatedPermits": []
     },
     {
@@ -11158,6 +11158,102 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "1215 Colville Road",
+      "applicant": "Barb and Merv Smith",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00154",
+      "applicationDate": 1744283170,
+      "addresses": [
+        "1215 Colville Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduced side and rear setback",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00154.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1744283170,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "805 Hutchinson Avenue",
+      "applicant": "Jordan Noble",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00155",
+      "applicationDate": 1744283170,
+      "addresses": [
+        "805 Hutchinson Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduced side setback for a detached accessory dwelling unit",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00155.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1744283170,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1075 Tillicum Road",
+      "applicant": "Abstract Developments Inc.",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00158",
+      "applicationDate": 1744283170,
+      "addresses": [
+        "1075 Tillicum Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduced setbacks for balconies",
+      "progressSections": [
+        {
+          "taskDescription": "Presented to the Advisory Planning Commission on March 18, 2025",
+          "taskType": "",
+          "startDate": 1742281200,
+          "endDate": 1742281200
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00158.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1744283170,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "1234 Juno Street",
       "applicant": "Township of Esquimalt",
       "cityApplicationType": "Rezoning",
@@ -12103,10 +12199,10 @@
       "purpose": "To amend the zoning from RS-2 zone to a CD Zone to accommodate a 8-unit townhouse",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "Presented to the Design Review Committee on November 13, 2024",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1731481200,
+          "endDate": 1731481200
         }
       ],
       "documents": [
@@ -12118,7 +12214,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1739126800,
+      "lastUpdated": 1744283170,
       "relatedPermits": []
     },
     {
@@ -12200,10 +12296,10 @@
       "purpose": "To amend the Zoning to allow for a small brewery tasting room",
       "progressSections": [
         {
-          "taskDescription": "Presented to the Advisory Planning Commission on November 19, 2024",
+          "taskDescription": "Council gave 1st and 2nd on April 7, 2025",
           "taskType": "",
-          "startDate": 1731999600,
-          "endDate": 1731999600
+          "startDate": 1744009200,
+          "endDate": 1744009200
         }
       ],
       "documents": [
@@ -12215,7 +12311,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1739126800,
+      "lastUpdated": 1744283170,
       "relatedPermits": []
     },
     {
@@ -12232,10 +12328,10 @@
       "purpose": "To amend the zoning from RM-4 zone to a CD Zone to accommodate a 6-storey 17-unit apartment",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "Presented to the Design Review Committee on March 12, 2025",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741762800,
+          "endDate": 1741762800
         }
       ],
       "documents": [
@@ -12247,7 +12343,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1739126800,
+      "lastUpdated": 1744283170,
       "relatedPermits": []
     },
     {
@@ -12264,10 +12360,10 @@
       "purpose": "To amend the zoning from RS-1 zone to a CD Zone to accommodate 6 townhouses",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "Presented to the Design Review Committee on March 12, 2025",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1741762800,
+          "endDate": 1741762800
         }
       ],
       "documents": [
@@ -12279,7 +12375,103 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1740570805,
+      "lastUpdated": 1744283170,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "909 McNaughton Avenue",
+      "applicant": "Luz Mary Calderon",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000126",
+      "applicationDate": 1744283170,
+      "addresses": [
+        "909 McNaughton Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To permit the use of Group Children's Day Care Centre",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/RZ000126.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1744283170,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "922 Forshaw Road",
+      "applicant": "Gillian Manson",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000128",
+      "applicationDate": 1744283170,
+      "addresses": [
+        "922 Forshaw Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To permit bed and breakfast use",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/RZ000128.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1744283170,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "868 Old Esquimalt Road",
+      "applicant": "Andrew Mills",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000129",
+      "applicationDate": 1744283170,
+      "addresses": [
+        "868 Old Esquimalt Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To amend the zoning from RD-3 zone to a CD Zone to accommodate 7 townhouses",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/RZ000129.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1744283170,
       "relatedPermits": []
     },
     {
@@ -54208,6 +54400,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1741330800,
+          "endDate": 1744182000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1744182000,
           "endDate": null
         },
         {
@@ -54238,7 +54436,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1742602117,
+      "lastUpdated": 1744283142,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00291",
