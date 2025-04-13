@@ -423,7 +423,7 @@ const getPermitApplicationLinkByID = (
 			permitID
 		);
 	} else if (city === "Colwood") {
-		return getColwoodLinkByID(permitID);
+		return `https://services.colwood.ca/TLive/OurCity/Prospero/Details.aspx?folderNumber=${permitID}`;
 	} else if (city === "Esquimalt") {
 		return getEsquimaltLinkByID(permitID);
 	} else if (city === "View Royal") {
@@ -492,18 +492,6 @@ function getViewRoyalLinkByID(permitID: string) {
 		toast.add({ severity: "error", summary: "Cannot get link for View Royal permit " + permitID });
 		return "";
 	}
-
-	const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(permitID).replace(/-/g, "%2D");
-	return fullUrl;
-}
-
-function getColwoodLinkByID(permitID: string) {
-	const match = permitID.match(/^[A-Z]+/);
-	if (!match) {
-		toast.add({ severity: "error", summary: "Cannot get link for Colwood permit " + permitID });
-		return "";
-	}
-	let baseUrl = "https://www.colwood.ca/city-services/development-services/development-activity";
 
 	const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(permitID).replace(/-/g, "%2D");
 	return fullUrl;
