@@ -20,11 +20,16 @@ import type {
 	RelatedPermit,
 	DocumentsEntity,
 	ProgressSectionsEntity,
-	ViewedPermitInfoDB
+	ViewedPermitInfoDB,
+	PermitsInfo,
+	DaysContentPermitInfo
 } from "@/types/Permits";
 
-import permitInfo from "@/permitInfo.json";
-import daysWithInfo from "@/daysContentPermitInfo.json";
+import rawPermitInfo from "@/permitInfo.json";
+const permitInfo = rawPermitInfo as PermitsInfo;
+
+import rawDaysWithInfo from "@/daysContentPermitInfo.json";
+const daysWithInfo = rawDaysWithInfo as DaysContentPermitInfo;
 
 import MultiSelect from "primevue/multiselect";
 import Dropdown from "primevue/dropdown";
@@ -61,7 +66,7 @@ const filters = ref<Filters>({
 	city: { value: null, matchMode: FilterMatchMode.IN }
 });
 
-const permitsList: PermitsEntity[] = permitInfo.permits as PermitsEntity[];
+const permitsList: PermitsEntity[] = permitInfo.permits;
 
 const permitsViewedTodaySet = reactive(new Set<string>());
 initPermitsViewedToday(permitsViewedTodaySet);
@@ -366,7 +371,7 @@ function setViewedPA(city: string, permitID: string) {
 	}
 }
 
-function createPermitApplications(permits: PermitsEntity[], daysWithInfo: any): PermitsEntity[] {
+function createPermitApplications(permits: PermitsEntity[], daysWithInfo: DaysContentPermitInfo): PermitsEntity[] {
 	// Combine the daysWith information into the permits
 	// They are separated only to make nicer diffs :)
 	for (const pa of permits) {
@@ -382,7 +387,7 @@ function createPermitApplications(permits: PermitsEntity[], daysWithInfo: any): 
 
 function getDaysWith(
 	pa: PermitsEntity,
-	daysWithInfo: any
+	daysWithInfo: DaysContentPermitInfo
 ): { withDistrictDays: number | null; withApplicantDays: number | null } {
 	const dwCity = daysWithInfo[pa.city];
 	if (!dwCity) {
@@ -989,7 +994,7 @@ function rowClass(permit: PermitsEntity) {
 				<div class="col-5 field">
 					<label>Purpose</label>
 					<div
-						class="font-bold"
+						class="purpose font-bold"
 						:class="versionDiffClass('purpose', permit, previousPermit)"
 						:title="versionDiffTitle('purpose', permit, previousPermit)"
 					>

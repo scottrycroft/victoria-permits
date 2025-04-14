@@ -17,6 +17,20 @@ export interface PermitsEntity {
 	relatedPermits?: RelatedPermit[];
 }
 
+export interface PermitsInfo {
+	dateRetrieved: number,
+	permits: PermitsEntity[]
+}
+
+export interface DaysContentPermitInfo {
+	[municipality: string]: {
+		[permitId: string]: {
+			withDistrictDays: number;
+			withApplicantDays: number;
+		};
+	};
+}
+
 export interface PermitsEntityDB extends PermitsEntity {
 	dbVersion?: "previous" | "current";
 }

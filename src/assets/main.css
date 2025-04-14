@@ -52,3 +52,7 @@ a.documentLink.notViewedDoc::before {
 	justify-content: center;
 	padding: 2px;
 }
+
+.purpose {
+	white-space: pre-line;
+}
