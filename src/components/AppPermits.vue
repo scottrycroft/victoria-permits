@@ -274,6 +274,14 @@ async function clickedDoc(document: DocumentsEntity) {
 	viewedDocs.set(mapKey, true);
 }
 
+async function clearDocs() {
+	if (!permit.value) return;
+	
+	for (const document of permit.value.documents) {
+		await clickedDoc(document);
+	}
+}
+
 const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
@@ -1001,8 +1009,9 @@ function rowClass(permit: PermitsEntity) {
 						{{ permit.purpose }}
 					</div>
 				</div>
-				<div class="col-7 field">
+				<div class="col-7 field docSection">
 					<label>Documents</label>
+					<Button icon="pi pi-check" class="clearDocs" @click="clearDocs" title="Set all documents as viewed" aria-label="Clear Docs" size="small" raised  />
 					<div class="font-bold">
 						<div v-for="(document, index) in permit.documents" :key="document.docName">
 							<a

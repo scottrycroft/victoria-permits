@@ -56,3 +56,14 @@ a.documentLink.notViewedDoc::before {
 .purpose {
 	white-space: pre-line;
 }
+
+button.clearDocs.p-button {
+	padding: 0.3rem 1rem;
+	width: 0.6rem;
+	margin-left: 9px;
+	visibility: hidden;
+}
+
+.docSection:hover button.clearDocs.p-button {
+	visibility: visible;
+}
