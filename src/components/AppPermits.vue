@@ -772,14 +772,16 @@ function rowClass(permit: PermitsEntity) {
 						<Checkbox v-model="showOnlyUnviewedDocs" inputId="filterUnviewedOnly" binary />
 						<label for="filterUnviewedOnly" class="ml-2">Show only unviewed docs</label>
 					</div>
-					<span class="p-input-icon-left">
-						<i class="pi pi-search" />
+					<div class="p-inputgroup" style="width: 50vw; min-width: 250px">
+						<span class="p-inputgroup-addon">
+							<i class="pi pi-search"></i>
+						</span>
 						<InputText
 							v-model="filters['global'].value"
 							placeholder="Keyword Search"
-							style="width: 50vw; min-width: 250px"
+							
 						/>
-					</span>
+					</div>
 				</div>
 			</template>
 			<Column :exportable="false" class="w-1">
