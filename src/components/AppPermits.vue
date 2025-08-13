@@ -4,11 +4,13 @@ import { useRoute, useRouter } from "vue-router";
 
 import pDebounce from "p-debounce";
 
-import { FilterMatchMode } from "primevue/api";
+import { FilterMatchMode } from "@primevue/core/api";
 import Button from "primevue/button";
 import Column from "primevue/column";
 import DataTable, { type DataTableFilterMetaData } from "primevue/datatable";
 import Dialog from "primevue/dialog";
+import InputGroup from "primevue/inputgroup";
+import InputGroupAddon from "primevue/inputgroupaddon";
 import InputText from "primevue/inputtext";
 import { useToast } from "primevue/usetoast";
 
@@ -756,7 +758,7 @@ function rowClass(permit: PermitsEntity) {
 				'lastUpdated'
 			]"
 			:rowsPerPageOptions="[5, 10, 20, 50]"
-			:rows="5"
+			:rows="10"
 			:rowClass="rowClass"
 			paginator
 			paginatorTemplate="RowsPerPageDropdown FirstPageLink PrevPageLink CurrentPageReport NextPageLink LastPageLink"
@@ -772,19 +774,18 @@ function rowClass(permit: PermitsEntity) {
 						<Checkbox v-model="showOnlyUnviewedDocs" inputId="filterUnviewedOnly" binary />
 						<label for="filterUnviewedOnly" class="ml-2">Show only unviewed docs</label>
 					</div>
-					<div class="p-inputgroup" style="width: 50vw; min-width: 250px">
-						<span class="p-inputgroup-addon">
+					<InputGroup style="width: 50vw; min-width: 250px">
+						<InputGroupAddon>
 							<i class="pi pi-search"></i>
-						</span>
+						</InputGroupAddon>
 						<InputText
 							v-model="filters['global'].value"
 							placeholder="Keyword Search"
-							
 						/>
-					</div>
+					</InputGroup>
 				</div>
 			</template>
-			<Column :exportable="false" class="w-1">
+			<Column :exportable="false" style="width: 60px; min-width: 60px; max-width: 60px;">
 				<template #body="{ data }: { data: PermitsEntity }">
 					<router-link
 						:to="{ name: 'view_permit', params: { city: data.city, permitID: data.folderNumber } }"
@@ -797,7 +798,7 @@ function rowClass(permit: PermitsEntity) {
 				filterField="folderNumber"
 				header="ID"
 				:sortable="true"
-				class="w-1"
+				style="max-width: 12em;"
 				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -817,7 +818,7 @@ function rowClass(permit: PermitsEntity) {
 				filterField="primaryStreetName"
 				header="Primary Address"
 				:sortable="true"
-				class="w-2"
+				style="width: 20%; max-width: 25em;"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<InputText
@@ -832,7 +833,7 @@ function rowClass(permit: PermitsEntity) {
 					<AppGoogleLink :address="data.primaryStreetName" :city="data.city" />
 				</template>
 			</Column>
-			<Column field="city" header="City" :sortable="true" :showFilterMenu="false" class="w-2">
+			<Column field="city" header="City" :sortable="true" :showFilterMenu="false" style="width: 12%;">
 				<template #filter="{ filterModel, filterCallback }">
 					<MultiSelect
 						@change="filterCallback()"
@@ -848,7 +849,7 @@ function rowClass(permit: PermitsEntity) {
 				field="applicationType"
 				header="Application Type"
 				:sortable="true"
-				class="w-2 max-w-20rem"
+				style="width: 18%;"
 				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -870,7 +871,7 @@ function rowClass(permit: PermitsEntity) {
 				header="Status"
 				:sortable="true"
 				:showFilterMenu="false"
-				style="width: 13%"
+				style="width: 10%"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<Dropdown
@@ -883,12 +884,12 @@ function rowClass(permit: PermitsEntity) {
 					/>
 				</template>
 			</Column>
-			<Column field="applicationDate" header="Application Date" :sortable="true" class="w-auto">
+			<Column field="applicationDate" header="Application Date" :sortable="true" style="width: 12%;">
 				<template #body="{ data }: { data: PermitsEntity }">
 					{{ formatDate(data.applicationDate) }}
 				</template>
 			</Column>
-			<Column field="lastUpdated" header="Last Updated" :sortable="true" class="w-1">
+			<Column field="lastUpdated" header="Last Updated" :sortable="true" style="width: 13%;">
 				<template #body="{ data }: { data: PermitsEntity }">
 					{{ formatDate(data.lastUpdated) }}
 				</template>

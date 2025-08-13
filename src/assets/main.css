@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 :root {
 	--colour-data-changed: #d5e8b2;
 	--colour-data-new: hsl(84deg 55.56% 61.59%);
+}
+
+body {
+	font-family: "Inter var", "Inter", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+	font-optical-sizing: auto;
+	font-variation-settings: "slnt" 0;
 }
 
 .permitDataChanged,
