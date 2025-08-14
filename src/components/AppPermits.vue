@@ -15,6 +15,7 @@ import InputText from "primevue/inputtext";
 import { useToast } from "primevue/usetoast";
 
 import AppGoogleLink from "./AppGoogleLink.vue";
+import MapDialog from "./MapDialog.vue";
 
 import type {
 	PermitsEntity,
@@ -288,6 +289,7 @@ const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
 const showOnlyUnviewedDocs = ref(false);
+const showMapDialog = ref(false);
 
 const filteredPermitApplications = computed(() => {
 	if (showOnlyUnviewedDocs.value) {
@@ -767,12 +769,22 @@ function rowClass(permit: PermitsEntity) {
 			currentPageReportTemplate="{first} to {last} of {totalRecords}"
 		>
 			<template #header>
-				<div class="flex justify-content-between">
+				<div class="flex justify-content-between align-items-start gap-3">
 					<h2 class="mt-0">Permit Applications</h2>
 					<div @dblclick="saveAllCurrent">Data retrieved on {{ formatDate(dateRetrieved) }}</div>
-					<div class="p-field-checkbox">
-						<Checkbox v-model="showOnlyUnviewedDocs" inputId="filterUnviewedOnly" binary />
-						<label for="filterUnviewedOnly" class="ml-2">Show only unviewed docs</label>
+					<div class="flex align-items-center gap-3">
+						<div class="p-field-checkbox">
+							<Checkbox v-model="showOnlyUnviewedDocs" inputId="filterUnviewedOnly" binary />
+							<label for="filterUnviewedOnly" class="ml-2">Show only unviewed docs</label>
+						</div>
+						<Button
+							@click="showMapDialog = true"
+							icon="pi pi-map"
+							label="Show Map"
+							outlined
+							size="small"
+							:disabled="!filteredPermitApplications.length"
+						/>
 					</div>
 					<InputGroup style="width: 50vw; min-width: 250px">
 						<InputGroupAddon>
@@ -1109,6 +1121,11 @@ function rowClass(permit: PermitsEntity) {
 				</div>
 			</div>
 		</Dialog>
+		<MapDialog
+			v-model:visible="showMapDialog"
+			:permits="filteredPermitApplications"
+		/>
+
 		<Toast
 			class="w-9"
 			position="bottom-center"
