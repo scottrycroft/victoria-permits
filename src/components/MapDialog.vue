@@ -4,6 +4,7 @@ import Dialog from "primevue/dialog";
 import Button from "primevue/button";
 import { useToast } from "primevue/usetoast";
 import type { PermitsEntity } from "@/types/Permits";
+import { db } from "@/db";
 
 const props = defineProps<{
 	visible: boolean;
@@ -257,32 +258,71 @@ const addPermitMarkers = async () => {
 	isLoadingMarkers.value = false;
 };
 
-// Geocode an address
-const geocodeAddress = (address: string): Promise<google.maps.LatLngLiteral | null> => {
-	return new Promise((resolve) => {
-		if (!geocoder.value) {
-			resolve(null);
-			return;
+// Geocode an address with caching
+const geocodeAddress = async (address: string): Promise<google.maps.LatLngLiteral | null> => {
+	if (!geocoder.value) {
+		console.log('Geocoder not available');
+		return null;
+	}
+
+	console.log(`Geocoding address: ${address}`);
+
+	try {
+		// First check if we have this address cached
+		console.log(`Checking cache for: ${address}`);
+		const cachedLocation = await db.addressLocations.get({address});
+		if (cachedLocation) {
+			console.log(`✅ Using cached location for: ${address}`, cachedLocation);
+			return {
+				lat: cachedLocation.lat,
+				lng: cachedLocation.lng
+			};
+		} else {
+			console.log(`❌ No cached result for: ${address}`);
 		}
 
-		geocoder.value.geocode({ 
-			address,
-			componentRestrictions: {
-				country: 'CA',
-				administrativeArea: 'BC'
-			}
-		}, (results: google.maps.GeocoderResult[] | null, status: google.maps.GeocoderStatus) => {
-			if (status === 'OK' && results && results[0]) {
-				const location = results[0].geometry.location;
-				resolve({
-					lat: location.lat(),
-					lng: location.lng()
-				});
-			} else {
-				resolve(null);
-			}
+		// If not cached, perform geocoding
+		console.log(`📍 Performing fresh geocoding for: ${address}`);
+		return new Promise((resolve) => {
+			geocoder.value!.geocode({
+				address,
+				componentRestrictions: {
+					country: 'CA',
+					administrativeArea: 'BC'
+				}
+			}, async (results: google.maps.GeocoderResult[] | null, status: google.maps.GeocoderStatus) => {
+				if (status === 'OK' && results && results[0]) {
+					const location = results[0].geometry.location;
+					const coords = {
+						lat: location.lat(),
+						lng: location.lng()
+					};
+					
+					console.log(`✅ Geocoding successful for: ${address}`, coords);
+					
+					// Cache the successful result
+					try {
+						await db.addressLocations.put({
+							address,
+							lat: coords.lat,
+							lng: coords.lng
+						});
+						console.log(`💾 Cached geocoding result for: ${address}`, coords);
+					} catch (cacheError) {
+						console.warn(`❌ Failed to cache geocoding result for: ${address}`, cacheError);
+					}
+					
+					resolve(coords);
+				} else {
+					console.warn(`❌ Geocoding failed for: ${address}, status: ${status}`);
+					resolve(null);
+				}
+			});
 		});
-	});
+	} catch (error) {
+		console.error(`💥 Error in geocodeAddress for: ${address}`, error);
+		return null;
+	}
 };
 
 // View all active locations

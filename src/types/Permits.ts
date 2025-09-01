@@ -57,3 +57,9 @@ export interface DocumentsEntity {
 	docName: string;
 	docURL: string;
 }
+
+export interface AddressLocation {
+	address: string;
+	lat: number;
+	lng: number;
+}
