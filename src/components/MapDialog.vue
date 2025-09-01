@@ -430,14 +430,6 @@ onUnmounted(() => {
 
 		<div class="map-container" style="height: 100%; display: flex; flex-direction: column; gap: 1rem;">
 			<div class="flex gap-2 align-items-center flex-wrap">
-				<Button 
-					@click="viewAllLocations" 
-					icon="pi pi-search" 
-					label="Search All Active"
-					size="small"
-					outlined
-					:disabled="activePermits.length === 0"
-				/>
 				<div v-if="markers.length > 0" class="text-sm text-600">
 					📍 {{ markers.length }} permit markers displayed
 				</div>
@@ -458,11 +450,7 @@ onUnmounted(() => {
 
 			<div class="text-sm text-500">
 				<div class="mb-2">
-					<strong>Interactive Map:</strong> 🖱️ Click and drag to pan • 🔍 Scroll to zoom • 🎯 Hover over markers for permit info • 📍 Click markers for details
-				</div>
-				<div class="flex gap-4 flex-wrap">
-					<span>📍 <strong>Location pins:</strong> Active permit locations</span>
-					<span v-if="activePermits.length > 50">⚡ <strong>Performance:</strong> Showing first 50 locations for optimal loading</span>
+					<strong>Interactive Map:</strong> 🖱️ Click and drag to pan • 🔍 Scroll to zoom • 📍 Click markers for details
 				</div>
 			</div>
 		</div>
