@@ -149,6 +149,10 @@ const clearMarkers = () => {
 	markers.value = [];
 };
 
+const getPermitAddressCacheKey = (permit: PermitsEntity): string => {
+	return `${permit.primaryStreetName}, ${permit.city}, BC, Canada`;
+};
+
 // Add interactive markers for permit addresses with hover tooltips
 const addPermitMarkers = async () => {
 	if (!map.value || !geocoder.value) return;
@@ -162,73 +166,37 @@ const addPermitMarkers = async () => {
 	// Process permits in batches to avoid rate limits
 	const batchSize = 5;
 	const maxPermits = Math.min(activePermits.value.length, 100);
-	
-	for (let i = 0; i < maxPermits; i += batchSize) {
-		const batch = activePermits.value.slice(i, i + batchSize);
+
+	const cacheMisses = [];
+	const permitsToGeocode = activePermits.value.slice(0, maxPermits);
+	for (const permit of permitsToGeocode) {
+		// First check if we have this address cached
+		const address = getPermitAddressCacheKey(permit);
+		const cachedLocation = await db.addressLocations.get({address});
+		if (cachedLocation) {
+			console.log(`✅ Using cached location for: ${address}`, cachedLocation);
+
+			await addAddressMarker(permit, {
+				lat: cachedLocation.lat,
+				lng: cachedLocation.lng
+			}, bounds, markers.value);
+			hasValidLocations = true;
+		}
+		else {
+			cacheMisses.push(permit);
+		}
+	}
+
+	for (let i = 0; i < cacheMisses.length; i += batchSize) {
+		const batch = cacheMisses.slice(i, i + batchSize);
 		
 		await Promise.all(batch.map(async (permit) => {
 			try {
-				const address = `${permit.primaryStreetName}, ${permit.city}, BC, Canada`;
+				const address = getPermitAddressCacheKey(permit);
 				
 				const result = await geocodeAddress(address);
 				if (result) {
-					console.log('Creating marker for permit:', permit.folderNumber, 'at position:', result);
-					
-					let marker: google.maps.Marker;
-					
-					try {
-						// Use classic Google Maps Marker instead of AdvancedMarkerElement
-						marker = new google.maps.Marker({
-							position: result,
-							map: map.value,
-							title: `${permit.folderNumber}: ${permit.primaryStreetName}`,
-						});
-						
-						console.log('Classic Marker created successfully:', marker);
-						console.log('Marker position set to:', result);
-						console.log('Marker map reference:', marker.getMap());
-						
-						// Verify marker is actually on the map
-						setTimeout(() => {
-							console.log('Marker check after 1 second - still on map:', marker.getMap() === map.value);
-						}, 1000);
-					} catch (error) {
-						console.error('Failed to create classic Marker for permit', permit.folderNumber, ':', error);
-						throw error;
-					}
-
-
-					// Add click event for more details using classic Marker API
-					marker.addListener('click', () => {
-						map.value?.setCenter(result);
-						map.value?.setZoom(15);
-						
-						// Show detailed info window
-						const detailWindow = new google.maps.InfoWindow({
-							content: `
-								<div style="padding: 12px; min-width: 250px;">
-									<h4 style="margin: 0 0 8px 0; color: #1a73e8;">
-										${permit.folderNumber}
-									</h4>
-									<div style="margin-bottom: 6px;">
-										<strong>Address:</strong> ${permit.primaryStreetName}
-									</div>
-									<div style="margin-bottom: 6px;">
-										<strong>City:</strong> ${permit.city}
-									</div>
-									<div style="margin-bottom: 6px;">
-										<strong>Application Type:</strong> ${permit.applicationType}
-									</div>
-								</div>
-							`,
-							pixelOffset: new google.maps.Size(0, -30)
-						});
-						
-						detailWindow.open(map.value, marker);
-					});
-
-					markers.value.push(marker);
-					bounds.extend(result);
+					await addAddressMarker(permit, result, bounds, markers.value);
 					hasValidLocations = true;
 				}
 			} catch (error) {
@@ -258,6 +226,66 @@ const addPermitMarkers = async () => {
 	isLoadingMarkers.value = false;
 };
 
+const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatLngLiteral, bounds: google.maps.LatLngBounds, markers: google.maps.Marker[]): Promise<void> => {
+	console.log('Creating marker for permit:', permit.folderNumber, 'at position:', latLong);
+	
+	let marker: google.maps.Marker;
+	
+	try {
+		// Use classic Google Maps Marker instead of AdvancedMarkerElement
+		marker = new google.maps.Marker({
+			position: latLong,
+			map: map.value,
+			title: `${permit.folderNumber}: ${permit.primaryStreetName}`,
+		});
+		
+		console.log('Classic Marker created successfully:', marker);
+		console.log('Marker position set to:', latLong);
+		console.log('Marker map reference:', marker.getMap());
+		
+		// Verify marker is actually on the map
+		setTimeout(() => {
+			console.log('Marker check after 1 second - still on map:', marker.getMap() === map.value);
+		}, 1000);
+	} catch (error) {
+		console.error('Failed to create classic Marker for permit', permit.folderNumber, ':', error);
+		throw error;
+	}
+
+
+	// Add click event for more details using classic Marker API
+	marker.addListener('click', () => {
+		map.value?.setCenter(latLong);
+		map.value?.setZoom(15);
+		
+		// Show detailed info window
+		const detailWindow = new google.maps.InfoWindow({
+			content: `
+				<div style="padding: 12px; min-width: 250px;">
+					<h4 style="margin: 0 0 8px 0; color: #1a73e8;">
+						${permit.folderNumber}
+					</h4>
+					<div style="margin-bottom: 6px;">
+						<strong>Address:</strong> ${permit.primaryStreetName}
+					</div>
+					<div style="margin-bottom: 6px;">
+						<strong>City:</strong> ${permit.city}
+					</div>
+					<div style="margin-bottom: 6px;">
+						<strong>Application Type:</strong> ${permit.applicationType}
+					</div>
+				</div>
+			`,
+			pixelOffset: new google.maps.Size(0, -30)
+		});
+		
+		detailWindow.open(map.value, marker);
+	});
+
+	markers.push(marker);
+	bounds.extend(latLong);
+};
+
 // Geocode an address with caching
 const geocodeAddress = async (address: string): Promise<google.maps.LatLngLiteral | null> => {
 	if (!geocoder.value) {
@@ -268,21 +296,7 @@ const geocodeAddress = async (address: string): Promise<google.maps.LatLngLitera
 	console.log(`Geocoding address: ${address}`);
 
 	try {
-		// First check if we have this address cached
-		console.log(`Checking cache for: ${address}`);
-		const cachedLocation = await db.addressLocations.get({address});
-		if (cachedLocation) {
-			console.log(`✅ Using cached location for: ${address}`, cachedLocation);
-			return {
-				lat: cachedLocation.lat,
-				lng: cachedLocation.lng
-			};
-		} else {
-			console.log(`❌ No cached result for: ${address}`);
-		}
 
-		// If not cached, perform geocoding
-		console.log(`📍 Performing fresh geocoding for: ${address}`);
 		return new Promise((resolve) => {
 			geocoder.value!.geocode({
 				address,
