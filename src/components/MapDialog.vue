@@ -13,6 +13,7 @@ const props = defineProps<{
 
 const emit = defineEmits<{
 	"update:visible": [value: boolean];
+	"permit-folder-clicked": [city: string, permitFolderNumber: string];
 }>();
 
 const toast = useToast();
@@ -99,6 +100,16 @@ const loadGoogleMapsAPI = (): Promise<void> => {
 	});
 };
 
+// Handle permit folder click from InfoWindow
+const handlePermitFolderClick = (city: string, folderNumber: string) => {
+	emit('permit-folder-clicked', city, folderNumber);
+};
+
+// Set up global handler for InfoWindow clicks
+const setupGlobalHandler = () => {
+	(window as any).handlePermitFolderClick = handlePermitFolderClick;
+};
+
 // Initialize the interactive map
 const initializeMap = async () => {
 	if (!mapContainer.value || !props.visible) return;
@@ -126,6 +137,9 @@ const initializeMap = async () => {
 		isMapLoaded.value = true;
 		
 		console.log('Map initialized successfully');
+
+		// Set up global handler for InfoWindow clicks
+		setupGlobalHandler();
 
 		// Add permit markers
 		await addPermitMarkers();
@@ -286,8 +300,10 @@ const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatL
 		// Show detailed info window
 		const detailWindow = new google.maps.InfoWindow({
 			content: `
-				<div style="padding: 12px; min-width: 250px;">
-					<h4 style="margin: 0 0 8px 0; color: #1a73e8;">
+				<div style="min-width: 250px;">
+					<h4 style="margin: 0 0 8px 0; color: #1a73e8; cursor: pointer; text-decoration: underline;"
+						class="permitFolderNumber"
+						onclick="window.handlePermitFolderClick('${permit.city}', '${permit.folderNumber}')">
 						${permit.folderNumber}
 					</h4>
 					<div style="margin-bottom: 6px;">

@@ -744,6 +744,26 @@ function rowClass(permit: PermitsEntity) {
 	}
 	return undefined;
 }
+
+function onPermitFolderClicked(city: string, folderNumber: string) {
+	// Close the map dialog
+	showMapDialog.value = false;
+	
+	// Find the permit using existing getApplicationByID function
+	const permit = getApplicationByID(city, folderNumber);
+	
+	if (permit) {
+		// Open the permit dialog for this permit
+		viewPermit(permit);
+	} else {
+		// Show error if permit not found
+		toast.add({
+			severity: "error",
+			summary: "Permit not found",
+			detail: `Could not find permit ${folderNumber} in ${city}`
+		});
+	}
+}
 </script>
 
 <template>
@@ -1133,6 +1153,7 @@ function rowClass(permit: PermitsEntity) {
 		<MapDialog
 			v-model:visible="showMapDialog"
 			:permits="visiblePermits"
+			@permit-folder-clicked="onPermitFolderClicked"
 		/>
 
 		<Toast
