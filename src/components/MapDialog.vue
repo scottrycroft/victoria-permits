@@ -101,7 +101,7 @@ const loadGoogleMapsAPI = (): Promise<void> => {
 
 // Initialize the interactive map
 const initializeMap = async () => {
-	if (!mapContainer.value || map.value || !props.visible) return;
+	if (!mapContainer.value || !props.visible) return;
 
 	try {
 		console.log('Loading Google Maps API...');
@@ -137,6 +137,31 @@ const initializeMap = async () => {
 			summary: "Map Error",
 			detail: "Failed to load interactive Google Maps. Please check your connection."
 		});
+	}
+};
+
+// Clear and destroy the map completely
+const clearMap = () => {
+	console.log('Clearing map completely for fresh start');
+	
+	// Clear all markers first
+	clearMarkers();
+	
+	// Clear map reference
+	if (map.value) {
+		// Remove all event listeners and clear the map
+		google.maps.event.clearInstanceListeners(map.value);
+		map.value = null;
+	}
+	
+	// Reset all map-related state
+	geocoder.value = null;
+	isMapLoaded.value = false;
+	isLoadingMarkers.value = false;
+	
+	// Clear the map container content to ensure clean slate
+	if (mapContainer.value) {
+		mapContainer.value.innerHTML = '';
 	}
 };
 
@@ -352,39 +377,15 @@ const viewAllLocations = () => {
 // Watch for dialog visibility changes
 watch(() => props.visible, async (newVisible) => {
 	if (newVisible) {
+		// Dialog opening - always create fresh map
+		console.log('Dialog opening - initializing fresh map');
 		await nextTick();
-		if (!isMapLoaded.value) {
-			await initializeMap();
-		} else {
-			// Map already exists, just trigger resize for proper display
-			console.log('Map already loaded, triggering resize for instant display');
-			if (map.value) {
-				// Multiple refresh attempts for proper display after hidden->visible transition
-				setTimeout(() => {
-					if (map.value) {
-						// Comprehensive refresh sequence
-						google.maps.event.trigger(map.value, 'resize');
-						const currentCenter = map.value.getCenter();
-						const currentZoom = map.value.getZoom();
-						
-						if (currentCenter && currentZoom !== undefined) {
-							// Force redraw by slightly changing zoom and back
-							map.value.setZoom(currentZoom + 0.1);
-							setTimeout(() => {
-								if (map.value && currentCenter) {
-									map.value.setZoom(currentZoom);
-									map.value.setCenter(currentCenter);
-									// Trigger another resize after zoom change
-									google.maps.event.trigger(map.value, 'resize');
-								}
-							}, 50);
-						}
-					}
-				}, 100);
-			}
-		}
+		await initializeMap();
+	} else {
+		// Dialog closing - completely clear the map for fresh start next time
+		console.log('Dialog closing - clearing map completely');
+		clearMap();
 	}
-	// Note: We preserve the map state when dialog closes for instant reopening
 });
 
 // Watch for permit changes
