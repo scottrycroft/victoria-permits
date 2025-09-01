@@ -300,7 +300,7 @@ const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatL
 		// Show detailed info window
 		const detailWindow = new google.maps.InfoWindow({
 			content: `
-				<div style="min-width: 250px;">
+				<div style="min-width: 350px;">
 					<h4 style="margin: 0 0 8px 0; color: #1a73e8; cursor: pointer; text-decoration: underline;"
 						class="permitFolderNumber"
 						onclick="window.handlePermitFolderClick('${permit.city}', '${permit.folderNumber}')">
@@ -314,6 +314,9 @@ const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatL
 					</div>
 					<div style="margin-bottom: 6px;">
 						<strong>Application Type:</strong> ${permit.applicationType}
+					</div>
+					<div style="margin-bottom: 6px;">
+						<strong>Purpose:</strong> ${permit.purpose}
 					</div>
 				</div>
 			`,
