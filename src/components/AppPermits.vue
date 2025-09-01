@@ -7,7 +7,7 @@ import pDebounce from "p-debounce";
 import { FilterMatchMode } from "@primevue/core/api";
 import Button from "primevue/button";
 import Column from "primevue/column";
-import DataTable, { type DataTableFilterMetaData } from "primevue/datatable";
+import DataTable, { type DataTableFilterMetaData, type DataTableFilterEvent } from "primevue/datatable";
 import Dialog from "primevue/dialog";
 import InputGroup from "primevue/inputgroup";
 import InputGroupAddon from "primevue/inputgroupaddon";
@@ -306,6 +306,14 @@ const filteredPermitApplications = computed(() => {
 	}
 	return permitApplications.value;
 });
+
+// Ref to store the filtered permits from DataTable's filter event
+const visiblePermits = ref<typeof filteredPermitApplications.value>([]);
+
+// Handle DataTable filter event to update the filtered permits ref
+const onFilter = (event: DataTableFilterEvent) => {
+	visiblePermits.value = event.filteredValue || [];
+};
 
 const globalFilter = ref();
 
@@ -767,6 +775,7 @@ function rowClass(permit: PermitsEntity) {
 			sortField="lastUpdated"
 			:sortOrder="-1"
 			currentPageReportTemplate="{first} to {last} of {totalRecords}"
+			@filter="onFilter"
 		>
 			<template #header>
 				<div class="flex justify-content-between align-items-start gap-3">
@@ -783,7 +792,7 @@ function rowClass(permit: PermitsEntity) {
 							label="Show Map"
 							outlined
 							size="small"
-							:disabled="!filteredPermitApplications.length"
+							:disabled="!visiblePermits.length"
 						/>
 					</div>
 					<InputGroup style="width: 50vw; min-width: 250px">
@@ -1123,7 +1132,7 @@ function rowClass(permit: PermitsEntity) {
 		</Dialog>
 		<MapDialog
 			v-model:visible="showMapDialog"
-			:permits="filteredPermitApplications"
+			:permits="visiblePermits"
 		/>
 
 		<Toast
