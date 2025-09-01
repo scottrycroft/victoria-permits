@@ -23,6 +23,7 @@ const markers = ref<google.maps.Marker[]>([]);
 const geocoder = ref<google.maps.Geocoder | null>(null);
 const isMapLoaded = ref(false);
 const isLoadingMarkers = ref(false);
+const currentInfoWindow = ref<google.maps.InfoWindow | null>(null);
 
 const API_KEY = "AIzaSyB-AAgFz8X7o_N5vmiLU1MoKPUVa6_0NPA";
 
@@ -154,12 +155,23 @@ const initializeMap = async () => {
 	}
 };
 
+// Close the current info window if open
+const closeCurrentInfoWindow = () => {
+	if (currentInfoWindow.value) {
+		currentInfoWindow.value.close();
+		currentInfoWindow.value = null;
+	}
+};
+
 // Clear and destroy the map completely
 const clearMap = () => {
 	console.log('Clearing map completely for fresh start');
 	
 	// Clear all markers first
 	clearMarkers();
+	
+	// Close any open info window
+	closeCurrentInfoWindow();
 	
 	// Clear map reference
 	if (map.value) {
@@ -186,6 +198,9 @@ const clearMarkers = () => {
 		marker.setMap(null);
 	});
 	markers.value = [];
+	
+	// Also close and clear any open info window
+	closeCurrentInfoWindow();
 };
 
 const getPermitAddressCacheKey = (permit: PermitsEntity): string => {
@@ -294,8 +309,8 @@ const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatL
 
 	// Add click event for more details using classic Marker API
 	marker.addListener('click', () => {
-		map.value?.setCenter(latLong);
-		map.value?.setZoom(15);
+		// Close any previously open info window
+		closeCurrentInfoWindow();
 		
 		// Show detailed info window
 		const detailWindow = new google.maps.InfoWindow({
@@ -322,6 +337,9 @@ const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatL
 			`,
 			pixelOffset: new google.maps.Size(0, -30)
 		});
+		
+		// Store reference to the current info window
+		currentInfoWindow.value = detailWindow;
 		
 		detailWindow.open(map.value, marker);
 	});
