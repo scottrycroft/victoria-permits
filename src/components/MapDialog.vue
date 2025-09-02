@@ -457,7 +457,7 @@ onUnmounted(() => {
 		<template #header>
 			<div class="flex align-items-center gap-3">
 				<h3 class="m-0">Active Permit Locations - Interactive Map</h3>
-				<span class="text-sm text-500">({{ activePermits.length }} active of {{ permits.length }} total)</span>
+				<span class="text-sm text-500">({{ markers?.length || 0 }} showing of {{ permits.length }} total)</span>
 				<div v-if="isLoadingMarkers" class="flex align-items-center gap-2 ml-3">
 					<i class="pi pi-spin pi-spinner text-sm"></i>
 					<span class="text-sm">Loading markers...</span>
@@ -466,11 +466,6 @@ onUnmounted(() => {
 		</template>
 
 		<div class="map-container" style="height: 100%; display: flex; flex-direction: column; gap: 1rem;">
-			<div class="flex gap-2 align-items-center flex-wrap">
-				<div v-if="markers.length > 0" class="text-sm text-600">
-					📍 {{ markers.length }} permit markers displayed
-				</div>
-			</div>
 
 			<div 
 				ref="mapContainer"
