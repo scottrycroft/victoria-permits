@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import { ref, computed, watch, onMounted, nextTick, onUnmounted } from "vue";
 import Dialog from "primevue/dialog";
-import Button from "primevue/button";
 import { useToast } from "primevue/usetoast";
 import type { PermitsEntity } from "@/types/Permits";
 import { db } from "@/db";
+import { getFormattedDate } from "@/utils";
 
 const props = defineProps<{
 	visible: boolean;
@@ -312,6 +312,8 @@ const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatL
 		// Close any previously open info window
 		closeCurrentInfoWindow();
 		
+		const lastUpdatedStr = permit.lastUpdated ? getFormattedDate(permit.lastUpdated) : "N/A";
+
 		// Show detailed info window
 		const detailWindow = new google.maps.InfoWindow({
 			content: `
@@ -329,6 +331,9 @@ const addAddressMarker = async (permit: PermitsEntity, latLong: google.maps.LatL
 					</div>
 					<div style="margin-bottom: 6px;">
 						<strong>Application Type:</strong> ${permit.applicationType}
+					</div>
+					<div style="margin-bottom: 6px;">
+						<strong>Last Updated:</strong> ${lastUpdatedStr}
 					</div>
 					<div style="margin-bottom: 6px;">
 						<strong>Purpose:</strong> ${permit.purpose}

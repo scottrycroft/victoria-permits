@@ -38,8 +38,10 @@ import MultiSelect from "primevue/multiselect";
 import Dropdown from "primevue/dropdown";
 import Toast from "primevue/toast";
 
-import { db } from "../db";
+import { db } from "@/db";
 import Checkbox from "primevue/checkbox";
+
+import { getFormattedDate } from "@/utils";
 
 const route = useRoute();
 const router = useRouter();
@@ -85,13 +87,6 @@ function cloneObj<T>(obj: T): T {
 
 function getTodaysDate(): string {
 	return getFormattedDate(new Date());
-}
-
-function getFormattedDate(date: Date | number): string {
-	if (typeof date === "number") {
-		date = date * 1000;
-	}
-	return new Date(date).toLocaleDateString("en-ca");
 }
 
 async function initViewedDocs(viewedDocs: Map<string, boolean>) {
