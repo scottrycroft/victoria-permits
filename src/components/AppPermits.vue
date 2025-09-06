@@ -7,7 +7,10 @@ import pDebounce from "p-debounce";
 import { FilterMatchMode, FilterService } from "@primevue/core/api";
 import Button from "primevue/button";
 import Column from "primevue/column";
-import DataTable, { type DataTableFilterEvent, type DataTableFilterMetaData } from "primevue/datatable";
+import DataTable, {
+	type DataTableFilterEvent,
+	type DataTableFilterMetaData
+} from "primevue/datatable";
 import Dialog from "primevue/dialog";
 import InputGroup from "primevue/inputgroup";
 import InputGroupAddon from "primevue/inputgroupaddon";
@@ -42,24 +45,23 @@ import Checkbox from "primevue/checkbox";
 
 import { getFormattedDate } from "@/utils";
 import { Select } from "primevue";
-import DatePicker from 'primevue/datepicker';
-
+import DatePicker from "primevue/datepicker";
 
 const route = useRoute();
 const router = useRouter();
 const toast = useToast();
 
 // Register custom filter with PrimeVue FilterService
-FilterService.register('customUnixDateFilter', (value: number | null, filter: Date | null) => {
+FilterService.register("customUnixDateFilter", (value: number | null, filter: Date | null) => {
 	if (!filter || !value) return true;
-	
+
 	// Convert Unix seconds to Date for comparison
 	const valueDate = new Date(value * 1000);
-	
+
 	// Compare dates by resetting time to start of day
 	const valueDay = new Date(valueDate.getFullYear(), valueDate.getMonth(), valueDate.getDate());
 	const filterDay = new Date(filter.getFullYear(), filter.getMonth(), filter.getDate());
-	
+
 	return valueDay.getTime() === filterDay.getTime();
 });
 
@@ -97,12 +99,12 @@ const filters = ref<Filters>({
 	city: { value: null, matchMode: FilterMatchMode.IN },
 	applicationDate: {
 		value: null,
-		matchMode: 'customUnixDateFilter'
+		matchMode: "customUnixDateFilter"
 	},
 	lastUpdated: {
 		value: null,
-		matchMode: 'customUnixDateFilter'
-	},
+		matchMode: "customUnixDateFilter"
+	}
 });
 
 const permitsList: PermitsEntity[] = permitInfo.permits;
@@ -312,7 +314,7 @@ async function clickedDoc(document: DocumentsEntity) {
 
 async function clearDocs() {
 	if (!permit.value) return;
-	
+
 	for (const document of permit.value.documents) {
 		await clickedDoc(document);
 	}
@@ -424,7 +426,10 @@ function setViewedPA(city: string, permitID: string) {
 	}
 }
 
-function createPermitApplications(permits: PermitsEntity[], daysWithInfo: DaysContentPermitInfo): PermitsEntity[] {
+function createPermitApplications(
+	permits: PermitsEntity[],
+	daysWithInfo: DaysContentPermitInfo
+): PermitsEntity[] {
 	// Combine the daysWith information into the permits
 	// They are separated only to make nicer diffs :)
 	for (const pa of permits) {
@@ -599,7 +604,7 @@ function getViewedDocMapKey(document: DocumentsEntity) {
 
 function getDocNameFromURL(docURL: string) {
 	const lastSlashIdx = docURL.lastIndexOf("/");
-	if(lastSlashIdx < 0) {
+	if (lastSlashIdx < 0) {
 		return "<No Name>";
 	}
 	let docName = docURL.substring(lastSlashIdx + 1);
@@ -781,10 +786,10 @@ function rowClass(permit: PermitsEntity) {
 function onPermitFolderClicked(city: string, folderNumber: string) {
 	// Close the map dialog
 	showMapDialog.value = false;
-	
+
 	// Find the permit using existing getApplicationByID function
 	const permit = getApplicationByID(city, folderNumber);
-	
+
 	if (permit) {
 		// Open the permit dialog for this permit
 		viewPermit(permit);
@@ -852,14 +857,11 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 						<InputGroupAddon>
 							<i class="pi pi-search"></i>
 						</InputGroupAddon>
-						<InputText
-							v-model="filters['global'].value"
-							placeholder="Keyword Search"
-						/>
+						<InputText v-model="filters['global'].value" placeholder="Keyword Search" />
 					</InputGroup>
 				</div>
 			</template>
-			<Column :exportable="false" style="width: 60px; min-width: 60px; max-width: 60px;">
+			<Column :exportable="false" style="width: 60px; min-width: 60px; max-width: 60px">
 				<template #body="{ data }: { data: PermitsEntity }">
 					<router-link
 						:to="{ name: 'view_permit', params: { city: data.city, permitID: data.folderNumber } }"
@@ -872,7 +874,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				filterField="folderNumber"
 				header="ID"
 				:sortable="true"
-				style="min-width: 5em;"
+				style="min-width: 5em"
 				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -893,7 +895,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				filterField="primaryStreetName"
 				header="Primary Address"
 				:sortable="true"
-				style="width: 20%; max-width: 25em;"
+				style="width: 20%; max-width: 25em"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<InputText
@@ -908,7 +910,13 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 					<AppGoogleLink :address="data.primaryStreetName" :city="data.city" />
 				</template>
 			</Column>
-			<Column field="city" header="City" :sortable="true" :showFilterMenu="false" style="width: 12%;">
+			<Column
+				field="city"
+				header="City"
+				:sortable="true"
+				:showFilterMenu="false"
+				style="width: 12%"
+			>
 				<template #filter="{ filterModel, filterCallback }">
 					<MultiSelect
 						@change="filterCallback()"
@@ -924,7 +932,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				field="applicationType"
 				header="Application Type"
 				:sortable="true"
-				style="width: 18%;"
+				style="width: 18%"
 				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -959,14 +967,15 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 					/>
 				</template>
 			</Column>
-			<Column 
-				field="applicationDate" 
-				filterField="applicationDate" 
-				header="Application Date" 
+			<Column
+				field="applicationDate"
+				filterField="applicationDate"
+				header="Application Date"
 				:sortable="true"
 				:showFilterMenu="false"
 				:showClearButton="true"
-				style="width: 12%; min-width: 5em;">
+				style="width: 12%; min-width: 5em"
+			>
 				<template #filter="{ filterModel, filterCallback }">
 					<DatePicker
 						v-model="filterModel.value"
@@ -974,14 +983,21 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 						:showButtonBar="true"
 						@input="filterCallback()"
 						@date-select="filterCallback()"
-						@clear-click="filterCallback()" />
+						@clear-click="filterCallback()"
+					/>
 				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
 					{{ formatDate(data.applicationDate) }}
 				</template>
 			</Column>
-			<Column field="lastUpdated" filterField="lastUpdated" header="Last Updated" :sortable="true"
-				:showFilterMenu="false" style="width: 10em; min-width: 10em; max-width: 10em;">
+			<Column
+				field="lastUpdated"
+				filterField="lastUpdated"
+				header="Last Updated"
+				:sortable="true"
+				:showFilterMenu="false"
+				style="width: 10em; min-width: 10em; max-width: 10em"
+			>
 				<template #filter="{ filterModel, filterCallback }">
 					<DatePicker
 						v-model="filterModel.value"
@@ -989,7 +1005,8 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 						:showButtonBar="true"
 						@input="filterCallback()"
 						@date-select="filterCallback()"
-						@clear-click="filterCallback()" />
+						@clear-click="filterCallback()"
+					/>
 				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
 					{{ formatDate(data.lastUpdated) }}
@@ -1115,7 +1132,15 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				</div>
 				<div class="col-7 field docSection">
 					<label>Documents</label>
-					<Button icon="pi pi-check" class="clearDocs" @click="clearDocs" title="Set all documents as viewed" aria-label="Clear Docs" size="small" raised  />
+					<Button
+						icon="pi pi-check"
+						class="clearDocs"
+						@click="clearDocs"
+						title="Set all documents as viewed"
+						aria-label="Clear Docs"
+						size="small"
+						raised
+					/>
 					<div class="font-bold">
 						<div v-for="(document, index) in permit.documents" :key="document.docName">
 							<a

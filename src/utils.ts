@@ -1,4 +1,3 @@
-
 function getFormattedDate(date: Date | number): string {
 	if (typeof date === "number") {
 		date = date * 1000;
@@ -6,7 +5,4 @@ function getFormattedDate(date: Date | number): string {
 	return new Date(date).toLocaleDateString("en-ca");
 }
 
-
-export {
-	getFormattedDate,
-}
+export { getFormattedDate };

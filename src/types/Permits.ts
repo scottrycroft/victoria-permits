@@ -18,8 +18,8 @@ export interface PermitsEntity {
 }
 
 export interface PermitsInfo {
-	dateRetrieved: number,
-	permits: PermitsEntity[]
+	dateRetrieved: number;
+	permits: PermitsEntity[];
 }
 
 export interface DaysContentPermitInfo {
