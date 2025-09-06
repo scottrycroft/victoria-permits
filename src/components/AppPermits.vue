@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import { ref, reactive, computed, watch, nextTick } from "vue";
+import { computed, nextTick, reactive, ref, watch } from "vue";
 import { useRoute, useRouter } from "vue-router";
 
 import pDebounce from "p-debounce";
 
-import { FilterMatchMode } from "@primevue/core/api";
+import { FilterMatchMode, FilterService } from "@primevue/core/api";
 import Button from "primevue/button";
 import Column from "primevue/column";
-import DataTable, { type DataTableFilterMetaData, type DataTableFilterEvent } from "primevue/datatable";
+import DataTable, { type DataTableFilterEvent, type DataTableFilterMetaData } from "primevue/datatable";
 import Dialog from "primevue/dialog";
 import InputGroup from "primevue/inputgroup";
 import InputGroupAddon from "primevue/inputgroupaddon";
@@ -18,14 +18,14 @@ import AppGoogleLink from "./AppGoogleLink.vue";
 import MapDialog from "./MapDialog.vue";
 
 import type {
+	DaysContentPermitInfo,
+	DocumentsEntity,
 	PermitsEntity,
 	PermitsEntityDB,
-	RelatedPermit,
-	DocumentsEntity,
-	ProgressSectionsEntity,
-	ViewedPermitInfoDB,
 	PermitsInfo,
-	DaysContentPermitInfo
+	ProgressSectionsEntity,
+	RelatedPermit,
+	ViewedPermitInfoDB
 } from "@/types/Permits";
 
 import rawPermitInfo from "@/permitInfo.json";
@@ -35,17 +35,33 @@ import rawDaysWithInfo from "@/daysContentPermitInfo.json";
 const daysWithInfo = rawDaysWithInfo as DaysContentPermitInfo;
 
 import MultiSelect from "primevue/multiselect";
-import Dropdown from "primevue/dropdown";
 import Toast from "primevue/toast";
 
 import { db } from "@/db";
 import Checkbox from "primevue/checkbox";
 
 import { getFormattedDate } from "@/utils";
+import { Select } from "primevue";
+import DatePicker from 'primevue/datepicker';
+
 
 const route = useRoute();
 const router = useRouter();
 const toast = useToast();
+
+// Register custom filter with PrimeVue FilterService
+FilterService.register('customUnixDateFilter', (value: number | null, filter: Date | null) => {
+	if (!filter || !value) return true;
+	
+	// Convert Unix seconds to Date for comparison
+	const valueDate = new Date(value * 1000);
+	
+	// Compare dates by resetting time to start of day
+	const valueDay = new Date(valueDate.getFullYear(), valueDate.getMonth(), valueDate.getDate());
+	const filterDay = new Date(filter.getFullYear(), filter.getMonth(), filter.getDate());
+	
+	return valueDay.getTime() === filterDay.getTime();
+});
 
 // Define the filter structure
 interface Filters {
@@ -55,6 +71,16 @@ interface Filters {
 	applicationType: DataTableFilterMetaData;
 	status: DataTableFilterMetaData;
 	city: DataTableFilterMetaData;
+	applicationDate: {
+		value: Date | null;
+		matchMode: string;
+		constraint?: (value: number | null, filter: Date | null) => boolean;
+	};
+	lastUpdated: {
+		value: Date | null;
+		matchMode: string;
+		constraint?: (value: number | null, filter: Date | null) => boolean;
+	};
 	unviewedDocs?: {
 		value: boolean | null;
 		matchMode: string;
@@ -68,7 +94,15 @@ const filters = ref<Filters>({
 	primaryStreetName: { value: null, matchMode: FilterMatchMode.CONTAINS },
 	applicationType: { value: null, matchMode: FilterMatchMode.IN },
 	status: { value: null, matchMode: FilterMatchMode.EQUALS },
-	city: { value: null, matchMode: FilterMatchMode.IN }
+	city: { value: null, matchMode: FilterMatchMode.IN },
+	applicationDate: {
+		value: null,
+		matchMode: 'customUnixDateFilter'
+	},
+	lastUpdated: {
+		value: null,
+		matchMode: 'customUnixDateFilter'
+	},
 });
 
 const permitsList: PermitsEntity[] = permitInfo.permits;
@@ -149,6 +183,10 @@ function getCities(permitApplications: PermitsEntity[]): string[] {
 	return cities;
 }
 
+/**
+ * Formats a Unix timestamp (in seconds) to a readable date string in local format
+ * @param unixDate Unix timestamp in seconds
+ */
 const formatDate = (unixDate?: number | null): string => {
 	if (!unixDate) {
 		return "";
@@ -572,7 +610,7 @@ function versionDiffDocumentClass(
 	index: number,
 	permit: PermitsEntityDB,
 	previousPermit: PermitsEntityDB
-): Array<String | null> {
+): String[] {
 	if (index >= previousPermit.documents.length) {
 		return ["permitDataNew"];
 	}
@@ -834,7 +872,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				filterField="folderNumber"
 				header="ID"
 				:sortable="true"
-				style="max-width: 12em;"
+				style="min-width: 5em;"
 				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -842,6 +880,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 						v-model="filterModel.value"
 						type="text"
 						@input="filterCallback()"
+						class="w-full"
 						placeholder="ID"
 					/>
 				</template>
@@ -874,7 +913,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 					<MultiSelect
 						@change="filterCallback()"
 						v-model="filterModel.value"
-						:showClear="true"
+						showClear
 						:options="cities"
 						placeholder="Any"
 						:maxSelectedLabels="1"
@@ -910,7 +949,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				style="width: 10%"
 			>
 				<template #filter="{ filterModel, filterCallback }">
-					<Dropdown
+					<Select
 						@change="filterCallback()"
 						v-model="filterModel.value"
 						:showClear="true"
@@ -920,12 +959,38 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 					/>
 				</template>
 			</Column>
-			<Column field="applicationDate" header="Application Date" :sortable="true" style="width: 12%;">
+			<Column 
+				field="applicationDate" 
+				filterField="applicationDate" 
+				header="Application Date" 
+				:sortable="true"
+				:showFilterMenu="false"
+				:showClearButton="true"
+				style="width: 12%; min-width: 5em;">
+				<template #filter="{ filterModel, filterCallback }">
+					<DatePicker
+						v-model="filterModel.value"
+						dateFormat="M dd yy"
+						:showButtonBar="true"
+						@input="filterCallback()"
+						@date-select="filterCallback()"
+						@clear-click="filterCallback()" />
+				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
 					{{ formatDate(data.applicationDate) }}
 				</template>
 			</Column>
-			<Column field="lastUpdated" header="Last Updated" :sortable="true" style="width: 13%;">
+			<Column field="lastUpdated" filterField="lastUpdated" header="Last Updated" :sortable="true"
+				:showFilterMenu="false" style="width: 10em; min-width: 10em; max-width: 10em;">
+				<template #filter="{ filterModel, filterCallback }">
+					<DatePicker
+						v-model="filterModel.value"
+						dateFormat="M dd yy"
+						:showButtonBar="true"
+						@input="filterCallback()"
+						@date-select="filterCallback()"
+						@clear-click="filterCallback()" />
+				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
 					{{ formatDate(data.lastUpdated) }}
 				</template>
