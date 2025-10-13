@@ -874,7 +874,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				filterField="folderNumber"
 				header="ID"
 				:sortable="true"
-				style="min-width: 5em"
+				style="max-width: 200px !important;"
 				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -974,7 +974,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				:sortable="true"
 				:showFilterMenu="false"
 				:showClearButton="true"
-				style="width: 12%; min-width: 5em"
+				style="width: 12%; min-width: 100px; max-width: 150px;"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<DatePicker
@@ -996,7 +996,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				header="Last Updated"
 				:sortable="true"
 				:showFilterMenu="false"
-				style="width: 10em; min-width: 10em; max-width: 10em"
+				style="width: 12%; min-width: 100px; max-width: 150px;"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<DatePicker

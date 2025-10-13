@@ -88,3 +88,7 @@ button.clearDocs.p-button {
 .docSection:hover button.clearDocs.p-button {
 	visibility: visible;
 }
+
+thead .p-inputtext {
+	width: 100%;
+}
