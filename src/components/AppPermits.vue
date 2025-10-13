@@ -46,6 +46,7 @@ import Checkbox from "primevue/checkbox";
 import { getFormattedDate } from "@/utils";
 import { Select } from "primevue";
 import DatePicker from "primevue/datepicker";
+import DebugDialog from "./DebugDialog.vue";
 
 const route = useRoute();
 const router = useRouter();
@@ -328,6 +329,7 @@ const permitApplications = ref(createPermitApplications(permitsList, daysWithInf
 
 const showOnlyUnviewedDocs = ref(false);
 const showMapDialog = ref(false);
+const showDebugDialog = ref(false);
 
 const filteredPermitApplications = computed(() => {
 	if (showOnlyUnviewedDocs.value) {
@@ -794,6 +796,10 @@ function rowClass(permit: PermitsEntity) {
 	return undefined;
 }
 
+function openDebugDialog() {
+	showDebugDialog.value = true;
+}
+
 function onPermitFolderClicked(city: string, folderNumber: string) {
 	// Close the map dialog
 	showMapDialog.value = false;
@@ -848,7 +854,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 		>
 			<template #header>
 				<div class="flex justify-content-between align-items-start gap-3">
-					<h2 class="mt-0">Permit Applications</h2>
+					<h2 @dblclick="openDebugDialog" class="mt-0">Permit Applications</h2>
 					<div @dblclick="saveAllCurrent">Data retrieved on {{ formatDate(dateRetrieved) }}</div>
 					<div class="flex align-items-center gap-3">
 						<div class="p-field-checkbox">
@@ -1250,6 +1256,9 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 			v-model:visible="showMapDialog"
 			:permits="visiblePermits"
 			@permit-folder-clicked="onPermitFolderClicked"
+		/>
+		<DebugDialog
+			v-model:visible="showDebugDialog"
 		/>
 
 		<Toast
