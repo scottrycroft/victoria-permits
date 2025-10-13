@@ -276,6 +276,9 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 			return await db.lastSeenPermits.add(toSave);
 		}
 		const currentPermit = result[0];
+		if(!currentPermit) {
+			throw new Error("Unexpected missing current permit");
+		}
 		//  1a) 'current db' Exists True: Check if matches one being saved
 		// We could do a hash instead of update time, but this should be good enough for now
 		if (permitData.lastUpdated === currentPermit.lastUpdated) {
@@ -379,11 +382,12 @@ async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEnti
 			folderNumber: permitData.folderNumber
 		})
 		.toArray();
-	if (result.length === 0) {
+	const prevPermit = result[0];
+	if (!prevPermit) {
 		// Always have a previous version, even if it's the exact same
 		return permitData;
 	}
-	return result[0];
+	return prevPermit;
 }
 
 function onDialogHide() {
@@ -602,26 +606,33 @@ function getViewedDocMapKey(document: DocumentsEntity) {
 	return document.docName + "|" + document.docURL;
 }
 
-function getDocNameFromURL(docURL: string) {
+function getDocNameFromURL(docURL: string): string {
+	const unknownName = "<No Name>";
 	const lastSlashIdx = docURL.lastIndexOf("/");
 	if (lastSlashIdx < 0) {
-		return "<No Name>";
+		return unknownName;
 	}
-	let docName = docURL.substring(lastSlashIdx + 1);
-	return decodeURI(docName.split(".")[0]);
+	let docNamePath = docURL.substring(lastSlashIdx + 1);
+	let docName = docNamePath.split(".")[0];
+	if(!docName) {
+		return unknownName;
+	}
+	return decodeURI(docName);
 }
 
 function versionDiffDocumentClass(
 	index: number,
 	permit: PermitsEntityDB,
 	previousPermit: PermitsEntityDB
-): String[] {
-	if (index >= previousPermit.documents.length) {
+): string[] {
+	
+	const permitDoc = permit.documents[index];
+	if(!permitDoc) {
 		return ["permitDataNew"];
 	}
-	const permitDoc = permit.documents[index];
 	const previousPermitDoc = previousPermit.documents[index];
 	if (
+		!previousPermitDoc ||
 		permitDoc.docName !== previousPermitDoc.docName ||
 		permitDoc.docURL !== previousPermitDoc.docURL
 	) {
@@ -654,8 +665,8 @@ function versionDiffProgressClass(
 		// The whole progress row will be styled differently if it's new
 		return [];
 	}
-	const permitProgressVal = permit.progressSections[index][property];
-	const previousPermitProgressVal = previousPermit.progressSections[index][property];
+	const permitProgressVal = permit.progressSections[index]?.[property];
+	const previousPermitProgressVal = previousPermit.progressSections[index]?.[property];
 	return [permitProgressVal !== previousPermitProgressVal ? "permitDataChanged" : null];
 }
 
@@ -669,8 +680,8 @@ function versionDiffProgressTitle(
 		// The whole progress row will be styled differently if it's new
 		return undefined;
 	}
-	const val = permit.progressSections[index][property];
-	const prevVal = previousPermit.progressSections[index][property];
+	const val = permit.progressSections[index]?.[property];
+	const prevVal = previousPermit.progressSections[index]?.[property];
 	if (val !== prevVal) {
 		return diffTitleString(prevVal);
 	}
