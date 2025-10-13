@@ -277,7 +277,7 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 			return await db.lastSeenPermits.add(toSave);
 		}
 		const currentPermit = result[0];
-		if(!currentPermit) {
+		if (!currentPermit) {
 			throw new Error("Unexpected missing current permit");
 		}
 		//  1a) 'current db' Exists True: Check if matches one being saved
@@ -616,7 +616,7 @@ function getDocNameFromURL(docURL: string): string {
 	}
 	let docNamePath = docURL.substring(lastSlashIdx + 1);
 	let docName = docNamePath.split(".")[0];
-	if(!docName) {
+	if (!docName) {
 		return unknownName;
 	}
 	return decodeURI(docName);
@@ -627,9 +627,8 @@ function versionDiffDocumentClass(
 	permit: PermitsEntityDB,
 	previousPermit: PermitsEntityDB
 ): string[] {
-	
 	const permitDoc = permit.documents[index];
-	if(!permitDoc) {
+	if (!permitDoc) {
 		return ["permitDataNew"];
 	}
 	const previousPermitDoc = previousPermit.documents[index];
@@ -891,7 +890,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				filterField="folderNumber"
 				header="ID"
 				:sortable="true"
-				style="max-width: 200px !important;"
+				style="max-width: 200px !important"
 				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -991,7 +990,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				:sortable="true"
 				:showFilterMenu="false"
 				:showClearButton="true"
-				style="width: 12%; min-width: 100px; max-width: 150px;"
+				style="width: 12%; min-width: 100px; max-width: 150px"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<DatePicker
@@ -1013,7 +1012,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				header="Last Updated"
 				:sortable="true"
 				:showFilterMenu="false"
-				style="width: 12%; min-width: 100px; max-width: 150px;"
+				style="width: 12%; min-width: 100px; max-width: 150px"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<DatePicker
@@ -1257,9 +1256,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 			:permits="visiblePermits"
 			@permit-folder-clicked="onPermitFolderClicked"
 		/>
-		<DebugDialog
-			v-model:visible="showDebugDialog"
-		/>
+		<DebugDialog v-model:visible="showDebugDialog" />
 
 		<Toast
 			class="w-9"

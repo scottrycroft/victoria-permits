@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { db } from "@/db";
+import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import { useToast } from "primevue/usetoast";
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from "vue";
@@ -13,6 +14,25 @@ const emit = defineEmits<{
 }>();
 
 const toast = useToast();
+
+async function downloadViewedDocs() {
+	const viewedDocs = await db.clickedDocs.toArray();
+	viewedDocs.sort((a, b) => a.docURL.localeCompare(b.docURL));
+	const dataStr =
+		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(viewedDocs, null, 2));
+	const downloadAnchorNode = document.createElement("a");
+	downloadAnchorNode.setAttribute("href", dataStr);
+	downloadAnchorNode.setAttribute("download", "viewed_documents.json");
+	document.body.appendChild(downloadAnchorNode); // required for firefox
+	downloadAnchorNode.click();
+	downloadAnchorNode.remove();
+	toast.add({
+		severity: "success",
+		summary: "Download Started",
+		detail: "Viewed documents download started.",
+		life: 3000
+	});
+}
 
 const dialogVisible = computed({
 	get: () => props.visible,
@@ -32,18 +52,13 @@ watch(
 	}
 );
 
-
 onMounted(() => {
 	if (props.visible) {
-		nextTick(() => {
-			
-		});
+		nextTick(() => {});
 	}
 });
 
-onUnmounted(() => {
-	
-});
+onUnmounted(() => {});
 </script>
 
 <template>
@@ -61,9 +76,10 @@ onUnmounted(() => {
 			</div>
 		</template>
 
+		<div>
+			<Button icon="pi pi-download" label="Download Viewed Docs" @click="downloadViewedDocs" />
+		</div>
 	</Dialog>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
