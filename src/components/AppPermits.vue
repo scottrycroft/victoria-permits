@@ -4,12 +4,13 @@ import { useRoute, useRouter } from "vue-router";
 
 import pDebounce from "p-debounce";
 
-import { FilterMatchMode, FilterService } from "@primevue/core/api";
+import { FilterMatchMode, FilterOperator, FilterService } from "@primevue/core/api";
 import Button from "primevue/button";
 import Column from "primevue/column";
 import DataTable, {
 	type DataTableFilterEvent,
-	type DataTableFilterMetaData
+	type DataTableFilterMetaData,
+	type DataTableOperatorFilterMetaData
 } from "primevue/datatable";
 import Dialog from "primevue/dialog";
 import InputGroup from "primevue/inputgroup";
@@ -53,18 +54,38 @@ const router = useRouter();
 const toast = useToast();
 
 // Register custom filter with PrimeVue FilterService
-FilterService.register("customUnixDateFilter", (value: number | null, filter: Date | null) => {
+FilterService.register("customUnixDateIsFilter", (value: number | null, filter: Date | null) => {
 	if (!filter || !value) return true;
 
-	// Convert Unix seconds to Date for comparison
+
+	const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
+
+	return valueDayTime === filterDayTime;
+});
+FilterService.register("customUnixDateIsBeforeFilter", (value: number | null, filter: Date | null) => {
+	if (!filter || !value) return true;
+
+	const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
+
+	return valueDayTime <= filterDayTime;
+});
+FilterService.register("customUnixDateIsAfterFilter", (value: number | null, filter: Date | null) => {
+	if (!filter || !value) return true;
+
+	const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
+
+	return valueDayTime >= filterDayTime;
+});
+
+function unixDateParseFilterVals(value: number, filter: Date) {
 	const valueDate = new Date(value * 1000);
 
 	// Compare dates by resetting time to start of day
 	const valueDay = new Date(valueDate.getFullYear(), valueDate.getMonth(), valueDate.getDate());
 	const filterDay = new Date(filter.getFullYear(), filter.getMonth(), filter.getDate());
 
-	return valueDay.getTime() === filterDay.getTime();
-});
+	return { valueDayTime: valueDay.getTime(), filterDayTime: filterDay.getTime() };
+}
 
 // Define the filter structure
 interface Filters {
@@ -74,11 +95,7 @@ interface Filters {
 	applicationType: DataTableFilterMetaData;
 	status: DataTableFilterMetaData;
 	city: DataTableFilterMetaData;
-	applicationDate: {
-		value: Date | null;
-		matchMode: string;
-		constraint?: (value: number | null, filter: Date | null) => boolean;
-	};
+	applicationDate: DataTableOperatorFilterMetaData;
 	lastUpdated: {
 		value: Date | null;
 		matchMode: string;
@@ -98,13 +115,10 @@ const filters = ref<Filters>({
 	applicationType: { value: null, matchMode: FilterMatchMode.IN },
 	status: { value: null, matchMode: FilterMatchMode.EQUALS },
 	city: { value: null, matchMode: FilterMatchMode.IN },
-	applicationDate: {
-		value: null,
-		matchMode: "customUnixDateFilter"
-	},
+	applicationDate: { operator: FilterOperator.AND, constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }] },
 	lastUpdated: {
 		value: null,
-		matchMode: "customUnixDateFilter"
+		matchMode: "customUnixDateIsFilter"
 	}
 });
 
@@ -330,6 +344,11 @@ const permitApplications = ref(createPermitApplications(permitsList, daysWithInf
 const showOnlyUnviewedDocs = ref(false);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
+const dateFilterModeOptions = [
+	{ label: "Equals", value: "customUnixDateIsFilter" },
+	{ label: "Before", value: "customUnixDateIsBeforeFilter" },
+	{ label: "After", value: "customUnixDateIsAfterFilter" }
+];
 
 const filteredPermitApplications = computed(() => {
 	if (showOnlyUnviewedDocs.value) {
@@ -827,7 +846,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 			width="100%"
 			v-model:filters="filters"
 			:globalFilter="globalFilter"
-			filterDisplay="row"
+			filterDisplay="menu"
 			stripedRows
 			:globalFilterFields="[
 				'primaryStreetName',
@@ -987,8 +1006,9 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				field="applicationDate"
 				filterField="applicationDate"
 				header="Application Date"
+				:filterMatchModeOptions="dateFilterModeOptions"
 				:sortable="true"
-				:showFilterMenu="false"
+				:showFilterMenu="true"
 				:showClearButton="true"
 				style="width: 12%; min-width: 100px; max-width: 150px"
 			>
