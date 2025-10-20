@@ -96,11 +96,7 @@ interface Filters {
 	status: DataTableFilterMetaData;
 	city: DataTableFilterMetaData;
 	applicationDate: DataTableOperatorFilterMetaData;
-	lastUpdated: {
-		value: Date | null;
-		matchMode: string;
-		constraint?: (value: number | null, filter: Date | null) => boolean;
-	};
+	lastUpdated: DataTableOperatorFilterMetaData;
 	unviewedDocs?: {
 		value: boolean | null;
 		matchMode: string;
@@ -116,10 +112,7 @@ const filters = ref<Filters>({
 	status: { value: null, matchMode: FilterMatchMode.EQUALS },
 	city: { value: null, matchMode: FilterMatchMode.IN },
 	applicationDate: { operator: FilterOperator.AND, constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }] },
-	lastUpdated: {
-		value: null,
-		matchMode: "customUnixDateIsFilter"
-	}
+	lastUpdated: { operator: FilterOperator.AND, constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }] }
 });
 
 const permitsList: PermitsEntity[] = permitInfo.permits;
@@ -1030,8 +1023,9 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				field="lastUpdated"
 				filterField="lastUpdated"
 				header="Last Updated"
+				:filterMatchModeOptions="dateFilterModeOptions"
 				:sortable="true"
-				:showFilterMenu="false"
+				:showFilterMenu="true"
 				style="width: 12%; min-width: 100px; max-width: 150px"
 			>
 				<template #filter="{ filterModel, filterCallback }">
