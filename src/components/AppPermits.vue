@@ -903,7 +903,6 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				header="ID"
 				:sortable="true"
 				style="max-width: 200px !important"
-				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<InputText
@@ -941,8 +940,8 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 			<Column
 				field="city"
 				header="City"
+				:showFilterMatchModes="false"
 				:sortable="true"
-				:showFilterMenu="false"
 				style="width: 12%"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -960,8 +959,8 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				field="applicationType"
 				header="Application Type"
 				:sortable="true"
+				:showFilterMatchModes="false"
 				style="width: 18%"
-				:showFilterMenu="false"
 			>
 				<template #filter="{ filterModel, filterCallback }">
 					<MultiSelect
@@ -981,7 +980,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				field="status"
 				header="Status"
 				:sortable="true"
-				:showFilterMenu="false"
+				:showFilterMatchModes="false"
 				style="width: 10%"
 			>
 				<template #filter="{ filterModel, filterCallback }">
@@ -1001,7 +1000,6 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				header="Application Date"
 				:filterMatchModeOptions="dateFilterModeOptions"
 				:sortable="true"
-				:showFilterMenu="true"
 				:showClearButton="true"
 				style="width: 12%; min-width: 100px; max-width: 150px"
 			>
@@ -1025,7 +1023,6 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 				header="Last Updated"
 				:filterMatchModeOptions="dateFilterModeOptions"
 				:sortable="true"
-				:showFilterMenu="true"
 				style="width: 12%; min-width: 100px; max-width: 150px"
 			>
 				<template #filter="{ filterModel, filterCallback }">
