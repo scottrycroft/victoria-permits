@@ -140,6 +140,8 @@ const initializeDrawingManager = () => {
 
 	// Listen for rectangle completion
 	google.maps.event.addListener(drawingManager.value, 'rectanglecomplete', (rectangle: google.maps.Rectangle) => {
+		console.log('Rectangle completed:', rectangle);
+		
 		// Clear previous rectangle if exists
 		if (currentRectangle.value) {
 			currentRectangle.value.setMap(null);
@@ -152,6 +154,8 @@ const initializeDrawingManager = () => {
 		
 		// Exit drawing mode after rectangle is drawn
 		drawingManager.value?.setDrawingMode(null);
+		isSelectionMode.value = false;
+		map.value?.setOptions({ draggableCursor: null });
 	});
 };
 
@@ -198,14 +202,18 @@ const highlightMarker = (marker: google.maps.Marker, selected: boolean) => {
 const toggleSelectionMode = () => {
 	if (!drawingManager.value) return;
 	
+	console.log('Toggling selection mode. Current state:', isSelectionMode.value);
+	
 	isSelectionMode.value = !isSelectionMode.value;
 	
 	if (isSelectionMode.value) {
 		// Enter selection mode
+		console.log('Entering selection mode');
 		drawingManager.value.setDrawingMode(google.maps.drawing.OverlayType.RECTANGLE);
 		map.value?.setOptions({ draggableCursor: 'crosshair' });
 	} else {
 		// Exit selection mode
+		console.log('Exiting selection mode');
 		drawingManager.value.setDrawingMode(null);
 		map.value?.setOptions({ draggableCursor: null });
 		clearSelection();
@@ -605,12 +613,18 @@ watch(
 const handleKeyDown = (event: KeyboardEvent) => {
 	if (!props.visible) return;
 	
+	console.log('Key pressed:', event.key, 'Selection mode:', isSelectionMode.value, 'Selected count:', selectedMarkers.value.size);
+	
 	if (event.key === 'Escape') {
+		event.preventDefault();
 		if (isSelectionMode.value) {
+			console.log('Escape pressed - exiting selection mode');
 			toggleSelectionMode();
 		}
 	} else if (event.key === 'Delete' || event.key === 'Backspace') {
+		event.preventDefault();
 		if (selectedMarkers.value.size > 0) {
+			console.log('Delete pressed - clearing selection');
 			clearSelection();
 		}
 	}
