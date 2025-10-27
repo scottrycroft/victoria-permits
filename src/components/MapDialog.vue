@@ -2,6 +2,7 @@
 import { db } from "@/db";
 import type { PermitsEntity } from "@/types/Permits";
 import { getFormattedDate } from "@/utils";
+import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import { useToast } from "primevue/usetoast";
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from "vue";
@@ -26,6 +27,12 @@ const isLoadingMarkers = ref(false);
 const currentInfoWindow = ref<google.maps.InfoWindow | null>(null);
 
 const API_KEY = "AIzaSyB-AAgFz8X7o_N5vmiLU1MoKPUVa6_0NPA";
+
+// Rectangle selection state
+const isSelectionMode = ref(false);
+const currentRectangle = ref<google.maps.Rectangle | null>(null);
+const selectedMarkers = ref<Set<google.maps.Marker>>(new Set());
+const drawingManager = ref<google.maps.drawing.DrawingManager | null>(null);
 
 const dialogVisible = computed({
 	get: () => props.visible,
@@ -85,7 +92,7 @@ const loadGoogleMapsAPI = (): Promise<void> => {
 		};
 
 		const script = document.createElement("script");
-		const apiUrl = `https://maps.googleapis.com/maps/api/js?key=${API_KEY}&callback=${callbackName}`;
+		const apiUrl = `https://maps.googleapis.com/maps/api/js?key=${API_KEY}&libraries=drawing&callback=${callbackName}`;
 		console.log("Loading Google Maps API with URL:", apiUrl);
 		script.src = apiUrl;
 		script.async = true;
@@ -110,6 +117,126 @@ const handlePermitFolderClick = (city: string, folderNumber: string) => {
 const setupGlobalHandler = () => {
 	(window as any).handlePermitFolderClick = handlePermitFolderClick;
 };
+
+// Initialize drawing manager for rectangle selection
+const initializeDrawingManager = () => {
+	if (!map.value) return;
+
+	drawingManager.value = new google.maps.drawing.DrawingManager({
+		drawingMode: null, // Start disabled
+		drawingControl: false, // We'll use custom controls
+		rectangleOptions: {
+			fillColor: '#3366ff',
+			fillOpacity: 0.2,
+			strokeWeight: 2,
+			strokeColor: '#3366ff',
+			clickable: false,
+			editable: true,
+			zIndex: 1
+		}
+	});
+
+	drawingManager.value.setMap(map.value);
+
+	// Listen for rectangle completion
+	google.maps.event.addListener(drawingManager.value, 'rectanglecomplete', (rectangle: google.maps.Rectangle) => {
+		// Clear previous rectangle if exists
+		if (currentRectangle.value) {
+			currentRectangle.value.setMap(null);
+		}
+		
+		currentRectangle.value = rectangle;
+		
+		// Select markers within the rectangle
+		selectMarkersInRectangle(rectangle);
+		
+		// Exit drawing mode after rectangle is drawn
+		drawingManager.value?.setDrawingMode(null);
+	});
+};
+
+// Check if marker is within rectangle bounds
+const isMarkerInRectangle = (marker: google.maps.Marker, rectangle: google.maps.Rectangle): boolean => {
+	const markerPos = marker.getPosition();
+	const bounds = rectangle.getBounds();
+	return bounds?.contains(markerPos!) || false;
+};
+
+// Select all markers within the rectangle
+const selectMarkersInRectangle = (rectangle: google.maps.Rectangle) => {
+	selectedMarkers.value.clear();
+	
+	markers.value.forEach(marker => {
+		if (isMarkerInRectangle(marker, rectangle)) {
+			selectedMarkers.value.add(marker);
+			highlightMarker(marker, true);
+		} else {
+			highlightMarker(marker, false);
+		}
+	});
+};
+
+// Highlight marker based on selection state
+const highlightMarker = (marker: google.maps.Marker, selected: boolean) => {
+	if (selected) {
+		// Create a highlighted marker icon (larger and different color)
+		marker.setIcon({
+			path: google.maps.SymbolPath.CIRCLE,
+			scale: 12,
+			fillColor: '#ff4444',
+			fillOpacity: 1,
+			strokeColor: '#ffffff',
+			strokeWeight: 2
+		});
+	} else {
+		// Reset to default marker
+		marker.setIcon(null); // This will use the default marker
+	}
+};
+
+// Toggle rectangle selection mode
+const toggleSelectionMode = () => {
+	if (!drawingManager.value) return;
+	
+	isSelectionMode.value = !isSelectionMode.value;
+	
+	if (isSelectionMode.value) {
+		// Enter selection mode
+		drawingManager.value.setDrawingMode(google.maps.drawing.OverlayType.RECTANGLE);
+		map.value?.setOptions({ draggableCursor: 'crosshair' });
+	} else {
+		// Exit selection mode
+		drawingManager.value.setDrawingMode(null);
+		map.value?.setOptions({ draggableCursor: null });
+		clearSelection();
+	}
+};
+
+// Clear current selection
+const clearSelection = () => {
+	// Clear rectangle
+	if (currentRectangle.value) {
+		currentRectangle.value.setMap(null);
+		currentRectangle.value = null;
+	}
+	
+	// Reset all markers to default appearance
+	markers.value.forEach(marker => {
+		highlightMarker(marker, false);
+	});
+	
+	selectedMarkers.value.clear();
+	isSelectionMode.value = false;
+	
+	if (drawingManager.value) {
+		drawingManager.value.setDrawingMode(null);
+	}
+	
+	map.value?.setOptions({ draggableCursor: null });
+};
+
+// Computed property for selection count
+const selectedMarkersCount = computed(() => selectedMarkers.value.size);
 
 // Initialize the interactive map
 const initializeMap = async () => {
@@ -142,6 +269,9 @@ const initializeMap = async () => {
 		// Set up global handler for InfoWindow clicks
 		setupGlobalHandler();
 
+		// Initialize drawing manager for rectangle selection
+		initializeDrawingManager();
+
 		// Add permit markers
 		await addPermitMarkers();
 	} catch (error) {
@@ -166,11 +296,20 @@ const closeCurrentInfoWindow = () => {
 const clearMap = () => {
 	console.log("Clearing map completely for fresh start");
 
+	// Clear selection state
+	clearSelection();
+
 	// Clear all markers first
 	clearMarkers();
 
 	// Close any open info window
 	closeCurrentInfoWindow();
+
+	// Clear drawing manager
+	if (drawingManager.value) {
+		drawingManager.value.setMap(null);
+		drawingManager.value = null;
+	}
 
 	// Clear map reference
 	if (map.value) {
@@ -462,16 +601,37 @@ watch(
 	{ deep: true }
 );
 
+// Handle keyboard events for selection mode
+const handleKeyDown = (event: KeyboardEvent) => {
+	if (!props.visible) return;
+	
+	if (event.key === 'Escape') {
+		if (isSelectionMode.value) {
+			toggleSelectionMode();
+		}
+	} else if (event.key === 'Delete' || event.key === 'Backspace') {
+		if (selectedMarkers.value.size > 0) {
+			clearSelection();
+		}
+	}
+};
+
 onMounted(() => {
 	if (props.visible) {
 		nextTick(() => {
 			initializeMap();
 		});
 	}
+	
+	// Add keyboard event listeners
+	document.addEventListener('keydown', handleKeyDown);
 });
 
 onUnmounted(() => {
 	clearMarkers();
+	
+	// Remove keyboard event listeners
+	document.removeEventListener('keydown', handleKeyDown);
 });
 </script>
 
@@ -485,14 +645,44 @@ onUnmounted(() => {
 		class="map-dialog"
 	>
 		<template #header>
-			<div class="flex align-items-center gap-3">
-				<h3 class="m-0">Active Permit Locations - Interactive Map</h3>
-				<span class="text-sm text-500"
-					>({{ markers?.length || 0 }} showing of {{ permits.length }} total)</span
-				>
-				<div v-if="isLoadingMarkers" class="flex align-items-center gap-2 ml-3">
-					<i class="pi pi-spin pi-spinner text-sm"></i>
-					<span class="text-sm">Loading markers...</span>
+			<div class="flex align-items-center justify-content-between w-full">
+				<div class="flex align-items-center gap-3">
+					<h3 class="m-0">Active Permit Locations - Interactive Map</h3>
+					<span class="text-sm text-500"
+						>({{ markers?.length || 0 }} showing of {{ permits.length }} total)</span
+					>
+					<div v-if="isLoadingMarkers" class="flex align-items-center gap-2 ml-3">
+						<i class="pi pi-spin pi-spinner text-sm"></i>
+						<span class="text-sm">Loading markers...</span>
+					</div>
+				</div>
+				
+				<div class="flex align-items-center gap-2">
+					<!-- Selection status -->
+					<div v-if="selectedMarkersCount > 0" class="flex align-items-center gap-2">
+						<span class="text-sm font-semibold text-primary">
+							{{ selectedMarkersCount }} selected
+						</span>
+						<Button
+							@click="clearSelection"
+							icon="pi pi-times"
+							size="small"
+							severity="secondary"
+							outlined
+							title="Clear selection (Delete)"
+						/>
+					</div>
+					
+					<!-- Selection mode toggle -->
+					<Button
+						@click="toggleSelectionMode"
+						:icon="isSelectionMode ? 'pi pi-times' : 'pi pi-th-large'"
+						:label="isSelectionMode ? 'Cancel' : 'Select Area'"
+						size="small"
+						:severity="isSelectionMode ? 'danger' : 'primary'"
+						:outlined="!isSelectionMode"
+						:title="isSelectionMode ? 'Cancel selection mode (Escape)' : 'Draw rectangle to select markers'"
+					/>
 				</div>
 			</div>
 		</template>
@@ -524,6 +714,12 @@ onUnmounted(() => {
 				<div class="mb-2">
 					<strong>Interactive Map:</strong> 🖱️ Click and drag to pan • 🔍 Scroll to zoom • 📍 Click
 					markers for details
+					<span v-if="isSelectionMode" class="ml-3 text-primary font-semibold">
+						🎯 Draw a rectangle to select markers
+					</span>
+					<span v-else-if="selectedMarkersCount > 0" class="ml-3 text-primary">
+						✨ {{ selectedMarkersCount }} markers selected • Press Delete to clear
+					</span>
 				</div>
 			</div>
 		</div>
