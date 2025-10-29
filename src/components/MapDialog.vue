@@ -88,9 +88,6 @@ const loadGoogleMapsAPI = (): Promise<void> => {
 
 		// Create global callback
 		(window as any)[callbackName] = () => {
-			console.log("Google Maps API callback executed");
-			console.log("Checking post-load availability:");
-			console.log("- google.maps:", !!window.google?.maps);
 
 			delete (window as any)[callbackName];
 			resolve();
@@ -145,7 +142,6 @@ const initializeDrawingManager = () => {
 
 	// Listen for rectangle completion
 	google.maps.event.addListener(drawingManager.value, 'rectanglecomplete', (rectangle: google.maps.Rectangle) => {
-		console.log('Rectangle completed:', rectangle);
 		
 		// Clear previous rectangle if exists
 		if (currentRectangle.value) {
@@ -207,18 +203,14 @@ const highlightMarker = (marker: google.maps.Marker, selected: boolean) => {
 const toggleSelectionMode = () => {
 	if (!drawingManager.value) return;
 	
-	console.log('Toggling selection mode. Current state:', isSelectionMode.value);
-	
 	isSelectionMode.value = !isSelectionMode.value;
 	
 	if (isSelectionMode.value) {
 		// Enter selection mode
-		console.log('Entering selection mode');
 		drawingManager.value.setDrawingMode(google.maps.drawing.OverlayType.RECTANGLE);
 		map.value?.setOptions({ draggableCursor: 'crosshair' });
 	} else {
 		// Exit selection mode
-		console.log('Exiting selection mode');
 		drawingManager.value.setDrawingMode(null);
 		map.value?.setOptions({ draggableCursor: null });
 		clearSelection();
@@ -253,10 +245,8 @@ const toggleCachedLocationMode = async () => {
 	isCachedLocationMode.value = !isCachedLocationMode.value;
 	
 	if (isCachedLocationMode.value) {
-		console.log('Switching to cached location mode');
 		await addCachedLocationMarkers();
 	} else {
-		console.log('Switching back to normal mode');
 		await addPermitMarkers();
 	}
 };
@@ -277,12 +267,9 @@ const initializeMap = async () => {
 		console.log("Loading Google Maps API...");
 		await loadGoogleMapsAPI();
 
-		console.log("Google Maps API loaded successfully");
-
 		// Default center on Victoria, BC
 		const defaultCenter = { lat: 48.4284, lng: -123.3656 };
 
-		console.log("Creating map");
 		map.value = new google.maps.Map(mapContainer.value, {
 			zoom: 11,
 			center: defaultCenter,
@@ -325,8 +312,6 @@ const closeCurrentInfoWindow = () => {
 
 // Clear and destroy the map completely
 const clearMap = () => {
-	console.log("Clearing map completely for fresh start");
-
 	// Clear selection state
 	clearSelection();
 
@@ -363,7 +348,6 @@ const clearMap = () => {
 
 // Clear existing markers
 const clearMarkers = () => {
-	console.log("Clearing", markers.value.length, "Markers");
 	markers.value.forEach((marker: google.maps.Marker) => {
 		marker.setMap(null);
 	});
@@ -402,7 +386,6 @@ const addPermitMarkers = async (clearExisting = true) => {
 		const address = getPermitAddressCacheKey(permit);
 		const cachedLocation = await db.addressLocations.get({ address });
 		if (cachedLocation) {
-			console.log(`✅ Using cached location for: ${address}`, cachedLocation);
 
 			await addAddressMarker(
 				permit,
@@ -512,10 +495,7 @@ const addCachedLocationMarkers = async () => {
 
 			// Create markers for each matching permit at this cached location
 			for (const permit of matchingPermits) {
-				console.log(`✅ Using cached location for permit ${permit.folderNumber}: ${cachedLocation.address}`, {
-					lat: cachedLocation.lat,
-					lng: cachedLocation.lng
-				});
+				
 
 				await addAddressMarker(
 					permit,
@@ -542,8 +522,6 @@ const addCachedLocationMarkers = async () => {
 				google.maps.event.removeListener(listener);
 			});
 		}
-
-		console.log(`Created ${markers.value.length} markers from cached locations`);
 	} catch (error) {
 		console.error("Failed to load cached address locations:", error);
 		toast.add({
@@ -562,7 +540,6 @@ const addAddressMarker = async (
 	bounds: google.maps.LatLngBounds,
 	markers: google.maps.Marker[]
 ): Promise<void> => {
-	console.log("Creating marker for permit:", permit.folderNumber, "at position:", latLong);
 
 	let marker: google.maps.Marker;
 
@@ -573,15 +550,6 @@ const addAddressMarker = async (
 			map: map.value,
 			title: `${permit.folderNumber}: ${permit.primaryStreetName}`
 		});
-
-		console.log("Classic Marker created successfully:", marker);
-		console.log("Marker position set to:", latLong);
-		console.log("Marker map reference:", marker.getMap());
-
-		// Verify marker is actually on the map
-		setTimeout(() => {
-			console.log("Marker check after 1 second - still on map:", marker.getMap() === map.value);
-		}, 1000);
 	} catch (error) {
 		console.error("Failed to create classic Marker for permit", permit.folderNumber, ":", error);
 		throw error;
@@ -663,8 +631,6 @@ const geocodeAddress = async (address: string): Promise<google.maps.LatLngLitera
 							lng: location.lng()
 						};
 
-						console.log(`✅ Geocoding successful for: ${address}`, coords);
-
 						// Cache the successful result
 						try {
 							await db.addressLocations.put({
@@ -734,18 +700,14 @@ watch(
 const handleKeyDown = (event: KeyboardEvent) => {
 	if (!props.visible) return;
 	
-	console.log('Key pressed:', event.key, 'Selection mode:', isSelectionMode.value, 'Selected count:', selectedMarkers.value.size);
-	
 	if (event.key === 'Escape') {
 		event.preventDefault();
 		if (isSelectionMode.value) {
-			console.log('Escape pressed - exiting selection mode');
 			toggleSelectionMode();
 		}
 	} else if (event.key === 'Delete' || event.key === 'Backspace') {
 		event.preventDefault();
 		if (selectedMarkers.value.size > 0) {
-			console.log('Delete pressed - clearing selection');
 			clearSelection();
 		}
 	}
