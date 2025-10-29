@@ -34,6 +34,28 @@ async function downloadViewedDocs() {
 	});
 }
 
+async function downloadAddressLocations() {
+	const addressLocations = await db.addressLocations.toArray();
+	// Sort by address for stable output
+	addressLocations.sort((a, b) => a.address.localeCompare(b.address));
+	// Remove the database ID field and keep only relevant data
+	const exportData = addressLocations.map(({ address, lat, lng }) => ({ address, lat, lng }));
+	const dataStr =
+		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(exportData, null, 2));
+	const downloadAnchorNode = document.createElement("a");
+	downloadAnchorNode.setAttribute("href", dataStr);
+	downloadAnchorNode.setAttribute("download", "address_locations.json");
+	document.body.appendChild(downloadAnchorNode); // required for firefox
+	downloadAnchorNode.click();
+	downloadAnchorNode.remove();
+	toast.add({
+		severity: "success",
+		summary: "Download Started",
+		detail: "Address locations download started.",
+		life: 3000
+	});
+}
+
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -76,8 +98,9 @@ onUnmounted(() => {});
 			</div>
 		</template>
 
-		<div>
+		<div class="flex gap-2">
 			<Button icon="pi pi-download" label="Download Viewed Docs" @click="downloadViewedDocs" />
+			<Button icon="pi pi-download" label="Export Address Locations" @click="downloadAddressLocations" />
 		</div>
 	</Dialog>
 </template>
