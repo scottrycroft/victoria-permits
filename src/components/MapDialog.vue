@@ -25,6 +25,8 @@ const geocoder = ref<google.maps.Geocoder | null>(null);
 const isMapLoaded = ref(false);
 const isLoadingMarkers = ref(false);
 const currentInfoWindow = ref<google.maps.InfoWindow | null>(null);
+const currentPermitOffset = ref(0);
+const permitsPerBatch = 100;
 
 const API_KEY = "AIzaSyB-AAgFz8X7o_N5vmiLU1MoKPUVa6_0NPA";
 
@@ -262,6 +264,11 @@ const toggleCachedLocationMode = async () => {
 // Computed property for selection count
 const selectedMarkersCount = computed(() => selectedMarkers.value.size);
 
+// Computed properties for permit loading status
+const currentlyLoadedCount = computed(() => Math.min(currentPermitOffset.value + permitsPerBatch, activePermits.value.length));
+const totalPermitsCount = computed(() => activePermits.value.length);
+const hasMorePermits = computed(() => currentPermitOffset.value < activePermits.value.length);
+
 // Initialize the interactive map
 const initializeMap = async () => {
 	if (!mapContainer.value || !props.visible) return;
@@ -346,6 +353,7 @@ const clearMap = () => {
 	geocoder.value = null;
 	isMapLoaded.value = false;
 	isLoadingMarkers.value = false;
+	currentPermitOffset.value = 0; // Reset permit offset
 
 	// Clear the map container content to ensure clean slate
 	if (mapContainer.value) {
@@ -370,21 +378,25 @@ const getPermitAddressCacheKey = (permit: PermitsEntity): string => {
 };
 
 // Add interactive markers for permit addresses with hover tooltips (original logic)
-const addPermitMarkers = async () => {
+const addPermitMarkers = async (clearExisting = true) => {
 	if (!map.value || !geocoder.value) return;
 
 	isLoadingMarkers.value = true;
-	clearMarkers();
+	if (clearExisting) {
+		clearMarkers();
+		currentPermitOffset.value = 0;
+	}
 
 	const bounds = new google.maps.LatLngBounds();
 	let hasValidLocations = false;
 
 	// Process permits in batches to avoid rate limits
 	const batchSize = 5;
-	const maxPermits = Math.min(activePermits.value.length, 100);
+	const startIndex = clearExisting ? 0 : currentPermitOffset.value;
+	const endIndex = Math.min(startIndex + permitsPerBatch, activePermits.value.length);
 
 	const cacheMisses = [];
-	const permitsToGeocode = activePermits.value.slice(0, maxPermits);
+	const permitsToGeocode = activePermits.value.slice(startIndex, endIndex);
 	for (const permit of permitsToGeocode) {
 		// First check if we have this address cached
 		const address = getPermitAddressCacheKey(permit);
@@ -430,13 +442,28 @@ const addPermitMarkers = async () => {
 		);
 
 		// Small delay between batches to respect rate limits
-		if (i + batchSize < maxPermits) {
+		if (i + batchSize < cacheMisses.length) {
 			await new Promise((resolve) => setTimeout(resolve, 200));
 		}
 	}
 
-	// Fit map to show all markers
-	if (hasValidLocations && map.value) {
+	// Update the current offset
+	if (!clearExisting) {
+		currentPermitOffset.value = endIndex;
+	}
+
+	// Fit map to show all markers (only if this is the initial load or we have new valid locations)
+	if (hasValidLocations && map.value && (clearExisting || markers.value.length === 1)) {
+		// Extend bounds to include existing markers if not clearing
+		if (!clearExisting) {
+			markers.value.forEach(marker => {
+				const position = marker.getPosition();
+				if (position) {
+					bounds.extend(position);
+				}
+			});
+		}
+		
 		map.value.fitBounds(bounds);
 
 		// Ensure reasonable zoom level
@@ -449,6 +476,15 @@ const addPermitMarkers = async () => {
 	}
 
 	isLoadingMarkers.value = false;
+};
+
+// Load next batch of permits
+const loadNextPermits = async () => {
+	if (currentPermitOffset.value >= activePermits.value.length) {
+		return; // No more permits to load
+	}
+	
+	await addPermitMarkers(false); // Don't clear existing markers
 };
 
 // Add interactive markers for cached address locations only (selection mode)
@@ -748,7 +784,7 @@ onUnmounted(() => {
 				<div class="flex align-items-center gap-3">
 					<h3 class="m-0">Active Permit Locations - Interactive Map</h3>
 					<span class="text-sm text-500"
-						>({{ markers?.length || 0 }} showing of {{ permits.length }} total)</span
+						>({{ markers?.length || 0 }} showing of {{ currentlyLoadedCount }} loaded / {{ totalPermitsCount }} total)</span
 					>
 					<div v-if="isLoadingMarkers" class="flex align-items-center gap-2 ml-3">
 						<i class="pi pi-spin pi-spinner text-sm"></i>
@@ -757,6 +793,19 @@ onUnmounted(() => {
 				</div>
 				
 				<div class="flex align-items-center gap-2">
+					<!-- Load Next 100 button -->
+					<Button
+						v-if="hasMorePermits && !isCachedLocationMode"
+						@click="loadNextPermits"
+						:disabled="isLoadingMarkers"
+						icon="pi pi-plus"
+						label="Load Next 100"
+						size="small"
+						severity="info"
+						outlined
+						:title="`Load next ${Math.min(permitsPerBatch, totalPermitsCount - currentlyLoadedCount)} permits`"
+					/>
+					
 					<!-- Selection status -->
 					<div v-if="selectedMarkersCount > 0" class="flex align-items-center gap-2">
 						<span class="text-sm font-semibold text-primary">
