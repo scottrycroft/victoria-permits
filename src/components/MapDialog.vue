@@ -34,6 +34,9 @@ const currentRectangle = ref<google.maps.Rectangle | null>(null);
 const selectedMarkers = ref<Set<google.maps.Marker>>(new Set());
 const drawingManager = ref<google.maps.drawing.DrawingManager | null>(null);
 
+// Cached location mode state
+const isCachedLocationMode = ref(false);
+
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -243,6 +246,19 @@ const clearSelection = () => {
 	map.value?.setOptions({ draggableCursor: null });
 };
 
+// Toggle cached location mode
+const toggleCachedLocationMode = async () => {
+	isCachedLocationMode.value = !isCachedLocationMode.value;
+	
+	if (isCachedLocationMode.value) {
+		console.log('Switching to cached location mode');
+		await addCachedLocationMarkers();
+	} else {
+		console.log('Switching back to normal mode');
+		await addPermitMarkers();
+	}
+};
+
 // Computed property for selection count
 const selectedMarkersCount = computed(() => selectedMarkers.value.size);
 
@@ -353,7 +369,7 @@ const getPermitAddressCacheKey = (permit: PermitsEntity): string => {
 	return `${permit.primaryStreetName}, ${permit.city}, BC, Canada`;
 };
 
-// Add interactive markers for permit addresses with hover tooltips
+// Add interactive markers for permit addresses with hover tooltips (original logic)
 const addPermitMarkers = async () => {
 	if (!map.value || !geocoder.value) return;
 
@@ -429,6 +445,75 @@ const addPermitMarkers = async () => {
 				map.value!.setZoom(16);
 			}
 			google.maps.event.removeListener(listener);
+		});
+	}
+
+	isLoadingMarkers.value = false;
+};
+
+// Add interactive markers for cached address locations only (selection mode)
+const addCachedLocationMarkers = async () => {
+	if (!map.value) return;
+
+	isLoadingMarkers.value = true;
+	clearMarkers();
+
+	const bounds = new google.maps.LatLngBounds();
+	let hasValidLocations = false;
+
+	try {
+		// Get all cached address locations from the database
+		const cachedLocations = await db.addressLocations.toArray();
+		console.log(`Found ${cachedLocations.length} cached address locations for selection mode`);
+
+		// For each cached location, find matching permits
+		for (const cachedLocation of cachedLocations) {
+			// Find permits that match this cached address
+			const matchingPermits = activePermits.value.filter(permit => {
+				const permitAddress = getPermitAddressCacheKey(permit);
+				return permitAddress === cachedLocation.address;
+			});
+
+			// Create markers for each matching permit at this cached location
+			for (const permit of matchingPermits) {
+				console.log(`✅ Using cached location for permit ${permit.folderNumber}: ${cachedLocation.address}`, {
+					lat: cachedLocation.lat,
+					lng: cachedLocation.lng
+				});
+
+				await addAddressMarker(
+					permit,
+					{
+						lat: cachedLocation.lat,
+						lng: cachedLocation.lng
+					},
+					bounds,
+					markers.value
+				);
+				hasValidLocations = true;
+			}
+		}
+
+		// Fit map to show all markers
+		if (hasValidLocations && map.value) {
+			map.value.fitBounds(bounds);
+
+			// Ensure reasonable zoom level
+			const listener = google.maps.event.addListener(map.value, "bounds_changed", () => {
+				if (map.value!.getZoom()! > 16) {
+					map.value!.setZoom(16);
+				}
+				google.maps.event.removeListener(listener);
+			});
+		}
+
+		console.log(`Created ${markers.value.length} markers from cached locations`);
+	} catch (error) {
+		console.error("Failed to load cached address locations:", error);
+		toast.add({
+			severity: "error",
+			summary: "Map Error",
+			detail: "Failed to load cached address locations."
 		});
 	}
 
@@ -686,6 +771,17 @@ onUnmounted(() => {
 							title="Clear selection (Delete)"
 						/>
 					</div>
+					
+					<!-- Cached location mode toggle -->
+					<Button
+						@click="toggleCachedLocationMode"
+						:icon="isCachedLocationMode ? 'pi pi-database' : 'pi pi-map-marker'"
+						:label="isCachedLocationMode ? 'Show All' : 'Cached Only'"
+						size="small"
+						:severity="isCachedLocationMode ? 'success' : 'secondary'"
+						:outlined="!isCachedLocationMode"
+						:title="isCachedLocationMode ? 'Show all permits (with geocoding)' : 'Show only cached locations'"
+					/>
 					
 					<!-- Selection mode toggle -->
 					<Button
