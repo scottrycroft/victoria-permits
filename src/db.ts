@@ -18,7 +18,7 @@ export class PermitsDB extends Dexie {
 
 	clickedDocs!: Table<DocumentsEntity>;
 
-	clickedDocs3!: Table<DocumentsEntity2>;
+	clickedDocs2!: Table<DocumentsEntity2>;
 
 	addressLocations!: Table<AddressLocation>;
 
