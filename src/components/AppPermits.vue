@@ -1050,6 +1050,7 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 			header="Permit Details"
 			:modal="true"
 			class="p-fluid"
+			@keydown.c="clearDocs"
 		>
 			<div class="grid">
 				<div class="col-2 field">
