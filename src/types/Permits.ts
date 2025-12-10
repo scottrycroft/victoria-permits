@@ -58,6 +58,13 @@ export interface DocumentsEntity {
 	docURL: string;
 }
 
+export interface DocumentsEntity2 {
+	city: string;
+	permitID: string;
+	docName: string;
+	docURL: string;
+}
+
 export interface AddressLocation {
 	address: string;
 	lat: number;

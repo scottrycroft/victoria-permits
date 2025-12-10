@@ -3,6 +3,7 @@ import Dexie, { type Table } from "dexie";
 
 import {
 	type DocumentsEntity,
+	type DocumentsEntity2,
 	type PermitsEntityDB,
 	type ViewedPermitInfoDB,
 	type AddressLocation
@@ -17,14 +18,17 @@ export class PermitsDB extends Dexie {
 
 	clickedDocs!: Table<DocumentsEntity>;
 
+	clickedDocs3!: Table<DocumentsEntity2>;
+
 	addressLocations!: Table<AddressLocation>;
 
 	constructor() {
 		super("permits");
-		this.version(12).stores({
+		this.version(17).stores({
 			lastSeenPermits: "++id, [city+folderNumber], [dbVersion+city+folderNumber]", // Primary key and indexed props
 			todaysViewedPermits: "[city+folderNumber], lastViewedDate",
 			clickedDocs: "[docName+docURL]",
+			clickedDocs2: "[city+permitID+docName]",
 			addressLocations: "++id, &address"
 		});
 	}

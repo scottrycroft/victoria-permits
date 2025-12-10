@@ -24,6 +24,7 @@ import MapDialog from "./MapDialog.vue";
 import type {
 	DaysContentPermitInfo,
 	DocumentsEntity,
+	DocumentsEntity2,
 	PermitsEntity,
 	PermitsEntityDB,
 	PermitsInfo,
@@ -123,6 +124,9 @@ initPermitsViewedToday(permitsViewedTodaySet);
 const viewedDocs = reactive(new Map<string, boolean>());
 initViewedDocs(viewedDocs);
 
+const viewedDocs2 = reactive(new Map<string, boolean>());
+initViewedDocs2(viewedDocs2);
+
 const applicationTypes = ref(getApplicationTypes(permitsList));
 
 function cloneObj<T>(obj: T): T {
@@ -138,6 +142,14 @@ async function initViewedDocs(viewedDocs: Map<string, boolean>) {
 	for (const dbClickedDoc of dbClickedDocs) {
 		const mapKey = getViewedDocMapKey(dbClickedDoc);
 		viewedDocs.set(mapKey, true);
+	}
+}
+
+async function initViewedDocs2(viewedDocs2: Map<string, boolean>) {
+	const dbClickedDocs2 = await db.clickedDocs2.toArray();
+	for (const dbClickedDoc2 of dbClickedDocs2) {
+		const mapKey = getViewedDocMapKey2(dbClickedDoc2);
+		viewedDocs2.set(mapKey, true);
 	}
 }
 
@@ -314,20 +326,30 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 	});
 }
 
-async function clickedDoc(document: DocumentsEntity) {
+async function clickedDoc(document: DocumentsEntity, permit: PermitsEntity) {
 	await db.clickedDocs.put({
 		docName: document.docName,
 		docURL: document.docURL
 	});
 	const mapKey = getViewedDocMapKey(document);
 	viewedDocs.set(mapKey, true);
+
+	const docEntity2:DocumentsEntity2 = {
+		city: permit.city,
+		permitID: permit.folderNumber,
+		docName: document.docName,
+		docURL: document.docURL
+	};
+	await db.clickedDocs2.put(docEntity2);
+	const mapKey2 = getViewedDocMapKey2(docEntity2);
+	viewedDocs2.set(mapKey2, true);
 }
 
 async function clearDocs() {
 	if (!permit.value) return;
 
 	for (const document of permit.value.documents) {
-		await clickedDoc(document);
+		await clickedDoc(document, permit.value);
 	}
 }
 
@@ -618,6 +640,10 @@ function documentLinkClass(
 
 function getViewedDocMapKey(document: DocumentsEntity) {
 	return document.docName + "|" + document.docURL;
+}
+
+function getViewedDocMapKey2(document: DocumentsEntity2) {
+	return document.permitID + "|" + document.docName;
 }
 
 function getDocNameFromURL(docURL: string): string {
@@ -1176,9 +1202,9 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 								target="_blank"
 								class="documentLink"
 								:class="documentLinkClass(document, index, permit, previousPermit)"
-								@click.left="clickedDoc(document)"
-								@click.right="clickedDoc(document)"
-								@click.middle="clickedDoc(document)"
+								@click.left="clickedDoc(document, permit)"
+								@click.right="clickedDoc(document, permit)"
+								@click.middle="clickedDoc(document, permit)"
 								>{{ document.docName || getDocNameFromURL(document.docURL) }}</a
 							>
 						</div>
