@@ -23,7 +23,7 @@ async function downloadViewedDocs() {
 		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(viewedDocs, null, 2));
 	const downloadAnchorNode = document.createElement("a");
 	downloadAnchorNode.setAttribute("href", dataStr);
-	downloadAnchorNode.setAttribute("download", "viewed_documents.json");
+	downloadAnchorNode.setAttribute("download", "clickedDocs.json");
 	document.body.appendChild(downloadAnchorNode); // required for firefox
 	downloadAnchorNode.click();
 	downloadAnchorNode.remove();
@@ -31,6 +31,25 @@ async function downloadViewedDocs() {
 		severity: "success",
 		summary: "Download Started",
 		detail: "Viewed documents download started.",
+		life: 3000
+	});
+}
+
+async function downloadClickedDocs2() {
+	const clickedDocs2 = await db.clickedDocs2.toArray();
+	clickedDocs2.sort((a, b) => a.docURL.localeCompare(b.docURL));
+	const dataStr =
+		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(clickedDocs2, null, 2));
+	const downloadAnchorNode = document.createElement("a");
+	downloadAnchorNode.setAttribute("href", dataStr);
+	downloadAnchorNode.setAttribute("download", "clickedDocs2.json");
+	document.body.appendChild(downloadAnchorNode); // required for firefox
+	downloadAnchorNode.click();
+	downloadAnchorNode.remove();
+	toast.add({
+		severity: "success",
+		summary: "Download Started",
+		detail: "ClickedDocs2 download started.",
 		life: 3000
 	});
 }
@@ -191,6 +210,7 @@ onUnmounted(() => {});
 
 		<div class="flex gap-2 flex-wrap">
 			<Button icon="pi pi-download" label="Download Viewed Docs" @click="downloadViewedDocs" />
+			<Button icon="pi pi-download" label="Download ClickedDocs2" @click="downloadClickedDocs2" />
 			<Button
 				icon="pi pi-download"
 				label="Export Address Locations"
