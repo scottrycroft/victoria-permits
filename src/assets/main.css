@@ -56,13 +56,13 @@ a.documentLink {
 	position: relative;
 }
 
-a.documentLink.notViewedDoc::before {
+a.documentLink::before {
 	content: "!";
 	position: absolute;
 	top: 0px;
 	right: -17px;
-	background-color: green;
 	color: white;
+	background-color: transparent;
 	font-size: 12px;
 	font-weight: bold;
 	min-width: 11px;
@@ -73,6 +73,23 @@ a.documentLink.notViewedDoc::before {
 	justify-content: center;
 	padding: 2px;
 }
+
+a.documentLink.notViewedDoc:not(.notViewedDoc2)::before {
+	background-color: green;
+}
+
+a.documentLink.notViewedDoc.notViewedDoc2::before {
+	background-color: rgb(182, 73, 0);
+}
+
+a.documentLink.notViewedDoc2:not(.notViewedDoc)::before {
+	background-color: purple;
+}
+
+a.documentLink.viewedDoc2:not(.viewedDoc)::before {
+	background-color: teal;
+}
+
 
 .purpose {
 	white-space: pre-line;

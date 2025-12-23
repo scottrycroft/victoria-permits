@@ -630,10 +630,24 @@ function documentLinkClass(
 	const docLinkClasses = versionDiffDocumentClass(index, permit, previousPermit);
 	const viewedDocMapKey = getViewedDocMapKey(document);
 	const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
+	
+	const docEntity2:DocumentsEntity2 = {
+		city: permit.city,
+		permitID: permit.folderNumber,
+		docName: document.docName,
+		docURL: document.docURL
+	};
 	if (hasViewedDoc) {
 		docLinkClasses.push("viewedDoc");
 	} else {
 		docLinkClasses.push("notViewedDoc");
+	}
+	const viewedDocMapKey2 = getViewedDocMapKey2(docEntity2);
+	const hasViewedDoc2 = viewedDocs2.has(viewedDocMapKey2);
+	if(hasViewedDoc2) {
+		docLinkClasses.push("viewedDoc2");
+	} else {
+		docLinkClasses.push("notViewedDoc2");
 	}
 	return docLinkClasses;
 }
