@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { db } from "@/db";
-import type { DocumentsEntity } from "@/types/Permits";
+import type { DocumentsEntity, DocumentsEntity2 } from "@/types/Permits";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import { useToast } from "primevue/usetoast";
@@ -16,42 +16,115 @@ const emit = defineEmits<{
 
 const toast = useToast();
 
-async function downloadViewedDocs() {
-	const viewedDocs = await db.clickedDocs.toArray();
-	viewedDocs.sort((a, b) => a.docURL.localeCompare(b.docURL));
+// Generic helper function to download documents from a table
+async function downloadDocuments(
+	tableName: "clickedDocs" | "clickedDocs2",
+	toastDetail: string
+) {
+	const docs = await db[tableName].toArray();
+	docs.sort((a, b) => a.docURL.localeCompare(b.docURL));
 	const dataStr =
-		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(viewedDocs, null, 2));
+		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(docs, null, 2));
 	const downloadAnchorNode = document.createElement("a");
 	downloadAnchorNode.setAttribute("href", dataStr);
-	downloadAnchorNode.setAttribute("download", "clickedDocs.json");
+	downloadAnchorNode.setAttribute("download", `${tableName}.json`);
 	document.body.appendChild(downloadAnchorNode); // required for firefox
 	downloadAnchorNode.click();
 	downloadAnchorNode.remove();
 	toast.add({
 		severity: "success",
 		summary: "Download Started",
-		detail: "Viewed documents download started.",
+		detail: toastDetail,
 		life: 3000
 	});
 }
 
+// Generic helper function to import documents into a table
+async function importDocuments(
+	tableName: "clickedDocs" | "clickedDocs2",
+	validateFn: (item: any) => boolean,
+	requiredFields: string
+) {
+	// Create a file input element
+	const input = document.createElement("input");
+	input.type = "file";
+	input.accept = ".json";
+	
+	input.onchange = async (e: Event) => {
+		const target = e.target as HTMLInputElement;
+		const file = target.files?.[0];
+		
+		if (!file) {
+			return;
+		}
+		
+		try {
+			// Read the file
+			const text = await file.text();
+			const data = JSON.parse(text) as (DocumentsEntity | DocumentsEntity2)[];
+			
+			// Validate the data structure
+			if (!Array.isArray(data)) {
+				throw new Error("JSON file must contain an array of documents");
+			}
+			
+			// Validate each item has the required fields
+			for (const item of data) {
+				if (!validateFn(item)) {
+					throw new Error(`Each document must have ${requiredFields} fields`);
+				}
+			}
+			
+			// Add documents to the database (bulkPut will add or update)
+			if (tableName === "clickedDocs") {
+				await db.clickedDocs.bulkPut(data as DocumentsEntity[]);
+			} else {
+				await db.clickedDocs2.bulkPut(data as DocumentsEntity2[]);
+			}
+			
+			toast.add({
+				severity: "success",
+				summary: "Import Successful",
+				detail: `Successfully imported ${data.length} documents into ${tableName}.`,
+				life: 5000
+			});
+		} catch (error) {
+			console.error(`Error importing ${tableName}:`, error);
+			toast.add({
+				severity: "error",
+				summary: "Import Failed",
+				detail: error instanceof Error ? error.message : "Failed to import documents",
+				life: 5000
+			});
+		}
+	};
+	
+	// Trigger the file picker
+	input.click();
+}
+
+async function downloadViewedDocs() {
+	await downloadDocuments("clickedDocs", "Viewed documents download started.");
+}
+
 async function downloadClickedDocs2() {
-	const clickedDocs2 = await db.clickedDocs2.toArray();
-	clickedDocs2.sort((a, b) => a.docURL.localeCompare(b.docURL));
-	const dataStr =
-		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(clickedDocs2, null, 2));
-	const downloadAnchorNode = document.createElement("a");
-	downloadAnchorNode.setAttribute("href", dataStr);
-	downloadAnchorNode.setAttribute("download", "clickedDocs2.json");
-	document.body.appendChild(downloadAnchorNode); // required for firefox
-	downloadAnchorNode.click();
-	downloadAnchorNode.remove();
-	toast.add({
-		severity: "success",
-		summary: "Download Started",
-		detail: "ClickedDocs2 download started.",
-		life: 3000
-	});
+	await downloadDocuments("clickedDocs2", "ClickedDocs2 download started.");
+}
+
+async function importClickedDocs() {
+	await importDocuments(
+		"clickedDocs",
+		(item: any) => item.docName && item.docURL,
+		"'docName' and 'docURL'"
+	);
+}
+
+async function importClickedDocs2() {
+	await importDocuments(
+		"clickedDocs2",
+		(item: any) => item.city && item.permitID && item.docName && item.docURL,
+		"'city', 'permitID', 'docName' and 'docURL'"
+	);
 }
 
 async function downloadAddressLocations() {
@@ -111,61 +184,6 @@ async function compareClickedDocs() {
 	});
 }
 
-async function importClickedDocs() {
-	// Create a file input element
-	const input = document.createElement("input");
-	input.type = "file";
-	input.accept = ".json";
-	
-	input.onchange = async (e: Event) => {
-		const target = e.target as HTMLInputElement;
-		const file = target.files?.[0];
-		
-		if (!file) {
-			return;
-		}
-		
-		try {
-			// Read the file
-			const text = await file.text();
-			const data = JSON.parse(text) as DocumentsEntity[];
-			
-			// Validate the data structure
-			if (!Array.isArray(data)) {
-				throw new Error("JSON file must contain an array of documents");
-			}
-			
-			// Validate each item has the required fields
-			for (const item of data) {
-				if (!item.docName || !item.docURL) {
-					throw new Error("Each document must have 'docName' and 'docURL' fields");
-				}
-			}
-			
-			// Add documents to the database (bulkPut will add or update)
-			await db.clickedDocs.bulkPut(data);
-			
-			toast.add({
-				severity: "success",
-				summary: "Import Successful",
-				detail: `Successfully imported ${data.length} documents into clickedDocs.`,
-				life: 5000
-			});
-		} catch (error) {
-			console.error("Error importing clicked docs:", error);
-			toast.add({
-				severity: "error",
-				summary: "Import Failed",
-				detail: error instanceof Error ? error.message : "Failed to import documents",
-				life: 5000
-			});
-		}
-	};
-	
-	// Trigger the file picker
-	input.click();
-}
-
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -218,6 +236,7 @@ onUnmounted(() => {});
 			/>
 			<Button icon="pi pi-search" label="Compare ClickedDocs Tables" @click="compareClickedDocs" />
 			<Button icon="pi pi-upload" label="Import Clicked Docs" @click="importClickedDocs" />
+			<Button icon="pi pi-upload" label="Import ClickedDocs2" @click="importClickedDocs2" />
 		</div>
 	</Dialog>
 </template>
