@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { db } from "@/db";
+import type { DocumentsEntity } from "@/types/Permits";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import { useToast } from "primevue/usetoast";
@@ -91,6 +92,61 @@ async function compareClickedDocs() {
 	});
 }
 
+async function importClickedDocs() {
+	// Create a file input element
+	const input = document.createElement("input");
+	input.type = "file";
+	input.accept = ".json";
+	
+	input.onchange = async (e: Event) => {
+		const target = e.target as HTMLInputElement;
+		const file = target.files?.[0];
+		
+		if (!file) {
+			return;
+		}
+		
+		try {
+			// Read the file
+			const text = await file.text();
+			const data = JSON.parse(text) as DocumentsEntity[];
+			
+			// Validate the data structure
+			if (!Array.isArray(data)) {
+				throw new Error("JSON file must contain an array of documents");
+			}
+			
+			// Validate each item has the required fields
+			for (const item of data) {
+				if (!item.docName || !item.docURL) {
+					throw new Error("Each document must have 'docName' and 'docURL' fields");
+				}
+			}
+			
+			// Add documents to the database (bulkPut will add or update)
+			await db.clickedDocs.bulkPut(data);
+			
+			toast.add({
+				severity: "success",
+				summary: "Import Successful",
+				detail: `Successfully imported ${data.length} documents into clickedDocs.`,
+				life: 5000
+			});
+		} catch (error) {
+			console.error("Error importing clicked docs:", error);
+			toast.add({
+				severity: "error",
+				summary: "Import Failed",
+				detail: error instanceof Error ? error.message : "Failed to import documents",
+				life: 5000
+			});
+		}
+	};
+	
+	// Trigger the file picker
+	input.click();
+}
+
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -133,7 +189,7 @@ onUnmounted(() => {});
 			</div>
 		</template>
 
-		<div class="flex gap-2">
+		<div class="flex gap-2 flex-wrap">
 			<Button icon="pi pi-download" label="Download Viewed Docs" @click="downloadViewedDocs" />
 			<Button
 				icon="pi pi-download"
@@ -141,6 +197,7 @@ onUnmounted(() => {});
 				@click="downloadAddressLocations"
 			/>
 			<Button icon="pi pi-search" label="Compare ClickedDocs Tables" @click="compareClickedDocs" />
+			<Button icon="pi pi-upload" label="Import Clicked Docs" @click="importClickedDocs" />
 		</div>
 	</Dialog>
 </template>
