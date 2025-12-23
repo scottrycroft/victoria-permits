@@ -100,7 +100,11 @@ onUnmounted(() => {});
 
 		<div class="flex gap-2">
 			<Button icon="pi pi-download" label="Download Viewed Docs" @click="downloadViewedDocs" />
-			<Button icon="pi pi-download" label="Export Address Locations" @click="downloadAddressLocations" />
+			<Button
+				icon="pi pi-download"
+				label="Export Address Locations"
+				@click="downloadAddressLocations"
+			/>
 		</div>
 	</Dialog>
 </template>

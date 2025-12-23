@@ -88,7 +88,6 @@ const loadGoogleMapsAPI = (): Promise<void> => {
 
 		// Create global callback
 		(window as any)[callbackName] = () => {
-
 			delete (window as any)[callbackName];
 			resolve();
 		};
@@ -128,10 +127,10 @@ const initializeDrawingManager = () => {
 		drawingMode: null, // Start disabled
 		drawingControl: false, // We'll use custom controls
 		rectangleOptions: {
-			fillColor: '#3366ff',
+			fillColor: "#3366ff",
 			fillOpacity: 0.2,
 			strokeWeight: 2,
-			strokeColor: '#3366ff',
+			strokeColor: "#3366ff",
 			clickable: false,
 			editable: true,
 			zIndex: 1
@@ -141,27 +140,33 @@ const initializeDrawingManager = () => {
 	drawingManager.value.setMap(map.value);
 
 	// Listen for rectangle completion
-	google.maps.event.addListener(drawingManager.value, 'rectanglecomplete', (rectangle: google.maps.Rectangle) => {
-		
-		// Clear previous rectangle if exists
-		if (currentRectangle.value) {
-			currentRectangle.value.setMap(null);
+	google.maps.event.addListener(
+		drawingManager.value,
+		"rectanglecomplete",
+		(rectangle: google.maps.Rectangle) => {
+			// Clear previous rectangle if exists
+			if (currentRectangle.value) {
+				currentRectangle.value.setMap(null);
+			}
+
+			currentRectangle.value = rectangle;
+
+			// Select markers within the rectangle
+			selectMarkersInRectangle(rectangle);
+
+			// Exit drawing mode after rectangle is drawn
+			drawingManager.value?.setDrawingMode(null);
+			isSelectionMode.value = false;
+			map.value?.setOptions({ draggableCursor: null });
 		}
-		
-		currentRectangle.value = rectangle;
-		
-		// Select markers within the rectangle
-		selectMarkersInRectangle(rectangle);
-		
-		// Exit drawing mode after rectangle is drawn
-		drawingManager.value?.setDrawingMode(null);
-		isSelectionMode.value = false;
-		map.value?.setOptions({ draggableCursor: null });
-	});
+	);
 };
 
 // Check if marker is within rectangle bounds
-const isMarkerInRectangle = (marker: google.maps.Marker, rectangle: google.maps.Rectangle): boolean => {
+const isMarkerInRectangle = (
+	marker: google.maps.Marker,
+	rectangle: google.maps.Rectangle
+): boolean => {
 	const markerPos = marker.getPosition();
 	const bounds = rectangle.getBounds();
 	return bounds?.contains(markerPos!) || false;
@@ -170,8 +175,8 @@ const isMarkerInRectangle = (marker: google.maps.Marker, rectangle: google.maps.
 // Select all markers within the rectangle
 const selectMarkersInRectangle = (rectangle: google.maps.Rectangle) => {
 	selectedMarkers.value.clear();
-	
-	markers.value.forEach(marker => {
+
+	markers.value.forEach((marker) => {
 		if (isMarkerInRectangle(marker, rectangle)) {
 			selectedMarkers.value.add(marker);
 			highlightMarker(marker, true);
@@ -188,9 +193,9 @@ const highlightMarker = (marker: google.maps.Marker, selected: boolean) => {
 		marker.setIcon({
 			path: google.maps.SymbolPath.CIRCLE,
 			scale: 12,
-			fillColor: '#ff4444',
+			fillColor: "#ff4444",
 			fillOpacity: 1,
-			strokeColor: '#ffffff',
+			strokeColor: "#ffffff",
 			strokeWeight: 2
 		});
 	} else {
@@ -202,13 +207,13 @@ const highlightMarker = (marker: google.maps.Marker, selected: boolean) => {
 // Toggle rectangle selection mode
 const toggleSelectionMode = () => {
 	if (!drawingManager.value) return;
-	
+
 	isSelectionMode.value = !isSelectionMode.value;
-	
+
 	if (isSelectionMode.value) {
 		// Enter selection mode
 		drawingManager.value.setDrawingMode(google.maps.drawing.OverlayType.RECTANGLE);
-		map.value?.setOptions({ draggableCursor: 'crosshair' });
+		map.value?.setOptions({ draggableCursor: "crosshair" });
 	} else {
 		// Exit selection mode
 		drawingManager.value.setDrawingMode(null);
@@ -224,26 +229,26 @@ const clearSelection = () => {
 		currentRectangle.value.setMap(null);
 		currentRectangle.value = null;
 	}
-	
+
 	// Reset all markers to default appearance
-	markers.value.forEach(marker => {
+	markers.value.forEach((marker) => {
 		highlightMarker(marker, false);
 	});
-	
+
 	selectedMarkers.value.clear();
 	isSelectionMode.value = false;
-	
+
 	if (drawingManager.value) {
 		drawingManager.value.setDrawingMode(null);
 	}
-	
+
 	map.value?.setOptions({ draggableCursor: null });
 };
 
 // Toggle cached location mode
 const toggleCachedLocationMode = async () => {
 	isCachedLocationMode.value = !isCachedLocationMode.value;
-	
+
 	if (isCachedLocationMode.value) {
 		await addCachedLocationMarkers();
 	} else {
@@ -255,7 +260,9 @@ const toggleCachedLocationMode = async () => {
 const selectedMarkersCount = computed(() => selectedMarkers.value.size);
 
 // Computed properties for permit loading status
-const currentlyLoadedCount = computed(() => Math.min(currentPermitOffset.value + permitsPerBatch, activePermits.value.length));
+const currentlyLoadedCount = computed(() =>
+	Math.min(currentPermitOffset.value + permitsPerBatch, activePermits.value.length)
+);
 const totalPermitsCount = computed(() => activePermits.value.length);
 const hasMorePermits = computed(() => currentPermitOffset.value < activePermits.value.length);
 
@@ -386,7 +393,6 @@ const addPermitMarkers = async (clearExisting = true) => {
 		const address = getPermitAddressCacheKey(permit);
 		const cachedLocation = await db.addressLocations.get({ address });
 		if (cachedLocation) {
-
 			await addAddressMarker(
 				permit,
 				{
@@ -439,14 +445,14 @@ const addPermitMarkers = async (clearExisting = true) => {
 	if (hasValidLocations && map.value && (clearExisting || markers.value.length === 1)) {
 		// Extend bounds to include existing markers if not clearing
 		if (!clearExisting) {
-			markers.value.forEach(marker => {
+			markers.value.forEach((marker) => {
 				const position = marker.getPosition();
 				if (position) {
 					bounds.extend(position);
 				}
 			});
 		}
-		
+
 		map.value.fitBounds(bounds);
 
 		// Ensure reasonable zoom level
@@ -466,7 +472,7 @@ const loadNextPermits = async () => {
 	if (currentPermitOffset.value >= activePermits.value.length) {
 		return; // No more permits to load
 	}
-	
+
 	await addPermitMarkers(false); // Don't clear existing markers
 };
 
@@ -488,15 +494,13 @@ const addCachedLocationMarkers = async () => {
 		// For each cached location, find matching permits
 		for (const cachedLocation of cachedLocations) {
 			// Find permits that match this cached address
-			const matchingPermits = activePermits.value.filter(permit => {
+			const matchingPermits = activePermits.value.filter((permit) => {
 				const permitAddress = getPermitAddressCacheKey(permit);
 				return permitAddress === cachedLocation.address;
 			});
 
 			// Create markers for each matching permit at this cached location
 			for (const permit of matchingPermits) {
-				
-
 				await addAddressMarker(
 					permit,
 					{
@@ -540,7 +544,6 @@ const addAddressMarker = async (
 	bounds: google.maps.LatLngBounds,
 	markers: google.maps.Marker[]
 ): Promise<void> => {
-
 	let marker: google.maps.Marker;
 
 	try {
@@ -699,13 +702,13 @@ watch(
 // Handle keyboard events for selection mode
 const handleKeyDown = (event: KeyboardEvent) => {
 	if (!props.visible) return;
-	
-	if (event.key === 'Escape') {
+
+	if (event.key === "Escape") {
 		event.preventDefault();
 		if (isSelectionMode.value) {
 			toggleSelectionMode();
 		}
-	} else if (event.key === 'Delete' || event.key === 'Backspace') {
+	} else if (event.key === "Delete" || event.key === "Backspace") {
 		event.preventDefault();
 		if (selectedMarkers.value.size > 0) {
 			clearSelection();
@@ -719,16 +722,16 @@ onMounted(() => {
 			initializeMap();
 		});
 	}
-	
+
 	// Add keyboard event listeners
-	document.addEventListener('keydown', handleKeyDown);
+	document.addEventListener("keydown", handleKeyDown);
 });
 
 onUnmounted(() => {
 	clearMarkers();
-	
+
 	// Remove keyboard event listeners
-	document.removeEventListener('keydown', handleKeyDown);
+	document.removeEventListener("keydown", handleKeyDown);
 });
 </script>
 
@@ -746,14 +749,15 @@ onUnmounted(() => {
 				<div class="flex align-items-center gap-3">
 					<h3 class="m-0">Active Permit Locations - Interactive Map</h3>
 					<span class="text-sm text-500"
-						>({{ markers?.length || 0 }} showing of {{ currentlyLoadedCount }} loaded / {{ totalPermitsCount }} total)</span
+						>({{ markers?.length || 0 }} showing of {{ currentlyLoadedCount }} loaded /
+						{{ totalPermitsCount }} total)</span
 					>
 					<div v-if="isLoadingMarkers" class="flex align-items-center gap-2 ml-3">
 						<i class="pi pi-spin pi-spinner text-sm"></i>
 						<span class="text-sm">Loading markers...</span>
 					</div>
 				</div>
-				
+
 				<div class="flex align-items-center gap-2">
 					<!-- Load Next 100 button -->
 					<Button
@@ -767,7 +771,7 @@ onUnmounted(() => {
 						outlined
 						:title="`Load next ${Math.min(permitsPerBatch, totalPermitsCount - currentlyLoadedCount)} permits`"
 					/>
-					
+
 					<!-- Selection status -->
 					<div v-if="selectedMarkersCount > 0" class="flex align-items-center gap-2">
 						<span class="text-sm font-semibold text-primary">
@@ -782,7 +786,7 @@ onUnmounted(() => {
 							title="Clear selection (Delete)"
 						/>
 					</div>
-					
+
 					<!-- Cached location mode toggle -->
 					<Button
 						@click="toggleCachedLocationMode"
@@ -791,9 +795,13 @@ onUnmounted(() => {
 						size="small"
 						:severity="isCachedLocationMode ? 'success' : 'secondary'"
 						:outlined="!isCachedLocationMode"
-						:title="isCachedLocationMode ? 'Show all permits (with geocoding)' : 'Show only cached locations'"
+						:title="
+							isCachedLocationMode
+								? 'Show all permits (with geocoding)'
+								: 'Show only cached locations'
+						"
 					/>
-					
+
 					<!-- Selection mode toggle -->
 					<Button
 						@click="toggleSelectionMode"
@@ -802,7 +810,11 @@ onUnmounted(() => {
 						size="small"
 						:severity="isSelectionMode ? 'danger' : 'primary'"
 						:outlined="!isSelectionMode"
-						:title="isSelectionMode ? 'Cancel selection mode (Escape)' : 'Draw rectangle to select markers'"
+						:title="
+							isSelectionMode
+								? 'Cancel selection mode (Escape)'
+								: 'Draw rectangle to select markers'
+						"
 					/>
 				</div>
 			</div>

@@ -58,25 +58,30 @@ const toast = useToast();
 FilterService.register("customUnixDateIsFilter", (value: number | null, filter: Date | null) => {
 	if (!filter || !value) return true;
 
-
 	const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
 
 	return valueDayTime === filterDayTime;
 });
-FilterService.register("customUnixDateIsBeforeFilter", (value: number | null, filter: Date | null) => {
-	if (!filter || !value) return true;
+FilterService.register(
+	"customUnixDateIsBeforeFilter",
+	(value: number | null, filter: Date | null) => {
+		if (!filter || !value) return true;
 
-	const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
+		const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
 
-	return valueDayTime <= filterDayTime;
-});
-FilterService.register("customUnixDateIsAfterFilter", (value: number | null, filter: Date | null) => {
-	if (!filter || !value) return true;
+		return valueDayTime <= filterDayTime;
+	}
+);
+FilterService.register(
+	"customUnixDateIsAfterFilter",
+	(value: number | null, filter: Date | null) => {
+		if (!filter || !value) return true;
 
-	const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
+		const { valueDayTime, filterDayTime } = unixDateParseFilterVals(value, filter);
 
-	return valueDayTime >= filterDayTime;
-});
+		return valueDayTime >= filterDayTime;
+	}
+);
 
 function unixDateParseFilterVals(value: number, filter: Date) {
 	const valueDate = new Date(value * 1000);
@@ -112,8 +117,14 @@ const filters = ref<Filters>({
 	applicationType: { value: null, matchMode: FilterMatchMode.IN },
 	status: { value: null, matchMode: FilterMatchMode.EQUALS },
 	city: { value: null, matchMode: FilterMatchMode.IN },
-	applicationDate: { operator: FilterOperator.AND, constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }] },
-	lastUpdated: { operator: FilterOperator.AND, constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }] }
+	applicationDate: {
+		operator: FilterOperator.AND,
+		constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }]
+	},
+	lastUpdated: {
+		operator: FilterOperator.AND,
+		constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }]
+	}
 });
 
 const permitsList: PermitsEntity[] = permitInfo.permits;
@@ -334,7 +345,7 @@ async function clickedDoc(document: DocumentsEntity, permit: PermitsEntity) {
 	const mapKey = getViewedDocMapKey(document);
 	viewedDocs.set(mapKey, true);
 
-	const docEntity2:DocumentsEntity2 = {
+	const docEntity2: DocumentsEntity2 = {
 		city: permit.city,
 		permitID: permit.folderNumber,
 		docName: document.docName,
@@ -630,8 +641,8 @@ function documentLinkClass(
 	const docLinkClasses = versionDiffDocumentClass(index, permit, previousPermit);
 	const viewedDocMapKey = getViewedDocMapKey(document);
 	const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
-	
-	const docEntity2:DocumentsEntity2 = {
+
+	const docEntity2: DocumentsEntity2 = {
 		city: permit.city,
 		permitID: permit.folderNumber,
 		docName: document.docName,
@@ -644,7 +655,7 @@ function documentLinkClass(
 	}
 	const viewedDocMapKey2 = getViewedDocMapKey2(docEntity2);
 	const hasViewedDoc2 = viewedDocs2.has(viewedDocMapKey2);
-	if(hasViewedDoc2) {
+	if (hasViewedDoc2) {
 		docLinkClasses.push("viewedDoc2");
 	} else {
 		docLinkClasses.push("notViewedDoc2");
@@ -875,15 +886,15 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 const handleKeyDown = (event: KeyboardEvent) => {
 	// Only handle if the permit dialog is visible
 	if (!permitDialogVisible.value) return;
-	
+
 	// Check if 'C' key is pressed (case insensitive)
-	if (event.key === 'c' || event.key === 'C') {
+	if (event.key === "c" || event.key === "C") {
 		// Don't trigger if user is typing in an input field
 		const target = event.target as HTMLElement;
-		if (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA') {
+		if (target.tagName === "INPUT" || target.tagName === "TEXTAREA") {
 			return;
 		}
-		
+
 		event.preventDefault();
 		clearDocs();
 	}
@@ -891,12 +902,12 @@ const handleKeyDown = (event: KeyboardEvent) => {
 
 // Add event listener when component mounts
 onMounted(() => {
-	window.addEventListener('keydown', handleKeyDown);
+	window.addEventListener("keydown", handleKeyDown);
 });
 
 // Remove event listener when component unmounts
 onBeforeUnmount(() => {
-	window.removeEventListener('keydown', handleKeyDown);
+	window.removeEventListener("keydown", handleKeyDown);
 });
 </script>
 
