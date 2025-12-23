@@ -74,20 +74,23 @@ a.documentLink::before {
 	padding: 2px;
 }
 
-a.documentLink.notViewedDoc:not(.notViewedDoc2)::before {
+/* viewed in both, show nothing */
+a.documentLink.viewedDoc.viewedDoc2::before {
+	background-color: transparent;
+	color: transparent;
+}
+
+/** Not viewed in either, show green **/
+a.documentLink.notViewedDoc.notViewedDoc2::before {
 	background-color: green;
 }
 
-a.documentLink.notViewedDoc.notViewedDoc2::before {
-	background-color: rgb(182, 73, 0);
+a.documentLink.notViewedDoc.viewedDoc2::before {
+	background-color: rgb(52, 17, 255);
 }
 
-a.documentLink.notViewedDoc2:not(.notViewedDoc)::before {
-	background-color: purple;
-}
-
-a.documentLink.viewedDoc2:not(.viewedDoc)::before {
-	background-color: teal;
+a.documentLink.viewedDoc.notViewedDoc2::before {
+	background-color: rgb(250, 41, 239);
 }
 
 .purpose {
