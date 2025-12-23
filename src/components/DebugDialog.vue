@@ -16,6 +16,9 @@ const emit = defineEmits<{
 
 const toast = useToast();
 
+// Storage persistence status
+const storagePersisted = ref<boolean | null>(null);
+
 // Generic helper function to download documents from a table
 async function downloadDocuments(
 	tableName: "clickedDocs" | "clickedDocs2",
@@ -184,6 +187,47 @@ async function compareClickedDocs() {
 	});
 }
 
+async function requestPersistentStorage() {
+	try {
+		if (navigator.storage && navigator.storage.persist) {
+			const granted = await navigator.storage.persist();
+			// Update the displayed value
+			storagePersisted.value = granted;
+			
+			if (granted) {
+				toast.add({
+					severity: "success",
+					summary: "Persistent Storage Granted",
+					detail: "Storage will not be cleared automatically.",
+					life: 5000
+				});
+			} else {
+				toast.add({
+					severity: "warn",
+					summary: "Persistent Storage Denied",
+					detail: "The browser denied the request. Storage may be cleared under pressure.",
+					life: 5000
+				});
+			}
+		} else {
+			toast.add({
+				severity: "error",
+				summary: "Not Supported",
+				detail: "Persistent storage API is not available in this browser.",
+				life: 5000
+			});
+		}
+	} catch (error) {
+		console.error("Error requesting persistent storage:", error);
+		toast.add({
+			severity: "error",
+			summary: "Request Failed",
+			detail: error instanceof Error ? error.message : "Failed to request persistent storage",
+			life: 5000
+		});
+	}
+}
+
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -195,6 +239,12 @@ watch(
 	async (newVisible) => {
 		if (newVisible) {
 			console.log("Debug Dialog opening - initializing");
+			// Check storage persistence status
+			if (navigator.storage && navigator.storage.persisted) {
+				storagePersisted.value = await navigator.storage.persisted();
+			} else {
+				storagePersisted.value = null;
+			}
 			await nextTick();
 		} else {
 			console.log("Debug Dialog closing - cleaning up");
@@ -226,6 +276,30 @@ onUnmounted(() => {});
 			</div>
 		</template>
 
+		<div class="mb-3">
+			<h4 class="mt-0 mb-2">Storage Information</h4>
+			<div class="flex align-items-center gap-2 mb-2">
+				<strong>Storage Persisted:</strong>
+				<span v-if="storagePersisted === null" class="text-color-secondary">
+					Not available or checking...
+				</span>
+				<span v-else-if="storagePersisted" class="text-green-600">
+					✓ Yes (storage will not be cleared)
+				</span>
+				<span v-else class="text-orange-600">
+					✗ No (storage may be cleared under pressure)
+				</span>
+			</div>
+			<Button
+				v-if="storagePersisted === false"
+				icon="pi pi-lock"
+				label="Request Persistent Storage"
+				@click="requestPersistentStorage"
+				severity="secondary"
+				size="small"
+			/>
+		</div>
+
 		<div class="flex gap-2 flex-wrap">
 			<Button icon="pi pi-download" label="Download Viewed Docs" @click="downloadViewedDocs" />
 			<Button icon="pi pi-download" label="Download ClickedDocs2" @click="downloadClickedDocs2" />
@@ -241,4 +315,9 @@ onUnmounted(() => {});
 	</Dialog>
 </template>
 
-<style scoped></style>
+<style scoped>
+/* Ensure toasts appear above the dialog */
+:deep(.p-toast) {
+	z-index: 9999 !important;
+}
+</style>
