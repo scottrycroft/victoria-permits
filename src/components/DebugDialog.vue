@@ -56,6 +56,41 @@ async function downloadAddressLocations() {
 	});
 }
 
+async function compareClickedDocs() {
+	// Get all documents from both tables
+	const clickedDocs = await db.clickedDocs.toArray();
+	const clickedDocs2 = await db.clickedDocs2.toArray();
+
+	// Extract docURL values into Sets for efficient comparison
+	const docURLsInClickedDocs = new Set(clickedDocs.map((doc) => doc.docURL));
+	const docURLsInClickedDocs2 = new Set(clickedDocs2.map((doc) => doc.docURL));
+
+	// Find docURLs in clickedDocs but not in clickedDocs2
+	const inClickedDocsOnly = clickedDocs.filter((doc) => !docURLsInClickedDocs2.has(doc.docURL));
+
+	// Find docURLs in clickedDocs2 but not in clickedDocs
+	const inClickedDocs2Only = clickedDocs2.filter((doc) => !docURLsInClickedDocs.has(doc.docURL));
+
+	// Log the results
+	console.log("=== ClickedDocs Comparison ===");
+	console.log(`Total in clickedDocs: ${clickedDocs.length}`);
+	console.log(`Total in clickedDocs2: ${clickedDocs2.length}`);
+
+	console.log(`\nIn clickedDocs2 but NOT in clickedDocs (${inClickedDocs2Only.length}):`);
+	inClickedDocs2Only.forEach((doc) => {
+		console.log(`  - ${doc.docURL} (${doc.docName}, ${doc.city}, ${doc.permitID})`);
+	});
+	console.log("=== End Comparison ===");
+
+	// Show toast notification
+	toast.add({
+		severity: "info",
+		summary: "Comparison Complete",
+		detail: `Found ${inClickedDocsOnly.length} in clickedDocs only, ${inClickedDocs2Only.length} in clickedDocs2 only. Check console.`,
+		life: 5000
+	});
+}
+
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -105,6 +140,7 @@ onUnmounted(() => {});
 				label="Export Address Locations"
 				@click="downloadAddressLocations"
 			/>
+			<Button icon="pi pi-search" label="Compare ClickedDocs Tables" @click="compareClickedDocs" />
 		</div>
 	</Dialog>
 </template>
