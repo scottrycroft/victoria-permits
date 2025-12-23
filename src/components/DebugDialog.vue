@@ -187,6 +187,61 @@ async function compareClickedDocs() {
 	});
 }
 
+async function searchDocsByName() {
+	const searchTerm = prompt("Enter document name to search (partial match, case insensitive):");
+	
+	if (!searchTerm) {
+		return; // User cancelled or entered empty string
+	}
+	
+	try {
+		// Get all documents from both tables
+		const clickedDocs = await db.clickedDocs.toArray();
+		const clickedDocs2 = await db.clickedDocs2.toArray();
+		
+		// Filter documents where docName partially matches (case insensitive)
+		const searchLower = searchTerm.toLowerCase();
+		const matchingClickedDocs = clickedDocs.filter((doc) =>
+			doc.docName.toLowerCase().includes(searchLower)
+		);
+		const matchingClickedDocs2 = clickedDocs2.filter((doc) =>
+			doc.docName.toLowerCase().includes(searchLower)
+		);
+		
+		// Convert to IndexedDB key format (array syntax)
+		// clickedDocs key: [docName+docURL]
+		const clickedDocsKeys = matchingClickedDocs.map((doc) => [doc.docName, doc.docURL]);
+		
+		// clickedDocs2 key: [city+permitID+docName]
+		const clickedDocs2Keys = matchingClickedDocs2.map((doc) => [doc.city, doc.permitID, doc.docName]);
+		
+		// Log results to console
+		console.log("=== Document Search Results ===");
+		console.log(`Search term: "${searchTerm}"`);
+		console.log(`\nMatching documents in clickedDocs (${matchingClickedDocs.length}):`);
+		console.log(clickedDocsKeys);
+		console.log(`\nMatching documents in clickedDocs2 (${matchingClickedDocs2.length}):`);
+		console.log(clickedDocs2Keys);
+		console.log("=== End Search Results ===");
+		
+		// Show toast notification
+		toast.add({
+			severity: "info",
+			summary: "Search Complete",
+			detail: `Found ${matchingClickedDocs.length} in clickedDocs, ${matchingClickedDocs2.length} in clickedDocs2. Check console.`,
+			life: 5000
+		});
+	} catch (error) {
+		console.error("Error searching documents:", error);
+		toast.add({
+			severity: "error",
+			summary: "Search Failed",
+			detail: error instanceof Error ? error.message : "Failed to search documents",
+			life: 5000
+		});
+	}
+}
+
 async function requestPersistentStorage() {
 	try {
 		if (navigator.storage && navigator.storage.persist) {
@@ -309,6 +364,7 @@ onUnmounted(() => {});
 				@click="downloadAddressLocations"
 			/>
 			<Button icon="pi pi-search" label="Compare ClickedDocs Tables" @click="compareClickedDocs" />
+			<Button icon="pi pi-file-search" label="Search Docs by Name" @click="searchDocsByName" />
 			<Button icon="pi pi-upload" label="Import Clicked Docs" @click="importClickedDocs" />
 			<Button icon="pi pi-upload" label="Import ClickedDocs2" @click="importClickedDocs2" />
 		</div>
