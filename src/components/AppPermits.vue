@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, reactive, ref, watch } from "vue";
+import { computed, nextTick, onBeforeUnmount, onMounted, reactive, ref, watch } from "vue";
 import { useRoute, useRouter } from "vue-router";
 
 import pDebounce from "p-debounce";
@@ -856,6 +856,34 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 		});
 	}
 }
+
+// Global keyboard shortcut handler for the permit dialog
+const handleKeyDown = (event: KeyboardEvent) => {
+	// Only handle if the permit dialog is visible
+	if (!permitDialogVisible.value) return;
+	
+	// Check if 'C' key is pressed (case insensitive)
+	if (event.key === 'c' || event.key === 'C') {
+		// Don't trigger if user is typing in an input field
+		const target = event.target as HTMLElement;
+		if (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA') {
+			return;
+		}
+		
+		event.preventDefault();
+		clearDocs();
+	}
+};
+
+// Add event listener when component mounts
+onMounted(() => {
+	window.addEventListener('keydown', handleKeyDown);
+});
+
+// Remove event listener when component unmounts
+onBeforeUnmount(() => {
+	window.removeEventListener('keydown', handleKeyDown);
+});
 </script>
 
 <template>
@@ -1076,7 +1104,6 @@ function onPermitFolderClicked(city: string, folderNumber: string) {
 			header="Permit Details"
 			:modal="true"
 			class="p-fluid"
-			@keydown.c="clearDocs"
 		>
 			<div class="grid">
 				<div class="col-2 field">
