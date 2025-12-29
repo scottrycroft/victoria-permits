@@ -359,19 +359,14 @@ async function clickedDoc(document: DocumentsEntity, permit: PermitsEntity) {
 async function clearDocs() {
 	if (!permit.value) return;
 
-	await Promise.all(
-		permit.value.documents.map(document => clickedDoc(document, permit.value!))
-	);
+	await Promise.all(permit.value.documents.map((document) => clickedDoc(document, permit.value!)));
 }
 
 async function markViewed() {
 	if (!permit.value) return;
 
 	// Run clearDocs and geocoding simultaneously
-	await Promise.all([
-		clearDocs(),
-		geocodingService.geocodeAndCachePermit(permit.value)
-	]);
+	await Promise.all([clearDocs(), geocodingService.geocodeAndCachePermit(permit.value)]);
 
 	// Close the dialog after both operations complete
 	permitDialogVisible.value = false;
@@ -474,7 +469,7 @@ const showPermittedText = computed(() => {
 	if (!permit.value || !permit.value.progressSections.length) {
 		return false;
 	}
-	
+
 	const lastTask = permit.value.progressSections[permit.value.progressSections.length - 1];
 	return lastTask?.taskType === "Development Permit Issued" && lastTask?.endDate !== null;
 });

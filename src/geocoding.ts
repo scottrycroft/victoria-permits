@@ -33,9 +33,9 @@ class GeocodingService {
 	}
 
 	/**
-		* Initialize the geocoder instance if not already created
-		* @returns A Geocoder instance or null if Google Maps is not loaded
-		*/
+	 * Initialize the geocoder instance if not already created
+	 * @returns A Geocoder instance or null if Google Maps is not loaded
+	 */
 	private initializeGeocoder(): google.maps.Geocoder | null {
 		if (!this.geocoder && window.google && window.google.maps) {
 			this.geocoder = new google.maps.Geocoder();
@@ -151,22 +151,24 @@ class GeocodingService {
 	}
 
 	/**
-		* Helper function to construct address cache key from a PermitsEntity
-		* This matches the logic used in MapDialog.vue
-		* @param permit - The permit entity
-		* @returns The formatted address string for caching
-		*/
+	 * Helper function to construct address cache key from a PermitsEntity
+	 * This matches the logic used in MapDialog.vue
+	 * @param permit - The permit entity
+	 * @returns The formatted address string for caching
+	 */
 	public getPermitAddressCacheKey(permit: PermitsEntity): string {
 		return `${permit.primaryStreetName}, ${permit.city}, BC, Canada`;
 	}
 
 	/**
-		* Geocode and cache a permit's address if not already cached
-		* This is a convenience method that combines address construction, cache checking, and geocoding
-		* @param permit - The permit entity to geocode
-		* @returns Promise resolving to LatLngLiteral or null if geocoding fails
-		*/
-	public async geocodeAndCachePermit(permit: PermitsEntity): Promise<google.maps.LatLngLiteral | null> {
+	 * Geocode and cache a permit's address if not already cached
+	 * This is a convenience method that combines address construction, cache checking, and geocoding
+	 * @param permit - The permit entity to geocode
+	 * @returns Promise resolving to LatLngLiteral or null if geocoding fails
+	 */
+	public async geocodeAndCachePermit(
+		permit: PermitsEntity
+	): Promise<google.maps.LatLngLiteral | null> {
 		const address = this.getPermitAddressCacheKey(permit);
 		return this.geocodeAddressWithCache(address);
 	}

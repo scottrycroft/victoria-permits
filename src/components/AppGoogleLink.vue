@@ -30,5 +30,12 @@ const handleClick = async () => {
 </script>
 
 <template>
-	<a :href="googleHref" target="_blank" @click="handleClick" @click.middle="handleClick" @click.right="handleClick">{{ address }}</a>
+	<a
+		:href="googleHref"
+		target="_blank"
+		@click="handleClick"
+		@click.middle="handleClick"
+		@click.right="handleClick"
+		>{{ address }}</a
+	>
 </template>

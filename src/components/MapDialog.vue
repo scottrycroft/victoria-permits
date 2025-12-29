@@ -326,7 +326,6 @@ const clearMarkers = () => {
 	closeCurrentInfoWindow();
 };
 
-
 // Add interactive markers for permit addresses with hover tooltips (original logic)
 const addPermitMarkers = async (clearExisting = true) => {
 	if (!map.value) return;

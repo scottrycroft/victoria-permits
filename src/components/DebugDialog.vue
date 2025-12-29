@@ -20,10 +20,7 @@ const toast = useToast();
 const storagePersisted = ref<boolean | null>(null);
 
 // Generic helper function to download documents from a table
-async function downloadDocuments(
-	tableName: "clickedDocs" | "clickedDocs2",
-	toastDetail: string
-) {
+async function downloadDocuments(tableName: "clickedDocs" | "clickedDocs2", toastDetail: string) {
 	const docs = await db[tableName].toArray();
 	docs.sort((a, b) => a.docURL.localeCompare(b.docURL));
 	const dataStr =
@@ -52,39 +49,39 @@ async function importDocuments(
 	const input = document.createElement("input");
 	input.type = "file";
 	input.accept = ".json";
-	
+
 	input.onchange = async (e: Event) => {
 		const target = e.target as HTMLInputElement;
 		const file = target.files?.[0];
-		
+
 		if (!file) {
 			return;
 		}
-		
+
 		try {
 			// Read the file
 			const text = await file.text();
 			const data = JSON.parse(text) as (DocumentsEntity | DocumentsEntity2)[];
-			
+
 			// Validate the data structure
 			if (!Array.isArray(data)) {
 				throw new Error("JSON file must contain an array of documents");
 			}
-			
+
 			// Validate each item has the required fields
 			for (const item of data) {
 				if (!validateFn(item)) {
 					throw new Error(`Each document must have ${requiredFields} fields`);
 				}
 			}
-			
+
 			// Add documents to the database (bulkPut will add or update)
 			if (tableName === "clickedDocs") {
 				await db.clickedDocs.bulkPut(data as DocumentsEntity[]);
 			} else {
 				await db.clickedDocs2.bulkPut(data as DocumentsEntity2[]);
 			}
-			
+
 			toast.add({
 				severity: "success",
 				summary: "Import Successful",
@@ -101,7 +98,7 @@ async function importDocuments(
 			});
 		}
 	};
-	
+
 	// Trigger the file picker
 	input.click();
 }
@@ -157,35 +154,35 @@ async function importAddressLocations() {
 	const input = document.createElement("input");
 	input.type = "file";
 	input.accept = ".json";
-	
+
 	input.onchange = async (e: Event) => {
 		const target = e.target as HTMLInputElement;
 		const file = target.files?.[0];
-		
+
 		if (!file) {
 			return;
 		}
-		
+
 		try {
 			// Read the file
 			const text = await file.text();
 			const data = JSON.parse(text) as AddressLocation[];
-			
+
 			// Validate the data structure
 			if (!Array.isArray(data)) {
 				throw new Error("JSON file must contain an array of address locations");
 			}
-			
+
 			// Validate each item has the required fields
 			for (const item of data) {
 				if (!item.address || typeof item.lat !== "number" || typeof item.lng !== "number") {
 					throw new Error("Each address location must have 'address', 'lat', and 'lng' fields");
 				}
 			}
-			
+
 			// Add address locations to the database (bulkPut will add or update)
 			await db.addressLocations.bulkPut(data);
-			
+
 			toast.add({
 				severity: "success",
 				summary: "Import Successful",
@@ -202,7 +199,7 @@ async function importAddressLocations() {
 			});
 		}
 	};
-	
+
 	// Trigger the file picker
 	input.click();
 }
@@ -244,16 +241,16 @@ async function compareClickedDocs() {
 
 async function searchDocsByName() {
 	const searchTerm = prompt("Enter document name to search (partial match, case insensitive):");
-	
+
 	if (!searchTerm) {
 		return; // User cancelled or entered empty string
 	}
-	
+
 	try {
 		// Get all documents from both tables
 		const clickedDocs = await db.clickedDocs.toArray();
 		const clickedDocs2 = await db.clickedDocs2.toArray();
-		
+
 		// Filter documents where docName partially matches (case insensitive)
 		const searchLower = searchTerm.toLowerCase();
 		const matchingClickedDocs = clickedDocs.filter((doc) =>
@@ -262,14 +259,18 @@ async function searchDocsByName() {
 		const matchingClickedDocs2 = clickedDocs2.filter((doc) =>
 			doc.docName.toLowerCase().includes(searchLower)
 		);
-		
+
 		// Convert to IndexedDB key format (array syntax)
 		// clickedDocs key: [docName+docURL]
 		const clickedDocsKeys = matchingClickedDocs.map((doc) => [doc.docName, doc.docURL]);
-		
+
 		// clickedDocs2 key: [city+permitID+docName]
-		const clickedDocs2Keys = matchingClickedDocs2.map((doc) => [doc.city, doc.permitID, doc.docName]);
-		
+		const clickedDocs2Keys = matchingClickedDocs2.map((doc) => [
+			doc.city,
+			doc.permitID,
+			doc.docName
+		]);
+
 		// Log results to console
 		console.log("=== Document Search Results ===");
 		console.log(`Search term: "${searchTerm}"`);
@@ -278,7 +279,7 @@ async function searchDocsByName() {
 		console.log(`\nMatching documents in clickedDocs2 (${matchingClickedDocs2.length}):`);
 		console.log(clickedDocs2Keys);
 		console.log("=== End Search Results ===");
-		
+
 		// Show toast notification
 		toast.add({
 			severity: "info",
@@ -303,7 +304,7 @@ async function requestPersistentStorage() {
 			const granted = await navigator.storage.persist();
 			// Update the displayed value
 			storagePersisted.value = granted;
-			
+
 			if (granted) {
 				toast.add({
 					severity: "success",
@@ -396,9 +397,7 @@ onUnmounted(() => {});
 				<span v-else-if="storagePersisted" class="text-green-600">
 					✓ Yes (storage will not be cleared)
 				</span>
-				<span v-else class="text-orange-600">
-					✗ No (storage may be cleared under pressure)
-				</span>
+				<span v-else class="text-orange-600"> ✗ No (storage may be cleared under pressure) </span>
 			</div>
 			<Button
 				v-if="storagePersisted === false"
