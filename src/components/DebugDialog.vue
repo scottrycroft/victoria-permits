@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { db } from "@/db";
-import type { DocumentsEntity, DocumentsEntity2 } from "@/types/Permits";
+import type { DocumentsEntity, DocumentsEntity2, AddressLocation } from "@/types/Permits";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import { useToast } from "primevue/usetoast";
@@ -150,6 +150,61 @@ async function downloadAddressLocations() {
 		detail: "Address locations download started.",
 		life: 3000
 	});
+}
+
+async function importAddressLocations() {
+	// Create a file input element
+	const input = document.createElement("input");
+	input.type = "file";
+	input.accept = ".json";
+	
+	input.onchange = async (e: Event) => {
+		const target = e.target as HTMLInputElement;
+		const file = target.files?.[0];
+		
+		if (!file) {
+			return;
+		}
+		
+		try {
+			// Read the file
+			const text = await file.text();
+			const data = JSON.parse(text) as AddressLocation[];
+			
+			// Validate the data structure
+			if (!Array.isArray(data)) {
+				throw new Error("JSON file must contain an array of address locations");
+			}
+			
+			// Validate each item has the required fields
+			for (const item of data) {
+				if (!item.address || typeof item.lat !== "number" || typeof item.lng !== "number") {
+					throw new Error("Each address location must have 'address', 'lat', and 'lng' fields");
+				}
+			}
+			
+			// Add address locations to the database (bulkPut will add or update)
+			await db.addressLocations.bulkPut(data);
+			
+			toast.add({
+				severity: "success",
+				summary: "Import Successful",
+				detail: `Successfully imported ${data.length} address locations.`,
+				life: 5000
+			});
+		} catch (error) {
+			console.error("Error importing address locations:", error);
+			toast.add({
+				severity: "error",
+				summary: "Import Failed",
+				detail: error instanceof Error ? error.message : "Failed to import address locations",
+				life: 5000
+			});
+		}
+	};
+	
+	// Trigger the file picker
+	input.click();
 }
 
 async function compareClickedDocs() {
@@ -367,6 +422,11 @@ onUnmounted(() => {});
 			<Button icon="pi pi-file-search" label="Search Docs by Name" @click="searchDocsByName" />
 			<Button icon="pi pi-upload" label="Import Clicked Docs" @click="importClickedDocs" />
 			<Button icon="pi pi-upload" label="Import ClickedDocs2" @click="importClickedDocs2" />
+			<Button
+				icon="pi pi-upload"
+				label="Import Address Locations"
+				@click="importAddressLocations"
+			/>
 		</div>
 	</Dialog>
 </template>
