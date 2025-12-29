@@ -2,6 +2,8 @@
 import { db } from "@/db";
 import type { PermitsEntity } from "@/types/Permits";
 import { getFormattedDate } from "@/utils";
+import { geocodingService } from "@/geocoding";
+import { loadGoogleMapsAPI } from "@/googleMapsLoader";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import { useToast } from "primevue/usetoast";
@@ -21,14 +23,11 @@ const toast = useToast();
 const mapContainer = ref<HTMLElement | null>(null);
 const map = ref<google.maps.Map | null>(null);
 const markers = ref<google.maps.Marker[]>([]);
-const geocoder = ref<google.maps.Geocoder | null>(null);
 const isMapLoaded = ref(false);
 const isLoadingMarkers = ref(false);
 const currentInfoWindow = ref<google.maps.InfoWindow | null>(null);
 const currentPermitOffset = ref(0);
 const permitsPerBatch = 100;
-
-const API_KEY = "AIzaSyB-AAgFz8X7o_N5vmiLU1MoKPUVa6_0NPA";
 
 // Rectangle selection state
 const isSelectionMode = ref(false);
@@ -73,41 +72,6 @@ const activePermits = computed(() => {
 		return dateB - dateA; // Most recent first
 	});
 });
-
-// Load Google Maps JavaScript API with callback
-const loadGoogleMapsAPI = (): Promise<void> => {
-	return new Promise((resolve, reject) => {
-		if (window.google && window.google.maps) {
-			console.log("Google Maps API already loaded");
-			resolve();
-			return;
-		}
-
-		// Create callback function name
-		const callbackName = "initGoogleMapsCallback_" + Date.now();
-
-		// Create global callback
-		(window as any)[callbackName] = () => {
-			delete (window as any)[callbackName];
-			resolve();
-		};
-
-		const script = document.createElement("script");
-		const apiUrl = `https://maps.googleapis.com/maps/api/js?key=${API_KEY}&libraries=drawing&callback=${callbackName}`;
-		console.log("Loading Google Maps API with URL:", apiUrl);
-		script.src = apiUrl;
-		script.async = true;
-		script.defer = true;
-
-		script.onerror = (error) => {
-			console.error("Failed to load Google Maps script:", error);
-			delete (window as any)[callbackName];
-			reject(new Error("Failed to load Google Maps API"));
-		};
-
-		document.head.appendChild(script);
-	});
-};
 
 // Handle permit folder click from InfoWindow
 const handlePermitFolderClick = (city: string, folderNumber: string) => {
@@ -286,7 +250,6 @@ const initializeMap = async () => {
 			fullscreenControl: true
 		});
 
-		geocoder.value = new google.maps.Geocoder();
 		isMapLoaded.value = true;
 
 		console.log("Map initialized successfully");
@@ -342,7 +305,6 @@ const clearMap = () => {
 	}
 
 	// Reset all map-related state
-	geocoder.value = null;
 	isMapLoaded.value = false;
 	isLoadingMarkers.value = false;
 	currentPermitOffset.value = 0; // Reset permit offset
@@ -370,7 +332,7 @@ const getPermitAddressCacheKey = (permit: PermitsEntity): string => {
 
 // Add interactive markers for permit addresses with hover tooltips (original logic)
 const addPermitMarkers = async (clearExisting = true) => {
-	if (!map.value || !geocoder.value) return;
+	if (!map.value) return;
 
 	isLoadingMarkers.value = true;
 	if (clearExisting) {
@@ -416,7 +378,7 @@ const addPermitMarkers = async (clearExisting = true) => {
 				try {
 					const address = getPermitAddressCacheKey(permit);
 
-					const result = await geocodeAddress(address);
+					const result = await geocodingService.geocodeAddress(address);
 					if (result) {
 						await addAddressMarker(permit, result, bounds, markers.value);
 						hasValidLocations = true;
@@ -602,62 +564,6 @@ const addAddressMarker = async (
 
 	markers.push(marker);
 	bounds.extend(latLong);
-};
-
-// Geocode an address with caching
-const geocodeAddress = async (address: string): Promise<google.maps.LatLngLiteral | null> => {
-	if (!geocoder.value) {
-		console.log("Geocoder not available");
-		return null;
-	}
-
-	console.log(`Geocoding address: ${address}`);
-
-	try {
-		return new Promise((resolve) => {
-			geocoder.value!.geocode(
-				{
-					address,
-					componentRestrictions: {
-						country: "CA",
-						administrativeArea: "BC"
-					}
-				},
-				async (
-					results: google.maps.GeocoderResult[] | null,
-					status: google.maps.GeocoderStatus
-				) => {
-					if (status === "OK" && results && results[0]) {
-						const location = results[0].geometry.location;
-						const coords = {
-							lat: location.lat(),
-							lng: location.lng()
-						};
-
-						// Cache the successful result
-						try {
-							await db.addressLocations.put({
-								address,
-								lat: coords.lat,
-								lng: coords.lng
-							});
-							console.log(`💾 Cached geocoding result for: ${address}`, coords);
-						} catch (cacheError) {
-							console.warn(`❌ Failed to cache geocoding result for: ${address}`, cacheError);
-						}
-
-						resolve(coords);
-					} else {
-						console.warn(`❌ Geocoding failed for: ${address}, status: ${status}`);
-						resolve(null);
-					}
-				}
-			);
-		});
-	} catch (error) {
-		console.error(`💥 Error in geocodeAddress for: ${address}`, error);
-		return null;
-	}
 };
 
 // View all active locations
