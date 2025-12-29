@@ -950,7 +950,7 @@ const handleKeyDown = (event: KeyboardEvent) => {
 	if (!permitDialogVisible.value) return;
 
 	// Check if 'C' key is pressed (case insensitive)
-	if (event.key === "c" || event.key === "C") {
+	if ((event.key === "c" || event.key === "C") && !event.ctrlKey) {
 		// Don't trigger if user is typing in an input field
 		const target = event.target as HTMLElement;
 		if (target.tagName === "INPUT" || target.tagName === "TEXTAREA") {
