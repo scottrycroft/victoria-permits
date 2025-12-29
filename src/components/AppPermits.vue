@@ -1454,7 +1454,7 @@ onBeforeUnmount(() => {
 					<label>Related Permits</label>
 					<div>
 						<DataTable stripedRows :value="permit.relatedPermits" :rowClass="relatedPermitRowClass">
-							<Column field="relatedPermitID" header="ID" style="width: 15em;">
+							<Column field="relatedPermitID" header="ID" style="width: 15em">
 								<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
 									<router-link
 										v-if="permitExistByID(permit.city, relatedPermitID) === 'exists'"
@@ -1475,7 +1475,7 @@ onBeforeUnmount(() => {
 									<span v-else>{{ relatedPermitID }}</span>
 								</template>
 							</Column>
-							<Column header="Status" style="width: 20em;">
+							<Column header="Status" style="width: 20em">
 								<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
 									<span v-if="getApplicationByID(permit.city, relatedPermitID)">
 										{{ getApplicationByID(permit.city, relatedPermitID)?.status }}
