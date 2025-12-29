@@ -958,7 +958,7 @@ const handleKeyDown = (event: KeyboardEvent) => {
 		}
 
 		event.preventDefault();
-		clearDocs();
+		markViewed();
 	}
 };
 
