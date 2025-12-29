@@ -359,9 +359,9 @@ async function clickedDoc(document: DocumentsEntity, permit: PermitsEntity) {
 async function clearDocs() {
 	if (!permit.value) return;
 
-	for (const document of permit.value.documents) {
-		await clickedDoc(document, permit.value);
-	}
+	await Promise.all(
+		permit.value.documents.map(document => clickedDoc(document, permit.value!))
+	);
 }
 
 async function markViewed() {
