@@ -70,3 +70,8 @@ export interface AddressLocation {
 	lat: number;
 	lng: number;
 }
+
+export interface FavouritePermit {
+	city: string;
+	folderNumber: string;
+}

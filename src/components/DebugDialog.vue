@@ -1,6 +1,12 @@
 <script setup lang="ts">
 import { db } from "@/db";
-import type { DocumentsEntity, DocumentsEntity2, AddressLocation } from "@/types/Permits";
+import type {
+	DocumentsEntity,
+	DocumentsEntity2,
+	AddressLocation,
+	FavouritePermit
+} from "@/types/Permits";
+import { favouritesService } from "@/favourites";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import { useToast } from "primevue/usetoast";
@@ -339,6 +345,67 @@ async function requestPersistentStorage() {
 	}
 }
 
+async function downloadFavourites() {
+	const favourites = await favouritesService.exportFavourites();
+	const dataStr =
+		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(favourites, null, 2));
+	const downloadAnchorNode = document.createElement("a");
+	downloadAnchorNode.setAttribute("href", dataStr);
+	downloadAnchorNode.setAttribute("download", "favourites.json");
+	document.body.appendChild(downloadAnchorNode); // required for firefox
+	downloadAnchorNode.click();
+	downloadAnchorNode.remove();
+	toast.add({
+		severity: "success",
+		summary: "Download Started",
+		detail: `Favourites download started (${favourites.length} favourites).`,
+		life: 3000
+	});
+}
+
+async function importFavourites() {
+	// Create a file input element
+	const input = document.createElement("input");
+	input.type = "file";
+	input.accept = ".json";
+
+	input.onchange = async (e: Event) => {
+		const target = e.target as HTMLInputElement;
+		const file = target.files?.[0];
+
+		if (!file) {
+			return;
+		}
+
+		try {
+			// Read the file
+			const text = await file.text();
+			const data = JSON.parse(text) as FavouritePermit[];
+
+			// Import using the favourites service
+			const count = await favouritesService.importFavourites(data);
+
+			toast.add({
+				severity: "success",
+				summary: "Import Successful",
+				detail: `Successfully imported ${count} favourites.`,
+				life: 5000
+			});
+		} catch (error) {
+			console.error("Error importing favourites:", error);
+			toast.add({
+				severity: "error",
+				summary: "Import Failed",
+				detail: error instanceof Error ? error.message : "Failed to import favourites",
+				life: 5000
+			});
+		}
+	};
+
+	// Trigger the file picker
+	input.click();
+}
+
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -417,6 +484,12 @@ onUnmounted(() => {});
 				label="Export Address Locations"
 				@click="downloadAddressLocations"
 			/>
+			<Button
+				icon="pi pi-download"
+				label="Export Favourites"
+				@click="downloadFavourites"
+				severity="warning"
+			/>
 			<Button icon="pi pi-search" label="Compare ClickedDocs Tables" @click="compareClickedDocs" />
 			<Button icon="pi pi-file-search" label="Search Docs by Name" @click="searchDocsByName" />
 			<Button icon="pi pi-upload" label="Import Clicked Docs" @click="importClickedDocs" />
@@ -425,6 +498,12 @@ onUnmounted(() => {});
 				icon="pi pi-upload"
 				label="Import Address Locations"
 				@click="importAddressLocations"
+			/>
+			<Button
+				icon="pi pi-upload"
+				label="Import Favourites"
+				@click="importFavourites"
+				severity="warning"
 			/>
 		</div>
 	</Dialog>

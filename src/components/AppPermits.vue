@@ -21,6 +21,7 @@ import { useToast } from "primevue/usetoast";
 import AppGoogleLink from "./AppGoogleLink.vue";
 import MapDialog from "./MapDialog.vue";
 import { geocodingService } from "@/geocoding";
+import { favouritesService } from "@/favourites";
 
 import type {
 	DaysContentPermitInfo,
@@ -137,6 +138,9 @@ initViewedDocs(viewedDocs);
 
 const viewedDocs2 = reactive(new Map<string, boolean>());
 initViewedDocs2(viewedDocs2);
+
+// Initialize favourites service
+favouritesService.initialize();
 
 const applicationTypes = ref(getApplicationTypes(permitsList));
 
@@ -376,6 +380,7 @@ const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
 const showOnlyUnviewedDocs = ref<string | null>(null);
+const showOnlyFavourites = ref(false);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
 const dateFilterModeOptions = [
@@ -394,11 +399,19 @@ const viewedDocsFilterOptions = [
 ];
 
 const filteredPermitApplications = computed(() => {
-	if (!showOnlyUnviewedDocs.value) {
-		return permitApplications.value;
+	let filtered = permitApplications.value;
+
+	// Filter by favourites if enabled
+	if (showOnlyFavourites.value) {
+		filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
 	}
 
-	return permitApplications.value.filter((permit) => {
+	// Filter by unviewed docs if enabled
+	if (!showOnlyUnviewedDocs.value) {
+		return filtered;
+	}
+
+	return filtered.filter((permit) => {
 		// Check if permit has any documents
 		if (permit.documents.length === 0) {
 			return false;
@@ -463,6 +476,7 @@ const globalFilter = ref();
 const permit = ref<PermitsEntity | null>(null);
 const previousPermit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
+const isPermitFavourite = ref(false);
 
 // Computed property to check if permit should show "(Permitted)" text
 const showPermittedText = computed(() => {
@@ -477,6 +491,7 @@ const showPermittedText = computed(() => {
 const viewPermit = async (permitData: PermitsEntity) => {
 	permit.value = { ...permitData };
 	permitDialogVisible.value = true;
+	isPermitFavourite.value = favouritesService.isPermitFavourite(permitData);
 	await saveLastViewedPermit(cloneObj(permitData));
 	previousPermit.value = await getPreviousPermit(permitData);
 
@@ -926,6 +941,20 @@ function rowClass(permit: PermitsEntity) {
 	return undefined;
 }
 
+async function toggleFavourite() {
+	if (!permit.value) return;
+
+	const newStatus = await favouritesService.togglePermitFavourite(permit.value);
+	isPermitFavourite.value = newStatus;
+
+	toast.add({
+		severity: newStatus ? "success" : "info",
+		summary: newStatus ? "Added to Favourites" : "Removed from Favourites",
+		detail: `${permit.value.folderNumber} ${newStatus ? "added to" : "removed from"} favourites`,
+		life: 2000
+	});
+}
+
 function openDebugDialog() {
 	showDebugDialog.value = true;
 }
@@ -1026,6 +1055,18 @@ onBeforeUnmount(() => {
 								placeholder="All permits"
 								:showClear="true"
 								style="min-width: 250px"
+							/>
+						</div>
+						<div class="flex align-items-center gap-2">
+							<label for="filterFavourites">
+								<i class="pi pi-star-fill" style="color: gold"></i>
+								Favourites only:
+							</label>
+							<input
+								type="checkbox"
+								id="filterFavourites"
+								v-model="showOnlyFavourites"
+								style="width: 1.2rem; height: 1.2rem; cursor: pointer"
 							/>
 						</div>
 						<Button
@@ -1209,6 +1250,14 @@ onBeforeUnmount(() => {
 			<template #header>
 				<div class="flex align-items-center gap-3">
 					<span class="font-bold text-xl">Permit Details</span>
+					<Button
+						:label="isPermitFavourite ? 'Unfavourite' : 'Favourite'"
+						:icon="isPermitFavourite ? 'pi pi-star-fill' : 'pi pi-star'"
+						@click="toggleFavourite"
+						size="small"
+						:severity="isPermitFavourite ? 'warning' : 'secondary'"
+						outlined
+					/>
 					<Button
 						label="Mark viewed"
 						icon="pi pi-check"
