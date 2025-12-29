@@ -20,6 +20,7 @@ import { useToast } from "primevue/usetoast";
 
 import AppGoogleLink from "./AppGoogleLink.vue";
 import MapDialog from "./MapDialog.vue";
+import { geocodingService } from "@/geocoding";
 
 import type {
 	DaysContentPermitInfo,
@@ -361,6 +362,19 @@ async function clearDocs() {
 	for (const document of permit.value.documents) {
 		await clickedDoc(document, permit.value);
 	}
+}
+
+async function markViewed() {
+	if (!permit.value) return;
+
+	// Run clearDocs and geocoding simultaneously
+	await Promise.all([
+		clearDocs(),
+		geocodingService.geocodeAndCachePermit(permit.value)
+	]);
+
+	// Close the dialog after both operations complete
+	permitDialogVisible.value = false;
 }
 
 const dateRetrieved = ref(permitInfo.dateRetrieved);
@@ -1183,10 +1197,21 @@ onBeforeUnmount(() => {
 			v-model:visible="permitDialogVisible"
 			:dismissableMask="true"
 			:style="{ width: '90vw' }"
-			header="Permit Details"
 			:modal="true"
 			class="p-fluid"
 		>
+			<template #header>
+				<div class="flex align-items-center gap-3">
+					<span class="font-bold text-xl">Permit Details</span>
+					<Button
+						label="Mark viewed"
+						icon="pi pi-check"
+						@click="markViewed"
+						size="small"
+						severity="success"
+					/>
+				</div>
+			</template>
 			<div class="grid">
 				<div class="col-2 field">
 					<label>Primary Address</label>
