@@ -1,5 +1,6 @@
 import { db } from "@/db";
 import { loadGoogleMapsAPI } from "@/googleMapsLoader";
+import type { PermitsEntity } from "@/types/Permits";
 
 /**
  * Singleton class for managing Google Maps geocoding operations
@@ -147,6 +148,27 @@ class GeocodingService {
 
 		// If not cached, geocode it (this will auto-load API)
 		return this.geocodeAddress(address);
+	}
+
+	/**
+		* Helper function to construct address cache key from a PermitsEntity
+		* This matches the logic used in MapDialog.vue
+		* @param permit - The permit entity
+		* @returns The formatted address string for caching
+		*/
+	public getPermitAddressCacheKey(permit: PermitsEntity): string {
+		return `${permit.primaryStreetName}, ${permit.city}, BC, Canada`;
+	}
+
+	/**
+		* Geocode and cache a permit's address if not already cached
+		* This is a convenience method that combines address construction, cache checking, and geocoding
+		* @param permit - The permit entity to geocode
+		* @returns Promise resolving to LatLngLiteral or null if geocoding fails
+		*/
+	public async geocodeAndCachePermit(permit: PermitsEntity): Promise<google.maps.LatLngLiteral | null> {
+		const address = this.getPermitAddressCacheKey(permit);
+		return this.geocodeAddressWithCache(address);
 	}
 }
 

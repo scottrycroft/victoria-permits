@@ -1070,7 +1070,7 @@ onBeforeUnmount(() => {
 					/>
 				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
-					<AppGoogleLink :address="data.primaryStreetName" :city="data.city" />
+					<AppGoogleLink :address="data.primaryStreetName" :city="data.city" :permit="data" />
 				</template>
 			</Column>
 			<Column
@@ -1194,6 +1194,7 @@ onBeforeUnmount(() => {
 						<AppGoogleLink
 							:address="permit.primaryStreetName"
 							:city="permit.city"
+							:permit="permit"
 							:class="versionDiffClass('primaryStreetName', permit, previousPermit)"
 							:title="versionDiffTitle('primaryStreetName', permit, previousPermit)"
 						/>
@@ -1246,6 +1247,7 @@ onBeforeUnmount(() => {
 							<AppGoogleLink
 								:address="address"
 								:city="permit.city"
+								:permit="index === 0 ? permit : undefined"
 								:class="versionDiffAddressClass(index, permit, previousPermit)"
 							/>
 						</div>

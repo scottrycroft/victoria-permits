@@ -326,9 +326,6 @@ const clearMarkers = () => {
 	closeCurrentInfoWindow();
 };
 
-const getPermitAddressCacheKey = (permit: PermitsEntity): string => {
-	return `${permit.primaryStreetName}, ${permit.city}, BC, Canada`;
-};
 
 // Add interactive markers for permit addresses with hover tooltips (original logic)
 const addPermitMarkers = async (clearExisting = true) => {
@@ -352,7 +349,7 @@ const addPermitMarkers = async (clearExisting = true) => {
 	const permitsToGeocode = activePermits.value.slice(startIndex, endIndex);
 	for (const permit of permitsToGeocode) {
 		// First check if we have this address cached
-		const address = getPermitAddressCacheKey(permit);
+		const address = geocodingService.getPermitAddressCacheKey(permit);
 		const cachedLocation = await db.addressLocations.get({ address });
 		if (cachedLocation) {
 			await addAddressMarker(
@@ -376,9 +373,7 @@ const addPermitMarkers = async (clearExisting = true) => {
 		await Promise.all(
 			batch.map(async (permit) => {
 				try {
-					const address = getPermitAddressCacheKey(permit);
-
-					const result = await geocodingService.geocodeAddress(address);
+					const result = await geocodingService.geocodeAndCachePermit(permit);
 					if (result) {
 						await addAddressMarker(permit, result, bounds, markers.value);
 						hasValidLocations = true;
@@ -457,7 +452,7 @@ const addCachedLocationMarkers = async () => {
 		for (const cachedLocation of cachedLocations) {
 			// Find permits that match this cached address
 			const matchingPermits = activePermits.value.filter((permit) => {
-				const permitAddress = getPermitAddressCacheKey(permit);
+				const permitAddress = geocodingService.getPermitAddressCacheKey(permit);
 				return permitAddress === cachedLocation.address;
 			});
 
