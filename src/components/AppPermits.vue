@@ -43,7 +43,6 @@ import MultiSelect from "primevue/multiselect";
 import Toast from "primevue/toast";
 
 import { db } from "@/db";
-import Checkbox from "primevue/checkbox";
 
 import { getFormattedDate } from "@/utils";
 import { Select } from "primevue";
@@ -367,7 +366,7 @@ async function clearDocs() {
 const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
-const showOnlyUnviewedDocs = ref(false);
+const showOnlyUnviewedDocs = ref<string | null>(null);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
 const dateFilterModeOptions = [
@@ -376,20 +375,69 @@ const dateFilterModeOptions = [
 	{ label: "After", value: "customUnixDateIsAfterFilter" }
 ];
 
+const viewedDocsFilterOptions = [
+	{ label: "Unviewed1", value: "unviewed1" },
+	{ label: "Unviewed2", value: "unviewed2" },
+	{ label: "Unviewed1 and NOT Unviewed2", value: "unviewed1_not2" },
+	{ label: "NOT Unviewed1 and Unviewed2", value: "not1_unviewed2" },
+	{ label: "Both Unviewed1 and Unviewed2", value: "both_unviewed" },
+	{ label: "Neither Unviewed1 or Unviewed2", value: "neither_unviewed" }
+];
+
 const filteredPermitApplications = computed(() => {
-	if (showOnlyUnviewedDocs.value) {
-		return permitApplications.value.filter((permit) => {
-			for (const permitDoc of permit.documents) {
-				const docMapKey = getViewedDocMapKey(permitDoc);
-				const docViewed = viewedDocs.has(docMapKey);
-				if (!docViewed) {
-					return true;
-				}
-			}
-			return false;
-		});
+	if (!showOnlyUnviewedDocs.value) {
+		return permitApplications.value;
 	}
-	return permitApplications.value;
+
+	return permitApplications.value.filter((permit) => {
+		// Check if permit has any documents
+		if (permit.documents.length === 0) {
+			return false;
+		}
+
+		// Count unviewed docs in both sets
+		let hasUnviewed1 = false;
+		let hasUnviewed2 = false;
+
+		for (const permitDoc of permit.documents) {
+			const docMapKey = getViewedDocMapKey(permitDoc);
+			const docViewed1 = viewedDocs.has(docMapKey);
+
+			const docEntity2: DocumentsEntity2 = {
+				city: permit.city,
+				permitID: permit.folderNumber,
+				docName: permitDoc.docName,
+				docURL: permitDoc.docURL
+			};
+			const docMapKey2 = getViewedDocMapKey2(docEntity2);
+			const docViewed2 = viewedDocs2.has(docMapKey2);
+
+			if (!docViewed1) {
+				hasUnviewed1 = true;
+			}
+			if (!docViewed2) {
+				hasUnviewed2 = true;
+			}
+		}
+
+		// Apply filter based on selected mode
+		switch (showOnlyUnviewedDocs.value) {
+			case "unviewed1":
+				return hasUnviewed1;
+			case "unviewed2":
+				return hasUnviewed2;
+			case "unviewed1_not2":
+				return hasUnviewed1 && !hasUnviewed2;
+			case "not1_unviewed2":
+				return !hasUnviewed1 && hasUnviewed2;
+			case "both_unviewed":
+				return hasUnviewed1 && hasUnviewed2;
+			case "neither_unviewed":
+				return !hasUnviewed1 && !hasUnviewed2;
+			default:
+				return true;
+		}
+	});
 });
 
 // Ref to store the filtered permits from DataTable's filter event
@@ -947,9 +995,18 @@ onBeforeUnmount(() => {
 					<h2 @dblclick="openDebugDialog" class="mt-0">Permit Applications</h2>
 					<div @dblclick="saveAllCurrent">Data retrieved on {{ formatDate(dateRetrieved) }}</div>
 					<div class="flex align-items-center gap-3">
-						<div class="p-field-checkbox">
-							<Checkbox v-model="showOnlyUnviewedDocs" inputId="filterUnviewedOnly" binary />
-							<label for="filterUnviewedOnly" class="ml-2">Show only unviewed docs</label>
+						<div class="flex align-items-center gap-2">
+							<label for="filterUnviewedDocs">Filter by viewed docs:</label>
+							<Select
+								v-model="showOnlyUnviewedDocs"
+								inputId="filterUnviewedDocs"
+								:options="viewedDocsFilterOptions"
+								optionLabel="label"
+								optionValue="value"
+								placeholder="All permits"
+								:showClear="true"
+								style="min-width: 250px"
+							/>
 						</div>
 						<Button
 							@click="showMapDialog = true"
