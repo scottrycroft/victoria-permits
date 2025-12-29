@@ -468,6 +468,17 @@ const globalFilter = ref();
 const permit = ref<PermitsEntity | null>(null);
 const previousPermit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
+
+// Computed property to check if permit should show "(Permitted)" text
+const showPermittedText = computed(() => {
+	if (!permit.value || !permit.value.progressSections.length) {
+		return false;
+	}
+	
+	const lastTask = permit.value.progressSections[permit.value.progressSections.length - 1];
+	return lastTask?.taskType === "Development Permit Issued" && lastTask?.endDate !== null;
+});
+
 const viewPermit = async (permitData: PermitsEntity) => {
 	permit.value = { ...permitData };
 	permitDialogVisible.value = true;
@@ -1237,6 +1248,7 @@ onBeforeUnmount(() => {
 						:title="versionDiffTitle('status', permit, previousPermit)"
 					>
 						{{ permit.status }}
+						<span v-if="showPermittedText"> (Permitted)</span>
 					</div>
 				</div>
 				<div class="col-2 field">
