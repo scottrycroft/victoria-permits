@@ -1125,6 +1125,11 @@ onBeforeUnmount(() => {
 				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
 					{{ data.folderNumber }}
+					<i
+						v-if="favouritesService.isPermitFavourite(data)"
+						class="pi pi-star-fill"
+						style="color: gold; margin-right: 0.5rem"
+					></i>
 				</template>
 			</Column>
 			<Column
