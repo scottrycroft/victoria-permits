@@ -416,10 +416,12 @@ const filteredPermitApplications = computed(() => {
 		if (permit.documents.length === 0) {
 			return false;
 		}
-
 		// Count unviewed docs in both sets
 		let hasUnviewed1 = false;
 		let hasUnviewed2 = false;
+		let hasUnviewed1_not2 = false;
+		let hasNot1_unviewed2 = false;
+		let hasBothUnviewed = false;
 
 		for (const permitDoc of permit.documents) {
 			const docMapKey = getViewedDocMapKey(permitDoc);
@@ -440,6 +442,17 @@ const filteredPermitApplications = computed(() => {
 			if (!docViewed2) {
 				hasUnviewed2 = true;
 			}
+
+			if (!docViewed1 && docViewed2) {
+				hasUnviewed1_not2 = true;
+			}
+			if (!docViewed2 && docViewed1) {
+				hasNot1_unviewed2 = true;
+			}
+
+			if (!docViewed1 && !docViewed2) {
+				hasBothUnviewed = true;
+			}
 		}
 
 		// Apply filter based on selected mode
@@ -449,11 +462,11 @@ const filteredPermitApplications = computed(() => {
 			case "unviewed2":
 				return hasUnviewed2;
 			case "unviewed1_not2":
-				return hasUnviewed1 && !hasUnviewed2;
+				return hasUnviewed1_not2;
 			case "not1_unviewed2":
-				return !hasUnviewed1 && hasUnviewed2;
+				return hasNot1_unviewed2;
 			case "both_unviewed":
-				return hasUnviewed1 && hasUnviewed2;
+				return hasBothUnviewed;
 			case "neither_unviewed":
 				return !hasUnviewed1 && !hasUnviewed2;
 			default:
