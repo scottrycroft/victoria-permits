@@ -16,6 +16,7 @@ import Dialog from "primevue/dialog";
 import InputGroup from "primevue/inputgroup";
 import InputGroupAddon from "primevue/inputgroupaddon";
 import InputText from "primevue/inputtext";
+import Tag from "primevue/tag";
 import { useToast } from "primevue/usetoast";
 
 import AppGoogleLink from "./AppGoogleLink.vue";
@@ -515,16 +516,6 @@ const permit = ref<PermitsEntity | null>(null);
 const previousPermit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
 const isPermitFavourite = ref(false);
-
-// Computed property to check if permit should show "(Permitted)" text
-const showPermittedText = computed(() => {
-	if (!permit.value || !permit.value.progressSections.length) {
-		return false;
-	}
-
-	const lastTask = permit.value.progressSections[permit.value.progressSections.length - 1];
-	return lastTask?.taskType === "Development Permit Issued" && lastTask?.endDate !== null;
-});
 
 const viewPermit = async (permitData: PermitsEntity) => {
 	permit.value = { ...permitData };
@@ -1345,6 +1336,10 @@ onBeforeUnmount(() => {
 						size="small"
 						severity="success"
 					/>
+					<Tag v-if="permit.minor" value="Minor" severity="info" />
+					<Tag v-if="permit.approvalStatus === 'Approved'" value="Approved" severity="success" />
+					<Tag v-if="permit.approvalStatus === 'Rejected'" value="Rejected" severity="danger" />
+					<Tag v-if="permit.approvalStatus === 'Superseded'" value="Superseded" severity="warn" />
 				</div>
 			</template>
 			<div class="grid">
@@ -1372,7 +1367,6 @@ onBeforeUnmount(() => {
 						:title="versionDiffTitle('status', permit, previousPermit)"
 					>
 						{{ permit.status }}
-						<span v-if="showPermittedText"> (Permitted)</span>
 					</div>
 				</div>
 				<div class="col-2 field">
