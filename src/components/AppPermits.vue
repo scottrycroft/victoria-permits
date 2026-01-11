@@ -126,7 +126,8 @@ const filters = ref<Filters>({
 	lastUpdated: {
 		operator: FilterOperator.AND,
 		constraints: [{ value: null, matchMode: "customUnixDateIsFilter" }]
-	}
+	},
+	minor: { value: null, matchMode: FilterMatchMode.EQUALS }
 });
 
 const permitsList: PermitsEntity[] = permitInfo.permits;
@@ -383,6 +384,7 @@ const permitApplications = ref(createPermitApplications(permitsList, daysWithInf
 const showOnlyUnviewedDocs = ref<string | null>(null);
 const showOnlyFavourites = ref(false);
 const showOnlyMinor = ref<boolean | null>(null);
+const showOnlyApprovalStatus = ref<string | null>(null);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
 const dateFilterModeOptions = [
@@ -416,6 +418,16 @@ const filteredPermitApplications = computed(() => {
 			} else {
 				return permit.minor !== true;
 			}
+		});
+	}
+
+	// Filter by approval status if enabled
+	if (showOnlyApprovalStatus.value !== null) {
+		filtered = filtered.filter((permit) => {
+			if (showOnlyApprovalStatus.value === "undefined") {
+				return !permit.approvalStatus;
+			}
+			return permit.approvalStatus === showOnlyApprovalStatus.value;
 		});
 	}
 
@@ -1104,6 +1116,24 @@ onBeforeUnmount(() => {
 									{ label: 'All', value: null },
 									{ label: 'Minor only', value: true },
 									{ label: 'Non-minor only', value: false }
+								]"
+								optionLabel="label"
+								optionValue="value"
+								placeholder="All"
+								style="min-width: 150px"
+							/>
+						</div>
+						<div class="flex align-items-center gap-2">
+							<label for="filterApprovalStatus">Approval status:</label>
+							<Select
+								v-model="showOnlyApprovalStatus"
+								inputId="filterApprovalStatus"
+								:options="[
+									{ label: 'All', value: null },
+									{ label: 'Undefined', value: 'undefined' },
+									{ label: 'Approved', value: 'Approved' },
+									{ label: 'Rejected', value: 'Rejected' },
+									{ label: 'Superseded', value: 'Superseded' }
 								]"
 								optionLabel="label"
 								optionValue="value"
