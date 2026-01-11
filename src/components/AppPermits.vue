@@ -1069,10 +1069,23 @@ onBeforeUnmount(() => {
 			@filter="onFilter"
 		>
 			<template #header>
-				<div class="flex justify-content-between align-items-start gap-3">
-					<h2 @dblclick="openDebugDialog" class="mt-0">Permit Applications</h2>
-					<div @dblclick="saveAllCurrent">Data retrieved on {{ formatDate(dateRetrieved) }}</div>
-					<div class="flex align-items-center gap-3">
+				<div class="flex flex-column gap-3">
+					<!-- First Row: Title, Date, and Search -->
+					<div class="flex justify-content-between align-items-center gap-3">
+						<h2 @dblclick="openDebugDialog" class="mt-0 mb-0">Permit Applications</h2>
+						<div @dblclick="saveAllCurrent" class="text-sm">
+							Data retrieved on {{ formatDate(dateRetrieved) }}
+						</div>
+						<InputGroup style="width: 50vw; min-width: 250px">
+							<InputGroupAddon>
+								<i class="pi pi-search"></i>
+							</InputGroupAddon>
+							<InputText v-model="filters['global'].value" placeholder="Keyword Search" />
+						</InputGroup>
+					</div>
+
+					<!-- Second Row: All Filters -->
+					<div class="flex align-items-center gap-3 flex-wrap">
 						<div class="flex align-items-center gap-2">
 							<label for="filterUnviewedDocs">Filter by viewed docs:</label>
 							<Select
@@ -1140,15 +1153,6 @@ onBeforeUnmount(() => {
 							size="small"
 							:disabled="!visiblePermits.length"
 						/>
-					</div>
-					<InputGroup style="width: 50vw; min-width: 250px">
-						<InputGroupAddon>
-							<i class="pi pi-search"></i>
-						</InputGroupAddon>
-						<InputText v-model="filters['global'].value" placeholder="Keyword Search" />
-					</InputGroup>
-					<div>
-						Second row?
 					</div>
 				</div>
 			</template>
