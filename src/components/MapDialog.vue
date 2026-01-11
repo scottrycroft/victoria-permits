@@ -520,6 +520,11 @@ const addAddressMarker = async (
 		closeCurrentInfoWindow();
 
 		const lastUpdatedStr = permit.lastUpdated ? getFormattedDate(permit.lastUpdated) : "N/A";
+		const approvalStatusHtml = permit.approvalStatus
+			? `<div style="margin-bottom: 6px;">
+					<strong>Approval Status:</strong> ${permit.approvalStatus}
+				</div>`
+			: "";
 
 		// Show detailed info window
 		const detailWindow = new google.maps.InfoWindow({
@@ -539,6 +544,7 @@ const addAddressMarker = async (
 					<div style="margin-bottom: 6px;">
 						<strong>Application Type:</strong> ${permit.applicationType}
 					</div>
+					${approvalStatusHtml}
 					<div style="margin-bottom: 6px;">
 						<strong>Last Updated:</strong> ${lastUpdatedStr}
 					</div>
