@@ -104,6 +104,7 @@ interface Filters {
 	city: DataTableFilterMetaData;
 	applicationDate: DataTableOperatorFilterMetaData;
 	lastUpdated: DataTableOperatorFilterMetaData;
+	minor: DataTableFilterMetaData;
 	unviewedDocs?: {
 		value: boolean | null;
 		matchMode: string;
@@ -381,6 +382,7 @@ const permitApplications = ref(createPermitApplications(permitsList, daysWithInf
 
 const showOnlyUnviewedDocs = ref<string | null>(null);
 const showOnlyFavourites = ref(false);
+const showOnlyMinor = ref<boolean | null>(null);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
 const dateFilterModeOptions = [
@@ -404,6 +406,17 @@ const filteredPermitApplications = computed(() => {
 	// Filter by favourites if enabled
 	if (showOnlyFavourites.value) {
 		filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
+	}
+
+	// Filter by minor if enabled
+	if (showOnlyMinor.value !== null) {
+		filtered = filtered.filter((permit) => {
+			if (showOnlyMinor.value === true) {
+				return permit.minor === true;
+			} else {
+				return permit.minor !== true;
+			}
+		});
 	}
 
 	// Filter by unviewed docs if enabled
@@ -1082,6 +1095,22 @@ onBeforeUnmount(() => {
 								style="width: 1.2rem; height: 1.2rem; cursor: pointer"
 							/>
 						</div>
+						<div class="flex align-items-center gap-2">
+							<label for="filterMinor">Minor permits:</label>
+							<Select
+								v-model="showOnlyMinor"
+								inputId="filterMinor"
+								:options="[
+									{ label: 'All', value: null },
+									{ label: 'Minor only', value: true },
+									{ label: 'Non-minor only', value: false }
+								]"
+								optionLabel="label"
+								optionValue="value"
+								placeholder="All"
+								style="min-width: 150px"
+							/>
+						</div>
 						<Button
 							@click="showMapDialog = true"
 							icon="pi pi-map"
@@ -1097,6 +1126,9 @@ onBeforeUnmount(() => {
 						</InputGroupAddon>
 						<InputText v-model="filters['global'].value" placeholder="Keyword Search" />
 					</InputGroup>
+					<div>
+						Second row?
+					</div>
 				</div>
 			</template>
 			<Column :exportable="false" style="width: 60px; min-width: 60px; max-width: 60px">

@@ -14,6 +14,8 @@ export interface PermitsEntity {
 	withApplicantDays?: number | null;
 	lastUpdated: number | null;
 	city: string;
+	minor?: boolean;
+	approvalStatus?: string;
 	relatedPermits?: RelatedPermit[];
 }
 
@@ -44,6 +46,9 @@ export interface ViewedPermitInfoDB {
 export interface RelatedPermit {
 	relatedPermitID: string;
 	relatedPermitType: string;
+	relatedPermitApplicationDate?: number;
+	relatedPermitStatus?: string;
+	relatedPermitDescription?: string;
 }
 
 export interface ProgressSectionsEntity {
