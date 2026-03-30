@@ -2,7 +2,7 @@
 import Dexie, { type Table } from "dexie";
 
 import {
-	type ClickedDocumentEntity,
+	type DocumentEntity,
 	type PermitsEntityDB,
 	type ViewedPermitInfoDB,
 	type AddressLocation,
@@ -16,7 +16,7 @@ export class PermitsDB extends Dexie {
 
 	todaysViewedPermits!: Table<ViewedPermitInfoDB>;
 
-	clickedDocs!: Table<ClickedDocumentEntity>;
+	clickedDocs!: Table<DocumentEntity>;
 
 	addressLocations!: Table<AddressLocation>;
 

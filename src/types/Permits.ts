@@ -63,7 +63,7 @@ export interface DocumentsEntity {
 	docURL: string;
 }
 
-export interface ClickedDocumentEntity {
+export interface DocumentEntity {
 	city: string;
 	permitID: string;
 	docName: string;

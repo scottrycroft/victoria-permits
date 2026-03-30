@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { db } from "@/db";
-import type { ClickedDocumentEntity, AddressLocation, FavouritePermit } from "@/types/Permits";
+import type { DocumentEntity, AddressLocation, FavouritePermit } from "@/types/Permits";
 import { favouritesService } from "@/favourites";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
@@ -56,7 +56,7 @@ async function importViewedDocs() {
 		try {
 			// Read the file
 			const text = await file.text();
-			const data = JSON.parse(text) as ClickedDocumentEntity[];
+			const data = JSON.parse(text) as DocumentEntity[];
 
 			// Validate the data structure
 			if (!Array.isArray(data)) {

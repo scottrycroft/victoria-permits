@@ -25,7 +25,7 @@ import { geocodingService } from "@/geocoding";
 import { favouritesService } from "@/favourites";
 
 import type {
-	ClickedDocumentEntity,
+	DocumentEntity,
 	DaysContentPermitInfo,
 	DocumentsEntity,
 	PermitsEntity,
@@ -329,7 +329,7 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 }
 
 async function clickedDoc(document: DocumentsEntity, permit: PermitsEntity) {
-	const clickedDocEntity: ClickedDocumentEntity = {
+	const clickedDocEntity: DocumentEntity = {
 		city: permit.city,
 		permitID: permit.folderNumber,
 		docName: document.docName,
@@ -412,7 +412,7 @@ const filteredPermitApplications = computed(() => {
 		}
 		// Check if any document is unviewed
 		for (const permitDoc of permit.documents) {
-			const clickedDocEntity: ClickedDocumentEntity = {
+			const clickedDocEntity: DocumentEntity = {
 				city: permit.city,
 				permitID: permit.folderNumber,
 				docName: permitDoc.docName,
@@ -677,7 +677,7 @@ function documentLinkClass(
 	previousPermit: PermitsEntityDB
 ): Array<String | null> {
 	const docLinkClasses = versionDiffDocumentClass(index, permit, previousPermit);
-	const clickedDocEntity: ClickedDocumentEntity = {
+	const clickedDocEntity: DocumentEntity = {
 		city: permit.city,
 		permitID: permit.folderNumber,
 		docName: document.docName,
@@ -693,7 +693,7 @@ function documentLinkClass(
 	return docLinkClasses;
 }
 
-function getViewedDocMapKey(document: ClickedDocumentEntity) {
+function getViewedDocMapKey(document: DocumentEntity) {
 	return document.permitID + "|" + document.docName;
 }
 
