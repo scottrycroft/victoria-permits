@@ -25,9 +25,9 @@ import { geocodingService } from "@/geocoding";
 import { favouritesService } from "@/favourites";
 
 import type {
+	ClickedDocumentEntity,
 	DaysContentPermitInfo,
 	DocumentsEntity,
-	DocumentsEntity2,
 	PermitsEntity,
 	PermitsEntityDB,
 	PermitsInfo,
@@ -106,11 +106,6 @@ interface Filters {
 	applicationDate: DataTableOperatorFilterMetaData;
 	lastUpdated: DataTableOperatorFilterMetaData;
 	minor: DataTableFilterMetaData;
-	unviewedDocs?: {
-		value: boolean | null;
-		matchMode: string;
-		constraint?: (value: boolean, filter: boolean | null) => boolean;
-	};
 }
 
 const filters = ref<Filters>({
@@ -139,9 +134,6 @@ initPermitsViewedToday(permitsViewedTodaySet);
 const viewedDocs = reactive(new Map<string, boolean>());
 initViewedDocs(viewedDocs);
 
-const viewedDocs2 = reactive(new Map<string, boolean>());
-initViewedDocs2(viewedDocs2);
-
 // Initialize favourites service
 favouritesService.initialize();
 
@@ -160,14 +152,6 @@ async function initViewedDocs(viewedDocs: Map<string, boolean>) {
 	for (const dbClickedDoc of dbClickedDocs) {
 		const mapKey = getViewedDocMapKey(dbClickedDoc);
 		viewedDocs.set(mapKey, true);
-	}
-}
-
-async function initViewedDocs2(viewedDocs2: Map<string, boolean>) {
-	const dbClickedDocs2 = await db.clickedDocs2.toArray();
-	for (const dbClickedDoc2 of dbClickedDocs2) {
-		const mapKey = getViewedDocMapKey2(dbClickedDoc2);
-		viewedDocs2.set(mapKey, true);
 	}
 }
 
@@ -345,22 +329,15 @@ async function saveLastViewedPermit(permitData: PermitsEntityDB) {
 }
 
 async function clickedDoc(document: DocumentsEntity, permit: PermitsEntity) {
-	await db.clickedDocs.put({
-		docName: document.docName,
-		docURL: document.docURL
-	});
-	const mapKey = getViewedDocMapKey(document);
-	viewedDocs.set(mapKey, true);
-
-	const docEntity2: DocumentsEntity2 = {
+	const clickedDocEntity: ClickedDocumentEntity = {
 		city: permit.city,
 		permitID: permit.folderNumber,
 		docName: document.docName,
 		docURL: document.docURL
 	};
-	await db.clickedDocs2.put(docEntity2);
-	const mapKey2 = getViewedDocMapKey2(docEntity2);
-	viewedDocs2.set(mapKey2, true);
+	await db.clickedDocs.put(clickedDocEntity);
+	const mapKey = getViewedDocMapKey(clickedDocEntity);
+	viewedDocs.set(mapKey, true);
 }
 
 async function clearDocs() {
@@ -382,7 +359,7 @@ async function markViewed() {
 const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
-const showOnlyUnviewedDocs = ref<string | null>(null);
+const showOnlyUnviewedDocs = ref<boolean>(false);
 const showOnlyFavourites = ref(false);
 const showOnlyMinor = ref<boolean | null>(null);
 const showOnlyApprovalStatus = ref<string | null>(null);
@@ -392,15 +369,6 @@ const dateFilterModeOptions = [
 	{ label: "Equals", value: "customUnixDateIsFilter" },
 	{ label: "Before", value: "customUnixDateIsBeforeFilter" },
 	{ label: "After", value: "customUnixDateIsAfterFilter" }
-];
-
-const viewedDocsFilterOptions = [
-	{ label: "Unviewed1", value: "unviewed1" },
-	{ label: "Unviewed2", value: "unviewed2" },
-	{ label: "Unviewed1 and NOT Unviewed2", value: "unviewed1_not2" },
-	{ label: "NOT Unviewed1 and Unviewed2", value: "not1_unviewed2" },
-	{ label: "Both Unviewed1 and Unviewed2", value: "both_unviewed" },
-	{ label: "Neither Unviewed1 or Unviewed2", value: "neither_unviewed" }
 ];
 
 const filteredPermitApplications = computed(() => {
@@ -442,62 +410,20 @@ const filteredPermitApplications = computed(() => {
 		if (permit.documents.length === 0) {
 			return false;
 		}
-		// Count unviewed docs in both sets
-		let hasUnviewed1 = false;
-		let hasUnviewed2 = false;
-		let hasUnviewed1_not2 = false;
-		let hasNot1_unviewed2 = false;
-		let hasBothUnviewed = false;
-
+		// Check if any document is unviewed
 		for (const permitDoc of permit.documents) {
-			const docMapKey = getViewedDocMapKey(permitDoc);
-			const docViewed1 = viewedDocs.has(docMapKey);
-
-			const docEntity2: DocumentsEntity2 = {
+			const clickedDocEntity: ClickedDocumentEntity = {
 				city: permit.city,
 				permitID: permit.folderNumber,
 				docName: permitDoc.docName,
 				docURL: permitDoc.docURL
 			};
-			const docMapKey2 = getViewedDocMapKey2(docEntity2);
-			const docViewed2 = viewedDocs2.has(docMapKey2);
-
-			if (!docViewed1) {
-				hasUnviewed1 = true;
-			}
-			if (!docViewed2) {
-				hasUnviewed2 = true;
-			}
-
-			if (!docViewed1 && docViewed2) {
-				hasUnviewed1_not2 = true;
-			}
-			if (!docViewed2 && docViewed1) {
-				hasNot1_unviewed2 = true;
-			}
-
-			if (!docViewed1 && !docViewed2) {
-				hasBothUnviewed = true;
-			}
-		}
-
-		// Apply filter based on selected mode
-		switch (showOnlyUnviewedDocs.value) {
-			case "unviewed1":
-				return hasUnviewed1;
-			case "unviewed2":
-				return hasUnviewed2;
-			case "unviewed1_not2":
-				return hasUnviewed1_not2;
-			case "not1_unviewed2":
-				return hasNot1_unviewed2;
-			case "both_unviewed":
-				return hasBothUnviewed;
-			case "neither_unviewed":
-				return !hasUnviewed1 && !hasUnviewed2;
-			default:
+			const docMapKey = getViewedDocMapKey(clickedDocEntity);
+			if (!viewedDocs.has(docMapKey)) {
 				return true;
+			}
 		}
+		return false;
 	});
 });
 
@@ -751,35 +677,23 @@ function documentLinkClass(
 	previousPermit: PermitsEntityDB
 ): Array<String | null> {
 	const docLinkClasses = versionDiffDocumentClass(index, permit, previousPermit);
-	const viewedDocMapKey = getViewedDocMapKey(document);
-	const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
-
-	const docEntity2: DocumentsEntity2 = {
+	const clickedDocEntity: ClickedDocumentEntity = {
 		city: permit.city,
 		permitID: permit.folderNumber,
 		docName: document.docName,
 		docURL: document.docURL
 	};
+	const viewedDocMapKey = getViewedDocMapKey(clickedDocEntity);
+	const hasViewedDoc = viewedDocs.has(viewedDocMapKey);
 	if (hasViewedDoc) {
 		docLinkClasses.push("viewedDoc");
 	} else {
 		docLinkClasses.push("notViewedDoc");
 	}
-	const viewedDocMapKey2 = getViewedDocMapKey2(docEntity2);
-	const hasViewedDoc2 = viewedDocs2.has(viewedDocMapKey2);
-	if (hasViewedDoc2) {
-		docLinkClasses.push("viewedDoc2");
-	} else {
-		docLinkClasses.push("notViewedDoc2");
-	}
 	return docLinkClasses;
 }
 
-function getViewedDocMapKey(document: DocumentsEntity) {
-	return document.docName + "|" + document.docURL;
-}
-
-function getViewedDocMapKey2(document: DocumentsEntity2) {
+function getViewedDocMapKey(document: ClickedDocumentEntity) {
 	return document.permitID + "|" + document.docName;
 }
 
@@ -1087,16 +1001,14 @@ onBeforeUnmount(() => {
 					<!-- Second Row: All Filters -->
 					<div class="flex align-items-center gap-3 flex-wrap">
 						<div class="flex align-items-center gap-2">
-							<label for="filterUnviewedDocs">Filter by viewed docs:</label>
-							<Select
+							<label for="filterUnviewedDocs">
+								Unviewed docs only:
+							</label>
+							<input
+								type="checkbox"
+								id="filterUnviewedDocs"
 								v-model="showOnlyUnviewedDocs"
-								inputId="filterUnviewedDocs"
-								:options="viewedDocsFilterOptions"
-								optionLabel="label"
-								optionValue="value"
-								placeholder="All permits"
-								:showClear="true"
-								style="min-width: 250px"
+								style="width: 1.2rem; height: 1.2rem; cursor: pointer"
 							/>
 						</div>
 						<div class="flex align-items-center gap-2">

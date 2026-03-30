@@ -74,23 +74,15 @@ a.documentLink::before {
 	padding: 2px;
 }
 
-/* viewed in both, show nothing */
-a.documentLink.viewedDoc.viewedDoc2::before {
+/* Viewed document - hide indicator */
+a.documentLink.viewedDoc::before {
 	background-color: transparent;
 	color: transparent;
 }
 
-/** Not viewed in either, show green **/
-a.documentLink.notViewedDoc.notViewedDoc2::before {
+/* Not viewed document - show green indicator */
+a.documentLink.notViewedDoc::before {
 	background-color: green;
-}
-
-a.documentLink.notViewedDoc.viewedDoc2::before {
-	background-color: rgb(52, 17, 255);
-}
-
-a.documentLink.viewedDoc.notViewedDoc2::before {
-	background-color: rgb(250, 41, 239);
 }
 
 .purpose {
