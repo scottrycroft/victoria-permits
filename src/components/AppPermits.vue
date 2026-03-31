@@ -582,6 +582,8 @@ const getPermitApplicationLinkByID = (
 		return getViewRoyalLinkByID(permitID);
 	} else if (city === "Sidney" && pa) {
 		return getSidneyPermitLink(pa);
+	} else if (city === "North Saanich" && pa) {
+		return getNorthSaanichPermitLink(pa);
 	}
 	return "";
 };
@@ -653,6 +655,17 @@ function getSidneyPermitLink(pa: PermitsEntity) {
 	// Sidney doesn't have permit IDs, and only one page for permits
 	let baseUrl = "https://www.sidney.ca/planning-building/community-planning/development/";
 
+	return noPermitIDLink(pa, baseUrl);
+}
+
+function getNorthSaanichPermitLink(pa: PermitsEntity) {
+	// North Saanich doesn't have permit IDs, and only one page for permits
+	let baseUrl = "https://northsaanich.ca/business-development/development-applications/active-development-applications/";
+
+	return noPermitIDLink(pa, baseUrl);
+}
+
+function noPermitIDLink(pa: PermitsEntity, baseUrl: string): string {
 	const fullUrl =
 		baseUrl + "#:~:text=" + encodeURIComponent(pa.primaryStreetName).replace(/-/g, "%2D");
 	return fullUrl;
