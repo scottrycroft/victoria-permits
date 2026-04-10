@@ -17,6 +17,8 @@ export interface PermitsEntity {
 	minor?: boolean;
 	approvalStatus?: string;
 	relatedPermits?: RelatedPermit[];
+	latitude?: number;
+	longitude?: number;
 }
 
 export interface PermitsInfo {

@@ -161,7 +161,30 @@ class GeocodingService {
 	}
 
 	/**
-	 * Geocode and cache a permit's address if not already cached
+	 * Check if a permit has explicit latitude/longitude coordinates defined
+	 * @param permit - The permit entity to check
+	 * @returns True if the permit has both latitude and longitude defined
+	 */
+	public permitHasCoordinates(permit: PermitsEntity): boolean {
+		return permit.latitude != null && permit.longitude != null;
+	}
+
+	/**
+	 * Get the explicit coordinates from a permit, if defined
+	 * @param permit - The permit entity
+	 * @returns LatLngLiteral if both latitude and longitude are defined, null otherwise
+	 */
+	public getPermitCoordinates(permit: PermitsEntity): google.maps.LatLngLiteral | null {
+		if (this.permitHasCoordinates(permit)) {
+			return { lat: permit.latitude!, lng: permit.longitude! };
+		}
+		return null;
+	}
+
+	/**
+	 * Geocode and cache a permit's address if not already cached.
+	 * If the permit has explicit lat/lng coordinates, returns those directly
+	 * without performing any geocoding or caching.
 	 * This is a convenience method that combines address construction, cache checking, and geocoding
 	 * @param permit - The permit entity to geocode
 	 * @returns Promise resolving to LatLngLiteral or null if geocoding fails
@@ -169,6 +192,12 @@ class GeocodingService {
 	public async geocodeAndCachePermit(
 		permit: PermitsEntity
 	): Promise<google.maps.LatLngLiteral | null> {
+		// If the permit has explicit coordinates, use them directly (no caching needed)
+		const explicitCoords = this.getPermitCoordinates(permit);
+		if (explicitCoords) {
+			return explicitCoords;
+		}
+
 		const address = this.getPermitAddressCacheKey(permit);
 		return this.geocodeAddressWithCache(address);
 	}

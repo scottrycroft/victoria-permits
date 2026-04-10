@@ -347,7 +347,15 @@ const addPermitMarkers = async (clearExisting = true) => {
 	const cacheMisses = [];
 	const permitsToGeocode = activePermits.value.slice(startIndex, endIndex);
 	for (const permit of permitsToGeocode) {
-		// First check if we have this address cached
+		// If the permit has explicit lat/lng, use those directly (skip cache and geocoding)
+		const explicitCoords = geocodingService.getPermitCoordinates(permit);
+		if (explicitCoords) {
+			await addAddressMarker(permit, explicitCoords, bounds, markers.value);
+			hasValidLocations = true;
+			continue;
+		}
+
+		// Otherwise check if we have this address cached
 		const address = geocodingService.getPermitAddressCacheKey(permit);
 		const cachedLocation = await db.addressLocations.get({ address });
 		if (cachedLocation) {
@@ -443,14 +451,26 @@ const addCachedLocationMarkers = async () => {
 	let hasValidLocations = false;
 
 	try {
+		// First, add markers for permits with explicit lat/lng (no cache needed)
+		const permitsWithoutExplicitCoords: PermitsEntity[] = [];
+		for (const permit of activePermits.value) {
+			const explicitCoords = geocodingService.getPermitCoordinates(permit);
+			if (explicitCoords) {
+				await addAddressMarker(permit, explicitCoords, bounds, markers.value);
+				hasValidLocations = true;
+			} else {
+				permitsWithoutExplicitCoords.push(permit);
+			}
+		}
+
 		// Get all cached address locations from the database
 		const cachedLocations = await db.addressLocations.toArray();
 		console.log(`Found ${cachedLocations.length} cached address locations for selection mode`);
 
-		// For each cached location, find matching permits
+		// For each cached location, find matching permits (only those without explicit coords)
 		for (const cachedLocation of cachedLocations) {
 			// Find permits that match this cached address
-			const matchingPermits = activePermits.value.filter((permit) => {
+			const matchingPermits = permitsWithoutExplicitCoords.filter((permit) => {
 				const permitAddress = geocodingService.getPermitAddressCacheKey(permit);
 				return permitAddress === cachedLocation.address;
 			});
