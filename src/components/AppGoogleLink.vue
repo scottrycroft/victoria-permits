@@ -13,16 +13,21 @@ const hasCoordinates = computed(
 	() => props.permit?.latitude != null && props.permit?.longitude != null
 );
 
+// Check if the address contains a street number (starts with a digit)
+const addressHasNumber = computed(() => /\d/.test(props.address));
+
 const googleHref = computed(() => {
+	const addressPart = `${encodeURIComponent(props.address)}, ${encodeURIComponent(props.city)}`;
 	if (hasCoordinates.value) {
-		if (props.address) {
-			const addressPart = `${encodeURIComponent(props.address)}, ${encodeURIComponent(props.city)}`;
+		if (!props.address) {
+			// No address but has coordinates — link directly to lat/lng
+			return `https://www.google.com/maps?q=${props.permit!.latitude},${props.permit!.longitude}`;
+		}
+		if (!addressHasNumber.value) {
+			// Street name only (no number) — append lat/lng for precision
 			return `https://www.google.com/maps?q=${addressPart}+@${props.permit!.latitude},${props.permit!.longitude}`;
 		}
-		// No address but has coordinates — link directly to lat/lng
-		return `https://www.google.com/maps?q=${props.permit!.latitude},${props.permit!.longitude}`;
 	}
-	const addressPart = `${encodeURIComponent(props.address)}, ${encodeURIComponent(props.city)}`;
 	return `https://www.google.com/maps?q=${addressPart}`;
 });
 
