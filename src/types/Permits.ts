@@ -24,6 +24,14 @@ export interface PermitsEntity {
 export interface PermitsInfo {
 	dateRetrieved: number;
 	permits: PermitsEntity[];
+	permitUrls?: PermitUrls;
+}
+
+/** Maps city name → (prefix or "*") → URL */
+export interface PermitUrls {
+	[city: string]: {
+		[prefixOrWildcard: string]: string;
+	};
 }
 
 export interface DaysContentPermitInfo {

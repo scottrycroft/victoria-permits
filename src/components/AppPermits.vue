@@ -28,6 +28,7 @@ import type {
 	DocumentEntity,
 	DaysContentPermitInfo,
 	DocumentsEntity,
+	PermitUrls,
 	PermitsEntity,
 	PermitsEntityDB,
 	PermitsInfo,
@@ -38,6 +39,7 @@ import type {
 
 import rawPermitInfo from "@/permitInfo.json";
 const permitInfo = rawPermitInfo as PermitsInfo;
+const permitUrls: PermitUrls = permitInfo.permitUrls || {};
 
 import rawDaysWithInfo from "@/daysContentPermitInfo.json";
 const daysWithInfo = rawDaysWithInfo as DaysContentPermitInfo;
@@ -547,6 +549,17 @@ function getDaysWith(
 	return dwFolder;
 }
 
+/** Map of cities that have dedicated per-permit URLs (Details.aspx?folderNumber=) */
+const dedicatedPermitUrlCities: Record<string, string> = {
+	Saanich: "https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=",
+	Victoria: "https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=",
+	"Oak Bay":
+		"https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=",
+	"Central Saanich":
+		"https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/Details.aspx?folderNumber=",
+	Colwood: "https://services.colwood.ca/TLive/OurCity/Prospero/Details.aspx?folderNumber="
+};
+
 const getPermitApplicationLink = (pa: PermitsEntity): string => {
 	return getPermitApplicationLinkByID(pa.city, pa.folderNumber, pa);
 };
@@ -556,119 +569,93 @@ const getPermitApplicationLinkByID = (
 	permitID: string,
 	pa?: PermitsEntity
 ): string => {
-	if (city === "Saanich") {
-		return (
-			"https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=" + permitID
-		);
-	} else if (city === "Victoria") {
-		return (
-			"https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=" + permitID
-		);
-	} else if (city === "Oak Bay") {
-		return (
-			"https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=" +
-			permitID
-		);
-	} else if (city === "Central Saanich") {
-		return (
-			"https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/Details.aspx?folderNumber=" +
-			permitID
-		);
-	} else if (city === "Colwood") {
-		return `https://services.colwood.ca/TLive/OurCity/Prospero/Details.aspx?folderNumber=${permitID}`;
-	} else if (city === "Esquimalt") {
-		return getEsquimaltLinkByID(permitID);
-	} else if (city === "View Royal") {
-		return getViewRoyalLinkByID(permitID);
-	} else if (city === "Sidney" && pa) {
-		return getSidneyPermitLink(pa);
-	} else if (city === "North Saanich" && pa) {
-		return getNorthSaanichPermitLink(pa);
+	// Cities with dedicated per-permit URLs
+	const dedicatedBase = dedicatedPermitUrlCities[city];
+	if (dedicatedBase) {
+		return dedicatedBase + permitID;
 	}
-	return "";
+
+	// Use permitUrls from permitInfo.json for all other cities
+	return getPermitUrlFromConfig(city, permitID, pa);
 };
 
-function getEsquimaltLinkByID(permitID: string) {
-	const match = permitID.match(/^[A-Z]+/);
-	if (!match) {
-		toast.add({ severity: "error", summary: "Cannot get link for Esquimalt permit " + permitID });
+/**
+ * Resolves a permit link using the permitUrls config from permitInfo.json.
+ * Matches the permit ID prefix to find the right URL, or falls back to "*".
+ * Appends #:~:text= with the permit ID if available, or the primary address otherwise.
+ */
+function getPermitUrlFromConfig(
+	city: string,
+	permitID: string,
+	pa?: PermitsEntity
+): string {
+	const cityUrls = permitUrls[city];
+	if (!cityUrls) {
 		return "";
 	}
-	const prefix = match[0];
-	let baseUrl = "";
-	switch (prefix) {
-		case "DVP":
-			baseUrl =
-				"https://www.esquimalt.ca/business-development/development-tracker/development-variance-permit-applications";
-			break;
-		case "RZ":
-			baseUrl =
-				"https://www.esquimalt.ca/business-development/development-tracker/rezoning-applications";
-			break;
-		case "DP":
-			baseUrl =
-				"https://www.esquimalt.ca/business-development/development-tracker/development-permit-applications";
-			break;
-	}
+
+	// Try to match a prefix from the permit ID (e.g. "DVP" from "DVP-00123")
+	const baseUrl = resolveBaseUrl(cityUrls, permitID);
 	if (!baseUrl) {
-		console.error(prefix, permitID);
-		toast.add({ severity: "error", summary: "Cannot get link for Esquimalt permit " + permitID });
+		console.error("No matching permitUrl for", city, permitID);
+		toast.add({
+			severity: "error",
+			summary: "Cannot get link for " + city + " permit " + permitID
+		});
 		return "";
 	}
-	const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(permitID).replace(/-/g, "%2D");
-	return fullUrl;
+
+	// Determine the text fragment: use permit ID if it looks like a real ID, otherwise use primary address
+	const textFragment = getTextFragment(permitID, pa);
+	if (!textFragment) {
+		return baseUrl;
+	}
+
+	return baseUrl + "#:~:text=" + encodeURIComponent(textFragment).replace(/-/g, "%2D");
 }
 
-function getViewRoyalLinkByID(permitID: string) {
+/**
+ * Resolves the base URL from a city's URL config by matching the permit ID prefix.
+ * If there's only a "*" wildcard, returns that. Otherwise tries to match the
+ * alphabetic prefix of the permit ID to a key in the config.
+ */
+function resolveBaseUrl(
+	cityUrls: Record<string, string>,
+	permitID: string
+): string | undefined {
+	// If there's a wildcard and it's the only entry, use it directly
+	if (cityUrls["*"]) {
+		return cityUrls["*"];
+	}
+
+	// Extract the alphabetic prefix from the permit ID (e.g. "DVP" from "DVP-00123")
 	const match = permitID.match(/^[A-Z]+/);
-	if (!match) {
-		toast.add({ severity: "error", summary: "Cannot get link for View Royal permit " + permitID });
-		return "";
-	}
-	const prefix = match[0];
-	let baseUrl = "";
-	switch (prefix) {
-		case "DVP":
-			baseUrl =
-				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-tracker/development-variance-permit-applications.html";
-			break;
-		case "REZ":
-			baseUrl =
-				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-tracker/rezoning-applications.html";
-			break;
-		case "DP":
-			baseUrl =
-				"https://www.viewroyal.ca/EN/main/business/Land_Development/active-development-tracker/development-permit-applications.html";
-			break;
-	}
-	if (!baseUrl) {
-		console.error(prefix, permitID);
-		toast.add({ severity: "error", summary: "Cannot get link for View Royal permit " + permitID });
-		return "";
+	if (match) {
+		const prefix = match[0];
+		if (cityUrls[prefix]) {
+			return cityUrls[prefix];
+		}
 	}
 
-	const fullUrl = baseUrl + "#:~:text=" + encodeURIComponent(permitID).replace(/-/g, "%2D");
-	return fullUrl;
+	return undefined;
 }
 
-function getSidneyPermitLink(pa: PermitsEntity) {
-	// Sidney doesn't have permit IDs, and only one page for permits
-	let baseUrl = "https://www.sidney.ca/planning-building/community-planning/development/";
+/**
+ * Determines the text to use in the #:~:text= fragment.
+ * Uses the permit ID if it looks like a real identifier, otherwise falls back to the primary address.
+ */
+function getTextFragment(permitID: string, pa?: PermitsEntity): string {
+	// If the permit ID looks like a real identifier (has alphanumeric content), use it
+	if (permitID && /[A-Za-z0-9]/.test(permitID)) {
+		return permitID;
+	}
 
-	return noPermitIDLink(pa, baseUrl);
-}
+	// Fall back to primary address
+	if (pa?.primaryStreetName) {
+		return pa.primaryStreetName;
+	}
 
-function getNorthSaanichPermitLink(pa: PermitsEntity) {
-	// North Saanich doesn't have permit IDs, and only one page for permits
-	let baseUrl = "https://northsaanich.ca/business-development/development-applications/active-development-applications/";
-
-	return noPermitIDLink(pa, baseUrl);
-}
-
-function noPermitIDLink(pa: PermitsEntity, baseUrl: string): string {
-	const fullUrl =
-		baseUrl + "#:~:text=" + encodeURIComponent(pa.primaryStreetName).replace(/-/g, "%2D");
-	return fullUrl;
+	return "";
 }
 
 function showNoPAToast() {
