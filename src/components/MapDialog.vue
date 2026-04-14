@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { db } from "@/db";
 import type { PermitsEntity } from "@/types/Permits";
-import { getFormattedDate } from "@/utils";
+import { getFormattedDate, displayFolderNumber } from "@/utils";
 import { geocodingService } from "@/geocoding";
 import { loadGoogleMapsAPI } from "@/googleMapsLoader";
 import Button from "primevue/button";
@@ -527,7 +527,7 @@ const addAddressMarker = async (
 		marker = new google.maps.Marker({
 			position: latLong,
 			map: map.value,
-			title: `${permit.folderNumber}: ${permit.primaryStreetName}`
+			title: `${displayFolderNumber(permit.city, permit.folderNumber)}: ${permit.primaryStreetName}`
 		});
 	} catch (error) {
 		console.error("Failed to create classic Marker for permit", permit.folderNumber, ":", error);
@@ -547,13 +547,15 @@ const addAddressMarker = async (
 			: "";
 
 		// Show detailed info window
+		const displayId = displayFolderNumber(permit.city, permit.folderNumber);
+		const titleAttr = permit.city === 'Richmond' ? ` title="${permit.folderNumber}"` : '';
 		const detailWindow = new google.maps.InfoWindow({
 			content: `
 				<div style="min-width: 350px;">
 					<h4 style="margin: 0 0 8px 0; color: #1a73e8; cursor: pointer; text-decoration: underline;"
-						class="permitFolderNumber"
+						class="permitFolderNumber"${titleAttr}
 						onclick="window.handlePermitFolderClick('${permit.city}', '${permit.folderNumber}')">
-						${permit.folderNumber}
+						${displayId}
 					</h4>
 					<div style="margin-bottom: 6px;">
 						<strong>Address:</strong> ${permit.primaryStreetName}

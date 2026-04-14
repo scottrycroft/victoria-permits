@@ -5,4 +5,15 @@ function getFormattedDate(date: Date | number): string {
 	return new Date(date).toLocaleDateString("en-ca");
 }
 
-export { getFormattedDate };
+/**
+ * For Richmond permits, returns the folder number with dashes replaced by spaces.
+ * For all other cities, returns the folder number unchanged.
+ */
+function displayFolderNumber(city: string, folderNumber: string): string {
+	if (city === "Richmond") {
+		return folderNumber.replace(/-/g, " ");
+	}
+	return folderNumber;
+}
+
+export { getFormattedDate, displayFolderNumber };

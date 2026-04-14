@@ -4,6 +4,8 @@ export interface PermitsEntity {
 	applicationType: string;
 	cityApplicationType?: string;
 	folderNumber: string;
+	/** Combined search field containing both the original folderNumber and the display version (e.g. with spaces instead of dashes for Richmond). */
+	folderNumberSearch?: string;
 	applicationDate: number | null;
 	addresses: string[];
 	status: string;

@@ -21,6 +21,7 @@ import { useToast } from "primevue/usetoast";
 
 import AppGoogleLink from "./AppGoogleLink.vue";
 import MapDialog from "./MapDialog.vue";
+import PermitId from "./PermitId.vue";
 import { geocodingService } from "@/geocoding";
 import { favouritesService } from "@/favourites";
 
@@ -49,7 +50,7 @@ import Toast from "primevue/toast";
 
 import { db } from "@/db";
 
-import { getFormattedDate } from "@/utils";
+import { getFormattedDate, displayFolderNumber } from "@/utils";
 import { Select } from "primevue";
 import DatePicker from "primevue/datepicker";
 import DebugDialog from "./DebugDialog.vue";
@@ -531,6 +532,15 @@ function createPermitApplications(
 		pa.withDistrictDays = daysWith.withDistrictDays;
 		pa.withApplicantDays = daysWith.withApplicantDays;
 	}
+	// Build folderNumberSearch for permits whose display differs from the raw value
+	for (const pa of permits) {
+		const display = displayFolderNumber(pa.city, pa.folderNumber);
+		if (display !== pa.folderNumber) {
+			pa.folderNumberSearch = pa.folderNumber + " " + display;
+		} else {
+			pa.folderNumberSearch = pa.folderNumber;
+		}
+	}
 	return permits;
 }
 
@@ -606,7 +616,7 @@ function getPermitUrlFromConfig(
 	}
 
 	// Determine the text fragment: use permit ID if it looks like a real ID, otherwise use primary address
-	const textFragment = getTextFragment(permitID, pa);
+	const textFragment = getTextFragment(city, permitID, pa);
 	if (!textFragment) {
 		return baseUrl;
 	}
@@ -643,11 +653,18 @@ function resolveBaseUrl(
 /**
  * Determines the text to use in the #:~:text= fragment.
  * Uses the permit ID if it looks like a real identifier, otherwise falls back to the primary address.
+ * For Richmond, uses the display version (dashes replaced with spaces) and strips the
+ * alphabetic prefix (e.g. "BLD") to match the page content.
  */
-function getTextFragment(permitID: string, pa?: PermitsEntity): string {
+function getTextFragment(city: string, permitID: string, pa?: PermitsEntity): string {
 	// If the permit ID looks like a real identifier (has alphanumeric content), use it
 	if (permitID && /[A-Za-z0-9]/.test(permitID)) {
-		return permitID;
+		let text = displayFolderNumber(city, permitID);
+		if (city === "Richmond") {
+			// Remove the leading alphabetic prefix (e.g. "BLD ") and trim
+			text = text.replace(/^[A-Z]+\s*/, "").trim();
+		}
+		return text;
 	}
 
 	// Fall back to primary address
@@ -966,7 +983,7 @@ onBeforeUnmount(() => {
 				'city',
 				'applicationType',
 				'status',
-				'folderNumber',
+				'folderNumberSearch',
 				'status',
 				'addresses',
 				'purpose',
@@ -1093,7 +1110,7 @@ onBeforeUnmount(() => {
 					/>
 				</template>
 				<template #body="{ data }: { data: PermitsEntity }">
-					{{ data.folderNumber }}
+					<PermitId :permit="data" />
 					<i
 						v-if="favouritesService.isPermitFavourite(data)"
 						class="pi pi-star-fill"
@@ -1294,9 +1311,9 @@ onBeforeUnmount(() => {
 				<div class="col-2 field">
 					<label>Permit Identifier</label>
 					<div class="font-bold">
-						<a :href="getPermitApplicationLink(permit)" target="_blank">{{
-							permit.folderNumber
-						}}</a>
+						<a :href="getPermitApplicationLink(permit)" target="_blank">
+							<PermitId :permit="permit" />
+						</a>
 					</div>
 				</div>
 				<div class="col-2 field">
@@ -1453,16 +1470,16 @@ onBeforeUnmount(() => {
 											params: { city: permit.city, permitID: relatedPermitID }
 										}"
 									>
-										{{ relatedPermitID }}
+										<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
 									</router-link>
 									<a
 										v-else-if="permitExistByID(permit.city, relatedPermitID) === 'related'"
 										target="_blank"
 										:href="getPermitApplicationLinkByID(permit.city, relatedPermitID, permit)"
 									>
-										{{ relatedPermitID }}
+										<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
 									</a>
-									<span v-else>{{ relatedPermitID }}</span>
+									<PermitId v-else :city="permit.city" :folderNumber="relatedPermitID" />
 								</template>
 							</Column>
 							<Column header="Status" style="width: 20em">
