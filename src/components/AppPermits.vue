@@ -1405,7 +1405,7 @@ onBeforeUnmount(() => {
 						:class="versionDiffClass('applicant', permit, previousPermit)"
 						:title="versionDiffTitle('applicant', permit, previousPermit)"
 					>
-						{{ permit.applicant }}
+						{{ permit.applicant || '\u00A0' }}
 					</div>
 				</div>
 				<div class="col-2 field">
