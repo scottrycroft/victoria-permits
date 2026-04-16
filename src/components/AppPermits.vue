@@ -445,11 +445,48 @@ const permit = ref<PermitsEntity | null>(null);
 const previousPermit = ref<PermitsEntity | null>(null);
 const permitDialogVisible = ref(false);
 const isPermitFavourite = ref(false);
+const showDeletedItems = ref(false);
+
+const deletedDocuments = computed((): DocumentsEntity[] => {
+	if (!permit.value || !previousPermit.value) return [];
+	if (permit.value.lastUpdated === previousPermit.value.lastUpdated) return [];
+	return previousPermit.value.documents.filter(
+		(prevDoc) =>
+			!permit.value!.documents.some(
+				(doc) => doc.docName === prevDoc.docName && doc.docURL === prevDoc.docURL
+			)
+	);
+});
+
+const deletedProgressSections = computed((): ProgressSectionsEntity[] => {
+	if (!permit.value || !previousPermit.value) return [];
+	if (permit.value.lastUpdated === previousPermit.value.lastUpdated) return [];
+	const currentJSON = permit.value.progressSections.map((p) => JSON.stringify(p));
+	return previousPermit.value.progressSections.filter(
+		(prev) => !currentJSON.includes(JSON.stringify(prev))
+	);
+});
+
+const hasDeletedItems = computed(
+	() => deletedDocuments.value.length > 0 || deletedProgressSections.value.length > 0
+);
+
+type ProgressSectionDisplay = ProgressSectionsEntity & { _deleted?: true };
+
+const progressSectionsToDisplay = computed((): ProgressSectionDisplay[] => {
+	if (!permit.value) return [];
+	if (!showDeletedItems.value) return permit.value.progressSections;
+	return [
+		...permit.value.progressSections,
+		...deletedProgressSections.value.map((p) => ({ ...p, _deleted: true as const }))
+	];
+});
 
 const viewPermit = async (permitData: PermitsEntity) => {
 	permit.value = { ...permitData };
 	permitDialogVisible.value = true;
 	isPermitFavourite.value = favouritesService.isPermitFavourite(permitData);
+	showDeletedItems.value = false;
 	await saveLastViewedPermit(cloneObj(permitData));
 	previousPermit.value = await getPreviousPermit(permitData);
 
@@ -768,6 +805,10 @@ function versionDiffProgressClass(
 	permit: PermitsEntityDB,
 	previousPermit: PermitsEntityDB
 ): Array<String | null> {
+	if (index >= permit.progressSections.length) {
+		// Deleted row appended at end — styling handled by row class
+		return [];
+	}
 	if (index >= previousPermit.progressSections.length) {
 		// The whole progress row will be styled differently if it's new
 		return [];
@@ -783,6 +824,10 @@ function versionDiffProgressTitle(
 	permit: PermitsEntityDB,
 	previousPermit: PermitsEntityDB
 ): string | undefined {
+	if (index >= permit.progressSections.length) {
+		// Deleted row appended at end — no tooltip needed
+		return undefined;
+	}
 	if (index >= previousPermit.progressSections.length) {
 		// The whole progress row will be styled differently if it's new
 		return undefined;
@@ -814,7 +859,10 @@ function versionDiffTitle(
 	return undefined;
 }
 
-function progressRowClass(progress: ProgressSectionsEntity): String {
+function progressRowClass(progress: ProgressSectionDisplay): String {
+	if ((progress as ProgressSectionDisplay)._deleted) {
+		return "permitDataDeletedRow";
+	}
 	if (!permit.value || !previousPermit.value) {
 		return "";
 	}
@@ -1273,6 +1321,15 @@ onBeforeUnmount(() => {
 					<Tag v-if="permit.approvalStatus === 'Approved'" value="Approved" severity="success" />
 					<Tag v-if="permit.approvalStatus === 'Rejected'" value="Rejected" severity="danger" />
 					<Tag v-if="permit.approvalStatus === 'Superseded'" value="Superseded" severity="warn" />
+					<Button
+						v-if="hasDeletedItems"
+						:label="showDeletedItems ? 'Hide Removed' : 'Show Removed'"
+						:icon="showDeletedItems ? 'pi pi-eye-slash' : 'pi pi-eye'"
+						@click="showDeletedItems = !showDeletedItems"
+						size="small"
+						severity="danger"
+						outlined
+					/>
 				</div>
 			</template>
 			<div class="grid">
@@ -1407,13 +1464,23 @@ onBeforeUnmount(() => {
 								>{{ document.docName || getDocNameFromURL(document.docURL) }}</a
 							>
 						</div>
+						<template v-if="showDeletedItems">
+							<a
+								v-for="document in deletedDocuments"
+								:key="'deleted-' + document.docName"
+								:href="document.docURL"
+								class="documentLink deletedItem"
+								:title="'Removed since last version'"
+								>{{ document.docName || getDocNameFromURL(document.docURL) }}</a
+							>
+						</template>
 						<div v-if="permit.documents.length === 0">No Documents Submitted</div>
 					</div>
 				</div>
 				<div class="col-12 field">
 					<label>Task Progress</label>
 					<div>
-						<DataTable stripedRows :value="permit.progressSections" :rowClass="progressRowClass">
+						<DataTable stripedRows :value="progressSectionsToDisplay" :rowClass="progressRowClass">
 							<Column field="taskType" header="Type">
 								<template #body="{ data, index }">
 									<span

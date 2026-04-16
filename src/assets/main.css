@@ -3,6 +3,7 @@
 :root {
 	--colour-data-changed: #d5e8b2;
 	--colour-data-new: hsl(84deg 55.56% 61.59%);
+	--colour-data-deleted: #f8d7da;
 }
 
 body {
@@ -46,6 +47,21 @@ a.permitDataNew {
 
 tr.permitDataNewRow td {
 	background-color: var(--colour-data-new);
+}
+
+tr.permitDataDeletedRow td {
+	background-color: var(--colour-data-deleted);
+	text-decoration: line-through;
+	color: #6c757d;
+}
+
+a.deletedItem {
+	display: block;
+	text-decoration: line-through;
+	color: #6c757d;
+	background-color: var(--colour-data-deleted);
+	outline: 4px solid var(--colour-data-deleted);
+	pointer-events: none;
 }
 
 tr.notSeenToday {

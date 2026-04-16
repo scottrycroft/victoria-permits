@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { db } from "@/db";
-import type { DocumentEntity, AddressLocation, FavouritePermit } from "@/types/Permits";
+import type { DocumentEntity, AddressLocation, FavouritePermit, PermitsEntityDB } from "@/types/Permits";
 import { favouritesService } from "@/favourites";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
@@ -320,6 +320,67 @@ async function importFavourites() {
 	input.click();
 }
 
+interface DeletionResult {
+	city: string;
+	folderNumber: string;
+	deletedDocs: string[];
+	deletedProgress: string[];
+}
+
+const deletionResults = ref<DeletionResult[] | null>(null);
+const findingDeletions = ref(false);
+
+async function findPermitsWithDeletions() {
+	findingDeletions.value = true;
+	deletionResults.value = null;
+	try {
+		const currentPermits = await db.lastSeenPermits
+			.where("dbVersion" as any)
+			.equals("current")
+			.toArray() as PermitsEntityDB[];
+
+		const results: DeletionResult[] = [];
+
+		for (const current of currentPermits) {
+			if (results.length >= 5) break;
+
+			const previousArr = await db.lastSeenPermits
+				.where({ dbVersion: "previous", city: current.city, folderNumber: current.folderNumber })
+				.toArray() as PermitsEntityDB[];
+			const previous = previousArr[0];
+
+			if (!previous || current.lastUpdated === previous.lastUpdated) continue;
+
+			const deletedDocs = previous.documents
+				.filter(
+					(prevDoc) =>
+						!current.documents.some(
+							(doc) => doc.docName === prevDoc.docName && doc.docURL === prevDoc.docURL
+						)
+				)
+				.map((d) => d.docName || d.docURL);
+
+			const currentProgressJSON = current.progressSections.map((p) => JSON.stringify(p));
+			const deletedProgress = previous.progressSections
+				.filter((prev) => !currentProgressJSON.includes(JSON.stringify(prev)))
+				.map((p) => p.taskDescription || p.taskType);
+
+			if (deletedDocs.length > 0 || deletedProgress.length > 0) {
+				results.push({
+					city: current.city,
+					folderNumber: current.folderNumber,
+					deletedDocs,
+					deletedProgress
+				});
+			}
+		}
+
+		deletionResults.value = results;
+	} finally {
+		findingDeletions.value = false;
+	}
+}
+
 const dialogVisible = computed({
 	get: () => props.visible,
 	set: (value: boolean) => emit("update:visible", value)
@@ -416,6 +477,38 @@ onUnmounted(() => {});
 				@click="importFavourites"
 				severity="warning"
 			/>
+			<Button
+				icon="pi pi-search"
+				label="Find Permits with Deletions"
+				@click="findPermitsWithDeletions"
+				:loading="findingDeletions"
+				severity="danger"
+			/>
+		</div>
+
+		<div v-if="deletionResults !== null" class="mt-3">
+			<h4 class="mt-0 mb-2">Permits with Removed Items (first 5)</h4>
+			<div v-if="deletionResults.length === 0" class="text-color-secondary">
+				No permits with deleted documents or progress sections found.
+			</div>
+			<div v-else class="flex flex-column gap-2">
+				<div
+					v-for="result in deletionResults"
+					:key="result.city + result.folderNumber"
+					class="border-1 border-round p-2"
+					style="border-color: var(--colour-data-deleted); background: #fff5f5"
+				>
+					<div class="font-bold mb-1">{{ result.city }} — {{ result.folderNumber }}</div>
+					<div v-if="result.deletedDocs.length" class="text-sm">
+						<span class="font-semibold">Removed docs:</span>
+						{{ result.deletedDocs.join(", ") }}
+					</div>
+					<div v-if="result.deletedProgress.length" class="text-sm">
+						<span class="font-semibold">Removed tasks:</span>
+						{{ result.deletedProgress.join(", ") }}
+					</div>
+				</div>
+			</div>
 		</div>
 	</Dialog>
 </template>
