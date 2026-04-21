@@ -4,16 +4,24 @@ import type { DocumentEntity, AddressLocation, FavouritePermit, PermitsEntityDB 
 import { favouritesService } from "@/favourites";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
+import Select from "primevue/select";
 import { useToast } from "primevue/usetoast";
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from "vue";
 
 const props = defineProps<{
 	visible: boolean;
+	showOnlyMinor: boolean | null;
 }>();
 
 const emit = defineEmits<{
 	"update:visible": [value: boolean];
+	"update:showOnlyMinor": [value: boolean | null];
 }>();
+
+const localShowOnlyMinor = computed({
+	get: () => props.showOnlyMinor,
+	set: (value: boolean | null) => emit("update:showOnlyMinor", value)
+});
 
 const toast = useToast();
 
@@ -428,6 +436,26 @@ onUnmounted(() => {});
 				<h3 class="m-0">Debug Dialog</h3>
 			</div>
 		</template>
+
+		<div class="mb-3">
+			<h4 class="mt-0 mb-2">Filters</h4>
+			<div class="flex align-items-center gap-2">
+				<label for="filterMinor">Minor permits:</label>
+				<Select
+					v-model="localShowOnlyMinor"
+					inputId="filterMinor"
+					:options="[
+						{ label: 'All', value: null },
+						{ label: 'Minor only', value: true },
+						{ label: 'Non-minor only', value: false }
+					]"
+					optionLabel="label"
+					optionValue="value"
+					placeholder="All"
+					style="min-width: 150px"
+				/>
+			</div>
+		</div>
 
 		<div class="mb-3">
 			<h4 class="mt-0 mb-2">Storage Information</h4>

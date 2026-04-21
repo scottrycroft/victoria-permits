@@ -364,7 +364,7 @@ const permitApplications = ref(createPermitApplications(permitsList, daysWithInf
 
 const showOnlyUnviewedDocs = ref<boolean>(false);
 const showOnlyFavourites = ref(false);
-const showOnlyMinor = ref<boolean | null>(null);
+const showOnlyMinor = ref<boolean | null>(false);
 const showOnlyApprovalStatus = ref<string | null>(null);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
@@ -1089,22 +1089,6 @@ onBeforeUnmount(() => {
 							/>
 						</div>
 						<div class="flex align-items-center gap-2">
-							<label for="filterMinor">Minor permits:</label>
-							<Select
-								v-model="showOnlyMinor"
-								inputId="filterMinor"
-								:options="[
-									{ label: 'All', value: null },
-									{ label: 'Minor only', value: true },
-									{ label: 'Non-minor only', value: false }
-								]"
-								optionLabel="label"
-								optionValue="value"
-								placeholder="All"
-								style="min-width: 150px"
-							/>
-						</div>
-						<div class="flex align-items-center gap-2">
 							<label for="filterApprovalStatus">Approval status:</label>
 							<Select
 								v-model="showOnlyApprovalStatus"
@@ -1568,7 +1552,7 @@ onBeforeUnmount(() => {
 			:permits="visiblePermits"
 			@permit-folder-clicked="onPermitFolderClicked"
 		/>
-		<DebugDialog v-model:visible="showDebugDialog" />
+		<DebugDialog v-model:visible="showDebugDialog" v-model:showOnlyMinor="showOnlyMinor" />
 
 		<Toast
 			class="w-9"
