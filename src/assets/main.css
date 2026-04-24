@@ -61,7 +61,6 @@ a.deletedItem {
 	color: #6c757d;
 	background-color: var(--colour-data-deleted);
 	outline: 4px solid var(--colour-data-deleted);
-	pointer-events: none;
 }
 
 tr.notSeenToday {
