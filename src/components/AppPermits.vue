@@ -461,9 +461,11 @@ const deletedDocuments = computed((): DocumentsEntity[] => {
 const deletedProgressSections = computed((): ProgressSectionsEntity[] => {
 	if (!permit.value || !previousPermit.value) return [];
 	if (permit.value.lastUpdated === previousPermit.value.lastUpdated) return [];
-	const currentJSON = permit.value.progressSections.map((p) => JSON.stringify(p));
 	return previousPermit.value.progressSections.filter(
-		(prev) => !currentJSON.includes(JSON.stringify(prev))
+		(prev) =>
+			!permit.value!.progressSections.some(
+				(cur) => cur.taskDescription === prev.taskDescription && cur.taskType === prev.taskType
+			)
 	);
 });
 
