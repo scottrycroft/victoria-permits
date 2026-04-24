@@ -8,6 +8,11 @@ import Select from "primevue/select";
 import { useToast } from "primevue/usetoast";
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from "vue";
 
+declare const __APP_VERSION__: string
+declare const __BUILD_TIME__: string
+const appVersion = __APP_VERSION__
+const buildTime = new Date(__BUILD_TIME__).toLocaleString()
+
 const props = defineProps<{
 	visible: boolean;
 	showOnlyMinor: boolean | null;
@@ -486,6 +491,7 @@ onUnmounted(() => {});
 		<template #header>
 			<div class="flex align-items-center gap-3">
 				<h3 class="m-0">Debug Dialog</h3>
+				<span class="text-sm text-color-secondary">v{{ appVersion }} — built {{ buildTime }}</span>
 			</div>
 		</template>
 
