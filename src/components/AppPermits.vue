@@ -1456,7 +1456,7 @@ onBeforeUnmount(() => {
 								:key="'deleted-' + document.docName"
 								:href="document.docURL"
 								class="documentLink deletedItem"
-								:title="'Removed since last version'"
+								:title="document.docURL"
 								>{{ document.docName || getDocNameFromURL(document.docURL) }}</a
 							>
 						</template>

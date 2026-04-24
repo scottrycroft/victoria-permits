@@ -328,26 +328,39 @@ async function importFavourites() {
 	input.click();
 }
 
-interface DeletionResult {
+interface DeletedDoc {
+	name: string;
+	url: string;
+}
+
+interface DocDeletionResult {
 	city: string;
 	folderNumber: string;
-	deletedDocs: string[];
+	deletedDocs: DeletedDoc[];
+}
+
+interface ProgressDeletionResult {
+	city: string;
+	folderNumber: string;
 	deletedProgress: string[];
 }
 
-const deletionResults = ref<DeletionResult[] | null>(null);
-const findingDeletions = ref(false);
+const docDeletionResults = ref<DocDeletionResult[] | null>(null);
+const findingDocDeletions = ref(false);
 
-async function findPermitsWithDeletions() {
-	findingDeletions.value = true;
-	deletionResults.value = null;
+const progressDeletionResults = ref<ProgressDeletionResult[] | null>(null);
+const findingProgressDeletions = ref(false);
+
+async function findPermitsWithDeletedDocs() {
+	findingDocDeletions.value = true;
+	docDeletionResults.value = null;
 	try {
 		const currentPermits = await db.lastSeenPermits
 			.where("dbVersion" as any)
 			.equals("current")
 			.toArray() as PermitsEntityDB[];
 
-		const results: DeletionResult[] = [];
+		const results: DocDeletionResult[] = [];
 
 		for (const current of currentPermits) {
 			if (results.length >= 5) break;
@@ -366,26 +379,65 @@ async function findPermitsWithDeletions() {
 							(doc) => doc.docName === prevDoc.docName && doc.docURL === prevDoc.docURL
 						)
 				)
-				.map((d) => d.docName || d.docURL);
+				.map((d) => ({ name: d.docName || d.docURL, url: d.docURL }));
 
-			const currentProgressJSON = current.progressSections.map((p) => JSON.stringify(p));
-			const deletedProgress = previous.progressSections
-				.filter((prev) => !currentProgressJSON.includes(JSON.stringify(prev)))
-				.map((p) => p.taskDescription || p.taskType);
-
-			if (deletedDocs.length > 0 || deletedProgress.length > 0) {
+			if (deletedDocs.length > 0) {
 				results.push({
 					city: current.city,
 					folderNumber: current.folderNumber,
-					deletedDocs,
+					deletedDocs
+				});
+			}
+		}
+
+		docDeletionResults.value = results;
+	} finally {
+		findingDocDeletions.value = false;
+	}
+}
+
+async function findPermitsWithDeletedProgress() {
+	findingProgressDeletions.value = true;
+	progressDeletionResults.value = null;
+	try {
+		const currentPermits = await db.lastSeenPermits
+			.where("dbVersion" as any)
+			.equals("current")
+			.toArray() as PermitsEntityDB[];
+
+		const results: ProgressDeletionResult[] = [];
+
+		for (const current of currentPermits) {
+			if (results.length >= 5) break;
+
+			const previousArr = await db.lastSeenPermits
+				.where({ dbVersion: "previous", city: current.city, folderNumber: current.folderNumber })
+				.toArray() as PermitsEntityDB[];
+			const previous = previousArr[0];
+
+			if (!previous || current.lastUpdated === previous.lastUpdated) continue;
+
+			const deletedProgress = previous.progressSections
+				.filter(
+					(prev) =>
+						!current.progressSections.some(
+							(cur) => cur.taskDescription === prev.taskDescription && cur.taskType === prev.taskType
+						)
+				)
+				.map((p) => p.taskDescription || p.taskType);
+
+			if (deletedProgress.length > 0) {
+				results.push({
+					city: current.city,
+					folderNumber: current.folderNumber,
 					deletedProgress
 				});
 			}
 		}
 
-		deletionResults.value = results;
+		progressDeletionResults.value = results;
 	} finally {
-		findingDeletions.value = false;
+		findingProgressDeletions.value = false;
 	}
 }
 
@@ -507,31 +559,57 @@ onUnmounted(() => {});
 			/>
 			<Button
 				icon="pi pi-search"
-				label="Find Permits with Deletions"
-				@click="findPermitsWithDeletions"
-				:loading="findingDeletions"
+				label="Find Deleted Docs"
+				@click="findPermitsWithDeletedDocs"
+				:loading="findingDocDeletions"
+				severity="danger"
+			/>
+			<Button
+				icon="pi pi-search"
+				label="Find Deleted Tasks"
+				@click="findPermitsWithDeletedProgress"
+				:loading="findingProgressDeletions"
 				severity="danger"
 			/>
 		</div>
 
-		<div v-if="deletionResults !== null" class="mt-3">
-			<h4 class="mt-0 mb-2">Permits with Removed Items (first 5)</h4>
-			<div v-if="deletionResults.length === 0" class="text-color-secondary">
-				No permits with deleted documents or progress sections found.
+		<div v-if="docDeletionResults !== null" class="mt-3">
+			<h4 class="mt-0 mb-2">Permits with Removed Documents (first 5)</h4>
+			<div v-if="docDeletionResults.length === 0" class="text-color-secondary">
+				No permits with deleted documents found.
 			</div>
 			<div v-else class="flex flex-column gap-2">
 				<div
-					v-for="result in deletionResults"
+					v-for="result in docDeletionResults"
 					:key="result.city + result.folderNumber"
 					class="border-1 border-round p-2"
 					style="border-color: var(--colour-data-deleted); background: #fff5f5"
 				>
 					<div class="font-bold mb-1">{{ result.city }} — {{ result.folderNumber }}</div>
-					<div v-if="result.deletedDocs.length" class="text-sm">
+					<div class="text-sm">
 						<span class="font-semibold">Removed docs:</span>
-						{{ result.deletedDocs.join(", ") }}
+						<template v-for="(doc, i) in result.deletedDocs" :key="doc.url">
+							<span :title="doc.url">{{ doc.name }}</span><span v-if="i < result.deletedDocs.length - 1">, </span>
+						</template>
 					</div>
-					<div v-if="result.deletedProgress.length" class="text-sm">
+				</div>
+			</div>
+		</div>
+
+		<div v-if="progressDeletionResults !== null" class="mt-3">
+			<h4 class="mt-0 mb-2">Permits with Removed Tasks (first 5)</h4>
+			<div v-if="progressDeletionResults.length === 0" class="text-color-secondary">
+				No permits with deleted task progress found.
+			</div>
+			<div v-else class="flex flex-column gap-2">
+				<div
+					v-for="result in progressDeletionResults"
+					:key="result.city + result.folderNumber"
+					class="border-1 border-round p-2"
+					style="border-color: var(--colour-data-deleted); background: #fff5f5"
+				>
+					<div class="font-bold mb-1">{{ result.city }} — {{ result.folderNumber }}</div>
+					<div class="text-sm">
 						<span class="font-semibold">Removed tasks:</span>
 						{{ result.deletedProgress.join(", ") }}
 					</div>
