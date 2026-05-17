@@ -17,6 +17,7 @@ export interface PermitsEntity {
 	lastUpdated: number | null;
 	city: string;
 	minor?: boolean;
+	major?: boolean;
 	approvalStatus?: string;
 	relatedPermits?: RelatedPermit[];
 	latitude?: number;

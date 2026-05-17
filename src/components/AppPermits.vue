@@ -365,6 +365,7 @@ const permitApplications = ref(createPermitApplications(permitsList, daysWithInf
 const showOnlyUnviewedDocs = ref<boolean>(false);
 const showOnlyFavourites = ref(false);
 const showOnlyMinor = ref<boolean | null>(false);
+const showOnlyMajor = ref<boolean | null>(null);
 const showOnlyApprovalStatus = ref<string | null>(null);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
@@ -374,6 +375,23 @@ const dateFilterModeOptions = [
 	{ label: "After", value: "customUnixDateIsAfterFilter" }
 ];
 
+/**
+ * Filters permits by an optional boolean field.
+ * When filterValue is null, all permits pass through (no filtering).
+ * When filterValue is true, only permits where the field is true are included.
+ * When filterValue is false, only permits where the field is not true are included.
+ */
+function filterByOptionalBoolean(
+	permits: PermitsEntity[],
+	filterValue: boolean | null,
+	field: "minor" | "major"
+): PermitsEntity[] {
+	if (filterValue === null) return permits;
+	return permits.filter((permit) =>
+		filterValue ? permit[field] === true : permit[field] !== true
+	);
+}
+
 const filteredPermitApplications = computed(() => {
 	let filtered = permitApplications.value;
 
@@ -382,16 +400,9 @@ const filteredPermitApplications = computed(() => {
 		filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
 	}
 
-	// Filter by minor if enabled
-	if (showOnlyMinor.value !== null) {
-		filtered = filtered.filter((permit) => {
-			if (showOnlyMinor.value === true) {
-				return permit.minor === true;
-			} else {
-				return permit.minor !== true;
-			}
-		});
-	}
+	// Filter by boolean flags (minor, major)
+	filtered = filterByOptionalBoolean(filtered, showOnlyMinor.value, "minor");
+	filtered = filterByOptionalBoolean(filtered, showOnlyMajor.value, "major");
 
 	// Filter by approval status if enabled
 	if (showOnlyApprovalStatus.value !== null) {
@@ -1108,6 +1119,22 @@ onBeforeUnmount(() => {
 								style="min-width: 150px"
 							/>
 						</div>
+						<div class="flex align-items-center gap-2">
+							<label for="filterMajor">Major permits:</label>
+							<Select
+								v-model="showOnlyMajor"
+								inputId="filterMajor"
+								:options="[
+									{ label: 'All', value: null },
+									{ label: 'Major only', value: true },
+									{ label: 'Non-major only', value: false }
+								]"
+								optionLabel="label"
+								optionValue="value"
+								placeholder="All"
+								style="min-width: 150px"
+							/>
+						</div>
 						<Button
 							@click="showMapDialog = true"
 							icon="pi pi-map"
@@ -1125,6 +1152,16 @@ onBeforeUnmount(() => {
 						:to="{ name: 'view_permit', params: { city: data.city, permitID: data.folderNumber } }"
 						><Button icon="pi pi-search" outlined rounded title="View Permit"
 					/></router-link>
+				</template>
+			</Column>
+			<Column :exportable="false" style="width: 32px; min-width: 32px; max-width: 32px; padding: 0.25rem">
+				<template #body="{ data }: { data: PermitsEntity }">
+					<i
+						v-if="data.major"
+						class="pi pi-bolt"
+						style="color: var(--p-blue-500); font-size: 1.1rem"
+						title="Major"
+					></i>
 				</template>
 			</Column>
 			<Column
@@ -1304,6 +1341,7 @@ onBeforeUnmount(() => {
 						severity="success"
 					/>
 					<Tag v-if="permit.minor" value="Minor" severity="info" />
+					<Tag v-if="permit.major" value="Major" severity="primary" />
 					<Tag v-if="permit.approvalStatus === 'Approved'" value="Approved" severity="success" />
 					<Tag v-if="permit.approvalStatus === 'Rejected'" value="Rejected" severity="danger" />
 					<Tag v-if="permit.approvalStatus === 'Superseded'" value="Superseded" severity="warn" />
