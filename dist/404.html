@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Redirecting…</title>
+    <!-- GitHub Pages SPA redirect: converts the clean URL path into a
+         hashbang URL so index.html can restore it and let Vue Router handle it.
+         e.g. /victoria-permits/p/Sooke/PLN01660
+           → /victoria-permits/#!/p/Sooke/PLN01660 -->
+    <script>
+      // segmentCount = number of path segments in the repo base
+      // e.g. 1 for /victoria-permits/
+      var segmentCount = 1;
+      var loc = window.location;
+      var pathParts = loc.pathname.split('/');
+      // base = the repo root path (e.g. /victoria-permits)
+      var base = pathParts.slice(0, segmentCount + 1).join('/');
+      // route = the SPA route portion (e.g. /p/Sooke/PLN01660)
+      var route = pathParts.slice(segmentCount + 1).join('/');
+      loc.replace(
+        loc.protocol + '//' + loc.hostname + (loc.port ? ':' + loc.port : '') +
+        base + '/#!/' + route +
+        (loc.search ? loc.search : '')
+      );
+    </script>
+  </head>
+  <body>
+    Redirecting&hellip;
+  </body>
+</html>
