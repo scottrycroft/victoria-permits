@@ -667,7 +667,7 @@ onUnmounted(() => {
 	<Dialog
 		v-model:visible="dialogVisible"
 		:dismissableMask="true"
-		:style="{ width: '95vw', height: '90vh' }"
+		:style="{ width: '95vw', height: '95vh' }"
 		header="Interactive Map"
 		:modal="true"
 		class="map-dialog"
@@ -756,7 +756,7 @@ onUnmounted(() => {
 				ref="mapContainer"
 				style="
 					flex: 1;
-					min-height: 500px;
+					min-height: calc(95vh - 220px);
 					border: 1px solid #ddd;
 					border-radius: 6px;
 					background: #f5f5f5;
