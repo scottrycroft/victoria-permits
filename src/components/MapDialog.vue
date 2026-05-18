@@ -573,7 +573,7 @@ const addAddressMarker = async (
 						<strong>Last Updated:</strong> ${lastUpdatedStr}
 					</div>
 					<div style="margin-bottom: 6px;">
-						<strong>Purpose:</strong> ${permit.purpose}
+						<strong>Purpose:</strong> <span style="white-space: pre-wrap;">${permit.purpose}</span>
 					</div>
 				</div>
 			`,
