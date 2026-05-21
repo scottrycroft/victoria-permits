@@ -22,6 +22,7 @@ export interface PermitsEntity {
 	relatedPermits?: RelatedPermit[];
 	latitude?: number;
 	longitude?: number;
+	storeys?: number;
 }
 
 export interface PermitsInfo {

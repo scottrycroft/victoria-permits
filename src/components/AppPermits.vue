@@ -15,6 +15,7 @@ import DataTable, {
 import Dialog from "primevue/dialog";
 import InputGroup from "primevue/inputgroup";
 import InputGroupAddon from "primevue/inputgroupaddon";
+import InputNumber from "primevue/inputnumber";
 import InputText from "primevue/inputtext";
 import Tag from "primevue/tag";
 import { useToast } from "primevue/usetoast";
@@ -367,6 +368,8 @@ const showOnlyFavourites = ref(false);
 const showOnlyMinor = ref<boolean | null>(false);
 const showOnlyMajor = ref<boolean | null>(null);
 const showOnlyApprovalStatus = ref<string | null>(null);
+const storeysFilterMode = ref<string>("gte");
+const storeysFilterValue = ref<number | null>(null);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
 const dateFilterModeOptions = [
@@ -393,26 +396,37 @@ function filterByOptionalBoolean(
 }
 
 const filteredPermitApplications = computed(() => {
-	let filtered = permitApplications.value;
+let filtered = permitApplications.value;
 
-	// Filter by favourites if enabled
-	if (showOnlyFavourites.value) {
-		filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
-	}
+// Filter by favourites if enabled
+if (showOnlyFavourites.value) {
+	filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
+}
 
-	// Filter by boolean flags (minor, major)
-	filtered = filterByOptionalBoolean(filtered, showOnlyMinor.value, "minor");
-	filtered = filterByOptionalBoolean(filtered, showOnlyMajor.value, "major");
+// Filter by boolean flags (minor, major)
+filtered = filterByOptionalBoolean(filtered, showOnlyMinor.value, "minor");
+filtered = filterByOptionalBoolean(filtered, showOnlyMajor.value, "major");
 
-	// Filter by approval status if enabled
-	if (showOnlyApprovalStatus.value !== null) {
-		filtered = filtered.filter((permit) => {
-			if (showOnlyApprovalStatus.value === "undefined") {
-				return !permit.approvalStatus;
-			}
-			return permit.approvalStatus === showOnlyApprovalStatus.value;
-		});
-	}
+// Filter by approval status if enabled
+if (showOnlyApprovalStatus.value !== null) {
+	filtered = filtered.filter((permit) => {
+		if (showOnlyApprovalStatus.value === "undefined") {
+			return !permit.approvalStatus;
+		}
+		return permit.approvalStatus === showOnlyApprovalStatus.value;
+	});
+}
+
+// Filter by storeys if a value is set
+if (storeysFilterValue.value !== null) {
+	filtered = filtered.filter((permit) => {
+		if (permit.storeys == null) return false;
+		if (storeysFilterMode.value === "gte") {
+			return permit.storeys >= storeysFilterValue.value!;
+		}
+		return permit.storeys <= storeysFilterValue.value!;
+	});
+}
 
 	// Filter by unviewed docs if enabled
 	if (!showOnlyUnviewedDocs.value) {
@@ -1135,14 +1149,36 @@ onBeforeUnmount(() => {
 								style="min-width: 150px"
 							/>
 						</div>
-						<Button
-							@click="showMapDialog = true"
-							icon="pi pi-map"
-							label="Show Map"
-							outlined
-							size="small"
-							:disabled="!visiblePermits.length"
-						/>
+						<div class="flex align-items-center gap-2">
+							<label for="filterStoreys">Storeys:</label>
+							<Select
+								v-model="storeysFilterMode"
+								inputId="filterStoreysMode"
+								:options="[
+									{ label: '≥', value: 'gte' },
+									{ label: '≤', value: 'lte' }
+								]"
+								optionLabel="label"
+								optionValue="value"
+								style="min-width: 70px"
+							/>
+							<InputNumber
+								v-model="storeysFilterValue"
+								inputId="filterStoreys"
+								:min="0"
+								placeholder="Any"
+							/>
+						</div>
+						<div class="flex align-items-center gap-2">
+							<Button
+								@click="showMapDialog = true"
+								icon="pi pi-map"
+								label="Show Map"
+								outlined
+								size="small"
+								:disabled="!visiblePermits.length"
+							/>
+						</div>
 					</div>
 				</div>
 			</template>
@@ -1450,6 +1486,12 @@ onBeforeUnmount(() => {
 						:title="versionDiffTitle('lastUpdated', permit, previousPermit)"
 					>
 						{{ formatDate(permit.lastUpdated) }}
+					</div>
+				</div>
+				<div class="col-2 field" v-if="permit.storeys != null">
+					<label>Storeys</label>
+					<div class="font-bold">
+						{{ permit.storeys }}
 					</div>
 				</div>
 			</div>
