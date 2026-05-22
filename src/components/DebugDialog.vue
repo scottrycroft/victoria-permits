@@ -1,7 +1,10 @@
 <script setup lang="ts">
 import { db } from "@/db";
-import type { DocumentEntity, AddressLocation, FavouritePermit, PermitsEntityDB } from "@/types/Permits";
+import type { DocumentEntity, AddressLocation, FavouritePermit, MinorPermit, MajorPermit, PermitsEntityDB } from "@/types/Permits";
 import { favouritesService } from "@/favourites";
+import { minorPermitsService } from "@/minorPermits";
+import { majorPermitsService } from "@/majorPermits";
+import type { PermitFlagService } from "@/permitFlagService";
 import Button from "primevue/button";
 import Dialog from "primevue/dialog";
 import Select from "primevue/select";
@@ -270,6 +273,32 @@ async function requestPersistentStorage() {
 			life: 5000
 		});
 	}
+}
+
+async function downloadPermitFlag(service: PermitFlagService, label: string, filename: string) {
+	const permits = await service.exportAll();
+	const dataStr =
+		"data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(permits, null, 2));
+	const downloadAnchorNode = document.createElement("a");
+	downloadAnchorNode.setAttribute("href", dataStr);
+	downloadAnchorNode.setAttribute("download", filename);
+	document.body.appendChild(downloadAnchorNode); // required for firefox
+	downloadAnchorNode.click();
+	downloadAnchorNode.remove();
+	toast.add({
+		severity: "success",
+		summary: "Download Started",
+		detail: `${label} download started (${permits.length} permits).`,
+		life: 3000
+	});
+}
+
+function downloadMinorPermits() {
+	downloadPermitFlag(minorPermitsService, "Minor permits", "minorPermits.json");
+}
+
+function downloadMajorPermits() {
+	downloadPermitFlag(majorPermitsService, "Major permits", "majorPermits.json");
 }
 
 async function downloadFavourites() {
@@ -549,6 +578,18 @@ onUnmounted(() => {});
 				label="Export Favourites"
 				@click="downloadFavourites"
 				severity="warning"
+			/>
+			<Button
+				icon="pi pi-download"
+				label="Export Minor Permits"
+				@click="downloadMinorPermits"
+				severity="info"
+			/>
+			<Button
+				icon="pi pi-download"
+				label="Export Major Permits"
+				@click="downloadMajorPermits"
+				severity="primary"
 			/>
 			<Button icon="pi pi-file-search" label="Search Docs by Name" @click="searchDocsByName" />
 			<Button icon="pi pi-upload" label="Import Viewed Docs" @click="importViewedDocs" />

@@ -94,3 +94,13 @@ export interface FavouritePermit {
 	city: string;
 	folderNumber: string;
 }
+
+export interface MinorPermit {
+	city: string;
+	folderNumber: string;
+}
+
+export interface MajorPermit {
+	city: string;
+	folderNumber: string;
+}

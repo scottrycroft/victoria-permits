@@ -25,6 +25,8 @@ import MapDialog from "./MapDialog.vue";
 import PermitId from "./PermitId.vue";
 import { geocodingService } from "@/geocoding";
 import { favouritesService } from "@/favourites";
+import { minorPermitsService } from "@/minorPermits";
+import { majorPermitsService } from "@/majorPermits";
 
 import type {
 	DocumentEntity,
@@ -186,6 +188,10 @@ function getApplicationTypes(permitApplications: PermitsEntity[]): string[] {
 }
 
 const permitMap = ref(createPermitMap(permitsList));
+
+// Initialize minor/major permits services — applies DB overrides to in-memory permit objects
+minorPermitsService.initialize(permitMap.value);
+majorPermitsService.initialize(permitMap.value);
 
 const relatedPermits = ref(createRelatedPermits(permitsList));
 
@@ -378,23 +384,6 @@ const dateFilterModeOptions = [
 	{ label: "After", value: "customUnixDateIsAfterFilter" }
 ];
 
-/**
- * Filters permits by an optional boolean field.
- * When filterValue is null, all permits pass through (no filtering).
- * When filterValue is true, only permits where the field is true are included.
- * When filterValue is false, only permits where the field is not true are included.
- */
-function filterByOptionalBoolean(
-	permits: PermitsEntity[],
-	filterValue: boolean | null,
-	field: "minor" | "major"
-): PermitsEntity[] {
-	if (filterValue === null) return permits;
-	return permits.filter((permit) =>
-		filterValue ? permit[field] === true : permit[field] !== true
-	);
-}
-
 const filteredPermitApplications = computed(() => {
 let filtered = permitApplications.value;
 
@@ -403,9 +392,18 @@ if (showOnlyFavourites.value) {
 	filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
 }
 
-// Filter by boolean flags (minor, major)
-filtered = filterByOptionalBoolean(filtered, showOnlyMinor.value, "minor");
-filtered = filterByOptionalBoolean(filtered, showOnlyMajor.value, "major");
+// Filter by minor flag (permit.minor is set by data-source or user override via PermitFlagService)
+if (showOnlyMinor.value !== null) {
+	filtered = filtered.filter((permit) =>
+		showOnlyMinor.value ? permit.minor === true : permit.minor !== true
+	);
+}
+// Filter by major flag (permit.major is set by data-source or user override via PermitFlagService)
+if (showOnlyMajor.value !== null) {
+	filtered = filtered.filter((permit) =>
+		showOnlyMajor.value ? permit.major === true : permit.major !== true
+	);
+}
 
 // Filter by approval status if enabled
 if (showOnlyApprovalStatus.value !== null) {
@@ -990,6 +988,32 @@ async function toggleFavourite() {
 	});
 }
 
+async function toggleMinor() {
+	if (!permit.value) return;
+
+	const newStatus = await minorPermitsService.togglePermit(permit.value);
+
+	toast.add({
+		severity: newStatus ? "info" : "secondary",
+		summary: newStatus ? "Set to Minor" : "Removed Minor Status",
+		detail: `${permit.value.folderNumber} ${newStatus ? "marked as" : "unmarked from"} minor`,
+		life: 2000
+	});
+}
+
+async function toggleMajor() {
+	if (!permit.value) return;
+
+	const newStatus = await majorPermitsService.togglePermit(permit.value);
+
+	toast.add({
+		severity: newStatus ? "primary" : "secondary",
+		summary: newStatus ? "Set to Major" : "Removed Major Status",
+		detail: `${permit.value.folderNumber} ${newStatus ? "marked as" : "unmarked from"} major`,
+		life: 2000
+	});
+}
+
 function openDebugDialog() {
 	showDebugDialog.value = true;
 }
@@ -1375,6 +1399,24 @@ onBeforeUnmount(() => {
 						@click="markViewed"
 						size="small"
 						severity="success"
+					/>
+					<Button
+						v-if="!permit.major && (!permit.minor || minorPermitsService.isUserOverride(permit))"
+						:label="permit.minor ? 'Unset Minor' : 'Set to Minor'"
+						:icon="permit.minor ? 'pi pi-minus-circle' : 'pi pi-arrow-down'"
+						@click="toggleMinor"
+						size="small"
+						:severity="permit.minor ? 'info' : 'secondary'"
+						outlined
+					/>
+					<Button
+						v-if="!permit.major || majorPermitsService.isUserOverride(permit)"
+						:label="permit.major ? 'Unset Major' : 'Set to Major'"
+						:icon="permit.major ? 'pi pi-minus-circle' : 'pi pi-bolt'"
+						@click="toggleMajor"
+						size="small"
+						:severity="permit.major ? 'primary' : 'secondary'"
+						outlined
 					/>
 					<Tag v-if="permit.minor" value="Minor" severity="info" />
 					<Tag v-if="permit.major" value="Major" severity="primary" />

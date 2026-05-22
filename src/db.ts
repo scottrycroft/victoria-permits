@@ -6,7 +6,9 @@ import {
 	type PermitsEntityDB,
 	type ViewedPermitInfoDB,
 	type AddressLocation,
-	type FavouritePermit
+	type FavouritePermit,
+	type MinorPermit,
+	type MajorPermit
 } from "./types/Permits";
 
 export class PermitsDB extends Dexie {
@@ -21,6 +23,10 @@ export class PermitsDB extends Dexie {
 	addressLocations!: Table<AddressLocation>;
 
 	favouritePermits!: Table<FavouritePermit>;
+
+	minorPermits!: Table<MinorPermit>;
+
+	majorPermits!: Table<MajorPermit>;
 
 	constructor() {
 		super("permits");
@@ -46,6 +52,15 @@ export class PermitsDB extends Dexie {
 			for (const doc of clickedDocs2Data) {
 				await clickedDocsTable.put(doc);
 			}
+		});
+		this.version(22).stores({
+			lastSeenPermits: "++id, [city+folderNumber], [dbVersion+city+folderNumber]",
+			todaysViewedPermits: "[city+folderNumber], lastViewedDate",
+			clickedDocs: "[city+permitID+docName]",
+			addressLocations: "++id, &address",
+			favouritePermits: "[city+folderNumber]",
+			minorPermits: "[city+folderNumber]",
+			majorPermits: "[city+folderNumber]"
 		});
 	}
 }
