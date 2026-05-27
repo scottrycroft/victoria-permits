@@ -53,7 +53,7 @@ import Toast from "primevue/toast";
 
 import { db } from "@/db";
 
-import { getFormattedDate, displayFolderNumber } from "@/utils";
+import { APP_TITLE, getFormattedDate, displayFolderNumber } from "@/utils";
 import { Select } from "primevue";
 import DatePicker from "primevue/datepicker";
 import DebugDialog from "./DebugDialog.vue";
@@ -512,6 +512,7 @@ const viewPermit = async (permitData: PermitsEntity) => {
 	permitDialogVisible.value = true;
 	isPermitFavourite.value = favouritesService.isPermitFavourite(permitData);
 	showDeletedItems.value = false;
+	document.title = `${APP_TITLE} - ${permitData.city} - ${displayFolderNumber(permitData.city, permitData.folderNumber)}`;
 	await saveLastViewedPermit(cloneObj(permitData));
 	previousPermit.value = await getPreviousPermit(permitData);
 
@@ -541,6 +542,7 @@ async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEnti
 }
 
 function onDialogHide() {
+	document.title = APP_TITLE;
 	router.push({ name: "home" });
 }
 

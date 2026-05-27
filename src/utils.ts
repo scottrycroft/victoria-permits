@@ -1,3 +1,5 @@
+const APP_TITLE: string = import.meta.env.VITE_APP_TITLE;
+
 function getFormattedDate(date: Date | number): string {
 	if (typeof date === "number") {
 		date = date * 1000;
@@ -16,4 +18,4 @@ function displayFolderNumber(city: string, folderNumber: string): string {
 	return folderNumber;
 }
 
-export { getFormattedDate, displayFolderNumber };
+export { APP_TITLE, getFormattedDate, displayFolderNumber };
