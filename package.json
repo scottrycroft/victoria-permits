@@ -10,33 +10,41 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-    "format": "prettier --write src/"
+    "format": "prettier --write src/",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "dependencies": {
+    "@primevue/themes": "^4.3.7",
     "dexie": "^4.0.11",
     "p-debounce": "^5.0.0",
     "primeflex": "^4.0.0",
     "primeicons": "^7.0.0",
     "primevue": "^4.3.7",
     "vue": "^3.5.18",
-    "vue-router": "^4.5.1",
-    "@primevue/themes": "^4.3.7"
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.12.0",
     "@tsconfig/node18": "^18.2.4",
     "@types/google.maps": "^3.58.1",
     "@types/node": "^24.2.1",
-    "@vitejs/plugin-vue": "^5.2.0",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "@vitest/utils": "^2.1.0",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/eslint-config-typescript": "^14.6.0",
+    "@vue/test-utils": "^2.4.10",
     "@vue/tsconfig": "^0.8.1",
     "eslint": "^9.37.0",
     "eslint-plugin-vue": "^9.11.0",
+    "fake-indexeddb": "^6.2.5",
+    "happy-dom": "^20.9.0",
+    "jsdom": "^27.0.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.6.2",
     "typescript": "^5.9.2",
     "vite": "^6.3.6",
+    "vitest": "^2.1.8",
     "vue-tsc": "^3.0.5"
   }
 }

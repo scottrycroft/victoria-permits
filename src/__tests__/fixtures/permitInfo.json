@@ -1,0 +1,221 @@
+{
+	"dateRetrieved": 1693526400,
+	"permits": [
+		{
+			"primaryStreetName": "123 MAIN ST",
+			"applicant": "John Builder",
+			"applicationType": "Building Permit",
+			"cityApplicationType": "BUILDING PERMIT - NEW CONSTRUCTION",
+			"folderNumber": "BP-00100",
+			"applicationDate": 1672531200,
+			"addresses": ["123 MAIN ST", "125 MAIN ST"],
+			"status": "Under Review",
+			"purpose": "Construct a new 3-storey mixed-use building with ground floor commercial and 6 residential units above.",
+			"progressSections": [
+				{
+					"taskDescription": "Application received",
+					"taskType": "APPLICATION",
+					"startDate": 1672531200,
+					"endDate": 1672531200
+				},
+				{
+					"taskDescription": "Zoning review complete",
+					"taskType": "ZONING REVIEW",
+					"startDate": 1672617600,
+					"endDate": 1673222400
+				},
+				{
+					"taskDescription": "Engineering review",
+					"taskType": "ENGINEERING",
+					"startDate": 1673222400,
+					"endDate": null
+				}
+			],
+			"documents": [
+				{ "docName": "Site Plan", "docURL": "https://example.com/docs/siteplan.pdf" },
+				{ "docName": "Elevation Drawings", "docURL": "https://example.com/docs/elevations.pdf" },
+				{ "docName": "Landscape Plan", "docURL": "https://example.com/docs/landscape.pdf" }
+			],
+			"lastUpdated": 1675209600,
+			"city": "Victoria",
+			"minor": false,
+			"major": true,
+			"approvalStatus": "Approved",
+			"relatedPermits": [
+				{
+					"relatedPermitID": "DP-00200",
+					"relatedPermitType": "Development Permit",
+					"relatedPermitApplicationDate": 1672444800,
+					"relatedPermitStatus": "Approved",
+					"relatedPermitDescription": "Development permit for mixed-use building"
+				}
+			],
+			"latitude": 48.4284,
+			"longitude": -123.3656,
+			"storeys": 3
+		},
+		{
+			"primaryStreetName": "456 OAK AVE",
+			"applicant": "Jane Developer",
+			"applicationType": "Development Permit",
+			"cityApplicationType": "DEVELOPMENT PERMIT",
+			"folderNumber": "DPR01050",
+			"applicationDate": 1675209600,
+			"addresses": ["456 OAK AVE"],
+			"status": "Active",
+			"purpose": "Development permit for a 6-storey residential apartment building with 48 units and underground parking.",
+			"progressSections": [
+				{
+					"taskDescription": "Application submitted",
+					"taskType": "APPLICATION",
+					"startDate": 1675209600,
+					"endDate": 1675209600
+				},
+				{
+					"taskDescription": "Public hearing scheduled",
+					"taskType": "PUBLIC HEARING",
+					"startDate": 1677628800,
+					"endDate": 1677628800
+				}
+			],
+			"documents": [
+				{ "docName": "Application Form", "docURL": "https://example.com/docs/app-form.pdf" },
+				{ "docName": "Traffic Impact Study", "docURL": "https://example.com/docs/traffic.pdf" }
+			],
+			"lastUpdated": 1677628800,
+			"city": "Saanich",
+			"minor": false,
+			"major": true,
+			"storeys": 6,
+			"relatedPermits": []
+		},
+		{
+			"primaryStreetName": "789 BEACH DR",
+			"applicant": "Coastal Homes Ltd",
+			"applicationType": "Rezoning",
+			"folderNumber": "REZ-00050",
+			"applicationDate": 1680307200,
+			"addresses": ["789 BEACH DR", "791 BEACH DR", "793 BEACH DR"],
+			"status": "Pending",
+			"purpose": "Rezoning from single-family to multi-family to allow construction of townhouses.",
+			"progressSections": [
+				{
+					"taskDescription": "Rezoning application received",
+					"taskType": "APPLICATION",
+					"startDate": 1680307200,
+					"endDate": 1680307200
+				}
+			],
+			"documents": [],
+			"lastUpdated": 1680307200,
+			"city": "Oak Bay",
+			"minor": true,
+			"major": false,
+			"approvalStatus": "Rejected"
+		},
+		{
+			"primaryStreetName": "1000 KEATING CROSS RD",
+			"applicant": "",
+			"applicationType": "Building Permit",
+			"folderNumber": "BP-22-0100",
+			"applicationDate": null,
+			"addresses": ["1000 KEATING CROSS RD"],
+			"status": "Completed",
+			"purpose": "Interior renovation of existing commercial space.",
+			"progressSections": [],
+			"documents": [{ "docName": "", "docURL": "https://example.com/docs/unnamed-doc.pdf" }],
+			"lastUpdated": null,
+			"city": "Central Saanich",
+			"minor": true,
+			"approvalStatus": "Superseded"
+		},
+		{
+			"primaryStreetName": "2500 SOOKE RD",
+			"applicant": "West Shore Builders",
+			"applicationType": "Development Permit",
+			"cityApplicationType": "DEVELOPMENT PERMIT - COMMERCIAL",
+			"folderNumber": "DP-2023-001",
+			"applicationDate": 1682899200,
+			"addresses": ["2500 SOOKE RD"],
+			"status": "Under Review",
+			"purpose": "New commercial development with retail and office space.",
+			"progressSections": [
+				{
+					"taskDescription": "Application received",
+					"taskType": "APPLICATION",
+					"startDate": 1682899200,
+					"endDate": 1682899200
+				},
+				{
+					"taskDescription": "Staff report prepared",
+					"taskType": "STAFF REPORT",
+					"startDate": 1685577600,
+					"endDate": 1685577600
+				}
+			],
+			"documents": [
+				{ "docName": "Staff Report", "docURL": "https://example.com/docs/staff-report.pdf" }
+			],
+			"lastUpdated": 1685577600,
+			"city": "Colwood"
+		},
+		{
+			"primaryStreetName": "3000 NO 3 RD",
+			"applicant": "Richmond Developments Inc",
+			"applicationType": "Building Permit",
+			"folderNumber": "BLD-2023-00500",
+			"applicationDate": 1688169600,
+			"addresses": ["3000 NO 3 RD"],
+			"status": "Active",
+			"purpose": "Construction of a 12-storey residential tower with 120 units.",
+			"progressSections": [
+				{
+					"taskDescription": "Permit issued",
+					"taskType": "PERMIT ISSUED",
+					"startDate": 1688169600,
+					"endDate": 1690848000
+				}
+			],
+			"documents": [
+				{ "docName": "Building Plans", "docURL": "https://example.com/docs/building-plans.pdf" },
+				{ "docName": "Structural Report", "docURL": "https://example.com/docs/structural.pdf" }
+			],
+			"lastUpdated": 1690848000,
+			"city": "Richmond",
+			"storeys": 12,
+			"major": true
+		},
+		{
+			"primaryStreetName": "123 MAIN ST",
+			"applicant": "John Builder",
+			"applicationType": "Development Permit",
+			"folderNumber": "DP-00200",
+			"applicationDate": 1672444800,
+			"addresses": ["123 MAIN ST"],
+			"status": "Approved",
+			"purpose": "Development permit for mixed-use building at 123 Main St.",
+			"progressSections": [
+				{
+					"taskDescription": "Approved by council",
+					"taskType": "COUNCIL APPROVAL",
+					"startDate": 1672444800,
+					"endDate": 1674864000
+				}
+			],
+			"documents": [
+				{
+					"docName": "Council Minutes",
+					"docURL": "https://example.com/docs/council-minutes.pdf"
+				}
+			],
+			"lastUpdated": 1674864000,
+			"city": "Victoria",
+			"approvalStatus": "Approved"
+		}
+	],
+	"permitUrls": {
+		"Richmond": {
+			"BLD": "https://richmond.ca/permits"
+		}
+	}
+}
