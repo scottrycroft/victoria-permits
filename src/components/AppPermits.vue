@@ -1637,26 +1637,32 @@ onBeforeUnmount(() => {
 					<div>
 						<DataTable stripedRows :value="permit.relatedPermits" :rowClass="relatedPermitRowClass">
 							<Column field="relatedPermitID" header="ID" style="width: 15em">
-								<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
-									<router-link
-										v-if="permitExistByID(permit.city, relatedPermitID) === 'exists'"
-										:to="{
-											name: 'view_permit',
-											params: { city: permit.city, permitID: relatedPermitID }
-										}"
-									>
-										<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
-									</router-link>
-									<a
-										v-else-if="permitExistByID(permit.city, relatedPermitID) === 'related'"
-										target="_blank"
-										:href="getPermitApplicationLinkByID(permit.city, relatedPermitID, permit)"
-									>
-										<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
-									</a>
-									<PermitId v-else :city="permit.city" :folderNumber="relatedPermitID" />
-								</template>
-							</Column>
+									<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
+										<i
+											v-if="getApplicationByID(permit.city, relatedPermitID)?.major"
+											class="pi pi-bolt"
+											style="color: var(--p-blue-500); font-size: 1.1rem; margin-right: 0.35rem; vertical-align: middle"
+											title="Major"
+										></i>
+										<router-link
+											v-if="permitExistByID(permit.city, relatedPermitID) === 'exists'"
+											:to="{
+												name: 'view_permit',
+												params: { city: permit.city, permitID: relatedPermitID }
+											}"
+										>
+											<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
+										</router-link>
+										<a
+											v-else-if="permitExistByID(permit.city, relatedPermitID) === 'related'"
+											target="_blank"
+											:href="getPermitApplicationLinkByID(permit.city, relatedPermitID, permit)"
+										>
+											<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
+										</a>
+										<PermitId v-else :city="permit.city" :folderNumber="relatedPermitID" />
+									</template>
+								</Column>
 							<Column header="Status" style="width: 20em">
 								<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
 									<span v-if="getApplicationByID(permit.city, relatedPermitID)">
