@@ -572,6 +572,7 @@ const addAddressMarker = async (
 					<div style="margin-bottom: 6px;">
 						<strong>Last Updated:</strong> ${lastUpdatedStr}
 					</div>
+					${permit.projectValue ? `<div style="margin-bottom: 6px;"><strong>Project Value:</strong> ${permit.projectValue}</div>` : ''}
 					<div style="margin-bottom: 6px;">
 						<strong>Purpose:</strong> <span style="white-space: pre-wrap;">${permit.purpose}</span>
 					</div>

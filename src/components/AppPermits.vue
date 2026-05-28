@@ -1386,7 +1386,9 @@ onBeforeUnmount(() => {
 		>
 			<template #header>
 				<div class="flex align-items-center gap-3">
-					<span class="font-bold text-xl">Permit Details</span>
+					<span class="font-bold text-xl">Permit Details - <a :href="getPermitApplicationLink(permit)" target="_blank">
+							<PermitId :permit="permit" />
+						</a></span>
 					<Button
 						:label="isPermitFavourite ? 'Unfavourite' : 'Favourite'"
 						:icon="isPermitFavourite ? 'pi pi-star-fill' : 'pi pi-star'"
@@ -1470,14 +1472,6 @@ onBeforeUnmount(() => {
 					</div>
 				</div>
 				<div class="col-2 field">
-					<label>Permit Identifier</label>
-					<div class="font-bold">
-						<a :href="getPermitApplicationLink(permit)" target="_blank">
-							<PermitId :permit="permit" />
-						</a>
-					</div>
-				</div>
-				<div class="col-2 field">
 					<label>Application Date</label>
 					<div
 						class="font-bold"
@@ -1485,6 +1479,16 @@ onBeforeUnmount(() => {
 						:title="versionDiffTitle('applicationDate', permit, previousPermit)"
 					>
 						{{ formatDate(permit.applicationDate) }}
+					</div>
+				</div>
+				<div class="col-2 field">
+					<label>Last Updated</label>
+					<div
+						class="font-bold"
+						:class="versionDiffClass('lastUpdated', permit, previousPermit)"
+						:title="versionDiffTitle('lastUpdated', permit, previousPermit)"
+					>
+						{{ formatDate(permit.lastUpdated) }}
 					</div>
 				</div>
 			</div>
@@ -1522,20 +1526,16 @@ onBeforeUnmount(() => {
 					<label>With Applicant Days</label>
 					<div class="font-bold">{{ permit.withApplicantDays }}</div>
 				</div>
-				<div class="col-2 field">
-					<label>Last Updated</label>
-					<div
-						class="font-bold"
-						:class="versionDiffClass('lastUpdated', permit, previousPermit)"
-						:title="versionDiffTitle('lastUpdated', permit, previousPermit)"
-					>
-						{{ formatDate(permit.lastUpdated) }}
-					</div>
-				</div>
 				<div class="col-2 field" v-if="permit.storeys != null">
 					<label>Storeys</label>
 					<div class="font-bold">
 						{{ permit.storeys }}
+					</div>
+				</div>
+				<div class="col-2 field" v-if="permit.projectValue != null">
+					<label>Project Value</label>
+					<div class="font-bold">
+						{{ permit.projectValue }}
 					</div>
 				</div>
 			</div>

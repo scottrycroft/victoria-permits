@@ -23,6 +23,8 @@ export interface PermitsEntity {
 	latitude?: number;
 	longitude?: number;
 	storeys?: number;
+	/** Project or construction value in dollars, when provided by the city. */
+	projectValue?: string;
 }
 
 export interface PermitsInfo {
