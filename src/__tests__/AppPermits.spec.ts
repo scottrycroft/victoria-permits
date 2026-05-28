@@ -9,8 +9,6 @@
 import { describe, it, expect, vi, afterEach, beforeEach } from "vitest";
 import { mount, flushPromises, type VueWrapper } from "@vue/test-utils";
 import { createRouter, createWebHistory, type Router } from "vue-router";
-import PrimeVue from "primevue/config";
-import ToastService from "primevue/toastservice";
 
 // ── Mock p-debounce to be a passthrough (no debouncing in tests) ────
 vi.mock("p-debounce", () => ({
@@ -60,12 +58,7 @@ function createTestRouter(): Router {
 }
 
 const globalPluginsAndStubs = (router: Router) => ({
-	plugins: [router, [PrimeVue, { theme: "none" }], ToastService],
-	stubs: {
-		MapDialog: true,
-		DebugDialog: true,
-		Toast: true
-	}
+	plugins: [router]
 });
 
 async function mountAtHome() {
