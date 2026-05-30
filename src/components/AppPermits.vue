@@ -57,6 +57,7 @@ import { APP_TITLE, getFormattedDate, displayFolderNumber } from "@/utils";
 import { Select } from "primevue";
 import DatePicker from "primevue/datepicker";
 import DebugDialog from "./DebugDialog.vue";
+import RawJsonDialog from "./RawJsonDialog.vue";
 
 const route = useRoute();
 const router = useRouter();
@@ -378,6 +379,7 @@ const storeysFilterMode = ref<string>("gte");
 const storeysFilterValue = ref<number | null>(null);
 const showMapDialog = ref(false);
 const showDebugDialog = ref(false);
+const showRawJsonDialog = ref(false);
 const dateFilterModeOptions = [
 	{ label: "Equals", value: "customUnixDateIsFilter" },
 	{ label: "Before", value: "customUnixDateIsBeforeFilter" },
@@ -1436,6 +1438,14 @@ onBeforeUnmount(() => {
 						severity="danger"
 						outlined
 					/>
+					<Button
+						label="Raw JSON"
+						icon="pi pi-code"
+						@click="showRawJsonDialog = true"
+						size="small"
+						severity="secondary"
+						outlined
+					/>
 				</div>
 			</template>
 			<div class="grid">
@@ -1685,6 +1695,11 @@ onBeforeUnmount(() => {
 			@permit-folder-clicked="onPermitFolderClicked"
 		/>
 		<DebugDialog v-model:visible="showDebugDialog" v-model:showOnlyMinor="showOnlyMinor" />
+		<RawJsonDialog
+			v-model:visible="showRawJsonDialog"
+			:current="permit"
+			:previous="previousPermit"
+		/>
 
 		<Toast
 			class="w-9"
