@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx vue-tsc *)"
+      "Bash(npx vue-tsc *)",
+      "Bash(npm ls *)",
+      "PowerShell(npm run test 2>&1)"
     ]
   }
 }

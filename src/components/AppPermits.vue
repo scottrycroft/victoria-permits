@@ -527,7 +527,7 @@ const viewPermit = async (permitData: PermitsEntity) => {
 	});
 };
 
-async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEntity> {
+async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEntity | null> {
 	const result = await db.lastSeenPermits
 		.where({
 			dbVersion: "previous",
@@ -535,12 +535,7 @@ async function getPreviousPermit(permitData: PermitsEntity): Promise<PermitsEnti
 			folderNumber: permitData.folderNumber
 		})
 		.toArray();
-	const prevPermit = result[0];
-	if (!prevPermit) {
-		// Always have a previous version, even if it's the exact same
-		return permitData;
-	}
-	return prevPermit;
+	return result[0] ?? null;
 }
 
 function onDialogHide() {
@@ -748,8 +743,9 @@ function showNoPAToast() {
 function versionDiffClass(
 	property: keyof PermitsEntityDB,
 	permit: PermitsEntityDB,
-	previousPermit: PermitsEntityDB
+	previousPermit: PermitsEntityDB | null
 ): Array<String | null> {
+	if (!previousPermit) return [];
 	return [permit[property] !== previousPermit[property] ? "permitDataChanged" : null];
 }
 
@@ -757,7 +753,7 @@ function documentLinkClass(
 	document: DocumentsEntity,
 	index: number,
 	permit: PermitsEntityDB,
-	previousPermit: PermitsEntityDB
+	previousPermit: PermitsEntityDB | null
 ): Array<String | null> {
 	const docLinkClasses = versionDiffDocumentClass(index, permit, previousPermit);
 	const clickedDocEntity: DocumentEntity = {
@@ -797,8 +793,9 @@ function getDocNameFromURL(docURL: string): string {
 function versionDiffDocumentClass(
 	index: number,
 	permit: PermitsEntityDB,
-	previousPermit: PermitsEntityDB
+	previousPermit: PermitsEntityDB | null
 ): string[] {
+	if (!previousPermit) return [];
 	const permitDoc = permit.documents[index];
 	if (!permitDoc) {
 		return ["permitDataNew"];
@@ -817,8 +814,9 @@ function versionDiffDocumentClass(
 function versionDiffAddressClass(
 	index: number,
 	permit: PermitsEntityDB,
-	previousPermit: PermitsEntityDB
+	previousPermit: PermitsEntityDB | null
 ): Array<String | null> {
+	if (!previousPermit) return [];
 	if (index >= previousPermit.addresses.length) {
 		return ["permitDataNew"];
 	}
@@ -832,14 +830,13 @@ function versionDiffProgressClass(
 	index: number,
 	property: keyof ProgressSectionsEntity,
 	permit: PermitsEntityDB,
-	previousPermit: PermitsEntityDB
+	previousPermit: PermitsEntityDB | null
 ): Array<String | null> {
+	if (!previousPermit) return [];
 	if (index >= permit.progressSections.length) {
-		// Deleted row appended at end — styling handled by row class
 		return [];
 	}
 	if (index >= previousPermit.progressSections.length) {
-		// The whole progress row will be styled differently if it's new
 		return [];
 	}
 	const permitProgressVal = permit.progressSections[index]?.[property];
@@ -851,14 +848,13 @@ function versionDiffProgressTitle(
 	index: number,
 	property: keyof ProgressSectionsEntity,
 	permit: PermitsEntityDB,
-	previousPermit: PermitsEntityDB
+	previousPermit: PermitsEntityDB | null
 ): string | undefined {
+	if (!previousPermit) return undefined;
 	if (index >= permit.progressSections.length) {
-		// Deleted row appended at end — no tooltip needed
 		return undefined;
 	}
 	if (index >= previousPermit.progressSections.length) {
-		// The whole progress row will be styled differently if it's new
 		return undefined;
 	}
 	const val = permit.progressSections[index]?.[property];
@@ -879,8 +875,9 @@ function diffTitleString(val: any): string {
 function versionDiffTitle(
 	property: keyof PermitsEntityDB,
 	permit: PermitsEntityDB,
-	previousPermit: PermitsEntityDB
+	previousPermit: PermitsEntityDB | null
 ): string | undefined {
+	if (!previousPermit) return undefined;
 	if (permit[property] !== previousPermit[property]) {
 		const prevVal = previousPermit[property];
 		return diffTitleString(prevVal);
@@ -1378,7 +1375,7 @@ onBeforeUnmount(() => {
 		</DataTable>
 
 		<Dialog
-			v-if="permit && previousPermit"
+			v-if="permit"
 			@after-hide="onDialogHide"
 			v-model:visible="permitDialogVisible"
 			:dismissableMask="true"
