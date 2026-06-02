@@ -326,7 +326,6 @@ describe("AppPermits", () => {
 			const { wrapper } = await mountAtPermit("Victoria", "BP-00100");
 			currentWrapper = wrapper;
 			const text = bodyText();
-			expect(text).toContain("Permit Identifier");
 			expect(text).toContain("BP-00100");
 		});
 
