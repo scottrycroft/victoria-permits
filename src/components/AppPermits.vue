@@ -1385,9 +1385,7 @@ onBeforeUnmount(() => {
 		>
 			<template #header>
 				<div class="flex align-items-center gap-3">
-					<span class="font-bold text-xl">Permit Details - <a :href="getPermitApplicationLink(permit)" target="_blank">
-							<PermitId :permit="permit" />
-						</a></span>
+					<span class="font-bold text-xl">Permit Details - <a :href="getPermitApplicationLink(permit)" target="_blank"> <PermitId :permit="permit" /> </a></span>
 					<Button
 						:label="isPermitFavourite ? 'Unfavourite' : 'Favourite'"
 						:icon="isPermitFavourite ? 'pi pi-star-fill' : 'pi pi-star'"
@@ -1610,6 +1608,7 @@ onBeforeUnmount(() => {
 							<Column field="taskDescription" header="Description">
 								<template #body="{ data, index }">
 									<span
+										style="white-space: pre-wrap"
 										:class="
 											versionDiffProgressClass(index, 'taskDescription', permit, previousPermit)
 										"
