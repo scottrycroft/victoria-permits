@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1784804006,
+  "dateRetrieved": 1784889974,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4743,7 +4743,7 @@
         {
           "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": 1783926000,
+          "startDate": 1786345200,
           "endDate": null
         },
         {
@@ -4764,7 +4764,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1784717606,
+      "lastUpdated": 1784889978,
       "relatedPermits": []
     },
     {
@@ -6863,7 +6863,7 @@
         {
           "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
-          "startDate": null,
+          "startDate": 1784790000,
           "endDate": null
         },
         {
@@ -6899,7 +6899,62 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1784012400,
+      "lastUpdated": 1784889978,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "8025 ARTHUR DR",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "PL002005",
+      "applicationDate": 1784098800,
+      "addresses": [
+        "8025 ARTHUR DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The District has received an application to construct a second residential structure on the property to include a single dwelling unit.",
+      "progressSections": [
+        {
+          "taskDescription": "",
+          "taskType": "UNDER REVIEW BY DISTRICT",
+          "startDate": 1784790000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicable with variance",
+          "taskType": "REFERRAL TO APC",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Central Saanich",
+      "lastUpdated": 1784790000,
       "relatedPermits": []
     },
     {
@@ -8688,14 +8743,9 @@
           "endDate": null
         }
       ],
-      "documents": [
-        {
-          "docName": "Architectural Plans",
-          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=73269C251106154108118753&folderId=17744C231116133709423465"
-        }
-      ],
+      "documents": [],
       "city": "Colwood",
-      "lastUpdated": 1783508032,
+      "lastUpdated": 1784889978,
       "relatedPermits": [],
       "major": true
     },
@@ -11038,8 +11088,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020716",
           "relatedPermitType": "Development Permit"
@@ -11050,14 +11108,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11109,8 +11159,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11121,14 +11179,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11180,8 +11230,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11192,14 +11250,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11251,8 +11301,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11263,14 +11321,6 @@
         },
         {
           "relatedPermitID": "BP020717",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11322,8 +11372,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11338,14 +11396,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11393,8 +11443,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11409,14 +11467,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11464,8 +11514,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11480,14 +11538,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11535,8 +11585,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11551,14 +11609,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11606,8 +11656,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11622,14 +11680,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11677,8 +11727,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11693,14 +11751,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11748,8 +11798,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11764,14 +11822,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11819,8 +11869,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020738",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11835,10 +11889,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020738",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -11890,8 +11940,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784890162,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP020737",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP020705",
           "relatedPermitType": "Development Permit"
@@ -11906,10 +11960,6 @@
         },
         {
           "relatedPermitID": "BP020718",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP020737",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -20354,6 +20404,28 @@
       "relatedPermits": [],
       "latitude": 49.086981,
       "longitude": -123.075472
+    },
+    {
+      "primaryStreetName": "11129 FULLER CRES N",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023196",
+      "applicationDate": 1784890162,
+      "addresses": [
+        "11129 FULLER CRES N"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1784890162,
+      "relatedPermits": [],
+      "latitude": 49.154034,
+      "longitude": -122.914382
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -90272,7 +90344,7 @@
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
-          "startDate": null,
+          "startDate": 1785135600,
           "endDate": null
         },
         {
@@ -90309,7 +90381,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1784804009,
+      "lastUpdated": 1784889978,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00199",
@@ -102021,13 +102093,13 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1783594469,
+      "lastUpdated": 1784889978,
       "relatedPermits": [
         {
           "relatedPermitID": "DPA01101",
           "relatedPermitType": "DEVELOPMENT PERMIT AMENDMENT",
           "relatedPermitApplicationDate": 1761638400,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "TO AMEND DPR00740 TO INCREASE RESIDENTIAL UNITS, PARKING SPACES, AND MINOR CHANGES TO BUILDING'S EXTERIOR."
         },
         {
@@ -116442,7 +116514,13 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1783407600,
-          "endDate": null
+          "endDate": 1784790000
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1784790000,
+          "endDate": 1784790000
         }
       ],
       "documents": [
@@ -116456,7 +116534,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1783508032,
+      "lastUpdated": 1784889978,
       "relatedPermits": [],
       "minor": true
     },
@@ -123997,7 +124075,7 @@
         "4112 CAREY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE PANAMA FLATS, PANAMA HILL PARK AND COLQUITZ PARK FROM P-4N, P5 AND A-1 TO A COMBINATION OF P-4N AND P-5 TO SUPPORT NATURE SANCTUARY AND NATURE CENTRE USES.",
+      "purpose": "TO REZONE PANAMA FLATS, PANAMA HILL PARK AND COLQUITZ PARK FROM P-4N, P4 AND A-1 TO A COMBINATION OF P-4N AND P-5 TO SUPPORT NATURE SANCTUARY AND NATURE CENTRE USES.",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -124033,7 +124111,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1782471198,
+      "lastUpdated": 1784889978,
       "relatedPermits": []
     },
     {
@@ -140709,7 +140787,7 @@
         "218 W 5TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a two-story Miscellaneous Products Manufacturing- Class B building  with F3 use  shell building providing a total of one parking space and one loading Class B space having vehicular access from the street.\n\nAddressing Note:\n218 W 5th Av - Manufacturing (1st Storey)\n#200 - Office (2nd Storey)\n\nBuilding Review Branch Note:\n1.0.Application is reviewed under VBBL 2019.\n2.0. Building is to be sprinklered to NFPA 13 standards.\n3.0. Building is reviewed for F3 use and any other use during the TI permit requires full review of the building with regard to spatial and sprinklering requirements.\n\nBuilding Revision #1 - Issued on Feb 10, 2026\n1. Floor plan layout changes \n2. Window location and sizes change\n3. Revise exterior wall assemblies \n4. Revise roof assembly\n5. Added addition of three skylight on south side\n6. Relocated Storm/Sanitary/Water connections (refer to SW-2023-00207)\nProject Value: $750,000.00\nProperty Use: Manufacturing Uses\nSpecific Use: Not Applicable\nNeighbourhood: Mount Pleasant\nContractor: Trillium Project Management Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a two-story Miscellaneous Products Manufacturing- Class B building  with F3 use  shell building providing a total of one parking space and one loading Class B space having vehicular access from the street.\n\nAddressing Note:\n218 W 5th Av - Manufacturing (1st Storey)\n#200 - Office (2nd Storey)\n\nBuilding Review Branch Note:\n1.0.Application is reviewed under VBBL 2019.\n2.0. Building is to be sprinklered to NFPA 13 standards.\n3.0. Building is reviewed for F3 use and any other use during the TI permit requires full review of the building with regard to spatial and sprinklering requirements.\n\nBuilding Revision #1 - Issued on Feb 10, 2026\n1. Floor plan layout changes \n2. Window location and sizes change\n3. Revise exterior wall assemblies \n4. Revise roof assembly\n5. Added addition of three skylight on south side\n6. Relocated Storm/Sanitary/Water connections (refer to SW-2023-00207)\n\n\nBuilding Revision #2 - In Review (July 22, 2026)\n1. Change of use and major occupancy from Group F3 (industrial) to Group D (Office). \n2. Remove one washroom on second floor. \n3. Revise main floor entrance door to parking/recycle from swing in to swing out and swing direction. \n4. Revise proposed occupant load from 32 pl to 16 pl.\nProject Value: $750,000.00\nProperty Use: Manufacturing Uses\nSpecific Use: Not Applicable\nNeighbourhood: Mount Pleasant\nContractor: Trillium Project Management Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -140728,7 +140806,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1760054400,
+      "lastUpdated": 1784890169,
       "relatedPermits": [],
       "projectValue": 750000,
       "latitude": 49.266549,
@@ -146454,7 +146532,7 @@
     },
     {
       "primaryStreetName": "3120 W 11TH AVENUE",
-      "applicant": "Wilmer Lau DBA: Tomo Spaces (Alpha) Inc.",
+      "applicant": "Wilmer Lau",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2024-04789",
@@ -146482,7 +146560,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1744243200,
+      "lastUpdated": 1784890169,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-04790",
@@ -146498,7 +146576,7 @@
     },
     {
       "primaryStreetName": "3122 W 11TH AVENUE",
-      "applicant": "Wilmer Lau DBA: Tomo Spaces (Alpha) Inc.",
+      "applicant": "Wilmer Lau",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2024-04790",
@@ -146526,7 +146604,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1744243200,
+      "lastUpdated": 1784890169,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-04789",
@@ -154345,7 +154423,7 @@
         "2308 W 3RD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use development with 2 levels of underground parking, a retail store, 9 townhomes located at the ground Level and Level 2, and 368 residential market rental units and one guest suite at Level 2.\nThe building is provided with two roof top courtyards at Level 3, outdoor and indoor amenities at Level 7, Level 8 and Level 10. \n\nThis building is designed to VBBL 2019. \nRadio Antenna System to be installed in this building. \n\nStage 1 (E & S) - issued Dec 24, 2025\nStage 2 (Foundation to Grade) - issued July 21, 2026\nProject Value: $190,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Grocery or Drug Store, Apartment, Parking Garage\nNeighbourhood: Kitsilano\nContractor: Ledcor Construction Limited",
+      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use development with 2 levels of underground parking, a retail store, 9 townhomes located at the ground Level and Level 2, and 368 residential market rental units and one guest suite at Level 2.\nThe building is provided with two roof top courtyards at Level 3, outdoor and indoor amenities at Level 7, Level 8 and Level 10. \n\nThis building is designed to VBBL 2019. \nRadio Antenna System to be installed in this building. \n\nStage 1 (E & S) - issued Dec 24, 2025\nStage 2 (Foundation to Grade) - issued July 21, 2026\nStage 3 (Full Permit) - In Review\nProject Value: $190,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Grocery or Drug Store, Apartment, Parking Garage\nNeighbourhood: Kitsilano\nContractor: Ledcor Construction Limited",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -154376,7 +154454,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784804211,
+      "lastUpdated": 1784890169,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-03222",
@@ -154606,7 +154684,7 @@
         "1960 W 7TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 21-storey rental tower with 183 (?) residential units, all over 3 levels of underground parking.\n\nNOTE: \n1. Radio antenna system to be installed in this building. \n2. This Permit was reviewed under the VBBL 2019\n\nSTAGED CONSTRUCTION: \n19- Mar-2026 - Stage 1 (E&S) issued. \n\nDPMA in the system. ( 21-July-2026 tn)\nProject Value: $68,891,045.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Apartment, Parking Area\nNeighbourhood: Kitsilano\nContractor: Graham Construction and Engineering LP",
+      "purpose": "Certified Professional Program - New Building - To construct a new 21-storey rental tower with 183 residential units, all over 3 levels of underground parking.\n\nNOTE: \n1. Radio antenna system to be installed in this building. \n2. This Permit was reviewed under the VBBL 2019\n\nSTAGED CONSTRUCTION: \n19- Mar-2026 - Stage 1 (E&S) issued. \n\nDPMA (DP-2026-00553)  in the system. ( 21-July-2026 tn)\nProject Value: $68,891,045.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Apartment, Parking Area\nNeighbourhood: Kitsilano\nContractor: Graham Construction and Engineering LP",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -154631,7 +154709,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784804211,
+      "lastUpdated": 1784890169,
       "relatedPermits": [],
       "projectValue": 68891045,
       "latitude": 49.265262,
@@ -161493,7 +161571,7 @@
         "522 MALKIN AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 21-storey mixed use residential building with retail and cultural amenity spaces on Level 1, 321 secured market rental dwelling units on Levels 2 to 20, indoor and outdoor amenity on Levels 7 and 21, all over 2 levels of underground parking, with vehicular access from Malkin Avenue.\n\nThis is a CP Process Permit and the applicant is Jun Kim, P.Eng., CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio Antenna System is required.\n3. A 2 hour pre-shaft to the roof has NOT been provided the CRUs.  Owner assumes the responsibility of informing all future restaurant and retail food tenants that they will be required to upgrade their respective CRU with a kitchen exhaust system that complies with the Vancouver Building Bylaw and all applicable City regulations.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued March 19, 2026)\n\nRevision 1 - Change of CP from Jason Hui to Jun Kim, effective March 24, 2026 (Issued April 8, 2026)\n\nStage 2 - Foundation to Grade (Under Review)\nProject Value: $99,910,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Apartment, Retail Store\nNeighbourhood: Strathcona\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 21-storey mixed use residential building with retail and cultural amenity spaces on Level 1, 321 secured market rental dwelling units on Levels 2 to 20, indoor and outdoor amenity on Levels 7 and 21, all over 2 levels of underground parking, with vehicular access from Malkin Avenue.\n\nThis is a CP Process Permit and the applicant is Jun Kim, P.Eng., CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio Antenna System is required.\n3. A 2 hour pre-shaft to the roof has NOT been provided the CRUs.  Owner assumes the responsibility of informing all future restaurant and retail food tenants that they will be required to upgrade their respective CRU with a kitchen exhaust system that complies with the Vancouver Building Bylaw and all applicable City regulations.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued March 19, 2026)\n\nRevision 1 - Change of CP from Jason Hui to Jun Kim, effective March 24, 2026 (Issued April 8, 2026)\n\nStage 2 - Foundation to Grade (Issued July 22, 2026)\nProject Value: $99,910,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Apartment, Retail Store\nNeighbourhood: Strathcona\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -161512,13 +161590,19 @@
           "taskType": "",
           "startDate": 1773907200,
           "endDate": 1773907200
+        },
+        {
+          "taskDescription": "Stage 2: Foundation to Grade",
+          "taskType": "",
+          "startDate": 1784707200,
+          "endDate": 1784707200
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1779361321,
+      "lastUpdated": 1784890169,
       "relatedPermits": [],
       "projectValue": 99910000,
       "latitude": 49.276217,
