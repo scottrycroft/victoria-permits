@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1784889974,
+  "dateRetrieved": 1784976366,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4633,7 +4633,7 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
+          "startDate": 1788850800,
           "endDate": null
         },
         {
@@ -4692,7 +4692,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1781780074,
+      "lastUpdated": 1784976370,
       "relatedPermits": [],
       "major": true,
       "storeys": 4
@@ -4789,7 +4789,7 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
-          "startDate": null,
+          "startDate": 1788850800,
           "endDate": null
         },
         {
@@ -4840,7 +4840,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1778410800,
+      "lastUpdated": 1784976370,
       "relatedPermits": [],
       "major": true,
       "storeys": 5
@@ -5876,12 +5876,12 @@
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1755759600,
-          "endDate": null
+          "endDate": 1756191600
         },
         {
           "taskDescription": "",
           "taskType": "WITH APPLICANT",
-          "startDate": null,
+          "startDate": 1784185200,
           "endDate": null
         },
         {
@@ -5938,7 +5938,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1784631190,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001822",
@@ -15390,12 +15390,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784976572,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021865",
           "relatedPermitType": "Development Permit"
@@ -15410,6 +15406,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15433,12 +15433,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784976572,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15453,6 +15449,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15476,12 +15476,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784976572,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15496,6 +15492,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15519,12 +15519,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784976572,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15539,6 +15535,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15562,12 +15562,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784804205,
+      "lastUpdated": 1784976572,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15582,6 +15578,10 @@
         },
         {
           "relatedPermitID": "BP021867",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -20384,6 +20384,28 @@
       "longitude": -122.913001
     },
     {
+      "primaryStreetName": "7499 116A ST",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023183",
+      "applicationDate": 1784976572,
+      "addresses": [
+        "7499 116A ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1784976572,
+      "relatedPermits": [],
+      "latitude": 49.139502,
+      "longitude": -122.900556
+    },
+    {
       "primaryStreetName": "4628 53 ST",
       "applicant": "",
       "cityApplicationType": "Residential",
@@ -24110,6 +24132,38 @@
       "withApplicantDays": null,
       "city": "Esquimalt",
       "lastUpdated": 1784112961,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "899 Esquimalt Road",
+      "applicant": "1104488 BC LTD",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00189",
+      "applicationDate": 1784976538,
+      "addresses": [
+        "899 Esquimalt Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduction of minimum Health Clinic area",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00189.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1784976538,
       "relatedPermits": []
     },
     {
@@ -90330,16 +90384,16 @@
           "endDate": 1763535600
         },
         {
-          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
-          "taskType": "*COUNCIL - READINGS",
-          "startDate": 1764054000,
-          "endDate": 1764054000
-        },
-        {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1785135600,
           "endDate": 1785135600
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": 1785135600,
+          "endDate": null
         },
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
@@ -90381,7 +90435,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1784889978,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00199",
@@ -109577,6 +109631,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1784098800,
           "endDate": 1784098800
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1786950000,
+          "endDate": null
         }
       ],
       "documents": [
@@ -109602,7 +109662,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784199212,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
@@ -110925,6 +110985,12 @@
           "taskType": "REFERRALS",
           "startDate": 1780902000,
           "endDate": 1785394800
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1786950000,
+          "endDate": null
         }
       ],
       "documents": [
@@ -110946,7 +111012,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1783680805,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00773",
@@ -116521,6 +116587,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1784790000,
           "endDate": 1784790000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1784876400,
+          "endDate": null
         }
       ],
       "documents": [
@@ -116534,7 +116606,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784889978,
+      "lastUpdated": 1784976370,
       "relatedPermits": [],
       "minor": true
     },
@@ -118624,14 +118696,67 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1784804009,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
+        {
+          "relatedPermitID": "RBP00974",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1784707200,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "ACCESSORY BUILDING - FARM OPERATIONS"
+        },
         {
           "relatedPermitID": "BOV01182",
           "relatedPermitType": "BOARD OF VARIANCE",
           "relatedPermitApplicationDate": 1768377600,
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "CANCELLED"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1801 MIDGARD AVE",
+      "applicant": "GRACE PROJECTS INC.",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00569",
+      "applicationDate": 1784876400,
+      "addresses": [
+        "1801 MIDGARD AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "VARIANCE REQUESTED FOR LOT DEPTH.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1784876400,
+          "endDate": 1784876400
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1784876400,
+          "endDate": 1784876400
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1784876400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00950",
+          "relatedPermitType": "SUBDIVISION",
+          "relatedPermitApplicationDate": 1701849600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "TO REZONE FROM CURRENT RS-6 ZONING TO RS-6 AND RS-4 ZONING TO  CREATE 1 ADDITIONAL LOT RESULTING IN A TOTAL OF 2 LOTS,"
+        },
+        {
+          "relatedPermitID": "REZ00753",
+          "relatedPermitType": "REZONING",
+          "relatedPermitApplicationDate": 1701849600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "TO REZONE FROM CURRENT RS-6 ZONING TO RS-6 AND RS-4 ZONING TO  CREATE 1 ADDITIONAL LOT FOR SINGLE FAMILY DWELLING USE RESULTING IN A TOTAL OF 2 LOTS,"
         }
       ]
     },
@@ -120602,8 +120727,15 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1713367039,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00569",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT",
+          "relatedPermitApplicationDate": 1784880000,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "VARIANCE REQUESTED FOR LOT DEPTH."
+        },
         {
           "relatedPermitID": "SUB00950",
           "relatedPermitType": "SUBDIVISION",
@@ -123257,6 +123389,12 @@
           "taskType": "STAFF REVIEW REFERRALS",
           "startDate": 1776322800,
           "endDate": 1777878000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1786950000,
+          "endDate": null
         }
       ],
       "documents": [
@@ -123266,7 +123404,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784026398,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00565",
@@ -124148,7 +124286,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1783508032,
+      "lastUpdated": 1784976370,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26026",
@@ -124190,7 +124328,7 @@
           "relatedPermitType": "COMMERCIAL PERMIT",
           "relatedPermitApplicationDate": 1691049600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "PART 3 MIXED USE SIX STOREY BUILDING WITH COMMERCIAL AND 242 RESIDENTIAL UNITS"
+          "relatedPermitDescription": "PART 3 MIXED USE SIX STOREY BUILDING WITH COMMERCIAL AND 242 RESIDENTIAL UNITS - THE ODYSSEY"
         },
         {
           "relatedPermitID": "TRP20433",
@@ -128443,7 +128581,7 @@
         "1650 CLARK DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A. Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade  until the full permit  has been issued.\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
+      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A. Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade  until the full permit  has been issued.\n\nStage 4 (full permit) - In Review\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -128480,7 +128618,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784717823,
+      "lastUpdated": 1784976578,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2024-02427",
@@ -135346,7 +135484,7 @@
         "689 E 17TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct is proposed for the restaurant (shell) CRU.\n\n29-Jan-2026 - Stage 1 (Excavation, Shoring & Foundation to Grade)  issued. \nStage II - Full Permit - In Review\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct will be installed for the Restaurant (shell) at 3281 Fraser St.\n\n29-Jan-2026 - Stage 1 (Excavation, Shoring & Foundation to Grade)  issued. \nStage II - Full Permit - In Review\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -135371,7 +135509,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1769644800,
+      "lastUpdated": 1784976578,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-03975",
@@ -140508,7 +140646,7 @@
         "3644 SLOCAN STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 3-storey Care Facility Building (Group B, Div. 3)  providing support for children and youth with health complexity and a new one storey stand-alone daycare building on this site. \nNote: The daycare is processed under a separate Building Permit (BP-2024-04985).\n\nThe Care facility is provided with a 2-Stage FA system and radio antenna system. \n\nMechanical Review Notes:\nCare Facility has Two Class 1 and one Class 4 cooking operations on Level 0 (basement Main and Teaching Kitchen), and One Class 1 cooking operation on Level 2 (2nd storey Servery)\n- Class 1 Cooking Operation (Grease-Laden Vapours): Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n- Class 4 Cooking Operation (KNLZ Ovens): Proposed oven shall be listed under UL Product Category KNLZ.\nDaycare has Two Class 3 cooking operations.  \n- Class 3 Cooking Operation (Domestic Hood with Electrical Range) - Domestic hood with a grease filter is required.\n\nStage 1 (E & S) issued 26-Feb-2025.\n\nStage 2 - issued 02-Jun-2025\n    Care Facility - Foundation and Concrete Structure \n    Daycare   -   Foundation and Concrete Structure \n\nStage 3 - issued 28-Nov-2025 \n    Care Facility - Full permit\n    Daycare      - Full permit \n\nRevision#1 - issued 9-Feb-2026 \nDaycare building only: \n Change to energy standard reference on Architectural, Electrical and Mechanical drawings  from ASHRAE.90.1 to PH.\nThe BP drawing set  (A/M/E) issued with Stage 3  contain wrong reference to applicable  energy standard. The Daycare building was designed to PH standard, but  the A/M/E drawings included a  wrong reference to ASHRAE 90.1 \nNOTE: PH was not a requirement under a Planning policy. \nNo drawings were issued with this BP Revision.\nProject Value: $243,634,776.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Hospital, Child Day Care Facility, Parking Garage\nNeighbourhood: Renfrew-Collingwood\nContractor: Ledcor Construction Limited",
+      "purpose": "Certified Professional Program - New Building - To construct a new 3-storey Care Facility Building (Group B, Div. 3)  providing support for children and youth with health complexity and a new one storey stand-alone daycare building on this site. \nNote: The daycare is processed under a separate Building Permit (BP-2024-04985).\n\nThe Care facility is provided with a 2-Stage FA system and radio antenna system. \n\nMechanical Review Notes:\nCare Facility has Two Class 1 and one Class 4 cooking operations on Level 0 (basement Main and Teaching Kitchen), and One Class 1 cooking operation on Level 2 (2nd storey Servery)\n- Class 1 Cooking Operation (Grease-Laden Vapours): Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n- Class 4 Cooking Operation (KNLZ Ovens): Proposed oven shall be listed under UL Product Category KNLZ.\nDaycare has Two Class 3 cooking operations.  \n- Class 3 Cooking Operation (Domestic Hood with Electrical Range) - Domestic hood with a grease filter is required.\n\nStage 1 (E & S) issued 26-Feb-2025.\n\nStage 2 - issued 02-Jun-2025\n    Care Facility - Foundation and Concrete Structure \n    Daycare   -   Foundation and Concrete Structure \n\nStage 3 - issued 28-Nov-2025 \n    Care Facility - Full permit\n    Daycare      - Full permit \n\nRevision#1 - issued 9-Feb-2026 \nDaycare building only: \n Change to energy standard reference on Architectural, Electrical and Mechanical drawings  from ASHRAE.90.1 to PH.\nThe BP drawing set  (A/M/E) issued with Stage 3  contain wrong reference to applicable  energy standard. The Daycare building was designed to PH standard, but  the A/M/E drawings included a  wrong reference to ASHRAE 90.1 \nNOTE: PH was not a requirement under a Planning policy. \nNo drawings were issued with this BP Revision.\n\nRevision#2 - In review\nInclusion of maglocks in both buildings (Daycare and Care facility). Related to AL-2026-00084.\nProject Value: $243,634,776.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Hospital, Child Day Care Facility, Parking Garage\nNeighbourhood: Renfrew-Collingwood\nContractor: Ledcor Construction Limited",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -140545,7 +140683,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1780656991,
+      "lastUpdated": 1784976578,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-04985",
@@ -149672,7 +149810,7 @@
         "3329 W 41ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Private Care Facility noncombustible building consists of:\n1st storey - assisted  living units,\n2rd and 4th storeys - long term memory care living units,\n5th and 6th storeys - assisted living units, \n7th storey - amenity space and exterior occupied roof deck,\nAll over one level of underground parking with vehicle access from lane.  \n\nShared amenity spaces will be located on Levels P1 through 4th storey.\nOccupants in the assisted  living  are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\n\nThis building is provided with a 2-stage fire alarm system and radio antenna system.  \nThis building is designed to VBBL 2019. \n\n18-Mar-2026 - Stage 1 (excavation, shoring & foundation to grade, incl. L1 slab) issued.\n\nRevision #1 - In Review ( REVIEW-3 PROCESS) \nRevision 1 changes to structural foundation to grade. Revisions include 4th elevator and related\ninterior layout changes to accommodate elevator.\n\nBP Stage 2 (full permit ) In review (REVIEW-2 PROCESS)\nProject Value: $101,241,900.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Parking Garage, Community Care Facility - Class B\nNeighbourhood: Dunbar-Southlands\nContractor: MARCON PROJECT (661) LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Private Care Facility noncombustible building consists of:\n1st storey - assisted  living units,\n2rd and 4th storeys - long term memory care living units,\n5th and 6th storeys - assisted living units, \n7th storey - amenity space and exterior occupied roof deck,\nAll over one level of underground parking with vehicle access from lane.  \n\nShared amenity spaces will be located on Levels P1 through 4th storey.\nOccupants in the assisted  living  are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\n\nThis building is provided with a 2-stage fire alarm system and radio antenna system.  \nThis building is designed to VBBL 2019. \n\n18-Mar-2026 - Stage 1 (excavation, shoring & foundation to grade, incl. L1 slab) issued.\n\n23-July-2026 - Revision #1 issued.\nChanges to structural foundation to grade. Revisions include 4th elevator and related\ninterior layout changes to accommodate elevator.\nProject Value: $101,241,900.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Parking Garage, Community Care Facility - Class B\nNeighbourhood: Dunbar-Southlands\nContractor: MARCON PROJECT (661) LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -149697,7 +149835,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1781780280,
+      "lastUpdated": 1784976578,
       "relatedPermits": [],
       "projectValue": 101241900,
       "latitude": 49.235074,
@@ -150466,7 +150604,7 @@
         "1088 BURNABY STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To develop a 32-storey apartment containing a total of 300 dwelling units (242 Secured Market Rental and 58 Below Market Rental) all over 4 levels of underground parking, with vehicular access from Maxine Lane.  Level 2 contains indoor amenity, gym, co-working space.  Level 32 contains indoor and outdoor amenity.\n\nThis is a CP Process Permit and the applicant is Jack Hui, M.Eng., P.Eng., CP.\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on January 1, 2025.\n2. Radio Antenna System is required.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued September 12, 2025)\n\nStage 2 - Full Construction (Issued May 26, 2026)\nProject Value: $95,136,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Apartment, Public Bike Share\nNeighbourhood: West End\nContractor: APG Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To develop a 32-storey apartment containing a total of 300 dwelling units (242 Secured Market Rental and 58 Below Market Rental) all over 4 levels of underground parking, with vehicular access from Maxine Lane.  Level 2 contains indoor amenity, gym, co-working space.  Level 32 contains indoor and outdoor amenity.\n\nThis is a CP Process Permit and the applicant is Jack Hui, M.Eng., P.Eng., CP.\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on January 1, 2025.\n2. Radio Antenna System is required.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued September 12, 2025)\n\nStage 2 - Full Construction (Issued May 26, 2026)\n\nRevision 1 (Under Review)\nChanges associated with DPMA DP-2026-00590. Revisions to Levels P4-P1 parking layout, vista room, mechanical rooms, storage rooms. Minor revisions to above grade floor plans.\nProject Value: $95,136,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Apartment, Public Bike Share\nNeighbourhood: West End\nContractor: APG Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -150497,7 +150635,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1780656991,
+      "lastUpdated": 1784976578,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2025-02433",
