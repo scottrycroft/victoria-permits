@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1784976366,
+  "dateRetrieved": 1785063253,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -6335,7 +6335,7 @@
     },
     {
       "primaryStreetName": "7007 BEACH VIEW CRT",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "PL001885",
@@ -6343,7 +6343,7 @@
       "addresses": [
         "7007 BEACH VIEW CRT"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Development Permit",
       "progressSections": [
         {
@@ -6356,7 +6356,7 @@
           "taskDescription": "",
           "taskType": "ISSUE PERMIT TO APPLICANT",
           "startDate": 1772607600,
-          "endDate": null
+          "endDate": 1772607600
         },
         {
           "taskDescription": "",
@@ -6386,7 +6386,8 @@
       "documents": [],
       "city": "Central Saanich",
       "lastUpdated": 1772607600,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "NEW HALL 1882 HOVEY RD",
@@ -120062,7 +120063,7 @@
     },
     {
       "primaryStreetName": "3989 SHELBOURNE ST",
-      "applicant": "LOW HAMMOND ROWE ARCHITECTS",
+      "applicant": "",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00741",
@@ -120071,7 +120072,7 @@
         "3989 SHELBOURNE ST",
         "3991 SHELBOURNE ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO REZONE FROM RS-6 TO RA-11 TO CONSTRUCT A 6 STOREY, 48 UNIT MULTI FAMILY DWELLING",
       "progressSections": [
         {
@@ -129968,7 +129969,7 @@
         "1406 E 28TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a multi-family dwelling building consisting of one combustible 6-storey building on top of a 1-level non-combustible underground parkade with 69 single-level dwelling units from Levels 1-6 and 10 two-storey Live-Work units on Levels 1-2 separated from multi-family dwellings with a green roof. An outdoor amenity is provided on the occupied roof.\n\nVBBL 2019 - NFPA 13 -  Radio antenna is required. \n\nStage 1 - Excavation, Shoring & Plies/Shotcretes issued on Dec. 3, 2025.\nRev# 1 (July 17, 2026) - Shoring changes with two Geotechnical Engineers (see letters for their work).\n\nStage 2 - Foundation to Grade issued on ___________.\nProject Value: $17,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: ORION COMMERCIAL CONSTRUCTION LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a multi-family dwelling building consisting of one combustible 6-storey building on top of a 1-level non-combustible underground parkade with 69 single-level dwelling units from Levels 1-6 and 10 two-storey Live-Work units on Levels 1-2 separated from multi-family dwellings with a green roof. An outdoor amenity is provided on the occupied roof.\n\nVBBL 2019 - NFPA 13 -  Radio antenna is required. \n\nStage 1 - Excavation, Shoring & Plies/Shotcretes issued on Dec. 3, 2025.\nRev# 1 (July 17, 2026) - Shoring changes with two Geotechnical Engineers (see letters for their work).\n\nStage 2 - Foundation to Grade issued on July 24, 2026.\nProject Value: $17,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: ORION COMMERCIAL CONSTRUCTION LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -129987,13 +129988,19 @@
           "taskType": "",
           "startDate": 1764748800,
           "endDate": 1764748800
+        },
+        {
+          "taskDescription": "Stage 2: Foundation to Grade",
+          "taskType": "",
+          "startDate": 1784880000,
+          "endDate": 1784880000
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784458681,
+      "lastUpdated": 1785063000,
       "relatedPermits": [],
       "projectValue": 17500000,
       "latitude": 49.245249,
@@ -151025,7 +151032,7 @@
         "4855 PATON STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - Building Permit for DP-2024-00600 To develop a Multiple Dwelling \"Multiplex\" with a three-storey three-unit front building and a two-storey one-unit rear building for a total of four dwelling units with an attached carport providing four parking spaces having vehicular access from the lane. To be sprinklered to NFPA 13R\r\n\r\nThis permit is for building 1. Strata titling not proposed. 2019 VBBL.\r\n\r\nBuilding 1: BP-2025-00661 - 3 Units - $ 1,575,000.00\r\nBuilding 2: BP-2025-00662 - 1 Unit - $ 600,000.00\nProject Value: $3,921,516.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Arbutus Ridge",
+      "purpose": "High Density Housing / Commercial - New Building - Building Permit for DP-2024-00600 To develop a Multiple Dwelling \"Multiplex\" with a three-storey three-unit front building and a two-storey one-unit rear building for a total of four dwelling units with an attached carport providing four parking spaces having vehicular access from the lane. To be sprinklered to NFPA 13R\n\nThis permit is for building 1. Strata titling not proposed. 2019 VBBL.\n\nBuilding 1: BP-2025-00661 - 3 Units - $ 1,575,000.00\nBuilding 2: BP-2025-00662 - 1 Unit - $ 600,000.00\n\nRevision #1 (pending approval ...):\nA Schedule B from the geotech to be resubmitted with the CRP initials.\nProject Value: $3,921,516.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Arbutus Ridge",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -151044,7 +151051,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1762905600,
+      "lastUpdated": 1785063000,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-00662",
@@ -157082,6 +157089,45 @@
       "major": true,
       "approvalStatus": "Approved",
       "storeys": 2
+    },
+    {
+      "primaryStreetName": "1125 E 14TH AVENUE",
+      "applicant": "Bhupinder (Raj) Singh DBA: Raj Home Design",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-02388",
+      "applicationDate": 1747872000,
+      "addresses": [
+        "1125 E 14TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a 3-storey multiple dwelling \"multiplex\" containing a total of 3 dwelling units with a detached accessory building at the rear providing 4 parking spaces having vehicular access from the lane.\r\n\r\nNOTES\r\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on March 1, 2025.\r\n2. Building to be sprinklered to NFPA 13D.\nProject Value: $1,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Mount Pleasant\nContractor: CAV Enterprise Inc",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1747872000,
+          "endDate": 1747872000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1747872000,
+          "endDate": 1747872000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1747872000,
+      "relatedPermits": [],
+      "projectValue": 1500000,
+      "latitude": 49.258102,
+      "longitude": -123.080801,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
     },
     {
       "primaryStreetName": "3825 W 19TH AVENUE",
@@ -165699,6 +165745,190 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "1748 SW MARINE DRIVE",
+      "applicant": "Kwok Sun Kwan DBA: Entrepreneur",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00301",
+      "applicationDate": 1769385600,
+      "addresses": [
+        "1748 SW MARINE DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with three-storey two dwelling unit for Bldg 1, three-storey two dwelling unit for Bldg 2, three-storey one dwelling unit for Bldg 3, three-storey one dwelling unit with an attached 2-car carport for Bldg 4, and 10 surface parking, for a total of 4 buildings, 6 units and 12 parking spaces, having vehicular access from Angus Drive.\n\nBldg 1 - BP-2026-00301 (Site Permit and Bldg 1 permit) - Two dwelling units - Southeast\nBldg 2 - BP-2026-00302 - Two dwelling units - Northeast\nBldg 3 - BP-2026-00303 - One dwelling unit - Northwest\nBldg 4 - BP-2026-00304 - One dwelling unit - Southwest\n\nThis permit is for site project work and construction of Bldg 1. \n\nThe entire building to be sprinklered to 2 x NFPA 13D.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Unit #1 located in third storey WIC, Unit #2 located in third storey storage\n2.\\tHeat Pump proposed – Exterior component located in building both sides, Interior component located in main floor mech room\n3.\\tSchedule B: Dr. T.A.A. El-Amoury, P.Eng., Struc.Eng.,  (604.336.5080) Structural & Arch 1.5 Glass Guards\n4.\\tSchedule B: A. Gannochka, P.Eng. (604.500.8851) Geotechnical\n5.\\tHPO: Residential Builder- Fernandes Homes Ltd.\n\nAddress Information:\nBuilding 1 (East) (Closest to the Park) \n#1 – 1748 SW Marine Drive - One Dwelling Unit (east side 1st-3rd level)\n#2 – 1748 SW Marine Drive - One Dwelling Unit (west side 1st-3rd level)\n\nAll work is to conform to the archaeological monitoring program identified by Archer Cultural Resource Management Corp in the “Archaeological Impact Assessment Interim Report 2024-0191-14690” under Heritage Conservation Act Permit Inspection Permit 2024-0191, Alteration Permit 2024-0375, MIB-2024-069-AIA, SHIP #2024-053, TWN-24056-24067.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $810,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale\nContractor: Fernandes Homes Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1769385600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00302",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-00303",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-00304",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 810000,
+      "latitude": 49.209003,
+      "longitude": -123.148271,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "1768 SW MARINE DRIVE",
+      "applicant": "Kwok Sun Kwan DBA: Entrepreneur",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00302",
+      "applicationDate": 1769385600,
+      "addresses": [
+        "1768 SW MARINE DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - Building 2 - BP-2026-00302: To construct a Multiple Dwelling 'Multiplex' with three-storey two dwelling units for Building 2\n\nRefer to Site Permit: BP-2026-00301\n\nThe entire building to be sprinklered to 2 x NFPA 13D.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in third storey WIC\n2.\\tHeat Pump proposed – Exterior component located in building both sides, Interior component located in main floor mech room\n3.\\tSchedule B: Dr. T.A.A. El-Amoury, P.Eng., Struc.Eng.,  (604.336.5080) Structural & Arch 1.5 Glass Guards\n4.\\tSchedule B: A. Gannochka, P.Eng. (604.500.8851) Geotechnical\n5.\\tHPO: Residential Builder- Fernandes Homes Ltd.\n\nAddress Information:\nBuilding 2 (West) (Closest to Angus Dr)\n#1 – 1768 SW Marine Drive – One Dwelling Unit (east side 1st-3rd level)\n#2 – 1768 SW Marine Drive – One Dwelling Unit (west side 1st-3rd level)\n\nAll work is to conform to the archaeological monitoring program identified by Archer Cultural Resource Management Corp in the “Archaeological Impact Assessment Interim Report 2024-0191-14690” under Heritage Conservation Act Permit Inspection Permit 2024-0191, Alteration Permit 2024-0375, MIB-2024-069-AIA, SHIP #2024-053, TWN-24056-24067.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $856,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale\nContractor: Fernandes Homes Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1769385600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00301",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 856000,
+      "latitude": 49.209185,
+      "longitude": -123.148476,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "8628 ANGUS DRIVE",
+      "applicant": "Kwok Sun Kwan DBA: Entrepreneur",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00303",
+      "applicationDate": 1769385600,
+      "addresses": [
+        "8628 ANGUS DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - Building 3 - BP-2026-00303: To construct a Multiple Dwelling 'Multiplex' with three-storey one dwelling unit for Building 3\n\nRefer to Site Permit: BP-2026-00301\n\nThe entire building to be sprinklered to NFPA 13D.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in third storey WIC\n2.\\tHeat Pump proposed – Exterior component located in northwest side, Interior component located in main floor mech room\n3.\\tSchedule B: Dr. T.A.A. El-Amoury, P.Eng., Struc.Eng.,  (604.336.5080) Structural & Arch 1.5 Glass Guards\n4.\\tSchedule B: A. Gannochka, P.Eng. (604.500.8851) Geotechnical\n5.\\tHPO: Residential Builder- Fernandes Homes Ltd.\n\nAddress Information:\nBuilding 3\n8628 Angus Drive - One Dwelling Unit (1st-3rd level) \n\nAll work is to conform to the archaeological monitoring program identified by Archer Cultural Resource Management Corp in the “Archaeological Impact Assessment Interim Report 2024-0191-14690” under Heritage Conservation Act Permit Inspection Permit 2024-0191, Alteration Permit 2024-0375, MIB-2024-069-AIA, SHIP #2024-053, TWN-24056-24067.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $526,750.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale\nContractor: Fernandes Homes Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1769385600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00301",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 526750,
+      "latitude": 49.208693,
+      "longitude": -123.14884,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "8638 ANGUS DRIVE",
+      "applicant": "Kwok Sun Kwan DBA: Entrepreneur",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00304",
+      "applicationDate": 1769385600,
+      "addresses": [
+        "8638 ANGUS DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - Building 4 - BP-2026-00304: To construct a Multiple Dwelling 'Multiplex' with three-storey one dwelling unit with an attached 2-car carport for Building 4\n\nRefer to Site Permit: BP-2026-00301\n\nThe entire building, INCLUDING THE ATTACHED CARPORT, to be sprinklered to NFPA 13D.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in main floor bedroom closet\n2.\\tHeat Pump proposed – Exterior component located in southeast side yard, Interior component located in main floor mech room\n3.\\tSchedule B: Dr. T.A.A. El-Amoury, P.Eng., Struc.Eng.,  (604.336.5080) Structural & Arch 1.5 Glass Guards\n4.\\tSchedule B: A. Gannochka, P.Eng. (604.500.8851) Geotechnical\n5.\\tHPO: Residential Builder- Fernandes Homes Ltd.\n\nAddress Information:\nBuilding 4\n8638 Angus Drive - One Dwelling Unit (1st-3rd level)\n\nAll work is to conform to the archaeological monitoring program identified by Archer Cultural Resource Management Corp in the “Archaeological Impact Assessment Interim Report 2024-0191-14690” under Heritage Conservation Act Permit Inspection Permit 2024-0191, Alteration Permit 2024-0375, MIB-2024-069-AIA, SHIP #2024-053, TWN-24056-24067.\n \n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $794,750.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale\nContractor: Fernandes Homes Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1769385600,
+          "endDate": 1769385600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1769385600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00301",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 794750,
+      "latitude": 49.208523,
+      "longitude": -123.148916,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "424 HOMER STREET",
       "applicant": "Giuseppe Tolfo DBA: Chard Development Ltd",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -166438,14 +166668,14 @@
       "storeys": 3
     },
     {
-      "primaryStreetName": "3666 TRIUMPH STREET",
+      "primaryStreetName": "3662 TRIUMPH STREET",
       "applicant": "Paramjeet Sidhu DBA: Singh Development LTD",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2026-01213",
       "applicationDate": 1776211200,
       "addresses": [
-        "3666 TRIUMPH STREET"
+        "3662 TRIUMPH STREET"
       ],
       "status": "ACTIVE",
       "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a two-storey plus basement plus roof deck two-unit front building, with no parking proposed at the rear building.\n\n1.\\tHRV unit proposed – located in second floor hallway closet\n2.\\tHeat pump proposed - exterior component located in courtyard, interior component located in MECHANICAL ROOM\n3.\\tSchedule B: (S.N. Biswas) P.Eng (604.250.8666) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Singh Development Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBUILDING 1 - FRONT/NORTH\n#1 - 3662 Triumph St - One Dwelling Unit (1st - 3rd floor)\n#2 - 3662 Triumph St - One Dwelling Unit (1st - 3rd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #14343 (2025)**\nProject Value: $700,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Hastings-Sunrise\nContractor: Singh Development Ltd",
@@ -166467,11 +166697,11 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1776211200,
+      "lastUpdated": 1785063000,
       "relatedPermits": [],
       "projectValue": 700000,
-      "latitude": 49.2836,
-      "longitude": -123.024315,
+      "latitude": 49.283829,
+      "longitude": -123.024374,
       "major": true,
       "approvalStatus": "Approved",
       "storeys": 2
