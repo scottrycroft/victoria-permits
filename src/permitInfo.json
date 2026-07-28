@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1785149168,
+  "dateRetrieved": 1785235567,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20363,6 +20363,28 @@
       "longitude": -123.056796
     },
     {
+      "primaryStreetName": "5045 10A AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023174",
+      "applicationDate": 1785235762,
+      "addresses": [
+        "5045 10A AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To construct a duplex with secondary suites",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1785235762,
+      "relatedPermits": [],
+      "latitude": 49.022482,
+      "longitude": -123.08406
+    },
+    {
       "primaryStreetName": "11196 72A AVE",
       "applicant": "",
       "cityApplicationType": "Multi-Residential",
@@ -20383,6 +20405,28 @@
       "relatedPermits": [],
       "latitude": 49.134402,
       "longitude": -122.913001
+    },
+    {
+      "primaryStreetName": "8084 111B ST",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023181",
+      "applicationDate": 1785235762,
+      "addresses": [
+        "8084 111B ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1785235762,
+      "relatedPermits": [],
+      "latitude": 49.150037,
+      "longitude": -122.913284
     },
     {
       "primaryStreetName": "7499 116A ST",
@@ -91609,6 +91653,12 @@
           "endDate": 1782975600
         },
         {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": 1782889200,
+          "endDate": 1783666800
+        },
+        {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": 1784098800,
@@ -91618,12 +91668,6 @@
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1785135600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -91652,7 +91696,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1784199212,
+      "lastUpdated": 1785235570,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017831",
@@ -97271,7 +97315,7 @@
       "addresses": [
         "3071 No 5 Road Unit 6 Qinmin Ye (236)965-8132"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Laboratory\nWork Proposed: Alteration\nConstruction Value: $80,000.00 1 $80,000.00",
       "progressSections": [
         {
@@ -97616,6 +97660,35 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 150000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4080 Bayview Street Eva Birchall (226)377-3367",
+      "applicant": "Trigon Construction Managment Inc (519) 619-5418",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-010113-000-00-B2",
+      "applicationDate": 1784448000,
+      "addresses": [
+        "4080 Bayview Street Eva Birchall (226)377-3367"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Recreational\nWork Proposed: Alteration\nConstruction Value: $750,000.00 1 $750,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1784448000,
+          "endDate": 1784448000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785235759,
+      "relatedPermits": [],
+      "projectValue": 750000,
       "approvalStatus": "Approved"
     },
     {
@@ -98703,7 +98776,7 @@
       "addresses": [
         "8140 Cook Road Unit 101 Alex Mai (778)867-1026"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Personnel Service\nWork Proposed: Alteration\nConstruction Value: $30,000.00 1 $30,000.00",
       "progressSections": [
         {
@@ -98781,6 +98854,36 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 20000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "3388 No 3 Road Unit 212 Peter Fanchiang (604)771-7823 4940 No 3 Road Unit 117 Coto Construction Management Ltd (Chris Ng) (778)987-5188",
+      "applicant": "4 Noble Construction Ltd (604)273-9188 Rili Creation (778)889-9987",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-014161-000-00-B8-26-014552-000-00-B8",
+      "applicationDate": 1784448000,
+      "addresses": [
+        "3388 No 3 Road Unit 212 Peter Fanchiang (604)771-7823 4940 No 3 Road Unit 117 Coto Construction Management Ltd (Chris Ng) (778)987-5188"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Beauty Parlour\nWork Proposed: Alteration Alteration\nConstruction Value: $180,000.00 $40,000.00 2 $220,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1784448000,
+          "endDate": 1784448000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785235759,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 180000,
       "approvalStatus": "Approved"
     },
     {
@@ -99264,6 +99367,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1781002552,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4340 River Road",
+      "applicant": "Jeff Yang (604)767-9477",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-25-036654-000-00-D7",
+      "applicationDate": 1784707200,
+      "addresses": [
+        "4340 River Road"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Bhullar Excavating and Demolition (778) 891-4556",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1784707200,
+          "endDate": 1784707200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785235759,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -99964,6 +100095,90 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1783421814,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "10520 Aragon Rd",
+      "applicant": "Owner",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-012496-000-00-D7",
+      "applicationDate": 1784707200,
+      "addresses": [
+        "10520 Aragon Rd"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Access Building Detach\nWork Proposed: Demolish\nContractor: Red Leaf Landscaping Ltd\nDescription: Detached Garage",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1784707200,
+          "endDate": 1784707200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785235759,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "10520 Aragon Road",
+      "applicant": "Owner",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-012518-000-00-D7",
+      "applicationDate": 1784707200,
+      "addresses": [
+        "10520 Aragon Road"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Red Leaf Landscaping Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1784707200,
+          "endDate": 1784707200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785235759,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "8520 Cambie Road",
+      "applicant": "KP Architecture Ltd (Curtis Gray) (604) 853-8831",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-016976-000-00-DC",
+      "applicationDate": 1784880000,
+      "addresses": [
+        "8520 Cambie Road"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Warehouse/Storage\nWork Proposed: Demolish\nContractor: Spire Construction Inc (604)432-6650\nDescription: BUILDING E",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1784880000,
+          "endDate": 1784880000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785235759,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -113098,6 +113313,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1786950000,
+          "endDate": null
+        },
+        {
           "taskDescription": "Date when application is received",
           "taskType": "APPLICATION RECEIVED",
           "startDate": null,
@@ -113127,7 +113348,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784804009,
+      "lastUpdated": 1785235570,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00794",
@@ -116794,12 +117015,24 @@
       ],
       "documents": [
         {
+          "docName": "PLANS_ELEVATIONS_JUNE 26 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3D79853C-D101-42F8-B95A-0B006FC601DD&folderId=96428C260709111458518289"
+        },
+        {
+          "docName": "PLANS_LANDSCAPE_JUNE 26 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=011788FF-9883-4F2A-9EEA-D3BC67294B09&folderId=96428C260709111458518289"
+        },
+        {
+          "docName": "PLANS_SHADOW STUDY_JUNE 26 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C13833A7-94A6-4950-9F7F-93AEEF6687B3&folderId=96428C260709111458518289"
+        },
+        {
           "docName": "PLANS_SITE_JUNE 26 2026",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=978A55E4-B988-4D46-8E15-353C72306D6E&folderId=96428C260709111458518289"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784026398,
+      "lastUpdated": 1785235570,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -124282,12 +124515,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1783407600,
+          "endDate": 1785135600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1785135600,
+          "endDate": 1785135600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1784976370,
+      "lastUpdated": 1785235570,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26026",
@@ -256675,8 +256920,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportjul12202679340.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demolitionreportjul12202679341.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportjul19202679412.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demolitionreportjul19202679413.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
