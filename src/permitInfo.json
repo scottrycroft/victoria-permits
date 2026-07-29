@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1785235567,
+  "dateRetrieved": 1785322394,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15391,8 +15391,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784976572,
+      "lastUpdated": 1785322577,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021865",
           "relatedPermitType": "Development Permit"
@@ -15407,10 +15411,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15434,8 +15434,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784976572,
+      "lastUpdated": 1785322577,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15450,10 +15454,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15477,8 +15477,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784976572,
+      "lastUpdated": 1785322577,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15493,10 +15497,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15520,8 +15520,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784976572,
+      "lastUpdated": 1785322577,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15536,10 +15540,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15563,8 +15563,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784976572,
+      "lastUpdated": 1785322577,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15579,10 +15583,6 @@
         },
         {
           "relatedPermitID": "BP021867",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -20295,6 +20295,28 @@
       "relatedPermits": [],
       "latitude": 49.16387,
       "longitude": -122.907428
+    },
+    {
+      "primaryStreetName": "11898 74B AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023145",
+      "applicationDate": 1785322577,
+      "addresses": [
+        "11898 74B AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1785322577,
+      "relatedPermits": [],
+      "latitude": 49.138818,
+      "longitude": -122.893796
     },
     {
       "primaryStreetName": "CMPLX 10500 DELSOM CRES",
@@ -86415,12 +86437,6 @@
           "endDate": 1762758000
         },
         {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "*COUNCIL MEETING",
-          "startDate": 1763967600,
-          "endDate": null
-        },
-        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "*FILE COMPLETED",
           "startDate": null,
@@ -86438,7 +86454,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1784804009,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00199",
@@ -87526,6 +87542,76 @@
         }
       ],
       "major": true
+    },
+    {
+      "primaryStreetName": "3100 WOODBURN AVE",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000074",
+      "applicationDate": 1785222000,
+      "addresses": [
+        "3100 WOODBURN AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a Delegated Infill Development Permit to allow for the construction and siting a 2-duplex development at 3100 Woodburn Ave.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1785222000,
+          "endDate": 1785222000
+        },
+        {
+          "taskDescription": "Staff evaluation of application to determine eligibility for delegation.",
+          "taskType": "*MINOR VARIANCE REVIEW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "*FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "DP000074 - 3100 Woodburn - East Plans.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=102E8F23-E867-44F7-ADC1-7E54C13FAF1C&folderId=75820C260728095259835829"
+        },
+        {
+          "docName": "DP000074 - 3100 Woodburn - West Plans.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=F831B0FD-1089-4EF0-9F92-E18B3802DEC2&folderId=75820C260728095259835829"
+        }
+      ],
+      "city": "Oak Bay",
+      "lastUpdated": 1785222000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "1742 ELGIN RD",
@@ -91668,7 +91754,7 @@
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1785135600,
-          "endDate": null
+          "endDate": 1785135600
         },
         {
           "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
@@ -91696,7 +91782,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1785235570,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017831",
@@ -102015,8 +102101,15 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1780484009,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
+        {
+          "relatedPermitID": "CBP00161",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1785139200,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "What is this for?"
+        },
         {
           "relatedPermitID": "CBP00102",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
@@ -102445,18 +102538,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1784530800,
-          "endDate": null
+          "endDate": 1785222000
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1785222000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1784530800,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00847",
@@ -111952,7 +112045,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1786950000,
           "endDate": null
         }
       ],
@@ -111975,7 +112068,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784631190,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00780",
@@ -116814,6 +116907,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1784876400,
+          "endDate": 1785222000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1785222000,
+          "endDate": 1785222000
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1785222000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -116828,7 +116939,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784976370,
+      "lastUpdated": 1785322396,
       "relatedPermits": [],
       "minor": true
     },
@@ -118809,18 +118920,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1784012400,
-          "endDate": null
+          "endDate": 1785222000
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1785222000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1784012400,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP22472",
@@ -124633,6 +124744,74 @@
       "major": true
     },
     {
+      "primaryStreetName": "4410 WEST SAANICH RD",
+      "applicant": "ISLAND VIEW LAND MANAGEMENT",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00820",
+      "applicationDate": 1783926000,
+      "addresses": [
+        "4410 WEST SAANICH RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "N/A",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1785222000,
+          "endDate": 1785222000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1785222000,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1785222000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "4667 CORDOVA BAY RD",
+      "applicant": "WESTPLAN CONSULTING GROUP",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00821",
+      "applicationDate": 1785222000,
+      "addresses": [
+        "4667 CORDOVA BAY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM RS-18 TO RS-12/RS-6 TO CREATE A 20 LOT SUBDIVISION.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1785222000,
+          "endDate": 1785222000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1785222000,
+          "endDate": 1785222000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1785222000,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "355 Blackburn Road",
       "applicant": "",
       "cityApplicationType": "Land Use Bylaw Amendment",
@@ -124818,6 +124997,35 @@
       "withApplicantDays": null,
       "city": "Salt Spring",
       "lastUpdated": 1775741968,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "116 Jackson Avenue",
+      "applicant": "",
+      "cityApplicationType": "Land Use Bylaw Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PLRZ20260013",
+      "applicationDate": 1785322543,
+      "addresses": [
+        "116 Jackson Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Application to amend the LUB to allow the commercial use",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "PLRZ20260013_SS-LTC_2026-03-19_RM_AGD_FINAL_EXT.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/1.%20Staff%20Reports/PLRZ20260013_SS-LTC_2026-03-19_RM_AGD_FINAL_EXT.pdf"
+        },
+        {
+          "docName": "SS-BL-553_ATT1.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/2.%20Proposed%20Bylaw%20or%20Permit/SS-BL-553_ATT1.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Salt Spring",
+      "lastUpdated": 1785322543,
       "relatedPermits": []
     },
     {
@@ -135121,7 +135329,7 @@
         "1247 KINGSWAY"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building, containing Retail at grade, and Residential above (34 Secured Market Rental Dwelling units), over two levels of underground parking having vehicular access from rear lane.\n\nStage I (excavation/ shoring) issued September 26/ 2024.\n\nStage II (foundation to grade) issued Nov 14/ 2024.\n\nRevision #1: to revise excavation/shoring design.\n\nStage III (full construction) issued April 4/ 2025.\n\nRevision #2: To update number of dwelling units from 32 to 34 per M/A DP-2025-00058, and to address building height more than 18m in height, per M/A DP-2026-00360, exceeded by 100mm; refer to CP letter with mitigating features. Drawings to be updated at FDD. - in review\nProject Value: $19,800,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Multiple Dwelling, Retail Store\nNeighbourhood: Kensington-Cedar Cottage",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building, containing Retail at grade, and Residential above (34 Secured Market Rental Dwelling units), over two levels of underground parking having vehicular access from rear lane.\n\nStage I (excavation/ shoring) issued September 26/ 2024.\n\nStage II (foundation to grade) issued Nov 14/ 2024.\n\nRevision #1: to revise excavation/shoring design.\n\nStage III (full construction) issued April 4/ 2025.\n\nRevision #2: To update number of dwelling units from 32 to 34 per M/A DP-2025-00058, and to address building height more than 18m in height, per M/A DP-2026-00360, exceeded by 100mm.  Mitigating features include additional weatherstripping for all exit doors from L2 to roof and additional signage at the annunciator panel, and in each exit next to each door from the exit into the floor area which reads \"Level 6 Floor Elevation is 18.1 m above grade.\" Drawings to be updated at FDD. - in review\nProject Value: $19,800,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Multiple Dwelling, Retail Store\nNeighbourhood: Kensington-Cedar Cottage",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -135158,7 +135366,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784804211,
+      "lastUpdated": 1785322583,
       "relatedPermits": [],
       "projectValue": 19800000,
       "latitude": 49.251884,
@@ -141126,7 +141334,7 @@
         "3367 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building consisting of:\n  1st storey - 3 CRU's (shell only)\n  2nd storey - child/daycare facility (shell only)\n  3rd to 6th storeys - offices (shell only)\n  Rooftop - outdoor amenity\n\nall over 3 levels of underground parking, accessed from the lane.\n\nNotes:\n1. This permit has been reviewed in accordance with the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. Sentence 3.2.6.1.(2) is applicable. The design area above the basement must be twice that permitted by NFPA 13.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Jul. 16, 2025\n\nSTAGE 1A: Addition of foundation of stair core at Grid 8 to 12 only (T.Lee)\nISSUED: Dec. 24, 2025\n\nSTAGE II: Foundation up to Grade (S.Yoo)\nISSUED: Jan. 14, 2026\n\nREVISION I: Change of Registered Professionals of Record for the Geotechnical (Permanent) and Structural Disciplines; Replacement of Stage 2 Structural Drawings (S.Yoo)\nISSUED: Mar. 24, 2026\n\nSTAGE III: Full Construction - In review\nProject Value: $10,931,000.00\nProperty Use: Institutional Uses, Office Uses, Retail Uses, Service Uses\nSpecific Use: General Office, Child Day Care Facility, Retail Store, Restaurant - Class 1\nNeighbourhood: South Cambie\nContractor: KCM CONSTRUCTION INC.",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building consisting of:\n  1st storey - 3 CRU's (shell only)\n  2nd storey - child/daycare facility (shell only)\n  3rd to 6th storeys - offices (shell only)\n  Rooftop - outdoor amenity\n\nall over 3 levels of underground parking, accessed from the lane.\n\nNotes:\n1. This permit has been reviewed in accordance with the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. Sentence 3.2.6.1.(2) is applicable. The design area above the basement must be twice that permitted by NFPA 13.\n4. Three 2-hr vertical shafts with grease duct are provided from ceiling to the roof for all 3 CRUs.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Jul. 16, 2025\n\nSTAGE 1A: Addition of foundation of stair core at Grid 8 to 12 only (T.Lee)\nISSUED: Dec. 24, 2025\n\nSTAGE II: Foundation up to Grade (S.Yoo)\nISSUED: Jan. 14, 2026\n\nREVISION I: Change of Registered Professionals of Record for the Geotechnical (Permanent) and Structural Disciplines; Replacement of Stage 2 Structural Drawings (S.Yoo)\nISSUED: Mar. 24, 2026\n\nSTAGE III: Full Construction - In review\nProject Value: $10,931,000.00\nProperty Use: Institutional Uses, Office Uses, Retail Uses, Service Uses\nSpecific Use: General Office, Child Day Care Facility, Retail Store, Restaurant - Class 1\nNeighbourhood: South Cambie\nContractor: KCM CONSTRUCTION INC.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -141157,7 +141365,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1780656991,
+      "lastUpdated": 1785322583,
       "relatedPermits": [],
       "projectValue": 10931000,
       "latitude": 49.255336,
@@ -161221,7 +161429,7 @@
         "1738 W 11TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building with 2 residential towers (282 secured market rental units) consisting of:\n\nPodium: 3 storeys\n  1st storey - 1 CRU; 2 residential lobbies; dwelling units; indoor & outdoor amenities\n  2nd storey - dwelling units; indoor amenity\n  3rd storey - dwelling units; indoor & outdoor amenities\nTower 1 (East): 20-storeys\n  4th to 20th storeys - dwelling units\nTower 2 (West): 19-storeys\n  4th to 19th storeys - dwelling units\n\nall over 4 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Feb. 20, 2026\n\nSTAGE II: Foundation up to Grade - In review\nProject Value: $105,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Fairview\nContractor: ITC BC BUILDERS INC.",
+      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building with 2 residential towers (282 secured market rental units) consisting of:\n\nPodium: 3 storeys\n  1st storey - 1 CRU; 2 residential lobbies; dwelling units; indoor & outdoor amenities\n  2nd storey - dwelling units; indoor amenity\n  3rd storey - dwelling units; indoor & outdoor amenities\nTower 1 (East): 20-storeys\n  4th to 20th storeys - dwelling units\nTower 2 (West): 19-storeys\n  4th to 19th storeys - dwelling units\n\nall over 4 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Feb. 20, 2026\n\nSTAGE II: Foundation up to Grade (TN for SY)\nISSUED: July 27, 2026\nProject Value: $105,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Fairview\nContractor: ITC BC BUILDERS INC.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -161240,13 +161448,19 @@
           "taskType": "",
           "startDate": 1771574400,
           "endDate": 1771574400
+        },
+        {
+          "taskDescription": "STAGE II: Foundation up to Grade",
+          "taskType": "",
+          "startDate": 1785139200,
+          "endDate": 1785139200
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1771545600,
+      "lastUpdated": 1785322583,
       "relatedPermits": [],
       "projectValue": 105000000,
       "latitude": 49.26176,
@@ -178245,6 +178459,12 @@
           "endDate": 1765350000
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1784876400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -178267,10 +178487,22 @@
         {
           "docName": "2025-09-08 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82054C250908130129792733&folderId=88758C241114154446807754"
+        },
+        {
+          "docName": "2026-07-24 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82531C260724083654884406&folderId=88758C241114154446807754"
+        },
+        {
+          "docName": "2026-07-24 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82531C260724083654917090&folderId=88758C241114154446807754"
+        },
+        {
+          "docName": "2026-07-24 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82531C260724083654949844&folderId=88758C241114154446807754"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1767787041,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00039",
@@ -181985,7 +182217,7 @@
         "2501 BLANSHARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to construct a 6-storey, 106-unit rental housing building.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "purpose": "The City is reviewing a Delegated Development Permit application to construct a 6-storey, 110-unit affordable rental housing building.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
@@ -182020,10 +182252,30 @@
         {
           "docName": "2025-07-17 - Plans_Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=66082C250717135041498657&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "2026-03-03 - Plans_revisions - reduced for DT.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82377C260723135015249703&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "2026-03-03 - Plans_Revisions_Bubbled - 1of3.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BCB5B6FF-E94B-48D7-9E39-D41BB3360167&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "2026-03-03 - Plans_Revisions_Bubbled - 2of3.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BE5DC615-5E9A-4673-96EE-9933B2CE4889&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "2026-03-03 - Plans_Revisions_Bubbled - 3of3.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7752587F-1D5B-438A-A7E2-CB34D488938E&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "2026-03-03 - Revisions Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5CE63C78-3B83-4264-B75D-69AEBE5849F5&folderId=65078C250715134028144551"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784112805,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00092",
@@ -183265,12 +183517,6 @@
           "endDate": 1782284400
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -183308,7 +183554,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784804009,
+      "lastUpdated": 1785322396,
       "relatedPermits": [],
       "major": true,
       "storeys": 3
@@ -184918,6 +185164,12 @@
           "endDate": 1783321200
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1784876400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -184943,7 +185195,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784199212,
+      "lastUpdated": 1785322396,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -187510,12 +187762,6 @@
       "purpose": "The City is reviewing a Delegated Development Permit application for minor landscape and bicycle configuration changes.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
-          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
-          "taskType": "Staff Review Application",
-          "startDate": 1784012400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -187537,7 +187783,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784012400,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000609",
@@ -187597,6 +187843,45 @@
       "city": "Victoria",
       "lastUpdated": 1784271600,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2535 SHELBOURNE ST",
+      "applicant": "MICHAEL MOODY",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01162",
+      "applicationDate": 1784876400,
+      "addresses": [
+        "2535 SHELBOURNE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Changes to the building which have resulted from numerous factors that arose during the building permit documentation phase and associated coordination meetings with the consultant team. Plan check review comments received from the building department differed from our team’s interpretation of the building code and we have had to modify our drawings to conform to their comments. The changes that have resulted are listed on the following page and we offer this synopsis of the revisions which were necessary to improve the constructability of the building and to bring the project up to current code conformance",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1784876400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1784876400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP00928",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1713945600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is considering a Delegated Development Permit application for a 3-storey, 6-unit Missing Middle houseplex.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        }
+      ]
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -210923,6 +211208,12 @@
       "purpose": "The City is considering a Development Permit with Variance application to build a 6 story 51 unit multi-family development. Concurrent with Rezoning file REZ00893. Refer to rezoning file for all materials.",
       "progressSections": [
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1784703600,
+          "endDate": 1784703600
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -210931,7 +211222,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1777114828,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00893",
@@ -211504,6 +211795,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1773990000,
+          "endDate": 1784530800
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1785135600,
           "endDate": null
         },
         {
@@ -211532,7 +211829,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00897",
@@ -239288,7 +239585,7 @@
           "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
           "taskType": "Council Meeting - Public Comment",
           "startDate": 1767855600,
-          "endDate": null
+          "endDate": 1767855600
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
@@ -239468,7 +239765,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00410",
@@ -245528,14 +245825,14 @@
           "endDate": 1762498800
         },
         {
-          "taskDescription": "All City comments provided to the applicant",
-          "taskType": "City Provides Comments to Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1784790000,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -245617,7 +245914,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784717606,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000625",
@@ -249041,7 +249338,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00092",
@@ -249055,7 +249352,7 @@
           "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1752739200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to construct a 6-storey, 106-unit rental housing building.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to construct a 6-storey, 110-unit affordable rental housing building.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
         },
         {
           "relatedPermitID": "CLC00425",
@@ -250728,6 +251025,18 @@
           "endDate": 1780038000
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1783580400,
+          "endDate": 1783580400
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
+          "taskType": "Council Meeting",
+          "startDate": 1784790000,
+          "endDate": 1784790000
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1728975600,
@@ -250740,12 +251049,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": 1783580400,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -250754,12 +251057,6 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
-          "taskType": "Council Meeting",
           "startDate": null,
           "endDate": null
         }
@@ -250803,7 +251100,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1783162402,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000645",
@@ -252309,6 +252606,12 @@
           "endDate": 1781161200
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1784703600,
+          "endDate": 1784703600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1747033200,
@@ -252376,7 +252679,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1781261559,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00292",
@@ -253233,6 +253536,12 @@
           "endDate": 1754550000
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1754463600,
+          "endDate": 1757487600
+        },
+        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1757487600,
@@ -253257,9 +253566,9 @@
           "endDate": 1779346800
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1754463600,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1778223600,
           "endDate": null
         },
         {
@@ -253314,7 +253623,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779533585,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00297",
@@ -253390,6 +253699,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -253440,10 +253755,26 @@
         {
           "docName": "2026-03-11 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B4499625-E02D-4BBC-96BE-E71A5D566F1F&folderId=70294C250730143709242714"
+        },
+        {
+          "docName": "2026-07-27 - Landscape Revision List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83165C260727130351845597&folderId=70294C250730143709242714"
+        },
+        {
+          "docName": "2026-07-27 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83165C260727130351920049&folderId=70294C250730143709242714"
+        },
+        {
+          "docName": "2026-07-27 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83165C260727130351951175&folderId=70294C250730143709242714"
+        },
+        {
+          "docName": "2026-07-27 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83165C260727130351973986&folderId=70294C250730143709242714"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000657",
@@ -253659,6 +253990,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
+          "taskType": "Council Meeting",
+          "startDate": 1785394800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -253667,12 +254004,6 @@
         {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
-          "taskType": "Council Meeting",
           "startDate": null,
           "endDate": null
         }
@@ -253716,7 +254047,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00301",
@@ -254060,7 +254391,7 @@
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
           "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
+          "startDate": 1785394800,
           "endDate": null
         },
         {
@@ -254145,7 +254476,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784112805,
+      "lastUpdated": 1785322396,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00299",
