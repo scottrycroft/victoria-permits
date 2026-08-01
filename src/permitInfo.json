@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1785495175,
+  "dateRetrieved": 1785581567,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14962,18 +14962,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1783594668,
+      "lastUpdated": 1785581785,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021800",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -14999,18 +14999,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1783594668,
+      "lastUpdated": 1785581785,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15036,18 +15036,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1783594668,
+      "lastUpdated": 1785581785,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021800",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -97879,7 +97879,7 @@
       "addresses": [
         "4080 Bayview Street Eva Birchall (226)377-3367"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Recreational\nWork Proposed: Alteration\nConstruction Value: $750,000.00 1 $750,000.00",
       "progressSections": [
         {
@@ -99073,7 +99073,7 @@
       "addresses": [
         "3388 No 3 Road Unit 212 Peter Fanchiang (604)771-7823 4940 No 3 Road Unit 117 Coto Construction Management Ltd (Chris Ng) (778)987-5188"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Beauty Parlour\nWork Proposed: Alteration Alteration\nConstruction Value: $180,000.00 $40,000.00 2 $220,000.00",
       "progressSections": [
         {
@@ -100358,6 +100358,62 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1785235759,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "13391 Blundell Rd",
+      "applicant": "",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-014182-000-00-DD",
+      "applicationDate": 1785225600,
+      "addresses": [
+        "13391 Blundell Rd"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Barn\nWork Proposed: Demolish\nContractor: G Divine Construction Corporation (604) 616-3807\nDescription: Detached Mushroom Barn",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785225600,
+          "endDate": 1785225600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785581780,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4651 Larkspur Avenue",
+      "applicant": "Bradley Dore (604)782-8240",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-015282-000-00-D7",
+      "applicationDate": 1785225600,
+      "addresses": [
+        "4651 Larkspur Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Nahal Site Services Ltd (604)537-4858",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785225600,
+          "endDate": 1785225600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1785581780,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -102328,7 +102384,7 @@
         "1101-4201 TYNDALL AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "TO AMEND DPR00870 FOR CHANGES TO THE LANDSCAPING, FENCING AND AMENITY AREA",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -102346,18 +102402,30 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1781593200,
-          "endDate": null
+          "endDate": 1782111600
         },
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1782111600,
+          "endDate": 1784617200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1784617200,
+          "endDate": 1784617200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1784617200,
+          "endDate": 1784617200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1781693588,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM25743",
@@ -116163,6 +116231,12 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1781852400,
+          "endDate": 1785481200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1785481200,
           "endDate": null
         }
       ],
@@ -116185,7 +116259,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1781952848,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -116872,6 +116946,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1783407600,
+          "endDate": 1785481200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1785481200,
           "endDate": null
         }
       ],
@@ -116882,7 +116962,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1783508032,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00644",
@@ -118774,12 +118854,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1781766000,
+          "endDate": 1785481200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1785481200,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1784026398,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00858",
@@ -150566,7 +150652,7 @@
         "3329 W 41ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Private Care Facility noncombustible building consists of:\n1st storey - assisted  living units,\n2rd and 4th storeys - long term memory care living units,\n5th and 6th storeys - independent  living units, \n7th storey - amenity space and exterior occupied roof deck,\nAll over one level of underground parking with vehicle access from lane.  \n\nShared amenity spaces will be located on Levels P1 through 4th storey.\nOccupants in the assisted  living  are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\n\nThis building is provided with a 2-stage fire alarm system and radio antenna system.  \nThis building is designed to VBBL 2019. \n\n18-Mar-2026 - Stage 1 (excavation, shoring & foundation to grade, incl. L1 slab) issued.\n\n23-July-2026 - Revision #1 issued.\nChanges to structural foundation to grade. Revisions include 4th elevator and related\ninterior layout changes to accommodate elevator.\n\nChange Notice: Project description updated -  Level 5 and Level 6 occupied by independent living units.\nProject Value: $101,241,900.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Parking Garage, Community Care Facility - Class B\nNeighbourhood: Dunbar-Southlands\nContractor: MARCON PROJECT (661) LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Private Care Facility non-combustible building consists of:\n1st storey - independent   living units,\n2nd to  4th storeys - long term memory care living units,\n5th and 6th storeys - independent  living units, \n7th storey - amenity space and exterior occupied roof deck,\nAll over one level of underground parking with vehicle access from lane.  \n\nShared amenity spaces will be located on Levels P1 through 4th storey.\nOccupants in the assisted  living  are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\n\nThis building is provided with a 2-stage fire alarm system and radio antenna system.  \nThis building is designed to VBBL 2019. \n\n18-Mar-2026 - Stage 1 (excavation, shoring & foundation to grade, incl. L1 slab) issued.\n\n23-July-2026 - Revision #1 issued.\nChanges to structural foundation to grade. Revisions include 4th elevator and related\ninterior layout changes to accommodate elevator.\n\nChange Notice: Project description updated -  Level 5 and Level 6 occupied by independent living units.\nProject Value: $101,241,900.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Parking Garage, Community Care Facility - Class B\nNeighbourhood: Dunbar-Southlands\nContractor: MARCON PROJECT (661) LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -150591,7 +150677,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1785495395,
+      "lastUpdated": 1785581792,
       "relatedPermits": [],
       "projectValue": 101241900,
       "latitude": 49.235074,
@@ -162166,6 +162252,50 @@
       "storeys": 7
     },
     {
+      "primaryStreetName": "3448 CORNETT ROAD",
+      "applicant": "Naki Ocran",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-03615",
+      "applicationDate": 1755043200,
+      "addresses": [
+        "3448 CORNETT ROAD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 3 storey Data Center (Group F2) located at 3448 Cornett Road. \n\nThis is a CP Process Permit and the applicant is Naki Ocran, P.Eng, CP.\n\n***REVIEWED UNDER VBBL 2019****\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Foundation to Grade- 2026-07-30\nRefer to related alternative solutions:\nAL-2026-00004 & AL-2026-00005\nProject Value: $75,000,000.00\nProperty Use: Transportation and Storage Uses\nSpecific Use: Bulk Data Storage\nNeighbourhood: Renfrew-Collingwood",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1755043200,
+          "endDate": 1755043200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1755043200,
+          "endDate": 1755043200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1755043200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-01660",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 75000000,
+      "latitude": 49.260776,
+      "longitude": -123.029386,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "188 E 5TH AVENUE",
       "applicant": "Tavis McAuley DBA: McAuley Consulting",
       "cityApplicationType": "New Building",
@@ -165176,7 +165306,7 @@
         "2356 W 13TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" front building and a detached carport having vehicular access from the lane.\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design \n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n4. Reviewed under VBBL 2025 \n5. Energy requirements per 10.2.1.5\nProject Value: $2,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kitsilano\nContractor: Mann Bros Construction Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" front building and a detached carport having vehicular access from the lane.\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design \n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n4. Reviewed under VBBL 2025 \n5. Energy requirements per 10.2.1.5\n\nRevision #1:\n• Addition of new window in second storey of units B and C.\n• Revise kitchen window sizes on the first storey of all units for West and South elevations.\n• Reconfiguration of the second storey interior layout, including windows and interior partitions of units B and C. \n• Relocation of Master bedroom window in units B and C at South and North Elevations.\nProject Value: $2,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kitsilano\nContractor: Mann Bros Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -165195,7 +165325,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1775779200,
+      "lastUpdated": 1785581792,
       "relatedPermits": [],
       "projectValue": 2500000,
       "latitude": 49.259895,
@@ -177663,7 +177793,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1780556400,
-          "endDate": null
+          "endDate": 1784185200
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -177699,7 +177829,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1780656798,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00795",
@@ -187892,6 +188022,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1785481200,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -187906,7 +188042,7 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1782816769,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00302",
@@ -188220,6 +188356,18 @@
       "purpose": "The City is reviewing a Delegated Development Permit application for minor landscape and bicycle configuration changes.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1785135600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -188241,7 +188389,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000609",
@@ -212295,18 +212443,18 @@
         "1101 YATES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application for a mixed-use commercial and rental building. SEE REZ00904 FOR PROJECT DETAILS.",
+      "purpose": "The City is considering a Development Permit with Variance application for a mixed-use commercial and rental building. SEE REZ00904 FOR PROJECT DETAILS. APPROVED BY COUNCIL JULY 30, 2026",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1779101859,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00904",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1754899200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Rezoning application for a mixed-use development consisting of two buildings (6 storeys and 19 storeys). Uses include ground floor retail / restaurant use, licensed childcare, conference and commercial office spaces and 175 rental units. \n\nConcurrent with DPV00301."
+          "relatedPermitDescription": "The City is considering a Rezoning application for a mixed-use development consisting of two buildings (6 storeys and 19 storeys). Uses include ground floor retail / restaurant use, licensed childcare, conference and commercial office spaces and 175 rental units. \n\nConcurrent with DPV00301.\n\nAPPROVED BY COUNCIL JULY 30, 2026"
         },
         {
           "relatedPermitID": "DP000656",
@@ -212323,7 +212471,8 @@
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\n\n\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca"
         }
       ],
-      "major": true
+      "major": true,
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "251 ESQUIMALT RD",
@@ -254615,7 +254764,7 @@
         "1101 YATES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a mixed-use development consisting of two buildings (6 storeys and 19 storeys). Uses include ground floor retail / restaurant use, licensed childcare, conference and commercial office spaces and 175 rental units. Concurrent with DPV00301.",
+      "purpose": "The City is considering a Rezoning application for a mixed-use development consisting of two buildings (6 storeys and 19 storeys). Uses include ground floor retail / restaurant use, licensed childcare, conference and commercial office spaces and 175 rental units. Concurrent with DPV00301. APPROVED BY COUNCIL JULY 30, 2026",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -254672,6 +254821,12 @@
           "endDate": 1778137200
         },
         {
+          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
+          "taskType": "Council Meeting",
+          "startDate": 1785394800,
+          "endDate": 1785394800
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1755068400,
@@ -254681,12 +254836,6 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1777964400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
-          "taskType": "Council Meeting",
-          "startDate": 1785394800,
           "endDate": null
         },
         {
@@ -254741,14 +254890,14 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1785581569,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00301",
           "relatedPermitType": "Development Permit with Variance",
           "relatedPermitApplicationDate": 1758700800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Development Permit with Variance application for a mixed-use commercial and rental building.\n\nSEE REZ00904 FOR PROJECT DETAILS."
+          "relatedPermitDescription": "The City is considering a Development Permit with Variance application for a mixed-use commercial and rental building.\n\nSEE REZ00904 FOR PROJECT DETAILS.\n\n\nAPPROVED BY COUNCIL JULY 30, 2026"
         },
         {
           "relatedPermitID": "DP000656",
@@ -254766,6 +254915,7 @@
         }
       ],
       "major": true,
+      "approvalStatus": "Approved",
       "storeys": 19
     },
     {
@@ -257963,8 +258113,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportjul19202679412.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demolitionreportjul19202679413.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportjul26202679468.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demolitionreportjul26202679469.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
