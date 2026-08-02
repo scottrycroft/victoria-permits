@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1785581567,
+  "dateRetrieved": 1785668626,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15398,8 +15398,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785408966,
+      "lastUpdated": 1785668246,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021865",
           "relatedPermitType": "Development Permit"
@@ -15414,10 +15418,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15441,8 +15441,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785408966,
+      "lastUpdated": 1785668246,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15457,10 +15461,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15484,8 +15484,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785408966,
+      "lastUpdated": 1785668246,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15500,10 +15504,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15527,8 +15527,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785408966,
+      "lastUpdated": 1785668246,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15543,10 +15547,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15570,8 +15570,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785408966,
+      "lastUpdated": 1785668246,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15586,10 +15590,6 @@
         },
         {
           "relatedPermitID": "BP021867",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -87046,7 +87046,7 @@
     },
     {
       "primaryStreetName": "867 TRANSIT RD",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000067",
@@ -87054,7 +87054,7 @@
       "addresses": [
         "867 TRANSIT RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This is an application for a Development Permit to enable the conversion of a garage to an accessory dwelling unit on a property with an existing primary dwelling and secondary suite.",
       "progressSections": [
         {
@@ -87094,8 +87094,14 @@
           "endDate": 1781074800
         },
         {
-          "taskDescription": "The Delegate may make one of the following decisions:\n1. Issue the Development Permit, with conditions. \n2. Refer the application to Council, where deemed to be in the public interest. \n3. Decline to issue the Development Permit.",
-          "taskType": "*DELEGATE DECISION",
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "*FILE COMPLETED",
+          "startDate": 1782284400,
+          "endDate": 1782284400
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "*FILE COMPLETED",
           "startDate": null,
           "endDate": null
         }
@@ -91597,7 +91603,7 @@
     },
     {
       "primaryStreetName": "2253 MCNEILL AVE",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00068",
@@ -91605,7 +91611,7 @@
       "addresses": [
         "2253 MCNEILL AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This is an application for a Zoning Bylaw Amendment to increase the Floor Area Ratio and reduce the setback from a rear lot line to enable the addition of a secondary suite onto the rear of the existing building.",
       "progressSections": [
         {
@@ -91639,26 +91645,26 @@
           "endDate": 1780902000
         },
         {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
           "taskType": "*COUNCIL - READINGS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1780902000,
+          "endDate": 1780902000
         },
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1780902000,
+          "endDate": 1780902000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
+          "startDate": 1780902000,
+          "endDate": 1780902000
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
           "startDate": null,
           "endDate": null
         }
@@ -91757,7 +91763,7 @@
     },
     {
       "primaryStreetName": "1151 ST DAVID ST",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00070",
@@ -91765,7 +91771,7 @@
       "addresses": [
         "1151 ST DAVID ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This is an application for a Bylaw (text) amendment to bring site coverage, FAR, and lot coverage into compliance to accommodate renovations to the residence.",
       "progressSections": [
         {
@@ -91811,14 +91817,14 @@
           "endDate": 1780902000
         },
         {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
+          "startDate": 1780902000,
+          "endDate": 1780902000
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
           "startDate": null,
           "endDate": null
         }
@@ -91826,7 +91832,15 @@
       "documents": [],
       "city": "Oak Bay",
       "lastUpdated": 1781175158,
-      "relatedPermits": []
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP017867",
+          "relatedPermitType": "PART 9 BUILDING (STANDARD)",
+          "relatedPermitApplicationDate": 1781596800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "This permit application is for Interior Renovations and building of exterior new deck."
+        }
+      ]
     },
     {
       "primaryStreetName": "2630 MARGATE AVE",
@@ -113286,93 +113300,6 @@
     },
     {
       "primaryStreetName": "1140 ROCK ST",
-      "applicant": "FD FRAME DEVELOPMENTS LTD.",
-      "cityApplicationType": "DEVELOPMENT PERMIT",
-      "applicationType": "Development Permit",
-      "folderNumber": "DPR01086",
-      "applicationDate": 1744182000,
-      "addresses": [
-        "1140 ROCK ST",
-        "1180 ROCK ST"
-      ],
-      "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 TO A TBD ZONE TO CONSTRUCT AN 18 UNIT TOWNHOUSE PROJECT WHERE TWO SINGLE FAMILY HOMES CURRENTLY EXIST",
-      "progressSections": [
-        {
-          "taskDescription": "Application has been received by the District",
-          "taskType": "APPLICATION RECEIVED",
-          "startDate": 1744182000,
-          "endDate": 1744182000
-        },
-        {
-          "taskDescription": "Application submission review for completeness",
-          "taskType": "APPLICATION REVIEW BY DISTRICT",
-          "startDate": 1744182000,
-          "endDate": 1745478000
-        },
-        {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1745391600,
-          "endDate": 1745478000
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": 1745910000,
-          "endDate": 1749711600
-        },
-        {
-          "taskDescription": "Review of referral responses from District departments and external agencies",
-          "taskType": "STAFF REVIEW REFERRALS",
-          "startDate": 1749711600,
-          "endDate": 1756882800
-        },
-        {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1756882800,
-          "endDate": 1763449200
-        },
-        {
-          "taskDescription": "Application has been cancelled",
-          "taskType": "APPLICATION CANCELLED",
-          "startDate": 1763449200,
-          "endDate": 1763449200
-        }
-      ],
-      "documents": [
-        {
-          "docName": "ELEVATIONS_APR 9 2025",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=CB742F1A-4F9B-4B1E-80D2-3161C57B50CB&folderId=36069C250423090016251933"
-        },
-        {
-          "docName": "LANDSCAPE PLANS_APR 9 2025",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6392465E-0F86-466B-9DDC-E1342E6696E3&folderId=36069C250423090016251933"
-        },
-        {
-          "docName": "SITE PLAN_APRIL 9 2025",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FE1943B6-8526-45DB-83A9-DDDDD4C14CFC&folderId=36069C250423090016251933"
-        },
-        {
-          "docName": "STREETSCAPE_APR 9 2025",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E9AA1285-9DD1-4FED-91E6-7D293A7401D3&folderId=36069C250423090016251933"
-        }
-      ],
-      "city": "Saanich",
-      "lastUpdated": 1763449200,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "REZ00792",
-          "relatedPermitType": "REZONING",
-          "relatedPermitApplicationDate": 1744185600,
-          "relatedPermitStatus": "ARCHIVED",
-          "relatedPermitDescription": "TO REZONE FROM RS-6 TO RT-7 TO CONSTRUCT A 18 UNIT TOWNHOUSE PROJECT"
-        }
-      ]
-    },
-    {
-      "primaryStreetName": "1140 ROCK ST",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
@@ -113442,6 +113369,93 @@
       ],
       "city": "Saanich",
       "lastUpdated": 1756984084,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00792",
+          "relatedPermitType": "REZONING",
+          "relatedPermitApplicationDate": 1744185600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "TO REZONE FROM RS-6 TO RT-7 TO CONSTRUCT A 18 UNIT TOWNHOUSE PROJECT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1140 ROCK ST",
+      "applicant": "",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01086",
+      "applicationDate": 1744182000,
+      "addresses": [
+        "1140 ROCK ST",
+        "1180 ROCK ST"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "TO REZONE FROM RS-6 TO A TBD ZONE TO CONSTRUCT AN 18 UNIT TOWNHOUSE PROJECT WHERE TWO SINGLE FAMILY HOMES CURRENTLY EXIST",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1744182000,
+          "endDate": 1744182000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1744182000,
+          "endDate": 1745478000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1745391600,
+          "endDate": 1745478000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1745910000,
+          "endDate": 1749711600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1749711600,
+          "endDate": 1756882800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1756882800,
+          "endDate": 1763449200
+        },
+        {
+          "taskDescription": "Application has been cancelled",
+          "taskType": "APPLICATION CANCELLED",
+          "startDate": 1763449200,
+          "endDate": 1763449200
+        }
+      ],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_APR 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=CB742F1A-4F9B-4B1E-80D2-3161C57B50CB&folderId=36069C250423090016251933"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_APR 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6392465E-0F86-466B-9DDC-E1342E6696E3&folderId=36069C250423090016251933"
+        },
+        {
+          "docName": "SITE PLAN_APRIL 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FE1943B6-8526-45DB-83A9-DDDDD4C14CFC&folderId=36069C250423090016251933"
+        },
+        {
+          "docName": "STREETSCAPE_APR 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E9AA1285-9DD1-4FED-91E6-7D293A7401D3&folderId=36069C250423090016251933"
+        }
+      ],
+      "city": "Saanich",
+      "lastUpdated": 1763449200,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00792",
@@ -117501,7 +117515,7 @@
     },
     {
       "primaryStreetName": "3835 EPSOM DR",
-      "applicant": "JRTW PLANNING SERVICES",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DVP00509",
@@ -117509,7 +117523,7 @@
       "addresses": [
         "3835 EPSOM DR"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO REZONE FROM RS-6 TO RS-2 TO CREATE ONE ADDITIONAL LOT FOR SFD USE, RESULTING IN A TOTAL OF 2 LOTS.",
       "progressSections": [
         {
@@ -117575,7 +117589,7 @@
           "relatedPermitID": "REZ00726",
           "relatedPermitType": "REZONING",
           "relatedPermitApplicationDate": 1669968000,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "TO REZONE FROM RS-6 TO RS-2 TO CREATE ONE ADDITIONAL LOT FOR SFD USE, RESULTING IN A TOTAL OF 2 LOTS."
         }
       ]
@@ -118555,7 +118569,7 @@
     },
     {
       "primaryStreetName": "4335 BLENKINSOP RD",
-      "applicant": "JIE LIU",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DVP00556",
@@ -118563,7 +118577,7 @@
       "addresses": [
         "4335 BLENKINSOP RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "VARIANCE REQUIRED TO THE FARM RESIDENTIAL FOOTPRINT TO ENCOMPASS NON-CONFORMING ACCESSORY BUILDING",
       "progressSections": [
         {
@@ -118638,7 +118652,7 @@
           "relatedPermitID": "RBP00606",
           "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1764835200,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "ADDITION TO ACCESSORY BUILDING - COMPLETE EXPIRED BLD19793"
         },
         {
@@ -119675,7 +119689,7 @@
     },
     {
       "primaryStreetName": "3835 EPSOM DR",
-      "applicant": "JRTW PLANNING SERVICES",
+      "applicant": "",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00726",
@@ -119683,7 +119697,7 @@
       "addresses": [
         "3835 EPSOM DR"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO REZONE FROM RS-6 TO RS-2 TO CREATE ONE ADDITIONAL LOT FOR SFD USE, RESULTING IN A TOTAL OF 2 LOTS.",
       "progressSections": [
         {
@@ -119742,7 +119756,7 @@
           "relatedPermitID": "DVP00509",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT",
           "relatedPermitApplicationDate": 1693468800,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "TO REZONE FROM RS-6 TO RS-2 TO CREATE ONE ADDITIONAL LOT FOR SFD USE, RESULTING IN A TOTAL OF 2 LOTS."
         },
         {
@@ -136426,7 +136440,7 @@
         "4065 VICTORIA DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new three-storey Neighbourhood House building (A2 occupancy - non-combustible construction) over one level of underground parking having vehicular access from Alice Street. The new building includes childcare with an open outdoor playground, adult day programs, and administrative support.\n\nChildcare:\n12 for under 36 months.\n25 for 30 months to school age.\n\nVBBL 2019 - NFPA 13\n\nMechanical Review Notes:\n- One Class 1 Cooking operation (Grease-Laden Vapours) proposed for Main Kitchen on Lever 2. \n  Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n- One Class 3 Cooking operation (Domestic Hood with Electrical Range) proposed for Community Kitchen on Level 2. A sign shall be posted: “This is a Class 3 Cooking Operation, with a grease capacity alike to a single-family residence. No commercial cooking is permitted, including preparation of meals for more than a normal household on a regularly repeated basis.”\n\nStage 1 - Full Construction issued on March 21, 2025.  \n\nRev #1 - (Jun ____, 2026) - A Change of Struct. Eng from Andrew Chad (Outgoing - Apr. 30, 2026) to IIana Danzig (Incoming - May 1, 2026).\nProject Value: $15,159,000.00\nProperty Use: Cultural/Recreational Uses\nSpecific Use: Community Ctr./Neighbourhood House\nNeighbourhood: Kensington-Cedar Cottage\nContractor: Naikoon Contracting Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new three-storey Neighbourhood House building (A2 occupancy - non-combustible construction) over one level of underground parking having vehicular access from Alice Street. The new building includes childcare with an open outdoor playground, adult day programs, and administrative support.\n\nChildcare:\n12 for under 36 months.\n25 for 30 months to school age.\n\nVBBL 2019 - NFPA 13\n\nMechanical Review Notes:\n- One Class 1 Cooking operation (Grease-Laden Vapours) proposed for Main Kitchen on Lever 2. \n  Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n- One Class 3 Cooking operation (Domestic Hood with Electrical Range) proposed for Community Kitchen on Level 2. A sign shall be posted: “This is a Class 3 Cooking Operation, with a grease capacity alike to a single-family residence. No commercial cooking is permitted, including preparation of meals for more than a normal household on a regularly repeated basis.”\n\nStage 1 - Full Construction issued on March 21, 2025.  \n\nRev #1 - (July 31, 2026) - A Change of Struct. Eng from Andrew Chad (Outgoing - Apr. 30, 2026) to IIana Danzig (Incoming - May 1, 2026).\nProject Value: $15,159,000.00\nProperty Use: Cultural/Recreational Uses\nSpecific Use: Community Ctr./Neighbourhood House\nNeighbourhood: Kensington-Cedar Cottage\nContractor: Naikoon Contracting Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -136451,7 +136465,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1781088990,
+      "lastUpdated": 1785668252,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-01024",
@@ -136515,7 +136529,7 @@
         "8302 BEATRICE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey Mass Timber, combustible residential (social housing) building containing 72 social housing dwelling units with a commercial kitchen, multi-purpose dining, medical, reception, and counseling area on the ground floor with a one-level underground parkade having vehicular access from the lane. \n \n(SHORT) - VBBL 2019 - NFPA 13 - Radio Antenna installed.\n\nMechanical Review Notes:\n1. Class 1 cooking operations (Grease-Laden Vapours).\n2. Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n3. Kitchen exhaust will be discharged vertically to the roof in a 2-hr rated shaft. \n\nStage 1 - Full Construction issued on June 26, 2025.\n\nRev # 1 (_________)- Exterior and interior changes on the following:\n\n- Cladding changes.\n- Wall assembly changes, CMU non-load-bearing masonry wall.\n- Commercial kitchen ceiling and shaft configuration changes.\n- Window and door changes.\n- City tree relocation.\n- Layout changes to Medical, Team, 118 Support, and 119 counselling rooms.\n- Stair 1 reconfiguration.\n- Width of canopy overhang at entry is reduced.\n- C2b Level 6 rooftop amenity layout revised to provide a covered area - covered area added to Level 6 rooftop amenity space.\n- Rooftop equipment layout changes\n- Suite direct exhaust and make-up air ventilation deleted. Standalone system not tied to overall centralized building ventilation.\n- Revised exterior guardrails from perforated metal to aluminum picket.\nProject Value: $30,854,312.26\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Victoria-Fraserview\nContractor: Kindred Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey Mass Timber, combustible residential (social housing) building containing 72 social housing dwelling units with a commercial kitchen, multi-purpose dining, medical, reception, and counseling area on the ground floor with a one-level underground parkade having vehicular access from the lane. \n \n(SHORT) - VBBL 2019 - NFPA 13 - Radio Antenna installed.\n\nMechanical Review Notes:\n1. Class 1 cooking operations (Grease-Laden Vapours).\n2. Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n3. Kitchen exhaust will be discharged vertically to the roof in a 2-hr rated shaft. \n\nStage 1 - Full Construction issued on June 26, 2025.\n\nRev # 1 (_________) - Exterior and interior changes on the following:\n\n- Cladding changes.\n- Wall assembly changes, CMU non-load-bearing masonry wall.\n- Commercial kitchen equipment and shaft configuration changes.\n- Window and door changes.\n- City tree relocation.\n- Layout changes to Medical, Team, 118 Support, and 119 counselling rooms.\n- Stair 1 reconfiguration.\n- Width of canopy overhang at entry is reduced.\n- C2b Level 6 rooftop amenity layout revised to provide a covered area - covered area added to Level 6 rooftop amenity space.\n- Rooftop equipment layout changes\n- Suite direct exhaust and make-up air ventilation deleted. Standalone system not tied to overall centralized building ventilation.\n- Revised exterior guardrails from perforated metal to aluminum picket.\nProject Value: $30,854,312.26\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Victoria-Fraserview\nContractor: Kindred Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -136540,7 +136554,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1783853800,
+      "lastUpdated": 1785668252,
       "relatedPermits": [],
       "projectValue": 30854312.26,
       "latitude": 49.210141,
@@ -141716,7 +141730,7 @@
         "3367 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building consisting of:\n  1st storey - 3 CRU's (shell only)\n  2nd storey - child/daycare facility (shell only)\n  3rd to 6th storeys - offices (shell only)\n  Rooftop - outdoor amenity\n\nall over 3 levels of underground parking, accessed from the lane.\n\nNotes:\n1. This permit has been reviewed in accordance with the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. Sentence 3.2.6.1.(2) is applicable. The design area above the basement must be twice that permitted by NFPA 13.\n4. Three 2-hr vertical shafts with grease duct are provided from ceiling to the roof for all 3 CRUs.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Jul. 16, 2025\n\nSTAGE 1A: Addition of foundation of stair core at Grid 8 to 12 only (T.Lee)\nISSUED: Dec. 24, 2025\n\nSTAGE II: Foundation up to Grade (S.Yoo)\nISSUED: Jan. 14, 2026\n\nREVISION I: Change of Registered Professionals of Record for the Geotechnical (Permanent) and Structural Disciplines; Replacement of Stage 2 Structural Drawings (S.Yoo)\nISSUED: Mar. 24, 2026\n\nSTAGE III: Full Construction - In review\nProject Value: $10,931,000.00\nProperty Use: Institutional Uses, Office Uses, Retail Uses, Service Uses\nSpecific Use: General Office, Child Day Care Facility, Retail Store, Restaurant - Class 1\nNeighbourhood: South Cambie\nContractor: KCM CONSTRUCTION INC.",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building consisting of:\n  1st storey - 3 CRU's (shell only)\n  2nd storey - child/daycare facility (shell only)\n  3rd to 6th storeys - offices (shell only)\n  Rooftop - outdoor amenity\n\nall over 3 levels of underground parking, accessed from the lane.\n\nNotes:\n1. This permit has been reviewed in accordance with the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. Sentence 3.2.6.1.(2) is applicable. The design area above the basement must be twice that permitted by NFPA 13.\n4. Three 2-hr vertical shafts with grease duct are provided from ceiling to the roof for all 3 CRUs.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Jul. 16, 2025\n\nSTAGE 1A: Addition of foundation of stair core at Grid 8 to 12 only (T.Lee)\nISSUED: Dec. 24, 2025\n\nSTAGE II: Foundation up to Grade (S.Yoo)\nISSUED: Jan. 14, 2026\n\nREVISION I: Change of Registered Professionals of Record for the Geotechnical (Permanent) and Structural Disciplines; Replacement of Stage 2 Structural Drawings (S.Yoo)\nISSUED: Mar. 24, 2026\n\nSTAGE III: Full Construction (TN for SY)\nISSUED: July 31, 2026\nProject Value: $10,931,000.00\nProperty Use: Institutional Uses, Office Uses, Retail Uses, Service Uses\nSpecific Use: General Office, Child Day Care Facility, Retail Store, Restaurant - Class 1\nNeighbourhood: South Cambie\nContractor: KCM CONSTRUCTION INC.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -141741,13 +141755,19 @@
           "taskType": "",
           "startDate": 1768377600,
           "endDate": 1768377600
+        },
+        {
+          "taskDescription": "STAGE III: Full Construction",
+          "taskType": "",
+          "startDate": 1785484800,
+          "endDate": 1785484800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1785322583,
+      "lastUpdated": 1785668252,
       "relatedPermits": [],
       "projectValue": 10931000,
       "latitude": 49.255336,
@@ -156313,7 +156333,7 @@
         "3130 CHARLES STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - FRONT UNIT\n\n“This Building Permit will remain in a suspended status until the associated (green) Demolition Permit BP-2025-02221 is completed.”\n\nTo construction a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building and a two-storey two-unit rear building with three car carport parking space and 12'x12' PMT space having vehicular access from the lane.\n\n1.\\tEntire building to be sprinklered 2x13D \n2.\\tHeat Pump proposed – Exterior component located in front and rear yard, Interior component located in main floor\n3.\\tSchedule B: (Julian Bozsik) P.Eng (604.431.0055) Architectural Item 1.5 \n4.\\tSchedule B: (Julian Bozsik) P.Eng (604.431.0055) Structural\n5.\\tSchedule B: (Julian Bozsik) P.Eng (604.431.0055)  Geotechnical\n6.\\tHPO: Residential Builder- Yuvraj Properties Ltd\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1 -Front\n#1 - 3130 Charles St - one dwelling unit (1st - 3rd Story)\n#2 - 3130 Charles St - one dwelling unit (1st - 3rd Story)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $900,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Hastings-Sunrise\nContractor: Yuvraj Properties Ltd",
+      "purpose": "Low Density Housing - New Building - FRONT UNIT\nto construction a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building and a two-storey two-unit rear building with three car carport parking space and 12'x12' PMT space having vehicular access from the lane.\n\n1.\\tEntire building to be sprinklered 2x13D \n2.\\tHeat Pump proposed – Exterior component located in front and rear yard, Interior component located in main floor\n3.\\tSchedule B: (Julian Bozsik) P.Eng (604.431.0055) Architectural Item 1.5 \n4.\\tSchedule B: (Julian Bozsik) P.Eng (604.431.0055) Structural\n5.\\tSchedule B: (Julian Bozsik) P.Eng (604.431.0055)  Geotechnical\n6.\\tHPO: Residential Builder- Yuvraj Properties Ltd\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1 -Front\n#1 - 3130 Charles St - one dwelling unit (1st - 3rd Story)\n#2 - 3130 Charles St - one dwelling unit (1st - 3rd Story)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $900,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Hastings-Sunrise\nContractor: Yuvraj Properties Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -156332,13 +156352,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1775779200,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP-2025-02221",
-          "relatedPermitType": "Building Permit"
-        }
-      ],
+      "lastUpdated": 1785668252,
+      "relatedPermits": [],
       "projectValue": 900000,
       "latitude": 49.272942,
       "longitude": -123.038314,
@@ -162438,7 +162453,7 @@
         "2010 HARRISON DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey seniors community care (class B) facility classified as Group B3 major occupancy containing a total of 178 care beds including one level of parking on this existing site to replace the existing Care Home.\n\nPrincipal entrance is located at 3rd storey. \n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. This project is being processed under SHORT program.\n3. High Building measures apply. Building requires a 2-stage Fire Alarm System, and a fire safety plan shall be submitted stating procedures and to ensure it meets all the requirements laid out in the Bulletin 2024-001-FI. Fire Safety Plan must be reviewed and accepted by VFRS. \n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring - Issued on May 12, 2026\nRevision #1 - changes to the shoring drawings - Issued on June 22, 2026\nStage 2: Foundation to grade and Superstructure - In Review\nProject Value: $83,000,000.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Victoria-Fraserview\nContractor: Lark Projects Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey seniors community care (class B) facility classified as Group B3 major occupancy containing a total of 178 care beds including one level of parking on this existing site to replace the existing Care Home.\n\nPrincipal entrance is located at 3rd storey. \n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. This project is being processed under SHORT program.\n3. High Building measures apply. Building requires a 2-stage Fire Alarm System, and a fire safety plan shall be submitted stating procedures and to ensure it meets all the requirements laid out in the Bulletin 2024-001-FI. Fire Safety Plan must be reviewed and accepted by VFRS prior to occupancy. \n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring - Issued on May 12, 2026\nRevision #1 - changes to the shoring drawings - Issued on June 22, 2026\nStage 2: Foundation to Grade and Superstructure (Full Construction) - In Review\nProject Value: $83,000,000.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Victoria-Fraserview\nContractor: Lark Projects Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -162463,7 +162478,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1782317022,
+      "lastUpdated": 1785668252,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04898",
@@ -187173,7 +187188,7 @@
     },
     {
       "primaryStreetName": "110 MENZIES ST",
-      "applicant": "JARED KIRSH",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01133",
@@ -187181,7 +187196,7 @@
       "addresses": [
         "110 MENZIES ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to make revisions to the approved DPV.",
       "progressSections": [
         {
@@ -187571,7 +187586,7 @@
     },
     {
       "primaryStreetName": "909 MARKET ST",
-      "applicant": "MATT MULLERAY",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01141",
@@ -187579,7 +187594,7 @@
       "addresses": [
         "909 MARKET ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for balcony replacement.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -187591,19 +187606,20 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1782284400,
+          "endDate": 1782284400
         }
       ],
       "documents": [
         {
-          "docName": "2026-05-22 - Plans_Submission.pdf",
+          "docName": "FINAL APPROVED PLANS",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=61687C260522095015914740&folderId=61263C260521082221710698"
         }
       ],
       "city": "Victoria",
       "lastUpdated": 1780484009,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "2839 CEDAR HILL RD",
@@ -187915,7 +187931,7 @@
     },
     {
       "primaryStreetName": "129 GORGE RD E",
-      "applicant": "MATT KOLEC",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01148",
@@ -187925,26 +187941,20 @@
         "131 GORGE RD E",
         "135 GORGE RD E"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for tenant protection.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1780383600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1781074800
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1781074800,
+          "endDate": 1781074800
         }
       ],
       "documents": [],
@@ -188000,7 +188010,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "251 ESQUIMALT RD",
@@ -188174,7 +188185,7 @@
     },
     {
       "primaryStreetName": "50 GOVERNMENT ST",
-      "applicant": "MIKE JONES",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01151",
@@ -188182,7 +188193,7 @@
       "addresses": [
         "50 GOVERNMENT ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for tenant protection.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -188194,14 +188205,15 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1781506800,
+          "endDate": 1781506800
         }
       ],
       "documents": [],
       "city": "Victoria",
       "lastUpdated": 1781261559,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "1321 FERNWOOD RD",
