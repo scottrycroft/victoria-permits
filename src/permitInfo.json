@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1785668626,
+  "dateRetrieved": 1785754361,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -113346,6 +113346,93 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1756882800,
+          "endDate": 1763449200
+        },
+        {
+          "taskDescription": "Application has been cancelled",
+          "taskType": "APPLICATION CANCELLED",
+          "startDate": 1763449200,
+          "endDate": 1763449200
+        }
+      ],
+      "documents": [
+        {
+          "docName": "ELEVATIONS_APR 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=CB742F1A-4F9B-4B1E-80D2-3161C57B50CB&folderId=36069C250423090016251933"
+        },
+        {
+          "docName": "LANDSCAPE PLANS_APR 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6392465E-0F86-466B-9DDC-E1342E6696E3&folderId=36069C250423090016251933"
+        },
+        {
+          "docName": "SITE PLAN_APRIL 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FE1943B6-8526-45DB-83A9-DDDDD4C14CFC&folderId=36069C250423090016251933"
+        },
+        {
+          "docName": "STREETSCAPE_APR 9 2025",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E9AA1285-9DD1-4FED-91E6-7D293A7401D3&folderId=36069C250423090016251933"
+        }
+      ],
+      "city": "Saanich",
+      "lastUpdated": 1763449200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00792",
+          "relatedPermitType": "REZONING",
+          "relatedPermitApplicationDate": 1744185600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "TO REZONE FROM RS-6 TO RT-7 TO CONSTRUCT A 18 UNIT TOWNHOUSE PROJECT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1140 ROCK ST",
+      "applicant": "",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01086",
+      "applicationDate": 1744182000,
+      "addresses": [
+        "1140 ROCK ST",
+        "1180 ROCK ST"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "TO REZONE FROM RS-6 TO A TBD ZONE TO CONSTRUCT AN 18 UNIT TOWNHOUSE PROJECT WHERE TWO SINGLE FAMILY HOMES CURRENTLY EXIST",
+      "progressSections": [
+        {
+          "taskDescription": "Application has been received by the District",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1744182000,
+          "endDate": 1744182000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1744182000,
+          "endDate": 1745478000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1745391600,
+          "endDate": 1745478000
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1745910000,
+          "endDate": 1749711600
+        },
+        {
+          "taskDescription": "Review of referral responses from District departments and external agencies",
+          "taskType": "STAFF REVIEW REFERRALS",
+          "startDate": 1749711600,
+          "endDate": 1756882800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1756882800,
           "endDate": null
         }
       ],
@@ -128399,10 +128486,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1785149360,
+      "lastUpdated": 1785754565,
       "relatedPermits": [],
-      "latitude": 48.38091,
-      "longitude": -123.751516
+      "latitude": 48.381425,
+      "longitude": -123.751918
     },
     {
       "primaryStreetName": "7059 BRIARWOOD PL",
@@ -132073,7 +132160,7 @@
         "7780 OAK STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To develop a two-storey Passive House Community Centre (Marpole-Oakridge Community Centre) with Child Daycares on  the  first and second floors, over one level of underground parking, having vehicular access from Park Dr.\n\n\n7-Dec-2023  - Stage I (excavation and shoring, excluding pool)  issued. \n6-Feb-2024   - Stage II (foundation to grade, excluding pool) issued.\n21-Jun-2024 - Stage III (above grade structure, excluding pool) issued. \n25-Oct-2024 - Stage IV (Full Permit - excluding kitchens -Rm147 & Rm 148 & Rm.158)  issued. \n\nNote: The building is constructed of encapsulated mass timber construction allowed under the accepted AL-2023-00207. \nThe outdoor pool accepted under the DP- 2022-00504  will be processed under a separate building permit application.  \n\nStage 5 - awaiting formal submission by BP (28.Apr.2026 tn)\nScope- Kitchens at L1 and L2 (daycare)\nTo exclude the  pool from this Building Permit. The Pool Building, Outdoor Pools, Playground, and Splash Pad have been deferred to a future project under(refer to DP-2025-00303).\nProject Value: $71,500,000.00\nProperty Use: Cultural/Recreational Uses, Institutional Uses, Parking Uses\nSpecific Use: Child Day Care Facility, Parking Garage, Community Ctr./Neighbourhood House\nNeighbourhood: Marpole\nContractor: Heatherbrae Builders Co Ltd",
+      "purpose": "Certified Professional Program - New Building - To develop a two-storey Passive House Community Centre (Marpole-Oakridge Community Centre) with Child Daycares on  the  first and second floors, over one level of underground parking, having vehicular access from Park Dr.\n\n\n7-Dec-2023  - Stage I (excavation and shoring, excluding pool)  issued. \n6-Feb-2024   - Stage II (foundation to grade, excluding pool) issued.\n21-Jun-2024 - Stage III (above grade structure, excluding pool) issued. \n25-Oct-2024 - Stage IV (Full Permit - excluding kitchens - Rm 148 & 158 )  issued. \n31-July-2026 - Stage V (kitchens review & to cancel the pool )  issued.\n\nNotes: \nThe building is constructed of encapsulated mass timber construction allowed under the accepted AL-2023-00207.                \nOnly Class 2 cooking is allowed in Kitchen 1 (Room 147) and Kitchen 2 (Room 158) in accordance with submitted K3 forms.\nAll hoods to have permanent plaques mounted on the front of hood to indicate, \"Cooking causing grease laden vapours is not allowed. Exhaust system is designed for steam and heat removal only.\"\nProject Value: $71,500,000.00\nProperty Use: Cultural/Recreational Uses, Institutional Uses, Parking Uses\nSpecific Use: Child Day Care Facility, Parking Garage, Community Ctr./Neighbourhood House\nNeighbourhood: Marpole\nContractor: Heatherbrae Builders Co Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -132106,17 +132193,23 @@
           "endDate": 1718956800
         },
         {
-          "taskDescription": "Stage IV: Full Permit - excluding kitchens -Rm147 & Rm 148 & Rm.158",
+          "taskDescription": "Stage IV: Full Permit - excluding kitchens - Rm 148 & 158",
           "taskType": "",
           "startDate": 1729843200,
           "endDate": 1729843200
+        },
+        {
+          "taskDescription": "Stage V: kitchens review & to cancel the pool",
+          "taskType": "",
+          "startDate": 1785484800,
+          "endDate": 1785484800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1729814400,
+      "lastUpdated": 1785754572,
       "relatedPermits": [],
       "projectValue": 71500000,
       "latitude": 49.21467,
