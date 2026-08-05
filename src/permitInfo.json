@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1785840758,
+  "dateRetrieved": 1785927172,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -604,7 +604,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1774090670,
+      "lastUpdated": 1785927174,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001179",
@@ -617,7 +617,7 @@
           "relatedPermitID": "PL001178",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1636012800,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "*Please refer to Rezoning and/or OCP Amendment PL001177"
         }
       ]
@@ -10964,14 +10964,21 @@
       "addresses": [
         "1494 ENDERBY AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a single family dwelling",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1785801600,
+          "endDate": 1785801600
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1785927375,
       "relatedPermits": [],
       "latitude": 49.029928,
       "longitude": -123.059269
@@ -20554,6 +20561,83 @@
       "relatedPermits": [],
       "latitude": 49.154034,
       "longitude": -122.914382
+    },
+    {
+      "primaryStreetName": "5125 1 AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023211",
+      "applicationDate": 1785927375,
+      "addresses": [
+        "5125 1 AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1785927375,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP023230",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 49.004851,
+      "longitude": -123.081904
+    },
+    {
+      "primaryStreetName": "4638 53 ST",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023222",
+      "applicationDate": 1785927375,
+      "addresses": [
+        "4638 53 ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1785927375,
+      "relatedPermits": [],
+      "latitude": 49.087176,
+      "longitude": -123.07557
+    },
+    {
+      "primaryStreetName": "5125 1 AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023230",
+      "applicationDate": 1785927375,
+      "addresses": [
+        "5125 1 AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To construct attached garden suites",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1785927375,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP023211",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 49.004851,
+      "longitude": -123.081904,
+      "minor": true
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -113106,7 +113190,13 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1782457200,
-          "endDate": null
+          "endDate": 1783062000
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1783062000,
+          "endDate": 1783494000
         }
       ],
       "documents": [
@@ -113128,7 +113218,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1783680805,
+      "lastUpdated": 1785927174,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00789",
@@ -117053,7 +117143,7 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1785481200,
-          "endDate": null
+          "endDate": 1785826800
         }
       ],
       "documents": [
@@ -117063,7 +117153,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1785581569,
+      "lastUpdated": 1785927174,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00644",
@@ -117233,12 +117323,12 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1785222000,
-          "endDate": null
+          "endDate": 1785826800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1785826800,
           "endDate": null
         }
       ],
@@ -117253,7 +117343,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1785927174,
       "relatedPermits": [],
       "minor": true
     },
@@ -119392,12 +119482,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1785394800,
+          "endDate": 1785826800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1785826800,
+          "endDate": 1785826800
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1785826800,
+          "endDate": 1785826800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": 1785826800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1785495177,
+      "lastUpdated": 1785927174,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00974",
@@ -177706,6 +177814,34 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1758783600,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "840 HUMBOLDT ST",
+      "applicant": "DAVID BOON",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00486",
+      "applicationDate": 1785826800,
+      "addresses": [
+        "840 HUMBOLDT ST",
+        "114-840 HUMBOLDT ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2026-07-28 - Plans",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=6350176E-4A92-4666-ADD5-163BD1892DE5&folderId=vjTwOMFjd0i2aPU37vYjeA"
+        },
+        {
+          "docName": "2026-07-30 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=84678C260730110454323072&folderId=vjTwOMFjd0i2aPU37vYjeA"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1785826800,
       "relatedPermits": []
     },
     {
@@ -254301,6 +254437,12 @@
           "endDate": 1783321200
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1787727600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -254354,7 +254496,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1783421607,
+      "lastUpdated": 1785927174,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00303",
@@ -255845,16 +255987,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1EF718BD-F4DE-4E3A-8AA6-1DD5AEAD3718&folderId=16346C251231152823520005"
         },
         {
-          "docName": "2026-05-26 - Plans_Revisions_Bubbled_1of2",
+          "docName": "2026-05-26 - Plans_Revisions_Bubbled_1of2 (Arch Plans)",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=169135C1-9F2B-432F-9E77-C88BC5BDC59B&folderId=16346C251231152823520005"
         },
         {
-          "docName": "2026-05-26 - Plans_Revisions_Bubbled_2of2",
+          "docName": "2026-05-26 - Plans_Revisions_Bubbled_2of2 (Landscape Plans)",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A01627B6-A5E0-48AC-9988-F1F6B174C644&folderId=16346C251231152823520005"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784026398,
+      "lastUpdated": 1785927174,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00307",
