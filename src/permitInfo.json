@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1786013563,
+  "dateRetrieved": 1786099956,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -102394,21 +102394,21 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1785408765,
+      "lastUpdated": 1786099959,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00161",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1785139200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "BLD 3 & 4 - 5 STOREY 87 UNIT RESIDENTIAL - POINTS WEST"
+          "relatedPermitDescription": "BLD 3 & 4 - 5 STOREY 87 UNIT RESIDENTIAL - POINTS WEST 3022 ALBINA"
         },
         {
           "relatedPermitID": "CBP00102",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1774425600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "BLD 1 & 2 - 6 STOREY MIXED-USED 121 UNIT RESIDENTIAL & 1 COMMERCIAL - POINTS WEST"
+          "relatedPermitDescription": "BLD 1 & 2 - 6 STOREY MIXED-USED 121 UNIT RESIDENTIAL & 1 COMMERCIAL - POINTS WEST 3021 TILLICUM"
         },
         {
           "relatedPermitID": "CBP00059",
@@ -102849,12 +102849,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1785222000,
+          "endDate": 1785999600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1785999600,
+          "endDate": 1785999600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1785999600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1786099959,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00847",
@@ -117423,7 +117441,13 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1783580400,
-          "endDate": null
+          "endDate": 1785999600
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1785999600,
+          "endDate": 1785999600
         }
       ],
       "documents": [
@@ -117433,7 +117457,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1783680805,
+      "lastUpdated": 1786099959,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01103",
@@ -117512,7 +117536,7 @@
         "1514 CEDAR HILL CROSS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO ALLOW THE CONSTRUCTION OF A MULTI-STOREY MIXED USE SENIORS CAMPUS WITH 134 NEW UNITS AND MEDICAL SERVICES.",
+      "purpose": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 TO 8 STOREY MIXED USE DEVELOPMENT CONTAINING 134 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -117570,17 +117594,18 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1785235570,
+      "lastUpdated": 1786099959,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
           "relatedPermitType": "REZONING",
           "relatedPermitApplicationDate": 1783584000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE TO ALLOW THE CONSTRUCTION OF A MULTI-STOREY MIXED USE SENIORS CAMPUS WITH 134 NEW UNITS AND MEDICAL SERVICES."
+          "relatedPermitDescription": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 TO 8 STOREY MIXED USE DEVELOPMENT CONTAINING 134 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
         }
       ],
-      "major": true
+      "major": true,
+      "storeys": 8
     },
     {
       "primaryStreetName": "4115 QUADRA ST",
@@ -125134,6 +125159,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1782198000,
+          "endDate": 1785308400
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -125152,7 +125183,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784889978,
+      "lastUpdated": 1786099959,
       "relatedPermits": []
     },
     {
@@ -125272,7 +125303,7 @@
         "1514 CEDAR HILL CROSS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO ALLOW THE CONSTRUCTION OF A MULTI-STOREY MIXED USE SENIORS CAMPUS WITH 134 NEW UNITS AND MEDICAL SERVICES.",
+      "purpose": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 TO 8 STOREY MIXED USE DEVELOPMENT CONTAINING 134 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -125289,17 +125320,18 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1783767197,
+      "lastUpdated": 1786099959,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01128",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1783584000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE TO ALLOW THE CONSTRUCTION OF A MULTI-STOREY MIXED USE SENIORS CAMPUS WITH 134 NEW UNITS AND MEDICAL SERVICES."
+          "relatedPermitDescription": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 TO 8 STOREY MIXED USE DEVELOPMENT CONTAINING 134 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
         }
       ],
-      "major": true
+      "major": true,
+      "storeys": 8
     },
     {
       "primaryStreetName": "4410 WEST SAANICH RD",
@@ -125312,7 +125344,7 @@
         "4410 WEST SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO CREATE A PHASED MILTI-BUILDING DEVELOPMENT.",
+      "purpose": "TO REZONE TO CREATE A COMPREHENSIVE MIXED USE DEVELOPMENT WITH 11 BUILDINGS RANGING FROM 2-6 STOREYS.",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -125327,16 +125359,18 @@
           "endDate": 1785913200
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1785999600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786013565,
-      "relatedPermits": []
+      "lastUpdated": 1786099959,
+      "relatedPermits": [],
+      "major": true,
+      "storeys": 6
     },
     {
       "primaryStreetName": "4667 CORDOVA BAY RD",
@@ -125373,6 +125407,51 @@
       "documents": [],
       "city": "Saanich",
       "lastUpdated": 1785222000,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "434 Baker Road",
+      "applicant": "",
+      "cityApplicationType": "Development Variance Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "PLDVP20250460",
+      "applicationDate": 1786100135,
+      "addresses": [
+        "434 Baker Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development variance permit to relax the setback from natural boundary from 15m to 0m to permit the construction of shoreline stabilization works",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Salt Spring",
+      "lastUpdated": 1786100135,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "115 Le Page Road",
+      "applicant": "",
+      "cityApplicationType": "Development Variance Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "PLDVP20260306",
+      "applicationDate": 1786100135,
+      "addresses": [
+        "115 Le Page Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Application to amend the LUB for remediation of a sewerage system siting in a DPA – 7 riparian",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "SS-LTC_2026-07-22_PLDVP20260306_Notice.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20260306%20-%20115%20Le%20Page%20Rd%20(B.Fossen)/2.%20Proposed%20Bylaw%20or%20Permit/SS-LTC_2026-07-22_PLDVP20260306_Notice.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Salt Spring",
+      "lastUpdated": 1786100135,
       "relatedPermits": []
     },
     {
@@ -136813,7 +136892,7 @@
         "6483 GRANVILLE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - New multiple dwelling building (Building #2)\nTo construct two four-storey multiple dwelling buildings containing four townhouses each (a total of eight secured market rental units) with four parking spaces in the rear, having vehicular access from the lane.\n\nThis permit is for Building #2 only.\n\nNote: \n- All documents and permit fee are under this permit.\n- Project value for this building is $1,272,000\n- See BP-2024-01381 for Building #1 on the same site.\n- Building to be sprinklered to NFPA 13R. Only hydraulic calculations to meet NFPA 13 per AL-2024-00050.\n- AL-2024-00050 for Single Egress and AL-2024-00121 for floor elevation difference more than 6 meters. \n- Rental building.\n\n*** Reviewed under the VBBL 2019 ***\n\nRevision #1, Nov 25, 2025 - J. Chen\n- Change applicant.\n\nRevision #2, Mar xx - J. Chen\n- Change Building Envelop Professional and replace Schedule D.\nProject Value: $2,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale\nContractor: Luxmi Enterprises Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - New multiple dwelling building (Building #2)\nTo construct two four-storey multiple dwelling buildings containing four townhouses each (a total of eight secured market rental units) with four parking spaces in the rear, having vehicular access from the lane.\n\nThis permit is for Building #2 only.\n\nNote: \n- All documents and permit fee are under this permit.\n- Project value for this building is $1,272,000\n- See BP-2024-01381 for Building #1 on the same site.\n- Building to be sprinklered to NFPA 13R. Only hydraulic calculations to meet NFPA 13 per AL-2024-00050.\n- AL-2024-00050 for Single Egress and AL-2024-00121 for floor elevation difference more than 6 meters. \n- Rental building.\n\n*** Reviewed under the VBBL 2019 ***\n\nRevision #1, Nov 25, 2025 - J. Chen\n- Change applicant.\n\nRevision #2, Aug 5, 2026 - J. Chen\n- Change Building Envelop Professional and replace Schedule D.\nProject Value: $2,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale\nContractor: Luxmi Enterprises Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -136832,7 +136911,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1745366400,
+      "lastUpdated": 1786100178,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-01381",
@@ -136857,7 +136936,7 @@
         "6493 GRANVILLE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - New multiple dwelling building (Building #1)\n\nTo construct two four-storey multiple dwelling buildings (Building #1 and #2) containing four townhouses each for a total of eight secured market rental units with four parking spaces in the rear, having vehicular access from the lane.\n\nThis permit is for Building #1 only.\n\nNote: \n- Permit fee is under permit BP-2024-01379 for Building #2.\n- Project value for this Building is $1,128,000.\n- Building to be sprinklered to NFPA 13R, only hydraulic calculations to meet NFPA 13 per AL-2024-00050.\n- AL-2024-00050 for Single Egress and AL-2024-00121 for floor elevation difference more than 6 meters. \n- Rental building.\n\n*** Reviewed under the VBBL 2019 ***\n\nRevision #1, Nov 25, 2025 - J. Chen\n- Change applicant.\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale",
+      "purpose": "High Density Housing / Commercial - New Building - New multiple dwelling building (Building #1)\n\nTo construct two four-storey multiple dwelling buildings (Building #1 and #2) containing four townhouses each for a total of eight secured market rental units with four parking spaces in the rear, having vehicular access from the lane.\n\nThis permit is for Building #1 only.\n\nNote: \n- Permit fee is under permit BP-2024-01379 for Building #2.\n- Project value for this Building is $1,128,000.\n- Building to be sprinklered to NFPA 13R, only hydraulic calculations to meet NFPA 13 per AL-2024-00050.\n- AL-2024-00050 for Single Egress and AL-2024-00121 for floor elevation difference more than 6 meters. \n- Rental building.\n\n*** Reviewed under the VBBL 2019 ***\n\nRevision #1, Nov 25, 2025 - J. Chen\n- Change applicant.\n\nRevision #2, Aug 5, 2026 - J. Chen\n- Change Building Envelop Professional and replace Schedule D.\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -136876,7 +136955,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1745366400,
+      "lastUpdated": 1786100178,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-01379",
@@ -154175,7 +154254,7 @@
         "366 E 23RD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - Building Permit for DP-2024-00949 to develop a Multiple Dwelling “Multiplex” ($350,000) with a 2 storey 1-unit REAR building, with 3 parking spaces having access from the lane\r\n\r\n1.\\tEntire building to be sprinklered 13D\r\n2.\\tExternal mechanical unit – Exterior component located in front and rear yard, Interior component located on third storey.\r\n3.\\tSchedule B: (ALAN PRAHALAD) P.Eng (604-831-1431) Structural\r\n4.\\tSchedule B: (ALAN PRAHALAD) P.Eng (604-831-1431) Geotechnical\r\n5.\\tHPO: Residential Builder- Modern Styles Home Ltd.\r\n\r\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\r\n\r\nAddress Information:\r\n\r\n364 E 23rd Av=Primary Address\r\n\r\nBuilding 2 (rear) (south)\r\n366 E 23rd Av - One Dwelling Unit (1st-2nd floors)\r\n\r\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \r\n\r\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $350,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Riley Park\nContractor: Modern Styles Home Ltd",
+      "purpose": "Low Density Housing - New Building - Building Permit for DP-2024-00949 to develop a Multiple Dwelling “Multiplex” ($350,000) with a 2 storey 1-unit REAR building, with 3 parking spaces having access from the lane\n\n1.\\tEntire building to be sprinklered 13D\n2.\\tRev#2: External mechanical unit – Exterior component located in front and rear yard - behing rear bldg. Interior component located on third storey.\n3.\\tSchedule B: (ALAN PRAHALAD) P.Eng (604-831-1431) Structural\n4.\\tSchedule B: (ALAN PRAHALAD) P.Eng (604-831-1431) Geotechnical\n5.\\tHPO: Residential Builder- Modern Styles Home Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\n364 E 23rd Av=Primary Address\n\nBuilding 2 (rear) (south)\n366 E 23rd Av - One Dwelling Unit (1st-2nd floors)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $350,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Riley Park\nContractor: Modern Styles Home Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -154194,7 +154273,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786100178,
       "relatedPermits": [],
       "projectValue": 350000,
       "latitude": 49.250174,
@@ -155444,7 +155523,7 @@
         "8271 LABURNUM STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with two three-storey, two-unit front buildings and two two-storey, one-unit rear buildings with three car attached garage providing a total of six parking spaces having vehicular access from the lane. This permit is for Bldg 1\r\n\r\nFront Buildings (2x) = $2,200,000\r\nRear Buildings (2x) = $1,200,000\r\n\r\nRelated to DP-2024-00654, BP-2025-01606 Building 1, BP-2025-01607 Building 2, BP-2025-01608 Building 3, BP-2025-01609 Building 4\r\n\r\nBuilding Review Branch Notes:\r\n1. Sch A & Sch B Arch: James Bussey, Sch B Struct.& Geo.: Alan Prahalad P.Eng, Sch B Elec.: Iouri Martynov P.Eng., Schedule D  Shan Huang\r\n3. Entire building to be sprinklered to NFPA 13R requirements.\r\n4. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\r\n5. Reviewed under VBBL 2019\nProject Value: $6,800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale\nContractor: SMT Construction Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with two three-storey, two-unit front buildings and two two-storey, one-unit rear buildings with three car attached garage providing a total of six parking spaces having vehicular access from the lane. This permit is for Bldg 1\n\nFront Buildings (2x) = $2,200,000\nRear Buildings (2x) = $1,200,000\n\nRelated to DP-2024-00654, BP-2025-01606 Building 1, BP-2025-01607 Building 2, BP-2025-01608 Building 3, BP-2025-01609 Building 4\n\nBuilding Review Branch Notes:\n1. Sch A & Sch B Arch: James Bussey, Sch B Struct.& Geo.: Alan Prahalad P.Eng, Sch B Elec.: Iouri Martynov P.Eng., Schedule D  Shan Huang\n3. Entire building to be sprinklered to NFPA 13R requirements.\n4. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n5. Reviewed under VBBL 2019\n\nRev #1 pending- (August 4, 2026)\n1.\\tSpray foam insulation is being added to the deck floor assembly (F6) above the garages in Buildings 3 and 4.\n2.\\tBatt insulation is being added to the exterior walls (W2) of the garages in Buildings 3 and 4.\n3.\\tRevise the sprinkler system designations on the BP Data sheets to NFPA 13D for Buildings 1 and 2 and NFPA 13R for Buildings 3 and 4.\nProject Value: $6,800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale\nContractor: SMT Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -155463,7 +155542,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786100178,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-01607",
@@ -157405,7 +157484,7 @@
         "2850 E 43RD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To construct a Multiple Dwelling \"Multiplex\" with a three-story 3-unit front building with four surface parking spaces having vehicular access from the lane.\n\nBP-2025-02281 (Building 1/Front  - 3 Units) - All dwgs and docs here\nBP-2025-02282 (Building 2/Rear - 1 Unit)\n\nThis permit is for Building 1 (Front; $900,000)\nBRB Notes:\n1. Reviewed under VBBL 2019\n2. Part 5 design required \n3. Building sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Royal Casa Construction Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To construct a Multiple Dwelling \"Multiplex\" with a three-story 3-unit front building with four surface parking spaces having vehicular access from the lane.\n\nBP-2025-02281 (Building 1/Front  - 3 Units) - All dwgs and docs here\nBP-2025-02282 (Building 2/Rear - 1 Unit)\n\nThis permit is for Building 1 (Front; $900,000)\nBRB Notes:\n1. Reviewed under VBBL 2019\n2. Part 5 design required \n3. Building sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nREV #1 (PENDING)\n• Unit 1: Revised kitchen layout\n• Unit 2 & 3: Revise kitchen & mechanical room layout\n• Unit 2 & 3: Revise stair run\n• Unit 1-3 (1-3rd floors): Revise window sizes and locations on west elevation\n• Unit 2 & 3: Addition of 2 skylights\n• Revise floor assembly (F3 & F4)\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Royal Casa Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -157424,7 +157503,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786100178,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-02282",
@@ -158961,7 +159040,7 @@
         "3971 BOYD DIVERSION"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey four-unit front building and a two-storey one-unit rear building with an attached carport providing three parking spaces having vehicular access from the lane.\n\n1.\\tEntire building to be sprinklered 3D and Part 5 design is applicable \n2.\\tHeat Pump proposed – Exterior component located in front and rear yard, Interior component located in third floor\n3.\\tSchedule A: (Ahmad A Honarpisheh) P.Eng (778.829.8757)\n4.\\tSchedule B: (Ahmad A Honarpisheh) P.Eng (778.829.8757) Building Envelope \n5.\\tSchedule D: (Ahmad A Honarpisheh) P.Eng (778.829.8757) Building Envelope \n6.\\tSchedule B: (Ke Jian Ma) P.Eng (778.877.9016) Structural\n7.\\tSchedule B: (Jian Zhong Jin) P.Eng (604.362.7021) Geotechnical\n8.\\tHPO: Residential Builder- Heritage Image Homes Ltd\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1 (East) (Front)\n#1 - 3971 Boyd Diversion - One Dwelling Unit (South-east side, 1st - 3rd Floor)   \n#2 - 3971 Boyd Diversion - One Dwelling Unit (South-west side, 1st - 3rd Floor)   \n#3 - 3971 Boyd Diversion - One Dwelling Unit (North-west side, 1st - 3rd Floor)   \n#4 - 3971 Boyd Diversion - One Dwelling Unit (North-east side, 1st - 3rd Floor)   \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019\nProject Value: $1,460,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Renfrew-Collingwood\nContractor: Heritage Image Homes Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - ***PART 5****To construct a Multiple Dwelling \"Multiplex\" with a three-storey four-unit front building and a two-storey one-unit rear building with an attached carport providing three parking spaces having vehicular access from the lane.\n\n1.\\tEntire building to be sprinklered 3D and Part 5 design is applicable \n2.\\tHeat Pump proposed – Exterior component located in front and rear yard, Interior component located in third floor\n3.\\tSchedule A: (Ahmad A Honarpisheh) P.Eng (778.829.8757)\n4.\\tSchedule B: (Ahmad A Honarpisheh) P.Eng (778.829.8757) Building Envelope \n5.\\tSchedule D: (Ahmad A Honarpisheh) P.Eng (778.829.8757) Building Envelope \n6.\\tSchedule B: (Ke Jian Ma) P.Eng (778.877.9016) Structural\n7.\\tSchedule B: (Jian Zhong Jin) P.Eng (604.362.7021) Geotechnical\n8.\\tHPO: Residential Builder- Heritage Image Homes Ltd\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1 (East) (Front)\n#1 - 3971 Boyd Diversion - One Dwelling Unit (South-east side, 1st - 3rd Floor)   \n#2 - 3971 Boyd Diversion - One Dwelling Unit (South-west side, 1st - 3rd Floor)   \n#3 - 3971 Boyd Diversion - One Dwelling Unit (North-west side, 1st - 3rd Floor)   \n#4 - 3971 Boyd Diversion - One Dwelling Unit (North-east side, 1st - 3rd Floor)   \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019\nProject Value: $1,460,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Renfrew-Collingwood\nContractor: Heritage Image Homes Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -158980,7 +159059,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786100178,
       "relatedPermits": [],
       "projectValue": 1460000,
       "latitude": 49.249168,
@@ -161859,7 +161938,7 @@
         "1738 W 11TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building with 2 residential towers (282 secured market rental units) consisting of:\n\nPodium: 3 storeys\n  1st storey - 1 CRU; 2 residential lobbies; dwelling units; indoor & outdoor amenities\n  2nd storey - dwelling units; indoor amenity\n  3rd storey - dwelling units; indoor & outdoor amenities\nTower 1 (East): 20-storeys\n  4th to 20th storeys - dwelling units\nTower 2 (West): 19-storeys\n  4th to 19th storeys - dwelling units\n\nall over 4 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Feb. 20, 2026\n\nSTAGE II: Foundation up to Grade (TN for SY)\nISSUED: July 27, 2026\nProject Value: $105,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Fairview\nContractor: ITC BC BUILDERS INC.",
+      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building with 2 residential towers (282 secured market rental units) consisting of:\n\nPodium: 3 storeys\n  1st storey - 1 CRU; 2 residential lobbies; dwelling units; indoor & outdoor amenities\n  2nd storey - dwelling units; indoor amenity\n  3rd storey - dwelling units; indoor & outdoor amenities\nTower 1 (East): 20-storeys\n  4th to 20th storeys - dwelling units\nTower 2 (West): 19-storeys\n  4th to 19th storeys - dwelling units\n\nall over 4 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Feb. 20, 2026\n\nSTAGE II: Foundation up to Grade (TN for SY)\nISSUED: July 27, 2026\n\nSTAGE III: Full Construction - In review\nProject Value: $105,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Fairview\nContractor: ITC BC BUILDERS INC.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -161890,7 +161969,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1785322583,
+      "lastUpdated": 1786100178,
       "relatedPermits": [],
       "projectValue": 105000000,
       "latitude": 49.26176,
@@ -162328,7 +162407,7 @@
         "2010 HARRISON DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey seniors community care (class B) facility classified as Group B3 major occupancy containing a total of 178 care beds including one level of parking on this existing site to replace the existing Care Home.\n\nPrincipal entrance is located at 3rd storey. \n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. This project is being processed under SHORT program.\n3. High Building measures apply. Building requires a 2-stage Fire Alarm System, and a fire safety plan shall be submitted stating procedures and to ensure it meets all the requirements laid out in the Bulletin 2024-001-FI. Fire Safety Plan must be reviewed and accepted by VFRS prior to occupancy. \n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring - Issued on May 12, 2026\nRevision #1 - changes to the shoring drawings - Issued on June 22, 2026\nStage 2: Foundation to Grade and Superstructure (Full Construction) - In Review\nProject Value: $83,000,000.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Victoria-Fraserview\nContractor: Lark Projects Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey seniors community care (class B) facility classified as Group B-3 Major Occupancy containing a total of 178 care beds including one level of parking on this existing site to replace the existing Care Home. Principal entrance and fire department's response point is located at 3rd storey facing Harrison Drive. \n\n1st storey includes parkade ramp and parking spaces, service rooms, production kitchen, laundry, storage rooms.\n2nd storey includes fitness room, conservatory, art room, hair salon, offices, conference rooms, common amenity rooms and individual sleeping units.\n3rd storey includes main firefighters' entrance, community hall, offices and nurse stations, common amenity rooms and individual sleeping units.\n4th-6th storeys include common amenity rooms and individual sleeping units.\n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. This project is being processed under SHORT program.\n3. High Building measures apply. Building requires a 2-stage Fire Alarm System, and a fire safety plan shall be submitted stating procedures and to ensure it meets all the requirements laid out in the Bulletin 2024-001-FI. Fire Safety Plan must be reviewed and accepted by VFRS prior to occupancy. \n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring - Issued on May 12, 2026\nRevision #1 - changes to the shoring drawings - Issued on June 22, 2026\nStage 2: Foundation to Grade and Superstructure (Full Construction) - In Review\nProject Value: $83,000,000.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Victoria-Fraserview\nContractor: Lark Projects Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -162353,7 +162432,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1785668252,
+      "lastUpdated": 1786100178,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04898",
@@ -162645,7 +162724,7 @@
         "3445 ADANAC STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To develop a three-storey 4-unit Multiple Dwelling \"Multiplex\" with four surface parking spaces at the rear having access from the lane. \r\n\r\nTo be reviewed under the 2019 VBBL and sprinklered to NFPA 13R\nProject Value: $1,800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise",
+      "purpose": "High Density Housing / Commercial - New Building - To develop a three-storey 4-unit Multiple Dwelling \"Multiplex\" with four surface parking spaces at the rear having access from the lane. \n\nTo be reviewed under the 2019 VBBL and sprinklered to NFPA 13R\n\nRev #1 pending - related to DP-2026-00505 (July 16, 2026) - changes to units #1, #2, #3, and #4\n1. Main and 2nd floor room layouts changed from 2BR to 3 BR per unit.\n2. Main and 2nd floor room layouts changed to include 1 powder room per unit.\n3. Main and 2nd floor bathrooms and mechanical rooms re-arranged.\n4. Main and 2nd floor washer/dryer (W/D) closets removed, W/D now in kitchen.\n5. Remove closets inside 10’7” x 15’ 11½” bedrooms on main and 2nd floor.\n6. Main floor entrances to all four units arranged next to each other.\n7. Main floor front 6’x5’ windows moved to better accommodate the new entrance locations.\n8. Main floor rear entrance and stair added.\n9. Top roof overhung removed. \n10. Front entrance canopy support posts added.\n11. 2nd floor window made bigger (changed from 6’x5’ to 8’x5’).\n12. Basement bathrooms re-arranged and added a pocket door.\n13. Basement crawl space access hutch door added. \n14. Basement crawl space 4’0” x 1’6” glass blocks changed to windows\nProject Value: $1,800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -162664,7 +162743,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786100178,
       "relatedPermits": [],
       "projectValue": 1800000,
       "latitude": 49.277683,
@@ -165942,7 +166021,7 @@
         "783 E 60TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - *** PART 5 *** Building Permit for DP-2025-00081 4 unit multiplex in 1 building for Rental Purposes. A 10 Year Rental Agreement Covenant with BC Housing has been added to the land title. Part 5 applies to this project\n\n2025 VBBL to be sprinklered to Modified NFPA 13R as per BULLETIN 2025-003-BU\nProject Value: $1,100,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Sunset",
+      "purpose": "High Density Housing / Commercial - New Building - *** PART 5 *** Building Permit for DP-2025-00081 4 unit multiplex in 1 building for Rental Purposes. A 10 Year Rental Agreement Covenant with BC Housing has been added to the land title. Part 5 applies to this project\n\n2025 VBBL to be sprinklered to Modified NFPA 13R as per BULLETIN 2025-003-BU\n\nRev #1 pending- (July 29, 2026) - changes to units #1, #2, #3, and #4\n1.\\tExterior alterations only to install 40 solar panels on the roof of this four-unit multiplex on this site.\n2.\\tEast and West roof overhang removed.\n3.\\tEast and West wall insulation changed from mineral wool to non-combustible batt insulation.\n4.\\tKitchen sink window size changed.\n5.\\tBay windows on 2nd and 3rd floor for units #2 & #3 changed into regular windows.\n6.\\tNew door added on west wall to access new hot water tank rooms for units #2 & #3.\n7.\\tFour stairwell interior doors on 2nd and 3rd floor for units #2 & #3 removed (opening retained).\n8.\\tFFAP revised from separate concrete paths for each unit to one path for units #2 & #3 and one path for units #1 & #4. \n9.\\tAccess paths width at front changed from 3’ wide to 4’ wide.\n10.\\t Dog wash station outside accessory building removed.\nProject Value: $1,100,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Sunset",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -165961,11 +166040,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1781261761,
+      "lastUpdated": 1786100178,
       "relatedPermits": [],
       "projectValue": 1100000,
       "latitude": 49.21587,
       "longitude": -123.088355,
+      "minor": true,
       "approvalStatus": "Approved"
     },
     {
@@ -186122,6 +186202,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -186144,10 +186230,22 @@
         {
           "docName": "2026-05-08 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=57481C260508113727968660&folderId=30688C260211114550673251"
+        },
+        {
+          "docName": "2026-08-06 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A27AD778-1589-4824-9A43-FC4F54672DB8&folderId=30688C260211114550673251"
+        },
+        {
+          "docName": "2026-08-06 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1B8876ED-E90B-410C-B055-336602DEF1BC&folderId=30688C260211114550673251"
+        },
+        {
+          "docName": "2026-08-06 - Revision List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AB9209E5-032B-48DD-9572-D57628F8E5ED&folderId=30688C260211114550673251"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1786099959,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -251946,6 +252044,12 @@
           "endDate": 1776841200
         },
         {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1783580400,
+          "endDate": 1783580400
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1728543600,
@@ -251955,12 +252059,6 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1776841200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": 1783580400,
           "endDate": null
         },
         {
@@ -252047,7 +252145,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1783162402,
+      "lastUpdated": 1786099959,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00280",
