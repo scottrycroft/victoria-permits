@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1786099956,
+  "dateRetrieved": 1786186355,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -16044,14 +16044,21 @@
       "addresses": [
         "468 MILSOM WYND"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a single family dwelling",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1786060800,
+          "endDate": 1786060800
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1786186600,
       "relatedPermits": [],
       "latitude": 49.011188,
       "longitude": -123.084083
@@ -83953,7 +83960,7 @@
       "addresses": [
         "642 Cromarty Ave"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Variance requested for an addition to a single-family home",
       "progressSections": [
         {
@@ -87711,15 +87718,9 @@
           "endDate": 1785222000
         },
         {
-          "taskDescription": "Staff evaluation of application to determine eligibility for delegation.",
-          "taskType": "*MINOR VARIANCE REVIEW",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
+          "startDate": 1786086000,
           "endDate": null
         },
         {
@@ -87741,6 +87742,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "*FILE COMPLETED",
           "startDate": null,
@@ -87758,7 +87765,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1785222000,
+      "lastUpdated": 1786186358,
       "relatedPermits": []
     },
     {
@@ -115605,12 +115612,18 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1784012400,
-          "endDate": null
+          "endDate": 1784185200
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1784185200,
+          "endDate": 1785394800
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1785394800,
           "endDate": null
         }
       ],
@@ -115633,7 +115646,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784717606,
+      "lastUpdated": 1786186358,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00807",
@@ -119402,12 +119415,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1785308400,
+          "endDate": 1786086000
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1786086000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1786186358,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP22472",
@@ -119660,12 +119679,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1785913200,
+          "endDate": 1786086000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1786086000,
+          "endDate": 1786086000
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1786086000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1786186358,
       "relatedPermits": []
     },
     {
@@ -129733,7 +129770,7 @@
         "1650 CLARK DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A. Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade  until the full permit  has been issued.\n\nStage 4 (full permit) - In Review\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
+      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A: Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade until the full permit has been issued.\n\nStage 4 (full permit) - In Review\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -129770,7 +129807,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784976578,
+      "lastUpdated": 1786186606,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2024-02427",
@@ -152448,7 +152485,7 @@
         "2992 VENABLES STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To develop a Multiple Dwelling \"Multiplex\" with a two-storey 2-unit front building, and a two-storey 2-unit rear building with 2 surface parking spaces having access from the lane.  Property is not to be strata titled under this permit. To be sprinklered to NFPA 13D\r\n\r\n This permit is for building 2.\r\n\r\nBP-2025-00815 Building 1 - main permit - 2FD - $ 592,000.00\r\nBP-2025-00816 Building 2 - 2FD in rear - $ 592,000.00\r\n\r\nSee BP-2025-00815 for fees and documents\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise",
+      "purpose": "High Density Housing / Commercial - New Building - To develop a Multiple Dwelling \"Multiplex\" with a two-storey 2-unit front building, and a two-storey 2-unit rear building with 2 surface parking spaces having access from the lane.  Property is not to be strata titled under this permit. To be sprinklered to NFPA 13D\n\n This permit is for building 2 (REAR BLDG)\n\nBP-2025-00815 Building 1 - main permit - 2FD - $ 592,000.00\nBP-2025-00816 Building 2 - 2FD in rear - $ 592,000.00\n\nSee BP-2025-00815 for fees and documents\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -152467,7 +152504,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786186606,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-00815",
@@ -153422,7 +153459,7 @@
         "1058 W 41ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey building of care occupancy (167 dwelling units) consisting of:\n  1st storey - dwelling units; common areas for residents including dining\n  2nd to 4th storeys - suites of care occupancy; common areas\n  5th to 6th storeys - dwelling units\n  7th storey (rooftop) - indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the side lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. A Class 1 cooking operation (grease-laden vapours) is proposed, with a commercial kitchen exhaust system designed in accordance with NFPA 96 requirements for Type 1 hoods.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Feb. 20, 2026\n\nSTAGE II: Foundation up to Grade (S.Yoo)\nISSUED: May 4, 2026\n\nSTAGE III: Full Construction  (TN for SY)\nISSUED: July 17, 2026\nProject Value: $51,334,780.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Oakridge\nContractor: MARCON PROJECT (653) LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey building of care occupancy (167 dwelling units) consisting of:\n  1st storey - dwelling units; common areas for residents including dining\n  2nd to 4th storeys - suites of care occupancy; common areas\n  5th to 6th storeys - dwelling units\n  7th storey (rooftop) - indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the side lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. A Class 1 cooking operation (grease-laden vapours) is proposed, with a commercial kitchen exhaust system designed in accordance with NFPA 96 requirements for Type 1 hoods.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Feb. 20, 2026\n\nSTAGE II: Foundation up to Grade (S.Yoo)\nISSUED: May 4, 2026\n\nSTAGE III: Full Construction (TN for SY)\nISSUED: July 17, 2026\nProject Value: $51,334,780.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Oakridge\nContractor: MARCON PROJECT (653) LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -153459,7 +153496,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784458681,
+      "lastUpdated": 1786186606,
       "relatedPermits": [],
       "projectValue": 51334780,
       "latitude": 49.233909,
@@ -158115,6 +158152,45 @@
       "major": true,
       "approvalStatus": "Approved",
       "storeys": 6
+    },
+    {
+      "primaryStreetName": "2458 ADANAC STREET",
+      "applicant": "Khang Nguyen DBA: Architrix Design Studio",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-02477",
+      "applicationDate": 1748390400,
+      "addresses": [
+        "2458 ADANAC STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct one three-storey Net Zero 3-unit Multiple Dwelling \"Multiplex\" with 3 carport parking spaces at the rear having access from the lane. \n\nNotes:\n1- CHBA Net Zero Building\n2. Sprinklered to NFPA 13R\n\n***This permit has been issued under the VBBL 2019***\nProject Value: $1,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: Christopher Sale",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1748390400,
+          "endDate": 1748390400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1748390400,
+          "endDate": 1748390400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1748390400,
+      "relatedPermits": [],
+      "projectValue": 1500000,
+      "latitude": 49.277221,
+      "longitude": -123.055136,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
     },
     {
       "primaryStreetName": "238 E 20TH AVENUE",
@@ -186199,12 +186275,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1782198000,
-          "endDate": null
+          "endDate": 1786086000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1786086000,
           "endDate": null
         },
         {
@@ -186245,7 +186321,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786099959,
+      "lastUpdated": 1786186358,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -254514,6 +254590,12 @@
           "endDate": 1758265200
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1779865200,
+          "endDate": 1779865200
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1773212400,
@@ -254523,12 +254605,6 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1757401200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
-          "taskType": "Advisory Design Panel (ADP) Meeting",
-          "startDate": 1779865200,
           "endDate": null
         },
         {
@@ -254607,7 +254683,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785408765,
+      "lastUpdated": 1786186358,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000657",
@@ -255474,10 +255550,22 @@
         {
           "docName": "2026-07-29 - Letter to Mayor and Council.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=4DCE3D04-2B74-49DE-9FF7-B771681D3E0E&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-07-29 - Plans_Revisions_Development Tracker Pages 1-10.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA1AAC3B-A2CD-4006-B502-4F2D9776DDDA&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-07-29 - Plans_Revisions_Development Tracker Pages 21-39.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11852CB6-BD6E-4FB5-933F-52D4615BB1A0&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-07-29 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F199BFE7-44F7-4AFD-9E05-7676925E5D95&folderId=89502C251002151439875948"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785495177,
+      "lastUpdated": 1786186358,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000658",
@@ -255662,6 +255750,12 @@
           "endDate": 1779951600
         },
         {
+          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
+          "taskType": "Advisory Design Panel (ADP) Meeting",
+          "startDate": 1784703600,
+          "endDate": 1784703600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1769151600,
@@ -255674,9 +255768,9 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Advisory Design Panel (ADP) - Public Meeting",
-          "taskType": "Advisory Design Panel (ADP) Meeting",
-          "startDate": 1784703600,
+          "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
+          "taskType": "Heritage Advisory Panel (HAPL) Meeting",
+          "startDate": 1786431600,
           "endDate": null
         },
         {
@@ -255739,7 +255833,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785927174,
+      "lastUpdated": 1786186358,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00307",
