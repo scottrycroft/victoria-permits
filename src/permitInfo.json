@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1786186355,
+  "dateRetrieved": 1786273320,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -624,7 +624,7 @@
     },
     {
       "primaryStreetName": "6922 SAANICH X RD",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "PL001178",
@@ -632,18 +632,18 @@
       "addresses": [
         "6922 SAANICH X RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "*Please refer to Rezoning and/or OCP Amendment PL001177",
       "progressSections": [
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1776063600,
+          "endDate": 1776063600
         },
         {
           "taskDescription": "",
-          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
@@ -666,7 +666,8 @@
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "Rezone from RN to 3 RN Lots with Reduced Size (retain existing house)"
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "6822 VEYANESS RD",
@@ -117065,7 +117066,7 @@
     },
     {
       "primaryStreetName": "280 WILLIS POINT RD",
-      "applicant": "HOMEOWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01123",
@@ -117073,7 +117074,7 @@
       "addresses": [
         "280 WILLIS POINT RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "**STORMWATER** HARTLAND LANDFILL CONTRACTORS WORKSHOP RELOCATION",
       "progressSections": [
         {
@@ -117098,7 +117099,25 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1781679600,
-          "endDate": null
+          "endDate": 1782198000
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1782198000,
+          "endDate": 1782198000
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1782198000,
+          "endDate": 1782284400
+        },
+        {
+          "taskDescription": "Application has been cancelled",
+          "taskType": "APPLICATION CANCELLED",
+          "startDate": 1782284400,
+          "endDate": 1782284400
         }
       ],
       "documents": [],
@@ -129644,7 +129663,7 @@
         "1818 ALBERNI STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 21-storey mixed use building consists of\n1st storey - Retail (shell only), Market Housing amenity space, Market Housing lobby, Social Housing lobby, service rooms, commercial and visitor parking spaces,\n2nd and 3rd storeys - Social Housing dwelling units & amenity spaces,\n4th to 21st storeys - Market Housing dwelling units\nall over four levels of underground parking with vehicular access from the lane. \n\nAll tenant spaces require separate Tenant Improvement permits.\nTotal dwelling units = 24 social housing + 51 market housing = 75.\n\nFire Department response point located at \n1818 Alberni St. - market housing lobby (primary)\n751 Denman St - social housing lobby (secondary)\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511).  \n\nSTAGED CONSTRUCTION\nStage 1 - excavation and shoring - issued 2019-09-27\n\nRevision 1 - Proposed 18 additional market dwelling units, revising the residential roof decks, adding an additional level of below grade parking (P4) to serve the extra residential units and revising the bicycle storage room on level P1 per M/A DP-2020-00806.  Upgrade to VBBL 2019.  Excavation & Shoring and ESC drawings revised and will replace previously issued drawings. - issued May 30, 2024\n\nStage 2 - Foundation to Grade, structure only - issued November 20, 2024\n\nStage 3 - Full Construction - issued August 13, 2025\n- Only One CRU is permitted to be tenanted as a Restaurant or Retail Limited Food with Class 1 cooking in the future.\n- Pre-shaft: One 2-hr vertical shaft with grease duct and horizontal run through common area is proposed from CRU ceiling to level 3 roof. Exhaust fan will be installed by future tenant.\n\nRevision 2 - Change of RPR for the Mechanical & Plumbing Disciplines, and Revisions to the Interior & Exterior of the Building per DPMA DP-2025-00675 - issued January 15, 2026\n\nRevision 3: Change of CP - In review\n\nRevision 4: Miscellaneous Interior and Exterior Revisions - In review\nProject Value: $45,386,760.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Dwelling Unit, Retail Store\nNeighbourhood: West End\nContractor: Westgate Pacific Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 21-storey mixed use building consists of\n1st storey - Retail (shell only), Market Housing amenity space, Market Housing lobby, Social Housing lobby, service rooms, commercial and visitor parking spaces,\n2nd and 3rd storeys - Social Housing dwelling units & amenity spaces,\n4th to 21st storeys - Market Housing dwelling units\nall over four levels of underground parking with vehicular access from the lane. \n\nAll tenant spaces require separate Tenant Improvement permits.\nTotal dwelling units = 24 social housing + 51 market housing = 75.\n\nFire Department response point located at \n1818 Alberni St. - market housing lobby (primary)\n751 Denman St - social housing lobby (secondary)\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511).  \n\nSTAGED CONSTRUCTION\nStage 1 - excavation and shoring - issued 2019-09-27\n\nRevision 1 - Proposed 18 additional market dwelling units, revising the residential roof decks, adding an additional level of below grade parking (P4) to serve the extra residential units and revising the bicycle storage room on level P1 per M/A DP-2020-00806.  Upgrade to VBBL 2019.  Excavation & Shoring and ESC drawings revised and will replace previously issued drawings. - issued May 30, 2024\n\nStage 2 - Foundation to Grade, structure only - issued November 20, 2024\n\nStage 3 - Full Construction - issued August 13, 2025\n- Only One CRU is permitted to be tenanted as a Restaurant or Retail Limited Food with Class 1 cooking in the future.\n- Pre-shaft: One 2-hr vertical shaft with grease duct and horizontal run through common area is proposed from CRU ceiling to level 3 roof. Exhaust fan will be installed by future tenant.\n\nRevision 2 - Change of RPR for the Mechanical & Plumbing Disciplines, and Revisions to the Interior & Exterior of the Building per DPMA DP-2025-00675 - issued January 15, 2026\n\nRevision 3: Change of CP - issued August 4, 2026\n\nRevision 4: Miscellaneous Interior and Exterior Revisions - In review\nProject Value: $45,386,760.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Dwelling Unit, Retail Store\nNeighbourhood: West End\nContractor: Westgate Pacific Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -129681,7 +129700,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1783508238,
+      "lastUpdated": 1786272962,
       "relatedPermits": [],
       "projectValue": 45386760,
       "latitude": 49.292483,
@@ -160233,6 +160252,84 @@
       "storeys": 2
     },
     {
+      "primaryStreetName": "3872 W 29TH AVENUE",
+      "applicant": "QI LI DBA: LQ Design GROUP Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-02995",
+      "applicationDate": 1751414400,
+      "addresses": [
+        "3872 W 29TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a three-storey two-unit front building, with three carport parking spaces at the rear building, having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in W/D closet\n2.\\tHeat pump unit proposed – Exterior component located in front yard and court yard\n3.\\tSchedule B: (S. Guo) P.Eng (778.926.0525) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Aqua Homes Development Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1 (Front) (north)   \n#1-3872 W 29th Av  - One Dwelling Unit (north side 1st - 3rd floors) (primary)\n#2-3872 W 29th Av  - One Dwelling Unit (south side 1st - 3rd floors)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. \n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #12511 (2019) **\nProject Value: $990,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Dunbar-Southlands\nContractor: Aqua Homes Development Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1751414400,
+          "endDate": 1751414400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1751414400,
+          "endDate": 1751414400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1751414400,
+      "relatedPermits": [],
+      "projectValue": 990000,
+      "latitude": 49.246154,
+      "longitude": -123.190034,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3876 W 29TH AVENUE",
+      "applicant": "QI LI DBA: LQ Design GROUP Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-02996",
+      "applicationDate": 1751414400,
+      "addresses": [
+        "3876 W 29TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a two-storey one-unit rear building with three carport parking spaces having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in closet at stairs\n2.\\tMechanical unit proposed – Exterior component located in the courtyard, Interior component located under stairs\n3.\\tSchedule B: (S. Guo) P.Eng (778.926.0525) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Aqua Homes Development Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 2 (Rear) (south)\n3876 W 29th Av  - One Dwelling Unit (1st - 2nd floors)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted and to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #12511 (2019) **\nProject Value: $339,500.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Dunbar-Southlands\nContractor: Aqua Homes Development Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1751414400,
+          "endDate": 1751414400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1751414400,
+          "endDate": 1751414400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1751414400,
+      "relatedPermits": [],
+      "projectValue": 339500,
+      "latitude": 49.245926,
+      "longitude": -123.190122,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
+    },
+    {
       "primaryStreetName": "6394 ST. CATHERINES STREET",
       "applicant": "Lakhvir (Garry) Sond DBA: construction",
       "cityApplicationType": "New Building",
@@ -166135,7 +166232,7 @@
         "1136 W KING EDWARD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey building of care occupancy (165 dwelling units) consisting of:\n  1st storey - dwelling units; common areas for residents including dining\n  2nd to 4th storeys - suites of care occupancy; common areas\n  5th to 6th storeys - dwelling units\n  7th storey (rooftop) - indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the side lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2025.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Mar. 20, 2026\nProject Value: $51,828,150.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Shaughnessy\nContractor: MARCON PROJECT (656) LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey building of care occupancy (165 dwelling units) consisting of:\n  1st storey - dwelling units; common areas for residents including dining\n  2nd to 4th storeys - suites of care occupancy; common areas\n  5th to 6th storeys - dwelling units\n  7th storey (rooftop) - indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the side lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2025.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Mar. 20, 2026\n\nSTAGE II: Full Construction - In review\nProject Value: $51,828,150.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Shaughnessy\nContractor: MARCON PROJECT (656) LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -166160,7 +166257,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1773964800,
+      "lastUpdated": 1786272962,
       "relatedPermits": [],
       "projectValue": 51828150,
       "latitude": 49.248891,
@@ -167701,6 +167798,45 @@
       "projectValue": 292000,
       "latitude": 49.285661,
       "longitude": -123.053315,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "4994 BLENHEIM STREET",
+      "applicant": "Farid Sayari",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00848",
+      "applicationDate": 1773273600,
+      "addresses": [
+        "4994 BLENHEIM STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a three-storey, 5-unit Multiple Dwelling \"Multiplex\" with a 5-car attached carport, per Bulletin 2024-022-BU, having access from the lane.\n\nVBBL 2025 - NFPA 13D\nProject Value: $2,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Dunbar-Southlands\nContractor: ROYAL PALACE CONSTRUCTION & DESIGN LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773273600,
+          "endDate": 1773273600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773273600,
+          "endDate": 1773273600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773273600,
+      "relatedPermits": [],
+      "projectValue": 2000000,
+      "latitude": 49.241563,
+      "longitude": -123.178275,
+      "minor": true,
       "approvalStatus": "Approved",
       "storeys": 3
     },
@@ -187351,7 +187487,7 @@
     },
     {
       "primaryStreetName": "1045 YATES ST",
-      "applicant": "TREVOR SMITH",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01136",
@@ -187359,7 +187495,7 @@
       "addresses": [
         "1045 YATES ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for revisions to approved DP plans (DPV00150).\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -187372,13 +187508,13 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1781766000,
-          "endDate": null
+          "endDate": 1784185200
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1784185200,
+          "endDate": 1784185200
         }
       ],
       "documents": [
@@ -187389,6 +187525,14 @@
         {
           "docName": "2026-04-27 - Plans_Submission_Bubbled_2of2",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=53163C260427125030837087&folderId=53163C260427100125502606"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS 1of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=79924C260716131056288371&folderId=53163C260427100125502606"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS 2of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=79924C260716131056333353&folderId=53163C260427100125502606"
         }
       ],
       "city": "Victoria",
@@ -187415,7 +187559,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "APPROVED BY COUNCIL April 6, 2023 \n\nThe City is considering a Rezoning application to a site-specific zone for a multi-phased mixed-use development proposal, including residential, commercial, and office uses, covering one and a half city blocks. The proposal requires an amendment to the Official Community Plan."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "240 SIMCOE ST",
@@ -187756,7 +187901,7 @@
     },
     {
       "primaryStreetName": "414 CRAIGFLOWER RD",
-      "applicant": "KAREN HILLEL",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01144",
@@ -187764,23 +187909,14 @@
       "addresses": [
         "414 CRAIGFLOWER RD"
       ],
-      "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to allow for a change of use to an ice cream shop which includes a parking variance.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
-      "progressSections": [
-        {
-          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
-          "taskType": "Staff Review Application",
-          "startDate": 1779865200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
-          "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
-        }
-      ],
+      "status": "ARCHIVED",
+      "purpose": "APPLICATION RETIRED: X-REFERENCE DDV00112\nThe City is reviewing a Delegated Development Permit application to allow for a change of use to an ice cream shop which includes a parking variance.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [],
       "documents": [
+        {
+          "docName": "2026-05-25 - Letter to DS.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=25C77495-7A20-4306-82FA-AB92DAE759D2&folderId=62256C260525112638154840"
+        },
         {
           "docName": "2026-05-25 - Plans_Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EB770063-852C-4B2D-95A7-EDE39B093F48&folderId=62256C260525112638154840"
@@ -187788,7 +187924,16 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1779865200,
-      "relatedPermits": []
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDV00112",
+          "relatedPermitType": "Delegated Development Variance Permit",
+          "relatedPermitApplicationDate": 1784880000,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Delegated Development Variance Permit application to allow for a change of use to an ice cream shop which includes a parking variance\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        }
+      ],
+      "approvalStatus": "Superseded"
     },
     {
       "primaryStreetName": "247 BELLEVILLE ST",
