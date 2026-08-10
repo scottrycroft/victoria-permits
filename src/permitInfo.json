@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1786273320,
+  "dateRetrieved": 1786359154,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15406,8 +15406,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785840965,
+      "lastUpdated": 1786359361,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021865",
           "relatedPermitType": "Development Permit"
@@ -15422,10 +15426,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15449,8 +15449,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785840965,
+      "lastUpdated": 1786359361,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15465,10 +15469,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15492,8 +15492,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785840965,
+      "lastUpdated": 1786359361,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15508,10 +15512,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15535,8 +15535,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785840965,
+      "lastUpdated": 1786359361,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15551,10 +15555,6 @@
         },
         {
           "relatedPermitID": "BP021868",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15578,8 +15578,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785840965,
+      "lastUpdated": 1786359361,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021862",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -15594,10 +15598,6 @@
         },
         {
           "relatedPermitID": "BP021867",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -128757,10 +128757,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1785754565,
+      "lastUpdated": 1786359360,
       "relatedPermits": [],
-      "latitude": 48.381425,
-      "longitude": -123.751918
+      "latitude": 48.38091,
+      "longitude": -123.751516
     },
     {
       "primaryStreetName": "7059 BRIARWOOD PL",
@@ -129573,6 +129573,35 @@
       "longitude": -123.643707
     },
     {
+      "primaryStreetName": "5005 SOOKE HANGER DR",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "PLN02574",
+      "applicationDate": 1785369600,
+      "addresses": [
+        "5005 SOOKE HANGER DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Site preparation and driveway construction for 4 SFDs on an RU2 parcel",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — IN-PROGRESS",
+          "taskType": "",
+          "startDate": 1785369600,
+          "endDate": 1785369600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sooke",
+      "lastUpdated": 1785427867,
+      "relatedPermits": [],
+      "latitude": 48.376644,
+      "longitude": -123.619528
+    },
+    {
       "primaryStreetName": "6605 SOOKE RD",
       "applicant": "",
       "cityApplicationType": "Zoning Amendment",
@@ -129600,6 +129629,35 @@
       "relatedPermits": [],
       "latitude": 48.3781,
       "longitude": -123.717838
+    },
+    {
+      "primaryStreetName": "7059 MAPLE PARK TERR",
+      "applicant": "",
+      "cityApplicationType": "Development Variance Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "PLN02582",
+      "applicationDate": 1784592000,
+      "addresses": [
+        "7059 MAPLE PARK TERR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Two lot fee simple subdivision.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — IN-PROGRESS",
+          "taskType": "",
+          "startDate": 1784592000,
+          "endDate": 1784592000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sooke",
+      "lastUpdated": 1784652836,
+      "relatedPermits": [],
+      "latitude": 48.377221,
+      "longitude": -123.744921
     },
     {
       "primaryStreetName": "688 W 57TH AVENUE",
