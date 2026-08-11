@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1786359154,
+  "dateRetrieved": 1786475767,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4736,14 +4736,14 @@
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": 1783926000,
-          "endDate": null
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1786345200,
+          "endDate": 1786345200
         },
         {
           "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": 1786345200,
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1783926000,
           "endDate": null
         },
         {
@@ -4764,7 +4764,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1784889978,
+      "lastUpdated": 1786475769,
       "relatedPermits": []
     },
     {
@@ -4789,7 +4789,7 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
-          "startDate": 1788850800,
+          "startDate": null,
           "endDate": null
         },
         {
@@ -4840,7 +4840,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1784976370,
+      "lastUpdated": 1786475769,
       "relatedPermits": [],
       "major": true,
       "storeys": 5
@@ -84112,6 +84112,38 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "1260 Readings Dr",
+      "applicant": "",
+      "cityApplicationType": "Development Variance Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "2695b22763",
+      "applicationDate": 1786475961,
+      "addresses": [
+        "1260 Readings Dr"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Addition to an existing garage for additional storage space",
+      "progressSections": [
+        {
+          "taskDescription": "In Progress",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Application Package",
+          "docURL": "https://northsaanich.ca/wp-content/uploads/2026-08-10-1260-Readings-Rd-2026-04-ADA.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "North Saanich",
+      "lastUpdated": 1786475961,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "10630 Blue Heron Road",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -84173,6 +84205,38 @@
       "withApplicantDays": null,
       "city": "North Saanich",
       "lastUpdated": 1774966087,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1943 Marina Way",
+      "applicant": "",
+      "cityApplicationType": "Development Variance Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "2df6d2b56f",
+      "applicationDate": 1786475961,
+      "addresses": [
+        "1943 Marina Way"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Addition of a secondary suite to existing house",
+      "progressSections": [
+        {
+          "taskDescription": "In Progress",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Application Package",
+          "docURL": "https://northsaanich.ca/wp-content/uploads/2026-08-10-1943-Marina-Wy-DVP-2026-03-ADA.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "North Saanich",
+      "lastUpdated": 1786475961,
       "relatedPermits": []
     },
     {
@@ -102402,7 +102466,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786099959,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00161",
@@ -102423,14 +102487,14 @@
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1764576000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "BLD 3 & 4 - FOUNDATION ONLY FOR 87 UNIT 5 STOREY RESIDENTIAL - POINTS WEST"
+          "relatedPermitDescription": "BLD 3 & 4 - FOUNDATION ONLY FOR 87 UNIT 5 STOREY RESIDENTIAL - POINTS WEST 3022 ALBINA"
         },
         {
           "relatedPermitID": "CBP00057",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1764316800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "BLD 1 & 2 - FOUNDATION ONLY FOR 6 STOREY MIXED-USED 121 UNIT RESIDENTIAL & 1 COMMERCIAL- POINTS WEST"
+          "relatedPermitDescription": "BLD 1 & 2 - FOUNDATION ONLY FOR 6 STOREY MIXED-USED 121 UNIT RESIDENTIAL & 1 COMMERCIAL- POINTS WEST 3021 TILLICUM"
         },
         {
           "relatedPermitID": "FIL00238",
@@ -114596,6 +114660,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1778655600,
+          "endDate": 1786345200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1786345200,
+          "endDate": 1786345200
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1786345200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -114614,7 +114696,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1778756367,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00799",
@@ -117480,6 +117562,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1785999600,
           "endDate": 1785999600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1786345200,
+          "endDate": null
         }
       ],
       "documents": [
@@ -117489,7 +117577,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786099959,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01103",
@@ -117638,6 +117726,49 @@
       ],
       "major": true,
       "storeys": 8
+    },
+    {
+      "primaryStreetName": "1705 LANSDOWNE RD",
+      "applicant": "HCMA ARCHITECTURE + DESIGN",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01129",
+      "applicationDate": 1786345200,
+      "addresses": [
+        "1705 LANSDOWNE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "*STORMWATER*",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1786086000,
+          "endDate": 1786345200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1786345200,
+          "endDate": 1786345200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1786345200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1786345200,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "4115 QUADRA ST",
@@ -124997,6 +125128,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1783494000,
+          "endDate": 1786345200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1786345200,
+          "endDate": 1786345200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1786345200,
           "endDate": null
         }
       ],
@@ -125007,7 +125150,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1783680805,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00561",
@@ -125072,12 +125215,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1785394800,
+          "endDate": 1786431600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1786431600,
+          "endDate": 1786431600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1785495177,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "CAN00014",
@@ -125478,11 +125633,52 @@
       "status": "ACTIVE",
       "purpose": "Development variance permit to relax the setback from natural boundary from 15m to 0m to permit the construction of shoreline stabilization works",
       "progressSections": [],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "SS_LTC2026-08-27_PLDVP20250460_SR.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/1.%20Staff%20Reports/SS_LTC2026-08-27_PLDVP20250460_SR.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-10_PLDDVP20250460_DDunnison_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDDVP20250460_DDunnison_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-10_PLDVP20250460_HKuhrt_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDVP20250460_HKuhrt_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-10_PLDVP20250460_SBarclay_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDVP20250460_SBarclay_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-11_PLDVP20250460_JWagner-EML LTC.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_JWagner-EML%20LTC.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-07_PLDVP20250460_HJang-EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-07_PLDVP20250460_HJang-EML_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-07_PLDVP20250460_JSpiers_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-07_PLDVP20250460_JSpiers_EML_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-10_PLDVP20250460_AEtt_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-10_PLDVP20250460_AEtt_EML_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026_08-!0_PLDVP20250460_JNowell_EMl_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026_08-!0_PLDVP20250460_JNowell_EMl_R.pdf"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1786100135,
+      "lastUpdated": 1786475961,
       "relatedPermits": []
     },
     {
@@ -127628,22 +127824,26 @@
       "purpose": "Development Variance Permit application to allow for the placement of a heat pump on the balcony in the front yard of the subject property.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Council Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1786345200,
+          "endDate": 1786345200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/404-9870-Second-Street-Plans.pdf"
+        },
+        {
+          "docName": "August 10, 2026 Council Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/59303/9a-DVP100396%20-%20404-9870%20Second%20Street.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1785408928,
+      "lastUpdated": 1786475961,
       "relatedPermits": []
     },
     {
@@ -128336,22 +128536,26 @@
       "purpose": "Development Variance Permit application to reduce the minimum interior side setback along the west lot line from 2.0 metres to 1.48 metres, applying to one corner of an existing at-grade addition constructed within the footprint of a previous deck.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Council Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1786345200,
+          "endDate": 1786345200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/10249-Forsythia-Place-Plans.pdf"
+        },
+        {
+          "docName": "August 10, 2026 Council Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/59165/9b-%20DV100397-%2010249%20Forsythia%20Place.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1785408928,
+      "lastUpdated": 1786475961,
       "relatedPermits": []
     },
     {
@@ -162916,7 +163120,7 @@
         "766 E 21ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a three storey 4-unit Multiple Dwelling \"Multiplex\" front building with a detached accessory building (carport) at the rear,  providing 3 parking spaces having access from the lane.\n\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design \n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n4. Reviewed under 2019 VBBL\n5. Energy requirements per 10.2.1.5\n6. Related to DP-2025-00056\nProject Value: $1,275,580.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: Arxa Development Corporation",
+      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To construct a three storey 4-unit Multiple Dwelling \"Multiplex\" front building with a detached accessory building (carport) at the rear,  providing 3 parking spaces having access from the lane.\n\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design \n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n4. Reviewed under 2019 VBBL\n5. Energy requirements per 10.2.1.5\n6. Related to DP-2025-00056\nProject Value: $1,275,580.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: Arxa Development Corporation",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -162935,7 +163139,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786475996,
       "relatedPermits": [],
       "projectValue": 1275580,
       "latitude": 49.251635,
@@ -162993,7 +163197,7 @@
         "522 MALKIN AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 21-storey mixed use residential building with retail and cultural amenity spaces on Level 1, 321 secured market rental dwelling units on Levels 2 to 20, indoor and outdoor amenity on Levels 7 and 21, all over 2 levels of underground parking, with vehicular access from Malkin Avenue.\n\nThis is a CP Process Permit and the applicant is Jun Kim, P.Eng., CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio Antenna System is required.\n3. A 2 hour pre-shaft to the roof has NOT been provided the CRUs.  Owner assumes the responsibility of informing all future restaurant and retail food tenants that they will be required to upgrade their respective CRU with a kitchen exhaust system that complies with the Vancouver Building Bylaw and all applicable City regulations.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued March 19, 2026)\n\nRevision 1 - Change of CP from Jason Hui to Jun Kim, effective March 24, 2026 (Issued April 8, 2026)\n\nStage 2 - Foundation to Grade (Issued July 22, 2026)\nProject Value: $99,910,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Apartment, Retail Store\nNeighbourhood: Strathcona\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 21-storey mixed use residential building with 14 CRUs Level 1, 319 secured market rental dwelling units on Levels 2 to 20, indoor and outdoor amenity on Levels 7 and 21, all over 2 levels of underground parking, with vehicular access from Malkin Avenue.\n\nThis is a CP Process Permit and the applicant is Jun Kim, P.Eng., CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio Antenna System is required.\n3. A 2 hour pre-shaft to the roof has NOT been provided the CRUs.  Owner assumes the responsibility of informing all future restaurant and retail food tenants that they will be required to upgrade their respective CRU with a kitchen exhaust system that complies with the Vancouver Building Bylaw and all applicable City regulations.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued March 19, 2026)\n\nRevision 1 - Change of CP from Jason Hui to Jun Kim, effective March 24, 2026 (Issued April 8, 2026)\n\nStage 2 - Foundation to Grade (Issued July 22, 2026)\n\nRevision 2 - Updated project description to match DPMA DP-2026-00329. Reduced number of dwelling units from 321 to 319 and converted previous L1 Cultural Amenity Space to CRUs (Issued August 10, 2026)\nProject Value: $99,910,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Apartment, Retail Store\nNeighbourhood: Strathcona\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -163024,7 +163228,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1784890169,
+      "lastUpdated": 1786475996,
       "relatedPermits": [],
       "projectValue": 99910000,
       "latitude": 49.276217,
@@ -181709,7 +181913,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1772607600,
-          "endDate": null
+          "endDate": 1776322800
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
@@ -181751,7 +181955,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1786475769,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -186107,7 +186311,7 @@
         "535 YATES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to legalize existing chain link fence with barbed wire at the rear of the property. The proposal requires variances to the height and to the use of barbed wire.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "purpose": "The City is reviewing a Delegated Development Permit application to legalize existing chain link fence with barbed wire at the rear of the property. The proposal requires variances to the height and for the use of barbed wire.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
@@ -186129,7 +186333,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1768910219,
+      "lastUpdated": 1786475769,
       "relatedPermits": []
     },
     {
@@ -188087,6 +188291,12 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1780383600,
+          "endDate": 1784271600
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1784271600,
           "endDate": null
         },
         {
@@ -188103,7 +188313,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1780383600,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00025",
@@ -254696,6 +254906,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -254738,10 +254954,18 @@
         {
           "docName": "2025-11-03 - Revsisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=876A3A47-B794-4556-B659-E1B77C442C82&folderId=69772C250729104643138051"
+        },
+        {
+          "docName": "2026-08-10 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=554F0BA3-6041-4F99-AFB9-420F7E3B2B1C&folderId=69772C250729104643138051"
+        },
+        {
+          "docName": "2026-08-11 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1AC143CD-05A2-4F42-AD99-F552E7F40702&folderId=69772C250729104643138051"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00297",
@@ -255499,7 +255723,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1782198000,
-          "endDate": null
+          "endDate": 1786345200
         },
         {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
@@ -255597,7 +255821,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785408765,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00299",
@@ -255759,6 +255983,14 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BA1AAC3B-A2CD-4006-B502-4F2D9776DDDA&folderId=89502C251002151439875948"
         },
         {
+          "docName": "2026-07-29 - Plans_Revisions_Development Tracker Pages 11-15.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2AAAD11F-13D4-49E9-9A1F-38DBC45AFD76&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-07-29 - Plans_Revisions_Development Tracker Pages 16-20.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3FBB8EF0-A3B8-4B38-9891-94D2E138A676&folderId=89502C251002151439875948"
+        },
+        {
           "docName": "2026-07-29 - Plans_Revisions_Development Tracker Pages 21-39.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=11852CB6-BD6E-4FB5-933F-52D4615BB1A0&folderId=89502C251002151439875948"
         },
@@ -255768,7 +256000,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786186358,
+      "lastUpdated": 1786475769,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000658",
