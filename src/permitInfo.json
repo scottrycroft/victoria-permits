@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1786618342,
+  "dateRetrieved": 1786704740,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -14294,14 +14294,21 @@
       "addresses": [
         "8219 111B ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a duplex dwelling",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1786579200,
+          "endDate": 1786579200
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779102051,
+      "lastUpdated": 1786704932,
       "relatedPermits": [],
       "latitude": 49.152627,
       "longitude": -122.913986
@@ -20242,13 +20249,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1786013774,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP023070",
-          "relatedPermitType": "Development Permit"
-        }
-      ],
+      "lastUpdated": 1786704932,
+      "relatedPermits": [],
       "latitude": 49.145541,
       "longitude": -122.893856,
       "minor": true
@@ -20584,6 +20586,28 @@
       "longitude": -122.914382
     },
     {
+      "primaryStreetName": "11525 81A AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023202",
+      "applicationDate": 1786704932,
+      "addresses": [
+        "11525 81A AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - SFD with suite",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1786704932,
+      "relatedPermits": [],
+      "latitude": 49.151627,
+      "longitude": -122.903555
+    },
+    {
       "primaryStreetName": "5125 1 AVE",
       "applicant": "",
       "cityApplicationType": "Residential",
@@ -20681,6 +20705,28 @@
       "latitude": 49.004851,
       "longitude": -123.081904,
       "minor": true
+    },
+    {
+      "primaryStreetName": "156 67 ST",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023259",
+      "applicationDate": 1786704932,
+      "addresses": [
+        "156 67 ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1786704932,
+      "relatedPermits": [],
+      "latitude": 49.005019,
+      "longitude": -123.038112
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -113468,7 +113514,7 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1784271600,
-          "endDate": null
+          "endDate": 1786604400
         }
       ],
       "documents": [
@@ -113486,7 +113532,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00785",
@@ -114979,12 +115025,12 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1786345200,
-          "endDate": null
+          "endDate": 1786604400
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1786604400,
           "endDate": null
         }
       ],
@@ -115003,7 +115049,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786475769,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00799",
@@ -125889,9 +125935,14 @@
           "endDate": 1786431600
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "REVISED SITE PLAN_AUG 10 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=F4AE6E51-9294-4698-95BA-6B83DD78A999&folderId=03107C260728081446622495"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1786531944,
+      "lastUpdated": 1786704742,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -125964,24 +126015,36 @@
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDVP20250460_SBarclay_EML_R.pdf"
         },
         {
-          "docName": "SS-LTC-2026-08-11_PLDVP20250460_JWagner-EML LTC.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_JWagner-EML%20LTC.pdf"
+          "docName": "SS-LTC-2026-08-11_PLDVP20250460_DMagnusson_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_DMagnusson_EML_R.pdf"
         },
         {
-          "docName": "SS-LTC-2026-08-11_PLDVP20250460_SHall_EML.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_SHall_EML.pdf"
+          "docName": "SS-LTC-2026-08-11_PLDVP20250460_JWagner_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_JWagner_EML_R.pdf"
         },
         {
-          "docName": "SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML.pdf"
+          "docName": "SS-LTC-2026-08-12_PLDVP20250460_MMcLeod_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_MMcLeod_EML_R.pdf"
         },
         {
-          "docName": "SS-LTC-2026-0811_PLDVP20250460_DMagnusson_EML.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-0811_PLDVP20250460_DMagnusson_EML.pdf"
+          "docName": "SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML_R.pdf"
         },
         {
-          "docName": "SS-LTTC-2026-08-12_PLDVP20250460_MMcLeod_EML.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTTC-2026-08-12_PLDVP20250460_MMcLeod_EML.pdf"
+          "docName": "SS-LTC-2026-08-13_PLDVP20250460_CJohnson_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-13_PLDVP20250460_CJohnson_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-13_PLDVP20250460_TStafford_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-13_PLDVP20250460_TStafford_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-0812_PLDVP20250460_SHall_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-0812_PLDVP20250460_SHall_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf"
         },
         {
           "docName": "SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf",
@@ -126000,6 +126063,10 @@
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-10_PLDVP20250460_AEtt_EML_R.pdf"
         },
         {
+          "docName": "SS_LTC-2026-08-13_PLDVP20250460_JGange_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-13_PLDVP20250460_JGange_EML_R.pdf"
+        },
+        {
           "docName": "SS_LTC-2026_08-!0_PLDVP20250460_JNowell_EMl_R.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026_08-!0_PLDVP20250460_JNowell_EMl_R.pdf"
         }
@@ -126007,7 +126074,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1786618531,
+      "lastUpdated": 1786704897,
       "relatedPermits": []
     },
     {
@@ -130203,7 +130270,7 @@
         "688 W 57TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - Parcel C of Phase 1 of the Pearson Dogwood redevelopment.\n\nTo construct a 29 storey mixed-use building with 9-storey podium consisting of:\n\nLevel 1 to 5      - Retail units, Health Care Office (Community Health \n                         Centre) incl. a Therapy pool at L2, Residential amenity  ( leisure pool, GYM)\nLevel 3            - Child Daycare Facility \n\nLevel 6 to 29      -30 Pearson Supportive Housing units  (Community Care \n                        Facility Class A) and 217 residential units;\n\nall over 4 levels of underground parking. \n\nNOTE: This building is designed to VBBL 2014. \nThe building is provided with single stage FA system. No modifications to the FA system are proposed. \n\nNOTE: OCCUPANT LOAD AT LEVEL 4 IS RESTRICTED BASED ON OCCUPANT LOAD SIGNS. \n\nSTAGED CONSTRUCTION:\n27-Sep-2019 - Stage I (excavation and shoring) issued. \n05-May-2026 - Stage II (struct to grade) issued.\n\n24-Oct-2025 - Revision # 1 issued. \nEffective Oct 3, 2025  David Ho, P. Eng., C.P.  assumed responsibilities as a C.P. on this project. \n\n28-Jan-2026 - Revision#2 issued.\nChanges to E &S drawings to reflect reduced number of U/G parking levels  from 5 to 4 levels.\nProject description updated to reflect changes accepted under the DPMA DP-2025-00194. \n- Increase in the total number of residential  units from 148 to 217 units\n- Increase in the number of supportive housing units from 16 to 30\nProject Value: $72,812,880.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Community Care Facility, Child Day Care Facility, Parking Garage, Multiple Dwelling, Retail Store\nNeighbourhood: Oakridge\nContractor: Onni Contracting Ltd",
+      "purpose": "Certified Professional Program - New Building - Parcel C of Phase 1 of the Pearson Dogwood redevelopment.\n\nTo construct a 29 storey mixed-use building with 9-storey podium consisting of:\n\nLevel 1 to 5      - Retail units, Health Care Office (Community Health \n                         Centre) incl. a Therapy pool at L2, Residential amenity  ( leisure pool, GYM)\nLevel 3            - Child Daycare Facility \n\nLevel 6 to 29      -30 Pearson Supportive Housing units \n                         and 217 residential units;\n\nall over 4 levels of underground parking. \n\nNOTE: This building is designed to VBBL 2014. Rel to  DP-2017-01335\nThe building is provided with single stage FA system. No modifications to the FA system are proposed. \n\nNOTE: OCCUPANT LOAD AT LEVEL 4 IS RESTRICTED BASED ON OCCUPANT LOAD SIGNS. \n\nSTAGED CONSTRUCTION:\n27-Sep-2019 - Stage I (excavation and shoring) issued. \n05-May-2026 - Stage II (struct to grade) issued.\n\n24-Oct-2025 - Revision # 1 issued. \nEffective Oct 3, 2025  David Ho, P. Eng., C.P.  assumed responsibilities as a C.P. on this project. \n\n28-Jan-2026 - Revision#2 issued.\nChanges to E &S drawings to reflect reduced number of U/G parking levels  from 5 to 4 levels.\nProject description updated to reflect changes accepted under the DPMA DP-2025-00194. \n- Increase in the total number of residential  units from 148 to 217 units\n- Increase in the number of supportive housing units from 16 to 30\nProject Value: $72,812,880.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Community Care Facility, Child Day Care Facility, Parking Garage, Multiple Dwelling, Retail Store\nNeighbourhood: Oakridge\nContractor: Onni Contracting Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -130234,7 +130301,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1777939200,
+      "lastUpdated": 1786704938,
       "relatedPermits": [],
       "projectValue": 72812880,
       "latitude": 49.219063,
@@ -132449,7 +132516,7 @@
         "4445 W 10TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a new 5-storey mixed-use building on this site, with retail on the Level 2 and residential on Levels 3-5, containing 2 CRUs and six (6) dwelling units, all over one level of parking garage having vehicular access from the lane.\r\n\r\n* Issue Tree permit and complete HPO\r\n\r\nNotes:\r\n1- Basement level is the first floor per VBBL 2019.\r\n2- The building is considered 4 storey on development permit DP-2022-00509.\r\n3- Reviewed for conformance to VBBL 2019\r\n4- Commercial kitchen ventilation system shall comply with NFPA 96, 2014\nProject Value: $5,300,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Retail Store, Multiple Dwelling\nNeighbourhood: West Point Grey",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a new 5-storey mixed-use building on this site, with retail on the Level 2 and residential on Levels 3-5, containing 2 CRUs and six (6) dwelling units, all over one level of parking garage having vehicular access from the lane.\r\n\r\n* Issue Tree permit and complete HPO\r\n\r\nNotes:\r\n1- Basement level is the first floor per VBBL 2019.\r\n2- The building is considered 4 storey on development permit DP-2022-00509.\r\n3- Reviewed for conformance to VBBL 2019\r\n4- Commercial kitchen ventilation system shall comply with NFPA 96, 2014\nProject Value: $5,300,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Retail Store, Multiple Dwelling\nNeighbourhood: West Point Grey\nContractor: Daryl P Martini",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -132468,7 +132535,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1740614400,
+      "lastUpdated": 1786704938,
       "relatedPermits": [],
       "projectValue": 5300000,
       "latitude": 49.264066,
@@ -153909,7 +153976,7 @@
         "2122 W 47TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - ********************PART 5 DESIGN*************************\r\nTo construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" with 4 surface parking spaces having access from the lane.\r\n\r\nRelated permits: DP-2024-00433 \r\n\r\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2019 AND AMENDMENT EFFECTIVE FEBRUARY 27, 2025 ********\r\n\r\nBuilding Review Branch Notes:\r\n1.\\tThis lot is to be Stratified.\r\n2.\\tSch A,Sch B- ARCH, STR & GEO, D-1 are submitted.\r\n3.     Joe Nae-jer Hwang (Architectural item 1.1-1.10), Shan Huang (Architectural Item 1.15-1.24)\r\n4.\\tAll dwelling units have separate exterior entrances.\r\n5.\\tEntire building to be sprinkler to NFPA 13D requirement.\r\n6.\\tAll new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\nProject Value: $1,900,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale\nContractor: KENLUX DEVELOPMENT LTD.",
+      "purpose": "High Density Housing / Commercial - New Building - ********************PART 5 DESIGN*************************\nTo construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" with 4 surface parking spaces having access from the lane.\n\nRelated permits: DP-2024-00433 \n\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2019 AND AMENDMENT EFFECTIVE FEBRUARY 27, 2025 ********\n\nBuilding Review Branch Notes:\n1.\\tThis lot is to be Stratified.\n2.\\tSch A,Sch B- ARCH, STR & GEO, D-1 are submitted.\n3.     Joe Nae-jer Hwang (Architectural item 1.1-1.10), Shan Huang (Architectural Item 1.15-1.24)\n4.\\tAll dwelling units have separate exterior entrances.\n5.\\tEntire building to be sprinkler to NFPA 13D requirement.\n6.\\tAll new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n\nRevision #1 - In Review\n- Convert detached surface parking to carport\n- Changes corresponding to DP-202X-XXXXX\nProject Value: $1,980,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale\nContractor: KENLUX DEVELOPMENT LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -153928,11 +153995,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786704938,
       "relatedPermits": [],
-      "projectValue": 1900000,
+      "projectValue": 1980000,
       "latitude": 49.228762,
       "longitude": -123.156596,
+      "minor": true,
       "approvalStatus": "Approved",
       "storeys": 3
     },
@@ -154782,7 +154850,7 @@
         "4888 PINE CRESCENT"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building with a detached two-car garage and one surface parking spaces having vehicular access from the lane. \n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Khidhir Jorj, M.Sc.) P.Eng (778.730,1747) Geotechnical\n3. Schedule B: (Clinton Yiu) P.Eng (604.255.7670) Structural\n4. HPO: Residential Builder - Robco Construction Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n 4888 Pine Cr=Primary Address\n\nBuilding 1 (north)\n#1-4888 Pine Cr - One Dwelling Unit (north side 1st-3nd floors)\n#2-4888 Pine Cr - One Dwelling Unit (south side 1st-3rd floors) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $1,350,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Shaughnessy\nContractor: ROBCO CONSTRUCTION LTD.",
+      "purpose": "Low Density Housing - New Building - ****************           PART 5        **************************\n\nTo construct a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building with a detached two-car garage and one surface parking spaces having vehicular access from the lane. \n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Khidhir Jorj, M.Sc.) P.Eng (778.730,1747) Geotechnical\n3. Schedule B: (Clinton Yiu) P.Eng (604.255.7670) Structural\n4. HPO: Residential Builder - Robco Construction Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n 4888 Pine Cr=Primary Address\n\nBuilding 1 (north)\n#1-4888 Pine Cr - One Dwelling Unit (north side 1st-3nd floors)\n#2-4888 Pine Cr - One Dwelling Unit (south side 1st-3rd floors) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $1,350,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Shaughnessy\nContractor: ROBCO CONSTRUCTION LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -154801,7 +154869,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786704938,
       "relatedPermits": [],
       "projectValue": 1350000,
       "latitude": 49.242214,
@@ -154820,7 +154888,7 @@
         "4890 PINE CRESCENT"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building with a detached two-car garage and two surface parking spaces having vehicular access from the lane. \n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Khidhir Jorj, M.Sc.) P.Eng (778.730,1747) Geotechnical\n3. Schedule B: (Clinton Yiu) P.Eng (604.255.7670) Structural\n4. HPO: Residential Builder - Robco Construction Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress information:\n 4888 Pine Cr=Primary Address\n\nBuilding 2 (south)\n#1-4890 Pine Cr - One Dwelling Unit (north side 1st-3rd floors)\n#2-4890 Pine Cr - One Dwelling Unit (south side 1st-3rd floors)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $1,350,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Shaughnessy\nContractor: ROBCO CONSTRUCTION LTD.",
+      "purpose": "Low Density Housing - New Building - *********************  Part 5   ****************************\n\nTo construct a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building with a detached two-car garage and two surface parking spaces having vehicular access from the lane. \n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Khidhir Jorj, M.Sc.) P.Eng (778.730,1747) Geotechnical\n3. Schedule B: (Clinton Yiu) P.Eng (604.255.7670) Structural\n4. HPO: Residential Builder - Robco Construction Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress information:\n 4888 Pine Cr=Primary Address\n\nBuilding 2 (south)\n#1-4890 Pine Cr - One Dwelling Unit (north side 1st-3rd floors)\n#2-4890 Pine Cr - One Dwelling Unit (south side 1st-3rd floors)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $1,350,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Shaughnessy\nContractor: ROBCO CONSTRUCTION LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -154839,7 +154907,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786013781,
+      "lastUpdated": 1786704938,
       "relatedPermits": [],
       "projectValue": 1350000,
       "latitude": 49.242169,
@@ -156411,7 +156479,7 @@
         "930 W 57TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with two three-storey 2-unit front buildings and two two-storey 1-unit rear buildings providing 5 surface parking spaces at the rear having access from the lane. \n\nThis permit is for Building 1\nFront Buildings: \nBP-2025-01614 - Building 1 (2 unit) - All docs and drwgs here\nBP-2025-01615 - Building 2 (2 unit)\nRear Buildings: \nBP-2025-01616 - Building 3 (1 unit)\nBP-2025-01617 - Building 4 (1 unit)\n\nBRB notes:\n1. Reviewed under 2019 VBBL\n2. Building to be sprinklered to NFPA 13D \n\nRev #1 (DATE) - JI\n1. Unit A & B: Revise cladding from hardie to stucco on the north & south elevations\nProject Value: $2,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Marpole\nContractor: MANAV Developments Inc",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with two three-storey 2-unit front buildings and two two-storey 1-unit rear buildings providing 5 surface parking spaces at the rear having access from the lane. \n\nThis permit is for Building 1\nFront Buildings: \nBP-2025-01614 - Building 1 (2 unit) - All docs and drwgs here\nBP-2025-01615 - Building 2 (2 unit)\nRear Buildings: \nBP-2025-01616 - Building 3 (1 unit)\nBP-2025-01617 - Building 4 (1 unit)\n\nBRB notes:\n1. Reviewed under 2019 VBBL\n2. Building to be sprinklered to NFPA 13D \n\nRev #1 (DATE) - JI\n1. Building 1 & 2: Revise cladding from hardie to stucco on the north & south elevations\nProject Value: $2,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Marpole\nContractor: MANAV Developments Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -156430,7 +156498,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786618569,
+      "lastUpdated": 1786704938,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-01615",
@@ -158719,7 +158787,7 @@
         "1725 RUPERT STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey wood-frame mixed-use building consisting of:\n  1st storey - 3 commercial units (a Fitness Center, a Restaurant and an Office) \n  2nd to 6 storey - 63 residential units,\nall over 3 levels of underground levels.  \n\nNotes: \nThis building is designed to VBBL 2019.\nRadio antenna system to be installed in this building.\nOne vertical pre-shaft (2hr FRR) is proposed for the restaurant on the ground level from ceiling to Level 6 roof.\n\nSTAGED CONSTRUCTION: \n10-Mar-2026 - Stage1 (E &S)  issued. \n08-May-2026 - Stage 2 (foundation to P1)  issued. \n\nStage 3 - In Review \n\n21-July-2026 - Revision#1 issued \nAddition of sheets S206 and S206 for Level 1 slab ( Level 1 G.A plan & reinforcement)\nProject Value: $25,000,000.00\nProperty Use: Cultural/Recreational Uses, Dwelling Uses, Office Uses, Parking Uses, Service Uses\nSpecific Use: Fitness Centre, General Office, Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage\nNeighbourhood: Hastings-Sunrise",
+      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey wood-frame mixed-use building consisting of:\n  1st storey - 3 commercial units (a Fitness Center, a Restaurant and an Office) \n  2nd to 6 storey - 63 residential units,\nall over 3 levels of underground levels.  \n\nNotes: \nThis building is designed to VBBL 2019.\nRadio antenna system to be installed in this building.\nOne vertical pre-shaft (2hr FRR) without exhaust duct is proposed for the restaurant on the ground level from ceiling to Level 6 roof. \nRated access panels into public corridor or common area shall be provided on every storey.\n\nSTAGED CONSTRUCTION: \n10-Mar-2026 - Stage1 (E &S)  issued. \n08-May-2026 - Stage 2 (foundation to P1)  issued. \n\nStage 3 - In Review \n\n21-July-2026 - Revision#1 issued \nAddition of sheets S206 and S206 for Level 1 slab ( Level 1 G.A plan & reinforcement)\nProject Value: $25,000,000.00\nProperty Use: Cultural/Recreational Uses, Dwelling Uses, Office Uses, Parking Uses, Service Uses\nSpecific Use: Fitness Centre, General Office, Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage\nNeighbourhood: Hastings-Sunrise",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -158744,7 +158812,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1785495395,
+      "lastUpdated": 1786704938,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04810",
@@ -167696,6 +167764,92 @@
       "storeys": 3
     },
     {
+      "primaryStreetName": "2720 CHARLES STREET",
+      "applicant": "QI LI DBA: LQ Design GROUP Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00345",
+      "applicationDate": 1769644800,
+      "addresses": [
+        "2720 CHARLES STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a 2-unit front building and a 1-unit rear building. With three surface parking spaces having vehicular access from the lane. \n\n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Md. Shahidul Alam) P.Eng (604.653.7475) Geotechnical\n3. Schedule B: (Md. Shahidul Alam) P.Eng (604.653.747) Structural\n4. HPO: Residential Builder - KENLUX DEVELOPMENT LTD.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\nBUILDING 1 (Front/North)\n#1- 2720 Charles St - One Dwelling Unit (1st - 3rd floor)\n#2- 2720 Charles St - One Dwelling Unit (1st - 3rd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\nThis permit is for the front building (2 dwelling units) and all site work, common facilities and service parking.\n\nFor the rear building, see BP-2026-00346 (1 dwelling units).\nProject Value: $899,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Hastings-Sunrise\nContractor: KENLUX DEVELOPMENT LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1769644800,
+          "endDate": 1769644800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1769644800,
+          "endDate": 1769644800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1769644800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00346",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 899000,
+      "latitude": 49.273233,
+      "longitude": -123.048885,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "2724 CHARLES STREET",
+      "applicant": "QI LI DBA: LQ Design GROUP Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00346",
+      "applicationDate": 1769644800,
+      "addresses": [
+        "2724 CHARLES STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a 2 unit front building and a 1 unit rear building.\n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Md. Shahidul Alam) P.Eng (604.653.7475) Geotechnical\n3. Schedule B: (Md. Shahidul Alam) P.Eng (604.653.747) Structural\n4. HPO: Residential Builder - KENLUX DEVELOPMENT LTD.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n\nUILDING 2 (Rear/South)\n2722 Charles St - One Dwelling Unit (1st - 2nd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\nThis permit is for the rear building (1 dwelling units). \n\nFor the front building, all site work, common facilities and service parking, see BP-2026-00345 (2 dwelling units).\nProject Value: $389,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Hastings-Sunrise\nContractor: KENLUX DEVELOPMENT LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1769644800,
+          "endDate": 1769644800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1769644800,
+          "endDate": 1769644800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1769644800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00345",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 389000,
+      "latitude": 49.272958,
+      "longitude": -123.048783,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "424 HOMER STREET",
       "applicant": "Giuseppe Tolfo DBA: Chard Development Ltd",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -168620,6 +168774,84 @@
       "latitude": 49.260223,
       "longitude": -123.029798,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "231 E 40TH AVENUE",
+      "applicant": "Michael Lu DBA: Lineform Architecture Inc",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01789",
+      "applicationDate": 1780012800,
+      "addresses": [
+        "231 E 40TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a three-storey two-unit front building, with four carport parking spaces at the rear building, having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in second floor hallway closet\n2.\\tMechanical unit proposed – Exterior component located in courtyard, Interior component located in second floor hallway closet\n3.\\tSchedule B: (C. Shen) P.Eng (604.771.0116) Structural & Geotechnical\n4.\\tHPO: Residential Builder- AVI Homes Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1 (Front) (South)   \n#1-231 E 40th Av - One Dwelling Unit (west side 1st-3rd levels) (Primary)\n#2-231 E 40th Av - One Dwelling Unit (east side side 1st-3rd levels) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #14343 (2025)**\nProject Value: $977,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Riley Park\nContractor: A V I Homes Ltd.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1780012800,
+          "endDate": 1780012800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1780012800,
+          "endDate": 1780012800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1780012800,
+      "relatedPermits": [],
+      "projectValue": 977000,
+      "latitude": 49.234764,
+      "longitude": -123.10057,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "229 E 40TH AVENUE",
+      "applicant": "Michael Lu DBA: Lineform Architecture Inc",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01790",
+      "applicationDate": 1780012800,
+      "addresses": [
+        "229 E 40TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a two-storey two-unit rear building with four carport parking spaces having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in second floor hallway closet\n2.\\tMechanical unit proposed – Exterior component located in courtyard, Interior component located in second floor hallway closet\n3.\\tSchedule B: (C. Shen) P.Eng (604.771.0116) Structural & Geotechnical\n4.\\tHPO: Residential Builder- AVI Homes Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 2 (Rear) (North)\n#1-229 E 40th Av - One Dwelling Unit (west side 1st-2nd floors)\n#2-229 E 40th Av - One Dwelling Unit (east side 1st-2nd floors)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #14343 (2025)**\nProject Value: $978,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Riley Park\nContractor: A V I Homes Ltd.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1780012800,
+          "endDate": 1780012800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1780012800,
+          "endDate": 1780012800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1780012800,
+      "relatedPermits": [],
+      "projectValue": 978000,
+      "latitude": 49.234543,
+      "longitude": -123.100634,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "102 WATER STREET",
@@ -180907,6 +181139,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1785308400,
+          "endDate": 1786604400
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -180950,10 +181188,14 @@
         {
           "docName": "2026-04-13 - Plans_Revisions_Bubbled_2of2",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=79D7DF08-C34C-4812-8CB3-5362304AACAD&folderId=23623C250307080810488877"
+        },
+        {
+          "docName": "2026-08-13 - Plans_Revisions_Bubbled",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88552C260813104108790662&folderId=23623C250307080810488877"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785408765,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01148",
@@ -185483,6 +185725,12 @@
           "endDate": 1774508400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -185504,7 +185752,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00281",
@@ -187829,12 +188077,12 @@
         "639 FOUL BAY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to subdivide and construct a seven unit townhomes as well as the relocate and restoration of an existing house to accommodate purpose-built rentals and remain rental tenure. The proposal also includes variances to siting and location of accessory building, setbacks, and parking.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "purpose": "The City is reviewing a Delegated Development Permit application to subdivide and construct a 7-unit townhouse building as well as the relocation and restoration of an existing house to accommodate purpose-built rentals and remain rental tenure. The proposal also includes variances to siting and location of accessory building, setbacks, and parking.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
-          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
-          "taskType": "Staff Review Application",
-          "startDate": 1773990000,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1774335600,
           "endDate": null
         },
         {
@@ -187851,7 +188099,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1773990000,
+      "lastUpdated": 1786704742,
       "relatedPermits": []
     },
     {
@@ -189149,13 +189397,7 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1785135600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1786604400
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -189176,10 +189418,22 @@
         {
           "docName": "2026-07-13 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=58B64F86-C3AA-462D-824A-D427D5816E14&folderId=78214C260713084353166386"
+        },
+        {
+          "docName": "2026-08-13 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3D47B258-92CC-4AEB-8CF7-186D045B9869&folderId=78214C260713084353166386"
+        },
+        {
+          "docName": "2026-08-13 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DC424F1C-4768-4223-8906-863CE214FAE3&folderId=78214C260713084353166386"
+        },
+        {
+          "docName": "2026-08-13 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AF893BED-6445-414E-A2B5-E07C0DCEB681&folderId=78214C260713084353166386"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785581569,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000609",
@@ -189340,18 +189594,6 @@
       "purpose": "The City is reviewing a Delegated Development Permit application for changes to the approved development permit DDP01108.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
-          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
-          "taskType": "Staff Review Application",
-          "startDate": 1784876400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -189379,7 +189621,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785308400,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01108",
@@ -189581,6 +189823,55 @@
       "city": "Victoria",
       "lastUpdated": 1785913200,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3106 BALFOUR AVE",
+      "applicant": "NOAH MULLIN",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01167",
+      "applicationDate": 1786604400,
+      "addresses": [
+        "3106 BALFOUR AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application to construct a 3-storey, 10-unit townhouse. This application is to address revisions from the original approval DDP file #01048.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-08-13 - Plans - Submission - bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A3877327-3275-4A37-8974-0A8AA7ABBBB2&folderId=M7WafC9vjU6LdXKTsasW3Q"
+        },
+        {
+          "docName": "2026-08-13 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DBEF0986-F43D-478F-BEC5-277985D3396B&folderId=M7WafC9vjU6LdXKTsasW3Q"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1786604400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01048",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1748505600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to construct a 3-storey, 10-unit townhouse. Variances may be required. \n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        }
+      ],
+      "storeys": 3
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -251051,12 +251342,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=99142C241216093038463413&folderId=82940C231212161833044233"
         },
         {
-          "docName": "25-054.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=72768C250808082417893030&folderId=82940C231212161833044233"
+          "docName": "25-054_final.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88761C260813122859489757&folderId=82940C231212161833044233"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00092",
@@ -254714,6 +255005,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1779260400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -254763,7 +255060,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1786704742,
       "relatedPermits": [],
       "major": true
     },
@@ -255260,12 +255557,6 @@
           "endDate": 1754550000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1754463600,
-          "endDate": 1757487600
-        },
-        {
           "taskDescription": "All City comments provided to the applicant",
           "taskType": "City Provides Comments to Applicant",
           "startDate": 1757487600,
@@ -255284,6 +255575,12 @@
           "endDate": 1778223600
         },
         {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1779346800,
+          "endDate": 1779346800
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": 1779346800,
@@ -255293,12 +255590,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1778223600,
-          "endDate": null
+          "endDate": 1786604400
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1786604400,
           "endDate": null
         },
         {
@@ -255352,12 +255649,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=876A3A47-B794-4556-B659-E1B77C442C82&folderId=69772C250729104643138051"
         },
         {
+          "docName": "2026-08-11 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=87672C260811144937268251&folderId=69772C250729104643138051"
+        },
+        {
           "docName": "2026-08-11 - Plans_Revisions.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1AC143CD-05A2-4F42-AD99-F552E7F40702&folderId=69772C250729104643138051"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786531944,
+      "lastUpdated": 1786704742,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00297",
