@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1786878191,
+  "dateRetrieved": 1786963989,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -136568,7 +136568,7 @@
         "5020 ASH STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct Building 1 ( West) . This is a 4 storey non combustible  residential  building containing 35 residential units on top of common 2 level underground parkade. \n\nfor full project description refer to BP-2023-04052. \n\n\nStage I  (E &S)  issued - 27-Sep-2024\nStage II (Full permit) - issued 19-Aug-25\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Multiple Dwelling, Parking Garage\nNeighbourhood: South Cambie\nContractor: ETRO CONSTRUCTION LIMITED",
+      "purpose": "Certified Professional Program - New Building - To construct Building 1 ( West) . This is a 4 storey non combustible  residential  building containing 35 residential units on top of common 2 level underground parkade. \n\nfor full project description refer to BP-2023-04052. \n\n\nStage I  (E &S)  issued - 27-Sep-2024\nStage II (Full permit) - issued 19-Aug-25\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Parking Garage, Multiple Dwelling\nNeighbourhood: South Cambie\nContractor: ETRO CONSTRUCTION LIMITED",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -136593,7 +136593,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786791444,
+      "lastUpdated": 1786964212,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2023-04052",
@@ -249626,6 +249626,68 @@
       ],
       "major": true,
       "storeys": 20
+    },
+    {
+      "primaryStreetName": "855 VANCOUVER ST",
+      "applicant": "",
+      "cityApplicationType": "Rezoning Application",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00850",
+      "applicationDate": 1680591600,
+      "addresses": [
+        "855 VANCOUVER ST"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "APPLICATION RETIRED: X-REFERENCE DDP01164 The City is considering a Rezoning application to create a site-specific zone for the existing multiple dwelling building.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1680591600,
+          "endDate": 1681196400
+        },
+        {
+          "taskDescription": "All City comments provided to the applicant",
+          "taskType": "City Provides Comments to Applicant",
+          "startDate": 1682924400,
+          "endDate": 1682924400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1681196400,
+          "endDate": 1753426800
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1682924400,
+          "endDate": 1753426800
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2023-04-04 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A81FB3CD-323E-4EA4-A61E-5CD5402E3A84&folderId=11133C230404160549224450"
+        },
+        {
+          "docName": "2023-04-04 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A5C795C3-0F49-495D-BC90-B285D409A559&folderId=11133C230404160549224450"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1753426800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01164",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1785312000,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to add a lower level residential unit.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        }
+      ],
+      "major": true,
+      "approvalStatus": "Superseded"
     },
     {
       "primaryStreetName": "855 VANCOUVER ST",
