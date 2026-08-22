@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1787324662,
+  "dateRetrieved": 1787395975,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4629,7 +4629,7 @@
           "taskDescription": "Staff are circulating and reviewing the application internally.",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1734937200,
-          "endDate": null
+          "endDate": 1740466800
         },
         {
           "taskDescription": "",
@@ -4693,7 +4693,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1787395978,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -10456,6 +10456,80 @@
       "minor": true
     },
     {
+      "primaryStreetName": "1919 SOOKE RD",
+      "applicant": "AUTHORIZED AGENT/OWNER",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000035",
+      "applicationDate": 1786604400,
+      "addresses": [
+        "1919 SOOKE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This application proposes a rezoning from R1 to a new Comprehensive Development Zone to permit a 6-storey mixed use development with affordable and supportive housing.",
+      "progressSections": [
+        {
+          "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
+          "taskType": "APPLICATION INTAKE",
+          "startDate": 1781161200,
+          "endDate": 1787295600
+        },
+        {
+          "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab. \n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, a new task will be added.",
+          "taskType": "APPLICATION REVIEW",
+          "startDate": 1787209200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nSet Task Status to SCHEDULED when scheduled for Planning and Land Use Committee Meeting. \n\nAfter meeting, set to COMPLETE.",
+          "taskType": "PLANNING AND LAND USE COMMITTEE",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading are denied, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "1ST READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading are denied, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "2ND READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Set Task Status to SCHEDULED when Public Hearing scheduled. \n\nAfter meeting, set to COMPLETE.",
+          "taskType": "PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading failed, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "3RD READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nFile copy of signed and adopted amendment to Attachments.\nReview Checklist.\n\nWhen COMPLETE, the Issued, Approved, and Completed Date will bet set for the entire folder, and the Folder Status will be set to COMPLETE\n\nIf adoption failed, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "ADOPTION",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Massing Model_Site Plan_Renderings",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=C41316F8-1DAC-4E15-AD57-85CD58FD7F94&folderId=90666C260604095433067151"
+        }
+      ],
+      "city": "Colwood",
+      "lastUpdated": 1787295600,
+      "relatedPermits": [],
+      "major": true,
+      "storeys": 6
+    },
+    {
       "primaryStreetName": "1708 BEACH GROVE RD",
       "applicant": "",
       "cityApplicationType": "Residential",
@@ -15184,18 +15258,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1786791437,
+      "lastUpdated": 1787396220,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021798",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021800",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15220,18 +15294,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1786791437,
+      "lastUpdated": 1787396220,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021798",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15256,18 +15330,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1786791437,
+      "lastUpdated": 1787396220,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021798",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021800",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -88532,30 +88606,30 @@
         {
           "taskDescription": "Staff evaluation of application to determine eligibility for delegation.",
           "taskType": "*MINOR VARIANCE REVIEW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787295600,
+          "endDate": 1787295600
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787295600,
+          "endDate": 1787295600
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787295600,
+          "endDate": 1787295600
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The Delegate may make one of the following decisions:\n1. Issue the Development Permit, with conditions. \n2. Refer the application to Council, where deemed to be in the public interest. \n3. Decline to issue the Development Permit.",
+          "taskType": "*DELEGATE DECISION",
           "startDate": null,
           "endDate": null
         },
@@ -88581,7 +88655,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1785308400,
+      "lastUpdated": 1787395978,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017697",
@@ -97902,6 +97976,35 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "6560 Constable Drive Yan Studio (Merry Gao) (778)899-8958",
+      "applicant": "J1 Construction Ltd (778)859-5385",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-008722-000-00-B7",
+      "applicationDate": 1785657600,
+      "addresses": [
+        "6560 Constable Drive Yan Studio (Merry Gao) (778)899-8958"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $592,599.00 1 $592,599.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785657600,
+          "endDate": 1785657600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787396217,
+      "relatedPermits": [],
+      "projectValue": 592599,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "9111 Beckwith Road Unit 1070",
       "applicant": "David Wong (604)340-3793",
       "cityApplicationType": "Building Permit",
@@ -99688,6 +99791,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "11959 Granville Avenue",
+      "applicant": "Westmark Developments Ltd (604)821- 1333",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-012138-000-00-BZ",
+      "applicationDate": 1785657600,
+      "addresses": [
+        "11959 Granville Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Retaining Walls (over 1.2m in Height)\nWork Proposed: New\nConstruction Value: $15,000.00 2 $28,000.00\nDescription: FENCE Harmel Bains (604)728-8292",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785657600,
+          "endDate": 1785657600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787396217,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 15000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "3671 Williams Road",
       "applicant": "Polaron Solar (Siu Kin Wong) (778)819- 3816",
       "cityApplicationType": "Building Permit",
@@ -100198,6 +100331,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "8171 Cook Road Unit 315 Paramjit Teja (778)385-5521",
+      "applicant": "Trohan Construction (778)712-0824",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-014957-000-00-B8",
+      "applicationDate": 1785657600,
+      "addresses": [
+        "8171 Cook Road Unit 315 Paramjit Teja (778)385-5521"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Medical Office\nWork Proposed: Alteration\nConstruction Value: $11,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785657600,
+          "endDate": 1785657600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787396217,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 11000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "6740 Mang Road",
       "applicant": "Woodhead Construction (778)288-8428",
       "cityApplicationType": "Building Permit",
@@ -100228,6 +100391,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "4000 No 3 Road Unit 3220 Wing Kai Renovation (Benson Lai) (604) 618-3618",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-016585-000-00-B8",
+      "applicationDate": 1785657600,
+      "addresses": [
+        "4000 No 3 Road Unit 3220 Wing Kai Renovation (Benson Lai) (604) 618-3618"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Beauty Parlour\nWork Proposed: Alteration\nConstruction Value: $3,500.00 1 $3,500.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785657600,
+          "endDate": 1785657600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787396217,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 3500,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "7651 No 5 Road",
       "applicant": "Bona Development Ltd (Weng) (604)725- 9303",
       "cityApplicationType": "Building Permit",
@@ -100255,6 +100448,66 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 21000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4899 Vanguard Road Unit 114 Alex Mai (778)867-1026",
+      "applicant": "1466295 BC Ltd",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-017153-000-00-B2",
+      "applicationDate": 1785657600,
+      "addresses": [
+        "4899 Vanguard Road Unit 114 Alex Mai (778)867-1026"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Recreational\nWork Proposed: Alteration\nConstruction Value: $10,000.00 1 $10,000.00\nContractor: 2",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785657600,
+          "endDate": 1785657600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787396217,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 10000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "7580 River Road Unit 260 Qinmin Ye (236)965-8132",
+      "applicant": "New Star Renovation (604)783-9802",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-017196-000-00-B8",
+      "applicationDate": 1785657600,
+      "addresses": [
+        "7580 River Road Unit 260 Qinmin Ye (236)965-8132"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Medical Office\nWork Proposed: Alteration\nConstruction Value: $25,000.00 2 $36,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785657600,
+          "endDate": 1785657600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787396217,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 25000,
       "approvalStatus": "Approved"
     },
     {
@@ -100758,6 +101011,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1775831659,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "9280 Glenbrook Drive",
+      "applicant": "LQ Design Group Ltd (Qi Li) (Li Qi) (604) 773-5135",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-004121-000-00-D7",
+      "applicationDate": 1785830400,
+      "addresses": [
+        "9280 Glenbrook Drive"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: G & H Demolition & Excavation Ltd (604)551-3870",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1785830400,
+          "endDate": 1785830400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787396217,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -116052,9 +116333,21 @@
           "endDate": 1785394800
         },
         {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1786431600,
+          "endDate": 1787036400
+        },
+        {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1785394800,
+          "endDate": 1787295600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -116073,7 +116366,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1785495177,
+      "lastUpdated": 1787395978,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00800",
@@ -118700,12 +118993,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1786431600,
+          "endDate": 1787209200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1787295600,
+          "endDate": 1787295600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1787295600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786791204,
+      "lastUpdated": 1787395978,
       "relatedPermits": []
     },
     {
@@ -120605,12 +120916,6 @@
           "endDate": 1785222000
         },
         {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1785222000,
-          "endDate": 1785308400
-        },
-        {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1785308400,
@@ -120632,12 +120937,18 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1786086000,
+          "endDate": 1787295600
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1785222000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786186358,
+      "lastUpdated": 1787395978,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP22472",
@@ -121009,18 +121320,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1786950000,
-          "endDate": null
+          "endDate": 1787295600
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1787295600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786950000,
+      "lastUpdated": 1787395978,
       "relatedPermits": [
         {
           "relatedPermitID": "BOV01213",
@@ -121042,6 +121353,57 @@
           "relatedPermitApplicationDate": 1761206400,
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "ACCESSORY BUILDING - WORKSHOP, STORAGE, GYM - DEMOLISH EXISTING ACCESSORY BUILDING"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "1878 CARNARVON ST",
+      "applicant": "HOMEOWNER",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00573",
+      "applicationDate": 1787295600,
+      "addresses": [
+        "1878 CARNARVON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "VARIANCES FOR SIDE YARD SETBACKS",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1787209200,
+          "endDate": 1787295600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1787295600,
+          "endDate": 1787295600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1787295600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1787295600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RBP00665",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1768204800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "ADDITION TO SINGLE FAMILY DWELLING - REBUILD DECK & STAIRS"
         }
       ]
     },
@@ -202973,6 +203335,44 @@
       "storeys": 3
     },
     {
+      "primaryStreetName": "1252 GLADSTONE AVE",
+      "applicant": "TONNY KIPTOO",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01168",
+      "applicationDate": 1787209200,
+      "addresses": [
+        "1252 GLADSTONE AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application to construct a four-storey mixed-use building.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1787209200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-08-20 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=90973C260820095616975983&folderId=udJh4+iAm0yoZUUyov3DXQ"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1787209200,
+      "relatedPermits": [],
+      "major": true,
+      "storeys": 4
+    },
+    {
       "primaryStreetName": "2 PAUL KANE PL",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMITS",
@@ -269610,6 +270010,12 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
+          "startDate": 1787209200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -269715,7 +270121,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787324664,
+      "lastUpdated": 1787395978,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00299",
@@ -272530,8 +272936,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportjul26202679468.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demolitionreportjul26202679469.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportaug2-8202679553.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportaug2-8202679554.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
