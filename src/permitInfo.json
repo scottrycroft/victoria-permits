@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1787395975,
+  "dateRetrieved": 1787482972,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -91903,7 +91903,7 @@
     },
     {
       "primaryStreetName": "2090 CADBORO BAY RD",
-      "applicant": "2090 CADBORO BAY RD DEV. CORP.",
+      "applicant": "",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00061",
@@ -91911,7 +91911,7 @@
       "addresses": [
         "2090 CADBORO BAY RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This Zoning Amendment application proposes to amend the zoning bylaw by rezoning the property from the current RM-3 designation to a site-specific Comprehensive Development (CD) zone to allow for the development of a five-storey mixed-use apartment building",
       "progressSections": [
         {
@@ -91942,7 +91942,13 @@
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1783926000,
-          "endDate": null
+          "endDate": 1783926000
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": 1783926000,
+          "endDate": 1783926000
         },
         {
           "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
@@ -91953,12 +91959,6 @@
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "File has been completed and is now closed.",
-          "taskType": "FILE COMPLETED",
           "startDate": null,
           "endDate": null
         }
@@ -91980,14 +91980,14 @@
           "relatedPermitID": "OCP00012",
           "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT",
           "relatedPermitApplicationDate": 1771920000,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "This application is for an application for an Official Community Plan  Amendment accommodate a 5-storey Mixed Use Building (see DP000061 and ZON00061)"
         },
         {
           "relatedPermitID": "DP000061",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1755158400,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Multi-Unit Development Permit application for the construction of a 5-story 16-unit mixed use residential/commercial building."
         }
       ],
@@ -101851,7 +101851,7 @@
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
-      "applicant": "M'AKOLA DEVELOPMENT SERVICES",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01027",
@@ -101861,7 +101861,7 @@
         "828 VERNON AVE",
         "832 VERNON AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "(DA G&H) TO AMEND DPR00665 TO CONSTRUCT A 6 STOREY, 110 UNIT AFFORDABLE HOUSING DEVELOPMENT",
       "progressSections": [
         {
@@ -117827,7 +117827,7 @@
     },
     {
       "primaryStreetName": "3970 GORDON HEAD RD",
-      "applicant": "ANNIE M CHARBONNEAU ARCHITECTE",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01115",
@@ -117835,7 +117835,7 @@
       "addresses": [
         "3970 GORDON HEAD RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "STORMWATER TO CONSTRUCT A PORTABLE STUDIO UNIT ON IMPERVIOUS SURFACE CONDITIONS.AT MOUNT DOUGLAS SECONDARY SCHOOL",
       "progressSections": [
         {
@@ -117903,6 +117903,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1782975600,
           "endDate": 1782975600
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVAL",
+          "startDate": 1783321200,
+          "endDate": 1783321200
         }
       ],
       "documents": [],
@@ -117916,7 +117922,8 @@
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "DAYCARE STUDIO - MOUNT DOUGLAS SECONDARY SCHOOL"
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "5340 PARKER AVE",
@@ -132090,7 +132097,7 @@
         "828 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and  six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage1) - 09-Apr-2024\nRevision#2 \nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n\nNOTE: FOR STAGE 4: OPEN MECHANICAL REVIEW\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey ( 29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and  six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage1) - 09-Apr-2024\nRevision#2 \nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel  units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n\nNOTE: FOR STAGE 4: OPEN MECHANICAL REVIEW\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -132109,7 +132116,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1787482616,
       "relatedPermits": [],
       "projectValue": 101000000,
       "latitude": 49.277816,
@@ -139363,7 +139370,7 @@
         "1025 W 42ND AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building  consisting  of two towers (North Tower, 26 storey & South tower, 18 storey) connected with an 8 storey podium.  The building contains 2 retail units (Drug Store and Retail Store) and 361 residential units and one (1) guest suite.  The project  consists of following components: \r\n\r\nPODIUM: 8 storey (7-Level Z/D Bylaw) Podium: \r\n   Level 1  - CRU’s, residential lobbies garbage & recycle room, \r\n   Level 1-Upper-  Bike rooms, and storage space for the retail at 5725 Oak St. \r\n   Level 2  - Residential suites and amenity multi purpose room, fitness center\r\n   Levels 3  to 6 - Residential suites \r\n   Level 7  - Residential suites, indoor amenity &  rooftop amenity \r\n\r\nTwo Towers: \r\n   Levels 8 to 17- Residential suites \r\n   Levels 18 to 25 – residential suites in North Tower only, \r\nall over 3 levels of underground parking. \r\n\r\nThis building is equipped with radio antenna system. \r\nVBBL2019\r\n\r\nStage 1 (E & S) issued -  26-Sep-2024\r\nStage 2 (Full permit)  issued - 24-Apr-2025\nProject Value: $111,993,200.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Dwelling Unit, Not Applicable, Parking Garage\nNeighbourhood: Oakridge\nContractor: Wesgroup Contracting Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building  consisting  of two towers (North Tower, 26 storey & South tower, 18 storey) connected with an 8 storey podium.  The building contains 2 retail units (Drug Store and Retail Store) and 361 residential units and one (1) guest suite.  The project  consists of following components: \r\n\r\nPODIUM: 8 storey (7-Level Z/D Bylaw) Podium: \r\n   Level 1  - CRU’s, residential lobbies garbage & recycle room, \r\n   Level 1-Upper-  Bike rooms, and storage space for the retail at 5725 Oak St. \r\n   Level 2  - Residential suites and amenity multi purpose room, fitness center\r\n   Levels 3  to 6 - Residential suites \r\n   Level 7  - Residential suites, indoor amenity &  rooftop amenity \r\n\r\nTwo Towers: \r\n   Levels 8 to 17- Residential suites \r\n   Levels 18 to 25 – residential suites in North Tower only, \r\nall over 3 levels of underground parking. \r\n\r\nThis building is equipped with radio antenna system. \r\nVBBL2019\r\n\r\nStage 1 (E & S) issued -  26-Sep-2024\r\nStage 2 (Full permit)  issued - 24-Apr-2025\nProject Value: $111,993,200.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Dwelling Unit, Not Applicable\nNeighbourhood: Oakridge\nContractor: Wesgroup Contracting Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -139394,7 +139401,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1787482616,
       "relatedPermits": [],
       "projectValue": 111993200,
       "latitude": 49.233068,
@@ -159471,7 +159478,7 @@
         "2850 E 43RD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To construct a Multiple Dwelling \"Multiplex\" with a three-story 3-unit front building with four surface parking spaces having vehicular access from the lane.\n\nBP-2025-02281 (Building 1/Front  - 3 Units) - All dwgs and docs here\nBP-2025-02282 (Building 2/Rear - 1 Unit)\n\nThis permit is for Building 1 (Front; $900,000)\nBRB Notes:\n1. Reviewed under VBBL 2019\n2. Part 5 design required \n3. Building sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nREV #1 (PENDING)\nFRONT BUILDING\n• Unit 1: Revised kitchen layout\n• Unit 2 & 3: Revise kitchen & mechanical room layout\n• Unit 2 & 3: Revise stair run\n• Unit 1-3 (1-3rd floors): Revise window sizes and locations on west elevation\n• Unit 2 & 3: Addition of 2 skylights\n• Revise floor assembly (F3 & F4) \nREAR BUILDING \n• Sprinkler design revised to NFPA 13D\n• Revise kitchen layout \n• Revise stair run\n• Revise floor assembly (F3 & F4) \n• Modification of carport openings\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Royal Casa Construction Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To construct a Multiple Dwelling \"Multiplex\" with a three-story 3-unit front building with four surface parking spaces having vehicular access from the lane.\n\nBP-2025-02281 (Building 1/Front  - 3 Units) - All dwgs and docs here\nBP-2025-02282 (Building 2/Rear - 1 Unit)\n\nThis permit is for Building 1 (Front; $900,000)\nBRB Notes:\n1. Reviewed under VBBL 2019\n2. Part 5 design required \n3. Building sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nREV #1 (PENDING)\nFRONT BUILDING\n• Unit 1: Revised kitchen layout\n• Unit 2 & 3: Revise kitchen & mechanical room layout\n• Unit 2 & 3: Revise stair run\n• Unit 1-3 (1-3rd floors): Revise window sizes and locations on west elevation\n• Unit 2 & 3: Addition of 2 skylights\n• Revise floor assembly (F3 & F4) \nREAR BUILDING \n• Sprinkler design revised to NFPA 13D\n• Revise kitchen layout \n• Revise stair run\n• Revise floor assembly (F3 & F4) \n• Revise north/east/west exterior wall assembly to 1 HR FRR \n• Modification of carport openings\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Royal Casa Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -159490,7 +159497,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1787482616,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-02282",
@@ -169201,6 +169208,45 @@
       "projectValue": 389000,
       "latitude": 49.272958,
       "longitude": -123.048783,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "408 N RENFREW STREET",
+      "applicant": "Ye Yuan DBA: HNPA Architecture + Planning",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00366",
+      "applicationDate": 1769760000,
+      "addresses": [
+        "408 N RENFREW STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - Building Permit for DP-2025-00602 \n\nTo construct a three-storey five-unit Net Zero Multiple Dwelling \"Multiplex\" with four on-ground parking stalls, having vehicular access from the lane. Scope of work includes installation of solar panels on the roof, an electrical shed, a garbage shed, and three EV chargers at the rear of the lot. \n\nBuilding to be sprinklered to NFPA 13D. \n\n***REVIEWED UNDER VBBL 2025 WITH AMENDMENTS EFFECTIVE ON JAN 20, 2026***\n\nBuilding Review Branch Notes:\n- Controls, switches, and outlets shall comply with 3.8.5.7.\n- Exterior doors and windows shall comply with 9.7.\nProject Value: $1,899,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: Kentwood Homes Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1769760000,
+          "endDate": 1769760000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1769760000,
+          "endDate": 1769760000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1769760000,
+      "relatedPermits": [],
+      "projectValue": 1899000,
+      "latitude": 49.288903,
+      "longitude": -123.043951,
+      "minor": true,
       "approvalStatus": "Approved",
       "storeys": 3
     },
@@ -197714,31 +197760,6 @@
     },
     {
       "primaryStreetName": "1620 CAMOSUN ST",
-      "applicant": "ROB HALLIDAY",
-      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
-      "applicationType": "Development Permit",
-      "folderNumber": "DDP01074",
-      "applicationDate": 1755068400,
-      "addresses": [
-        "1620 CAMOSUN ST"
-      ],
-      "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to legalize a 6-unit Missing Middle Houseplex\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
-      "progressSections": [
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
-          "taskType": "With Applicant",
-          "startDate": 1776754800,
-          "endDate": null
-        }
-      ],
-      "documents": [],
-      "city": "Victoria",
-      "lastUpdated": 1776754800,
-      "relatedPermits": []
-    },
-    {
-      "primaryStreetName": "1620 CAMOSUN ST",
       "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
@@ -197753,6 +197774,31 @@
       "documents": [],
       "city": "Victoria",
       "lastUpdated": 1756292882,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1620 CAMOSUN ST",
+      "applicant": "",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01074",
+      "applicationDate": 1755068400,
+      "addresses": [
+        "1620 CAMOSUN ST"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "The City is reviewing a Delegated Development Permit application to legalize a 6-unit Missing Middle Houseplex\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1776754800,
+          "endDate": 1786950000
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1776754800,
       "relatedPermits": []
     },
     {
@@ -202265,7 +202311,7 @@
     },
     {
       "primaryStreetName": "935 JOHNSON ST",
-      "applicant": "DUANE ENSING",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01146",
@@ -202273,7 +202319,7 @@
       "addresses": [
         "935 JOHNSON ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to construct a fence along the perimeter of an existing ramp located within the front yard. A variance is required for the height.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -202285,8 +202331,8 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1783407600,
+          "endDate": 1783407600
         }
       ],
       "documents": [
@@ -202301,7 +202347,8 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1783091359,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "747 RUSSELL ST",
