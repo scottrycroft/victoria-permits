@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1787482972,
+  "dateRetrieved": 1787568792,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15258,18 +15258,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1787396220,
+      "lastUpdated": 1787569001,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021800",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15294,18 +15294,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1787396220,
+      "lastUpdated": 1787569001,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15330,18 +15330,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1787396220,
+      "lastUpdated": 1787569001,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021800",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -197757,6 +197757,31 @@
         }
       ],
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "1620 CAMOSUN ST",
+      "applicant": "",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01074",
+      "applicationDate": 1755068400,
+      "addresses": [
+        "1620 CAMOSUN ST"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "The City is reviewing a Delegated Development Permit application to legalize a 6-unit Missing Middle Houseplex\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1776754800,
+          "endDate": 1786950000
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1786950000,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "1620 CAMOSUN ST",
