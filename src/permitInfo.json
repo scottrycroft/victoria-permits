@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1787568792,
+  "dateRetrieved": 1787655189,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4856,7 +4856,7 @@
         "7185 WEST SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "Proposal for a 107 unit mix-use (residential/commercial) project",
+      "purpose": "Proposal for a 126 unit seniors living, mix-use (residential/commercial) project",
       "progressSections": [
         {
           "taskDescription": "",
@@ -4867,7 +4867,7 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1788850800,
           "endDate": null
         },
         {
@@ -4897,27 +4897,30 @@
       ],
       "documents": [
         {
-          "docName": "7185 West Saanich _Letter of rationale UPDATED_June 5, 2026.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=DAB05DB4-6C9F-4B49-BA64-6992CDE7AA64&folderId=33703C241224132957277183"
+          "docName": "7185 West Saanich _Letter of rationale UPDATED WEB_August 20, 2026.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=62783C260824161751812989&folderId=33703C241224132957277183"
         },
         {
-          "docName": "7185 West Saanich_Arch REVISED WEB_May 2026.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=58230C260520151058604820&folderId=33703C241224132957277183"
-        },
-        {
-          "docName": "7185 West Saanich_Landscape REVISED WEB_May 2026.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=58230C260520151058629682&folderId=33703C241224132957277183"
+          "docName": "7185 West Saanich_Arch REVISED WEB_August 20, 2026.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=62783C260824161614614521&folderId=33703C241224132957277183"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1783594469,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001709",
           "relatedPermitType": "Subdivision",
           "relatedPermitApplicationDate": 1736496000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": ""
+          "relatedPermitDescription": "Please see application PL001704"
+        },
+        {
+          "relatedPermitID": "PL001708",
+          "relatedPermitType": "Rezoning and/or OCP Amendment",
+          "relatedPermitApplicationDate": 1736496000,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Please see application PL001704"
         }
       ]
     },
@@ -4932,7 +4935,7 @@
         "7185 WEST SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "N/A",
+      "purpose": "Please see application PL001704",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -4985,21 +4988,21 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1736492400,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001709",
           "relatedPermitType": "Subdivision",
           "relatedPermitApplicationDate": 1736496000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": ""
+          "relatedPermitDescription": "Please see application PL001704"
         },
         {
           "relatedPermitID": "PL001704",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1735027200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "Proposal for a 107 unit mix-use (residential/commercial) project"
+          "relatedPermitDescription": "Proposal for a 126 unit seniors living, mix-use (residential/commercial) project"
         }
       ]
     },
@@ -8216,6 +8219,45 @@
       "lastUpdated": 1781852400,
       "relatedPermits": [],
       "major": true
+    },
+    {
+      "primaryStreetName": "460 GOLDSTREAM AVE",
+      "applicant": "AUTHORIZED AGENT/OWNER",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000061",
+      "applicationDate": 1787209200,
+      "addresses": [
+        "460 GOLDSTREAM AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This Form & Character DP application proposes a new Development Permit based on the expired Development Permit (DP-20-002) and proposes two six-storey buildings and 1 nine-storey building with a total of 194 units.",
+      "progressSections": [
+        {
+          "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
+          "taskType": "APPLICATION INTAKE",
+          "startDate": 1784012400,
+          "endDate": 1787554800
+        },
+        {
+          "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
+          "taskType": "APPLICATION REVIEW",
+          "startDate": 1787554800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
+          "taskType": "PERMIT ISSUED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Colwood",
+      "lastUpdated": 1787554800,
+      "relatedPermits": [],
+      "major": true,
+      "storeys": 9
     },
     {
       "primaryStreetName": "595 BEZANTON WAY",
@@ -20983,6 +21025,28 @@
       "latitude": 49.004851,
       "longitude": -123.081904,
       "minor": true
+    },
+    {
+      "primaryStreetName": "11623 74 AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023232",
+      "applicationDate": 1787655412,
+      "addresses": [
+        "11623 74 AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1787655412,
+      "relatedPermits": [],
+      "latitude": 49.137827,
+      "longitude": -122.900859
     },
     {
       "primaryStreetName": "5105 8A AVE",
@@ -112148,6 +112212,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1783666800,
           "endDate": 1785308400
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1789974000,
+          "endDate": null
         }
       ],
       "documents": [
@@ -112165,7 +112235,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1785408765,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -114150,7 +114220,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1782816769,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00783",
@@ -114170,7 +114240,7 @@
           "relatedPermitID": "BLD20545",
           "relatedPermitType": "RESIDENTIAL PERMIT",
           "relatedPermitApplicationDate": 1701849600,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "DEMOLITION TO SINGLE FAMILY DWELLING"
         }
       ],
@@ -114494,6 +114564,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1783062000,
           "endDate": 1783494000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -114515,7 +114591,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1785927174,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00789",
@@ -117783,6 +117859,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1785481200,
+          "endDate": 1787295600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1787554800,
+          "endDate": 1787554800
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1787554800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -117805,7 +117899,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1785581569,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -118339,6 +118433,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1782975600,
+          "endDate": 1787554800
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1787554800,
           "endDate": null
         }
       ],
@@ -118357,7 +118457,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784631190,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -118976,7 +119076,7 @@
         "1705 LANSDOWNE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "*STORMWATER*",
+      "purpose": "*STORMWATER DP* CONSTRUCTION OF NEW K-12 FRANCOPHONE SCHOOL",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -119012,18 +119112,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1787295600,
-          "endDate": null
+          "endDate": 1787554800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1787554800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787395978,
+      "lastUpdated": 1787655192,
       "relatedPermits": []
     },
     {
@@ -125045,7 +125145,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1743504754,
+      "lastUpdated": 1787655192,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01081",
@@ -125065,7 +125165,7 @@
           "relatedPermitID": "BLD20545",
           "relatedPermitType": "RESIDENTIAL PERMIT",
           "relatedPermitApplicationDate": 1701849600,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "DEMOLITION TO SINGLE FAMILY DWELLING"
         }
       ],
@@ -127290,6 +127390,10 @@
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-14_PLDVP20250460ApplicantLetterofSupport_R.pdf"
         },
         {
+          "docName": "SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf"
+        },
+        {
           "docName": "SS-LTC-2026-0812_PLDVP20250460_SHall_EML_R.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-0812_PLDVP20250460_SHall_EML_R.pdf"
         },
@@ -127325,7 +127429,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1786791402,
+      "lastUpdated": 1787655378,
       "relatedPermits": []
     },
     {
@@ -128943,6 +129047,32 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2180 Beacon Avenue West",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "5e8ae283d3",
+      "applicationDate": 1787655378,
+      "addresses": [
+        "2180 Beacon Avenue West"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit application for a 5 storey 140 unit multi-unit residential development with surface and underground parking.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/2180-Beacon-Avenue-W-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1787655378,
+      "relatedPermits": [],
+      "storeys": 5
+    },
+    {
       "primaryStreetName": "2312 Orchard Avenue",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -129334,6 +129464,31 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "10007 Siddall Road",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "8854fc121c",
+      "applicationDate": 1787655378,
+      "addresses": [
+        "10007 Siddall Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to relax the minimum required interior side, exterior side, and rear setbacks to allow for a new residential dwelling to be located in the rear yard.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/10007-Siddall-Road-Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1787655378,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "2060 White Birch Road",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -129475,6 +129630,12 @@
           "taskType": "",
           "startDate": 1786345200,
           "endDate": 1786345200
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -129485,12 +129646,16 @@
         {
           "docName": "August 10, 2026 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/59303/9a-DVP100396%20-%20404-9870%20Second%20Street.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/404-9870-Second-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1786475961,
+      "lastUpdated": 1787655378,
       "relatedPermits": []
     },
     {
@@ -130187,6 +130352,12 @@
           "taskType": "",
           "startDate": 1786345200,
           "endDate": 1786345200
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -130197,12 +130368,16 @@
         {
           "docName": "August 10, 2026 Council Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/59165/9b-%20DV100397-%2010249%20Forsythia%20Place.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/10249-Forsythia-Place-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1786475961,
+      "lastUpdated": 1787655378,
       "relatedPermits": []
     },
     {
@@ -203030,7 +203205,7 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1785135600,
-          "endDate": null
+          "endDate": 1787554800
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -203046,7 +203221,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785135600,
+      "lastUpdated": 1787655192,
       "relatedPermits": []
     },
     {
@@ -203256,6 +203431,78 @@
       "relatedPermits": [],
       "major": true,
       "storeys": 4
+    },
+    {
+      "primaryStreetName": "717 PANDORA AVE",
+      "applicant": "DMITRII KONKOV",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01169",
+      "applicationDate": 1787295600,
+      "addresses": [
+        "717 PANDORA AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application for new rooftop mechanical which requires a variance to the setback from roof edge.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1787295600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-08-21 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E403E96B-A479-4809-B1C4-EB67389DCEB3&folderId=eJPq1D6hVUGgle8kDtSvcw"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1787295600,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1 CENTENNIAL SQ",
+      "applicant": "MOLLY MCGRAIL",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01170",
+      "applicationDate": 1787295600,
+      "addresses": [
+        "1 CENTENNIAL SQ"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application to construct a new gated enclosure for the Downtown Victoria Bike Valet.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1787295600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-08-21 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=56C48999-C347-4ADF-A2D9-B7785C7C65A4&folderId=l7Jw5SZvtkqexngG7Qvoow"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1787295600,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
