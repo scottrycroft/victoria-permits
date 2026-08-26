@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1787655189,
+  "dateRetrieved": 1787741602,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8298,6 +8298,43 @@
       "storeys": 3
     },
     {
+      "primaryStreetName": "3415 FULTON RD",
+      "applicant": "AUTHORIZED AGENT/OWNER",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000063",
+      "applicationDate": 1787641200,
+      "addresses": [
+        "3415 FULTON RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This Environmental, Form & Character, an Natural Hazards DP application proposes a 20 unit townhouse development in a Hillside and Steeply Sloped DPA.",
+      "progressSections": [
+        {
+          "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
+          "taskType": "APPLICATION INTAKE",
+          "startDate": 1786690800,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
+          "taskType": "APPLICATION REVIEW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
+          "taskType": "PERMIT ISSUED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Colwood",
+      "lastUpdated": 1787641200,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "532 LATORIA RD",
       "applicant": "",
       "cityApplicationType": "OCP AMENDMENT",
@@ -8576,7 +8613,7 @@
           "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nFile copy of signed and adopted amendment to Attachments.\n\nWhen COMPLETE, the Issued and Approved Date will bet set for the entire folder.\n\nIf adoption failed, drop down to FAILED, the entire Folder will be set to DENIED.",
           "taskType": "ADOPTION",
           "startDate": 1787554800,
-          "endDate": null
+          "endDate": 1787554800
         }
       ],
       "documents": [
@@ -8594,7 +8631,7 @@
         }
       ],
       "city": "Colwood",
-      "lastUpdated": 1784285595,
+      "lastUpdated": 1787741604,
       "relatedPermits": []
     },
     {
@@ -20470,13 +20507,13 @@
         "5309 45 AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Residential - Legalize a suite",
+      "purpose": "Residential - Add a suite",
       "progressSections": [],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779533775,
+      "lastUpdated": 1787741821,
       "relatedPermits": [],
       "latitude": 49.085714,
       "longitude": -123.075633
@@ -21071,6 +21108,28 @@
       "longitude": -123.082372
     },
     {
+      "primaryStreetName": "10877 64A AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023245",
+      "applicationDate": 1787741821,
+      "addresses": [
+        "10877 64A AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1787741821,
+      "relatedPermits": [],
+      "latitude": 49.120241,
+      "longitude": -122.921759
+    },
+    {
       "primaryStreetName": "156 67 ST",
       "applicant": "",
       "cityApplicationType": "Residential",
@@ -21113,6 +21172,28 @@
       "relatedPermits": [],
       "latitude": 49.148706,
       "longitude": -122.929003
+    },
+    {
+      "primaryStreetName": "8232 WADHAM DR",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023289",
+      "applicationDate": 1787741821,
+      "addresses": [
+        "8232 WADHAM DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1787741821,
+      "relatedPermits": [],
+      "latitude": 49.153192,
+      "longitude": -122.921504
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -88752,14 +88833,14 @@
         {
           "taskDescription": "Staff evaluation of application to determine eligibility for delegation.",
           "taskType": "*MINOR VARIANCE REVIEW",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787641200,
+          "endDate": 1787641200
         },
         {
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787641200,
+          "endDate": 1787641200
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
@@ -88770,6 +88851,12 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The Delegate may make one of the following decisions:\n1. Issue the Development Permit, with conditions. \n2. Refer the application to Council, where deemed to be in the public interest. \n3. Decline to issue the Development Permit.",
+          "taskType": "*DELEGATE DECISION",
           "startDate": null,
           "endDate": null
         },
@@ -88795,7 +88882,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1787209200,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017793",
@@ -104203,6 +104290,64 @@
       ]
     },
     {
+      "primaryStreetName": "CMPLX 3160 ALBINA ST",
+      "applicant": "METACHRO ENGINEERING",
+      "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPA01121",
+      "applicationDate": 1787641200,
+      "addresses": [
+        "CMPLX-3160 ALBINA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "PODIUM MEMBRANE RENEWAL",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1787554800,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1787641200,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1787641200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1787641200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CBP00142",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1781683200,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "RENOVATION TO CONTINENTAL SQUARE CONDOMINIUMS - PODIUM MEMBRANE RENEWAL"
+        },
+        {
+          "relatedPermitID": "RBP00921",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1780905600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "See CBP00142 - this application should be a commercial permit"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "640 BEAVER LAKE RD",
       "applicant": "CALID SERVICES LTD.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -113955,6 +114100,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1774508400,
           "endDate": 1781766000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -113988,7 +114139,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1781866434,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "BLC07024",
@@ -117762,6 +117913,12 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1781161200,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1787641200,
           "endDate": null
         }
       ],
@@ -117780,7 +117937,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1781261559,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00810",
@@ -117882,24 +118039,24 @@
       ],
       "documents": [
         {
-          "docName": "PLANS_ELEVATIONS_APRIL 20 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=43CAA10E-4FB9-4363-8981-6944F31B3F09&folderId=65996C260423132902715808"
+          "docName": "REVISED ELEVATION PLANS_AUG 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=00741CF3-6C7C-4BEE-85D9-34D451108FAE&folderId=65996C260423132902715808"
         },
         {
-          "docName": "PLANS_LANDSCAPE_APRIL 20 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=EA053E1B-DBC6-43F5-945D-6B661F3791B7&folderId=65996C260423132902715808"
+          "docName": "REVISED LANDSCAPE PLAN_AUG 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6EDB0529-82AD-4E34-B465-BEEC5CB84570&folderId=65996C260423132902715808"
         },
         {
-          "docName": "PLANS_SHADOW STUDY_APRIL 20 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=44A9BC10-9D09-4BAD-AC9D-6DDEDDA65DC9&folderId=65996C260423132902715808"
+          "docName": "REVISED SHADOW PLANS_AUG 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=73FF9661-82C6-4870-B3A0-E668E1315428&folderId=65996C260423132902715808"
         },
         {
-          "docName": "PLANS_SITE_APRIL 20 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3E630024-4DA4-438B-AFA1-1B7BFC009B6C&folderId=65996C260423132902715808"
+          "docName": "REVISED SITE PLAN_AUG 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=068794E6-B19A-4D3B-A5E9-4B0D33CB383F&folderId=65996C260423132902715808"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787655192,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -118146,6 +118303,12 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1784185200,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1787641200,
           "endDate": null
         }
       ],
@@ -118164,7 +118327,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784285595,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00812",
@@ -118439,6 +118602,12 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1787554800,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1787641200,
           "endDate": null
         }
       ],
@@ -118457,7 +118626,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787655192,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -119030,6 +119199,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1783666800,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1787641200,
           "endDate": null
         }
       ],
@@ -119052,7 +119227,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786099959,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -120741,12 +120916,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1786950000,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1787641200,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1787641200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00858",
@@ -121511,6 +121704,85 @@
           "relatedPermitApplicationDate": 1768204800,
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "ADDITION TO SINGLE FAMILY DWELLING - REBUILD DECK & STAIRS"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "5031 CORDOVA BAY RD",
+      "applicant": "HOMEOWNER",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00574",
+      "applicationDate": 1787641200,
+      "addresses": [
+        "5031 CORDOVA BAY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "VARIANCES TO BUILD AN ACCESSORY BUILDING AND TRIPLEX",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1787641200,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1787641200,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1787641200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1787641200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BOV01197",
+          "relatedPermitType": "BOARD OF VARIANCE",
+          "relatedPermitApplicationDate": 1779609600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "RELAXATION OF THE MINIMUM FRONT YARD OPEN SITE SPACE FROM 40% T0 5.03%\n\nRELAXATION OF THE MINIMUM REAR LOT LINE SETBACK FROM 7.5M (24.61 FT) TO 6.48M (21.26 FT)\n\nRELAXATION OF THE MAXIMUM HEIGHT OF A BUILDING WITHIN 7.5M (24.6 FT) OF THE OCEAN FROM 0.6M (1.96 FT) TO 4.92M (16.14 FT)\n\nRELAXATION OF THE MINIMUM ACCESSORY BUILDING SEPARATION FROM THE PRINCIPAL BUILDING FROM 1.2M (4.0 FT) TO 0.25M (0.85 FT)"
+        },
+        {
+          "relatedPermitID": "BOV01196",
+          "relatedPermitType": "BOARD OF VARIANCE",
+          "relatedPermitApplicationDate": 1779609600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "RELAXATION OF THE MAXIMUM LOT COVERAGE FOR AN INDIVIDUAL ACCESSORY BUILDING FROM 7% TO 7.73%\nRELAXATION OF THE MINIMUM FRONT LOT LINE SETBACK FROM 7.5M (24.6 FT) TO 4.37M (13.44 FT)\nRELAXATION OF THE MAXIMUM HEIGHT OF AN ACCESSORY BUILDING FROM 3.75M (12.3 FT) TO 5.59M (18.34 FT)\nRELAXATION OF THE MINIMUM ACCESSORY BUILDING SEPARATION FROM THE PRINCIPAL BUILDING FROM 1.2M (4.0 FT) TO 0.25M (0.85 FT)"
+        },
+        {
+          "relatedPermitID": "RBP00142",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1741680000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "DEMOLITION ACCESSORY BUILDING"
+        },
+        {
+          "relatedPermitID": "RBP00104",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1740556800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "ACCESSORY BUILDING - 3 CAR GARAGE"
+        },
+        {
+          "relatedPermitID": "RBP00102",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1740556800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "CONVERSION OF SINGLE FAMILY DWELLING - CREATE HOUSEPLEX - 3 UNIT"
         }
       ]
     },
@@ -127319,12 +127591,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1786950000,
+          "endDate": 1787641200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1787741604,
       "relatedPermits": []
     },
     {
@@ -133539,7 +133817,7 @@
         "315 MAIN STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 11-storey mixed-use building (118 social housing units) consisting of:\n  1st storey - 3 CRUs; school \n  2nd storey - 3 offices; school; theatre\n  3rd storey - dwelling units; indoor amenities (residential); outdoor amenity (commercial & residential)\n  4th to 10th storeys - dwelling units\n  11th storey - dwelling units; indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Apr. 22, 2026\n\nSTAGE II: Full Construction; Revisions to Building per DPMA DP-2026-00200, including Change of Structure from Mass Timber to Concrete - In review\nProject Value: $60,574,064.00\nProperty Use: Dwelling Uses, Institutional Uses, Office Uses, Retail Uses, Service Uses\nSpecific Use: General Office, Mixed-Use Residential Building, School - University or College, Restaurant - Class 1, Retail Store\nNeighbourhood: Downtown\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 11-storey mixed-use building (118 social housing units) consisting of:\n  1st storey - 3 CRUs; school \n  2nd storey - 3 offices; school; theatre\n  3rd storey - dwelling units; indoor amenities (residential); outdoor amenity (commercial & residential)\n  4th to 10th storeys - dwelling units\n  11th storey - dwelling units; indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Apr. 22, 2026\n\nSTAGE II: Full Construction; Revisions to Building per DPMA DP-2026-00200, including Change of Structure from Mass Timber to Concrete - In review\nProject Value: $60,574,064.00\nProperty Use: Dwelling Uses, Institutional Uses, Retail Uses, Service Uses\nSpecific Use: School - University or College, Mixed-Use Residential Building, Restaurant - Class 1, Retail Store\nNeighbourhood: Downtown\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -133564,7 +133842,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1787741826,
       "relatedPermits": [],
       "projectValue": 60574064,
       "latitude": 49.281981,
@@ -159653,7 +159931,7 @@
         "2850 E 43RD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To construct a Multiple Dwelling \"Multiplex\" with a three-story 3-unit front building with four surface parking spaces having vehicular access from the lane.\n\nBP-2025-02281 (Building 1/Front  - 3 Units) - All dwgs and docs here\nBP-2025-02282 (Building 2/Rear - 1 Unit)\n\nThis permit is for Building 1 (Front; $900,000)\nBRB Notes:\n1. Reviewed under VBBL 2019\n2. Part 5 design required \n3. Building sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nREV #1 (PENDING)\nFRONT BUILDING\n• Unit 1: Revised kitchen layout\n• Unit 2 & 3: Revise kitchen & mechanical room layout\n• Unit 2 & 3: Revise stair run\n• Unit 1-3 (1-3rd floors): Revise window sizes and locations on west elevation\n• Unit 2 & 3: Addition of 2 skylights\n• Revise floor assembly (F3 & F4) \nREAR BUILDING \n• Sprinkler design revised to NFPA 13D\n• Revise kitchen layout \n• Revise stair run\n• Revise floor assembly (F3 & F4) \n• Revise north/east/west exterior wall assembly to 1 HR FRR \n• Modification of carport openings\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Royal Casa Construction Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To construct a Multiple Dwelling \"Multiplex\" with a three-story 3-unit front building with four surface parking spaces having vehicular access from the lane.\n\nBP-2025-02281 (Building 1/Front  - 3 Units) - All dwgs and docs here\nBP-2025-02282 (Building 2/Rear - 1 Unit)\n\nThis permit is for Building 1 (Front; $900,000)\nBRB Notes:\n1. Reviewed under VBBL 2019\n2. Part 5 design required \n3. Building sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nREV #1 - August 24, 2026 - JI\nFRONT BUILDING\n• Unit 1: Revised kitchen layout\n• Unit 2 & 3: Revise kitchen & mechanical room layout\n• Unit 2 & 3: Revise stair run\n• Unit 1-3 (1-3rd floors): Revise window sizes and locations on west elevation\n• Unit 2 & 3: Addition of 2 skylights\n• Revise floor assembly (F3 & F4) \nREAR BUILDING \n• Sprinkler design revised to NFPA 13D\n• Revise kitchen layout \n• Revise stair run\n• Revise floor assembly (F3 & F4) \n• Revise north/east/west exterior wall assembly to 1 HR FRR \n• Modification of carport openings\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Royal Casa Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -159672,7 +159950,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787482616,
+      "lastUpdated": 1787741826,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-02282",
@@ -202556,9 +202834,30 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2026-06-24 - Plans_Revised 1 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92233C260825153431599925&folderId=66768C260608084937572379"
+        },
+        {
+          "docName": "2026-06-24 - Plans_Revised 2 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92233C260825153431643759&folderId=66768C260608084937572379"
+        },
+        {
+          "docName": "2026-06-24 - Plans_Revised_Bubbled 1 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92233C260825152944518674&folderId=66768C260608084937572379"
+        },
+        {
+          "docName": "2026-06-24 - Plans_Revised_Bubbled 2 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92233C260825153152481910&folderId=66768C260608084937572379"
+        },
+        {
+          "docName": "2026-06-24 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A20738F4-8F36-4921-A4C9-2586DB0B2379&folderId=66768C260608084937572379"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1785581569,
+      "lastUpdated": 1787741604,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00302",
