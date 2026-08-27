@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1787741602,
+  "dateRetrieved": 1787828007,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8270,7 +8270,7 @@
         "595 BEZANTON WAY"
       ],
       "status": "ACTIVE",
-      "purpose": "Form & Character- DP application proposes 30 townhouse development, 3 storey",
+      "purpose": "This Environmental, Natural Hazard, and Form & Character DP application proposes a 3-storey, 30-unit townhouse development in a Hillside, Sensitive Ecosystem, and Steeply Sloped Development Permit Area",
       "progressSections": [
         {
           "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
@@ -8293,7 +8293,7 @@
       ],
       "documents": [],
       "city": "Colwood",
-      "lastUpdated": 1787122800,
+      "lastUpdated": 1787828009,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -18530,14 +18530,21 @@
       "addresses": [
         "11462 94A AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a single family dwelling",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1787702400,
+          "endDate": 1787702400
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1787828238,
       "relatedPermits": [],
       "latitude": 49.174365,
       "longitude": -122.905177
@@ -20843,13 +20850,13 @@
         "11196 72A AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Multi-Residential - New Construction",
+      "purpose": "Multi-Residential - New Construction - Four Townhouse Units",
       "progressSections": [],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1784285787,
+      "lastUpdated": 1787828238,
       "relatedPermits": [],
       "latitude": 49.134402,
       "longitude": -122.913001
@@ -21172,6 +21179,28 @@
       "relatedPermits": [],
       "latitude": 49.148706,
       "longitude": -122.929003
+    },
+    {
+      "primaryStreetName": "4936 4 AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023287",
+      "applicationDate": 1787828238,
+      "addresses": [
+        "4936 4 AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1787828238,
+      "relatedPermits": [],
+      "latitude": 49.009278,
+      "longitude": -123.08705
     },
     {
       "primaryStreetName": "8232 WADHAM DR",
@@ -23349,6 +23378,103 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "846 Viewfield Road",
+      "applicant": "Loblaws Inc.",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000277",
+      "applicationDate": 1787828205,
+      "addresses": [
+        "846 Viewfield Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Recycling container",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DP000277.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1787828205,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1221 Rockcrest Place",
+      "applicant": "Vijay Bhangu",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000278",
+      "applicationDate": 1787828205,
+      "addresses": [
+        "1221 Rockcrest Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Addition to create a 3-unit development",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DP000278.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1787828205,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1037 Wychbury Avenue",
+      "applicant": "Robert Bradbury",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000279",
+      "applicationDate": 1787828205,
+      "addresses": [
+        "1037 Wychbury Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Addition of 3 units to existing apartment building",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DP000279.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1787828205,
+      "relatedPermits": [],
+      "major": true
+    },
+    {
       "primaryStreetName": "912 McNaughton Avenue",
       "applicant": "An Le and Hoa Kha",
       "cityApplicationType": "Development Variance",
@@ -24410,7 +24536,7 @@
       "addresses": [
         "870 Lampson Street"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Reduced rear setback",
       "progressSections": [
         {
@@ -24474,7 +24600,7 @@
       "addresses": [
         "950 Lampson Place"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Reduced rear setback",
       "progressSections": [
         {
@@ -24506,7 +24632,7 @@
       "addresses": [
         "884 Lampson Street"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Reduced parking",
       "progressSections": [
         {
@@ -24570,7 +24696,7 @@
       "addresses": [
         "860 Esquimalt Road"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Size of animated sign",
       "progressSections": [
         {
@@ -24910,6 +25036,38 @@
       "withApplicantDays": null,
       "city": "Esquimalt",
       "lastUpdated": 1787324861,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1221 Rockcrest Place",
+      "applicant": "Vijay Bhangu",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00190",
+      "applicationDate": 1787828205,
+      "addresses": [
+        "1221 Rockcrest Place"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduction to rear setback",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00190.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1787828205,
       "relatedPermits": []
     },
     {
@@ -98136,7 +98294,7 @@
       "addresses": [
         "6560 Constable Drive Yan Studio (Merry Gao) (778)899-8958"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $592,599.00 1 $592,599.00",
       "progressSections": [
         {
@@ -98659,6 +98817,36 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 215000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "8511 Fairfax Crescent Melanie Dee (604)241-2720",
+      "applicant": "GMJ Home Designs Ltd (604)241-2720",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-009354-000-00-B7",
+      "applicationDate": 1786867200,
+      "addresses": [
+        "8511 Fairfax Crescent Melanie Dee (604)241-2720"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Single Family/Suite\nWork Proposed: Addition\nConstruction Value: $300,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1786867200,
+          "endDate": 1786867200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 300000,
       "approvalStatus": "Approved"
     },
     {
@@ -99554,6 +99742,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "6553 Park Road Unit 1155 Yu Guan (604)267-0098",
+      "applicant": "Y&Y Construction Ltd (604)349-9888",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-011714-000-00-B2",
+      "applicationDate": 1786867200,
+      "addresses": [
+        "6553 Park Road Unit 1155 Yu Guan (604)267-0098"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Restaurant\nWork Proposed: Alteration\nConstruction Value: $400,000.00 1 $400,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1786867200,
+          "endDate": 1786867200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 400000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "9731 Gilbert Crescent",
       "applicant": "Solve Energy Inc (Macey Mendoza) (778) 400-1389",
       "cityApplicationType": "Building Permit",
@@ -99951,7 +100169,7 @@
       "addresses": [
         "11959 Granville Avenue"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Retaining Walls (over 1.2m in Height)\nWork Proposed: New\nConstruction Value: $15,000.00 2 $28,000.00\nDescription: FENCE Harmel Bains (604)728-8292",
       "progressSections": [
         {
@@ -100028,6 +100246,35 @@
       "lastUpdated": 1779792975,
       "relatedPermits": [],
       "minor": true,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "6240 Granville Avenue Exotic Creationz Ltd (Harpreet Johal) (778)319-0644",
+      "applicant": "Exotic Creationz Ltd (778)319-0644",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-012488-000-00-B7",
+      "applicationDate": 1786867200,
+      "addresses": [
+        "6240 Granville Avenue Exotic Creationz Ltd (Harpreet Johal) (778)319-0644"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $556,177.67 2 $856,177.67\nContractor: 3",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1786867200,
+          "endDate": 1786867200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
+      "relatedPermits": [],
+      "projectValue": 556177.67,
       "approvalStatus": "Approved"
     },
     {
@@ -100491,7 +100738,7 @@
       "addresses": [
         "8171 Cook Road Unit 315 Paramjit Teja (778)385-5521"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Medical Office\nWork Proposed: Alteration\nConstruction Value: $11,000.00",
       "progressSections": [
         {
@@ -100551,7 +100798,7 @@
       "addresses": [
         "4000 No 3 Road Unit 3220 Wing Kai Renovation (Benson Lai) (604) 618-3618"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Beauty Parlour\nWork Proposed: Alteration\nConstruction Value: $3,500.00 1 $3,500.00",
       "progressSections": [
         {
@@ -100611,7 +100858,7 @@
       "addresses": [
         "4899 Vanguard Road Unit 114 Alex Mai (778)867-1026"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Recreational\nWork Proposed: Alteration\nConstruction Value: $10,000.00 1 $10,000.00\nContractor: 2",
       "progressSections": [
         {
@@ -100641,7 +100888,7 @@
       "addresses": [
         "7580 River Road Unit 260 Qinmin Ye (236)965-8132"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Medical Office\nWork Proposed: Alteration\nConstruction Value: $25,000.00 2 $36,000.00",
       "progressSections": [
         {
@@ -100659,6 +100906,64 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 25000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4340 River Road",
+      "applicant": "Luso Development Corp (604)230-6168",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-017461-000-00-BZ",
+      "applicationDate": 1786867200,
+      "addresses": [
+        "4340 River Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Retaining Walls (over 1.2m in Height)\nWork Proposed: New\nConstruction Value: $12,000.00 1 $12,000.00\nDescription: FENCE Jeff Yang (604)767-9477",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1786867200,
+          "endDate": 1786867200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 12000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "10511 Lassam Road",
+      "applicant": "Amariya Homess Ltd (778)321-4536",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-23-031473-000-00-D7",
+      "applicationDate": 1787299200,
+      "addresses": [
+        "10511 Lassam Road"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Mash Construction (604)722-6274",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787299200,
+          "endDate": 1787299200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
+      "relatedPermits": [],
       "approvalStatus": "Approved"
     },
     {
@@ -101502,6 +101807,62 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "8560 Rosemary Avenue",
+      "applicant": "Yan Studio (Merry Gao) (778)899-8958",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-007323-000-00-D7",
+      "applicationDate": 1787212800,
+      "addresses": [
+        "8560 Rosemary Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Kingsman Excavating Ltd (604)723- 6669",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787212800,
+          "endDate": 1787212800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "8560 Rosemary Ave",
+      "applicant": "Yan Studio (Merry Gao) (778)899-8958",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-007325-000-00-D7",
+      "applicationDate": 1787212800,
+      "addresses": [
+        "8560 Rosemary Ave"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Access Building Detach\nWork Proposed: Demolish\nContractor: Kingsman Excavating Ltd (604)723- 6669\nDescription: Detached Shed",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787212800,
+          "endDate": 1787212800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "3551 Richmond Street",
       "applicant": "Brad Dore (604)782-8240",
       "cityApplicationType": "Demolition",
@@ -101834,6 +102195,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1785235759,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "11371 Frigate Court",
+      "applicant": "Ranbir Saran (604)783-7987",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-014088-000-00-D7",
+      "applicationDate": 1787299200,
+      "addresses": [
+        "11371 Frigate Court"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: GRG Site Services Ltd (778)829-4892",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787299200,
+          "endDate": 1787299200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1787828236,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -104318,18 +104707,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1787641200,
-          "endDate": null
+          "endDate": 1787727600
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1787727600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787641200,
+      "lastUpdated": 1787828009,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00142",
@@ -106960,6 +107349,12 @@
           "endDate": 1786431600
         },
         {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1786431600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
@@ -106981,7 +107376,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786791204,
+      "lastUpdated": 1787828009,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00727",
@@ -119296,9 +119691,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLAN_LANDSCAPE_AUG 20 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E56FEEEC-F85C-49CE-B015-6F9E2B9896A3&folderId=07292C260810111606369839"
+        },
+        {
+          "docName": "PLAN_SITE SERVICING_AUG 20 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D3B7FD92-F299-48FB-B84B-74164738A033&folderId=07292C260810111606369839"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1787655192,
+      "lastUpdated": 1787828009,
       "relatedPermits": []
     },
     {
@@ -127591,7 +127995,7 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1786950000,
-          "endDate": 1787641200
+          "endDate": null
         },
         {
           "taskDescription": "Revised information and/or plans received for review by District",
@@ -127602,8 +128006,46 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787741604,
+      "lastUpdated": 1787828009,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "5166 CORDOVA BAY RD",
+      "applicant": "ALAN LOWE ARCHITECT INC.",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00822",
+      "applicationDate": 1787727600,
+      "addresses": [
+        "5166 CORDOVA BAY RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM C-2 GENERAL TO TBD MIXED USE ZONE",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1787727600,
+          "endDate": 1787727600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1787727600,
+          "endDate": 1787727600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1787727600,
+      "relatedPermits": [],
+      "major": true
     },
     {
       "primaryStreetName": "434 Baker Road",
@@ -127668,6 +128110,10 @@
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-14_PLDVP20250460ApplicantLetterofSupport_R.pdf"
         },
         {
+          "docName": "SS-LTC-2026-08-24_PLDVP20250460_BMilne-EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-24_PLDVP20250460_BMilne-EML_R.pdf"
+        },
+        {
           "docName": "SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf"
         },
@@ -127678,6 +128124,10 @@
         {
           "docName": "SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-8-26_PLDVP20260460_PRees_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-8-26_PLDVP20260460_PRees_EML_R.pdf"
         },
         {
           "docName": "SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf",
@@ -127707,7 +128157,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1787655378,
+      "lastUpdated": 1787828206,
       "relatedPermits": []
     },
     {
@@ -127944,12 +128394,88 @@
         {
           "docName": "SS-BL-553_ATT1.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/2.%20Proposed%20Bylaw%20or%20Permit/SS-BL-553_ATT1.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-05_ReferralFINAL NSSWD SIGNED.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-05-05_ReferralFINAL%20NSSWD%20SIGNED.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-26_IslandHealth_ResponseEML.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-05-26_IslandHealth_ResponseEML.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-26_IslandHealth_ResponseLTR.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-05-26_IslandHealth_ResponseLTR.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-29_NPLTC_Response.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-05-29_NPLTC_Response.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-06-01_CVRD_ResponseEML.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-06-01_CVRD_ResponseEML.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-06-01_CVRD_ResponseLTR.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-06-01_CVRD_ResponseLTR.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-06-01_NSSWD_Response.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-06-01_NSSWD_Response.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-06-09_GLLTC_Response.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-06-09_GLLTC_Response.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-06-19_MinistryOfHousingEML.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-06-19_MinistryOfHousingEML.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-06-29_MALTC_Response.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-06-29_MALTC_Response.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-07-03_CRD_Response.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-07-03_CRD_Response.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-07-13_THLTC_Response.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/5.%20Agency%20Referral/SS-BL-553_2026-07-13_THLTC_Response.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-12_PauquachinResponse.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/6.%20Engagement%20with%20Indigenous%20Governing%20Bodies/SS-BL-553_2026-05-12_PauquachinResponse.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-12_PenelakutResponse.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/6.%20Engagement%20with%20Indigenous%20Governing%20Bodies/SS-BL-553_2026-05-12_PenelakutResponse.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-12_Ts'uubaa-asatxResponse.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/6.%20Engagement%20with%20Indigenous%20Governing%20Bodies/SS-BL-553_2026-05-12_Ts'uubaa-asatxResponse.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-05-22_TsawwassenResponse.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/6.%20Engagement%20with%20Indigenous%20Governing%20Bodies/SS-BL-553_2026-05-22_TsawwassenResponse.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-06-03_CowichanTribesResponse.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/6.%20Engagement%20with%20Indigenous%20Governing%20Bodies/SS-BL-553_2026-06-03_CowichanTribesResponse.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-07-27_TsawoutCorespondence.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/6.%20Engagement%20with%20Indigenous%20Governing%20Bodies/SS-BL-553_2026-07-27_TsawoutCorespondence.pdf"
+        },
+        {
+          "docName": "SS-BL-553_2026-08-25_TsawoutResponse.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/6.%20Engagement%20with%20Indigenous%20Governing%20Bodies/SS-BL-553_2026-08-25_TsawoutResponse.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1785322543,
+      "lastUpdated": 1787828206,
       "relatedPermits": []
     },
     {
@@ -132364,7 +132890,7 @@
         "123 KEEFER STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 10-storey (9 levels Z&D) hotel consisting \n\n1st storey - 1 CRU (shell only), neighbourhood public house, hotel lobby, garbage room and loading bay,\n2nd storey - indoor amenity space and hotel dwelling units,\n3rd to 10th storeys - Hotel dwelling units, and outdoor amenity at roof level,\n\nall over one basement level of service rooms, storage rooms, and hotel back of house.\n\nTotal of 58 (tbc) hotel dwelling units.\nAll tenant spaces require separate tenant improvement permits.\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 14, 2021.  \n\nNotes:\n1. Building to be sprinklered to NFPA 13 requirements. \n2. The building is within the designated floodplain area.\n3. Radio Antenna System to be installed in this building.\n4. Pre-shaft: One 2-hr rated (only on level 2) vertical shaft with duct for the only CRU on the ground level is proposed. Kitchen exhaust duct will be at exterior without enclosure from level 3 to the roof.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation and Shoring - issued November 14, 2022\nStage 2 - Foundation up to Grade - issued December 20, 2023\nRevision 1 - Change of CP, from Mark Roozbahani to Michael Ferber, effective December 22, 2023 - issued Jan 12, 2024\nStage 3 - Full Construction, excluding commercial kitchen exhaust duct and shaft - issued May 10, 2024\n\n**Michael Ferber, CP, Architect AIBC, has changed firms from Celerity Engineering Ltd. to Michael Ferber Architectural Services Ltd., effective March 1, 2025.**\n\nStage 4 - Exterior Vertical Kitchen Exhaust Shaft - issued May 15, 2025\nRevision 2 - Change of Registered Professional of Record (Mechanical & Plumbing) - issued September 5, 2025\nRevision 3 - Subdivision of CRU and Interior Fit-Out for Ancillary Hotel Use per DPMA and Change Notice to DP-2025-00909 - In review\nProject Value: $14,188,000.00\nProperty Use: Office Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Hotel, General Office, Parking Area, Retail Store\nNeighbourhood: Downtown\nContractor: Togala Contruction",
+      "purpose": "Certified Professional Program - New Building - To construct a 10-storey (9 levels Z&D) hotel consisting \n\n1st storey - 1 CRU (shell only), neighbourhood public house, hotel lobby, garbage room and loading bay,\n2nd storey - indoor amenity space and hotel dwelling units,\n3rd to 10th storeys - Hotel dwelling units, and outdoor amenity at roof level,\n\nall over one basement level of service rooms, storage rooms, and hotel back of house.\n\nTotal of 58 (tbc) hotel dwelling units.\nAll tenant spaces require separate tenant improvement permits.\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 14, 2021.  \n\nNotes:\n1. Building to be sprinklered to NFPA 13 requirements. \n2. The building is within the designated floodplain area.\n3. Radio Antenna System to be installed in this building.\n4. Pre-shaft: One 2-hr rated (only on level 2) vertical shaft with duct for the only CRU on the ground level is proposed. Kitchen exhaust duct will be at exterior without enclosure from level 3 to the roof.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation and Shoring - issued November 14, 2022\nStage 2 - Foundation up to Grade - issued December 20, 2023\nRevision 1 - Change of CP, from Mark Roozbahani to Michael Ferber, effective December 22, 2023 - issued Jan 12, 2024\nStage 3 - Full Construction, excluding commercial kitchen exhaust duct and shaft - issued May 10, 2024\n\n**Michael Ferber, CP, Architect AIBC, has changed firms from Celerity Engineering Ltd. to Michael Ferber Architectural Services Ltd., effective March 1, 2025.**\n\nStage 4 - Exterior Vertical Kitchen Exhaust Shaft - issued May 15, 2025\nRevision 2 - Change of Registered Professional of Record (Mechanical & Plumbing) - issued September 5, 2025\nRevision 3 - Subdivision of CRU and Interior Fit-Out for Ancillary Hotel Use per DPMA and Change Notice to DP-2025-00909 - In review\nProject Value: $14,710,421.00\nProperty Use: Office Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Hotel, General Office, Parking Area, Retail Store\nNeighbourhood: Downtown\nContractor: Togala Contruction",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -132407,9 +132933,9 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1787828244,
       "relatedPermits": [],
-      "projectValue": 14188000,
+      "projectValue": 14710421,
       "latitude": 49.279468,
       "longitude": -123.101489,
       "major": true,
@@ -133817,7 +134343,7 @@
         "315 MAIN STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 11-storey mixed-use building (118 social housing units) consisting of:\n  1st storey - 3 CRUs; school \n  2nd storey - 3 offices; school; theatre\n  3rd storey - dwelling units; indoor amenities (residential); outdoor amenity (commercial & residential)\n  4th to 10th storeys - dwelling units\n  11th storey - dwelling units; indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Apr. 22, 2026\n\nSTAGE II: Full Construction; Revisions to Building per DPMA DP-2026-00200, including Change of Structure from Mass Timber to Concrete - In review\nProject Value: $60,574,064.00\nProperty Use: Dwelling Uses, Institutional Uses, Retail Uses, Service Uses\nSpecific Use: School - University or College, Mixed-Use Residential Building, Restaurant - Class 1, Retail Store\nNeighbourhood: Downtown\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 11-storey mixed-use building (118 social housing units) consisting of:\n  1st storey - 3 restaurants; school (shell space) \n  2nd storey - 3 live/work units; theatre; school (shell space)\n  3rd storey - dwelling units; indoor amenities (residential); outdoor amenity (commercial & residential)\n  4th to 10th storeys - dwelling units\n  11th storey - dwelling units; indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Apr. 22, 2026\n\nSTAGE II: Full Construction; Revisions to Building per DPMA DP-2026-00200, including Change of Structure from Mass Timber to Concrete - In review\nProject Value: $60,574,064.00\nProperty Use: Dwelling Uses, Institutional Uses, Retail Uses, Service Uses\nSpecific Use: School - University or College, Mixed-Use Residential Building, Restaurant - Class 1, Retail Store\nNeighbourhood: Downtown\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -133842,7 +134368,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787741826,
+      "lastUpdated": 1787828244,
       "relatedPermits": [],
       "projectValue": 60574064,
       "latitude": 49.281981,
@@ -160525,7 +161051,7 @@
         "1725 RUPERT STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey wood-frame mixed-use building consisting of:\n  1st storey - 3 commercial units (a Fitness Center, a Restaurant and an Office) \n  2nd to 6 storey - 63 residential units,\nall over 3 levels of underground levels.  \n\nNotes: \nThis building is designed to VBBL 2019.\nRadio antenna system to be installed in this building.\nOne vertical pre-shaft (2hr FRR) without exhaust duct is proposed for the restaurant on the ground level from ceiling to Level 6 roof. \nRated access panels into public corridor or common area shall be provided on every storey.\n\nSTAGED CONSTRUCTION: \n10-Mar-2026 - Stage1 (E &S)  issued. \n08-May-2026 - Stage 2 (foundation to P1)  issued. \n\nStage 3 - In Review \n\n21-July-2026 - Revision#1 issued \nAddition of sheets S206 and S206 for Level 1 slab ( Level 1 G.A plan & reinforcement)\nProject Value: $25,000,000.00\nProperty Use: Cultural/Recreational Uses, Dwelling Uses, Office Uses, Parking Uses, Service Uses\nSpecific Use: Fitness Centre, General Office, Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage\nNeighbourhood: Hastings-Sunrise",
+      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey wood-frame mixed-use building consisting of:\n  1st storey - 3 commercial units (a Fitness Center, a Restaurant and an Office) \n  2nd to 6 storey - 63 residential units,\nall over 3 levels of underground levels.  \n\nNotes: \nThis building is designed to VBBL 2019.\nRadio antenna system to be installed in this building.\nOne vertical combustible pre-shaft (2hr FRR) without exhaust duct is proposed for the restaurant on the ground level from ceiling to Level 6 roof. Rated access panels into public corridor or common area shall be provided on every storey.\n\nSTAGED CONSTRUCTION: \n10-Mar-2026 - Stage1 (E &S)  issued. \n08-May-2026 - Stage 2 (foundation to P1)  issued. \n25-Aug-2026 - Stage 3 (full permit) issued.\n\n\n21-July-2026 - Revision#1 issued \nAddition of sheets S206 and S206 for Level 1 slab ( Level 1 G.A plan & reinforcement)\nProject Value: $25,000,000.00\nProperty Use: Cultural/Recreational Uses, Dwelling Uses, Office Uses, Parking Uses, Service Uses\nSpecific Use: Fitness Centre, General Office, Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage\nNeighbourhood: Hastings-Sunrise\nContractor: MIKSAN CONSTRUCTION LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -160544,13 +161070,19 @@
           "taskType": "",
           "startDate": 1778227200,
           "endDate": 1778227200
+        },
+        {
+          "taskDescription": "Stage 3: full permit",
+          "taskType": "",
+          "startDate": 1787644800,
+          "endDate": 1787644800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1787828244,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04810",
@@ -170598,6 +171130,84 @@
       "storeys": 3
     },
     {
+      "primaryStreetName": "3542 ETON STREET",
+      "applicant": "David Iaquinta DBA: Evergreen Court Developments Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00931",
+      "applicationDate": 1773993600,
+      "addresses": [
+        "3542 ETON STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a three- storey 2 unit front building and a two-storey 1 unit rear building with a carport providing three parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in court yard\n2. Schedule B: (A. TARANENKO) P.Eng (778.246.1683) Structural & Geotechnical\n3. HPO: Residential Builder - Evergreen Court Developments Ltd.\n\nNote: This 3 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to 2X NFPA 13D \n\nAddress Information:\n\nBuilding 1 (Front) (north)   \n#1-3542 Eton St - One Dwelling Unit (north side 1st-3rd levels)\n#2-3542 Eton St - One Dwelling Unit (south side 1st-3rd levels)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $816,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Hastings-Sunrise\nContractor: Evergreen Court Developments Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773993600,
+          "endDate": 1773993600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773993600,
+          "endDate": 1773993600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773993600,
+      "relatedPermits": [],
+      "projectValue": 816000,
+      "latitude": 49.2874,
+      "longitude": -123.027205,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3546 ETON STREET",
+      "applicant": "David Iaquinta DBA: Evergreen Court Developments Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00932",
+      "applicationDate": 1773993600,
+      "addresses": [
+        "3546 ETON STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a three- storey 2 unit front building and a two-storey 1 unit rear building with a carport providing three parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in court yard\n2. Schedule B: (A. TARANENKO) P.Eng (778.246.1683) Structural & Geotechnical\n3. HPO: Residential Builder - Evergreen Court Developments Ltd.\n\nNote: This 2 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n\nBuilding 2 (Rear) (south)\n3546 Eton St - One Dwelling Unit (1st-2nd levels)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $288,750.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Hastings-Sunrise",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773993600,
+          "endDate": 1773993600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773993600,
+          "endDate": 1773993600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773993600,
+      "relatedPermits": [],
+      "projectValue": 288750,
+      "latitude": 49.287681,
+      "longitude": -123.027146,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "2133 W 57TH AVENUE",
       "applicant": "Khang Nguyen DBA: Architrix Design Studio",
       "cityApplicationType": "New Building",
@@ -171451,7 +172061,7 @@
         "102 WATER STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish the fire-damaged, 4-storey mixed-use building (commercial/residential) to grade.\r\n\r\nOK for SIPs as per A. Patterson\r\n\r\nNo S&A permit required.\r\n\r\n1)The deconstruction shall be in accordance with the submitted deconstruction plan and to be confirmed through an acceptable Deconstruction Compliance Report form with copies of recycling and disposal facility receipts. Attach all receipts and submit by email to compliancereport@vancouver.ca. All deconstruction is to be completed to the satisfaction of the Director of Planning prior to the issuance of the building permit.\r\n2) Notice of Demolition must be provided to District Building Inspector 24 hours in advance of demolition by calling 3-1-1 or 604-873-7000 outside of Vancouver.\r\n3) All work must be conducted in accordance with Safe Work Procedures approved by Qualified Professional and WorkSafeBC requirements. \r\n4) Demo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\nProject Value: $200,000.00\nProperty Use: Dwelling Uses, Retail Uses, Service Uses\nSpecific Use: Dwelling Unit, Retail Store, Housekeeping Unit, Sleeping Unit, Restaurant - Class 1\nNeighbourhood: Downtown\nContractor: Clearview Demolition Ltd",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish the fire-damaged, 4-storey mixed-use building (commercial/residential) to grade.\r\n\r\nOK for SIPs as per A. Patterson\r\n\r\nNo S&A permit required.\r\n\r\n1)The deconstruction shall be in accordance with the submitted deconstruction plan and to be confirmed through an acceptable Deconstruction Compliance Report form with copies of recycling and disposal facility receipts. Attach all receipts and submit by email to compliancereport@vancouver.ca. All deconstruction is to be completed to the satisfaction of the Director of Planning prior to the issuance of the building permit.\r\n2) Notice of Demolition must be provided to District Building Inspector 24 hours in advance of demolition by calling 3-1-1 or 604-873-7000 outside of Vancouver.\r\n3) All work must be conducted in accordance with Safe Work Procedures approved by Qualified Professional and WorkSafeBC requirements. \r\n4) Demo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\nProject Value: $200,000.00\nProperty Use: Dwelling Uses, Retail Uses, Service Uses\nSpecific Use: Retail Store, Dwelling Unit, Sleeping Unit, Housekeeping Unit, Restaurant - Class 1\nNeighbourhood: Downtown\nContractor: Clearview Demolition Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -171470,7 +172080,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1787828244,
       "relatedPermits": [],
       "projectValue": 200000,
       "latitude": 49.283652,
@@ -269163,6 +269773,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
           "startDate": null,
@@ -269245,10 +269861,22 @@
         {
           "docName": "2026-06-03 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AC996A90-DEB4-4900-93FB-3F613B5674FB&folderId=45150C250516134437243497"
+        },
+        {
+          "docName": "2026-08-26 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92901C260826132657120093&folderId=45150C250516134437243497"
+        },
+        {
+          "docName": "2026-08-26 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92901C260826132657141545&folderId=45150C250516134437243497"
+        },
+        {
+          "docName": "2026-08-26 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92901C260826132657155741&folderId=45150C250516134437243497"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1783767197,
+      "lastUpdated": 1787828009,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00294",
@@ -273367,8 +273995,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportaug2-8202679553.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportaug2-8202679554.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportaug16202679561.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportaug16202679562.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
