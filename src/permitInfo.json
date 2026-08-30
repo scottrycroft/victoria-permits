@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788000802,
+  "dateRetrieved": 1788087781,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8009,7 +8009,7 @@
     },
     {
       "primaryStreetName": "546 WINDTHROP RD",
-      "applicant": "AUTHORIZED AGENT/OWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000053",
@@ -8017,7 +8017,7 @@
       "addresses": [
         "546 WINDTHROP RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This Joint Environmental and Form & Character DP application proposes a 34-unit townhouse development.",
       "progressSections": [
         {
@@ -8041,11 +8041,48 @@
         {
           "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
           "taskType": "PERMIT ISSUED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1785481200,
+          "endDate": 1785481200
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 1.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826082626360048&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 2.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826082626466808&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 3.1.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826083544042384&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 3.2.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826083825022192&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 3.3.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826083825029729&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 3.4.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826083930971979&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 4.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826082626480836&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 5.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826082626491862&folderId=82382C260302141446814024"
+        },
+        {
+          "docName": "DP000053_546 Windthrop Rd_Permit_Signed_Consolidated_Redacted_Reduced - Section 6.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826082626497910&folderId=82382C260302141446814024"
+        }
+      ],
       "city": "Colwood",
       "lastUpdated": 1782903192,
       "relatedPermits": []
@@ -9974,7 +10011,7 @@
     },
     {
       "primaryStreetName": "221 GOLDFINCH RD",
-      "applicant": "AUTHORIZED AGENT/OWNER",
+      "applicant": "",
       "cityApplicationType": "REZONING",
       "applicationType": "Rezoning",
       "folderNumber": "RZ000025",
@@ -9982,7 +10019,7 @@
       "addresses": [
         "221 GOLDFINCH RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This application proposes a rezoning from R1 to RM7 to permit 2 duplexes with secondary suites.",
       "progressSections": [
         {
@@ -10016,21 +10053,21 @@
           "endDate": 1752476400
         },
         {
-          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading are denied, drop down to FAILED, the entire Folder will be set to DENIED.",
-          "taskType": "1ST & 2ND READING",
-          "startDate": 1780902000,
-          "endDate": null
-        },
-        {
           "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading failed, drop down to FAILED, the entire Folder will be set to DENIED.",
           "taskType": "3RD READING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1783926000,
+          "endDate": 1783926000
         },
         {
           "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nFile copy of signed and adopted amendment to Attachments.\nReview Checklist.\n\nWhen COMPLETE, the Issued, Approved, and Completed Date will bet set for the entire folder, and the Folder Status will be set to COMPLETE\n\nIf adoption failed, drop down to FAILED, the entire Folder will be set to DENIED.",
           "taskType": "ADOPTION",
-          "startDate": null,
+          "startDate": 1787554800,
+          "endDate": 1787554800
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading are denied, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "1ST & 2ND READING",
+          "startDate": 1780902000,
           "endDate": null
         }
       ],
@@ -87985,7 +88022,7 @@
     },
     {
       "primaryStreetName": "2090 CADBORO BAY RD",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000061",
@@ -87993,7 +88030,7 @@
       "addresses": [
         "2090 CADBORO BAY RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Multi-Unit Development Permit application for the construction of a 5-story 16-unit mixed use residential/commercial building.",
       "progressSections": [
         {
@@ -88030,13 +88067,13 @@
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1783926000,
-          "endDate": null
+          "endDate": 1783926000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "*FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1783926000,
+          "endDate": 1783926000
         }
       ],
       "documents": [
@@ -88056,14 +88093,14 @@
           "relatedPermitID": "OCP00012",
           "relatedPermitType": "OFFICIAL COMMUNITY PLAN AMENDMENT",
           "relatedPermitApplicationDate": 1771920000,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "This application is for an application for an Official Community Plan  Amendment accommodate a 5-storey Mixed Use Building (see DP000061 and ZON00061)"
         },
         {
           "relatedPermitID": "ZON00061",
           "relatedPermitType": "ZONING BYLAW AMENDMENT",
           "relatedPermitApplicationDate": 1752825600,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "This Zoning Amendment application proposes to amend the zoning bylaw by rezoning the property from the current RM-3 designation to a site-specific Comprehensive Development (CD) zone to allow for the development of a five-storey mixed-use apartment building"
         }
       ],
@@ -103447,7 +103484,7 @@
     },
     {
       "primaryStreetName": "2900 TILLICUM RD",
-      "applicant": "ALAN LOWE ARCHITECT INC.",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01101",
@@ -103455,7 +103492,7 @@
       "addresses": [
         "2900 TILLICUM RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO AMEND DPR00740 TO INCREASE RESIDENTIAL UNITS, PARKING SPACES, AND MINOR CHANGES TO BUILDING'S EXTERIOR.",
       "progressSections": [
         {
@@ -103510,7 +103547,13 @@
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1784530800,
-          "endDate": null
+          "endDate": 1784530800
+        },
+        {
+          "taskDescription": "Application approved by Council - work must commence within 2 years from date of approval",
+          "taskType": "APPLICATION APPROVED BY COUNCIL",
+          "startDate": 1784530800,
+          "endDate": 1784530800
         }
       ],
       "documents": [],
@@ -103521,7 +103564,7 @@
           "relatedPermitID": "DPA01119",
           "relatedPermitType": "DEVELOPMENT PERMIT AMENDMENT",
           "relatedPermitApplicationDate": 1782115200,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "TO AMEND DPR00740"
         },
         {
@@ -103566,7 +103609,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Tree Permit in support of BLC06595  for working within the protected root zone of five boulevard trees and four off-site trees."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "4080 GORDON HEAD RD",
@@ -104144,7 +104188,7 @@
     },
     {
       "primaryStreetName": "1 1830 ALLENBY ST",
-      "applicant": "HOMEOWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01115",
@@ -104152,7 +104196,7 @@
       "addresses": [
         "1-1830 ALLENBY ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO AMEND DPR00890 TO REVISE PLANTING ON SITE DUE TO REDUCED AMOUNT OF VIABLE SOIL.",
       "progressSections": [
         {
@@ -104190,6 +104234,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1783407600,
           "endDate": 1783407600
+        },
+        {
+          "taskDescription": "Application has been approved by the District",
+          "taskType": "MINOR AMENDMENT APPROVED",
+          "startDate": 1784185200,
+          "endDate": 1784185200
         }
       ],
       "documents": [
@@ -136391,6 +136441,64 @@
       "storeys": 4
     },
     {
+      "primaryStreetName": "2480 RENFREW STREET",
+      "applicant": "Michael Linton DBA: Jensen Hughes",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2023-03119",
+      "applicationDate": 1693382400,
+      "addresses": [
+        "2480 RENFREW STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development:\n\nTo construct 2 buildings (159 secured market rental units) consisting of:\n  1st storey - 3 CRU's; underground parking\n\nBuilding 1: 13-storey mixed-use building (South)\n  2nd storey - lobby; rental office; mailroom\n  3rd to 12th storeys - dwelling units\n  13th storey - indoor & outdoor amenities\n\nBuilding 2: 10-storey residential building (North)\n  2nd storey - lobby; 2 CRUs; partial underground parking\n  3rd storey - 1 CRU; indoor amenity; bike rooms\n  4th storey - bike rooms\n  5th to 9th storeys - dwelling units\n  10th storey - indoor & outdoor amenities\n\nall over 2 additional levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. The 1st and 2nd storeys of Building 1, as well as the 2nd storey of Building 2, are ground levels due to the sloping site.\n\nRefer to BP-2025-03852 for Building 1.\nRefer to BP-2025-03853 for Building 2.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Aug. 28, 2026\nProject Value: $76,634,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Hastings-Sunrise\nContractor: Syncra Construction Corp",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1693382400,
+          "endDate": 1693382400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1693382400,
+          "endDate": 1693382400
+        },
+        {
+          "taskDescription": "STAGE I: Excavation & Shoring",
+          "taskType": "",
+          "startDate": 1787904000,
+          "endDate": 1787904000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1693382400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-03852",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-03853",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-01533",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 76634000,
+      "latitude": 49.262132,
+      "longitude": -123.044228,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 13
+    },
+    {
       "primaryStreetName": "2339 E 34TH AVENUE",
       "applicant": "Michael Meszaros DBA: Pioneer Code Consultants Ltd.",
       "cityApplicationType": "New Building",
@@ -139784,7 +139892,7 @@
         "689 E 17TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct will be installed for the Restaurant (shell) at 3281 Fraser St.\n\n29-Jan-2026 - Stage 1 (Excavation, Shoring & Foundation to Grade)  issued. \nStage II - Full Permit - In Review\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct will be installed for the Restaurant (shell) at 3281 Fraser St.\n\n29-Jan-2026 - Stage I (Excavation, Shoring & Foundation to Grade)  issued. \n28-Aug-2026 - Stage II (Full Permit) issued.\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -139799,17 +139907,23 @@
           "endDate": 1710489600
         },
         {
-          "taskDescription": "Stage 1: Excavation, Shoring & Foundation to Grade",
+          "taskDescription": "Stage I: Excavation, Shoring & Foundation to Grade",
           "taskType": "",
           "startDate": 1769673600,
           "endDate": 1769673600
+        },
+        {
+          "taskDescription": "Stage II: Full Permit",
+          "taskType": "",
+          "startDate": 1787904000,
+          "endDate": 1787904000
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788087436,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-03975",
@@ -195506,7 +195620,7 @@
     },
     {
       "primaryStreetName": "638 CRAIGFLOWER RD",
-      "applicant": "JOHN DIETRICH",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01012",
@@ -195514,7 +195628,7 @@
       "addresses": [
         "638 CRAIGFLOWER RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to convert the existing building from a single- family dwelling to a duplex with suites.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -195539,19 +195653,13 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1758524400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
-          "taskType": "Staff Review Application",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1786604400
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787814000,
+          "endDate": 1787814000
         }
       ],
       "documents": [
@@ -195577,7 +195685,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "The City is considering a Rezoning application to convert the existing building from a single- family dwelling to a duplex with suites.\n\nConcurrent with Development Permit with Variance Application No. 00270. Refer to rezoning file for all documentation.\n\nAPPLICATION RETIRED: X-REFERENCE DDP01012."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "221 LINDEN AVE",
@@ -202709,7 +202818,7 @@
     },
     {
       "primaryStreetName": "1961 DOUGLAS ST",
-      "applicant": "MATTHEW BIANCHINI",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01130",
@@ -202717,7 +202826,7 @@
       "addresses": [
         "1961 DOUGLAS ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for changes from the original approvals.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -202735,17 +202844,17 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1784617200,
+          "endDate": 1784617200
         }
       ],
       "documents": [
         {
-          "docName": "2026-03-20 - Plans_Submission 1of2 For DT",
+          "docName": "FINAL APPROVED PLANS_1OF2",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2B573063-B03C-445C-A48C-746C57EE7007&folderId=42360C260320133041233406"
         },
         {
-          "docName": "2026-03-20 - Plans_Submission 2of2 For DT",
+          "docName": "FINAL APPROVED PLANS_2OF2",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A8A8A86A-E18B-40B8-9FAC-33E7C70A6D06&folderId=42360C260320133041233406"
         }
       ],
@@ -202794,7 +202903,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf a Rezoning Application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "639 FOUL BAY RD",
@@ -225220,7 +225330,7 @@
     },
     {
       "primaryStreetName": "1923 DAVIE ST",
-      "applicant": "SAVAGE, BARRY",
+      "applicant": "",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00248",
@@ -225232,7 +225342,7 @@
         "1905 FORT ST",
         "1907 FORT ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is considering a Development Permit with Variance application to construct a mixed use building. See REZ00859 for project details. APPROVED BY COUNCIL JULY 9, 2026",
       "progressSections": [],
       "documents": [],
@@ -225257,7 +225367,7 @@
           "relatedPermitID": "REZ00859",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1693382400,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "The City is considering a Rezoning application to allow for a six-storey mixed-use building.\n\nConcurrent with DPV00248.\n\nAPPROVED BY COUNCIL JULY 9, 2026"
         },
         {
@@ -265223,7 +265333,7 @@
     },
     {
       "primaryStreetName": "1923 DAVIE ST",
-      "applicant": "BARRY SAVAGE",
+      "applicant": "",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00859",
@@ -265235,7 +265345,7 @@
         "1905 FORT ST",
         "1907 FORT ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is considering a Rezoning application to allow for a six-storey mixed-use building. Concurrent with DPV00248. APPROVED BY COUNCIL JULY 9, 2026",
       "progressSections": [
         {
@@ -265339,18 +265449,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1753081200,
           "endDate": 1755673200
-        },
-        {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
-          "taskType": "Council Meeting - Bylaw Introduction",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to hold the Public Hearing and to hear presentations from the applicant and the public.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
-          "taskType": "Council Meeting - Public Comment",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [
@@ -265459,14 +265557,6 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FC860827-00C3-479B-9DAB-74C26FE19DFD&folderId=53740C230830100501497708"
         },
         {
-          "docName": "2025-10-23-Plans_Revisions_Bubbled_1of2",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97413C251029090718354144&folderId=53740C230830100501497708"
-        },
-        {
-          "docName": "2025-10-23-Plans_Revisions_Bubbled_2of2",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97413C251029090718456569&folderId=53740C230830100501497708"
-        },
-        {
           "docName": "26-001 Amended.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=69483C260616155639600913&folderId=53740C230830100501497708"
         },
@@ -265477,6 +265567,14 @@
         {
           "docName": "26-052.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=69483C260616155639706545&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS_1of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97413C251029090718354144&folderId=53740C230830100501497708"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS_2of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97413C251029090718456569&folderId=53740C230830100501497708"
         }
       ],
       "city": "Victoria",
@@ -265500,7 +265598,7 @@
           "relatedPermitID": "DPV00248",
           "relatedPermitType": "Development Permit with Variance",
           "relatedPermitApplicationDate": 1693382400,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "The City is considering a Development Permit with Variance application to construct a mixed use building. \n\nSee REZ00859 for project details.\n\nAPPROVED BY COUNCIL JULY 9, 2026"
         },
         {
