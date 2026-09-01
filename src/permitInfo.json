@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788173701,
+  "dateRetrieved": 1788260031,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -102979,6 +102979,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1731999600,
           "endDate": 1779778800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1779778800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -102992,7 +102998,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1788260033,
       "relatedPermits": [],
       "storeys": 2
     },
@@ -104049,7 +104055,19 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1784703600,
-          "endDate": null
+          "endDate": 1788159600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1788159600,
+          "endDate": 1788159600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1788159600,
+          "endDate": 1788159600
         }
       ],
       "documents": [
@@ -104067,7 +104085,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784804009,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26597",
@@ -104404,33 +104422,21 @@
           "endDate": 1779951600
         },
         {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1779951600,
-          "endDate": 1780383600
-        },
-        {
           "taskDescription": "Application submission review for completeness",
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1780383600,
           "endDate": 1780383600
         },
         {
-          "taskDescription": "File Manager review of application for completeness",
-          "taskType": "FILE MANAGER INTAKE",
-          "startDate": 1780383600,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1779951600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786475769,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00161",
@@ -105001,12 +105007,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787727600,
+          "endDate": 1787814000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1787814000,
+          "endDate": 1787814000
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1788159600,
+          "endDate": 1788159600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": 1788159600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787828009,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00142",
@@ -105021,6 +105045,120 @@
           "relatedPermitApplicationDate": 1780905600,
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "See CBP00142 - this application should be a commercial permit"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3839 QUADRA ST",
+      "applicant": "ABSTRACT DEVELOPMENTS",
+      "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPA01122",
+      "applicationDate": 1788159600,
+      "addresses": [
+        "3839 QUADRA ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO AMEND DPR00753 RELATED TO SITE LAYOUT AND BUILDING CONSTRUCTION.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1788159600,
+          "endDate": 1788159600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1788159600,
+          "endDate": 1788159600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1788159600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1788159600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PLM25394",
+          "relatedPermitType": "PLUMBING PERMIT",
+          "relatedPermitApplicationDate": 1717574400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "NEW FIRE SPRINKLERS -  COMPLEX"
+        },
+        {
+          "relatedPermitID": "PLM24644",
+          "relatedPermitType": "PLUMBING PERMIT",
+          "relatedPermitApplicationDate": 1687161600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "COMPLEX- NEW FIXTURES AND SITE SERVICES FOR NEW CONDO BUILDING"
+        },
+        {
+          "relatedPermitID": "BLA01763",
+          "relatedPermitType": "BLASTING PERMIT",
+          "relatedPermitApplicationDate": 1683792000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "COMPLEX  - BLASTING FOR FOUNDATION FOR 6 STOREY CONDOMINIUM BUILDING - THE CADENCE"
+        },
+        {
+          "relatedPermitID": "BLA01759",
+          "relatedPermitType": "BLASTING PERMIT",
+          "relatedPermitApplicationDate": 1681804800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "COMPLEX - BLASTING FOR FOUNDATION FOR 6 STOREY CONDOMINIUM BUILDING - THE CADENCE"
+        },
+        {
+          "relatedPermitID": "BLA01755",
+          "relatedPermitType": "BLASTING PERMIT",
+          "relatedPermitApplicationDate": 1679299200,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "COMPLEX - BLASTING FOR FOUNDATION FOR 6 STOREY CONDOMINIUM BUILDING - THE CADENCE"
+        },
+        {
+          "relatedPermitID": "TRP20149",
+          "relatedPermitType": "TREE PERMIT",
+          "relatedPermitApplicationDate": 1675929600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "Tree permit in support of BLC06503 and BLC06502. \n\nFor the removal of one Bylaw protected tree on 1119 Palmer Street and the removal of 4 non-Bylaw protected trees on the same property."
+        },
+        {
+          "relatedPermitID": "BLA01751",
+          "relatedPermitType": "BLASTING PERMIT",
+          "relatedPermitApplicationDate": 1675152000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "COMPLEX - BLASTING FOR FOUNDATION FOR 6 STOREY CONDOMINIUM BUILDING - THE CADENCE"
+        },
+        {
+          "relatedPermitID": "BLA01749",
+          "relatedPermitType": "BLASTING PERMIT",
+          "relatedPermitApplicationDate": 1672732800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "BLASTING FOR COMPLEX FOUNDATION FOR 6 STOREY CONDOMINIUM BUILDING - THE CADENCE"
+        },
+        {
+          "relatedPermitID": "BLA01739",
+          "relatedPermitType": "BLASTING PERMIT",
+          "relatedPermitApplicationDate": 1665561600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "BLASTING FOR COMPLEX FOUNDATION FOR 6 STOREY CONDOMINIUM BUILDING - THE CADENCE"
+        },
+        {
+          "relatedPermitID": "TRP19659",
+          "relatedPermitType": "TREE PERMIT",
+          "relatedPermitApplicationDate": 1659081600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Tree Permit in Support of SVS02204, BLC06503 and BLC06502 \n\nFor the removal of 13 trees and working within the protected root zone of trees on the site."
         }
       ]
     },
@@ -118645,7 +118783,7 @@
         "3953 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 150 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES",
+      "purpose": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -118711,11 +118849,17 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1787554800,
-          "endDate": null
+          "endDate": 1788159600
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
+          "startDate": 1788159600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
           "startDate": null,
           "endDate": null
         }
@@ -118739,7 +118883,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787741604,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -119058,7 +119202,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1780484009,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00811",
@@ -119072,7 +119216,7 @@
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1776931200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 150 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
+          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
         }
       ],
       "major": true,
@@ -121622,12 +121766,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787900400,
+          "endDate": 1788159600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1788159600,
+          "endDate": 1788159600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1788159600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788000804,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00858",
@@ -122373,18 +122535,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1787295600,
-          "endDate": null
+          "endDate": 1788159600
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1788159600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787295600,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00665",
@@ -127678,7 +127840,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1779879181,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -127692,7 +127854,7 @@
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1776931200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 150 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
+          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
         }
       ],
       "major": true,
@@ -133387,7 +133549,7 @@
         "828 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey ( 29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and  six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage1) - 09-Apr-2024\nRevision#2 \nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel  units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n\nNOTE: FOR STAGE 4: OPEN MECHANICAL REVIEW\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey ( 29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and  six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage1) - 09-Apr-2024\nRevision#2  ( Stage 3) -......\nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel  units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n- VIP lounge & L6 food prep excluded from Stage 3\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -133406,7 +133568,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787482616,
+      "lastUpdated": 1788260262,
       "relatedPermits": [],
       "projectValue": 101000000,
       "latitude": 49.277816,
@@ -144125,7 +144287,7 @@
         "320 N NANAIMO STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 4-storey multiple dwelling building (stacked townhouses) with 21 dwelling units over one level of underground parking with bike rooms, a storage room, service rooms, and garbage/recycling room, having a vehicular access from the lane. \n\nThis is a CP Process Permit and the applicant is Michael Meszaros, P. Eng., CP.\nBuilding to be sprinklered to NFPA 13R. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON JUL 01, 2024***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 21/25, A. Min)\n\nStage 1 - REVISION #1 (Sep 23/25, A. Min): Updated Excavation & Shoring Drawings to resolve Building Branch Review & Engineering items at Stage 1 including AL-2025-00043 and to release Stage 1 drawings. \n\nStage 1 - REVISION #2 (Nov 07/25, A. Min): Updated Excavation & Shoring Drawings. \n\nStage 1 - REVISION #3 (IN PROCESS): Updated Excavation & Shoring Drawings. \n\nStage 2 - Foundation to Grade (Mar 31/26, A. Min) \n\nStage 3 - Full Construction (IN PROCESS)\nProject Value: $4,750,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: SILVER STAR ENTERPRISES LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a new 4-storey multiple dwelling building (stacked townhouses) with 21 dwelling units over one level of underground parking with bike rooms, a storage room, service rooms, and garbage/recycling room, having a vehicular access from the lane. \n\nThis is a CP Process Permit and the applicant is Michael Meszaros, P. Eng., CP.\nBuilding to be sprinklered to NFPA 13R. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON JUL 01, 2024***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 21/25, A. Min)\n\nStage 1 - REVISION #1 (Sep 23/25, A. Min): Updated Excavation & Shoring Drawings to resolve Building Branch Review & Engineering items at Stage 1 including AL-2025-00043 and to release Stage 1 drawings. \n\nStage 1 - REVISION #2 (Nov 07/25, A. Min): Updated Excavation & Shoring Drawings. \n\nStage 1 - REVISION #3 (IN PROCESS): Updated Excavation & Shoring Drawings with eliminated offset between the shotcrete shoring and the proposed blind-foamed foundation wall.\n\nStage 2 - Foundation to Grade (Mar 31/26, A. Min) \n\nStage 3 - Full Construction (IN PROCESS)\nProject Value: $4,750,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: SILVER STAR ENTERPRISES LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -144144,7 +144306,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788260262,
       "relatedPermits": [],
       "projectValue": 4750000,
       "latitude": 49.288335,
@@ -271974,15 +272136,21 @@
           "endDate": 1785308400
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1785308400,
+          "endDate": 1788159600
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1759906800,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1785308400,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1788159600,
           "endDate": null
         },
         {
@@ -272071,7 +272239,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786475769,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000658",
@@ -272456,7 +272624,8 @@
       "folderNumber": "REZ00914",
       "applicationDate": 1787727600,
       "addresses": [
-        "840 HUMBOLDT ST"
+        "840 HUMBOLDT ST",
+        "114-840 HUMBOLDT ST"
       ],
       "status": "ACTIVE",
       "purpose": "Zoning amendment to allow personal services in CD-4 zone. No changes to the building or premises are proposed or required",
@@ -272509,7 +272678,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787727600,
+      "lastUpdated": 1788260033,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00486",
