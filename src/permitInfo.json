@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788260031,
+  "dateRetrieved": 1788346389,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -21425,6 +21425,28 @@
       "relatedPermits": [],
       "latitude": 49.153192,
       "longitude": -122.921504
+    },
+    {
+      "primaryStreetName": "CMPLX 7728 119A ST",
+      "applicant": "",
+      "cityApplicationType": "Multi-Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023309",
+      "applicationDate": 1788346638,
+      "addresses": [
+        "CMPLX 7728 119A ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To alter an exsiting building",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1788346638,
+      "relatedPermits": [],
+      "latitude": 49.143636,
+      "longitude": -122.891315
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -105163,6 +105185,69 @@
       ]
     },
     {
+      "primaryStreetName": "3551 RAVINE WAY",
+      "applicant": "MALLEN GOWING BERZINS ARCHITEC",
+      "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPA01123",
+      "applicationDate": 1787900400,
+      "addresses": [
+        "3551 RAVINE WAY"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO AMEND DPR89-00657 IN REGARD TO PARKING LAYOUT.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1787900400,
+          "endDate": 1788246000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1788246000,
+          "endDate": 1788246000
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1788246000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1788246000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CBP00068",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1765958400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "TENANT IMPROVEMENT FOR ASPIRE DAYCARE"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "640 BEAVER LAKE RD",
       "applicant": "CALID SERVICES LTD.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -117393,6 +117478,24 @@
           "endDate": 1787295600
         },
         {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1788246000,
+          "endDate": 1788246000
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1788246000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": null,
@@ -117414,7 +117517,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787395978,
+      "lastUpdated": 1788346391,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00800",
@@ -118870,8 +118973,8 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=00741CF3-6C7C-4BEE-85D9-34D451108FAE&folderId=65996C260423132902715808"
         },
         {
-          "docName": "REVISED LANDSCAPE PLAN_AUG 21 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6EDB0529-82AD-4E34-B465-BEEC5CB84570&folderId=65996C260423132902715808"
+          "docName": "REVISED LANDSCAPE_AUG 25 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=7075E92C-0E77-49FA-8286-3E5A5EA51A4E&folderId=65996C260423132902715808"
         },
         {
           "docName": "REVISED SHADOW PLANS_AUG 21 2026",
@@ -118883,7 +118986,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1788346391,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -120226,13 +120329,13 @@
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": null,
+          "startDate": 1788246000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788000804,
+      "lastUpdated": 1788346391,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00796",
@@ -128481,15 +128584,15 @@
           "endDate": 1787727600
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787727600,
+      "lastUpdated": 1788346391,
       "relatedPermits": [],
       "major": true
     },
@@ -130308,7 +130411,14 @@
       ],
       "status": "ACTIVE",
       "purpose": "Development Permit application for a 5 storey 140 unit multi-unit residential development with surface and underground parking.",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
       "documents": [
         {
           "docName": "Plans",
@@ -130318,7 +130428,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1787655378,
+      "lastUpdated": 1788346607,
       "relatedPermits": [],
       "storeys": 5
     },
@@ -130725,7 +130835,14 @@
       ],
       "status": "ACTIVE",
       "purpose": "Development Variance Permit application to relax the minimum required interior side, exterior side, and rear setbacks to allow for a new residential dwelling to be located in the rear yard.",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Application under review by staff.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
       "documents": [
         {
           "docName": "Plans",
@@ -130735,7 +130852,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1787655378,
+      "lastUpdated": 1788346607,
       "relatedPermits": []
     },
     {
@@ -133549,7 +133666,7 @@
         "828 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey ( 29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and  six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage1) - 09-Apr-2024\nRevision#2  ( Stage 3) -......\nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel  units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n- VIP lounge & L6 food prep excluded from Stage 3\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey (29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage 1) - 09-Apr-2024\nRevision#2 (Stage 3) - 31-Aug-2026\nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n- VIP lounge & L6 food prep excluded from Stage 3\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -133568,7 +133685,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1788260262,
+      "lastUpdated": 1788346644,
       "relatedPermits": [],
       "projectValue": 101000000,
       "latitude": 49.277816,
@@ -144287,7 +144404,7 @@
         "320 N NANAIMO STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 4-storey multiple dwelling building (stacked townhouses) with 21 dwelling units over one level of underground parking with bike rooms, a storage room, service rooms, and garbage/recycling room, having a vehicular access from the lane. \n\nThis is a CP Process Permit and the applicant is Michael Meszaros, P. Eng., CP.\nBuilding to be sprinklered to NFPA 13R. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON JUL 01, 2024***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 21/25, A. Min)\n\nStage 1 - REVISION #1 (Sep 23/25, A. Min): Updated Excavation & Shoring Drawings to resolve Building Branch Review & Engineering items at Stage 1 including AL-2025-00043 and to release Stage 1 drawings. \n\nStage 1 - REVISION #2 (Nov 07/25, A. Min): Updated Excavation & Shoring Drawings. \n\nStage 1 - REVISION #3 (IN PROCESS): Updated Excavation & Shoring Drawings with eliminated offset between the shotcrete shoring and the proposed blind-foamed foundation wall.\n\nStage 2 - Foundation to Grade (Mar 31/26, A. Min) \n\nStage 3 - Full Construction (IN PROCESS)\nProject Value: $4,750,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: SILVER STAR ENTERPRISES LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a new 4-storey multiple dwelling building (stacked townhouses) with 21 dwelling units over one level of underground parking with bike rooms, a storage room, service rooms, and garbage/recycling room, having a vehicular access from the lane. \n\nThis is a CP Process Permit and the applicant is Michael Meszaros, P. Eng., CP.\nBuilding to be sprinklered to NFPA 13R. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON JUL 01, 2024***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 21/25, A. Min)\n\nStage 1 - REVISION #1 (Sep 23/25, A. Min): Updated Excavation & Shoring Drawings to resolve Building Branch Review & Engineering items at Stage 1 including AL-2025-00043 and to release Stage 1 drawings. \n\nStage 1 - REVISION #2 (Nov 07/25, A. Min): Updated Excavation & Shoring Drawings. \n\nStage 1 - REVISION #3 (Aug 31/26, A. Min): Updated Excavation & Shoring Drawings with eliminated offset between the shotcrete shoring and the proposed blind-foamed foundation wall.\n\nStage 2 - Foundation to Grade (Mar 31/26, A. Min) \n\nStage 3 - Full Construction (IN PROCESS)\nProject Value: $4,750,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: SILVER STAR ENTERPRISES LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -144306,7 +144423,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1788260262,
+      "lastUpdated": 1788346644,
       "relatedPermits": [],
       "projectValue": 4750000,
       "latitude": 49.288335,
@@ -185896,7 +186013,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1794988800,
+      "lastUpdated": 1787326858,
       "relatedPermits": [],
       "latitude": 49.252689,
       "longitude": -123.138415
@@ -204388,12 +204505,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1786690800,
-          "endDate": null
+          "endDate": 1787900400
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1787900400,
           "endDate": null
         },
         {
@@ -204418,7 +204535,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788000804,
+      "lastUpdated": 1788346391,
       "relatedPermits": []
     },
     {
@@ -221412,11 +221529,11 @@
         "205 QUEBEC ST"
       ],
       "status": "ACTIVE",
-      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00804 FOR PROJECT DETAILS. The City is considering a Rezoning application to a site-specific zone for a new development which includes commercial and residential uses. The proposal requires an amendment to the Official Community Plan.",
+      "purpose": "SEE CONCURRENT REZONING APPLICATION REZ00804 FOR PROJECT DETAILS. The City is considering a Rezoning application to a site-specific zone for a new development which includes commercial and residential uses.",
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1770983808,
+      "lastUpdated": 1788346391,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00804",
@@ -258180,14 +258297,14 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1788346391,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00191",
           "relatedPermitType": "Development Permit with Variance",
           "relatedPermitApplicationDate": 1640160000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "SEE CONCURRENT REZONING APPLICATION REZ00804 FOR PROJECT DETAILS.\n\nThe City is considering a Rezoning application to a site-specific zone for a new development which includes commercial and residential uses. The proposal requires an amendment to the Official Community Plan."
+          "relatedPermitDescription": "SEE CONCURRENT REZONING APPLICATION REZ00804 FOR PROJECT DETAILS.\n\nThe City is considering a Rezoning application to a site-specific zone for a new development which includes commercial and residential uses."
         },
         {
           "relatedPermitID": "CLC00358",
@@ -273810,6 +273927,35 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "181 ISLAND HWY",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP 2026-03",
+      "applicationDate": 1788346607,
+      "addresses": [
+        "181 ISLAND HWY"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The application proposes an alternate lanscaping and outdoor amenity structure.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2026 08 25 Letter to Mayor & Council",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2026-03 LMC.pdf"
+        },
+        {
+          "docName": "2026 06 05 Plans",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2026-03 Plans.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "View Royal",
+      "lastUpdated": 1788346607,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "94 Talcott Rd",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -274940,7 +275086,7 @@
       "*": "https://langford.ca/wp-content/uploads/2026/07/July-2026-Public-Stats.pdf"
     },
     "Highlands": {
-      "*": "https://www.highlands.ca/media/1699"
+      "*": "https://www.highlands.ca/media/1797"
     },
     "Juan de Fuca": {
       "DP": "https://www.crd.ca/media/file/jdf-development-permits-0",
