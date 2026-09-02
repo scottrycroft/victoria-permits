@@ -138,6 +138,9 @@ const permitsList: PermitsEntity[] = permitInfo.permits;
 const permitsViewedTodaySet = reactive(new Set<string>());
 initPermitsViewedToday(permitsViewedTodaySet);
 
+const permitsViewedSet = reactive(new Set<string>());
+initPermitsViewed(permitsViewedSet);
+
 const viewedDocs = reactive(new Map<string, boolean>());
 initViewedDocs(viewedDocs);
 
@@ -159,6 +162,13 @@ async function initViewedDocs(viewedDocs: Map<string, boolean>) {
 	for (const dbClickedDoc of dbClickedDocs) {
 		const mapKey = getViewedDocMapKey(dbClickedDoc);
 		viewedDocs.set(mapKey, true);
+	}
+}
+
+async function initPermitsViewed(permitsViewedSet: Set<string>) {
+	const viewedPermits = await db.lastSeenPermits.toArray();
+	for (const viewedPermit of viewedPermits) {
+		permitsViewedSet.add(getPermitKey(viewedPermit));
 	}
 }
 
@@ -360,6 +370,7 @@ async function clearDocs() {
 async function markViewed() {
 	if (!permit.value) return;
 
+	permitsViewedSet.add(getPermitKey(permit.value));
 	// Run clearDocs and geocoding simultaneously
 	await Promise.all([clearDocs(), geocodingService.geocodeAndCachePermit(permit.value)]);
 
@@ -371,6 +382,7 @@ const dateRetrieved = ref(permitInfo.dateRetrieved);
 const permitApplications = ref(createPermitApplications(permitsList, daysWithInfo));
 
 const showOnlyUnviewedDocs = ref<boolean>(false);
+const showOnlyViewedPermits = ref<boolean | null>(null);
 const showOnlyFavourites = ref(false);
 const showOnlyMinor = ref<boolean | null>(false);
 const showOnlyMajor = ref<boolean | null>(null);
@@ -387,46 +399,54 @@ const dateFilterModeOptions = [
 ];
 
 const filteredPermitApplications = computed(() => {
-let filtered = permitApplications.value;
+	let filtered = permitApplications.value;
 
-// Filter by favourites if enabled
-if (showOnlyFavourites.value) {
-	filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
-}
+	// Filter by favourites if enabled
+	if (showOnlyFavourites.value) {
+		filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
+	}
+	
+	// Filter by viewed status
+	if (showOnlyViewedPermits.value !== null) {
+		filtered = filtered.filter((permit) => {
+			const permitIsViewed = permitsViewedSet.has(getPermitKey(permit));
+			return showOnlyViewedPermits.value === permitIsViewed;
+		});
+	}
 
-// Filter by minor flag (permit.minor is set by data-source or user override via PermitFlagService)
-if (showOnlyMinor.value !== null) {
-	filtered = filtered.filter((permit) =>
-		showOnlyMinor.value ? permit.minor === true : permit.minor !== true
-	);
-}
-// Filter by major flag (permit.major is set by data-source or user override via PermitFlagService)
-if (showOnlyMajor.value !== null) {
-	filtered = filtered.filter((permit) =>
-		showOnlyMajor.value ? permit.major === true : permit.major !== true
-	);
-}
+	// Filter by minor flag (permit.minor is set by data-source or user override via PermitFlagService)
+	if (showOnlyMinor.value !== null) {
+		filtered = filtered.filter((permit) =>
+			showOnlyMinor.value ? permit.minor === true : permit.minor !== true
+		);
+	}
+	// Filter by major flag (permit.major is set by data-source or user override via PermitFlagService)
+	if (showOnlyMajor.value !== null) {
+		filtered = filtered.filter((permit) =>
+			showOnlyMajor.value ? permit.major === true : permit.major !== true
+		);
+	}
 
-// Filter by approval status if enabled
-if (showOnlyApprovalStatus.value !== null) {
-	filtered = filtered.filter((permit) => {
-		if (showOnlyApprovalStatus.value === "undefined") {
-			return !permit.approvalStatus;
-		}
-		return permit.approvalStatus === showOnlyApprovalStatus.value;
-	});
-}
+	// Filter by approval status if enabled
+	if (showOnlyApprovalStatus.value !== null) {
+		filtered = filtered.filter((permit) => {
+			if (showOnlyApprovalStatus.value === "undefined") {
+				return !permit.approvalStatus;
+			}
+			return permit.approvalStatus === showOnlyApprovalStatus.value;
+		});
+	}
 
-// Filter by storeys if a value is set
-if (storeysFilterValue.value !== null) {
-	filtered = filtered.filter((permit) => {
-		if (permit.storeys == null) return false;
-		if (storeysFilterMode.value === "gte") {
-			return permit.storeys >= storeysFilterValue.value!;
-		}
-		return permit.storeys <= storeysFilterValue.value!;
-	});
-}
+	// Filter by storeys if a value is set
+	if (storeysFilterValue.value !== null) {
+		filtered = filtered.filter((permit) => {
+			if (permit.storeys == null) return false;
+			if (storeysFilterMode.value === "gte") {
+				return permit.storeys >= storeysFilterValue.value!;
+			}
+			return permit.storeys <= storeysFilterValue.value!;
+		});
+	}
 
 	// Filter by unviewed docs if enabled
 	if (!showOnlyUnviewedDocs.value) {
@@ -1172,6 +1192,22 @@ onBeforeUnmount(() => {
 								optionValue="value"
 								placeholder="All"
 								style="min-width: 150px"
+							/>
+						</div>
+						<div class="flex align-items-center gap-2">
+							<label for="filterViewed">Viewed permits:</label>
+							<Select
+								v-model="showOnlyViewedPermits"
+								inputId="filterViewed"
+								:options="[
+									{ label: 'All', value: null },
+									{ label: 'Viewed only', value: true },
+									{ label: 'Unviewed only', value: false }
+								]"
+								optionLabel="label"
+								optionValue="value"
+								placeholder="All"
+								style="min-width: 188px"
 							/>
 						</div>
 						<div class="flex align-items-center gap-2">
