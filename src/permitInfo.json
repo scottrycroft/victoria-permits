@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788346389,
+  "dateRetrieved": 1788432808,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15632,14 +15632,21 @@
       "addresses": [
         "1510 FARRELL CRES"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a duplex dwelling",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1788307200,
+          "endDate": 1788307200
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1788433050,
       "relatedPermits": [],
       "latitude": 49.030295,
       "longitude": -123.061449
@@ -87923,6 +87930,12 @@
           "endDate": 1762758000
         },
         {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": 1789974000,
+          "endDate": null
+        },
+        {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "*FILE COMPLETED",
           "startDate": null,
@@ -87940,7 +87953,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00199",
@@ -88972,6 +88985,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": 1788850800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": null,
@@ -88980,12 +88999,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
-          "taskType": "ADVISORY BODY MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -89017,7 +89030,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1784199212,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017937",
@@ -89151,7 +89164,7 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
+          "startDate": 1789542000,
           "endDate": null
         },
         {
@@ -89182,7 +89195,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1787395978,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017697",
@@ -89233,7 +89246,7 @@
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
+          "startDate": 1789542000,
           "endDate": null
         },
         {
@@ -89264,7 +89277,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1787914435,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017793",
@@ -92186,12 +92199,12 @@
           "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
           "taskType": "*COUNCIL - READINGS",
           "startDate": 1785135600,
-          "endDate": null
+          "endDate": 1785135600
         },
         {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
-          "startDate": 1785135600,
+          "startDate": 1789974000,
           "endDate": null
         },
         {
@@ -92228,7 +92241,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1784976370,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00199",
@@ -118886,7 +118899,7 @@
         "3953 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES",
+      "purpose": "TO REZONE FROM RS-14 TO C-16 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -118986,7 +118999,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1788346391,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -119305,7 +119318,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00811",
@@ -119319,7 +119332,7 @@
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1776931200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
+          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-16 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
         }
       ],
       "major": true,
@@ -127943,7 +127956,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -127957,7 +127970,7 @@
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1776931200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
+          "relatedPermitDescription": "TO REZONE FROM RS-14 TO C-16 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
         }
       ],
       "major": true,
@@ -150129,7 +150142,7 @@
     },
     {
       "primaryStreetName": "2851 E 49TH AVENUE",
-      "applicant": "Khaleel Sumar",
+      "applicant": "Jeff Mitchell DBA: Certified Professional",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2024-04481",
@@ -150138,7 +150151,7 @@
         "2851 E 49TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit is for site work and the construction of a basement storage garage for the following development:\r\n\r\nTo construct 3 residential buildings (143 secured market rental units) consisting of:\r\n\r\n Building 1 - 6-storey apartment building (South)\r\n                  indoor & outdoor amenities on Level 6\r\n Building 2 - 3-storey townhouse building (Northwest)\r\n Building 3 - 3-storey townhouse building (Northeast)\r\n\r\nall over 1 level of underground parking accessed from the lane.\r\n\r\nNotes:\r\n1. This permit has been reviewed under the provisions of VBBL 2019.\r\n2. A radio antenna system is required.\r\n\r\nRefer to BP-2024-05250 for Building 1\r\nRefer to BP-2024-05251 for Building 2\r\nRefer to BP-2024-05252 for Building 3\r\n\r\nSTAGED CONSTRUCTION\r\nSTAGE I: Excavation & Shoring (S.Yoo)\r\nISSUED: May 8, 2025\r\n\r\nREVISION I: Revisions to Shoring Drawings (S.Yoo)\r\nISSUED: Jul. 9, 2025\r\n\r\nSTAGE II: Full Construction (S.Yoo)\r\nISSUED: Sept. 4, 2025\nProject Value: $40,658,400.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Killarney\nContractor: Aragon Construction Management Corporation",
+      "purpose": "Certified Professional Program - New Building - This permit is for site work and the construction of a basement storage garage for the following development:\n\nTo construct 3 residential buildings (143 secured market rental units) consisting of:\n\n Building 1 - 6-storey apartment building (South)\n                  indoor & outdoor amenities on Level 6\n Building 2 - 3-storey townhouse building (Northwest)\n Building 3 - 3-storey townhouse building (Northeast)\n\nall over 1 level of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nRefer to BP-2024-05250 for Building 1\nRefer to BP-2024-05251 for Building 2\nRefer to BP-2024-05252 for Building 3\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: May 8, 2025\n\nREVISION I: Revisions to Shoring Drawings (S.Yoo)\nISSUED: Jul. 9, 2025\n\nSTAGE II: Full Construction (S.Yoo)\nISSUED: Sept. 4, 2025\n\nREVISION II: Change of Certified Professional - In review\nProject Value: $40,658,400.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Killarney\nContractor: Aragon Construction Management Corporation",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -150169,7 +150182,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788433057,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-05250",
@@ -166519,7 +166532,7 @@
         "3445 ADANAC STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To develop a three-storey 4-unit Multiple Dwelling \"Multiplex\" with four surface parking spaces at the rear having access from the lane. \n\nTo be reviewed under the 2019 VBBL and sprinklered to NFPA 13R\n\nRev #1 pending - related to DP-2026-00505 (July 16, 2026) - changes to units #1, #2, #3, and #4\n1. Main and 2nd floor room layouts changed from 2BR to 3 BR per unit.\n2. Main and 2nd floor room layouts changed to include 1 powder room per unit.\n3. Main and 2nd floor bathrooms and mechanical rooms re-arranged.\n4. Main and 2nd floor washer/dryer (W/D) closets removed, W/D now in kitchen.\n5. Remove closets inside 10’7” x 15’ 11½” bedrooms on main and 2nd floor.\n6. Main floor entrances to all four units arranged next to each other.\n7. Main floor front 6’x5’ windows moved to better accommodate the new entrance locations.\n8. Main floor rear entrance and stair added.\n9. Top roof overhung removed. \n10. Front entrance canopy support posts added.\n11. 2nd floor window made bigger (changed from 6’x5’ to 8’x5’).\n12. Basement bathrooms re-arranged and added a pocket door.\n13. Basement crawl space access hutch door added. \n14. Basement crawl space 4’0” x 1’6” glass blocks changed to windows\n15. Exterior wall assembly changed to add 1 layer of type X 5/8\" drywall\nProject Value: $1,800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise",
+      "purpose": "High Density Housing / Commercial - New Building - ***PART 5 ***To develop a three-storey 4-unit Multiple Dwelling \"Multiplex\" with four surface parking spaces at the rear having access from the lane. \n\nTo be reviewed under the 2019 VBBL and sprinklered to NFPA 13R\n\nRev #1 pending - related to DP-2026-00505 (July 16, 2026) - changes to units #1, #2, #3, and #4\n1. Main and 2nd floor room layouts changed from 2BR to 3 BR per unit.\n2. Main and 2nd floor room layouts changed to include 1 powder room per unit.\n3. Main and 2nd floor bathrooms and mechanical rooms re-arranged.\n4. Main and 2nd floor washer/dryer (W/D) closets removed, W/D now in kitchen.\n5. Remove closets inside 10’7” x 15’ 11½” bedrooms on main and 2nd floor.\n6. Main floor entrances to all four units arranged next to each other.\n7. Main floor front 6’x5’ windows moved to better accommodate the new entrance locations.\n8. Main floor rear entrance and stair added.\n9. Top roof overhung removed. \n10. Front entrance canopy support posts added.\n11. 2nd floor window made bigger (changed from 6’x5’ to 8’x5’).\n12. Basement bathrooms re-arranged and added a pocket door.\n13. Basement crawl space access hutch door added. \n14. Basement crawl space 4’0” x 1’6” glass blocks changed to windows\n15. Exterior wall assembly changed to add 1 layer of type X 5/8\" drywall\nProject Value: $1,800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -166538,7 +166551,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788433057,
       "relatedPermits": [],
       "projectValue": 1800000,
       "latitude": 49.277683,
@@ -205233,9 +205246,14 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2026-08-27 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=93153C260827125652163307&folderId=EiI2YgOpeUS6u9/uX+iKtg"
+        }
+      ],
       "city": "Victoria",
-      "lastUpdated": 1787814000,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01071",
@@ -229239,8 +229257,20 @@
           "endDate": null
         },
         {
+          "taskDescription": "City receives updated plans from the applicant",
+          "taskType": "Received Revised Plans",
+          "startDate": 1788332400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -229264,7 +229294,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1788432810,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00897",
