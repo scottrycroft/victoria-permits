@@ -16,8 +16,10 @@ const hasCoordinates = computed(
 // Check if the address contains a street number (starts with a digit)
 const addressHasNumber = computed(() => /\d/.test(props.address));
 
+const addressCity = computed(() => props.city === "Vancouver-Rezoning" ? "Vancouver" : props.city);
+
 const googleHref = computed(() => {
-	const addressPart = `${encodeURIComponent(props.address)}, ${encodeURIComponent(props.city)}`;
+	const addressPart = `${encodeURIComponent(props.address)}, ${encodeURIComponent(addressCity.value)}`;
 	if (hasCoordinates.value) {
 		if (!props.address) {
 			// No address but has coordinates — link directly to lat/lng
