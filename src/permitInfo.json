@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788519193,
+  "dateRetrieved": 1788605614,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -9742,9 +9742,21 @@
           "endDate": 1762758000
         },
         {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading failed, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "3RD READING",
+          "startDate": 1783926000,
+          "endDate": 1783926000
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading failed, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "3RD READING",
+          "startDate": 1784012400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nFile copy of signed and adopted amendment to Attachments.\nReview Checklist.\n\nWhen COMPLETE, the Issued, Approved, and Completed Date will bet set for the entire folder, and the Folder Status will be set to COMPLETE\n\nIf adoption failed, drop down to FAILED, the entire Folder will be set to DENIED.",
           "taskType": "ADOPTION",
-          "startDate": 1783926000,
+          "startDate": 1784012400,
           "endDate": null
         }
       ],
@@ -9767,7 +9779,7 @@
         }
       ],
       "city": "Colwood",
-      "lastUpdated": 1782903192,
+      "lastUpdated": 1788605616,
       "relatedPermits": []
     },
     {
@@ -21393,6 +21405,28 @@
       "relatedPermits": [],
       "latitude": 49.148706,
       "longitude": -122.929003
+    },
+    {
+      "primaryStreetName": "11398 88A AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023282",
+      "applicationDate": 1788605861,
+      "addresses": [
+        "11398 88A AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1788605861,
+      "relatedPermits": [],
+      "latitude": 49.163865,
+      "longitude": -122.906926
     },
     {
       "primaryStreetName": "4936 4 AVE",
@@ -94015,6 +94049,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "12211 Vulcan Way Vipul Chauhan (778)657-6188",
+      "applicant": "Altima (604)603-7609",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-24-036447-000-00-BC",
+      "applicationDate": 1787472000,
+      "addresses": [
+        "12211 Vulcan Way Vipul Chauhan (778)657-6188"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Vehicle Storage\nWork Proposed: New\nConstruction Value: $105,000.00 1 $105,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787472000,
+          "endDate": 1787472000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1788605857,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 105000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "11080 King Road",
       "applicant": "Kulwinder Gill (604)618-3156",
       "cityApplicationType": "Building Permit",
@@ -99144,7 +99208,7 @@
       "addresses": [
         "8511 Fairfax Crescent Melanie Dee (604)241-2720"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Single Family/Suite\nWork Proposed: Addition\nConstruction Value: $300,000.00",
       "progressSections": [
         {
@@ -100066,7 +100130,7 @@
       "addresses": [
         "6553 Park Road Unit 1155 Yu Guan (604)267-0098"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Restaurant\nWork Proposed: Alteration\nConstruction Value: $400,000.00 1 $400,000.00",
       "progressSections": [
         {
@@ -100573,7 +100637,7 @@
       "addresses": [
         "6240 Granville Avenue Exotic Creationz Ltd (Harpreet Johal) (778)319-0644"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $556,177.67 2 $856,177.67\nContractor: 3",
       "progressSections": [
         {
@@ -100801,6 +100865,35 @@
       "relatedPermits": [],
       "projectValue": 540000,
       "approvalStatus": "Rejected"
+    },
+    {
+      "primaryStreetName": "4340 River Road Jeff Yang (604)767-9477",
+      "applicant": "Luso Development Corp (604)230-6168",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-013890-000-00-B7",
+      "applicationDate": 1787472000,
+      "addresses": [
+        "4340 River Road Jeff Yang (604)767-9477"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $615,912.57 1 $615,912.57",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787472000,
+          "endDate": 1787472000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1788605857,
+      "relatedPermits": [],
+      "projectValue": 615912.57,
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "TESTPOP EK May 27 ",
@@ -101233,7 +101326,7 @@
       "addresses": [
         "4340 River Road"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Retaining Walls (over 1.2m in Height)\nWork Proposed: New\nConstruction Value: $12,000.00 1 $12,000.00\nDescription: FENCE Jeff Yang (604)767-9477",
       "progressSections": [
         {
@@ -102622,6 +102715,62 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1785235759,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "8115 Lucerne Pl",
+      "applicant": "Luis D Cabido (604)828-5226",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-017149-000-00-D7",
+      "applicationDate": 1787644800,
+      "addresses": [
+        "8115 Lucerne Pl"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: G & H Demolition & Excavation Ltd. (778)878-3301",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787644800,
+          "endDate": 1787644800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1788605857,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "8115 Lucerne Pl -Detached Shed",
+      "applicant": "Luis D Cabido (604)828-5226",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-019069-000-00-D7",
+      "applicationDate": 1787644800,
+      "addresses": [
+        "8115 Lucerne Pl -Detached Shed"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Access Building Detach\nWork Proposed: Demolish\nContractor: G & H Demolition & Excavation Ltd. (778)878-3301",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1787644800,
+          "endDate": 1787644800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1788605857,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -121918,18 +122067,24 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1788159600,
-          "endDate": null
+          "endDate": 1788505200
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1788505200,
+          "endDate": 1788505200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1788505200,
+          "endDate": 1788505200
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1788605616,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00858",
@@ -122634,12 +122789,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787295600,
+          "endDate": 1788505200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1788505200,
+          "endDate": 1788505200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1788505200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787395978,
+      "lastUpdated": 1788605616,
       "relatedPermits": [
         {
           "relatedPermitID": "BOV01213",
@@ -141409,7 +141582,7 @@
         "1290 HORNBY STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 35-storey mixed-use building consisting of:\n  1st storey - 3 CRUs (shell only); residential lobby, rental office & storage room\n  2nd storey - 2 dwelling units; storage rooms; indoor amenity rooms\n  3rd to 35th storeys - 222 dwelling units; outdoor amenity on Level 7\n\nall over 6 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of the VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring - BP before DP (S.Yoo)\nISSUED: Mar. 13, 2025\n\nSTAGE II: Foundations to Grade, excluding Level 1 Floor Slab, but including Deletion of One Parking Level per DPMA DP-2025-00657 (S.Yoo)\nISSUED: Dec. 5, 2025\n\nSTAGE III: Full Structure from Level 1 Floor Slab (Structural Only); Revisions to the building, including deletion of Cultural Amenity Space, per DPMA DP-2025-01042 - In review\nProject Value: $72,000,000.00\nProperty Use: Cultural/Recreational Uses, Dwelling Uses\nSpecific Use: Theatre, Mixed-Use Residential Building\nNeighbourhood: Downtown\nContractor: WFC Construction Ltd.",
+      "purpose": "Certified Professional Program - New Building - To construct a 35-storey mixed-use building consisting of:\n  1st storey - 3 CRUs (shell only); residential lobby, rental office & storage room\n  2nd storey - 2 dwelling units; storage rooms; indoor amenity rooms\n  3rd to 35th storeys - 222 dwelling units; outdoor amenity on Level 7\n\nall over 6 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of the VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring - BP before DP (S.Yoo)\nISSUED: Mar. 13, 2025\n\nSTAGE II: Foundations to Grade, excluding Level 1 Floor Slab, but including Deletion of One Parking Level per DPMA DP-2025-00657 (S.Yoo)\nISSUED: Dec. 5, 2025\n\nSTAGE III: Full Structure from Level 1 Floor Slab (Structural Only); Revisions to the building, including deletion of Cultural Amenity Space, per DPMA DP-2025-01042 - In review\nProject Value: $72,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Downtown\nContractor: WFC Construction Ltd.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -141440,7 +141613,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788605868,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-01340",
@@ -148492,7 +148665,7 @@
         "1958 W 60TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two-storey 2 unit front building and a two-storey 2 unit Rear Building with 4 surface parking spaces having access from the lane. \n\nRelated to DP-2024-00678, Rear Building: BP-2024-04107\n\nBuilding Review Branch Notes:\n1. Sch B Struct.& Geo. (front building): Ke Jian, Ma P.Eng\n2. Sch B Struct.& Geo. (rear building): Jian Zhong Jin, P.Eng\n3. Entire building to be sprinklered to NFPA 13D requirements.\n4. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n5. Reviewed under VBBL 2019\n\nRevision #1:\n• Revise application form to indicate building will be converted to strata-title ownership.\nProject Value: $850,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two-storey 2 unit front building and a two-storey 2 unit Rear Building with 4 surface parking spaces having access from the lane. \n\nRelated to DP-2024-00085, Rear Building: BP-2024-04107\n\nBuilding Review Branch Notes:\n1. Sch B Struct.& Geo. (front building): Ke Jian, Ma P.Eng\n2. Sch B Struct.& Geo. (rear building): Jian Zhong Jin, P.Eng\n3. Entire building to be sprinklered to NFPA 13D requirements.\n4. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n5. Reviewed under VBBL 2019\n\nRevision #1:\n• Revise application form to indicate building will be converted to strata-title ownership.\nProject Value: $850,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -148511,7 +148684,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1788519417,
+      "lastUpdated": 1788605868,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-04107",
@@ -148535,7 +148708,7 @@
         "1956 W 60TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a two-storey 2 unit Rear Building (multiplex) with 4 surface parking spaces having access from the lane. \n\nRelated to DP-2024-00678, Front Building: BP-2024-04106\n\nBuilding Review Branch Notes:\n1. Sch B Struct.& Geo. (front building): Ke Jian, Ma P.Eng\n2. Sch B Struct.& Geo. (rear building): Jian Zhong Jin, P.Eng\n3. Entire building to be sprinklered to NFPA 13D requirements.\n4. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n5. Reviewed under VBBL 2019\nProject Value: $850,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a two-storey 2 unit Rear Building (multiplex) with 4 surface parking spaces having access from the lane. \n\nRelated to DP-2024-00085, Front Building: BP-2024-04106\n\nBuilding Review Branch Notes:\n1. Sch B Struct.& Geo. (front building): Ke Jian, Ma P.Eng\n2. Sch B Struct.& Geo. (rear building): Jian Zhong Jin, P.Eng\n3. Entire building to be sprinklered to NFPA 13D requirements.\n4. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n5. Reviewed under VBBL 2019\nProject Value: $850,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kerrisdale",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -148554,7 +148727,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788605868,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-04106",
@@ -162701,7 +162874,7 @@
         "7788 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey residential building addressed containing 32 dwelling units over two levels of underground parking with storages, bike storages, and service rooms, having vehicular access from the rear lane. A garbage room is located on the first storey. \n\nThis is a CP Process Permit and the applicant is Christopher Anderson, P. Eng., CP.\n\nBuilding to be sprinklered to NFPA 13.\nRadio Antenna System is provided. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON FEB 28, 2025***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring (Mar 19/26, A. Min)\nProject Value: $14,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Marpole\nContractor: Edge Vancouver Construction Group Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey residential building addressed containing 32 dwelling units over two levels of underground parking with storages, bike storages, and service rooms, having vehicular access from the rear lane. A garbage room is located on the first storey. \n\nThis is a CP Process Permit and the applicant is Christopher Anderson, P. Eng., CP.\n\nBuilding to be sprinklered to NFPA 13.\nRadio Antenna System is provided. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON FEB 28, 2025***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring (Mar 19/26, A. Min)\nStage 2: Full Construction (IN PROCESS)\nProject Value: $14,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Marpole\nContractor: Edge Vancouver Construction Group Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -162720,7 +162893,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788605868,
       "relatedPermits": [],
       "projectValue": 14000000,
       "latitude": 49.214303,
@@ -171387,7 +171560,7 @@
         "2476 W 13TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - Building Permit for DP-2025-00753 To develop a three-storey four-unit net zero Multiple Dwelling \"Multiplex\" with a detached garage and carport providing four parking spaces having vehicular access from the lane.\n\nNotes: \n1. Building sprinklered to NFPA-13R.  \n2. Permit reviewed and approved to VBBL #14343 (2025).\nProject Value: $2,375,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kitsilano",
+      "purpose": "High Density Housing / Commercial - New Building - Building Permit for DP-2025-00753 To develop a three-storey four-unit net zero Multiple Dwelling \"Multiplex\" with a detached garage and carport providing four parking spaces having vehicular access from the lane.\n\nNotes: \n1. Building sprinklered to NFPA-13R.  \n2. Permit reviewed and approved to VBBL #14343 (2025).\nProject Value: $2,375,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kitsilano\nContractor: Averra Developments Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -171406,7 +171579,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1788605868,
       "relatedPermits": [],
       "projectValue": 2375000,
       "latitude": 49.259941,
@@ -265200,20 +265373,20 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1789023600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -265285,7 +265458,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787914435,
+      "lastUpdated": 1788605616,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00482",
@@ -271127,7 +271300,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1788418800,
           "endDate": null
         },
         {
@@ -271188,7 +271361,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788519195,
+      "lastUpdated": 1788605616,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00303",
@@ -272700,14 +272873,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": 1789023600,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
-          "taskType": "Committee of the Whole Meeting (COTW)",
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
           "startDate": null,
           "endDate": null
         },
@@ -272759,7 +272932,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1788605616,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00307",
@@ -275230,8 +275403,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportaug16202679561.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportaug16202679562.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportaug23-29202679619.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportaug23-29202679620.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
