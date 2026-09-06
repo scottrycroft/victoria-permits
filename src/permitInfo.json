@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788605614,
+  "dateRetrieved": 1788692577,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8207,7 +8207,7 @@
     },
     {
       "primaryStreetName": "741 GROUSEWOOD PL",
-      "applicant": "AUTHORIZED AGENT/OWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000056",
@@ -8215,7 +8215,7 @@
       "addresses": [
         "741 GROUSEWOOD PL"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This Joint Natural Hazard and Form & Character DP application proposes one single family dwelling.",
       "progressSections": [
         {
@@ -8249,7 +8249,12 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "Development Permit_DP000056_741 Grousewood Pl_2026-07-17",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=FEB7BFF0-9160-4219-A408-D9AB15C720C1&folderId=85168C260330120934647404"
+        }
+      ],
       "city": "Colwood",
       "lastUpdated": 1784372007,
       "relatedPermits": []
@@ -93276,7 +93281,7 @@
     },
     {
       "primaryStreetName": "2579 CADBORO BAY RD",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00069",
@@ -93284,7 +93289,7 @@
       "addresses": [
         "2579 CADBORO BAY RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This is an application for a Bylaw (text) amendment to permit cannabis retail at the subject C-2 property (2579 Cadboro Bay Road).",
       "progressSections": [
         {
@@ -93324,20 +93329,20 @@
           "endDate": 1783926000
         },
         {
-          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
-          "taskType": "*WITH APPLICANT",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1783926000,
+          "endDate": 1783926000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
+          "startDate": 1783926000,
+          "endDate": 1783926000
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
           "startDate": null,
           "endDate": null
         }
@@ -119932,7 +119937,7 @@
     },
     {
       "primaryStreetName": "970 WAGONWOOD PL",
-      "applicant": "WABURN CONSTRUCTION",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01125",
@@ -119940,7 +119945,7 @@
       "addresses": [
         "970 WAGONWOOD PL"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "*STREAMSIDE* - ADDITION TO SINGLE FAMILY DWELLING - RECONSTRUCT SUN DECK",
       "progressSections": [
         {
@@ -119990,6 +119995,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1784185200,
           "endDate": 1784185200
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVAL",
+          "startDate": 1784876400,
+          "endDate": 1784876400
         }
       ],
       "documents": [
@@ -120006,10 +120017,11 @@
           "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1777708800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "ADDITION TO SINGLE FAMILY DWELLING - RECONSTRUCT SUN DECK"
+          "relatedPermitDescription": "ADDITION TO SINGLE FAMILY DWELLING - RECONSTRUCT REAR SUN DECK"
         }
       ],
-      "minor": true
+      "minor": true,
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "4673 FALAISE DR",
@@ -121920,7 +121932,7 @@
     },
     {
       "primaryStreetName": "5176 RAMBLER RD",
-      "applicant": "HOMEOWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DVP00559",
@@ -121928,7 +121940,7 @@
       "addresses": [
         "5176 RAMBLER RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "A VARIANCE FOR REAR YARD SETBACK FOR EXISTING DWELLING ON PROPOSED LOT A IS REQUESTED.",
       "progressSections": [
         {
@@ -121960,6 +121972,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1782975600,
           "endDate": 1784012400
+        },
+        {
+          "taskDescription": "Application has been cancelled",
+          "taskType": "APPLICATION CANCELLED",
+          "startDate": 1784185200,
+          "endDate": 1784185200
         }
       ],
       "documents": [
@@ -141582,7 +141600,7 @@
         "1290 HORNBY STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 35-storey mixed-use building consisting of:\n  1st storey - 3 CRUs (shell only); residential lobby, rental office & storage room\n  2nd storey - 2 dwelling units; storage rooms; indoor amenity rooms\n  3rd to 35th storeys - 222 dwelling units; outdoor amenity on Level 7\n\nall over 6 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of the VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring - BP before DP (S.Yoo)\nISSUED: Mar. 13, 2025\n\nSTAGE II: Foundations to Grade, excluding Level 1 Floor Slab, but including Deletion of One Parking Level per DPMA DP-2025-00657 (S.Yoo)\nISSUED: Dec. 5, 2025\n\nSTAGE III: Full Structure from Level 1 Floor Slab (Structural Only); Revisions to the building, including deletion of Cultural Amenity Space, per DPMA DP-2025-01042 - In review\nProject Value: $72,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Downtown\nContractor: WFC Construction Ltd.",
+      "purpose": "Certified Professional Program - New Building - To construct a 35-storey mixed-use building consisting of:\n  1st storey - 3 CRUs (shell only); residential lobby, rental office & storage room\n  2nd storey - 2 dwelling units; storage rooms; indoor amenity rooms\n  3rd to 35th storeys - 222 dwelling units; outdoor amenity on Level 7\n\nall over 6 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of the VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring - BP before DP (S.Yoo)\nISSUED: Mar. 13, 2025\n\nSTAGE II: Foundations to Grade, excluding Level 1 Floor Slab, but including Deletion of One Parking Level per DPMA DP-2025-00657 (S.Yoo)\nISSUED: Dec. 5, 2025\n\nSTAGE III: Full Structure from Level 1 Floor Slab (Structural Only); Revisions to the building, including deletion of Cultural Amenity Space, per DPMA DP-2025-01042 (S.Yoo)\nISSUED: Sept. 4, 2026\nProject Value: $63,730,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Downtown\nContractor: WFC Construction Ltd.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -141607,20 +141625,26 @@
           "taskType": "",
           "startDate": 1764921600,
           "endDate": 1764921600
+        },
+        {
+          "taskDescription": "STAGE III: Full Structure from Level 1 Floor Slab (Structural Only); Revisions to the building, including deletion of Cultural Amenity Space, per DPMA DP-2025-01042",
+          "taskType": "",
+          "startDate": 1788508800,
+          "endDate": 1788508800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1788605868,
+      "lastUpdated": 1788692228,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-01340",
           "relatedPermitType": "Demolition"
         }
       ],
-      "projectValue": 72000000,
+      "projectValue": 63730000,
       "latitude": 49.277274,
       "longitude": -123.12934,
       "major": true,
@@ -167393,6 +167417,84 @@
       "storeys": 3
     },
     {
+      "primaryStreetName": "2349 HARRISON DRIVE",
+      "applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04137",
+      "applicationDate": 1758009600,
+      "addresses": [
+        "2349 HARRISON DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey plus roof deck two-unit front building with a two-storey two-unit rear building with four carport parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in courtyard, Interior component located in second floor closet\n2. HRV unit proposed - located in second floor closet\n3. Schedule B: (G. Bozsik) P.Eng (604.431.0055) Structural\n4. Schedule B: (T.S. Bajwa) P.Eng (778.995.2404) Geotechnical\n5. HPO: Residential Builder - 1422746 BC Ltd.\n\nNote: This is a 3-storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n\nFRONT UNIT\n#1- 2349 Harrison Dr - One Family Dwelling (1st - 3rd floor)\n#2- 2349 Harrison Dr - One Family Dwelling (1st - 3rd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.**\nProject Value: $990,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Victoria-Fraserview\nContractor: 1422746 BC LTD",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758009600,
+          "endDate": 1758009600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758009600,
+          "endDate": 1758009600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758009600,
+      "relatedPermits": [],
+      "projectValue": 990000,
+      "latitude": 49.208796,
+      "longitude": -123.05909,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "2347 HARRISON DRIVE",
+      "applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04138",
+      "applicationDate": 1758009600,
+      "addresses": [
+        "2347 HARRISON DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a two-storey two-unit rear building with four carport parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in courtyard, Interior component located in second floor W/D closet\n2. HRV unit proposed - located in second floor W/D closet\n3. Schedule B: (G. Bozsik) P.Eng (604.431.0055) Structural\n4. Schedule B: (T.S. Bajwa) P.Eng (778.995.2404) Geotechnical\n5. HPO: Residential Builder - 1422746 BC Ltd.\n\nNote: This is a 2-storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building, including the attached carport, to be sprinklered to NFPA 13D \n\nAddress Information:\n\nBACK UNIT \n#1- 2347 Harrison Dr  - One Family Dwelling (1st - 2nd floor)\n#2- 2347 Harrison Dr  - One Family Dwelling (1st - 2nd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.**\nProject Value: $790,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Victoria-Fraserview\nContractor: 1422746 BC LTD",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758009600,
+          "endDate": 1758009600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758009600,
+          "endDate": 1758009600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758009600,
+      "relatedPermits": [],
+      "projectValue": 790000,
+      "latitude": 49.20853,
+      "longitude": -123.059118,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
+    },
+    {
       "primaryStreetName": "354 E 10TH AVENUE",
       "applicant": "Jack Hui DBA: Pontem Group",
       "cityApplicationType": "New Building",
@@ -172901,6 +173003,44 @@
       "storeys": 2
     },
     {
+      "primaryStreetName": "288 W 8TH AVENUE",
+      "applicant": "John Sellick DBA: 288 W8th Limited Partnership",
+      "cityApplicationType": "Demolition / Deconstruction",
+      "applicationType": "Demolition",
+      "folderNumber": "BP-2026-01650",
+      "applicationDate": 1778832000,
+      "addresses": [
+        "288 W 8TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish this existing 2 storey office/restaurant building on the site, to grade ($142,000).\n \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n \nThis demolition was reviewed under VBBL 2025.\n\nDemo Contractor: MVP Group Recycle Limited.- Ash Naidu -  ash@mvprecyclegroup.com Tel: 604-729-9904\n\nQP: Lotus Environmental - Laura Pettersen -  laura@lotusenvirobc.com Tel: 604-307-5465\nProject Value: $142,000.00\nProperty Use: Office Uses, Service Uses\nSpecific Use: Restaurant - Class 1, General Office\nNeighbourhood: Mount Pleasant\nContractor: MVP Group Recycle Limited",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1778832000,
+          "endDate": 1778832000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1778832000,
+          "endDate": 1778832000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1778832000,
+      "relatedPermits": [],
+      "projectValue": 142000,
+      "latitude": 49.263606,
+      "longitude": -123.110609,
+      "approvalStatus": "Approved",
+      "storeys": 2
+    },
+    {
       "primaryStreetName": "2772 NATAL STREET",
       "applicant": "Antoine Rainville",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -174403,6 +174543,44 @@
       "projectValue": 50000,
       "latitude": 49.261812,
       "longitude": -123.092107,
+      "minor": true,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "351 W 16TH AVENUE",
+      "applicant": "Travis Hanks DBA: Haeccity Studio Architecture",
+      "cityApplicationType": "Demolition / Deconstruction",
+      "applicationType": "Demolition",
+      "folderNumber": "DB-2025-03945",
+      "applicationDate": 1756972800,
+      "addresses": [
+        "351 W 16TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish the existing 4 unit MCD (1933), to grade ($73,300) on this site. \n • Demo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\n•  This permit is subject to the Green Demolition Bylaw (11023) with a recycling requirement of 75 percent of non-hazardous construction materials. Note:  Pre-1910 houses will need to salvage a minimum of 3 metric tonnes of wood.\noutside of Vancouver.\n•  Recycling & Reuse Plan For Green Demolition & Wood Salvage to be provided prior to the issuance of this Green Demolition Permit.\n\nDemo Contractor: BOBBY BRAR OF JBS SERVICES LTD 778-829-8546\nQP: MCA Environmental Consulting Inc. Tarlochan Sunar - 604-805-1344\nProject Value: $73,300.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Conversion Dwelling\nNeighbourhood: Mount Pleasant\nContractor: Averra Developments Inc",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1756972800,
+          "endDate": 1756972800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1756972800,
+          "endDate": 1756972800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1756972800,
+      "relatedPermits": [],
+      "projectValue": 73300,
+      "latitude": 49.257101,
+      "longitude": -123.112251,
       "minor": true,
       "approvalStatus": "Approved"
     },
@@ -203820,7 +203998,7 @@
     },
     {
       "primaryStreetName": "240 SIMCOE ST",
-      "applicant": "MICHAEL MOODY",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01138",
@@ -203828,7 +204006,7 @@
       "addresses": [
         "240 SIMCOE ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to replace balcony railings.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -203852,8 +204030,8 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1784530800,
+          "endDate": 1784530800
         }
       ],
       "documents": [
@@ -203862,21 +204040,22 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=89C5D276-F177-4592-A369-7294E4290B7C&folderId=56300C260505131238084416"
         },
         {
-          "docName": "2026-06-04 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=40078A15-C025-408E-84B8-04AB33CF24EA&folderId=56300C260505131238084416"
-        },
-        {
           "docName": "2026-06-04 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=088E13E4-965A-41E3-9ADB-342A3DE36405&folderId=56300C260505131238084416"
         },
         {
           "docName": "2026-06-04 - Revision List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=27560F3F-B6E6-487C-B676-0CE54385152A&folderId=56300C260505131238084416"
+        },
+        {
+          "docName": "Final approved plans",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=40078A15-C025-408E-84B8-04AB33CF24EA&folderId=56300C260505131238084416"
         }
       ],
       "city": "Victoria",
       "lastUpdated": 1784199212,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "350 DOUGLAS ST",
@@ -204650,7 +204829,7 @@
     },
     {
       "primaryStreetName": "1321 FERNWOOD RD",
-      "applicant": "FLEMMING PETERSEN",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01152",
@@ -204658,7 +204837,7 @@
       "addresses": [
         "1321 FERNWOOD RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for minor exterior material changes.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -204670,8 +204849,8 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1785135600,
+          "endDate": 1785135600
         }
       ],
       "documents": [
@@ -204682,7 +204861,8 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1784199212,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "270 SIMCOE ST",
@@ -204973,7 +205153,7 @@
     },
     {
       "primaryStreetName": "1079 DOUGLAS ST",
-      "applicant": "STEVE VOROS",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01159",
@@ -204981,31 +205161,32 @@
       "addresses": [
         "1079 DOUGLAS ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for exterior facade enhancements.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1784271600,
-          "endDate": null
+          "endDate": 1786604400
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1786690800,
+          "endDate": 1786690800
         }
       ],
       "documents": [
         {
-          "docName": "2026-07-16 - Plans_Submission.pdf",
+          "docName": "FINAL APPROVED PLANS",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2CB98DE3-27FB-4563-AD74-A3BCB4D671E0&folderId=79714C260716103750934555"
         }
       ],
       "city": "Victoria",
       "lastUpdated": 1784271600,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "222 LANGFORD ST",
