@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788778407,
+  "dateRetrieved": 1788864805,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -147994,6 +147994,91 @@
       "major": true,
       "approvalStatus": "Approved",
       "storeys": 10
+    },
+    {
+      "primaryStreetName": "3123 SASAMAT STREET",
+      "applicant": "Merry Gao DBA: Yan Building Design Studio Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2024-03866",
+      "applicationDate": 1727856000,
+      "addresses": [
+        "3123 SASAMAT STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey, 3-unit three storey building(Building 1) and  1unit two-storey building (Building 2) and 2 surface parking spaces having access from the lane. This permit is for Site and Building 1.\r\n\r\nBuilding 1: BP-2024-03866 - Front Building (3 units) - $900,000\r\nBuilding 2: BP-2024-03868 - Rear Building (1 Unit) - $120,000\r\n\r\nRelated Development Permit: DP-2024-00146\r\n\r\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2019 AND AMENDMENT EFFECTIVE DECEMBER 10, 2024 ********\r\n\r\nBuilding Review Branch Notes:\r\n1.\\tThis lot is Stratified.\r\n2.\\tSch A, Sch B- ARCH, STR & GEO, Sch D are submitted.\r\n3.\\tAll dwelling units have separate exterior entrances.\r\n4.\\tEntire building to be sprinkler to NFPA 13D requirement.\r\n5.\\tAll new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\nProject Value: $1,020,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Dwelling Unit\nNeighbourhood: West Point Grey\nContractor: M&W Enterprises LTD",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1727856000,
+          "endDate": 1727856000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1727856000,
+          "endDate": 1727856000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1727856000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2024-03868",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 1020000,
+      "latitude": 49.259038,
+      "longitude": -123.209478,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3125 SASAMAT STREET",
+      "applicant": "Merry Gao DBA: Yan Building Design Studio Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2024-03868",
+      "applicationDate": 1727856000,
+      "addresses": [
+        "3125 SASAMAT STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey, 3-unit three storey building(Building 1) and  1unit two-storey building (Building 2) and 2 surface parking spaces having access from the lane. This permit is Building 2.\r\n\r\nBuilding 1: BP-2024-03866 - Front Building (3 units) - $900,000\r\nBuilding 2: BP-2024-03868 - Rear Building (1 Unit) - $120,000\r\n\r\nRelated Development Permit: DP-2024-00146\r\n\r\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2019 AND AMENDMENT EFFECTIVE DECEMBER 10, 2024 ********\r\n\r\nBuilding Review Branch Notes:\r\n1.\\tThis lot is not Stratified.\r\n2.\\tSch A, Sch B- ARCH, STR & GEO, Sch D are submitted.\r\n3.\\tAll dwelling units have separate exterior entrances.\r\n4.\\tEntire building to be sprinkler to NFPA 13D requirement.\r\n5.\\tAll new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\nProperty Use: Dwelling Uses\nSpecific Use: Dwelling Unit\nNeighbourhood: West Point Grey",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1727856000,
+          "endDate": 1727856000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1727856000,
+          "endDate": 1727856000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1727856000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2024-03866",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "latitude": 49.259005,
+      "longitude": -123.209331,
+      "approvalStatus": "Approved",
+      "storeys": 3
     },
     {
       "primaryStreetName": "3275 GRAVELEY STREET",
