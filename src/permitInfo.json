@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1788864805,
+  "dateRetrieved": 1788951205,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -89023,15 +89023,15 @@
           "endDate": 1783062000
         },
         {
-          "taskDescription": "The application is under initial review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1783321200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
           "startDate": 1788850800,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": 1783321200,
           "endDate": null
         },
         {
@@ -89074,7 +89074,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1788951207,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017937",
@@ -94063,7 +94063,7 @@
       "addresses": [
         "12211 Vulcan Way Vipul Chauhan (778)657-6188"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Vehicle Storage\nWork Proposed: New\nConstruction Value: $105,000.00 1 $105,000.00",
       "progressSections": [
         {
@@ -94169,6 +94169,36 @@
       "lastUpdated": 1778410994,
       "relatedPermits": [],
       "minor": true,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "11655 Eburne Way David Mah (778)861-0179",
+      "applicant": "Tyradon Plumbing & Excavating (647)962- 6200",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-24-040857-000-00-BZ",
+      "applicationDate": 1788076800,
+      "addresses": [
+        "11655 Eburne Way David Mah (778)861-0179"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Retaining Walls (over 1.2m in Height)\nWork Proposed: New\nConstruction Value: $40,000.00 1 $40,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1788076800,
+          "endDate": 1788076800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1788951425,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 40000,
       "approvalStatus": "Approved"
     },
     {
@@ -100881,7 +100911,7 @@
       "addresses": [
         "4340 River Road Jeff Yang (604)767-9477"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $615,912.57 1 $615,912.57",
       "progressSections": [
         {
@@ -101109,6 +101139,36 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 15000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4380 No 3 Road Unit 1405 Frankie Xu (778)895-0848",
+      "applicant": "Y & Y Construction Ltd (778)839-1155",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-014195-000-00-B8",
+      "applicationDate": 1788076800,
+      "addresses": [
+        "4380 No 3 Road Unit 1405 Frankie Xu (778)895-0848"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Personnel Service\nWork Proposed: Alteration\nConstruction Value: $110,000.00 1 $110,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1788076800,
+          "endDate": 1788076800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1788951425,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 110000,
       "approvalStatus": "Approved"
     },
     {
@@ -102440,6 +102500,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1778583644,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "10851 Mortfield Road",
+      "applicant": "Chris Raudoy (250)415-8141",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-011538-000-00-D7",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "10851 Mortfield Road"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Access Building Detach\nWork Proposed: Demolish\nContractor: Roma Building Restoration (West) Ltd. (905)794-8174\nDescription: Demolish Concrete Area Pool Walls Only",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1788249600,
+          "endDate": 1788249600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1788951425,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -108038,15 +108126,15 @@
           "endDate": 1786431600
         },
         {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1786431600,
-          "endDate": null
-        },
-        {
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1788418800,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1786431600,
           "endDate": null
         },
         {
@@ -108071,7 +108159,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1788519195,
+      "lastUpdated": 1788951207,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00727",
@@ -122756,12 +122844,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787036400,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1788850800,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1788850800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1788951207,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00759",
@@ -122819,18 +122925,24 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1788505200,
-          "endDate": null
+          "endDate": 1788850800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1788850800,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1788850800,
+          "endDate": 1788850800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788605616,
+      "lastUpdated": 1788951207,
       "relatedPermits": [
         {
           "relatedPermitID": "BOV01213",
@@ -122935,18 +123047,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1787641200,
-          "endDate": null
+          "endDate": 1788850800
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1788850800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787641200,
+      "lastUpdated": 1788951207,
       "relatedPermits": [
         {
           "relatedPermitID": "BOV01197",
@@ -128790,6 +128902,18 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1786950000,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": 1788850800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -128801,7 +128925,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1787828009,
+      "lastUpdated": 1788951207,
       "relatedPermits": []
     },
     {
@@ -128832,13 +128956,25 @@
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1788246000,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1788850800,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788346391,
+      "lastUpdated": 1788951207,
       "relatedPermits": [],
       "major": true
     },
@@ -129183,12 +129319,20 @@
       "progressSections": [],
       "documents": [
         {
-          "docName": "PLRZ20260013_SS-LTC_2026-03-19_RM_AGD_FINAL_EXT.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/1.%20Staff%20Reports/PLRZ20260013_SS-LTC_2026-03-19_RM_AGD_FINAL_EXT.pdf"
+          "docName": "SS-PLRZ20260013_2026-03-19_SS-LTC-StaffReport_FINAL.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/1.%20Staff%20Reports/SS-PLRZ20260013_2026-03-19_SS-LTC-StaffReport_FINAL.pdf"
         },
         {
-          "docName": "SS-BL-553_ATT1.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/2.%20Proposed%20Bylaw%20or%20Permit/SS-BL-553_ATT1.pdf"
+          "docName": "SS-PLRZ20260013_2026-08-27_SS-LTC-StaffReport_FINAL.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/1.%20Staff%20Reports/SS-PLRZ20260013_2026-08-27_SS-LTC-StaffReport_FINAL.pdf"
+        },
+        {
+          "docName": "SS-BL-553_Draft.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/2.%20Proposed%20Bylaw%20or%20Permit/SS-BL-553_Draft.pdf"
+        },
+        {
+          "docName": "SS-BL-553_FirstReadingNotice.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20260013%20-%20116%20Jackson%20Ave%20(M.Ogilive)/4.%20Community%20Consultation/SS-BL-553_FirstReadingNotice.pdf"
         },
         {
           "docName": "SS-BL-553_2026-05-05_ReferralFINAL NSSWD SIGNED.pdf",
@@ -129270,7 +129414,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1787828206,
+      "lastUpdated": 1788951395,
       "relatedPermits": []
     },
     {
@@ -199477,7 +199621,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1788951207,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00092",
@@ -199490,8 +199634,8 @@
           "relatedPermitID": "REZ00866",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1702281600,
-          "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Rezoning application to allow for the proposed BC Housing development."
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is considering a Rezoning application to allow for the proposed BC Housing development.\n\nAPPROVED BY COUNCIL SEPTEMBER 3, 2026"
         },
         {
           "relatedPermitID": "CLC00425",
@@ -205507,13 +205651,14 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9901AF25-E3FA-42C3-A951-60C5F2C35E26&folderId=CfjyHJCvaEqgFmDPoRQN5A"
         },
         {
-          "docName": "2026-07-31 - Plans - Submission.pdf",
+          "docName": "FINAL APPROVED",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=719B184D-ACB4-4334-A9AE-F3DC524008AB&folderId=CfjyHJCvaEqgFmDPoRQN5A"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788000804,
-      "relatedPermits": []
+      "lastUpdated": 1788951207,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "358 ARNOLD AVE",
@@ -205649,7 +205794,7 @@
         "717 PANDORA AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application for new rooftop mechanical which requires a variance to the setback from roof edge.",
+      "purpose": "The City is reviewing a Delegated Development Permit application for new rooftop mechanical which requires a variance to the setback from roof edge.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
@@ -205671,7 +205816,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787295600,
+      "lastUpdated": 1788951207,
       "relatedPermits": []
     },
     {
@@ -275669,8 +275814,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportaug23-29202679619.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportaug23-29202679620.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportaug30-sep8202679637.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportaug30-sep8202679638.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
