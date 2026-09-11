@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1789037585,
+  "dateRetrieved": 1789123988,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -20839,13 +20839,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1788519412,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP023070",
-          "relatedPermitType": "Development Permit"
-        }
-      ],
+      "lastUpdated": 1789124213,
+      "relatedPermits": [],
       "latitude": 49.145541,
       "longitude": -122.893856,
       "minor": true
@@ -21422,13 +21417,13 @@
         "11398 88A AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "purpose": "To construct single family dwelling w/ seecondary suite",
       "progressSections": [],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1788605861,
+      "lastUpdated": 1789124213,
       "relatedPermits": [],
       "latitude": 49.163865,
       "longitude": -122.906926
@@ -21498,6 +21493,28 @@
       "relatedPermits": [],
       "latitude": 49.143636,
       "longitude": -122.891315
+    },
+    {
+      "primaryStreetName": "10975 MONROE DR",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023329",
+      "applicationDate": 1789124213,
+      "addresses": [
+        "10975 MONROE DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1789124213,
+      "relatedPermits": [],
+      "latitude": 49.144695,
+      "longitude": -122.918623
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -93820,6 +93837,79 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "2072 CARNARVON ST",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00075",
+      "applicationDate": 1789023600,
+      "addresses": [
+        "2072 CARNARVON ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a Zoning Bylaw Text Amendment to increase the Maximum Floor Area Ratio (FAR) to 0.48 to accommodate for a rear yard deck at 2072 Carnarvon Street.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1789023600,
+          "endDate": 1789023600
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Oak Bay",
+      "lastUpdated": 1789023600,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "14351 Burrows Rd Unit 130",
       "applicant": "Ronos Architectural Inc. (Claire Park) (778)654-8762",
       "cityApplicationType": "Building Permit",
@@ -113840,7 +113930,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1789974000,
           "endDate": null
         }
       ],
@@ -113863,7 +113953,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1780743164,
+      "lastUpdated": 1789123990,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00770",
@@ -115176,7 +115266,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1789974000,
           "endDate": null
         }
       ],
@@ -115199,7 +115289,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1789123990,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00781",
@@ -119231,12 +119321,6 @@
           "taskType": "REFERRALS",
           "startDate": 1788159600,
           "endDate": null
-        },
-        {
-          "taskDescription": "Date when application is received",
-          "taskType": "APPLICATION RECEIVED",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [
@@ -119258,7 +119342,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1789123990,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -123094,6 +123178,57 @@
           "relatedPermitApplicationDate": 1740556800,
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "CONVERSION OF SINGLE FAMILY DWELLING - CREATE HOUSEPLEX - 3 UNIT"
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "3074 COLQUITZ AVE",
+      "applicant": "LITERAL CONCEPTS",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00575",
+      "applicationDate": 1789023600,
+      "addresses": [
+        "3074 COLQUITZ AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO CONSTRUCT AN ACCESSORY BUILDING.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1789023600,
+          "endDate": 1789023600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1789023600,
+          "endDate": 1789023600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1789023600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1789023600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RBP00981",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1785052800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "ACCESSORY BUILDING - GARAGE"
         }
       ]
     },
@@ -134060,7 +134195,7 @@
         "828 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey (29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage 1) - 09-Apr-2024\nRevision#2 (Stage 3) - 31-Aug-2026\nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n- VIP lounge & L6 food prep excluded from Stage 3\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey (29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage 1) - 09-Apr-2024\nRevision#2 (Stage 3) - 31-Aug-2026\nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n- VIP lounge & L6 food prep excluded from Stage 3 \n\nSTAGE 4 - AWAITING SUBMISSION\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -134079,7 +134214,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1788346644,
+      "lastUpdated": 1789124220,
       "relatedPermits": [],
       "projectValue": 101000000,
       "latitude": 49.277816,
@@ -165726,7 +165861,7 @@
         "590 W 29TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following residential development:\n\nTo construct two 6-storey residential rental buildings and two 3-storey residential rental townhouses (229 units) over one level of underground parking having vehicular access from the lane. A rooftop exterior amenity will be provided to the west midrise building. \n\n- Building 1: West Front 6-storey: BP-2025-04220, 590 W 29th Ave - Primary Response Point - (116 units)\n- Building 2: East Front 6-storey: BP-2025-04221, 560 W 29th Ave (95 units)\n- Building 3: East Town House 3-storey: BP-2025-04222, 570 W 29th Ave (9 units)\n- Building 4: West Town House 3-storey: BP-2025-04223, 580 W 29th Ave (9 units)\n\nThis is a CP Process Permit, and the applicant is Samir Eidnani, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio antenna system is required.\n3. Entire development to be sprinklered to NFPA 13 requirements. Building 3&4 are required to be sprinklered to NFPA 13 to comply with requirements of clause 3.2.5.5.(3)(a) for extended path of travel for firefighters. \n4. EJ submitted by structural EoR for advanced use of acceptable solution in the 2025 VBBL for referenced standards. \n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - In Review\nProject Value: $90,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment, Townhouse\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
+      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following residential development:\n\nTo construct two 6-storey residential rental buildings and two 3-storey residential rental townhouses (229 units) over one level of underground parking having vehicular access from the lane. A rooftop exterior amenity will be provided to the west midrise building. \n\n- Building 1: West Front 6-storey: BP-2025-04220, 590 W 29th Ave - Primary Response Point - (116 units)\n- Building 2: East Front 6-storey: BP-2025-04221, 560 W 29th Ave (95 units)\n- Building 3: East Town House 3-storey: BP-2025-04222, 570 W 29th Ave (9 units)\n- Building 4: West Town House 3-storey: BP-2025-04223, 580 W 29th Ave (9 units)\n\nThis is a CP Process Permit, and the applicant is Samir Eidnani, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio antenna system is required.\n3. Entire development to be sprinklered to NFPA 13 requirements. Building 3&4 are required to be sprinklered to NFPA 13 to comply with requirements of clause 3.2.5.5.(3)(a) for extended path of travel for firefighters. \n4. EJ submitted by structural EoR for advanced use of acceptable solution in the 2025 VBBL for referenced standards. \n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProject Value: $90,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment, Townhouse\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -165751,13 +165886,19 @@
           "taskType": "",
           "startDate": 1774339200,
           "endDate": 1774339200
+        },
+        {
+          "taskDescription": "Stage 3: Full Construction",
+          "taskType": "",
+          "startDate": 1788940800,
+          "endDate": 1788940800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789124220,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04220",
@@ -167968,6 +168109,248 @@
       "latitude": 49.250903,
       "longitude": -123.184794,
       "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "590 W 29TH AVENUE",
+      "applicant": "Samir Eidnani, P.ENG., C.P. DBA: Cardinal Fire Engineering",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04220",
+      "applicationDate": 1758700800,
+      "addresses": [
+        "590 W 29TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey residential building (West Front Building - Building 1) containing 116 dwelling units & a rooftop patio over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Stage 1: Excavation/Shoring",
+          "taskType": "",
+          "startDate": 1770019200,
+          "endDate": 1770019200
+        },
+        {
+          "taskDescription": "Stage 2: Foundation to Grade",
+          "taskType": "",
+          "startDate": 1774339200,
+          "endDate": 1774339200
+        },
+        {
+          "taskDescription": "Stage 3: Full Construction",
+          "taskType": "",
+          "startDate": 1788940800,
+          "endDate": 1788940800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758700800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-03420",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "latitude": 49.244924,
+      "longitude": -123.118336,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 6
+    },
+    {
+      "primaryStreetName": "560 W 29TH AVENUE",
+      "applicant": "Samir Eidnani, P.ENG., C.P. DBA: Cardinal Fire Engineering",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04221",
+      "applicationDate": 1758700800,
+      "addresses": [
+        "560 W 29TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey residential building (East Front Building - Building 2) containing 95 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Stage 1: Excavation/Shoring",
+          "taskType": "",
+          "startDate": 1770019200,
+          "endDate": 1770019200
+        },
+        {
+          "taskDescription": "Stage 2: Foundation to Grade",
+          "taskType": "",
+          "startDate": 1774339200,
+          "endDate": 1774339200
+        },
+        {
+          "taskDescription": "Stage 3: Full Construction",
+          "taskType": "",
+          "startDate": 1788940800,
+          "endDate": 1788940800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758700800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-03420",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "latitude": 49.244901,
+      "longitude": -123.11783,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 6
+    },
+    {
+      "primaryStreetName": "570 W 29TH AVENUE",
+      "applicant": "Samir Eidnani, P.ENG., C.P. DBA: Cardinal Fire Engineering",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04222",
+      "applicationDate": 1758700800,
+      "addresses": [
+        "570 W 29TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 3-storey residential building (East Town House Building - Building 3) containing 9 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\n\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProperty Use: Dwelling Uses\nSpecific Use: Townhouse\nNeighbourhood: South Cambie",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Stage 1: Excavation/Shoring",
+          "taskType": "",
+          "startDate": 1770019200,
+          "endDate": 1770019200
+        },
+        {
+          "taskDescription": "Stage 2: Foundation to Grade",
+          "taskType": "",
+          "startDate": 1774339200,
+          "endDate": 1774339200
+        },
+        {
+          "taskDescription": "Stage 3: Full Construction",
+          "taskType": "",
+          "startDate": 1788940800,
+          "endDate": 1788940800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758700800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-03420",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "latitude": 49.24519,
+      "longitude": -123.117949,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "580 W 29TH AVENUE",
+      "applicant": "Samir Eidnani, P.ENG., C.P. DBA: Cardinal Fire Engineering",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04223",
+      "applicationDate": 1758700800,
+      "addresses": [
+        "580 W 29TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 3-storey residential building (West Town House Building - Building 4) containing 9 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\n\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProperty Use: Dwelling Uses\nSpecific Use: Townhouse\nNeighbourhood: South Cambie",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758700800,
+          "endDate": 1758700800
+        },
+        {
+          "taskDescription": "Stage 1: Excavation/Shoring",
+          "taskType": "",
+          "startDate": 1770019200,
+          "endDate": 1770019200
+        },
+        {
+          "taskDescription": "Stage 2: Foundation to Grade",
+          "taskType": "",
+          "startDate": 1774339200,
+          "endDate": 1774339200
+        },
+        {
+          "taskDescription": "Stage 3: Full Construction",
+          "taskType": "",
+          "startDate": 1788940800,
+          "endDate": 1788940800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758700800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-03420",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "latitude": 49.244917,
+      "longitude": -123.118076,
       "approvalStatus": "Approved",
       "storeys": 3
     },
@@ -173459,6 +173842,88 @@
       "minor": true,
       "approvalStatus": "Approved",
       "storeys": 2
+    },
+    {
+      "primaryStreetName": "4615 ARBUTUS STREET",
+      "applicant": "Shane Culleton DBA: KBL Projects",
+      "cityApplicationType": "Demolition / Deconstruction",
+      "applicationType": "Demolition",
+      "folderNumber": "BP-2026-02116",
+      "applicationDate": 1782201600,
+      "addresses": [
+        "4615 ARBUTUS STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish the existing one storey commercial building - gas station (1993), to grade ($50,000).\n\nNote to Applicant: Separate permit (fire) is required for tank removal. \n\nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n \nThis demolition was reviewed under VBBL 2025.\n \nRelated to: DP-2026-00114\nRelated to: BP-2026-01864\n\nDemolition Contractor: KBL Projects Ltd - Tristan Gething -  Tel: 250-812-8118\n\nQP: Kinetic OHS Services Ltd. - Harvey Wong - 604-816-1290\nProject Value: $50,000.00\nProperty Use: Retail Uses\nSpecific Use: Gasoline Station - Split Island\nNeighbourhood: Arbutus Ridge\nContractor: KBL Projects Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1782201600,
+          "endDate": 1782201600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1782201600,
+          "endDate": 1782201600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1782201600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-01864",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 50000,
+      "latitude": 49.245038,
+      "longitude": -123.153854,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 1
+    },
+    {
+      "primaryStreetName": "3082 E 56TH AVENUE",
+      "applicant": "Dinkar Wason DBA: Yuvraj Properties Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-02246",
+      "applicationDate": 1783324800,
+      "addresses": [
+        "3082 E 56TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - **PART 5**To construct a three-storey, four-unit Multiple Dwelling \"Multiplex\" building with four surface pad parking spaces in the rear yard, having access from the rear lane.\n\nVBBL 2025 - NFPA 13D\nProject Value: $1,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Yuvraj Properties Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1783324800,
+          "endDate": 1783324800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1783324800,
+          "endDate": 1783324800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1783324800,
+      "relatedPermits": [],
+      "projectValue": 1500000,
+      "latitude": 49.217937,
+      "longitude": -123.041877,
+      "approvalStatus": "Approved",
+      "storeys": 3
     },
     {
       "primaryStreetName": "329 MAIN STREET",
@@ -230146,7 +230611,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1786690800,
-          "endDate": null
+          "endDate": 1789023600
         },
         {
           "taskDescription": "Application is circulated to City departments for review and comment",
@@ -230194,7 +230659,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786791204,
+      "lastUpdated": 1789123990,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00871",
