@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1789123988,
+  "dateRetrieved": 1789210406,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -15144,14 +15144,21 @@
       "addresses": [
         "5317 1A AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a  single family dwelling w/ suite",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1789084800,
+          "endDate": 1789084800
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1789210660,
       "relatedPermits": [],
       "latitude": 49.00575,
       "longitude": -123.076498
@@ -20839,8 +20846,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1789124213,
-      "relatedPermits": [],
+      "lastUpdated": 1789210660,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP023070",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 49.145541,
       "longitude": -122.893856,
       "minor": true
@@ -21361,6 +21373,28 @@
       "relatedPermits": [],
       "latitude": 49.120241,
       "longitude": -122.921759
+    },
+    {
+      "primaryStreetName": "5055 WHITWORTH CRES N",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023255",
+      "applicationDate": 1789210660,
+      "addresses": [
+        "5055 WHITWORTH CRES N"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1789210660,
+      "relatedPermits": [],
+      "latitude": 49.081166,
+      "longitude": -123.083877
     },
     {
       "primaryStreetName": "156 67 ST",
@@ -74041,7 +74075,7 @@
       "addresses": [
         "2350 City Gate Blvd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 310 - Multi Family\nWork Type: 01-New construction (built on-site)\nArea: 7370\nValue: $20,480,616.00\nUnits Created: 80\nContractors: Highstreet Ventures Inc.",
       "progressSections": [],
       "documents": [],
@@ -77182,7 +77216,7 @@
         "3233 Cottontail Pl",
         "3235 Cottontail Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 330 - Townhouse\nWork Type: 01-New construction (built on-site)\nArea: 454.64\nValue: $1,135,412.00\nUnits Created: 3\nContractors: Mehdi Khataw",
       "progressSections": [],
       "documents": [],
@@ -77206,7 +77240,7 @@
         "3232 Cottontail Pl",
         "3234 Cottontail Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 330 - Townhouse\nWork Type: 01-New construction (built on-site)\nArea: 449.89\nValue: $1,136,294.00\nUnits Created: 3\nContractors: Khataw, Mohammed Mehdi Abbas",
       "progressSections": [],
       "documents": [],
@@ -77230,7 +77264,7 @@
         "3243 Cottontail Pl",
         "3245 Cottontail Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 330 - Townhouse\nWork Type: 01-New construction (built on-site)\nArea: 438.53\nValue: $1,105,773.00\nUnits Created: 3\nContractors: Khataw, Mohammed Mehdi Abbas",
       "progressSections": [],
       "documents": [],
@@ -77254,7 +77288,7 @@
         "3251 Cottontail Pl",
         "3253 Cottontail Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 330 - Townhouse\nWork Type: 01-New construction (built on-site)\nArea: 444.33\nValue: $1,115,726.00\nUnits Created: 3\nContractors: Khataw, Mohammed Mehdi Abbas",
       "progressSections": [],
       "documents": [],
@@ -77279,7 +77313,7 @@
         "3261 Cottontail Pl",
         "3263 Cottontail Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 330 - Townhouse\nWork Type: 01-New construction (built on-site)\nArea: 596.43\nValue: $1,476,949.00\nUnits Created: 4\nContractors: Khataw, Mohammed Mehdi Abbas",
       "progressSections": [],
       "documents": [],
@@ -77303,7 +77337,7 @@
         "3260 Cottontail Pl",
         "3262 Cottontail Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 330 - Townhouse\nWork Type: 01-New construction (built on-site)\nArea: 449.89\nValue: $1,136,294.00\nUnits Created: 3\nContractors: Mehdi Khataw",
       "progressSections": [],
       "documents": [],
@@ -78049,7 +78083,7 @@
         "822 Blackbird Pl",
         "824 Blackbird Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 310 - Duplex\nWork Type: 01-New construction (built on-site)\nArea: 425\nValue: $1,072,622.00\nUnits Created: 2\nContractors: Vic City Developments Ltd.",
       "progressSections": [],
       "documents": [],
@@ -78162,7 +78196,7 @@
       "addresses": [
         "2775 Spencer Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Non-Residential\nBuilding Type: 520 - Commercial\nWork Type: 01-New construction (built on-site)\nArea: \nValue: $1,200,000.00\nUnits Created: \nContractors: Durwest Construction Management Inc.",
       "progressSections": [],
       "documents": [],
@@ -78646,6 +78680,28 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "1318 Glenridge Dr",
+      "applicant": "Voll, Glen James Patrick",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0174",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "1318 Glenridge Dr"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 110 - Additions and Alterations\nWork Type: 03-Alteration and improvements\nArea: \nValue: $100,000.00\nUnits Created: 1\nContractors: Voll, Glen James Patrick",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "projectValue": 100000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "647 Goldstream Ave",
       "applicant": "Will King - Waymark Architecture",
       "cityApplicationType": "Major Construction Residential",
@@ -78677,7 +78733,7 @@
       "addresses": [
         "3458 Merlot Terr"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD (without Sec Suite)\nWork Type: 01-New construction (built on-site)\nArea: 353\nValue: $894,985.00\nUnits Created: 1\nContractors: Brent Criddle",
       "progressSections": [],
       "documents": [],
@@ -78699,7 +78755,7 @@
       "addresses": [
         "2809 Aldwynd Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Non-Residential\nBuilding Type: 562 - Accessory Building\nWork Type: 01-New construction (built on-site)\nArea: \nValue: $350,000.00\nUnits Created: \nContractors: Kinsol Timber Systems Ltd",
       "progressSections": [],
       "documents": [],
@@ -78722,7 +78778,7 @@
         "2273 Trudie Terr",
         "656 Madrona Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 310 - Duplex with Suite\nWork Type: 01-New construction (built on-site)\nArea: 492.19\nValue: $1,286,712.00\nUnits Created: 3\nContractors: Macropus Global Ltd",
       "progressSections": [],
       "documents": [],
@@ -78732,6 +78788,28 @@
       "lastUpdated": 1786532161,
       "relatedPermits": [],
       "projectValue": 1286712,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "1228 Bramley Run",
+      "applicant": "Langdon Weir Construction Ltd",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0197",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "1228 Bramley Run"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 299.37\nValue: $836,781.00\nUnits Created: 2\nContractors: Adam Weir (Langdon Weir Construction Ltd)",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "projectValue": 836781,
       "approvalStatus": "Approved"
     },
     {
@@ -78747,7 +78825,7 @@
         "107 834 McCallum Rd",
         "109 834 McCallum Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Non-Residential\nBuilding Type: 570 - Tenant Improvement\nWork Type: 03-Alteration and improvements\nArea: \nValue: $300,000.00\nUnits Created: \nContractors: Slade Pudetz/Brenric Construction",
       "progressSections": [],
       "documents": [],
@@ -78757,6 +78835,100 @@
       "lastUpdated": 1786532161,
       "relatedPermits": [],
       "projectValue": 300000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "2161 Bellamy Rd",
+      "applicant": "Frisby, Aaron K",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0203",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "2161 Bellamy Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 110 - Additions and Alterations\nWork Type: 03-Alteration and improvements\nArea: \nValue: $100,000.00\nUnits Created: \nContractors: Frisby, Aaron K",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "projectValue": 100000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "1378 Sandstone Ln",
+      "applicant": "Ltd, Coastside Contracting",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0219",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "1378 Sandstone Ln"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 501\nValue: $1,251,329.00\nUnits Created: 2\nContractors: APM Enterprises Ltd.",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "projectValue": 1251329,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "2581 Alabaster Crt",
+      "applicant": "Verity Construction Ltd",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0230",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "2581 Alabaster Crt"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 329\nValue: $917,754.00\nUnits Created: 2\nContractors: Verity Construction Ltd",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "projectValue": 917754,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "1113 2000 Hannington Rd",
+      "applicant": "NES Architecture",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0237",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "1113 2000 Hannington Rd",
+        "1115 2000 Hannington Rd",
+        "1213 2000 Hannington Rd",
+        "1313 2000 Hannington Rd",
+        "1411 2000 Hannington Rd",
+        "1413 2000 Hannington Rd",
+        "1511 2000 Hannington Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 315 - Additions and Alterations\nWork Type: 03-Alteration and improvements\nArea: \nValue: $100,000.00\nUnits Created: \nContractors: 1129.37",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "projectValue": 100000,
       "approvalStatus": "Approved"
     },
     {
@@ -84575,6 +84747,27 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "31 848 Hockley Ave",
+      "applicant": "Knightway Mobile Haulers Ltd",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM25-0032",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "31 848 Hockley Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Demolition\nBuilding Type:  - Demolition\nWork Type: 00-Demolition\nArea: \nValue: \nUnits Created: \nContractors: Jared Knippshild",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "775 Latoria Rd",
       "applicant": "Msquared Ventures Ltd",
       "cityApplicationType": "Demolition",
@@ -85224,6 +85417,48 @@
       "withApplicantDays": null,
       "city": "Langford",
       "lastUpdated": 1784112986,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "2990 Leigh Pl",
+      "applicant": "John Guiney",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM26-0034",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "2990 Leigh Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Demolition\nBuilding Type: 110 - Demolition\nWork Type: 00-Demolition\nArea: \nValue: \nUnits Created: \nContractors: 0724597 Bc Ltd",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "18 848 Hockley Ave",
+      "applicant": "Knightway Mobile Haulers Ltd",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM26-0035",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "18 848 Hockley Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Demolition\nBuilding Type: 130 - Demolition\nWork Type: 00-Demolition\nArea: \nValue: \nUnits Created: \nContractors: Jared Knippshild",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1789210654,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -104808,8 +105043,15 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1789210408,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP23533",
+          "relatedPermitType": "TREE PERMIT",
+          "relatedPermitApplicationDate": 1789113600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Tree Permit in Support of CBP00059 and CBP00057\nFor the removal of 13 tree(s)."
+        },
         {
           "relatedPermitID": "CBP00161",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
@@ -105403,13 +105645,26 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1788159600,
+          "endDate": 1789110000
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1789110000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1789210408,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP23531",
+          "relatedPermitType": "TREE PERMIT",
+          "relatedPermitApplicationDate": 1789113600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Tree permit for removal of 9 bylaw protected development trees"
+        },
         {
           "relatedPermitID": "CBP00142",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
@@ -120629,18 +120884,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1786690800,
-          "endDate": null
+          "endDate": 1789110000
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1789110000,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788519195,
+      "lastUpdated": 1789210408,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00178",
@@ -122741,6 +122996,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1785826800,
+          "endDate": 1788505200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1789110000,
           "endDate": null
         }
       ],
@@ -122755,7 +123016,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1789210408,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00974",
@@ -129437,6 +129698,31 @@
       "withApplicantDays": null,
       "city": "Salt Spring",
       "lastUpdated": 1775741968,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "805 Lower Ganges Rd",
+      "applicant": "",
+      "cityApplicationType": "Land Use Bylaw Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PLRZ20250407",
+      "applicationDate": 1789210629,
+      "addresses": [
+        "805 Lower Ganges Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Application to amend the LUB to allow the Liquor Primary Licensing",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "SS-LTC-2026-07-27_PLRZ2025040_SR_ATCH.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20250407%20-%20805%20Lower%20Ganges%20Road%20(C.%20Beehler)/1.%20Staff%20Reports/SS-LTC-2026-07-27_PLRZ2025040_SR_ATCH.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Salt Spring",
+      "lastUpdated": 1789210629,
       "relatedPermits": []
     },
     {
@@ -165861,7 +166147,7 @@
         "590 W 29TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following residential development:\n\nTo construct two 6-storey residential rental buildings and two 3-storey residential rental townhouses (229 units) over one level of underground parking having vehicular access from the lane. A rooftop exterior amenity will be provided to the west midrise building. \n\n- Building 1: West Front 6-storey: BP-2025-04220, 590 W 29th Ave - Primary Response Point - (116 units)\n- Building 2: East Front 6-storey: BP-2025-04221, 560 W 29th Ave (95 units)\n- Building 3: East Town House 3-storey: BP-2025-04222, 570 W 29th Ave (9 units)\n- Building 4: West Town House 3-storey: BP-2025-04223, 580 W 29th Ave (9 units)\n\nThis is a CP Process Permit, and the applicant is Samir Eidnani, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio antenna system is required.\n3. Entire development to be sprinklered to NFPA 13 requirements. Building 3&4 are required to be sprinklered to NFPA 13 to comply with requirements of clause 3.2.5.5.(3)(a) for extended path of travel for firefighters. \n4. EJ submitted by structural EoR for advanced use of acceptable solution in the 2025 VBBL for referenced standards. \n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProject Value: $90,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment, Townhouse\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
+      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following residential development:\n\nTo construct two 6-storey residential rental buildings and two 3-storey residential rental townhouses (229 units) over one level of underground parking having vehicular access from the lane. A rooftop exterior amenity will be provided to the west midrise building. \n\n- Building 1: West Front 6-storey: BP-2025-04220, 590 W 29th Ave - Primary Response Point - (116 units)\n- Building 2: East Front 6-storey: BP-2025-04221, 560 W 29th Ave (95 units)\n- Building 3: East Town House 3-storey: BP-2025-04222, 570 W 29th Ave (9 units)\n- Building 4: West Town House 3-storey: BP-2025-04223, 580 W 29th Ave (9 units)\n\nThis is a CP Process Permit, and the applicant is Samir Eidnani, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio antenna system is required.\n3. Entire development to be sprinklered to NFPA 13 requirements. Building 3&4 are required to be sprinklered to NFPA 13 to comply with requirements of clause 3.2.5.5.(3)(a) for extended path of travel for firefighters. \n4. EJ submitted by structural EoR for advanced use of acceptable solution in the 2025 VBBL for referenced standards. \n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\n\nRev #1: revise project stats (parking and loading) per DPMA DP-2026-00336 - Issued Sep 10, 2026\nProject Value: $90,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment, Townhouse\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -165898,7 +166184,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789124220,
+      "lastUpdated": 1789210665,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04220",
@@ -219227,6 +219513,43 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "412 ST CHARLES ST",
+      "applicant": "BEN SMITH",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01173",
+      "applicationDate": 1788850800,
+      "addresses": [
+        "412 ST CHARLES ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application to construct a 3-storey duplex and triplex, with 5 units total.The proposal also includes variances.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1788850800,
+          "endDate": 1788850800
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-09-08 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=96206C260908162916236389&folderId=H8MM4jVK7UWoEIJFwwng/w"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1788850800,
+      "relatedPermits": [],
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "1675 EARLE ST",
       "applicant": "BEN SMITH",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
@@ -219261,6 +219584,61 @@
       "city": "Victoria",
       "lastUpdated": 1788332400,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "937 VIEW ST",
+      "applicant": "MEHRAD GHODS",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01177",
+      "applicationDate": 1789023600,
+      "addresses": [
+        "937 VIEW ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application to for revisions to original approval.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1789023600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-09-10 - Plans_Submission_Bubbled_1of2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97226C260910101646741671&folderId=97226C260910100644678796"
+        },
+        {
+          "docName": "2026-09-10 - Plans_Submission_Bubbled_2of2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=97226C260910101646755525&folderId=97226C260910100644678796"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1789023600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01105",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1765353600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to construct a rental apartment building with approximately 266 units. This application is for a renewal of DPV00051, which remains unchanged from Council approval.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
+          "relatedPermitID": "DPV00051",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1502265600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "Approved by Council February 22, 2024\n\nThe City is considering a Development Permit with Variance application for a rental apartment building with approximately 266 units. Variances required:\n\nSection 3.67.5 (1) - Height increased from 27.0m to 73.4m and number of storeys increased from 10 storeys to 23 storeys."
+        }
+      ]
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -289068,7 +289446,7 @@
       "*": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/Search.aspx"
     },
     "Langford": {
-      "*": "https://langford.ca/wp-content/uploads/2026/07/July-2026-Public-Stats.pdf"
+      "*": "https://langford.ca/wp-content/uploads/2026/09/August-2026-Public-Stats.pdf"
     },
     "Highlands": {
       "*": "https://www.highlands.ca/media/1797"
