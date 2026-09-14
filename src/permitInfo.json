@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1789297413,
+  "dateRetrieved": 1789383191,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -132897,8 +132897,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1779015658,
-      "relatedPermits": [],
+      "lastUpdated": 1789383428,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PLN02584",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 48.372908,
       "longitude": -123.761622,
       "major": true
@@ -133014,10 +133019,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1788778634,
+      "lastUpdated": 1789383428,
       "relatedPermits": [],
-      "latitude": 48.381425,
-      "longitude": -123.751918
+      "latitude": 48.38091,
+      "longitude": -123.751516
     },
     {
       "primaryStreetName": "7059 BRIARWOOD PL",
@@ -133843,7 +133848,7 @@
       "purpose": "Site preparation and driveway construction for 4 SFDs on an RU2 parcel",
       "progressSections": [
         {
-          "taskDescription": "Application Received — IN-PROGRESS",
+          "taskDescription": "Application Received — ON HOLD",
           "taskType": "",
           "startDate": 1785369600,
           "endDate": 1785369600
@@ -133853,7 +133858,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1785427867,
+      "lastUpdated": 1789383428,
       "relatedPermits": [],
       "latitude": 48.376644,
       "longitude": -123.619528
@@ -133942,6 +133947,40 @@
       "relatedPermits": [],
       "latitude": 48.377221,
       "longitude": -123.744921
+    },
+    {
+      "primaryStreetName": "WEST COAST RD",
+      "applicant": "",
+      "cityApplicationType": "Development Variance Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "PLN02584",
+      "applicationDate": 1787702400,
+      "addresses": [
+        "WEST COAST RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Vary Section 3.2 of SDS Bylaw No. 925 to exempt frontage requirement at time of subdivision.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — IN-PROGRESS",
+          "taskType": "",
+          "startDate": 1787702400,
+          "endDate": 1787702400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sooke",
+      "lastUpdated": 1787826676,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PLN01660",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
+      "latitude": 48.372908,
+      "longitude": -123.761622
     },
     {
       "primaryStreetName": "688 W 57TH AVENUE",
@@ -134423,7 +134462,7 @@
         "2323 FIR STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 12-storey ( 11 levels)  mixed-use building consisting of:  \n\nPart of Level 1- Level 3 - Cultural Amenity Space (shell)\nPart of Level 1 and Level 2- 4  townhomes\nLevel 3 to Level 11 - 40  dwelling units ,\nall over 6 levels of parking levels (five of them below grade). \n\nNote: Level P1Mezzanine is considered the first storey.\nNote: Total number of dwelling units is 44 ( ( changed from  47 under DP-2025-00411).\nNote: The design will comply with CSA B651 with respects to interior accessible routes and doors only.\nRadio Antenna System to be installed in this building.\n\nThis building was designed to VBBL 2019. \n\n14-Jun-2023 - Stage I (excavation & shoring) issued. \n10-Oct-2024 - Stage II (foundation to grade) issued. \n19-Jun-2026 - Stage III (full permit)  issued.\nProject Value: $20,000,000.00\nProperty Use: Cultural/Recreational Uses, Dwelling Uses, Parking Uses\nSpecific Use: Artist Studio - Class B, Multiple Dwelling, Parking Garage\nNeighbourhood: Fairview",
+      "purpose": "Certified Professional Program - New Building - To construct a 12-storey ( 11 levels)  mixed-use building consisting of:  \n\nPart of Level 1- Level 3 - Cultural Amenity Space (shell)\nPart of Level 1 and Level 2- 4  townhomes\nLevel 3 to Level 11 - 40  dwelling units ,\nall over 6 levels of parking levels (five of them below grade). \n\nNote: Level P1Mezzanine is considered the first storey.\nNote: Total number of dwelling units is 44 ( ( changed from  47 under DP-2025-00411).\nNote: The design will comply with CSA B651 with respects to interior accessible routes and doors only.\nRadio Antenna System to be installed in this building.\n\nThis building was designed to VBBL 2019. \n\n14-Jun-2023 - Stage I (excavation & shoring) issued. \n10-Oct-2024 - Stage II (foundation to grade) issued. \n19-Jun-2026 - Stage III (full permit)  issued.\nProject Value: $20,000,000.00\nNeighbourhood: Fairview",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -134460,7 +134499,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789383445,
       "relatedPermits": [],
       "projectValue": 20000000,
       "latitude": 49.265191,
@@ -134585,7 +134624,7 @@
         "110 W 4TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 9-storey mixed-use building with office and laboratory use all over four (4) levels of underground parking having vehicular access from the rear lane.\r\n\r\nThe new building is designed to provide a highly flexible lab capable building with the potential to have up to 70% lab and up to 30% office/support space located anywhere in the building. The flexibility will respond to changing needs to the occupants for changes in science programs, personnel requirements, operational changes, changing equipment and growth/reduction of space needs. \r\n\r\nStage I: Excavation/shoring issued July 27/ 22.\r\nStage II: Full BP  issued February 22/23.(tn for mv)\r\n\r\nRevision #1:Change of occupancy uses on Levels 2, 8 & 9 from Lab/office to office.\r\n\r\nRevision #2: Changes as indicated in the letter provided by the archited dated April 9, 2025.\nProject Value: $75,000,000.00\nProperty Use: Manufacturing Uses, Office Uses, Parking Uses\nSpecific Use: Parking Garage, General Office, Not Applicable\nNeighbourhood: Mount Pleasant",
+      "purpose": "Certified Professional Program - New Building - To construct a 9-storey mixed-use building with office and laboratory use all over four (4) levels of underground parking having vehicular access from the rear lane.\r\n\r\nThe new building is designed to provide a highly flexible lab capable building with the potential to have up to 70% lab and up to 30% office/support space located anywhere in the building. The flexibility will respond to changing needs to the occupants for changes in science programs, personnel requirements, operational changes, changing equipment and growth/reduction of space needs. \r\n\r\nStage I: Excavation/shoring issued July 27/ 22.\r\nStage II: Full BP  issued February 22/23.(tn for mv)\r\n\r\nRevision #1:Change of occupancy uses on Levels 2, 8 & 9 from Lab/office to office.\r\n\r\nRevision #2: Changes as indicated in the letter provided by the archited dated April 9, 2025.\nProject Value: $75,000,000.00\nNeighbourhood: Mount Pleasant",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -134610,7 +134649,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789383445,
       "relatedPermits": [],
       "projectValue": 75000000,
       "latitude": 49.267163,
@@ -134716,7 +134755,7 @@
         "989 W 67TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 9- storey mixed use building with 2 level of underground parking. Commercial and office portions are on 1st, 2nd and 3rd storey.\r\nSTAGE CONSTRUCTION\r\n\r\nRadio Antenna Systems installed in the building\r\n\r\n19-Aug-2022 - Stage I (excavation/shoring) issued. \r\n\r\nStage II (foundation to grade) issued November 10/22\r\n\r\nStage III (full BP) issued Febr 14/ 2024\r\n\r\nRevision #1:Changes per DPMA DP-2025-00678 and as described in the architectural letter, and to incorporate AL-2024-00123 mitigating measures\nProject Value: $27,650,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Marpole",
+      "purpose": "Certified Professional Program - New Building - To construct a 9- storey mixed use building with 2 level of underground parking. Commercial and office portions are on 1st, 2nd and 3rd storey.\r\nSTAGE CONSTRUCTION\r\n\r\nRadio Antenna Systems installed in the building\r\n\r\n19-Aug-2022 - Stage I (excavation/shoring) issued. \r\n\r\nStage II (foundation to grade) issued November 10/22\r\n\r\nStage III (full BP) issued Febr 14/ 2024\r\n\r\nRevision #1:Changes per DPMA DP-2025-00678 and as described in the architectural letter, and to incorporate AL-2024-00123 mitigating measures\nProject Value: $27,650,000.00\nNeighbourhood: Marpole",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -134753,7 +134792,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789383445,
       "relatedPermits": [],
       "projectValue": 27650000,
       "latitude": 49.210962,
@@ -134912,7 +134951,7 @@
         "7576 GRANVILLE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit has been issued for all site work and below grade facilities, including two levels of common parking for the proposed development:\n\nTo construct a 3-storey Multiple Dwelling consisting of three Buildings: \na 3-storey Multiple Dwelling (North Building) containing six dwelling units, a 3-storey Multiple Dwelling (West Building) containing six dwelling units, and a 3-storey Multiple Dwelling (East Building) containing four 3-storey dwelling units and one 2-storey dwelling, all over one level of parking, having vehicular access from the rear lane.  \n\nStorage garage is designed as a separate building (3.2.1.2.). North and East buildings are designed as one building and connected by exit stair #1.\nTotal Dwelling units = 17.\n\nRefer to BP-2022-02702 for Building 1 (North Building).\nRefer to BP-2022-02703 for Building 2 (West Building).\nRefer to BP-2022-02704 for Building 3 (East Building).\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective March 28, 2022.  \nBuilding to be sprinklered to NFPA 13 requirements, as required by 3.2.5.5.(3)(b).\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation and Shoring - issued November 9, 2022\n\nRevision 1 - Change of Geotechnical Engineer of Record, from Ivan Chu, P. Eng. to Read Fenton, P. Eng., effective January 24, 2023. - issued March 8, 2023\n\nStage 2 - Foundation to Grade - issued April 25, 2023\n\nStage 2- Revision #2- 2025-12-14- S.Le\n- Change of Certified Professional from Alex Gannochka, M.A.Sc., P.Eng., CP, RSE to Jack Hui, M.Eng., P.Eng., CP. effective November 12th, 2025.\n- Change of Geotechnical Engineer of Record from Read Fenton, P.Eng. to Matt Kokan, P.Eng effective August 19th, 2025.\n\nStage 3 - Superstructure Only- 2026-01-08- S.Le\nRefer to DP minor amendment DP-2025-00498.\n\nStage 4- Full Construction- 2026-02-23- S.Le\nChange of Architect of Record to Gwillim Symons, Architect AIBC effective September 8th, 2025.\n\n2026-04-16- Engineering Judgements accepted.\nProject Value: $8,006,600.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Multiple Dwelling, Parking Garage\nNeighbourhood: Marpole\nContractor: Landa Global Properties Ltd",
+      "purpose": "Certified Professional Program - New Building - This permit has been issued for all site work and below grade facilities, including two levels of common parking for the proposed development:\n\nTo construct a 3-storey Multiple Dwelling consisting of three Buildings: \na 3-storey Multiple Dwelling (North Building) containing six dwelling units, a 3-storey Multiple Dwelling (West Building) containing six dwelling units, and a 3-storey Multiple Dwelling (East Building) containing four 3-storey dwelling units and one 2-storey dwelling, all over one level of parking, having vehicular access from the rear lane.  \n\nStorage garage is designed as a separate building (3.2.1.2.). North and East buildings are designed as one building and connected by exit stair #1.\nTotal Dwelling units = 17.\n\nRefer to BP-2022-02702 for Building 1 (North Building).\nRefer to BP-2022-02703 for Building 2 (West Building).\nRefer to BP-2022-02704 for Building 3 (East Building).\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective March 28, 2022.  \nBuilding to be sprinklered to NFPA 13 requirements, as required by 3.2.5.5.(3)(b).\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation and Shoring - issued November 9, 2022\n\nRevision 1 - Change of Geotechnical Engineer of Record, from Ivan Chu, P. Eng. to Read Fenton, P. Eng., effective January 24, 2023. - issued March 8, 2023\n\nStage 2 - Foundation to Grade - issued April 25, 2023\n\nStage 2- Revision #2- 2025-12-14- S.Le\n- Change of Certified Professional from Alex Gannochka, M.A.Sc., P.Eng., CP, RSE to Jack Hui, M.Eng., P.Eng., CP. effective November 12th, 2025.\n- Change of Geotechnical Engineer of Record from Read Fenton, P.Eng. to Matt Kokan, P.Eng effective August 19th, 2025.\n\nStage 3 - Superstructure Only- 2026-01-08- S.Le\nRefer to DP minor amendment DP-2025-00498.\n\nStage 4- Full Construction- 2026-02-23- S.Le\nChange of Architect of Record to Gwillim Symons, Architect AIBC effective September 8th, 2025.\n\n2026-04-16- Engineering Judgements accepted.\nProject Value: $8,006,600.00\nNeighbourhood: Marpole\nContractor: Landa Global Properties Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -134961,7 +135000,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789383445,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2022-02702",
@@ -135162,7 +135201,7 @@
         "658 W 41ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 11-storey mixed use building of office and retail occupancy, transit plaza, mall entrance, entrance to existing medical offices, and a below grade transit concourse with future connection to the existing Oakridge Station.\nThis permit also includes upgrading to the existing Terraces/ Medical building in accordance to Part 11 (see BP-2023-03223). (BP fees revised to include this work)\n\nStage I (Excavation/shoring) issued Jan 30/ 23.\n\nStage II (foundation to grade) issued April 24/ 2023.\n\nStage III: Construction of office building, transit plaza and main mall entry.\n\nStage IV: To complete landscaping scope  (issued Febr 20/2025)\n\nRevision 1:Changes during construction from level P2 to roof, including a fit out for office space on concourse level. (issued August 19/2025)\nProject Value: $67,000,200.00\nProperty Use: Office Uses, Retail Uses\nSpecific Use: General Office, Retail Store\nNeighbourhood: Oakridge",
+      "purpose": "Certified Professional Program - New Building - To construct a new 11-storey mixed use building of office and retail occupancy, transit plaza, mall entrance, entrance to existing medical offices, and a below grade transit concourse with future connection to the existing Oakridge Station.\nThis permit also includes upgrading to the existing Terraces/ Medical building in accordance to Part 11 (see BP-2023-03223). (BP fees revised to include this work)\n\nStage I (Excavation/shoring) issued Jan 30/ 23.\n\nStage II (foundation to grade) issued April 24/ 2023.\n\nStage III: Construction of office building, transit plaza and main mall entry.\n\nStage IV: To complete landscaping scope  (issued Febr 20/2025)\n\nRevision 1:Changes during construction from level P2 to roof, including a fit out for office space on concourse level. (issued August 19/2025)\nProject Value: $67,000,200.00\nNeighbourhood: Oakridge",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -135199,7 +135238,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789383445,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2023-03223",
@@ -135530,7 +135569,7 @@
         "3532 E HASTINGS STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 8-storey (7-storey Z&D) noncombustible mixed-use building consists of\r\n1st storey - Parking and service rooms,\r\n2nd to 3rd storeys - Retail use (shell only, double height), bicycle storage, two-storey dwelling units and Amenity room,\r\n4th to 8th storeys - dwelling units and outdoor amenity at 8th storey,\r\nhaving vehicular access from the lane.\r\n\r\nTotal dwelling units = 34 secured market rentals.\r\nAll tenant spaces require separate tenant improvement permits.\r\n\r\nNotes:\r\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on February 9, 2023.  \r\n2. Building to be sprinklered to NFPA 13 requirements. \r\n3. Radio Antenna System to be installed in this building.\r\n4. One 2 hr vertical shaft with grease duct is proposed for the only CRU on the ground floor of this mixed-use building. \r\n\r\nSTAGED CONSTRUCTION\r\nStage 1 - Excavation and Shoring - issued January 12, 2024 by T. Lee\r\nStage 2 - Foundation to L1 slab (Aug 20/24, A. Min) related to M/A DP-2023-00318\r\nStage 3 - Full Construction (Feb 19/25, A. Min) related to M/A DP-2024-00948\r\n\r\nStage 1 - REVISION #1 (Feb 20/25, A. Min): Revised excavation & shoring drawings with updated elevations and details. See Authorized Staged Construction Form for details.\nProject Value: $10,300,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Retail Store\nNeighbourhood: Hastings-Sunrise\nContractor: Pro-Can Construction Group Corp",
+      "purpose": "Certified Professional Program - New Building - To construct a 8-storey (7-storey Z&D) noncombustible mixed-use building consists of\r\n1st storey - Parking and service rooms,\r\n2nd to 3rd storeys - Retail use (shell only, double height), bicycle storage, two-storey dwelling units and Amenity room,\r\n4th to 8th storeys - dwelling units and outdoor amenity at 8th storey,\r\nhaving vehicular access from the lane.\r\n\r\nTotal dwelling units = 34 secured market rentals.\r\nAll tenant spaces require separate tenant improvement permits.\r\n\r\nNotes:\r\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on February 9, 2023.  \r\n2. Building to be sprinklered to NFPA 13 requirements. \r\n3. Radio Antenna System to be installed in this building.\r\n4. One 2 hr vertical shaft with grease duct is proposed for the only CRU on the ground floor of this mixed-use building. \r\n\r\nSTAGED CONSTRUCTION\r\nStage 1 - Excavation and Shoring - issued January 12, 2024 by T. Lee\r\nStage 2 - Foundation to L1 slab (Aug 20/24, A. Min) related to M/A DP-2023-00318\r\nStage 3 - Full Construction (Feb 19/25, A. Min) related to M/A DP-2024-00948\r\n\r\nStage 1 - REVISION #1 (Feb 20/25, A. Min): Revised excavation & shoring drawings with updated elevations and details. See Authorized Staged Construction Form for details.\nProject Value: $10,300,000.00\nNeighbourhood: Hastings-Sunrise\nContractor: Pro-Can Construction Group Corp",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -135549,7 +135588,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789383445,
       "relatedPermits": [],
       "projectValue": 10300000,
       "latitude": 49.280856,
@@ -135675,7 +135714,7 @@
         "477 W 42ND AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 19-storey residential building (124 dwelling units) consisting of:\r\n  1st to 4th storeys - Podium\r\n  5th to 18th storeys - Tower; indoor & outdoor amenities at L5\r\n  19th storey - indoor & outdoor amenities\r\n\r\nall over 2 levels of underground parking accessed from lane & bike storage rooms.\r\n\r\nNotes:\r\n1. This permit has been reviewed under the provisions of VBBL 2019.\r\n2. A radio antenna system is required.\r\n\r\nSTAGED CONSTRUCTION\r\nSTAGE I: Excavation & Shoring (S.Yoo)\r\nISSUED: Dec. 10, 2024\r\n\r\nSTAGE II: Full Construction (S.Yoo)\r\nISSUED: May 20, 2025\nProject Value: $50,481,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Oakridge\nContractor: ITC Projects Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 19-storey residential building (124 dwelling units) consisting of:\r\n  1st to 4th storeys - Podium\r\n  5th to 18th storeys - Tower; indoor & outdoor amenities at L5\r\n  19th storey - indoor & outdoor amenities\r\n\r\nall over 2 levels of underground parking accessed from lane & bike storage rooms.\r\n\r\nNotes:\r\n1. This permit has been reviewed under the provisions of VBBL 2019.\r\n2. A radio antenna system is required.\r\n\r\nSTAGED CONSTRUCTION\r\nSTAGE I: Excavation & Shoring (S.Yoo)\r\nISSUED: Dec. 10, 2024\r\n\r\nSTAGE II: Full Construction (S.Yoo)\r\nISSUED: May 20, 2025\nProject Value: $50,481,000.00\nNeighbourhood: Oakridge\nContractor: ITC Projects Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -135706,7 +135745,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789383445,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2024-01107",
@@ -140887,7 +140926,7 @@
         "577 W 35TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct Building 3 ( East) . This is a 6 storey non combustible  residential  building containing 55 residential units on top of a common 2- level underground parkade. \n\nfor full project description refer to BP-2023-04052. \n\nStage I (E &S) issued -27-Sep-2024.\nStage II (Full permit) - issued 19-Aug-25\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Riley Park\nContractor: ETRO CONSTRUCTION LIMITED",
+      "purpose": "Certified Professional Program - New Building - To construct Building 3 ( East) . This is a 6 storey non combustible  residential  building containing 55 residential units on top of a common 2- level underground parkade. \n\nfor full project description refer to BP-2023-04052. \n\nStage I (E &S) issued -27-Sep-2024.\nStage II (Full permit) - issued 19-Aug-25\nNeighbourhood: Riley Park\nContractor: ETRO CONSTRUCTION LIMITED",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -140912,7 +140951,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789383445,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2023-04052",
@@ -142789,7 +142828,7 @@
         "1025 W 42ND AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building  consisting  of two towers (North Tower, 26 storey & South tower, 18 storey) connected with an 8 storey podium.  The building contains 2 retail units (Drug Store and Retail Store) and 361 residential units and one (1) guest suite.  The project  consists of following components: \r\n\r\nPODIUM: 8 storey (7-Level Z/D Bylaw) Podium: \r\n   Level 1  - CRU’s, residential lobbies garbage & recycle room, \r\n   Level 1-Upper-  Bike rooms, and storage space for the retail at 5725 Oak St. \r\n   Level 2  - Residential suites and amenity multi purpose room, fitness center\r\n   Levels 3  to 6 - Residential suites \r\n   Level 7  - Residential suites, indoor amenity &  rooftop amenity \r\n\r\nTwo Towers: \r\n   Levels 8 to 17- Residential suites \r\n   Levels 18 to 25 – residential suites in North Tower only, \r\nall over 3 levels of underground parking. \r\n\r\nThis building is equipped with radio antenna system. \r\nVBBL2019\r\n\r\nStage 1 (E & S) issued -  26-Sep-2024\r\nStage 2 (Full permit)  issued - 24-Apr-2025\nProject Value: $111,993,200.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Dwelling Unit, Not Applicable\nNeighbourhood: Oakridge\nContractor: Wesgroup Contracting Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a mixed-use building  consisting  of two towers (North Tower, 26 storey & South tower, 18 storey) connected with an 8 storey podium.  The building contains 2 retail units (Drug Store and Retail Store) and 361 residential units and one (1) guest suite.  The project  consists of following components: \r\n\r\nPODIUM: 8 storey (7-Level Z/D Bylaw) Podium: \r\n   Level 1  - CRU’s, residential lobbies garbage & recycle room, \r\n   Level 1-Upper-  Bike rooms, and storage space for the retail at 5725 Oak St. \r\n   Level 2  - Residential suites and amenity multi purpose room, fitness center\r\n   Levels 3  to 6 - Residential suites \r\n   Level 7  - Residential suites, indoor amenity &  rooftop amenity \r\n\r\nTwo Towers: \r\n   Levels 8 to 17- Residential suites \r\n   Levels 18 to 25 – residential suites in North Tower only, \r\nall over 3 levels of underground parking. \r\n\r\nThis building is equipped with radio antenna system. \r\nVBBL2019\r\n\r\nStage 1 (E & S) issued -  26-Sep-2024\r\nStage 2 (Full permit)  issued - 24-Apr-2025\nProject Value: $111,993,200.00\nNeighbourhood: Oakridge\nContractor: Wesgroup Contracting Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -142820,7 +142859,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787482616,
+      "lastUpdated": 1789383445,
       "relatedPermits": [],
       "projectValue": 111993200,
       "latitude": 49.233068,
@@ -146625,6 +146664,56 @@
       "minor": true,
       "approvalStatus": "Approved",
       "storeys": 2
+    },
+    {
+      "primaryStreetName": "288 W 8TH AVENUE",
+      "applicant": "Susana Chui DBA: Camphora Engineering",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2024-02864",
+      "applicationDate": 1722326400,
+      "addresses": [
+        "288 W 8TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey mixed-use building consisting of:\n  1st storey - office (shell only); manufacturing with mezzanine (shell only)\n  2nd storey - garbage/recycling room; storage room; loading bays\n  3rd storey - manufacturing (shell only)\n  4th to 6th storeys - offices (shell only)\n  7th storey - indoor & outdoor amenities\n\nall over 2 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Sept. 11, 2026\nProject Value: $22,700,000.00\nNeighbourhood: Mount Pleasant\nContractor: Axiom Builders Inc",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1722326400,
+          "endDate": 1722326400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1722326400,
+          "endDate": 1722326400
+        },
+        {
+          "taskDescription": "STAGE I: Excavation & Shoring",
+          "taskType": "",
+          "startDate": 1789113600,
+          "endDate": 1789113600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1722326400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-01650",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 22700000,
+      "latitude": 49.263606,
+      "longitude": -123.110609,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 7
     },
     {
       "primaryStreetName": "3466 FRANKLIN STREET",
@@ -183652,7 +183741,7 @@
         "3395 E 27TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a 3 storey 2-unit front building and a 2 storey 1-unit rear building, with 2 parking spaces having access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Tsung-Hua Yang) P.Eng (604-729-0585) Geotechnical\n3. Schedule B: (Tsung-Hua Yang) P.Eng (604-729-0585) Structural\n4. HPO: Residential Builder - Aqua Homes Development Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n\n uilding 2 - Rear / North\n3395 E 27th Av - One Dwelling unit (1st & 2nd Level)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $276,000.00\nNeighbourhood: Renfrew-Collingwood\nContractor: Aqua Homes Development Ltd",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a 3 storey 2-unit front building and a 2 storey 1-unit rear building, with 2 parking spaces having access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in rear yard. \n2. Schedule B: (Tsung-Hua Yang) P.Eng (604-729-0585) Geotechnical\n3. Schedule B: (Tsung-Hua Yang) P.Eng (604-729-0585) Structural\n4. HPO: Residential Builder - Aqua Homes Development Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n\nBuilding 2 - Rear / North\n3395 E 27th Av - One Dwelling unit (1st & 2nd Level)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $276,000.00\nNeighbourhood: Renfrew-Collingwood\nContractor: Aqua Homes Development Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -183671,7 +183760,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789383445,
       "relatedPermits": [],
       "projectValue": 276000,
       "latitude": 49.246469,
@@ -199272,6 +199361,89 @@
       "storeys": 2
     },
     {
+      "primaryStreetName": "6648 BUTLER STREET",
+      "applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01505",
+      "applicationDate": 1778054400,
+      "addresses": [
+        "6648 BUTLER STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey 2 unit front building and a two-storey 2 unit rear building with a carport providing 3  parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in front & court yard, Interior component located in second floor bedroom closet.\n2. Schedule B: (G. BOZSIK) P.Eng (604.431.0055) Structural & Geotechnical\n3. HPO: Residential Builder - Sona Development Ltd.\n\nNote: This 3 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13R \n\nAddress Information:\n\nBUILDING 1 (FRONT/WEST)\n#1 - 6648 Butler St - One Dwelling Unit (1st & 2nd floor)\n#2 - 6648 Butler St - One Dwelling Unit (basement)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $599,000.00\nNeighbourhood: Killarney\nContractor: Sona Development Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1778054400,
+          "endDate": 1778054400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1778054400,
+          "endDate": 1778054400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1778054400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2026-01507",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 599000,
+      "latitude": 49.223143,
+      "longitude": -123.033309,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "6650 BUTLER STREET",
+      "applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01506",
+      "applicationDate": 1778054400,
+      "addresses": [
+        "6650 BUTLER STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey 2 unit front building and a two-storey 2 unit rear building with a carport providing 3  parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in court yard, Interior component located in second floor closet.\n2. Schedule B: (G. BOZSIK) P.Eng (604.431.0055) Structural & Geotechnical\n3. HPO: Residential Builder - Sona Development Ltd.\n\nNote: This 3 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to 2 X NFPA 13D\n\nAddress Information:\n\nBUILDING 2 (REAR/EAST)\n#1-6650 Butler St - One Dwelling Unit (1st - 2nd floor)\n#2-6650 Butler St - One Dwelling Unit (basement)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $599,000.00\nNeighbourhood: Killarney",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1778054400,
+          "endDate": 1778054400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1778054400,
+          "endDate": 1778054400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1778054400,
+      "relatedPermits": [],
+      "projectValue": 599000,
+      "latitude": 49.223103,
+      "longitude": -123.033677,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "2720 WARD STREET",
       "applicant": "VictorEric Design Group Ltd.",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -199602,8 +199774,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
-      "relatedPermits": [],
+      "lastUpdated": 1789383445,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2024-02864",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 142000,
       "latitude": 49.263606,
       "longitude": -123.110609,
@@ -245492,7 +245669,7 @@
     },
     {
       "primaryStreetName": "6414 ELGIN STREET #3",
-      "applicant": "Amber Wilson",
+      "applicant": "Mastery Services Ltd. DBA: Antonio Lau",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "DB-2025-03467",
@@ -245520,7 +245697,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1754035200,
+      "lastUpdated": 1789383445,
       "relatedPermits": [],
       "projectValue": 350000,
       "latitude": 49.226248,
@@ -268887,8 +269064,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1778054400,
-      "relatedPermits": [],
+      "lastUpdated": 1789383445,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-01505",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 40000,
       "latitude": 49.223143,
       "longitude": -123.033309,
