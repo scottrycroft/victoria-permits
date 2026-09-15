@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1789383191,
+  "dateRetrieved": 1789469585,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18792,14 +18792,21 @@
       "addresses": [
         "7835 108 ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Residential - New Construction - Duplex Dwelling",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1789344000,
+          "endDate": 1789344000
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1789469836,
       "relatedPermits": [],
       "latitude": 49.14578,
       "longitude": -122.924133
@@ -120760,7 +120767,7 @@
         "1514 CEDAR HILL CROSS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 TO 8 STOREY MIXED USE DEVELOPMENT CONTAINING 134 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
+      "purpose": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -120824,7 +120831,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787741604,
+      "lastUpdated": 1789469588,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -120835,7 +120842,7 @@
         }
       ],
       "major": true,
-      "storeys": 8
+      "storeys": 6
     },
     {
       "primaryStreetName": "1705 LANSDOWNE RD",
@@ -123447,12 +123454,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1788850800,
+          "endDate": 1789369200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1789369200,
+          "endDate": 1789369200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1789369200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788951207,
+      "lastUpdated": 1789469588,
       "relatedPermits": [
         {
           "relatedPermitID": "BOV01197",
@@ -129255,14 +129280,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1786099959,
+      "lastUpdated": 1789469588,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01128",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1783584000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 TO 8 STOREY MIXED USE DEVELOPMENT CONTAINING 134 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
+          "relatedPermitDescription": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
         }
       ],
       "major": true,
@@ -131730,39 +131755,27 @@
         "2060 White Birch Road"
       ],
       "status": "ARCHIVED",
-      "purpose": "Development Permit and Zoning Amendment application for a 60-unit multi-family apartment building development with a mix of underground and above-ground parking.",
+      "purpose": "Development Permit application for a 4 storey 61 unit multi-unit residential development with surface and underground parking.",
       "progressSections": [
         {
-          "taskDescription": ".",
+          "taskDescription": "Application under review by staff.",
           "taskType": "",
-          "startDate": 1705906800,
-          "endDate": 1705906800
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
         {
           "docName": "Plans",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-Plans-June-2023.pdf"
-        },
-        {
-          "docName": "Revised Plans (Aug. 2023)",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-Plans-August-2023.pdf"
-        },
-        {
-          "docName": "Revised Plans (Nov. 2023)",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-Revised-Plans-Nov-2023.pdf"
-        },
-        {
-          "docName": "Traffic Study",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-2023-11-17-Traffic-Study.pdf"
+          "docURL": "https://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-Plans.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1779002791,
+      "lastUpdated": 1789469801,
       "relatedPermits": [],
-      "major": true
+      "storeys": 4
     },
     {
       "primaryStreetName": "2114 Jahn Place",
@@ -132088,7 +132101,7 @@
       "purpose": "Development Variance Permit application to vary the Sign Bylaw in order to allow more than 50% of each window to be covered by window signs.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
           "startDate": 1783926000,
           "endDate": 1783926000
@@ -132098,16 +132111,12 @@
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/2306-Beacon-Ave-Plans-July-2026.pdf"
-        },
-        {
-          "docName": "July 13, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/58885/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1783680955,
+      "lastUpdated": 1789469801,
       "relatedPermits": []
     },
     {
@@ -132346,6 +132355,42 @@
       "storeys": 4
     },
     {
+      "primaryStreetName": "9775 First Street",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "d3279e423e",
+      "applicationDate": 1789469801,
+      "addresses": [
+        "9775 First Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Permit and Development Variance Permit application for the form and character of an elevated covered walkway, and to allow an accessory structure to be located within the exterior side yard.",
+      "progressSections": [
+        {
+          "taskDescription": "Notice of New Development Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9775-First-Street-Plans.pdf"
+        },
+        {
+          "docName": "Notice of New Development Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9775-First-Street-Notice-of-New-Application.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1789469801,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "9686 Third Street",
       "applicant": "",
       "cityApplicationType": "Development Permit",
@@ -132359,32 +132404,17 @@
       "purpose": "Temporary Use Permit application to allow Extreme Weather Response Shelter as a permitted use on the subject property (St. Andrew Church) for a maximum of three years.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1782111600,
-          "endDate": 1782111600
-        },
-        {
-          "taskDescription": "Notice of Temporary Use Permit",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1783926000,
+          "endDate": 1783926000
         }
       ],
-      "documents": [
-        {
-          "docName": "June 22, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/58722/9b-TEM00003%20-%209691%20Fourth%20St%20-%20St.%20Andrew%20Church.pdf"
-        },
-        {
-          "docName": "Notice of Temporary Use Permit",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/9686-Third-Street-Notice-of-TUP.pdf"
-        }
-      ],
+      "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1782903352,
+      "lastUpdated": 1789469801,
       "relatedPermits": []
     },
     {
@@ -137586,7 +137616,7 @@
         "2055 E BROADWAY"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct  a new 6-storey wood frame strata condominium building containing 64 units, all over 2 levels of underground parking.\r\n\r\n17-Jan-2025 - Stage 1 (excavation & shoring) issued. \r\n02-May-2025 - BP Rev#1(extended excavation) issued.\r\n20-June-2025 - Stage 2 (foundation to grade) issued.\r\n13-Aug-2025  - Stage 3 (full permit) issued.\r\n\r\nRadio antenna system to be installed in this building.\nProject Value: $16,240,000.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Multiple Dwelling, Parking Garage\nNeighbourhood: Grandview-Woodland\nContractor: Bucci Construction Limited",
+      "purpose": "Certified Professional Program - New Building - To construct  a new 6-storey wood frame strata condominium building containing 64 units, all over 2 levels of underground parking.\r\n\r\n17-Jan-2025 - Stage 1 (excavation & shoring) issued. \r\n02-May-2025 - BP Rev#1(extended excavation) issued.\r\n20-June-2025 - Stage 2 (foundation to grade) issued.\r\n13-Aug-2025  - Stage 3 (full permit) issued.\r\n\r\nRadio antenna system to be installed in this building.\nProject Value: $16,240,000.00\nNeighbourhood: Grandview-Woodland\nContractor: Bucci Construction Limited",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -137623,7 +137653,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1787324903,
+      "lastUpdated": 1789469852,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-03948",
@@ -140850,7 +140880,7 @@
         "5080 ASH STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct Building 2 (Middle) . This is a 5 storey noncombustible  residential  building containing 34 residential units  on top of common 2 level underground parkade. \n\nFor full project description refer to BP-2023-04052. \n\nStage I (E & S) issued - 27-Sep-2024. \nStage II (Full permit) - issued 19-Aug-25\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Multiple Dwelling, Parking Garage\nNeighbourhood: South Cambie\nContractor: ETRO CONSTRUCTION LIMITED",
+      "purpose": "Certified Professional Program - New Building - To construct Building 2 (Middle) . This is a 5 storey noncombustible  residential  building containing 34 residential units  on top of common 2 level underground parkade. \n\nFor full project description refer to BP-2023-04052. \n\nStage I (E & S) issued - 27-Sep-2024. \nStage II (Full permit) - issued 19-Aug-25\nNeighbourhood: South Cambie\nContractor: ETRO CONSTRUCTION LIMITED",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -140875,7 +140905,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789469852,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2023-04052",
@@ -306374,7 +306404,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1784876400,
-          "endDate": null
+          "endDate": 1789369200
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -306414,7 +306444,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786013565,
+      "lastUpdated": 1789469588,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00039",
@@ -313668,7 +313698,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1786086000,
-          "endDate": null
+          "endDate": 1789369200
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -313708,7 +313738,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786186358,
+      "lastUpdated": 1789469588,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -316639,7 +316669,7 @@
         "937 VIEW ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to for revisions to original approval.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "purpose": "The City is reviewing a Delegated Development Permit application for revisions to original approval.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
@@ -316665,7 +316695,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1789023600,
+      "lastUpdated": 1789469588,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01105",
@@ -379587,12 +379617,12 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=8DD30CE9-5257-4B06-B80B-D22A44CBB9A1&folderId=58400C240807084952634194"
         },
         {
-          "docName": "2026-05-27 - Campus Renewal Booklet_Bubbled_Deemed 2025-12-29.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7F17B971-59F3-490F-AFD0-3DB0D0E9AE3B&folderId=58400C240807084952634194"
+          "docName": "2026-05-27 - Campus Renewal Booklet.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=98212C260914160517674930&folderId=58400C240807084952634194"
         },
         {
-          "docName": "2026-05-27 - Campus Renewal Booklet_Deemed 2025-12-29.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EBC089FA-33AF-4CC4-99E1-3F3CE46B1E4A&folderId=58400C240807084952634194"
+          "docName": "2026-05-27 - Campus Renewal Booklet_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=98212C260914160517725584&folderId=58400C240807084952634194"
         },
         {
           "docName": "26-076.pdf",
@@ -379600,7 +379630,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1789037587,
+      "lastUpdated": 1789469588,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00441",
