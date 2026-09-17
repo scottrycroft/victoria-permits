@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1789555972,
+  "dateRetrieved": 1789642366,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8416,8 +8416,16 @@
       ],
       "documents": [],
       "city": "Colwood",
-      "lastUpdated": 1781852400,
-      "relatedPermits": [],
+      "lastUpdated": 1789642368,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00020",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT",
+          "relatedPermitApplicationDate": 1781596800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "This application proposes to vary Section 3.1.1 of the Off-Street Parking Regulations Bylaw No. 1909, 2022  to reduce minimum parking requirements by 10%, and Section 10.20.6 to reduce the setback from the south property boundary in Area 4 from 10m to 2.5m."
+        }
+      ],
       "major": true
     },
     {
@@ -10742,8 +10750,16 @@
         }
       ],
       "city": "Colwood",
-      "lastUpdated": 1781347974,
-      "relatedPermits": [],
+      "lastUpdated": 1789642368,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00015",
+          "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT",
+          "relatedPermitApplicationDate": 1754985600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "This application proposes to vary Section 11 of the Sign Bylaw No. 60 to permit 3 free standing signs."
+        }
+      ],
       "minor": true
     },
     {
@@ -13631,14 +13647,21 @@
       "addresses": [
         "5301 3 AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a duplex dwelling with secondary suites",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "Approved",
+          "startDate": 1789516800,
+          "endDate": 1789516800
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1789642609,
       "relatedPermits": [],
       "latitude": 49.008678,
       "longitude": -123.0762
@@ -15304,8 +15327,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
-      "relatedPermits": [],
+      "lastUpdated": 1789642609,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP023348",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 49.084956,
       "longitude": -123.05868
     },
@@ -20876,13 +20904,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1789210660,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP023070",
-          "relatedPermitType": "Development Permit"
-        }
-      ],
+      "lastUpdated": 1789642609,
+      "relatedPermits": [],
       "latitude": 49.145541,
       "longitude": -122.893856,
       "minor": true
@@ -21612,6 +21635,33 @@
       "latitude": 49.148706,
       "longitude": -122.929003,
       "minor": true
+    },
+    {
+      "primaryStreetName": "4500 CLARENCE TAYLOR CRES",
+      "applicant": "",
+      "cityApplicationType": "Multi-Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023348",
+      "applicationDate": 1789642609,
+      "addresses": [
+        "4500 CLARENCE TAYLOR CRES"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Multi-Residential - New Construction",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1789642609,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP021762",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 49.084956,
+      "longitude": -123.05868
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -89344,9 +89394,9 @@
           "endDate": 1788850800
         },
         {
-          "taskDescription": "The application is under initial review by District Staff.",
-          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": 1783321200,
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": 1789974000,
           "endDate": null
         },
         {
@@ -89358,12 +89408,6 @@
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of Council to consider decision on the application.",
-          "taskType": "*COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         },
@@ -89389,7 +89433,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1788951207,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017937",
@@ -89524,6 +89568,12 @@
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
           "startDate": 1789542000,
+          "endDate": 1789542000
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": 1789974000,
           "endDate": null
         },
         {
@@ -89554,7 +89604,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017697",
@@ -89606,6 +89656,12 @@
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
           "startDate": 1789542000,
+          "endDate": 1789542000
+        },
+        {
+          "taskDescription": "Meeting date of Council to consider decision on the application.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": 1789974000,
           "endDate": null
         },
         {
@@ -89636,7 +89692,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017793",
@@ -105675,20 +105731,48 @@
           "endDate": 1788418800
         },
         {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1789455600,
+          "endDate": 1789542000
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1789542000,
+          "endDate": 1789542000
+        },
+        {
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1788418800,
           "endDate": null
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
+        {
+          "docName": "REVISED PLANS_LANDSCAPE_SEPT 15 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=525D2227-C436-45EC-ADF4-917011DB8980&folderId=00152C260720143722113765"
+        },
         {
           "docName": "SITE PLAN_JULY 20 2026",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A66B93E0-96E5-4785-9BD5-695A3E8CDAEA&folderId=00152C260720143722113765"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1788519195,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00847",
@@ -121043,8 +121127,16 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787914435,
-      "relatedPermits": []
+      "lastUpdated": 1789642368,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CBP00184",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1789545600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "2 STOREY K-12 FRANCOPHONE SCHOOL"
+        }
+      ]
     },
     {
       "primaryStreetName": "4088 LOCHSIDE DR",
@@ -121085,9 +121177,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLAN_ELEVATIONS_AUG 13 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=5C959CE2-0A06-4E70-A40C-04D22A7DD4C0&folderId=09371C260814113758716908"
+        },
+        {
+          "docName": "PLANS_LANDSCAPE_AUG 13 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=E5DE8C57-DE68-468C-88B8-64FD1032DA5F&folderId=09371C260814113758716908"
+        },
+        {
+          "docName": "PLANS_SITE_AUG 13 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AB32CB47-3AE7-4CA6-A26B-5EEBAE651496&folderId=09371C260814113758716908"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1789555974,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26695",
@@ -123165,9 +123270,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLANS_ELEVATION_SEPT 15 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6218871C-24F4-41A0-B785-9FF6499309B5&folderId=97737C260714144208093645"
+        },
+        {
+          "docName": "PLANS_SITE_SEPT 15 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D0E87E26-EC7B-44C1-BF6B-174136E90C0A&folderId=97737C260714144208093645"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1789555974,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00892",
@@ -123374,6 +123488,12 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1789455600,
+          "endDate": 1789542000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1789542000,
           "endDate": null
         }
       ],
@@ -123392,7 +123512,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1789555974,
+      "lastUpdated": 1789642368,
       "relatedPermits": []
     },
     {
@@ -129518,12 +129638,16 @@
       ],
       "documents": [
         {
+          "docName": "Architectural Concept",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1331D08B-2B0A-40D4-8336-D661EBB1CD22&folderId=03107C260728081446622495"
+        },
+        {
           "docName": "REVISED SITE PLAN_AUG 10 2026",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=F4AE6E51-9294-4698-95BA-6B83DD78A999&folderId=03107C260728081446622495"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786704742,
+      "lastUpdated": 1789642368,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -134800,7 +134924,7 @@
         "828 CAMBIE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey (29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage 1) - 09-Apr-2024\nRevision#2 (Stage 3) - 31-Aug-2026\nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n- VIP lounge & L6 food prep excluded from Stage 3 \n\nRevision#3 - 11-Sep-2026 \nChange contact information from Myles Wilby to John Reid.\n\nSTAGE 4 application is pending\nProject Value: $101,000,000.00\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 30-storey (29 per Z&DBl)mixed-use building consisting of:\n\nLevel 1 Hotel Lobby, Hotel Amenities shell (Kitchen, Bar, Restaurant), Residential Lobby and Amenity Fitness Centre\nLevel 2 Hotel units, Hotel Gym & Meeting Rooms \nLevel 3 Hotel units  \nLevel 4 Hotel units, six 2-level Residential rental units (L4 &L5) \nLevel 5 Hotel units, Residential units (upper level) \nLevel 6 Hotel residential unit (1), Catering Kitchen, Hotel Spa, Hotel roof deck with bar & Residential units (strata)\nLevel 7 to Level 30- Residential Units (strata) \nRooftop roof deck connected with the dwellings below,\n\nall over 6 levels of underground levels (1 level residential lockers and 5 levels parking garage) \n\nNOTE: Scope of work includes a restoration, retention, and designation of the façade of the exiting NEC  Heritage building on this site. \n          This building contains in total 109 Hotel units (108 sleeping units and one dwelling unit), 187 dwelling units (strata) and six 2-level dwelling units (rental). \n\nBP Stages Issued: \nStage 1 (excavation and shoring) - 30-Jun-2022\nStage 2 ( foundation to grade)    - 01-Apr-2025\nStage 3 ( full permit except  the commissary kitchen at L6, restaurant and restaurant kitchen at L1)- 02-Dec-2025\n\nBP Revisions Issued: \nRevision#1 (Stage 1) - 09-Apr-2024\nRevision#2 (Stage 3) - 31-Aug-2026\nBP revision after DPMA - DP-2026-00135\n- Change of Beatty address from 827 Beatty to 825 Beatty St. \n- Increase the height of the hotel component from 6 to 10 storeys;  number of hotel units added increased from 109 to 123\n- Modify hotel suite layouts in various locations\n- Modify hotel amenity levels (function and pre-function rms on Level 6)\n- Minor layout changes to rental suites\n- VIP lounge & L6 food prep excluded from Stage 3 \n\nRevision#3 - 11-Sep-2026 \nChange contact information from Myles Wilby to John Reid.\n\nSTAGE 4 application is pending\nProject Value: $101,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Restaurant - Class 2, Not Applicable, Sleeping Unit\nNeighbourhood: Downtown\nContractor: Amacon Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -134819,7 +134943,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 101000000,
       "latitude": 49.277816,
@@ -135027,7 +135151,7 @@
         "1325 W 70TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey multiple dwelling building consisting of 67 rental dwelling units over two levels of underground parking containing storage rooms, bike rooms, a garbage/recycle room, and service rooms, having vehicular access from the rear lane on this existing site. \n\nThis is a CP Process Permit and the applicant is Susana Chui, P. Eng., CP.\n\nBuilding to be sprinklered NFPA 13. \nRadio Antenna System is required. \n\n******THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL 2019********\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring (Apr 22/24, A. Min)\nStage 1 - REVISION #1 (Feb 18/25, A. Min): \n- Changed the CRP & Architect from Matthew Cheng, MAIBC to Duane Siegrist, MAIBC as of January 07, 2025. \n- Name of the geotechnical engineer's firm is changed from Horizon Engineering Inc. to RAM Geotechnical Engineering Ltd.\n\nStage 1 - REVISION #2 (Apr 16/25, A. Min):\n- Changed Excavation & Shoring Drawings based on the updated building footprint, updated tree removal, revised construction surcharge location, and revised slab elevations. \n\nStage 2: Full Construction related to DPMA DP-2025-00239 and updated Excavation & Shoring Drawing. Number of Dwelling units increased from 66 to 67. (Aug 22/25, A. Min)\n\nStage 2 - REVISION #3 (Feb 19/26, A. Min) \n- Enlarged the front vestibule and its layout.\n- Updated non-obstruction zone in front of two north storage rooms on Level P2 and structural drawing to match the storage room layout. \n- Updated foundation drainage and Parkade Drainage Treatment System piping\n- Revised drop ceilings and Level 2 suspended slab elevation and updated architectural assembly details to include wood trusses.\nProject Value: $16,563,221.75\nNeighbourhood: Marpole\nContractor: Edge Vancouver Construction Group Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey multiple dwelling building consisting of 67 rental dwelling units over two levels of underground parking containing storage rooms, bike rooms, a garbage/recycle room, and service rooms, having vehicular access from the rear lane on this existing site. \n\nThis is a CP Process Permit and the applicant is Susana Chui, P. Eng., CP.\n\nBuilding to be sprinklered NFPA 13. \nRadio Antenna System is required. \n\n******THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL 2019********\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring (Apr 22/24, A. Min)\nStage 1 - REVISION #1 (Feb 18/25, A. Min): \n- Changed the CRP & Architect from Matthew Cheng, MAIBC to Duane Siegrist, MAIBC as of January 07, 2025. \n- Name of the geotechnical engineer's firm is changed from Horizon Engineering Inc. to RAM Geotechnical Engineering Ltd.\n\nStage 1 - REVISION #2 (Apr 16/25, A. Min):\n- Changed Excavation & Shoring Drawings based on the updated building footprint, updated tree removal, revised construction surcharge location, and revised slab elevations. \n\nStage 2: Full Construction related to DPMA DP-2025-00239 and updated Excavation & Shoring Drawing. Number of Dwelling units increased from 66 to 67. (Aug 22/25, A. Min)\n\nStage 2 - REVISION #3 (Feb 19/26, A. Min) \n- Enlarged the front vestibule and its layout.\n- Updated non-obstruction zone in front of two north storage rooms on Level P2 and structural drawing to match the storage room layout. \n- Updated foundation drainage and Parkade Drainage Treatment System piping\n- Revised drop ceilings and Level 2 suspended slab elevation and updated architectural assembly details to include wood trusses.\nProject Value: $16,563,221.75\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Marpole\nContractor: Edge Vancouver Construction Group Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -135046,7 +135170,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 16563221.75,
       "latitude": 49.208791,
@@ -135166,7 +135290,7 @@
         "7576 GRANVILLE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit has been issued for all site work and below grade facilities, including two levels of common parking for the proposed development:\n\nTo construct a 3-storey Multiple Dwelling consisting of three Buildings: \na 3-storey Multiple Dwelling (North Building) containing six dwelling units, a 3-storey Multiple Dwelling (West Building) containing six dwelling units, and a 3-storey Multiple Dwelling (East Building) containing four 3-storey dwelling units and one 2-storey dwelling, all over one level of parking, having vehicular access from the rear lane.  \n\nStorage garage is designed as a separate building (3.2.1.2.). North and East buildings are designed as one building and connected by exit stair #1.\nTotal Dwelling units = 17.\n\nRefer to BP-2022-02702 for Building 1 (North Building).\nRefer to BP-2022-02703 for Building 2 (West Building).\nRefer to BP-2022-02704 for Building 3 (East Building).\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective March 28, 2022.  \nBuilding to be sprinklered to NFPA 13 requirements, as required by 3.2.5.5.(3)(b).\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation and Shoring - issued November 9, 2022\n\nRevision 1 - Change of Geotechnical Engineer of Record, from Ivan Chu, P. Eng. to Read Fenton, P. Eng., effective January 24, 2023. - issued March 8, 2023\n\nStage 2 - Foundation to Grade - issued April 25, 2023\n\nStage 2- Revision #2- 2025-12-14- S.Le\n- Change of Certified Professional from Alex Gannochka, M.A.Sc., P.Eng., CP, RSE to Jack Hui, M.Eng., P.Eng., CP. effective November 12th, 2025.\n- Change of Geotechnical Engineer of Record from Read Fenton, P.Eng. to Matt Kokan, P.Eng effective August 19th, 2025.\n\nStage 3 - Superstructure Only- 2026-01-08- S.Le\nRefer to DP minor amendment DP-2025-00498.\n\nStage 4- Full Construction- 2026-02-23- S.Le\nChange of Architect of Record to Gwillim Symons, Architect AIBC effective September 8th, 2025.\n\n2026-04-16- Engineering Judgements accepted.\nProject Value: $8,006,600.00\nNeighbourhood: Marpole\nContractor: Landa Global Properties Ltd",
+      "purpose": "Certified Professional Program - New Building - This permit has been issued for all site work and below grade facilities, including two levels of common parking for the proposed development:\n\nTo construct a 3-storey Multiple Dwelling consisting of three Buildings: \na 3-storey Multiple Dwelling (North Building) containing six dwelling units, a 3-storey Multiple Dwelling (West Building) containing six dwelling units, and a 3-storey Multiple Dwelling (East Building) containing four 3-storey dwelling units and one 2-storey dwelling, all over one level of parking, having vehicular access from the rear lane.  \n\nStorage garage is designed as a separate building (3.2.1.2.). North and East buildings are designed as one building and connected by exit stair #1.\nTotal Dwelling units = 17.\n\nRefer to BP-2022-02702 for Building 1 (North Building).\nRefer to BP-2022-02703 for Building 2 (West Building).\nRefer to BP-2022-02704 for Building 3 (East Building).\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective March 28, 2022.  \nBuilding to be sprinklered to NFPA 13 requirements, as required by 3.2.5.5.(3)(b).\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation and Shoring - issued November 9, 2022\n\nRevision 1 - Change of Geotechnical Engineer of Record, from Ivan Chu, P. Eng. to Read Fenton, P. Eng., effective January 24, 2023. - issued March 8, 2023\n\nStage 2 - Foundation to Grade - issued April 25, 2023\n\nStage 2- Revision #2- 2025-12-14- S.Le\n- Change of Certified Professional from Alex Gannochka, M.A.Sc., P.Eng., CP, RSE to Jack Hui, M.Eng., P.Eng., CP. effective November 12th, 2025.\n- Change of Geotechnical Engineer of Record from Read Fenton, P.Eng. to Matt Kokan, P.Eng effective August 19th, 2025.\n\nStage 3 - Superstructure Only- 2026-01-08- S.Le\nRefer to DP minor amendment DP-2025-00498.\n\nStage 4- Full Construction- 2026-02-23- S.Le\nChange of Architect of Record to Gwillim Symons, Architect AIBC effective September 8th, 2025.\n\n2026-04-16- Engineering Judgements accepted.\nProject Value: $8,006,600.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Multiple Dwelling, Parking Garage\nNeighbourhood: Marpole\nContractor: Landa Global Properties Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -135215,7 +135339,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789383445,
+      "lastUpdated": 1789642630,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2022-02702",
@@ -136486,7 +136610,7 @@
         "1155 E KENT AVENUE NORTH"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 5-storey commercial building consisting of:\r\n\r\n1st & 2nd th storeys - thirteen (13)  2-level industrial units (shell) provided with vehicle access to lower level  from East Kent Avenue North\r\n3th & 4th storeys - fourteen (14)  2-level industrial units ( shell)  provided with  vehicle access to  lower level  from Ross Street\r\n5th storey – office (shell),\r\nall over one level of underground parking. \r\n\r\n26-Apr-2024- Stage 1   - Excavation and Shoring  issued. \r\n08-Oct- 2024 - Stage 2 - Foundation and Structure up to grade issued.\r\n09-May-2025 - Stage 3  - Full permit issued. \r\n\r\n19-Dec-2024 - Revision#1 - issued \r\nChange of RPR responsible for electrical discipline. \r\nEffective November 1, 2024 Elbers Pinero, P. Eng. assumed responsibility as the Registered Professional on Record for Electrical for this project. \r\n\r\nNOTE: The 2-level industrial units shall operate as a single unit, and cannot be split into two units.\nProject Value: $35,000,000.00\nNeighbourhood: Sunset",
+      "purpose": "Certified Professional Program - New Building - To construct a 5-storey commercial building consisting of:\r\n\r\n1st & 2nd th storeys - thirteen (13)  2-level industrial units (shell) provided with vehicle access to lower level  from East Kent Avenue North\r\n3th & 4th storeys - fourteen (14)  2-level industrial units ( shell)  provided with  vehicle access to  lower level  from Ross Street\r\n5th storey – office (shell),\r\nall over one level of underground parking. \r\n\r\n26-Apr-2024- Stage 1   - Excavation and Shoring  issued. \r\n08-Oct- 2024 - Stage 2 - Foundation and Structure up to grade issued.\r\n09-May-2025 - Stage 3  - Full permit issued. \r\n\r\n19-Dec-2024 - Revision#1 - issued \r\nChange of RPR responsible for electrical discipline. \r\nEffective November 1, 2024 Elbers Pinero, P. Eng. assumed responsibility as the Registered Professional on Record for Electrical for this project. \r\n\r\nNOTE: The 2-level industrial units shall operate as a single unit, and cannot be split into two units.\nProject Value: $35,000,000.00\nProperty Use: Manufacturing Uses, Office Uses, Parking Uses\nSpecific Use: Not Applicable, General Office, Parking Area, Parking Garage\nNeighbourhood: Sunset",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -136523,7 +136647,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 35000000,
       "latitude": 49.208891,
@@ -137875,7 +137999,7 @@
         "6189 GRANVILLE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Community Care Facility - Class B noncombustible building consists of\r\n1st storey - independent living units,\r\n2nd and 3rd storeys - memory care units,\r\n3rd and 4th storeys - assisted living units,\r\n5th and 6th storeys - independent living units, \r\n7th storey - amenity space and exterior occupied roof deck,\r\nAll over on level of underground parking with vehicle access from lane.  \r\n\r\nShared amenity spaces will be located on Levels P1 through 4th storey.\r\nOccupants in the independent living and assisted living units are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\r\n\r\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on September 7, 2023.  \r\nBuilding to be sprinklered to NFPA 13 requirements.  The building is designed with High Building measures.\r\nRadio Antenna System to be installed in this building.\r\nThe building will be equipped with 2-stage Fire Alarm System.\r\n\r\nSTAGED CONSTRUCTION\r\nStage 1 - Excavation and Shoring - issued April 22, 2024\r\nStage 2 - Foundation to Grade - issued July 18, 2024\r\nStage 3 - Full permit less the spaces outlined in the letters by RPR responsible for A/M/E/ disciplines and mechanical review -  issued Dec 06, 2024\r\nStage 4 - Full Permit to include excluded scope from Stage 3 -issued 24-Apr-2025 \r\n              Some additional changes to A/M/E disciplines as outlined in Change letters by professionals. \r\n\r\nREVISION 1: Changes in excavation load out area and associated shoring re-design.  \r\nISSUED: August 13, 2024 [Reza.H]\nProject Value: $100,982,732.00\nNeighbourhood: Kerrisdale\nContractor: MARCON PROJECT (657) LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Community Care Facility - Class B noncombustible building consists of\r\n1st storey - independent living units,\r\n2nd and 3rd storeys - memory care units,\r\n3rd and 4th storeys - assisted living units,\r\n5th and 6th storeys - independent living units, \r\n7th storey - amenity space and exterior occupied roof deck,\r\nAll over on level of underground parking with vehicle access from lane.  \r\n\r\nShared amenity spaces will be located on Levels P1 through 4th storey.\r\nOccupants in the independent living and assisted living units are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\r\n\r\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on September 7, 2023.  \r\nBuilding to be sprinklered to NFPA 13 requirements.  The building is designed with High Building measures.\r\nRadio Antenna System to be installed in this building.\r\nThe building will be equipped with 2-stage Fire Alarm System.\r\n\r\nSTAGED CONSTRUCTION\r\nStage 1 - Excavation and Shoring - issued April 22, 2024\r\nStage 2 - Foundation to Grade - issued July 18, 2024\r\nStage 3 - Full permit less the spaces outlined in the letters by RPR responsible for A/M/E/ disciplines and mechanical review -  issued Dec 06, 2024\r\nStage 4 - Full Permit to include excluded scope from Stage 3 -issued 24-Apr-2025 \r\n              Some additional changes to A/M/E disciplines as outlined in Change letters by professionals. \r\n\r\nREVISION 1: Changes in excavation load out area and associated shoring re-design.  \r\nISSUED: August 13, 2024 [Reza.H]\nProject Value: $100,982,732.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Community Care Facility - Class B, Parking Garage\nNeighbourhood: Kerrisdale\nContractor: MARCON PROJECT (657) LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -137918,7 +138042,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 100982732,
       "latitude": 49.229662,
@@ -137980,7 +138104,7 @@
         "433 LAKEWOOD DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 4-storey mixed-use building consisting of Retail on level one and Residential on levels one to four, containing a total of 111 secured market rental dwelling units, all over two levels of underground parking having vehicular access from the lane.\n\nVBBL 2019 - NFPA 13 - With Radio Antenna.\n\nMechanical Review Notes for Pre-shaft:\n- Three 2-hr horizontal shaft with grease duct will be installed under this permit for CRU #121, #126 and #127. Shaft for #121 will go through residential lobby and amenity room. (Updated for revision #1)\n- Four horizontal discharge routes to the lane for the rest of CRUs are identified and will be installed by future tenants.\n\nStage 1 - Excavation, Shoring, and Foundation to Grade issued on June 27, 2024.\nStage 2 - Full Construction issued on May 7, 2025.\nRevision #1 July 24, 2026, changes as follows:\n1) Both commercial and residential elevator core dimensions changed to suit the elevator models used in the project.\n2) The top of the parapet elevation to the elevator overrun on the rooftop has been reduced from 164’-3” to 162’-0” to meet elevator equipment.\n3) Stair 5 and Stair 1 L1 landings have been changed to exit through the corridor between the amenity room and Unit 101 to the back lane. The Residential Lobby is no longer an exit lobby.\n4) Unit x18 (C3) on L2-L4 entry area layout changed due to mechanical shaft size adjustments, which increased the usable space in the unit.\n5) The storage room south of Stair 1 on P1 has been changed to an open Bike Wash area.\n6) Unit area correction.\n7) CRU 126 and CRU 127 kitchen exhaust duct to be installed as part of the base building\n8) Revised kitchen exhaust duct shaft to rated kitchen wrap (revised K2 form and wrap listing)\n9) CRU 121 and CRU 122 sanitary systems to be pumped from the foundation.\n10) South L1 patio drains to be run as stormwater into the detention tank.  \n11) An Electrical Engineer change from Haitham Ahmed (outgoing) to Roger Dupuis (incoming) dated Dec 5, 2025.\nProject Value: $29,780,000.00\nNeighbourhood: Grandview-Woodland\nContractor: APG Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 4-storey mixed-use building consisting of Retail on level one and Residential on levels one to four, containing a total of 111 secured market rental dwelling units, all over two levels of underground parking having vehicular access from the lane.\n\nVBBL 2019 - NFPA 13 - With Radio Antenna.\n\nMechanical Review Notes for Pre-shaft:\n- Three 2-hr horizontal shaft with grease duct will be installed under this permit for CRU #121, #126 and #127. Shaft for #121 will go through residential lobby and amenity room. (Updated for revision #1)\n- Four horizontal discharge routes to the lane for the rest of CRUs are identified and will be installed by future tenants.\n\nStage 1 - Excavation, Shoring, and Foundation to Grade issued on June 27, 2024.\nStage 2 - Full Construction issued on May 7, 2025.\nRevision #1 July 24, 2026, changes as follows:\n1) Both commercial and residential elevator core dimensions changed to suit the elevator models used in the project.\n2) The top of the parapet elevation to the elevator overrun on the rooftop has been reduced from 164’-3” to 162’-0” to meet elevator equipment.\n3) Stair 5 and Stair 1 L1 landings have been changed to exit through the corridor between the amenity room and Unit 101 to the back lane. The Residential Lobby is no longer an exit lobby.\n4) Unit x18 (C3) on L2-L4 entry area layout changed due to mechanical shaft size adjustments, which increased the usable space in the unit.\n5) The storage room south of Stair 1 on P1 has been changed to an open Bike Wash area.\n6) Unit area correction.\n7) CRU 126 and CRU 127 kitchen exhaust duct to be installed as part of the base building\n8) Revised kitchen exhaust duct shaft to rated kitchen wrap (revised K2 form and wrap listing)\n9) CRU 121 and CRU 122 sanitary systems to be pumped from the foundation.\n10) South L1 patio drains to be run as stormwater into the detention tank.  \n11) An Electrical Engineer change from Haitham Ahmed (outgoing) to Roger Dupuis (incoming) dated Dec 5, 2025.\nProject Value: $29,780,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Retail Store, Mixed-Use Residential Building\nNeighbourhood: Grandview-Woodland\nContractor: APG Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -138011,7 +138135,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 29780000,
       "latitude": 49.280874,
@@ -139019,7 +139143,7 @@
         "192 N RENFREW STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new amphitheater containing 10,000 seats, on the existing multi-use site, Pacific National Exhibition (PNE). \n\nStage I: excavation, shoring, piling and buttress structure (issued June 13/ 2024).\n\nStage II (full construction of back of house and roof canopy) - issued Sept 19/ 2024\nMechanical Review Notes:\n1. Class 1 cooking operations (Grease-Laden Vapours).\n2. Commercial kitchen exhaust systems to NFPA 96 (two Type 1 hoods).\n\n\nRevision #1: revisions per geotechnical letter prepared by RAM, dated July 24/2024-(to change from piles to deep foundation-issued Sept13/2024)\nRevision #2 (to revise Stage I):  to include the Rear VIP strip footings, concrete walls and concrete columns from foundation to grade. \n\nStage III:  VIP Suites and Concessions (issued March 11/ 2025)\nRevision #3: Changes to design occupant load in VIP areas due to reconfiguration of movable seating. No change in fixed seating layouts.\n\nRevision #4 (May 7, 2026) - To change the Civil drawings to show a 200 mm incoming service water line to align the permitted civil infrastructure with the installed condition and the fire protection design.\nProject Value: $80,200,000.00\nNeighbourhood: Hastings-Sunrise",
+      "purpose": "Certified Professional Program - New Building - To construct a new amphitheater containing 10,000 seats, on the existing multi-use site, Pacific National Exhibition (PNE). \n\nStage I: excavation, shoring, piling and buttress structure (issued June 13/ 2024).\n\nStage II (full construction of back of house and roof canopy) - issued Sept 19/ 2024\nMechanical Review Notes:\n1. Class 1 cooking operations (Grease-Laden Vapours).\n2. Commercial kitchen exhaust systems to NFPA 96 (two Type 1 hoods).\n\n\nRevision #1: revisions per geotechnical letter prepared by RAM, dated July 24/2024-(to change from piles to deep foundation-issued Sept13/2024)\nRevision #2 (to revise Stage I):  to include the Rear VIP strip footings, concrete walls and concrete columns from foundation to grade. \n\nStage III:  VIP Suites and Concessions (issued March 11/ 2025)\nRevision #3: Changes to design occupant load in VIP areas due to reconfiguration of movable seating. No change in fixed seating layouts.\n\nRevision #4 (May 7, 2026) - To change the Civil drawings to show a 200 mm incoming service water line to align the permitted civil infrastructure with the installed condition and the fire protection design.\nProject Value: $80,200,000.00\nProperty Use: Cultural/Recreational Uses\nSpecific Use: Stadium or Arena\nNeighbourhood: Hastings-Sunrise",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -139050,7 +139174,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 80200000,
       "latitude": 49.286601,
@@ -139069,7 +139193,7 @@
         "9010 LAUREL STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit has been issued for all site work and the proposed Maintenance Building of the Marpole Transit Centre Complex, a new multi-building bus operations and maintenance depot, consisting 3 main buildings and 3 ancillary buildings.\n\nBuilding 1 - Maintenance Building (MB):\nTo construct a 2-storey building for bus maintenance with a mezzanine connected to the elevated pedestrian bridge leading to the West Operations Building. The bridge will function as a horizontal exit. The building will include a lube room with flammable liquids, tire storage, and a spray booth, each separated from the remainder of the building by a 2 h fire separation. The first and second storeys are interconnected per 3.2.8.2.(6).\n \nNote: Buildings 1, 2, and 3 are connected by an elevated pedestrian bridge.\n\nRefer to:\nBP-2024-00160 for (Main) Building 2 - Operations Building (OB)\nBP-2024-00161 for (Main) Building 3 - Pedestrian Tower with Wastewater Treatment Plant (PT)\nBP-2024-00163 for (Ancillary) Building 4 - Fuel Bay (FB)\nBP-2024-00164 for (Ancillary) Building 5 - Bus Wash (BW)\nBP-2024-00165 for (Ancillary) Building 6 - Vault Pull (VP)\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective as of December 21, 2023.  \nBuildings to be sprinklered to NFPA 13 requirements. \n\nSTAGED CONSTRUCTION\nSTAGE I: Piling only for Buildings 1, 2 and 3 (T.Lee)\nISSUED: Jul. 26, 2024\n\nREVISION I: Revisions to Structural Drawings to include foundation work for Buildings 1 thru 6 (S.Yoo)\nISSUED: Dec. 20, 2024\n\nSTAGE II-A: Full Construction for Operations Building (Building 2), Pedestrian Tower with Wastewater Treatment Plant (Building 3), and Bus Wash (Building 5) (S.Yoo)\nISSUED: Dec. 5, 2025\n\nSTAGE II-B: Full Construction for Maintenance Building (Building 1) (S.Yoo)\nISSUED: Dec. 15, 2025\n\nSTAGE II-C: Full Construction for Fuel Bay (Building 4) and Vault Pull (Building 6) - In review\nProject Value: $267,930,000.00\nContractor: Smith Bros & Wilson (BC) Ltd",
+      "purpose": "Certified Professional Program - New Building - This permit has been issued for all site work and the proposed Maintenance Building of the Marpole Transit Centre Complex, a new multi-building bus operations and maintenance depot, consisting 3 main buildings and 3 ancillary buildings.\n\nBuilding 1 - Maintenance Building (MB):\nTo construct a 2-storey building for bus maintenance with a mezzanine connected to the elevated pedestrian bridge leading to the West Operations Building. The bridge will function as a horizontal exit. The building will include a lube room with flammable liquids, tire storage, and a spray booth, each separated from the remainder of the building by a 2 h fire separation. The first and second storeys are interconnected per 3.2.8.2.(6).\n \nNote: Buildings 1, 2, and 3 are connected by an elevated pedestrian bridge.\n\nRefer to:\nBP-2024-00160 for (Main) Building 2 - Operations Building (OB)\nBP-2024-00161 for (Main) Building 3 - Pedestrian Tower with Wastewater Treatment Plant (PT)\nBP-2024-00163 for (Ancillary) Building 4 - Fuel Bay (FB)\nBP-2024-00164 for (Ancillary) Building 5 - Bus Wash (BW)\nBP-2024-00165 for (Ancillary) Building 6 - Vault Pull (VP)\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective as of December 21, 2023.  \nBuildings to be sprinklered to NFPA 13 requirements. \n\nSTAGED CONSTRUCTION\nSTAGE I: Piling only for Buildings 1, 2 and 3 (T.Lee)\nISSUED: Jul. 26, 2024\n\nREVISION I: Revisions to Structural Drawings to include foundation work for Buildings 1 thru 6 (S.Yoo)\nISSUED: Dec. 20, 2024\n\nSTAGE II-A: Full Construction for Operations Building (Building 2), Pedestrian Tower with Wastewater Treatment Plant (Building 3), and Bus Wash (Building 5) (S.Yoo)\nISSUED: Dec. 5, 2025\n\nSTAGE II-B: Full Construction for Maintenance Building (Building 1) (S.Yoo)\nISSUED: Dec. 15, 2025\n\nSTAGE II-C: Full Construction for Fuel Bay (Building 4) and Vault Pull (Building 6) - In review\nProject Value: $267,930,000.00\nProperty Use: Institutional Uses, Office Uses\nSpecific Use: General Office, Public Authority Use\nContractor: Smith Bros & Wilson (BC) Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -139094,7 +139218,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-00160",
@@ -140483,7 +140607,7 @@
         "570 E KING EDWARD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct one 6-storey apartment building and two 3-storey townhouse buildings of combustible construction containing 125 secured market rental units on top of 1 level of non-combustible (3.2.1.2) below-grade parking having vehicular access from the lane. \n\nVBBL 2019 - NFPA 13 - with Radio Antenna.\n\nThis permit covers site work, below-grade facilities, and common underground parking per the Stage request. The following are spinoff permits for each building above grade.\n\nBuilding 1 (North)         - BP-2024-00957\nBuilding 2 (South-East)  - BP-2024-00958\nBuilding 3 (South-West) - BP-2024-00959\n\nStage 1 - Excavation and Shoring issued on Nov. 22, 2024.\nStage 2 - Full Construction issued on Apr. 14, 2015.\n\nRevision 1 (Jan. 6th, 2026) - Changes to the following professionals:\n\nMechanical Engineers: Helen Liu (Outgoing - Apr. 4, 2025) and Rob Gregg (Incoming - Apr. 4, 2025). \n\nCPs: Darrell Li (Outgoing - Dec 5, 2025) and Jason Hui (Incoming - Dec. 5th, 2025).\nProject Value: $41,000,000.00\nNeighbourhood: Riley Park\nContractor: Ventana Construction Corporation",
+      "purpose": "Certified Professional Program - New Building - To construct one 6-storey apartment building and two 3-storey townhouse buildings of combustible construction containing 125 secured market rental units on top of 1 level of non-combustible (3.2.1.2) below-grade parking having vehicular access from the lane. \n\nVBBL 2019 - NFPA 13 - with Radio Antenna.\n\nThis permit covers site work, below-grade facilities, and common underground parking per the Stage request. The following are spinoff permits for each building above grade.\n\nBuilding 1 (North)         - BP-2024-00957\nBuilding 2 (South-East)  - BP-2024-00958\nBuilding 3 (South-West) - BP-2024-00959\n\nStage 1 - Excavation and Shoring issued on Nov. 22, 2024.\nStage 2 - Full Construction issued on Apr. 14, 2015.\n\nRevision 1 (Jan. 6th, 2026) - Changes to the following professionals:\n\nMechanical Engineers: Helen Liu (Outgoing - Apr. 4, 2025) and Rob Gregg (Incoming - Apr. 4, 2025). \n\nCPs: Darrell Li (Outgoing - Dec 5, 2025) and Jason Hui (Incoming - Dec. 5th, 2025).\nProject Value: $41,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment, Townhouse\nNeighbourhood: Riley Park\nContractor: Ventana Construction Corporation",
       "progressSections": [
         {
           "taskDescription": "Stage 2: Full Construction",
@@ -140514,7 +140638,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-00957",
@@ -140989,7 +141113,7 @@
         "5020 ASH STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct Building 1 ( West) . This is a 4 storey non combustible  residential  building containing 35 residential units on top of common 2 level underground parkade. \n\nfor full project description refer to BP-2023-04052. \n\n\nStage I  (E &S)  issued - 27-Sep-2024\nStage II (Full permit) - issued 19-Aug-25\nNeighbourhood: South Cambie\nContractor: ETRO CONSTRUCTION LIMITED",
+      "purpose": "Certified Professional Program - New Building - To construct Building 1 ( West) . This is a 4 storey non combustible  residential  building containing 35 residential units on top of common 2 level underground parkade. \n\nfor full project description refer to BP-2023-04052. \n\n\nStage I  (E &S)  issued - 27-Sep-2024\nStage II (Full permit) - issued 19-Aug-25\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Parking Garage, Multiple Dwelling\nNeighbourhood: South Cambie\nContractor: ETRO CONSTRUCTION LIMITED",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -141014,7 +141138,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2023-04052",
@@ -141421,7 +141545,7 @@
         "1247 KINGSWAY"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building, containing Retail at grade, and Residential above (34 Secured Market Rental Dwelling units), over two levels of underground parking having vehicular access from rear lane.\n\nStage I (excavation/ shoring) issued September 26/ 2024.\n\nStage II (foundation to grade) issued Nov 14/ 2024.\n\nRevision #1: to revise excavation/shoring design.\n\nStage III (full construction) issued April 4/ 2025.\n\nRevision #2: To update number of dwelling units from 32 to 34 per M/A DP-2025-00058, and to address building height more than 18m in height, per M/A DP-2026-00360, exceeded by 100mm.  Mitigating features include additional weatherstripping for all exit doors from L2 to roof and additional signage at the annunciator panel, and in each exit next to each door from the exit into the floor area which reads \"Level 6 Floor Elevation is 18.1 m above grade.\" Drawings to be updated at FDD. - issued August 13, 2026.\nProject Value: $19,800,000.00\nNeighbourhood: Kensington-Cedar Cottage",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey mixed-use building, containing Retail at grade, and Residential above (34 Secured Market Rental Dwelling units), over two levels of underground parking having vehicular access from rear lane.\n\nStage I (excavation/ shoring) issued September 26/ 2024.\n\nStage II (foundation to grade) issued Nov 14/ 2024.\n\nRevision #1: to revise excavation/shoring design.\n\nStage III (full construction) issued April 4/ 2025.\n\nRevision #2: To update number of dwelling units from 32 to 34 per M/A DP-2025-00058, and to address building height more than 18m in height, per M/A DP-2026-00360, exceeded by 100mm.  Mitigating features include additional weatherstripping for all exit doors from L2 to roof and additional signage at the annunciator panel, and in each exit next to each door from the exit into the floor area which reads \"Level 6 Floor Elevation is 18.1 m above grade.\" Drawings to be updated at FDD. - issued August 13, 2026.\nProject Value: $19,800,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Multiple Dwelling, Retail Store\nNeighbourhood: Kensington-Cedar Cottage",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -141458,7 +141582,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 19800000,
       "latitude": 49.251884,
@@ -198557,7 +198681,7 @@
         "1470 W BROADWAY"
       ],
       "status": "ACTIVE",
-      "purpose": "Enquiry Centre - Demolition / Deconstruction - To complex demolish the existing retail store, to grade ($1,205,300). As per engineered demolition plan submitted by Andrew Boettcher\n \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n \nThis demolition was reviewed under VBBL 2025.\n\nSchedule B Structural: Andrew Boettcher - ADB Engineering - \n604-568-9373\n\nDemo Contractor: Clearview Demolition Ltd. - Quinton Segal - info@clearviewdemo.ca 604-792-3330\n\nQP: Emma Gibson - Enviro-Vac\nemma.gibson@envirovac.com 604-513-1324\nProject Value: $1,205,300.00\nProperty Use: Retail Uses\nSpecific Use: Retail Store\nNeighbourhood: Fairview\nContractor: Clearview Demolition Ltd",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To complex demolish the existing retail store, to grade ($1,205,300). As per engineered demolition plan submitted by Andrew Boettcher\n \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n \nThis demolition was reviewed under VBBL 2025.\n\nSchedule B Structural: Andrew Boettcher - ADB Engineering - \n604-568-9373\n\nDemo Contractor: Pacific Blasting & Demolition Ltd. - Daniel Gaudette - info@clearviewdemo.ca 604-792-3330\n\nQP: Emma Gibson - Enviro-Vac\nemma.gibson@envirovac.com 604-513-1324\nProject Value: $1,205,300.00\nProperty Use: Retail Uses\nSpecific Use: Retail Store\nNeighbourhood: Fairview\nContractor: Pacific Blasting & Demolition Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -198576,7 +198700,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1789642630,
       "relatedPermits": [],
       "projectValue": 1205300,
       "latitude": 49.263276,
@@ -200435,7 +200559,7 @@
         "3082 E 56TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - **PART 5**To construct a three-storey, four-unit Multiple Dwelling \"Multiplex\" building with four surface pad parking spaces in the rear yard, having access from the rear lane.\n\nVBBL 2025 - NFPA 13D\nProject Value: $1,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Yuvraj Properties Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - **PART 5**To construct a three-storey, four-unit Multiple Dwelling \"Multiplex\" building with four surface pad parking spaces in the rear yard, having access from the rear lane.\n\nVBBL 2025 - NFPA 13D\n\nRev #1 (Sept 15, 2026)\n1. Drain tile omission letter requested by inspector - to be reviewed by inspector\nProject Value: $1,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Killarney\nContractor: Yuvraj Properties Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -200454,7 +200578,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1789642630,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2026-01680",
@@ -316364,6 +316488,12 @@
           "endDate": 1787209200
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1789455600,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -316393,7 +316523,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1789555974,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01161",
@@ -316549,7 +316679,7 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1786690800,
-          "endDate": null
+          "endDate": 1789455600
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -316565,7 +316695,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1789642368,
       "relatedPermits": [],
       "storeys": 2
     },
@@ -316586,7 +316716,7 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1786690800,
-          "endDate": null
+          "endDate": 1789110000
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -316606,7 +316736,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786791204,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01048",
@@ -316957,6 +317087,37 @@
           "relatedPermitDescription": "Approved by Council February 22, 2024\n\nThe City is considering a Development Permit with Variance application for a rental apartment building with approximately 266 units. Variances required:\n\nSection 3.67.5 (1) - Height increased from 27.0m to 73.4m and number of storeys increased from 10 storeys to 23 storeys."
         }
       ]
+    },
+    {
+      "primaryStreetName": "1060 QUEENS AVE",
+      "applicant": "SARAH OMWARE",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01178",
+      "applicationDate": 1789455600,
+      "addresses": [
+        "1060 QUEENS AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "We request approval of a variance to the family housing requirements contained in Part 3, Section 3.1.30 of the City of Victoria Zoning Bylaw 2018, specifically the requirement that 30% of dwelling units contain three or more bedrooms. The purpose of this application is to retain and legalize an existing dwelling unit that was present when we purchased the property at 1060/1062 Queens Avenue in early 2026. Following the purchase, we learned that one of the four existing units had not been formally authorized by the City. We are now seeking to bring this unit into compliance through the appropriate permitting process. The City is reviewing a Delegated Development Permit application to construct a ____-storey, ___ unit ______________ (brief project description, e.g., residential building, for revisions to approved DP plans, for tenant protection). The proposal also includes _____ (high-level variance details, if applicable - otherwise delete this sentence).\n\nUnder the sit",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1789455600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1789455600,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
@@ -375004,7 +375165,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1784790000,
-          "endDate": null
+          "endDate": 1789542000
         },
         {
           "taskDescription": "All City comments provided to the applicant",
@@ -375090,7 +375251,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787324664,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000625",
@@ -382047,15 +382208,15 @@
           "endDate": 1787814000
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1750143600,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1787814000,
+          "endDate": 1789542000
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1750143600,
           "endDate": null
         },
         {
@@ -382196,7 +382357,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788000804,
+      "lastUpdated": 1789642368,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00271",
