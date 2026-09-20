@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1789815175,
+  "dateRetrieved": 1789902250,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7468,7 +7468,7 @@
     },
     {
       "primaryStreetName": "641 LATORIA RD",
-      "applicant": "AUTHORIZED AGENT/OWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000038",
@@ -7476,7 +7476,7 @@
       "addresses": [
         "641 LATORIA RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This application proposes a 29-unit townhouse development.",
       "progressSections": [
         {
@@ -7489,16 +7489,21 @@
           "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
           "taskType": "APPLICATION REVIEW",
           "startDate": 1734937200,
-          "endDate": null
+          "endDate": 1788332400
         },
         {
           "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
           "taskType": "PERMIT ISSUED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1789542000,
+          "endDate": 1789542000
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "DP000038_641 Latoria Rd_Permit_Signed_Consolidated_Redacted_Reduced.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=99356C260916112253010538&folderId=43351C241024165937133275"
+        }
+      ],
       "city": "Colwood",
       "lastUpdated": 1782471198,
       "relatedPermits": [
@@ -93809,7 +93814,7 @@
     },
     {
       "primaryStreetName": "2630 MARGATE AVE",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "ZONING BYLAW AMENDMENT",
       "applicationType": "Rezoning",
       "folderNumber": "ZON00071",
@@ -93817,7 +93822,7 @@
       "addresses": [
         "2630 MARGATE AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This is an application for a Zoning Bylaw amendment for a site-specific text amendment to increase the maximum floor area ratio and lot coverage limits for the property to enable a new single-family dwelling to be constructed.",
       "progressSections": [
         {
@@ -93871,8 +93876,8 @@
         {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1785135600,
+          "endDate": 1785135600
         }
       ],
       "documents": [
@@ -105348,7 +105353,7 @@
     },
     {
       "primaryStreetName": "1101 4201 TYNDALL AVE",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01118",
@@ -105356,7 +105361,7 @@
       "addresses": [
         "1101-4201 TYNDALL AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO AMEND DPR00870 FOR CHANGES TO THE LANDSCAPING, FENCING AND AMENITY AREA",
       "progressSections": [
         {
@@ -105394,6 +105399,12 @@
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1784617200,
           "endDate": 1784617200
+        },
+        {
+          "taskDescription": "Application has been approved by the District",
+          "taskType": "MINOR AMENDMENT APPROVED",
+          "startDate": 1787900400,
+          "endDate": 1787900400
         }
       ],
       "documents": [],
@@ -115480,7 +115491,7 @@
     },
     {
       "primaryStreetName": "2315 EDGELOW ST",
-      "applicant": "DOUG FOORD",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01077",
@@ -115488,7 +115499,7 @@
       "addresses": [
         "2315 EDGELOW ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO REZONE FROM RS-6, RS-12 AND RS-14 (SINGLE FAMILY) ZONES TO RA-11 (APARTMENT) ZONE TO CONSTRUCT 349 UNITS IN TWO 6-STOREY BUILDINGS WITH UNDERGROUND PARKING",
       "progressSections": [
         {
@@ -115597,7 +115608,13 @@
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1786950000,
-          "endDate": null
+          "endDate": 1786950000
+        },
+        {
+          "taskDescription": "Application denied by Council",
+          "taskType": "APPLICATION DENIED BY COUNCIL",
+          "startDate": 1786950000,
+          "endDate": 1786950000
         }
       ],
       "documents": [
@@ -134462,7 +134479,7 @@
         "688 W 57TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - Parcel C of Phase 1 of the Pearson Dogwood redevelopment.\n\nTo construct a 29 storey mixed-use building with 9-storey podium consisting of:\n\nLevel 1 to 5      - Retail units, Health Care Office (Community Health \n                         Centre) incl. a Therapy pool at L2, Residential amenity  ( leisure pool, GYM)\nLevel 3            - Child Daycare Facility \n\nLevel 6 to 29      -30 Pearson Supportive Housing units \n                         and 217 residential units;\n\nall over 4 levels of underground parking. \n\nNOTE: This building is designed to VBBL 2014. Rel to  DP-2017-01335\nThe building is provided with single stage FA system. No modifications to the FA system are proposed. \n\nNOTE: OCCUPANT LOAD AT LEVEL 4 IS RESTRICTED BASED ON OCCUPANT LOAD SIGNS. \n\nSTAGED CONSTRUCTION:\n27-Sep-2019 - Stage I (excavation and shoring) issued. \n05-May-2026 - Stage II (struct to grade) issued.\n\n24-Oct-2025 - Revision # 1 issued. \nEffective Oct 3, 2025  David Ho, P. Eng., C.P.  assumed responsibilities as a C.P. on this project. \n\n28-Jan-2026 - Revision#2 issued.\nChanges to E &S drawings to reflect reduced number of U/G parking levels  from 5 to 4 levels.\nProject description updated to reflect changes accepted under the DPMA DP-2025-00194. \n- Increase in the total number of residential  units from 148 to 217 units\n- Increase in the number of supportive housing units from 16 to 30\nProject Value: $72,812,880.00\nNeighbourhood: Oakridge\nContractor: Onni Contracting Ltd",
+      "purpose": "Certified Professional Program - New Building - Parcel C of Phase 1 of the Pearson Dogwood redevelopment.\n\nTo construct a 29 storey mixed-use building with 9-storey podium consisting of:\n\nLevel 1 to 5      - Retail units, Health Care Office (Community Health \n                         Centre) incl. a Therapy pool at L2, Residential amenity  ( leisure pool, GYM)\nLevel 3            - Child Daycare Facility \n\nLevel 6 to 29      -30 Pearson Supportive Housing units \n                         and 217 residential units;\n\nall over 4 levels of underground parking. \n\nNOTE: This building is designed to VBBL 2014. Rel to  DP-2017-01335\nThe building is provided with single stage FA system. No modifications to the FA system are proposed. \n\nNOTE: OCCUPANT LOAD AT LEVEL 4 IS RESTRICTED BASED ON OCCUPANT LOAD SIGNS. \n\nSTAGED CONSTRUCTION:\n27-Sep-2019 - Stage I (excavation and shoring) issued. \n05-May-2026 - Stage II (struct to grade) issued.\n\n24-Oct-2025 - Revision # 1 issued. \nEffective Oct 3, 2025  David Ho, P. Eng., C.P.  assumed responsibilities as a C.P. on this project. \n\n28-Jan-2026 - Revision#2 issued.\nChanges to E &S drawings to reflect reduced number of U/G parking levels  from 5 to 4 levels.\nProject description updated to reflect changes accepted under the DPMA DP-2025-00194. \n- Increase in the total number of residential  units from 148 to 217 units\n- Increase in the number of supportive housing units from 16 to 30\nProject Value: $72,812,880.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Community Care Facility, Child Day Care Facility, Parking Garage, Multiple Dwelling, Retail Store\nNeighbourhood: Oakridge\nContractor: Onni Contracting Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -134493,7 +134510,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789297055,
+      "lastUpdated": 1789901889,
       "relatedPermits": [],
       "projectValue": 72812880,
       "latitude": 49.219063,
@@ -147148,7 +147165,7 @@
         "288 W 8TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey mixed-use building consisting of:\n  1st storey - office (shell only); manufacturing with mezzanine (shell only)\n  2nd storey - garbage/recycling room; storage room; loading bays\n  3rd storey - manufacturing (shell only)\n  4th to 6th storeys - offices (shell only)\n  7th storey - indoor & outdoor amenities\n\nall over 2 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Sept. 11, 2026\nProject Value: $22,700,000.00\nProperty Use: Manufacturing Uses, Office Uses\nSpecific Use: General Office, Creative Products Manufacturing\nNeighbourhood: Mount Pleasant\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey mixed-use building consisting of:\n  1st storey - office (shell only); manufacturing with mezzanine (shell only)\n  2nd storey - garbage/recycling room; storage room; loading bays\n  3rd storey - manufacturing (shell only)\n  4th to 6th storeys - offices (shell only)\n  7th storey - indoor & outdoor amenities\n\nall over 2 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Sept. 11, 2026\n\nREVISION I: Change of General Contractor - In review\nProject Value: $22,700,000.00\nProperty Use: Manufacturing Uses, Office Uses\nSpecific Use: General Office, Creative Products Manufacturing\nNeighbourhood: Mount Pleasant\nContractor: Cressey Construction Management Limited Partnership",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -147173,7 +147190,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1789901889,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2026-01650",
@@ -198973,7 +198990,7 @@
         "1470 W BROADWAY"
       ],
       "status": "ACTIVE",
-      "purpose": "Enquiry Centre - Demolition / Deconstruction - To complex demolish the existing retail store, to grade ($1,205,300). As per engineered demolition plan submitted by Andrew Boettcher\n \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n \nThis demolition was reviewed under VBBL 2025.\n\nSchedule B Structural: Andrew Boettcher - ADB Engineering - \n604-568-9373\n\nDemo Contractor: Pacific Blasting & Demolition Ltd. - Daniel Gaudette - info@clearviewdemo.ca 604-792-3330\n\nQP: Emma Gibson - Enviro-Vac\nemma.gibson@envirovac.com 604-513-1324\nProject Value: $1,205,300.00\nProperty Use: Retail Uses\nSpecific Use: Retail Store\nNeighbourhood: Fairview\nContractor: Pacific Blasting & Demolition Ltd",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To complex demolish the existing retail store, to grade ($1,205,300). As per engineered demolition plan submitted by Andrew Boettcher\n \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n \nThis demolition was reviewed under VBBL 2025.\n\nSchedule B Structural: Andrew Boettcher - ADB Engineering - \n604-568-9373\n\nDemo Contractor: Pacific Blasting & Demolition Ltd. - Daniel Gaudette - info@clearviewdemo.ca 604-792-3330\n\nQP: Harvey Wong - Kinetic OHS Services ltd\nemma.gibson@envirovac.com 604-513-1324\nProject Value: $1,205,300.00\nProperty Use: Retail Uses\nSpecific Use: Retail Store\nNeighbourhood: Fairview\nContractor: Pacific Blasting & Demolition Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -198992,7 +199009,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789642630,
+      "lastUpdated": 1789901889,
       "relatedPermits": [],
       "projectValue": 1205300,
       "latitude": 49.263276,
@@ -200627,6 +200644,89 @@
       "longitude": -123.075102,
       "approvalStatus": "Approved",
       "storeys": 2
+    },
+    {
+      "primaryStreetName": "3578 HAIDA DRIVE",
+      "applicant": "Victor Au",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01688",
+      "applicationDate": 1779264000,
+      "addresses": [
+        "3578 HAIDA DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a three- storey 2 unit front building and a two-storey 1 unit rear building with a carport providing three parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in front yard & upper roof deck. Interior component located in second floor closet.\n2. Schedule B: (M. S. ALAM) P.Eng (604.653.7475) Architectural (glass railing), Structural, and Geotechnical\n3. HPO: Residential Builder - KNC Investment Inc.\n\nNote: This 3 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13R\n\nAddress Information:\n\nBUILDING 1 - FRONT/NORTH\n#1 - 3578 Haida Dr - One Dwelling Unit (1st - 3rd floor)\n#2 - 3578 Haida Dr - One Dwelling Unit (1st - 3rd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Renfrew-Collingwood\nContractor: KNC Investments Inc.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1779264000,
+          "endDate": 1779264000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1779264000,
+          "endDate": 1779264000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1779264000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2026-01690",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 800000,
+      "latitude": 49.253626,
+      "longitude": -123.026731,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3576 HAIDA DRIVE",
+      "applicant": "Victor Au",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01689",
+      "applicationDate": 1779264000,
+      "addresses": [
+        "3576 HAIDA DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a three- storey 2 unit front building and a two-storey 1 unit rear building with a carport providing three parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior component located in second floor deck. Interior component located in second floor closet.\n2. Schedule B: (M. S. ALAM) P.Eng (604.653.7475) Architectural (glass railing), Structural, and Geotechnical\n3. HPO: Residential Builder - KNC Investment Inc.\n\nNote: This 2 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D\n\nAddress Information:\n\nBUILDING 2 - REAR/Southeast\n3576 Haida Dr - One Dwelling Unit (1st - 2nd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $300,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Renfrew-Collingwood\nContractor: KNC Investments Inc.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1779264000,
+          "endDate": 1779264000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1779264000,
+          "endDate": 1779264000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1779264000,
+      "relatedPermits": [],
+      "projectValue": 300000,
+      "latitude": 49.253782,
+      "longitude": -123.026544,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
     },
     {
       "primaryStreetName": "8468 HUDSON STREET",
@@ -271889,8 +271989,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1779264000,
-      "relatedPermits": [],
+      "lastUpdated": 1789901889,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-01688",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 40000,
       "latitude": 49.253626,
       "longitude": -123.026731,
@@ -341295,7 +341400,7 @@
     },
     {
       "primaryStreetName": "1101 YATES ST",
-      "applicant": "ROBERT JAWL",
+      "applicant": "",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00301",
@@ -341303,7 +341408,7 @@
       "addresses": [
         "1101 YATES ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is considering a Development Permit with Variance application for a mixed-use commercial and rental building. SEE REZ00904 FOR PROJECT DETAILS. APPROVED BY COUNCIL JULY 30, 2026",
       "progressSections": [],
       "documents": [],
@@ -341314,7 +341419,7 @@
           "relatedPermitID": "REZ00904",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1754899200,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "The City is considering a Rezoning application for a mixed-use development consisting of two buildings (6 storeys and 19 storeys). Uses include ground floor retail / restaurant use, licensed childcare, conference and commercial office spaces and 175 rental units. \n\nConcurrent with DPV00301.\n\nAPPROVED BY COUNCIL JULY 30, 2026"
         },
         {
@@ -383920,7 +384025,7 @@
     },
     {
       "primaryStreetName": "1101 YATES ST",
-      "applicant": "ROBERT JAWL",
+      "applicant": "",
       "cityApplicationType": "Rezoning Application",
       "applicationType": "Rezoning",
       "folderNumber": "REZ00904",
@@ -383928,7 +384033,7 @@
       "addresses": [
         "1101 YATES ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is considering a Rezoning application for a mixed-use development consisting of two buildings (6 storeys and 19 storeys). Uses include ground floor retail / restaurant use, licensed childcare, conference and commercial office spaces and 175 rental units. Concurrent with DPV00301. APPROVED BY COUNCIL JULY 30, 2026",
       "progressSections": [
         {
@@ -383995,25 +384100,13 @@
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1755068400,
-          "endDate": null
+          "endDate": 1787036400
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant",
           "taskType": "With Applicant",
           "startDate": 1777964400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1787036400
         }
       ],
       "documents": [
@@ -384042,16 +384135,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06522C251127150747753484&folderId=72776C250808151324472692"
         },
         {
-          "docName": "2026-04-10 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A0DF66B4-B69B-4237-AC5C-7C0794E16528&folderId=72776C250808151324472692"
-        },
-        {
           "docName": "2026-04-10 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A9BDACD6-C7AD-4E66-9ABD-B90C3DE11411&folderId=72776C250808151324472692"
         },
         {
           "docName": "26-036.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=50419C260416144213942562&folderId=72776C250808151324472692"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A0DF66B4-B69B-4237-AC5C-7C0794E16528&folderId=72776C250808151324472692"
         }
       ],
       "city": "Victoria",
@@ -384061,7 +384154,7 @@
           "relatedPermitID": "DPV00301",
           "relatedPermitType": "Development Permit with Variance",
           "relatedPermitApplicationDate": 1758700800,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "The City is considering a Development Permit with Variance application for a mixed-use commercial and rental building.\n\nSEE REZ00904 FOR PROJECT DETAILS.\n\n\nAPPROVED BY COUNCIL JULY 30, 2026"
         },
         {
