@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1790074360,
+  "dateRetrieved": 1790160762,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -6917,12 +6917,12 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=60866C260722151658646157&folderId=60866C260708141018987655"
         },
         {
-          "docName": "6290 Springlea_Site plans WEB_June 29, 2026.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=60866C260722151658648292&folderId=60866C260708141018987655"
+          "docName": "6290 Springlea_Revised Plans_Sep 16, 2026 - WEB.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=64042C260922092003802234&folderId=60866C260708141018987655"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1785408765,
+      "lastUpdated": 1790160764,
       "relatedPermits": []
     },
     {
@@ -20918,8 +20918,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1789642609,
-      "relatedPermits": [],
+      "lastUpdated": 1790160996,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP023070",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 49.145541,
       "longitude": -122.893856,
       "minor": true
@@ -88378,7 +88383,7 @@
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1789974000,
-          "endDate": null
+          "endDate": 1789974000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -88398,7 +88403,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00199",
@@ -89141,6 +89146,12 @@
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1780038000,
+          "endDate": 1790060400
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": 1790060400,
           "endDate": null
         },
         {
@@ -89170,7 +89181,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1780570377,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000070",
@@ -89220,6 +89231,12 @@
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1780038000,
+          "endDate": 1790060400
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": 1790060400,
           "endDate": null
         },
         {
@@ -89249,7 +89266,7 @@
       ],
       "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1780570377,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "ZON00072",
@@ -89439,7 +89456,7 @@
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1789974000,
-          "endDate": null
+          "endDate": 1789974000
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
@@ -89469,7 +89486,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1789815177,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017937",
@@ -89610,13 +89627,7 @@
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1789974000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "The Delegate may make one of the following decisions:\n1. Issue the Development Permit, with conditions. \n2. Refer the application to Council, where deemed to be in the public interest. \n3. Decline to issue the Development Permit.",
-          "taskType": "*DELEGATE DECISION",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1789974000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -89640,7 +89651,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1789642368,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017697",
@@ -89698,13 +89709,7 @@
           "taskDescription": "Meeting date of Council to consider decision on the application.",
           "taskType": "*COUNCIL MEETING",
           "startDate": 1789974000,
-          "endDate": null
-        },
-        {
-          "taskDescription": "The Delegate may make one of the following decisions:\n1. Issue the Development Permit, with conditions. \n2. Refer the application to Council, where deemed to be in the public interest. \n3. Decline to issue the Development Permit.",
-          "taskType": "*DELEGATE DECISION",
-          "startDate": null,
-          "endDate": null
+          "endDate": 1789974000
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -89728,7 +89733,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1789642368,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "BP017793",
@@ -92656,7 +92661,7 @@
           "taskDescription": "Meeting of Council to adopt the bylaw.",
           "taskType": "COUNCIL - FINAL ADOPTION",
           "startDate": 1789974000,
-          "endDate": null
+          "endDate": 1790060400
         },
         {
           "taskDescription": "File has been completed and is now closed.",
@@ -92692,7 +92697,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00199",
@@ -93964,12 +93969,12 @@
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1780038000,
-          "endDate": null
+          "endDate": 1790060400
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
+          "startDate": 1790060400,
           "endDate": null
         },
         {
@@ -94024,7 +94029,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1780138402,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000070",
@@ -105297,18 +105302,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1789974000,
-          "endDate": null
+          "endDate": 1790060400
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "startDate": 1790060400,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1790074362,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP23533",
@@ -115830,6 +115835,12 @@
           "endDate": 1787036400
         },
         {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1789974000,
+          "endDate": 1790060400
+        },
+        {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787036400,
@@ -115838,7 +115849,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": 1789974000,
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -115861,7 +115872,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1789123990,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00781",
@@ -121432,11 +121443,17 @@
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1789628400,
           "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1789628400,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00822",
@@ -129848,12 +129865,16 @@
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1331D08B-2B0A-40D4-8336-D661EBB1CD22&folderId=03107C260728081446622495"
         },
         {
+          "docName": "Master Plan Concept",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6EB30D36-74E9-46CB-8438-B2359AFE3942&folderId=03107C260728081446622495"
+        },
+        {
           "docName": "REVISED SITE PLAN_AUG 10 2026",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=F4AE6E51-9294-4698-95BA-6B83DD78A999&folderId=03107C260728081446622495"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1790074362,
+      "lastUpdated": 1790160764,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -129951,15 +129972,15 @@
           "endDate": 1788850800
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1790060400,
+          "endDate": 1790060400
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1789728772,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01132",
@@ -154731,7 +154752,7 @@
         "3122 W 16TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - ***Part 5 Design***\r\nTo construct a Multiple Dwelling \"Multiplex\" with a two-storey plus basement four-unit front building and a two-storey one-unit rear building with four surface parking spaces having vehicular access from the lane.\r\n\r\nRelated to DP-2024-00244 & Rear Building BP-2024-04266\r\n\r\nBuilding Review Branch Notes:\r\n1. Sch B Arch: Chungmo Chung, P. Eng., Sch B Fire: Hardeep Singh Gill, P.Eng., Sch A & Sch B Struct.: Jianli Guo P. Eng., Sch B Geo.: Iulian Crudu, Sch B Fire: Hardeep Singh Gill, Sch D Chungmo Chung, P, Eng \r\n2. Entire building to be sprinklered to NFPA 13R requirements.\r\n3. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\r\n4. Reviewed under VBBL 2019\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Arbutus Ridge",
+      "purpose": "High Density Housing / Commercial - New Building - ***Part 5 Design***\nTo construct a Multiple Dwelling \"Multiplex\" with a two-storey plus basement four-unit front building and a two-storey one-unit rear building with four surface parking spaces having vehicular access from the lane.\n\nRelated to DP-2024-00244 & Rear Building BP-2024-04266\n\nBuilding Review Branch Notes:\n1. Sch B Arch: Chungmo Chung, P. Eng., Sch B Fire: Hardeep Singh Gill, P.Eng., Sch A & Sch B Struct.: Jianli Guo P. Eng., Sch B Geo.: Iulian Crudu, Sch B Fire: Hardeep Singh Gill, Sch D Chungmo Chung, P, Eng \n2. Entire building to be sprinklered to NFPA 13R requirements.\n3. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n4. Reviewed under VBBL 2019\n\nRev #1 - (Sept 21, 2026) - related to DP-2024-00244 - changes to units #1, #2, #3, #4, #5 and #6\n1. Delete mailbox, addressing and Fire Department concrete plinth (complying with BULLETIN 2025-003-BU).\n2. Relocate mailbox plinth.\n3. Minor changes to the interior unit layouts in each building.\n4. Changes to windows on each building.\n5. Revise cladding material on each building.\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Arbutus Ridge",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -154750,7 +154771,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1790161014,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-04266",
@@ -199244,6 +199265,84 @@
       "longitude": -123.091918,
       "minor": true,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "3312 ANZIO DRIVE",
+      "applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00806",
+      "applicationDate": 1773129600,
+      "addresses": [
+        "3312 ANZIO DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a three-storey two-unit front building, with three carport parking spaces at the rear building, having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in laundry closet\n2.\\tHeat pump proposed – Exterior component located in front yard and courtyard, Interior component located in laundry closet\n3.\\tSchedule B: (G. Bozsik) P.Eng (604.431.0055) Structural\n4.\\tSchedule B: (T.S. Bajwa) P.Eng (778.995.2404) Geotechnical\n5.\\tHPO: Residential Builder- Shahnaz Homes & Builders Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1 (Front) (north)   \n#1-3312 Anzio Dr - One Dwelling Unit (north side 1st-3rdfloors)\n#2-3312 Anzio Dr - One Dwelling Unit (south side 1st-3rd floors) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #14343 (2025)**\nProject Value: $835,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Renfrew-Collingwood\nContractor: SHAHNAZ HOMES & BUILDERS LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773129600,
+          "endDate": 1773129600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773129600,
+          "endDate": 1773129600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773129600,
+      "relatedPermits": [],
+      "projectValue": 835000,
+      "latitude": 49.252078,
+      "longitude": -123.033341,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3310 ANZIO DRIVE",
+      "applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00807",
+      "applicationDate": 1773129600,
+      "addresses": [
+        "3310 ANZIO DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a two-storey one-unit rear building with three carport parking spaces having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in second floor closet\n2.\\tHeat pump proposed – Exterior component located in courtyard, Interior component located in second floor closet\n3.\\tSchedule B: (G. Bozsik) P.Eng (604.431.0055) Structural\n4.\\tSchedule B: (T.S. Bajwa) P.Eng (778.995.2404) Geotechnical\n5.\\tHPO: Residential Builder- Shahnaz Homes & Builders Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 2 (Rear) (south)\n3310 Anzio Dr - One Dwelling Unit (1st-2nd floors)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted and to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #14343 (2025)**\nProject Value: $299,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Renfrew-Collingwood\nContractor: SHAHNAZ HOMES & BUILDERS LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773129600,
+          "endDate": 1773129600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773129600,
+          "endDate": 1773129600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773129600,
+      "relatedPermits": [],
+      "projectValue": 299000,
+      "latitude": 49.252278,
+      "longitude": -123.033402,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "3058 CHARLES STREET",
@@ -277627,6 +277726,39 @@
       "applicant": "UNKNOWN",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
+      "folderNumber": "RZ259_00a",
+      "applicationDate": 1790161019,
+      "addresses": [
+        "5250-5270 Ash St",
+        "595 W 37th Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "\nCategory: non market\nApplication in Process",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "View the application",
+          "docURL": "https://www.shapeyourcity.ca/5250-5270-ash-st-and-595-w-37-ave"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver-Rezoning",
+      "lastUpdated": 1790161019,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ259_4bc",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
+      "latitude": 49.23763,
+      "longitude": -123.117356
+    },
+    {
+      "primaryStreetName": "5250-5270 Ash St",
+      "applicant": "UNKNOWN",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
       "folderNumber": "RZ259_4bc",
       "applicationDate": 1709020800,
       "addresses": [
@@ -277652,8 +277784,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1709020800,
-      "relatedPermits": [],
+      "lastUpdated": 1790161019,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ259_00a",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
       "latitude": 49.23763,
       "longitude": -123.117356,
       "approvalStatus": "Approved"
@@ -277714,11 +277851,48 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1709020800,
-      "relatedPermits": [],
+      "lastUpdated": 1790161019,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ260_56c",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
       "latitude": 49.23585,
       "longitude": -123.118981,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "5392-5472 Manson St",
+      "applicant": "UNKNOWN",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ260_56c",
+      "applicationDate": 1790161019,
+      "addresses": [
+        "5392-5472 Manson St"
+      ],
+      "status": "ACTIVE",
+      "purpose": "\nCategory: strata\nApplication in Process",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "View the application",
+          "docURL": "https://www.shapeyourcity.ca/5392-5472-manson-st"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver-Rezoning",
+      "lastUpdated": 1790161019,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ260_35c",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
+      "latitude": 49.23585,
+      "longitude": -123.118981
     },
     {
       "primaryStreetName": "1001 Kingsway",
@@ -298357,6 +298531,60 @@
       "longitude": -123.138415
     },
     {
+      "primaryStreetName": "8072 Granville St",
+      "applicant": "UNKNOWN",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ686_41b",
+      "applicationDate": 1790161019,
+      "addresses": [
+        "8072 Granville St"
+      ],
+      "status": "ACTIVE",
+      "purpose": "\nCategory: market\nApplication in Process",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "View the application",
+          "docURL": "https://www.shapeyourcity.ca/8072-granville-st"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver-Rezoning",
+      "lastUpdated": 1790161019,
+      "relatedPermits": [],
+      "latitude": 49.212528,
+      "longitude": -123.139966
+    },
+    {
+      "primaryStreetName": "5680 Oak St",
+      "applicant": "UNKNOWN",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ687_cc4",
+      "applicationDate": 1790161019,
+      "addresses": [
+        "5680 Oak St"
+      ],
+      "status": "ACTIVE",
+      "purpose": "\nCategory: market\nApplication in Process",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "View the application",
+          "docURL": "https://www.shapeyourcity.ca/5680-oak-st"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver-Rezoning",
+      "lastUpdated": 1790161019,
+      "relatedPermits": [],
+      "latitude": 49.234398,
+      "longitude": -123.127381
+    },
+    {
       "primaryStreetName": "933 CONVENT PL",
       "applicant": "",
       "cityApplicationType": "Pre-Application (CALUC)",
@@ -311317,10 +311545,6 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=66082C250717135041498657&folderId=65078C250715134028144551"
         },
         {
-          "docName": "2026-03-03 - Plans_revisions - reduced for DT.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82377C260723135015249703&folderId=65078C250715134028144551"
-        },
-        {
           "docName": "2026-03-03 - Plans_Revisions_Bubbled - 1of3.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BCB5B6FF-E94B-48D7-9E39-D41BB3360167&folderId=65078C250715134028144551"
         },
@@ -311335,10 +311559,14 @@
         {
           "docName": "2026-03-03 - Revisions Letter.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5CE63C78-3B83-4264-B75D-69AEBE5849F5&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "Jul 23 plans added related to BP application, March 3 2026 remain final. /PC",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82377C260723135015249703&folderId=65078C250715134028144551"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788951207,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "DDV00092",
@@ -316883,7 +317111,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1787900400,
-          "endDate": null
+          "endDate": 1788937200
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -316907,7 +317135,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788346391,
+      "lastUpdated": 1790160764,
       "relatedPermits": []
     },
     {
@@ -317356,6 +317584,12 @@
           "endDate": 1789628400
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1789628400,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -317369,7 +317603,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1789728772,
+      "lastUpdated": 1790160764,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00850",
@@ -317438,7 +317672,13 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1786690800,
-          "endDate": 1789455600
+          "endDate": 1789542000
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1789542000,
+          "endDate": null
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -317454,7 +317694,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1789642368,
+      "lastUpdated": 1790160764,
       "relatedPermits": [],
       "storeys": 2
     },
@@ -317878,6 +318118,81 @@
       "city": "Victoria",
       "lastUpdated": 1790074362,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1026 EMPRESS AVE",
+      "applicant": "TIMOTHY KINDRAT",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01179",
+      "applicationDate": 1789714800,
+      "addresses": [
+        "1026 EMPRESS AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to subdivide existing lots, keeping the existing conversions facing Empress Avenue, and construct a new townhouse facing Bay Street.",
+      "progressSections": [
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1789714800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-09-18 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EB6F6E2D-3073-4F89-8A01-A242481E0B7D&folderId=00280C260918111856317202"
+        },
+        {
+          "docName": "2026-09-18 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C09A96CA-C08E-4223-9CE4-895851821DA1&folderId=00280C260918111856317202"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1789714800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00305",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1759392000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPLICATION RETIRED: X-REFERENCE DDP01179\n\nThe City is considering a Development Permit with Variance application to subdivide existing lots, keeping the existing conversions facing Empress Avenue, and construct a new townhouse facing Bay Street."
+        },
+        {
+          "relatedPermitID": "REZ00871",
+          "relatedPermitType": "Rezoning Application",
+          "relatedPermitApplicationDate": 1712131200,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPLICATION RETIRED: X-REFERENCE DPV00305\nThe City is considering a Rezoning application to subdivide existing lots, keeping the existing conversions facing Empress Avenue, and construct a new townhouse facing Bay Street.\n\nConcurrent Development Permit No. 000642."
+        },
+        {
+          "relatedPermitID": "DP000642",
+          "relatedPermitType": "DEVELOPMENT PERMITS",
+          "relatedPermitApplicationDate": 1712131200,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPLICATION RETIRED: X-REFERENCE DPV00305\n\nThe City is considering a Development Permit application  to subdivide existing lots, keeping the existing conversions facing Empress Ave, and construct a new townhouse facing Bay St.\n\nSee Rezoning application No. 00871 for file details."
+        },
+        {
+          "relatedPermitID": "CLC00421",
+          "relatedPermitType": "Pre-Application (CALUC)",
+          "relatedPermitApplicationDate": 1695974400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”."
+        }
+      ]
     },
     {
       "primaryStreetName": "2 PAUL KANE PL",
