@@ -83016,13 +83016,90 @@ Category: Market Rental Housing included
 Status: Approved
 Approved Mar 4, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1614844800,endDate:1614844800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3084-w-4-ave-and-2010-balaclava-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1614844800,relatedPermits:[],latitude:49.268161,longitude:-123.173486,approvalStatus:`Approved`},{primaryStreetName:`3084-3086 W 4th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ285_76c`,applicationDate:1614844800,addresses:[`3084-3086 W 4th Ave`,`2010-2032 Balaclava St`],status:`ACTIVE`,purpose:`2010-2032 Balaclava St
 Status: Approved
-Approved Mar 4, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1614844800,endDate:1614844800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3084-w-4-ave-and-2010-balaclava-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1614844800,relatedPermits:[],latitude:49.268158,longitude:-123.173483,approvalStatus:`Approved`},{primaryStreetName:`800-876 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ285_d7a`,applicationDate:1770710400,addresses:[`800-876 Granville St`],status:`ACTIVE`,purpose:`
+Approved Mar 4, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1614844800,endDate:1614844800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3084-w-4-ave-and-2010-balaclava-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1614844800,relatedPermits:[],latitude:49.268158,longitude:-123.173483,approvalStatus:`Approved`},{primaryStreetName:`800-876 Granville St`,applicant:`Perkins + Will Canada Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ285_d7a`,applicationDate:1741161600,addresses:[`800-876 Granville St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved February 10, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770710400,endDate:1770710400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/800-876-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770710400,relatedPermits:[],latitude:49.280789,longitude:-123.12019,approvalStatus:`Approved`},{primaryStreetName:`516-534 W Pender`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ286_584`,applicationDate:1761206400,addresses:[`516-534 W Pender`,`509 Richards St`],status:`ACTIVE`,purpose:`
+Approved February 10, 2026
+The City of Vancouver has received a revised proposal to rezone 800-876 Granville Street to allow the development of a 43-storey (north) and 39-storey (south) mixed-use building. This proposal includes:
+
+*   A building height of 137.5 m (451 ft.) (north tower) and 120.4 m (395 ft.) (south tower);
+*   A total floor space ratio (FSR) of 14.5;
+*   A floor area of 64,641 sq. m (695,789 sq. ft.) which includes:
+    *   Retention of the Commodore Ballroom and Lanes;
+    *   Façade retention of the four heritage buildings;
+    *   Commercial uses on levels one to five;
+    *   Hotel use on levels six to eight in the north building;
+    *   Approximately 15,000 sq. ft. floor area for below-market rental units; and
+    *   523 market rental residential units contained within both towers.
+
+The site is located in sub-area 'K1' of the [Downtown Official Development Plan(External link)](https://bylaws.vancouver.ca/odp/odp-downtown.pdf) (DODP). The application requests consideration of height and density in excess of the existing policy, which is being reviewed concurrently with the [Granville Street Planning Program(External link)](https://vancouver.ca/home-property-development/granville-street-planning.aspx). Sub-area 'K1' allows a maximum height of 27.4 m (90 ft.) and a maximum density of 3.5 FSR. Amendments to the Downtown Official Development Plan would also be required to enable this project.
+
+The site includes a number of heritage properties, which are subject to the [Heritage Policies(External link)](https://guidelines.vancouver.ca/policy-heritage-policies.pdf). The application proposes primarily façade-only retention for four heritage properties on site, along with the complete retention of the Commodore Ballroom.
+
+The site includes the State Hotel at 872-876 Granville Street, which is a registered Single Room Accommodation (SRA) building containing approximately 73 vacant units. The building is subject to the City's [Single Room Accommodation By-law(External link)](https://vancouver.ca/people-programs/single-room-accommodation-bylaw.aspx).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+**Announcements**  
+April 24, 2025  
+Rental residential project details have been updated to clarify the residential component of the proposal. Please see above for the details.
+
+* * *
+
+**Previous Application (November 14, 2022)**
+
+The City of Vancouver has received an application to rezone 800-876 Granville Street from DD (Downtown) District to CD-1 (Comprehensive Development) District. This proposal is non-compliant with respect to the policies noted below. We are seeking your feedback.
+
+The proposal is to allow the development of a 17-storey mixed-use commercial building over four-partial levels of underground parking accessed from the lane. This proposal includes:
+
+*   A building height of 79.3 m (260 ft.);
+*   A floor space ratio (FSR) of 13.58;
+*   A floor area of 60,527 sq. m (651,503 sq. ft.)
+    *   Retention of the Commodore Ballroom and Lanes (VHR category 'A');
+    *   Retention of the façades of the State Hotel at 876 Granville Street (VHR Category 'C') and three other heritage properties on site;
+    *   Approximately 100,000 sq. ft. of retail-in the first three storeys;
+    *   50,000 sq. ft. of restaurant and cultural space at level 4 including a performance venue to be dedicated to the City;
+    *   Approximately 470,000 sq. ft. of office space; and
+*   98 vehicle parking spaces and 363 bicycle parking spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+The site is located in sub-area 'K1' of the [Downtown Official Development Plan(External link)](https://bylaws.vancouver.ca/odp/odp-downtown.pdf) (DODP). The application requests consideration of height and density in excess of the existing policy. Sub-area 'K1' allows a maximum height of 27.4 m (90 ft.) and a maximum density of 3.5 FSR. Amendments to the Official Development Plan would also be required to enable this project.
+
+The rezoning site includes a number of heritage properties, and as such, the [City's Heritage Program(External link)](https://vancouver.ca/home-property-development/heritage.aspx) and [Heritage Policies(External link)](https://guidelines.vancouver.ca/policy-heritage-policies.pdf) apply. The application proposes primarily façade-only retention for four heritage properties on site, along with the complete retention of the Commodore Ballroom.
+
+The site includes the State Hotel at 876 Granville Street, which is a registered Single Room Accommodation (SRA) building containing approximately 73 vacant units. The building is subject to the City's [Single Room Accommodation By-law(External link)](https://vancouver.ca/people-programs/single-room-accommodation-bylaw.aspx).`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1668412800,endDate:1668412800},{taskDescription:`Virtual open house`,taskType:`Virtual open house`,startDate:1679904e3,endDate:1681632e3},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1688544e3,endDate:1688544e3},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1741161600,endDate:1741161600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1746e6,endDate:1747123200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770710400,endDate:1770710400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770710400,endDate:1770710400}],storeys:43,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/800-876-granville-st`},{docName:`DD District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`},{docName:`Downtown Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-downtown.pdf`},{docName:`Granville Street (Downtown South) Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-downtown-south-granville-street.pdf`},{docName:`Heritage Policies`,docURL:`https://guidelines.vancouver.ca/policy-heritage-policies.pdf`},{docName:`Vancouver Heritage Register (VHR)`,docURL:`https://guidelines.vancouver.ca/policy-vancouver-heritage-register.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.280789,longitude:-123.12019,major:!0,approvalStatus:`Approved`},{primaryStreetName:`516-534 W Pender`,applicant:`Marcon Development`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ286_584`,applicationDate:1676275200,addresses:[`516-534 W Pender`,`509 Richards St`,`516-534 W Pender St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved October 23, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1761206400,endDate:1761206400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/516-534-w-pender-st-and-509-richards-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1761206400,relatedPermits:[],latitude:49.283545,longitude:-123.113669,approvalStatus:`Approved`},{primaryStreetName:`5910-5998 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ287_21c`,applicationDate:1615276800,addresses:[`5910-5998 Cambie St`],status:`ACTIVE`,purpose:`
+Approved October 23, 2025
+We would like your feedback on a rezoning application at 516-534 W Pender St & 509 Richards St. The proposal is to allow for the development of a 32-storey mixed-use building. The zoning would change from DD (Downtown) District to CD-1 (Comprehensive Development) District. This proposal includes:
+
+*   Approximately 40,270.8 sq. m (433,471 sq. ft.) of hotel space (578 hotel units);
+*   Approximately 1,899 sq. m (20,442 sq. ft.) of commercial use;
+*   Approximately 4,100 sq. m (44,132 sq. ft.) of office use;
+*   Site includes two heritage buildings:
+    *   Lumbermen's Building at 509 Richards St
+    *   Captain Pybus Building at 534 W Pender St
+*   A total floor space ratio (FSR) of 22.81;
+*   A total floor area of 46,270 sq. m (498,045 sq. ft.);
+*   A building height of 97 m (318 ft.); and
+*   146 vehicle parking spaces and 91 bicycle parking spaces.
+
+  
+
+**Revised Application (January 6, 2025)**
+
+A revised application was submitted following feedback from the community and staff review. The general form of development remains the same with revisions to the heritage retention of the Lumbermen’s Building to be façade-only instead of the entire building and adjustments to the density, massing and setbacks of the building. Changes include:
+
+*   A floor space ratio (FSR) of 20.86;
+*   586 hotel units; and
+*   168 vehicle parking spaces
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+The application is being considered under the [_Downtown Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-downtown.pdf) and [_Rezoning Policy for the Central Business District (CBD) and CBD Shoulder_(External link)](https://guidelines.vancouver.ca/policy-rezoning-cbd-shoulder.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1676275200,endDate:1676275200},{taskDescription:`Virtual open house`,taskType:`Virtual open house`,startDate:1681891200,endDate:1683014400},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1684915200,endDate:1684915200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1758009600,endDate:1758009600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1761206400,endDate:1761206400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1761206400,endDate:1761206400}],storeys:32,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/516-534-w-pender-st-and-509-richards-st`},{docName:`DD District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`},{docName:`Downtown Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-downtown.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.283545,longitude:-123.113669,major:!0,approvalStatus:`Approved`},{primaryStreetName:`5910-5998 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ287_21c`,applicationDate:1615276800,addresses:[`5910-5998 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
 Approved March 9, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1615276800,endDate:1615276800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5910-5998-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1615276800,relatedPermits:[],latitude:49.23144,longitude:-123.115798,approvalStatus:`Approved`},{primaryStreetName:`5490 Ash St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ290_b32`,applicationDate:1712649600,addresses:[`5490 Ash St`],status:`ACTIVE`,purpose:`
@@ -83037,10 +83114,32 @@ Status: Approved
 Approved March 12, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1710230400,endDate:1710230400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2108-and-2408-cassiar-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1710230400,relatedPermits:[],latitude:49.264412,longitude:-123.030262,approvalStatus:`Approved`},{primaryStreetName:`255-285 SW Marine Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ295_61f`,applicationDate:1712649600,addresses:[`255-285 SW Marine Dr`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved April 9, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1712649600,endDate:1712649600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/255-285-sw-marine-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1712649600,relatedPermits:[],latitude:49.211913,longitude:-123.111869,approvalStatus:`Approved`},{primaryStreetName:`1365 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ296_3e7`,applicationDate:1733817600,addresses:[`1365 W 12th Ave`],status:`ACTIVE`,purpose:`
+Approved April 9, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1712649600,endDate:1712649600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/255-285-sw-marine-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1712649600,relatedPermits:[],latitude:49.211913,longitude:-123.111869,approvalStatus:`Approved`},{primaryStreetName:`1365 W 12th Ave`,applicant:`Urban Strategies Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ296_3e7`,applicationDate:1671436800,addresses:[`1365 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved December 10, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1733817600,endDate:1733817600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1365-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1733817600,relatedPermits:[],latitude:49.261007,longitude:-123.135438,approvalStatus:`Approved`},{primaryStreetName:`2928-2930 Renfrew St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ301_143`,applicationDate:1709193600,addresses:[`2928-2930 Renfrew St`],status:`ACTIVE`,purpose:`
+Approved December 10, 2024
+**This application was approved by Council at Public Hearing on December 10, 2024**
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use building and includes:
+
+*   116 secured rental units with 20% of the floor area secured for below market rental units (approximately 23 units);
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 66.9 m (222 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report. Shadow studies were missing from the original application and have now been added to the documents.**
+
+_Due to the Canada Post strike, we were unable to send out postcard notifications to inform the public about this rezoning application. We apologize for any inconvenience this may cause and appreciate your understanding._
+
+July 2024:
+
+Revised drawings have been provided. Key changes include increased rear setback while still maintaining a setback along West 12th Avenue for tree retention, along with revisions to meet the family housing requirements.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1671436800,endDate:1671436800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1709712e3,endDate:1710835200},{taskDescription:`Referred to Public Hearing`,taskType:`Referred to Public Hearing`,startDate:1731398400,endDate:1731398400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1733817600,endDate:1733817600}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1365-w-12-ave`},{docName:`Application booklet - revised`,docURL:`https://www.shapeyourcity.ca/35864/widgets/147535/documents/137674`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/35864/widgets/147535/documents/123650`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/35864/widgets/147535/documents/123652`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/35864/widgets/147535/documents/123651`},{docName:`Shadow studies`,docURL:`https://www.shapeyourcity.ca/35864/widgets/147535/documents/125574`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261007,longitude:-123.135438,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2928-2930 Renfrew St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ301_143`,applicationDate:1709193600,addresses:[`2928-2930 Renfrew St`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
 Approved February 29, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1709193600,endDate:1709193600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2930-renfrew-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1709193600,relatedPermits:[],latitude:49.257795,longitude:-123.043857,approvalStatus:`Approved`},{primaryStreetName:`618 W 32nd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ302_73a`,applicationDate:1689235200,addresses:[`618 W 32nd Ave`],status:`ACTIVE`,purpose:`
@@ -83067,13 +83166,60 @@ Status: Approved
 Approved September 21, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1632211200,endDate:1632211200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4426-4464-knight-st-and-1406-e-28-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1632211200,relatedPermits:[],latitude:49.245141,longitude:-123.07595,approvalStatus:`Approved`},{primaryStreetName:`4426-4464 Knight Street + 1406 E 28th Avenue`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ309_88d`,applicationDate:1632211200,addresses:[`4426-4464 Knight Street + 1406 E 28th Avenue`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved September 21, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1632211200,endDate:1632211200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4426-4464-knight-st-and-1406-e-28-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1632211200,relatedPermits:[],latitude:49.245144,longitude:-123.075953,approvalStatus:`Approved`},{primaryStreetName:`7051 Ash Cr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ309_f28`,applicationDate:1770883200,addresses:[`7051 Ash Cr`],status:`ACTIVE`,purpose:`(Langara Gardens)
+Approved September 21, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1632211200,endDate:1632211200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4426-4464-knight-st-and-1406-e-28-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1632211200,relatedPermits:[],latitude:49.245144,longitude:-123.075953,approvalStatus:`Approved`},{primaryStreetName:`7051 Ash Cr`,applicant:`Concert Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ309_f28`,applicationDate:1671177600,addresses:[`7051 Ash Cr`,`7051 Ash Crescent (Langara Gardens)`],status:`ACTIVE`,purpose:`(Langara Gardens)
 Category: Market Rental Housing included
 Status: Approved
-Approved February 12, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770883200,endDate:1770883200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/7051-ash-cr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770883200,relatedPermits:[],latitude:49.22118,longitude:-123.119646,approvalStatus:`Approved`},{primaryStreetName:`5212 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ310_e17`,applicationDate:1729584e3,addresses:[`5212 Granville St`],status:`ACTIVE`,purpose:`
+Approved February 12, 2026
+The City of Vancouver has received an application to rezone the existing CD-1 (47) to allow for the phased master-plan of 7051 Ash Crescent (Langara Gardens). The proposal is for the redevelopment of the 20.8 acre site with buildings between three and 36 storeys. The existing four 18-storey towers would be retained. The proposal includes:
+
+*   Approximately 430 social housing units;
+*   Approximately 760 rental units (including 85 below-market units);
+*   Approximately 1,430 strata units;
+*   A 69-space childcare facility;
+*   Public open spaces, Cambie Park upgrades, a new 1-acre park; and
+*   A gross floor area of 259,394 sq. m. (2,792,095 sq. ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Langara Gardens Policy Statement_(External link)](https://guidelines.vancouver.ca/policy-statement-langara-gardens.pdf) and the [_Issues Report: Direction for Intensification of Large Sites to include Moderate Income Rental Housing_(External link)](https://council.vancouver.ca/20190723/documents/p11.pdf).
+
+_A community information session was held on October 16, 2023, from 4-7 pm at Langara College (100 W 49th Ave) in the 2nd Floor Gallery Space, Science & Technology Building (Building T), with City staff and the applicant team available to answer questions._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1671177600,endDate:1671177600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1696838400,endDate:1698566400},{taskDescription:`Q&A information session (Langara College, 2nd Floor Gallery Space, Science & Technology Building)`,taskType:`Q&A information session (Langara College, 2nd Floor Gallery Space, Science & Technology Building)`,startDate:1697443200,endDate:1697443200},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1698220800,endDate:1698220800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770883200,endDate:1770883200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770883200,endDate:1770883200}],storeys:36,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/7051-ash-cr`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/37113/widgets/153152/documents/111854`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/37113/widgets/153152/documents/111855`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/37113/widgets/153152/documents/111856`},{docName:`CD-1(47)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(047).PDF`},{docName:`Langara Gardens Policy Statement`,docURL:`https://guidelines.vancouver.ca/policy-statement-langara-gardens.pdf`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`},{docName:`Issues Report: Direction for Intensification of Large Sites to include Moderate Income Rental Housing`,docURL:`https://council.vancouver.ca/20190723/documents/p11.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.22118,longitude:-123.119646,major:!0,approvalStatus:`Approved`},{primaryStreetName:`5212 Granville St`,applicant:`Habihaus Studio Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ310_e17`,applicationDate:1689062400,addresses:[`5212 Granville St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved October 22, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1729584e3,endDate:1729584e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5212-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1729584e3,relatedPermits:[],latitude:49.238818,longitude:-123.138921,approvalStatus:`Approved`},{primaryStreetName:`485 W 28th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ311_aec`,applicationDate:1618300800,addresses:[`485 W 28th Ave`],status:`ACTIVE`,purpose:`
+Approved October 22, 2024
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential) District to\xA0**[RR-2B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)** (Residential Rental) District. The proposal includes:
+
+*   A 5-storey apartment building where all dwelling units are secured as rental; and
+*   A floor space ratio (FSR) up to 2.20.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2B. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   How SRP helps deliver key objectives of the [Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1689062400,endDate:1689062400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1695196800,endDate:169632e4},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1727164800,endDate:1727164800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1729584e3,endDate:1729584e3},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1729584e3,endDate:1729584e3}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5212-granville-st`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.238818,longitude:-123.138921,major:!0,approvalStatus:`Approved`},{primaryStreetName:`485 W 28th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ311_aec`,applicationDate:1618300800,addresses:[`485 W 28th Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
 Approved April 13, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1618300800,endDate:1618300800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/485-w-28-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1618300800,relatedPermits:[],latitude:49.246294,longitude:-123.114838,approvalStatus:`Approved`},{primaryStreetName:`5412 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ312_783`,applicationDate:1623916800,addresses:[`5412 Cambie St`],status:`ACTIVE`,purpose:`
@@ -83082,76 +83228,480 @@ Status: Approved
 Approved June 17, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1623916800,endDate:1623916800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5412-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1623916800,relatedPermits:[],latitude:49.236125,longitude:-123.115589,approvalStatus:`Approved`},{primaryStreetName:`4569 Oak St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ315_bc7`,applicationDate:1721894400,addresses:[`4569 Oak St`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved July 25, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1721894400,endDate:1721894400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4569-oak-st `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1721894400,relatedPermits:[],latitude:49.244892,longitude:-123.128112,approvalStatus:`Approved`},{primaryStreetName:`1167-1193 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ317_815`,applicationDate:1768464e3,addresses:[`1167-1193 Granville St`],status:`ACTIVE`,purpose:`
+Approved July 25, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1721894400,endDate:1721894400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4569-oak-st `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1721894400,relatedPermits:[],latitude:49.244892,longitude:-123.128112,approvalStatus:`Approved`},{primaryStreetName:`1167-1193 Granville St`,applicant:`Musson Cattell Mackey Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ317_815`,applicationDate:1695110400,addresses:[`1167-1193 Granville St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved January 15, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1768464e3,endDate:1768464e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1167-1193-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1768464e3,relatedPermits:[],latitude:49.277565,longitude:-123.126172,approvalStatus:`Approved`},{primaryStreetName:`2535 Carolina St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ321_bfd`,applicationDate:1740643200,addresses:[`2535 Carolina St`],status:`ACTIVE`,purpose:`
+Approved January 15, 2026
+The City of Vancouver has received an application to rezone the subject site from DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 33-storey mixed-use hotel building with a four-storey podium. The proposal includes:
+
+*   464 hotel units;
+*   Commercial space in the podium levels;
+*   A floor space ratio (FSR) of 21.79;
+*   A building height of 115.8 m (380 ft.); and
+*   33 vehicle parking spaces and 60 bicycle spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Downtown Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf)_._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1695110400,endDate:1695110400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:170064e4,endDate:1701763200},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1706083200,endDate:1706083200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1765267200,endDate:1765267200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1768464e3,endDate:1768464e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1768464e3,endDate:1768464e3}],storeys:33,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1167-1193-granville-st`},{docName:`Downtown Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf`},{docName:`DD District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`},{docName:`Downtown Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-downtown.pdf`},{docName:`Design and Development Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-design-development.pdf`},{docName:`Hotel Development Policy`,docURL:`https://guidelines.vancouver.ca/policy-hotel-development.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.277565,longitude:-123.126172,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2535 Carolina St`,applicant:`HAVN Developments Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ321_bfd`,applicationDate:1696492800,addresses:[`2535 Carolina St`,`557-569 E 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 27, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2535-carolina-st-and-557-569-e-10th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740643200,relatedPermits:[],latitude:49.261887,longitude:-123.091327,approvalStatus:`Approved`},{primaryStreetName:`800 Commercial Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ322_900`,applicationDate:1721894400,addresses:[`800 Commercial Dr`],status:`ACTIVE`,purpose:`
+Approved February 27, 2025
+**This application was approved by Council at Public Hearing on February 27, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RT-5 (Residential) District to CD-1 (Comprehensive Development) District. This proposal is non-compliant with respect to the policy noted below. We are seeking your feedback. The proposal is to allow for the development of an 18-storey mixed-use building and includes:
+
+*   150 secured rental units with 20% of the floor area secured for below market rental units (approximately 33 units);
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 5.80
+*   A building height of 62.0 m (204 ft.); and
+*   53 vehicle parking spaces and 250 bicycle spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+The site is located in the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf). The application requests consideration of an additional tower to be permitted on this block in excess of the existing policy.
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1696492800,endDate:1696492800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1706688e3,endDate:1707811200},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1708502400,endDate:1708502400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740643200,endDate:1740643200}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2535-carolina-st-and-557-569-e-10th-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/37117/widgets/153180/documents/116465`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/37117/widgets/153180/documents/116466`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/37117/widgets/153180/documents/116467`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RT-5 and RT-5N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-5.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.261887,longitude:-123.091327,major:!0,approvalStatus:`Approved`},{primaryStreetName:`800 Commercial Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ322_900`,applicationDate:1721894400,addresses:[`800 Commercial Dr`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
 Approved July 25, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1721894400,endDate:1721894400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/800-commercial-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1721894400,relatedPermits:[],latitude:49.27728,longitude:-123.07016,approvalStatus:`Approved`},{primaryStreetName:`1885 E Pender St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ324_48a`,applicationDate:1621324800,addresses:[`1885 E Pender St`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
-Approved May 18, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1621324800,endDate:1621324800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1885-e-pender-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1621324800,relatedPermits:[],latitude:49.280487,longitude:-123.06624,approvalStatus:`Approved`},{primaryStreetName:`3983-3991 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ324_e42`,applicationDate:1731398400,addresses:[`3983-3991 W 10th Ave`],status:`ACTIVE`,purpose:`
+Approved May 18, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1621324800,endDate:1621324800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1885-e-pender-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1621324800,relatedPermits:[],latitude:49.280487,longitude:-123.06624,approvalStatus:`Approved`},{primaryStreetName:`3983-3991 W 10th Ave`,applicant:`HPNA Architecture + Planning Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ324_e42`,applicationDate:1693900800,addresses:[`3983-3991 W 10th Ave`,`3983-3991 W 10th Ave Rezoning Application (Withdrawn)`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved November 12, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1731398400,endDate:1731398400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3983-3991-w-10th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1731398400,relatedPermits:[],latitude:49.263831,longitude:-123.19313,approvalStatus:`Approved`},{primaryStreetName:`2156-2172 W 14th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ325_400`,applicationDate:1732608e3,addresses:[`2156-2172 W 14th Ave`],status:`ACTIVE`,purpose:`
+Approved November 12, 2024
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to **[RR-2B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)** (Residential Rental) District. The proposal includes:
+
+*   A 5-storey apartment building where all dwelling units are secured as rental; and
+*   A floor space ratio (FSR) up to 2.20.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2B. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   How SRP helps deliver key objectives of the [Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1693900800,endDate:1693900800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1700035200,endDate:1701158400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1728374400,endDate:1728374400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1731398400,endDate:1731398400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1731398400,endDate:1731398400},{taskDescription:`Application withdrawn`,taskType:`Application withdrawn`,startDate:null,endDate:null}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3983-3991-w-10th-ave`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.263831,longitude:-123.19313,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2156-2172 W 14th Ave`,applicant:`HAVN Developments Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ325_400`,applicationDate:1697184e3,addresses:[`2156-2172 W 14th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved November 26, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1732608e3,endDate:1732608e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2156-2172-w-14-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1732608e3,relatedPermits:[],latitude:49.25898,longitude:-123.154589,approvalStatus:`Approved`},{primaryStreetName:`975 W 57th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ326_611`,applicationDate:1727164800,addresses:[`975 W 57th Ave`],status:`ACTIVE`,purpose:`
+Approved November 26, 2024
+**This application was approved by Council on November 26, 2024 following the Public Hearings on November 12 and 14, 2024.**
+
+  
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from RT-7 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey mixed-use building and includes:
+
+*   170 secured rental units with 20% of the floor area secured for below market rental units;
+*   540 sq. ft. commercial retail unit on the ground floor;
+*   A floor space ratio (FSR) of 5.80;
+*   A building height of 59.5 m (195 ft.); and
+*   84 vehicle parking spaces and 313 bicycle spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1697184e3,endDate:1697184e3},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1708502400,endDate:1709625600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1728374400,endDate:1728374400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1731398400,endDate:1731398400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1732608e3,endDate:1732608e3}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2156-2172-w-14-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RT-7 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-7.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.25898,longitude:-123.154589,major:!0,approvalStatus:`Approved`},{primaryStreetName:`975 W 57th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ326_611`,applicationDate:1727164800,addresses:[`975 W 57th Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved September 24, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1727164800,endDate:1727164800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/975-w-57-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1727164800,relatedPermits:[],latitude:49.220121,longitude:-123.12778,approvalStatus:`Approved`},{primaryStreetName:`2219-2285 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ328_fc2`,applicationDate:1772697600,addresses:[`2219-2285 Cambie St`],status:`ACTIVE`,purpose:`
+Approved September 24, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1727164800,endDate:1727164800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/975-w-57-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1727164800,relatedPermits:[],latitude:49.220121,longitude:-123.12778,approvalStatus:`Approved`},{primaryStreetName:`2219-2285 Cambie St`,applicant:`MCMP Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ328_fc2`,applicationDate:1740470400,addresses:[`2219-2285 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved March 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2219-2285-cambie-st-3`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772697600,relatedPermits:[],latitude:49.265377,longitude:-123.115174,approvalStatus:`Approved`},{primaryStreetName:`4545 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ329_2d2`,applicationDate:174168e4,addresses:[`4545 W 10th Ave`],status:`ACTIVE`,purpose:`
+Approved March 5, 2026
+Revised application (November 2025)
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 32-storey mixed-use rental building with a 5-storey podium and includes:
+
+*   230 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   Office space on floors 2-5;
+*   A floor space ratio (FSR) of 15.3; and
+*   A building height of 111 m (364 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx)_._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Original application (February 2025)
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 30-storey mixed-use rental building with a 5-storey podium and includes:
+
+*   212 units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   Office space on floors 2-5;
+*   A floor space ratio (FSR) of 14.37; and
+*   A building height of 101 m (332 ft.) with additional height for rooftop amenity space.
+
+This application is being considered under the [_Broadway Plan_(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx)_._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+April 30, 2025
+
+The Q&A period will be extended by an additional week. Please note that feedback and questions can still be submitted after the Q&A period ends. Following the Q&A period, questions and feedback can be emailed directly to the Rezoning Planner at [lex.dominiak@vancouver.ca(External link)](mailto:lex.dominiak@vancouver.ca)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1740470400,endDate:1740470400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1744790400,endDate:1746518400},{taskDescription:`Revised application`,taskType:`Revised application`,startDate:1764144e3,endDate:1764144e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772697600,endDate:1772697600}],storeys:32,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2219-2285-cambie-st-3`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/47287/widgets/219485/documents/166266`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/47287/widgets/219485/documents/166267`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/47287/widgets/219485/documents/166268`},{docName:`Architectural drawings`,docURL:`https://www.shapeyourcity.ca/47287/widgets/219485/documents/166269`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/47287/widgets/219485/documents/166265`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/47287/widgets/219485/documents/166264`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/47287/widgets/219485/documents/166263`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265377,longitude:-123.115174,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4545 W 10th Ave`,applicant:`Bentall Green Oak`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ329_2d2`,applicationDate:1699948800,addresses:[`4545 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 11, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:174168e4,endDate:174168e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4545-w-10th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:174168e4,relatedPermits:[],latitude:49.264103,longitude:-123.210007,approvalStatus:`Approved`},{primaryStreetName:`526 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ329_860`,applicationDate:1655971200,addresses:[`526 Granville St`],status:`ACTIVE`,purpose:`
+Approved March 11, 2025
+**This application was approved by Council on March 11, 2025 following the Public Hearing on February 25, 2025.**
+
+  
+
+  
+
+**Updated Application Information (July 29, 2024)**\xA0
+
+The City of Vancouver has received updated information related to the application to rezone the former West Point Grey Safeway site from C-2 (Commercial) District to CD-1 (Comprehensive Development) District. The updated proposal is to allow for the development of a 19-storey and 21-storey building and includes:
+
+*   457 market rental units and 114 moderate income rental units (571 units total);
+*   Commercial space on the ground floor, including a grocery store;
+*   A floor space ratio (FSR) of 3.92;
+*   A floor area of 49,414 sq. m (531,888 sq. ft.); and
+*   444 vehicle parking spaces and 1,107 bicycle spaces.
+
+These updates are for a previous proposal submitted on November 14, 2023. Key changes from the previous version include shifting the towers further away from 10th Avenue, a reduced podium height, wrapping the retail space around the plaza edges, wider sidewalks along 10th Avenue, and adding a second underground parking entrance. Further details in table below and updated drawings:
+
+**2023 Original Application**
+
+**2024 Updated Drawings**
+
+**Height of podium (facing West 10th Avenue)**
+
+6 storeys
+
+4 storeys
+
+**Tower setback from property line**
+
+10 ft.
+
+32 ft.
+
+**Height of two towers**
+
+17 and 19 storeys
+
+19 and 21 storeys
+
+**Floor Area / Density**
+
+49,004 sq. m (527,475 sq. ft.)  
+3.84 FSR
+
+49,414 sq. m (531,888 sq. ft.)  
+3.92 FSR
+
+**Number of rental units**
+
+569 total (455 market, 114 moderate income rental)
+
+571 total (457 market, 114 moderate income rental)
+
+**Size of plaza**
+
+6,158 sq. ft.
+
+6,230 sq. ft.
+
+**Sidewalk width along 10th Ave (from curb to building face)**
+
+5.84 m (19 ft.)
+
+5.82 m-9.47 m (19-31 ft.)
+
+**Parking entrances**
+
+One (off Tolmie St)
+
+Two (one off Tolmie St, one off Sasamat St)
+
+**Parking spaces**
+
+444 vehicle spaces, 1,107 bicycle spaces
+
+444 vehicle spaces, 1,107 bicycle spaces
+
+**Size of grocery store**
+
+37,160 sq. ft.
+
+35,255 sq. ft.
+
+**Number/floor area of commercial retail units**
+
+Two CRUs / 3,575 sq. ft.
+
+Two CRUs / 4,928 sq. ft.
+
+  
+
+This application is being considered under the [_Moderate Income Rental Housing Pilot Program_(External link)](https://vancouver.ca/files/cov/mirhpp-public-faqs.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+**Rezoning Application (November 14, 2023)**\xA0
+
+Previous documents for this application, submitted on November 14, 2023, contained information for a mixed-use development comprised of two 6-storey buildings, and a central building with a 17-storey and a 19-storey tower. This included:
+
+*   455 market rental units and 114 moderate income rental units (569 units total);
+*   Commercial space on the ground floor, including a grocery store;
+*   A floor space ratio (FSR) of 3.84;
+*   A floor area of 49,004 sq. m (527,475 sq. ft.); and
+*   444 vehicle parking spaces and 1,107 bicycle spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1699948800,endDate:1699948800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1705910400,endDate:1707638400},{taskDescription:`Q&A information session (West Point Grey United Church, 4595 W 8th Ave), 4-7pm`,taskType:`Q&A information session (West Point Grey United Church, 4595 W 8th Ave), 4-7pm`,startDate:1707379200,endDate:1707379200},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1708502400,endDate:1708502400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740470400,endDate:1740470400},{taskDescription:`Approved`,taskType:`Approved`,startDate:174168e4,endDate:174168e4}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4545-w-10th-ave`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`},{docName:`Moderate Income Rental Housing Pilot Program  (MIRHPP) Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-mirhpp.pdf`},{docName:`Moderate Income Rental Housing Pilot Program (MIRHPP) - FAQs`,docURL:`https://vancouver.ca/files/cov/mirhpp-public-faqs.pdf`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.264103,longitude:-123.210007,major:!0,approvalStatus:`Approved`},{primaryStreetName:`526 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ329_860`,applicationDate:1655971200,addresses:[`526 Granville St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved June 23, 2022`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1655971200,endDate:1655971200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/526-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1655971200,relatedPermits:[],latitude:49.284196,longitude:-123.115394,approvalStatus:`Approved`},{primaryStreetName:`1551-1581 W 7th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ330_3f8`,applicationDate:1746604800,addresses:[`1551-1581 W 7th Ave`],status:`ACTIVE`,purpose:`
+Approved June 23, 2022`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1655971200,endDate:1655971200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/526-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1655971200,relatedPermits:[],latitude:49.284196,longitude:-123.115394,approvalStatus:`Approved`},{primaryStreetName:`1551-1581 W 7th Ave`,applicant:`Acton Ostry Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ330_3f8`,applicationDate:1700467200,addresses:[`1551-1581 W 7th Ave`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved May 7, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1746604800,endDate:1746604800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1551-1581-w-7th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1746604800,relatedPermits:[],latitude:49.265593,longitude:-123.140054,approvalStatus:`Approved`},{primaryStreetName:`998 E 19th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ331_094`,applicationDate:1721894400,addresses:[`998 E 19th Ave`],status:`ACTIVE`,purpose:`
+Approved May 7, 2025
+**This application was approved by Council with yellow memo at the Council Meeting following the Standing Committee on Policy and Strategic Priorities meeting on May 7, 2025 following the Public Hearings on April 17 and April 22, 2025.**  
+  
+
+The City of Vancouver has received an application to rezone the subject site from C3-A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use building and includes:
+
+*   Replacement/expansion of the La Maison de la Francophonie (Francophone Community and Cultural Centre) that includes retail space, a theatre, gallery/multi-purpose space, and office space for non-profit organizations;
+*   125 strata units;
+*   A floor space ratio (FSR) of 8.0;
+*   A building height of 69.2 m (227 ft.); and
+*   204 vehicle parking spaces and 284 bicycle spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1700467200,endDate:1700467200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1710316800,endDate:171144e4},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1715155200,endDate:1715155200},{taskDescription:`Referred to Public Hearing`,taskType:`Referred to Public Hearing`,startDate:174168e4,endDate:174168e4},{taskDescription:`Approved`,taskType:`Approved`,startDate:1746604800,endDate:1746604800}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1551-1581-w-7th-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265593,longitude:-123.140054,major:!0,approvalStatus:`Approved`},{primaryStreetName:`998 E 19th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ331_094`,applicationDate:1721894400,addresses:[`998 E 19th Ave`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
-Approved July 25, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1721894400,endDate:1721894400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/998-e-19-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1721894400,relatedPermits:[],latitude:49.25343,longitude:-123.084177,approvalStatus:`Approved`},{primaryStreetName:`2520-2532 W 16th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ332_35d`,applicationDate:1737446400,addresses:[`2520-2532 W 16th Ave`,`3223 Larch St`],status:`ACTIVE`,purpose:`3223 Larch St
+Approved July 25, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1721894400,endDate:1721894400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/998-e-19-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1721894400,relatedPermits:[],latitude:49.25343,longitude:-123.084177,approvalStatus:`Approved`},{primaryStreetName:`2520-2532 W 16th Ave`,applicant:`Strand Holdings Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ332_35d`,applicationDate:1701417600,addresses:[`2520-2532 W 16th Ave`,`3223 Larch St`,`2520-2544 W 16th Ave`],status:`ACTIVE`,purpose:`3223 Larch St
 Category: Market Rental Housing included
 Status: Approved
-Approved January 21, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1737446400,endDate:1737446400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2520-2532-w-16-ave-and-3223-larch-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1737446400,relatedPermits:[],latitude:49.25719,longitude:-123.163143,approvalStatus:`Approved`},{primaryStreetName:`7525 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ332_79a`,applicationDate:1715068800,addresses:[`7525 Cambie St`],status:`ACTIVE`,purpose:`
+Approved January 21, 2025
+****This application was approved by Council at Public Hearing on January 21, 2025****
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to\xA0**[RR-2B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)** (Residential Rental) District.
+
+**Update:** An additional lot (2538-2544 W 16th Avenue) has been included in this rezoning application bringing the total to four lots that will be considered for this rezoning.
+
+The proposal includes:
+
+*   A 5-storey apartment building where all dwelling units are secured as rental;
+*   A partial storey for rooftop amenity space (optional); and
+*   A floor space ratio (FSR) up to 2.40.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2B.\xA0Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1701417600,endDate:1701417600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1707292800,endDate:1708416e3},{taskDescription:`Referred to a Public Hearing`,taskType:`Referred to a Public Hearing`,startDate:1733817600,endDate:1733817600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1737446400,endDate:1737446400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1737446400,endDate:1737446400}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2520-2532-w-16-ave-and-3223-larch-st`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.25719,longitude:-123.163143,major:!0,approvalStatus:`Approved`},{primaryStreetName:`7525 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ332_79a`,applicationDate:1715068800,addresses:[`7525 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
 Approved May 7, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1715068800,endDate:1715068800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/7525-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1715068800,relatedPermits:[],latitude:49.216691,longitude:-123.117428,approvalStatus:`Approved`},{primaryStreetName:`25-55 E 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ334_99c`,applicationDate:1789138916,addresses:[`25-55 E 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/25-55-e-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.260505,longitude:-123.104171},{primaryStreetName:`4-36 W 3rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ335_0ed`,applicationDate:1747728e3,addresses:[`4-36 W 3rd Ave`,`5 W 4th Ave`],status:`ACTIVE`,purpose:`5 W 4th Ave
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/25-55-e-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.260505,longitude:-123.104171},{primaryStreetName:`4-36 W 3rd Ave`,applicant:`PCI Developments`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ335_0ed`,applicationDate:1701763200,addresses:[`4-36 W 3rd Ave`,`5 W 4th Ave`],status:`ACTIVE`,purpose:`5 W 4th Ave
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved May 20, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4-36-w-3-ave-and-5-w-4-ave-3`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1747728e3,relatedPermits:[],latitude:49.267705,longitude:-123.105191,approvalStatus:`Approved`},{primaryStreetName:`2735 E 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ338_b38`,applicationDate:1637654400,addresses:[`2735 E 41st Ave`],status:`ACTIVE`,purpose:`
+Approved May 20, 2025
+**This application was approved by Council at Public Hearing on May 20, 2025.**
+
+The City of Vancouver has received an application to rezone the subject sites from I-1 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two 11-storey and 10-storey mixed-use industrial and office buildings with industrial and retail on the ground floor on two parcels separated by a lane and includes:
+
+*   An overall floor space ratio (FSR) of 6.6;
+*   A floor area of 41,085 sq. m (442,251 sq. ft.); and
+*   Four levels of underground parking.
+
+**5 West 4th Avenue (South / Heritage building)**
+
+*   10-storey building;
+*   A building height of 51.8 m (170 ft.);
+*   Industrial 9,424 sq. m (101,436 sq. ft.);
+*   Office 8,094 sq. m (87,128 sq.ft.);
+*   Retail 1,451 sq. m (15,623 sq. ft.);
+*   Retention of Dominion Steam Laundry Heritage building of 3,711 sq. m (39,946 sq. ft.) which includes:
+    *   Industrial 2,516 sq. m (27,079 sq. ft.);
+    *   Childcare facility within the heritage building; and,
+*   244 underground parking spaces and 193 bicycle parking spaces.
+
+**4-36 West 3rd Avenue (North Building)**
+
+*   11-storey building;
+*   A building height of 55.2 m (181 ft.);
+*   Industrial 11,356 sq. m (122,234 sq .ft.);
+*   Office 8,105 sq. m (87,245 sq. ft.); and
+*   141 underground parking spaces and 66 bicycle parking spaces.
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+The site includes a heritage building at the corner of West 4th Avenue and Ontario Street, and as such, the City’s Heritage Program and Heritage Policies apply. The application proposes retention of the façade and timber frame structure for what was originally built in 1910 as Dominion Steam Laundry (Vancouver Heritage Register Category ‘C’) and to leverage Broadway Plan policy 18.2.5 which considers up to 10% additional density (FSR) for proposals retaining a heritage building.
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1701763200,endDate:1701763200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1711526400,endDate:1712649600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1747728e3,endDate:1747728e3}],storeys:11,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4-36-w-3-ave-and-5-w-4-ave-3`},{docName:`I-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.267705,longitude:-123.105191,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2735 E 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ338_b38`,applicationDate:1637654400,addresses:[`2735 E 41st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved November 23, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1637654400,endDate:1637654400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2735-e-41-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1637654400,relatedPermits:[],latitude:49.233103,longitude:-123.050581,approvalStatus:`Approved`},{primaryStreetName:`215-229 E 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ338_b6d`,applicationDate:1764835200,addresses:[`215-229 E 13th Ave`],status:`ACTIVE`,purpose:`
+Approved November 23, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1637654400,endDate:1637654400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2735-e-41-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1637654400,relatedPermits:[],latitude:49.233103,longitude:-123.050581,approvalStatus:`Approved`},{primaryStreetName:`215-229 E 13th Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ338_b6d`,applicationDate:1704873600,addresses:[`215-229 E 13th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved December 4, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1764835200,endDate:1764835200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/215-229-e-13-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1764835200,relatedPermits:[],latitude:49.259547,longitude:-123.100181,approvalStatus:`Approved`},{primaryStreetName:`4310 Slocan St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ339_b63`,applicationDate:1655193600,addresses:[`4310 Slocan St`],status:`ACTIVE`,purpose:`
+Approved December 4, 2025
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use building and includes:
+
+*   193 secured rental units with 20% of the floor area secured for below market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 64.6 m (212 ft.) with additional height for rooftop amenity space and mechanical appurtenances .
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+**Revised Submission (July 11, 2025)**
+
+Following staff review of application materials, a revised application booklet was submitted with corrected shadow studies.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1704873600,endDate:1704873600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1712736e3,endDate:1713859200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1762243200,endDate:1762243200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1764835200,endDate:1764835200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1764835200,endDate:1764835200}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/215-229-e-13-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/41557/widgets/173174/documents/125351`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/41557/widgets/173174/documents/125352`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/41557/widgets/173174/documents/125353`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.259547,longitude:-123.100181,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4310 Slocan St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ339_b63`,applicationDate:1655193600,addresses:[`4310 Slocan St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
 Approved June 14, 2022`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1655193600,endDate:1655193600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2735-e-41-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1655193600,relatedPermits:[],latitude:49.246154,longitude:-123.049278,approvalStatus:`Approved`},{primaryStreetName:`534-550 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ341_1ce`,applicationDate:1638864e3,addresses:[`534-550 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved December 7, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1638864e3,endDate:1638864e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/534-550-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1638864e3,relatedPermits:[],latitude:49.280974,longitude:-123.110259,approvalStatus:`Approved`},{primaryStreetName:`816-860 W 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ341_719`,applicationDate:1745395200,addresses:[`816-860 W 13th Ave`,`2915-2925 Willow St`],status:`ACTIVE`,purpose:`2915-2925 Willow St
+Approved December 7, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1638864e3,endDate:1638864e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/534-550-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1638864e3,relatedPermits:[],latitude:49.280974,longitude:-123.110259,approvalStatus:`Approved`},{primaryStreetName:`816-860 W 13th Ave`,applicant:`PC Urban (13th and Willow) Holdings Corp. c/o PC Urban (13th and Willow) LP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ341_719`,applicationDate:1704787200,addresses:[`816-860 W 13th Ave`,`2915-2925 Willow St`],status:`ACTIVE`,purpose:`2915-2925 Willow St
 Category: Market Rental Housing included
 Status: Approved
-Approved April 23, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1745395200,endDate:1745395200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/816-860-w-13-ave-and-2915-2925-willow-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1745395200,relatedPermits:[{relatedPermitID:`RZ632_719`,relatedPermitType:`Rezoning`}],latitude:49.259332,longitude:-123.122662,approvalStatus:`Approved`},{primaryStreetName:`1190 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ344_80d`,applicationDate:1737619200,addresses:[`1190 W 10th Ave`],status:`ACTIVE`,purpose:`
+Approved April 23, 2025
+**This application has been closed. Please find the new application submitted for this site [here](https://www.shapeyourcity.ca/816-860-w-13-ave-and-2915-2925-willow-st-2).**
+
+**This application was approved with yellow memo by Council on April 23, 2025, following the Public Hearing on April 17, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two 21-storey buildings and includes:
+
+*   354 secured rental units with 20% of the floor area secured for below market rental units;
+*   A childcare facility;
+*   A floor space ratio (FSR) of 7.4; and
+*   A building height of 64.3 m (211 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+The application is requesting additional density for the delivery of a childcare centre.
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`​Application received`,taskType:`​Application received`,startDate:1704787200,endDate:1704787200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1713340800,endDate:1714464e3},{taskDescription:`Referred to Public Hearing`,taskType:`Referred to Public Hearing`,startDate:174168e4,endDate:174168e4},{taskDescription:`Approved`,taskType:`Approved`,startDate:1745395200,endDate:1745395200}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/816-860-w-13-ave-and-2915-2925-willow-st`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[{relatedPermitID:`RZ632_719`,relatedPermitType:`Rezoning`}],latitude:49.259332,longitude:-123.122662,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1190 W 10th Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ344_80d`,applicationDate:1704787200,addresses:[`1190 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 23, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1737619200,endDate:1737619200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1190-w-10th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1737619200,relatedPermits:[],latitude:49.262348,longitude:-123.130995,approvalStatus:`Approved`},{primaryStreetName:`4471-4485 Fraser St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ345_7f8`,applicationDate:174168e4,addresses:[`4471-4485 Fraser St`,`691 E 29th Ave`],status:`ACTIVE`,purpose:`691 E 29th Ave
+Approved January 23, 2025
+**This application was approved by Council at Public Hearing on January 23, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use building and includes:
+
+*   172 secured rental units with 20% of the residential floor area secured for below market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 68.7 m (228 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1704787200,endDate:1704787200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1712736e3,endDate:1713859200},{taskDescription:`Referred to Public Hearing`,taskType:`Referred to Public Hearing`,startDate:1733817600,endDate:1733817600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1737619200,endDate:1737619200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1737619200,endDate:1737619200}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1190-w-10th-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262348,longitude:-123.130995,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4471-4485 Fraser St`,applicant:`W. T. Leung Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ345_7f8`,applicationDate:1721376e3,addresses:[`4471-4485 Fraser St`,`691 E 29th Ave`],status:`ACTIVE`,purpose:`691 E 29th Ave
 Category: Market Rental Housing included
 Status: Approved
-Approved March 11, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:174168e4,endDate:174168e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4471-4485-fraser-st-and-691-e-29-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:174168e4,relatedPermits:[],latitude:49.244807,longitude:-123.090631,approvalStatus:`Approved`},{primaryStreetName:`2001-2037 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ350_5e4`,applicationDate:1689235200,addresses:[`2001-2037 W 41st Ave`],status:`ACTIVE`,purpose:`
+Approved March 11, 2025
+**This application was approved by Council at Public Hearing on March 11, 2025.**
+
+**Approved Changes to District Schedules**
+
+On May 19, 2026, Council approved City-led amendments to the Secured Rental Policy and the RR (Rental residential) zones. This property was rezoned from RT-2 to RR-3C which allows this property’s building height to be increased to up to 6-storeys. This replaces the previous approval in principle that would have resulted in the property being rezoned from R1-1 to RR-3A, which would only have permitted 4-storeys. If a 6-storey building is applied for, a development permit application will follow with neighborhood notification through the City’s standard processes. For more information, please visit [Fast-tracking rental housing and small hotels in Vancouver](https://www.shapeyourcity.ca/fast-tracking-rental-housing-and-small-hotels).
+
+**Revised Application (July 19, 2024)**\xA0
+
+The City of Vancouver has received a revision to this application to rezone the subject site. The revised application seeks to rezone from RT-2 (Residential) District to [RR-3A(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-3a-3b.pdf) (Residential Rental) District. The proposal includes:
+
+*   4-storey mixed-use rental building;
+*   A partial storey for rooftop amenity space (optional);
+*   Commercial space on the ground floor; and
+*   A floor space ratio (FSR) up to 2.40.
+
+This is a revised application from a previous proposal submitted on December 19, 2023. Key changes from the previous version include:
+
+*   Reduces number of building storeys from 6 to 4 storeys;
+*   Decreases density from 3.40 to 2.40;
+*   Provides a partial storey for rooftop amenity space (optional); and
+*   Removes the residential floor area for below market rental units.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-3A. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+**Rezoning Application (December 19, 2023)**\xA0
+
+The previous rezoning application, submitted on December 19, 2023, sought to rezone the subject site from RT-2 (Residential) District to\xA0[RR-3B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-3a-3b.pdf) (Residential Rental) District. The proposal included:
+
+*   A 6-storey mixed-use apartment building where all dwelling units are secured as market rental;
+*   A partial storey for rooftop amenity space (optional);
+*   At least 20% of the residential floor area for below market rental units;
+*   Commercial space at the ground floor; and
+*   A floor space ratio (FSR) up to 3.40.
+
+Comments received to date regarding this application will be considered as part of the staff review.
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   How SRP helps deliver key objectives of the [Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1702972800,endDate:1702972800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1707292800,endDate:1709020800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1721376e3,endDate:1721376e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1738656e3,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:174168e4,endDate:174168e4}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4471-4485-fraser-st-and-691-e-29-ave`},{docName:`RT-2 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-2.pdf`},{docName:`RR-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-3a-3b.pdf`},{docName:`RR-3B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-3a-3b.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.244807,longitude:-123.090631,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2001-2037 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ350_5e4`,applicationDate:1689235200,addresses:[`2001-2037 W 41st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
 Approved July 13, 2023`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1689235200,endDate:1689235200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2001-2037-w-41-ave `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1689235200,relatedPermits:[],latitude:49.234782,longitude:-123.152709,approvalStatus:`Approved`},{primaryStreetName:`1369-1381 Kingsway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ351_155`,applicationDate:1642492800,addresses:[`1369-1381 Kingsway`],status:`ACTIVE`,purpose:`
@@ -83262,153 +83812,1063 @@ Status: Approved
 Approved Feb 16, 2023`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1676534400,endDate:1676534400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/691-w-28-ave `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1676534400,relatedPermits:[],latitude:49.246447,longitude:-123.120246,approvalStatus:`Approved`},{primaryStreetName:`475 W 27th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ461_b27`,applicationDate:1789138916,addresses:[`475 W 27th Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/475-w-27-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.24725,longitude:-123.114261},{primaryStreetName:`1245-1265 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ462_a9a`,applicationDate:1737619200,addresses:[`1245-1265 W 10th Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/475-w-27-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.24725,longitude:-123.114261},{primaryStreetName:`1245-1265 W 10th Ave`,applicant:`Stuart Howard Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ462_a9a`,applicationDate:1702972800,addresses:[`1245-1265 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 23, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1737619200,endDate:1737619200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1245-1265-w-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1737619200,relatedPermits:[],latitude:49.262824,longitude:-123.13247,approvalStatus:`Approved`},{primaryStreetName:`2950 Prince Edward`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ463_7a4`,applicationDate:1741852800,addresses:[`2950 Prince Edward`],status:`ACTIVE`,purpose:`
+Approved January 23, 2025
+**This application was approved by Council at Public Hearing on January 23, 2025.**
+
+_**Note: The notification postcard mailed on or about March 19 incorrectly stated the address as**_  
+_**"1245-1245 West 10th Avenue". As noted correctly on this page, the site address is**_  
+_**1245-1265 West 10th Avenue.**_
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey residential building over three levels of underground parking and includes:
+
+*   164 secured rental units with 20% of the floor area secured for below market rental units (approximately 33 units);
+*   A floor space ratio (FSR) of 6.50; and
+*   A building height of 64.9 m (213 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadwa__y Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+April 15, 2024:
+
+Revised shadow studies have been provided. These shadow studies have accounted for daylight savings.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1702972800,endDate:1702972800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1710921600,endDate:1712044800},{taskDescription:`Referred to Public Hearing`,taskType:`Referred to Public Hearing`,startDate:1733817600,endDate:1733817600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1737619200,endDate:1737619200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1737619200,endDate:1737619200}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1245-1265-w-10-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262824,longitude:-123.13247,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2950 Prince Edward`,applicant:`QuadReal Property Group`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ463_7a4`,applicationDate:1705651200,addresses:[`2950 Prince Edward`,`2950 Prince Edward St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 13, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2950-prince-edward-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1741852800,relatedPermits:[],latitude:49.25875,longitude:-123.09556,approvalStatus:`Approved`},{primaryStreetName:`210-220 W 6th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ464_fd5`,applicationDate:1740643200,addresses:[`210-220 W 6th Ave`,`2224 Alberta St`],status:`ACTIVE`,purpose:`2224 Alberta St
+Approved March 13, 2025
+**This application was approved by Council at Public Hearing on March 13, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from C-2 / RM-4 (Commercial / Residential) Districts to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 25-storey and 32-storey mixed-use building with a podium and includes:
+
+*   542 secured rental units with 20% of the floor area secured for below market rental units;
+*   Commercial space on the ground floor;
+*   A 37-space private childcare facility;
+*   A floor space ratio (FSR) of 8.5; and
+*   A building height of 81.9 m (269 ft.) and 101.9 m (334 ft.), with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+**_Note: The notification postcard mailed on or about March 25 incorrectly indicated the map location. The map location is noted correctly on this page._**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1705651200,endDate:1705651200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1711526400,endDate:1712649600},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1712736e3,endDate:1712736e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1738656e3,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],storeys:32,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2950-prince-edward-st`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`C-2 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2.pdf`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.25875,longitude:-123.09556,major:!0,approvalStatus:`Approved`},{primaryStreetName:`210-220 W 6th Ave`,applicant:`PC Urban Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ464_fd5`,applicationDate:1704787200,addresses:[`210-220 W 6th Ave`,`2224 Alberta St`],status:`ACTIVE`,purpose:`2224 Alberta St
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved February 27, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/210-220-w-6-ave-and-2224-alberta-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740643200,relatedPermits:[],latitude:49.265428,longitude:-123.110046,approvalStatus:`Approved`},{primaryStreetName:`1045 W 14th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ465_db1`,applicationDate:1741852800,addresses:[`1045 W 14th Ave`],status:`ACTIVE`,purpose:`
+Approved February 27, 2025
+**This application was approved by Council at Public Hearing on February 27, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from I-1 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 11-storey industrial and office building with heritage retention and includes:
+
+*   Manufacturing, office, and service space;
+*   A floor space ratio (FSR) of 6.60; and
+*   A building height of 43.3 m (142 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1704787200,endDate:1704787200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1711526400,endDate:1712649600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740643200,endDate:1740643200}],storeys:11,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/210-220-w-6-ave-and-2224-alberta-st`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`I-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265428,longitude:-123.110046,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1045 W 14th Ave`,applicant:`Buttjes Architecture Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ465_db1`,applicationDate:1704441600,addresses:[`1045 W 14th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 13, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1045-w-14-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1741852800,relatedPermits:[],latitude:49.258999,longitude:-123.127765,approvalStatus:`Approved`},{primaryStreetName:`1665-1685 W 11th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ466_cfe`,applicationDate:1750838400,addresses:[`1665-1685 W 11th Ave`],status:`ACTIVE`,purpose:`
+Approved March 13, 2025
+**This application was approved by Council at Public Hearing on March 13, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey residential building and includes:
+
+*   202 secured rental units with 20% of the floor area secured for below market rental units;
+*   A floor space ratio (FSR) of 5.95; and
+*   A building height of 60.0 m (198 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1704441600,endDate:1704441600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1712131200,endDate:1713254400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1738656e3,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1045-w-14-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.258999,longitude:-123.127765,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1665-1685 W 11th Ave`,applicant:`Acton Ostry Achitects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ466_cfe`,applicationDate:1727769600,addresses:[`1665-1685 W 11th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 25, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1750838400,endDate:1750838400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1665-1685-w-11-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1750838400,relatedPermits:[],latitude:49.262012,longitude:-123.142608,approvalStatus:`Approved`},{primaryStreetName:`1780 E Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ467_0b9`,applicationDate:1749542400,addresses:[`1780 E Broadway`],status:`ACTIVE`,purpose:`
+Approved June 25, 2025
+**This application was approved by Council on June 25, 2025, following the Public Hearing on June 17, 2025.**  
+  
+
+  
+
+**Revised Application (October 1, 2024)**
+
+The City of Vancouver has received a revised application to remove the private childcare facility from the proposal. The general form of development and number of residential units remains the same as the original application with a lowered height and a reduced density. The revised proposal now includes:
+
+*   190 secured rental units with 20% of the floor area secured for below market rental units;
+*   A floor space ratio (FSR) of 6.50; and
+*   A building height of 72.4 m (238 ft.) or 21-storeys.
+
+**Rezoning Application (December 20, 2023)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 22-storey mixed-use building and includes:
+
+*   190 secured rental units with 20% of the floor area secured for below market rental units;
+*   A 25-space private childcare facility;
+*   A floor space ratio (FSR) of 6.80; and
+*   A building height of 75.5 m (248 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+May 14, 2024:
+
+Revised shadow studies have been provided. These shadow studies have accounted for daylight savings time.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1703059200,endDate:1703059200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1713340800,endDate:1714464e3},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1727769600,endDate:1727769600},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1750147200,endDate:1750147200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1750838400,endDate:1750838400}],storeys:22,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1665-1685-w-11-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/41559/widgets/191647/documents/140143`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/41559/widgets/191647/documents/140144`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/41559/widgets/191647/documents/140145`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/41559/widgets/173188/documents/122983`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/41559/widgets/173188/documents/122984`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/41559/widgets/173188/documents/122985`},{docName:`Shadow Studies`,docURL:`https://www.shapeyourcity.ca/41559/widgets/173188/documents/130004`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262012,longitude:-123.142608,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1780 E Broadway`,applicant:`Westbank Corp.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ467_0b9`,applicationDate:1714982400,addresses:[`1780 E Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 10, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1749542400,endDate:1749542400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1780-e-broadway-rz`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1749542400,relatedPermits:[],latitude:49.261932,longitude:-123.068689,approvalStatus:`Approved`},{primaryStreetName:`43-95 E 3rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ468_121`,applicationDate:1740643200,addresses:[`43-95 E 3rd Ave`],status:`ACTIVE`,purpose:`
+Approved June 10, 2025
+**This application was approved with one amendment by Council on June 10, 2025, following the Public Hearing on May 15, 2025.**
+
+  
+
+**Revised Application (May 6, 2024)**\xA0
+
+The City of Vancouver has received an application to rezone the subject site from C3-A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development with three purpose built rental towers at 36, 37 and 43 storeys above a retail base. This proposal includes:
+
+*   1,044 rental units with 10% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 8.27;
+*   A maximum building height of 135.5 m (444 ft.) with additional height for rooftop amenity space and mechanical appurtenances;
+*   Commercial retail space at grade, including a grocery store;
+*   Commercial space within the podium levels;
+*   Childcare facility (37-spaces) dedicated turnkey to the City;
+*   A public plaza running parallel to the SkyTrain station (20,000 sq. ft.) connected to publicly accessible outdoor pace on top of the retail base (12,000 sq. ft.); and
+*   438 vehicle parking spaces and 2,011 bicycle spaces.
+
+This is a revised application from a previous proposal submitted on November 23. 2023. Key changes from the previous version include:
+
+*   Adding four storeys to Tower A;
+*   Adding one storey to Towers B and C;
+*   Converts one level of office space to residential in Tower A;
+*   Increasing the overall proposed density to 8.27 FSR;
+*   Increasing the residential unit count to 1044 units; and
+*   Includes a dedicated childcare facility (37-spaces).
+
+This application is being considered under the [_Grandview-Woodland Community Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf#page=116). The application requests consideration of height and density in excess of the existing policy.
+
+* * *
+
+Frequently Asked Questions:
+
+1.  _The heights are described as 36, 37, and 43 storeys above a retail base which is confusing. Can you clarify the proposed building heights?_  
+    The [_Grandview-Woodland Community Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf#page=116) notes that “at key anchor points within the site, heights range from 12 to 24 storeys above the retail plinth \\[base\\]”. This rezoning application proposes three towers at heights of 36, 37, and 43 storeys above a retail base. **Proposed building heights from the ground level are 37, 38 and 44 storeys**.  
+      
+    
+
+2.  _This proposal goes beyond the direction of the Grandview-Woodland Community Plan, why is this application even being considered?_\xA0  
+      
+    Rezoning applications that are submitted to the City with all required materials and associated fees must be processed. The rezoning process includes public notification, feedback, presentation to appropriate advisory bodies (i.e. urban design panel), and a full staff review. The review is summarized in a report for City Council that describes the application, summarizes all the feedback, recommends to refer the application to a public hearing and whether to approve or refuse the application. City Council decides on rezoning applications.  
+      
+    More detail on the rezoning application review process is available [here(External link)](https://vancouver.ca/home-property-development/how-rezoning-works.aspx), including information on how to provide input directly to Council after an application has been referred to a public hearing.
+
+* * *
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+**Rezoning Application (November 23, 2023)**\xA0
+
+The previous rezoning application, submitted on November 23, 2023, consisted of a mixed-use development with three purpose built rental residential towers at 35, 36 and 39-storeys above a retail base. This proposal includes:
+
+*   981 rental units with 99 units secured at below market rates;
+*   A floor area of 77,312 sq. m (832,178.6 sq. ft.);
+*   A floor space ratio (FSR) of 7.87;
+*   A max. building height of 129.5 m (425 ft.);
+*   Commercial retail space at grade, including a grocery store;
+*   Office and commercial space within the podium levels;
+*   A public plaza running parallel to the SkyTrain station;
+*   Publicly accessible outdoor pace on top of the retail base; and
+*   440 vehicle parking spaces and 2006 bicycle spaces.
+
+Please note: This is a new rezoning application for this site. A previous rezoning application had been submitted in June 2019 (revised in 2020 and 2021). This application has since been withdrawn. Link: [https://www.shapeyourcity.ca/1780-e-broadway](https://www.shapeyourcity.ca/1780-e-broadway)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1700812800,endDate:1700812800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1714982400,endDate:1714982400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1718784e3,endDate:1719907200},{taskDescription:`Information Session - Italian Cultural Centre, 3075 Slocan St (5:00pm to 8:00pm)`,taskType:`Information Session - Italian Cultural Centre, 3075 Slocan St (5:00pm to 8:00pm)`,startDate:1719302400,endDate:1719302400},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1720598400,endDate:1720598400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1744704e3,endDate:1744704e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1747296e3,endDate:1747296e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1749542400,endDate:1749542400}],storeys:44,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1780-e-broadway-rz`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/40814/widgets/183148/documents/131924`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/40814/widgets/183148/documents/131925`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/40814/widgets/183148/documents/131926`},{docName:`Shadow studies`,docURL:`https://www.shapeyourcity.ca/40814/widgets/183148/documents/131932`},{docName:`Architectural drawings`,docURL:`https://www.shapeyourcity.ca/40814/widgets/183148/documents/132033`},{docName:`Arborist Report`,docURL:`https://www.shapeyourcity.ca/40814/widgets/183148/documents/152545`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/40814/widgets/169835/documents/121540`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/40814/widgets/169835/documents/121541`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/40814/widgets/169835/documents/121542`},{docName:`Shadow studies`,docURL:`https://www.shapeyourcity.ca/40814/widgets/169835/documents/126203`},{docName:`Grandview-Woodland Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf#page=116`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261932,longitude:-123.068689,major:!0,approvalStatus:`Approved`},{primaryStreetName:`43-95 E 3rd Ave`,applicant:`Gensler Architecture & Design Canada Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ468_121`,applicationDate:1708070400,addresses:[`43-95 E 3rd Ave`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved February 27, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/43-95-e-3-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740643200,relatedPermits:[],latitude:49.268515,longitude:-123.103308,approvalStatus:`Approved`},{primaryStreetName:`270 E 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ469_654`,applicationDate:1740470400,addresses:[`270 E 13th Ave`],status:`ACTIVE`,purpose:`
+Approved February 27, 2025
+**This application was approved by Council at Public Hearing on February 27, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from I-1 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 8-storey mixed-use building with a rooftop amenity and includes:
+
+*   A floor area of 14,467 sq. m (155,716 sq. ft.);
+*   Commercial space (ground floor) 385 sq. m (4,145 sq. ft.);
+*   Industrial spaces (floors 1-4) 6,802 sq. m (73,220 sq. ft.);
+*   Office spaces (floors 5-8) 6,261 sq. m (67,388 sq. ft.);
+*   A floor space ratio (FSR) of 6.0;
+*   A building height of 46 m (151 ft.) with additional height for rooftop amenity space; and
+*   137 underground vehicle parking spaces, 7 loading bays and 76 bicycle parking spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+May 9, 2024
+
+Revised application booklet uploaded that includes updated shadow studies as per May 9, 2024.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1708070400,endDate:1708070400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:171576e4,endDate:1716883200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740643200,endDate:1740643200}],storeys:8,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/43-95-e-3-ave`},{docName:`I-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.268515,longitude:-123.103308,major:!0,approvalStatus:`Approved`},{primaryStreetName:`270 E 13th Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ469_654`,applicationDate:1706774400,addresses:[`270 E 13th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 25, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/270-e-13-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740470400,relatedPermits:[],latitude:49.259078,longitude:-123.098807,approvalStatus:`Approved`},{primaryStreetName:`950 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ469_991`,applicationDate:1784188800,addresses:[`950 W 41st Ave`],status:`ACTIVE`,purpose:`(Jewish Community Centre)
+Approved February 25, 2025
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use building and includes:
+
+*   167 secured rental units with 20% of the floor area secured for below market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 62 m (203 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1706774400,endDate:1706774400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1713340800,endDate:1714464e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1758009600,endDate:1758009600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1761811200,endDate:1761811200}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/270-e-13-ave`},{docName:`RM-4N District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.259078,longitude:-123.098807,major:!0,approvalStatus:`Approved`},{primaryStreetName:`950 W 41st Ave`,applicant:`JWest Foundation`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ469_991`,applicationDate:1759737600,addresses:[`950 W 41st Ave`,`940-950 W 41st Ave (Jewish Community Centre)`],status:`ACTIVE`,purpose:`(Jewish Community Centre)
 Category: Market Rental Housing included
 Status: Approved
-Approved July 16, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784188800,endDate:1784188800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/950-w-41-ave-3`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784188800,relatedPermits:[],latitude:49.23371,longitude:-123.126742,approvalStatus:`Approved`},{primaryStreetName:`3552`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ470_b09`,applicationDate:1789138916,addresses:[`3552`,`3612`,`3650 E Kent Ave S`,`3680 Marine Way`,`8655 Boundary Rd`],status:`ACTIVE`,purpose:`8655 Boundary Rd
+Approved July 16, 2026
+**A previous application for this site was approved on September 6, 2018.**\xA0
+
+**For more information, visit the project website [here(External link)](https://wayback.archive-it.org/8849/20211021195142/https:/rezoning.vancouver.ca/applications/950w41stave/index.htm).**
+
+  
+
+The City of Vancouver has received an application to amend the [CD-1 (285)(External link)](https://cd1-bylaws.vancouver.ca/cd-1\\(285\\).pdf) (Comprehensive Development).
+
+The amendment includes:
+
+*   Increases density from 4.49 to 5.77 FSR;
+*   Increases total floor area from 60,737.1 sq. m to 78,090 sq. m;
+*   Increases maximum height from 88.0 m to 136.0 m;
+*   Increases tower heights from 26 and 24 storeys to 39 and 37 storeys, and amends tower location;
+*   Changes residential tenure from social housing to rental with 10% at below market rate; and
+*   Increases housing units from 299 to 630.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [Oakridge Transit Centre and Adjacent Sites Policy Statement(External link)](https://guidelines.vancouver.ca/policy-statement-oakridge-transit-centre-adjacent-sites.pdf) and _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)._\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1759737600,endDate:1759737600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1768982400,endDate:1770105600},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1769587200,endDate:1769587200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1780387200,endDate:1780387200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784188800,endDate:1784188800},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1784188800,endDate:1784188800}],storeys:37,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/950-w-41-ave-3`},{docName:`CD-1 (285)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(285).pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`Oakridge Transit Centre and Adjacent Sites Policy Statement`,docURL:`https://guidelines.vancouver.ca/policy-statement-oakridge-transit-centre-adjacent-sites.pdf`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.23371,longitude:-123.126742,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3552`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ470_b09`,applicationDate:1789138916,addresses:[`3552`,`3612`,`3650 E Kent Ave S`,`3680 Marine Way`,`8655 Boundary Rd`],status:`ACTIVE`,purpose:`8655 Boundary Rd
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3552-3650-e-kent-ave-s-boundary-rd-marine-way`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.204049,longitude:-123.027941},{primaryStreetName:`1030-1056 Burnaby St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ470_c19`,applicationDate:1780387200,addresses:[`1030-1056 Burnaby St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3552-3650-e-kent-ave-s-boundary-rd-marine-way`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.204049,longitude:-123.027941},{primaryStreetName:`1030-1056 Burnaby St`,applicant:`GWA ARCHITECTURE`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ470_c19`,applicationDate:1754985600,addresses:[`1030-1056 Burnaby St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1030-1056-burnaby-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.279011,longitude:-123.131455,approvalStatus:`Approved`},{primaryStreetName:`3552`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ470_cdf`,applicationDate:1789138916,addresses:[`3552`,`3612`,`3650 E Kent Ave S`,`3680 Marine Way`,`8655 Boundary Rd`],status:`ACTIVE`,purpose:`8655 Boundary Rd
+Approved June 2, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-5A (Multiple Dwelling Residential) District to CD-1 (Comprehensive Development) District. The proposal is to retain the existing 14-storey seniors housing building (which includes 215 units), and allow for the development of a six-storey rental residential building, which includes:
+
+*   90 units, including 23 units at below-market rental rates;
+*   A floor area of 5,511.3 sq. m (59,323 sq. ft.);
+*   A building height of 20.3 m (67 ft.); and
+*   An overall floor space ratio (FSR) of 3.57 for the entire site.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[West End Community Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-west-end.pdf)_
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1754985600,endDate:1754985600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1764144e3,endDate:1765267200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:14,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1030-1056-burnaby-st`},{docName:`RM-5A Zoning District`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-5-all-districts.pdf`},{docName:`West End Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-west-end.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.279011,longitude:-123.131455,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3552`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ470_cdf`,applicationDate:1789138916,addresses:[`3552`,`3612`,`3650 E Kent Ave S`,`3680 Marine Way`,`8655 Boundary Rd`],status:`ACTIVE`,purpose:`8655 Boundary Rd
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3552-3650-e-kent-ave-s-boundary-rd-marine-way`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.204046,longitude:-123.027938},{primaryStreetName:`1827 West 5th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ471_8b3`,applicationDate:1780387200,addresses:[`1827 West 5th Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3552-3650-e-kent-ave-s-boundary-rd-marine-way`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.204046,longitude:-123.027938},{primaryStreetName:`1827 West 5th Ave`,applicant:`NSDA Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ471_8b3`,applicationDate:1757664e3,addresses:[`1827 West 5th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1827-w-5-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.267713,longitude:-123.146199,approvalStatus:`Approved`},{primaryStreetName:`1676 W 11th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ472_03e`,applicationDate:1761033600,addresses:[`1676 W 11th Ave`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+The City of Vancouver has received an application to rezone the subject site from R3-3/C-3A (Residential and Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 12-storey mixed-use strata building and includes:
+
+*   37 strata units;
+*   Commercial retail space at grade;
+*   A floor space ratio (FSR) of 4.53; and
+*   A building height of 40 m (131 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_._
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1757664e3,endDate:1757664e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1764748800,endDate:1765872e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:12,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1827-w-5-ave`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`R3 Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.267713,longitude:-123.146199,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1676 W 11th Ave`,applicant:`W. T. Leung Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ472_03e`,applicationDate:1703059200,addresses:[`1676 W 11th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved October 21, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1761033600,endDate:1761033600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1676-w-11-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1761033600,relatedPermits:[],latitude:49.261548,longitude:-123.142731,approvalStatus:`Approved`},{primaryStreetName:`626 W 32nd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ474_c4b`,applicationDate:1737446400,addresses:[`626 W 32nd Ave`],status:`ACTIVE`,purpose:`
+Approved October 21, 2025
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey building and includes:
+
+*   160 secured rental units with 20% of the floor area secured for below market rental units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 58.7 m (193 ft.) with additional height for rooftop amenity space and mechanical appurtenances.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1703059200,endDate:1703059200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1713945600,endDate:1715068800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1758009600,endDate:1758009600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1761033600,endDate:1761033600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1761033600,endDate:1761033600}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1676-w-11-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261548,longitude:-123.142731,major:!0,approvalStatus:`Approved`},{primaryStreetName:`626 W 32nd Ave`,applicant:`Matthew Cheng Architect Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ474_c4b`,applicationDate:1709884800,addresses:[`626 W 32nd Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved January 21, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1737446400,endDate:1737446400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/626-w-32-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1737446400,relatedPermits:[],latitude:49.241966,longitude:-123.119462,approvalStatus:`Approved`},{primaryStreetName:`1188 Cardero St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ475_e52`,applicationDate:1780387200,addresses:[`1188 Cardero St`],status:`ACTIVE`,purpose:`
+Approved January 21, 2025
+**This application was approved by Council at Public Hearing on January 21, 2025**
+
+  
+
+  
+
+**Building Example**
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to RM-8A (Residential) District. This proposal includes:
+
+*   Stacked townhouses or rowhouses up to three storeys fronting the street; and
+*   A floor space ratio (FSR) up to 1.2.
+
+The application is being considered under the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf?_ga=2.252250377.1405552080.1653889945-157054488.1649108460).
+
+If approved, this site's zoning will change to RM-8A, an established zoning district. Any development on the site would be regulated by the District Schedule and accompanying design guidelines. This approach differs from a site-specific Comprehensive Development (CD-1) District rezoning.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1709884800,endDate:1709884800},{taskDescription:`Referred to a Public Hearing`,taskType:`Referred to a Public Hearing`,startDate:1733817600,endDate:1733817600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1737446400,endDate:1737446400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1737446400,endDate:1737446400}],storeys:3,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/626-w-32-ave`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`RM 8A/8AN District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-8-all-districts.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.241966,longitude:-123.119462,approvalStatus:`Approved`},{primaryStreetName:`1188 Cardero St`,applicant:`Cardero Street LP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ475_e52`,applicationDate:1703059200,addresses:[`1188 Cardero St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1188-cardero-st-1`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.285306,longitude:-123.138109,approvalStatus:`Approved`},{primaryStreetName:`5889-5925 Dunbar St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ476_c60`,applicationDate:1737446400,addresses:[`5889-5925 Dunbar St`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+The City of Vancouver has received a revised proposal to rezone the subject site from RM-5D (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 24-storey building and includes:
+
+*   221 rental residential units with 19% of the floor area proposed for below market rental units;
+*   A floor space ratio (FSR) of 8.82; and
+*   A building height of 79.1 m (259.51 ft.) with additional height for mechanical appurtenances.
+
+This application is not consistent with Council-adopted policies. The City is required to process all rezoning applications submitted and staff position on the proposal will be summarized in the referral report later in the application process timeline.
+
+_**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_
+
+  
+
+* * *
+
+  
+
+**Previous Application (December 20, 2023)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-5D (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 22-storey building and includes:
+
+*   198 secured rental units with 20% of the floor area secured for below-market rental units (approximately 37 units);
+*   A floor space ratio (FSR) of 8.0; and
+*   A building height of 68.8 m (226 ft.) with additional height for mechanical appurtenances.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[West End Community Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-west-end.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1703059200,endDate:1703059200},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:171576e4,endDate:1716883200},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1718179200,endDate:1718179200},{taskDescription:`Revised application received date`,taskType:`Revised application received date`,startDate:1743148800,endDate:1743148800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:24,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1188-cardero-st-1`},{docName:`West End Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-west-end.pdf`},{docName:`RM-5D District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-5-all-districts.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.285306,longitude:-123.138109,major:!0,approvalStatus:`Approved`},{primaryStreetName:`5889-5925 Dunbar St`,applicant:`Steve Peng Architect`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ476_c60`,applicationDate:1709625600,addresses:[`5889-5925 Dunbar St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 21, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1737446400,endDate:1737446400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5889-5925-dunbar-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1737446400,relatedPermits:[],latitude:49.233001,longitude:-123.18574,approvalStatus:`Approved`},{primaryStreetName:`461-479 E 16th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ477_1fc`,applicationDate:1746604800,addresses:[`461-479 E 16th Ave`],status:`ACTIVE`,purpose:`
+Approved January 21, 2025
+****This application was approved by Council at Public Hearing on January 21, 2025****
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to **[RR-2B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)** (Residential Rental) District. The proposal includes:
+
+*   A 5-storey apartment building where all units are secured as rental; and
+*   A floor space ratio (FSR) up to 2.20.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2B. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   How SRP helps deliver key objectives of the [Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1709625600,endDate:1709625600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:171576e4,endDate:1716883200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1733817600,endDate:1733817600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1737446400,endDate:1737446400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1737446400,endDate:1737446400}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5889-5925-dunbar-st`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.233001,longitude:-123.18574,major:!0,approvalStatus:`Approved`},{primaryStreetName:`461-479 E 16th Ave`,applicant:`Fabric Living`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ477_1fc`,applicationDate:1712217600,addresses:[`461-479 E 16th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 7, 2025 (Reconvened from April 17, 2025 and April 23, 2025)`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1746604800,endDate:1746604800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/461-479-e-16-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1746604800,relatedPermits:[],latitude:49.256742,longitude:-123.094846,approvalStatus:`Approved`},{primaryStreetName:`2267-2275 W 7th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ478_c71`,applicationDate:1750838400,addresses:[`2267-2275 W 7th Ave`],status:`ACTIVE`,purpose:`
+Approved May 7, 2025 (Reconvened from April 17, 2025 and April 23, 2025)
+**This application was approved by Council with amendments and yellow memo at the Council Meeting following the Standing Committee on Policy and Strategic Priorities meeting on May 7, 2025 following the Public Hearings on April 17 and April 23, 2025.**  
+  
+
+The City of Vancouver has received an application to rezone the subject site from RM-4N (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use building and includes:
+
+*   211 secured rental units with 20% of the floor area secured for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 8.0; and
+*   A building height of 64 m (210 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+May 24, 2024
+
+This site is located in a [Groundwater Area of Concern(External link)](https://maps.vancouver.ca/portal/apps/webappviewer/index.html?id=ba64dbf9a80341aa8527538fe55da80e) and a peat area. As such, a preliminary geotechnical and hydrogeological investigation report was required to be submitted for the rezoning application which has now been published on this page. Engineering staff note that the applicant is responsible for engaging a qualified professional engineer or geoscientist to provide design and construction recommendations that ensure development will not result in negative offsite impacts as it relates to groundwater and soil conditions, which will be required to be [further developed and elaborated at the development permit stage(External link)](https://guidelines.vancouver.ca/bulletins/bulletin-groundwater-management.pdf), should the rezoning be approved.
+
+May 31, 2024
+
+Preliminary Hydrogeological study has been reposted including Appendix A and B.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1712217600,endDate:1712217600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1716969600,endDate:1718092800},{taskDescription:`Referred to Public Hearing`,taskType:`Referred to Public Hearing`,startDate:174168e4,endDate:174168e4},{taskDescription:`Approved`,taskType:`Approved`,startDate:1746604800,endDate:1746604800}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/461-479-e-16-ave`},{docName:`RM-4N District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.256742,longitude:-123.094846,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2267-2275 W 7th Ave`,applicant:`Acton Ostry Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ478_c71`,applicationDate:1729065600,addresses:[`2267-2275 W 7th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 25, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1750838400,endDate:1750838400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2267-2275-w-7th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1750838400,relatedPermits:[],latitude:49.265896,longitude:-123.156643,approvalStatus:`Approved`},{primaryStreetName:`1171 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ479_2e7`,applicationDate:1740643200,addresses:[`1171 W 12th Ave`],status:`ACTIVE`,purpose:`
+Approved June 25, 2025
+**This application was approved by Council on June 25, 2025, following the Public Hearing on June 17, 2025.**  
+  
+  
+
+  
+
+**Rezoning Application (****October 16, 2024****)**
+
+The City of Vancouver has received a revised application to remove the private childcare facility from the proposal. The general form of development and number of residential units remains the same as the original application with a lowered height and a reduced density. The revised proposal is to allow for the development of a 21-storey rental residential building and includes:
+
+*   190 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 70.6 m (232 ft).
+
+**Rezoning Application (December 19, 2023)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 22-storey mixed-use rental building and includes:
+
+*   190 units with 20% of the floor area for below-market rental units;
+*   A privately-owned 25-space childcare facility on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 75.5 m (248 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1702972800,endDate:1702972800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1718784e3,endDate:1719907200},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1729065600,endDate:1729065600},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1750147200,endDate:1750147200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1750838400,endDate:1750838400}],storeys:22,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2267-2275-w-7th-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/40812/widgets/193789/documents/142457`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/40812/widgets/193789/documents/142459`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/40812/widgets/193789/documents/142458`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/40812/widgets/169821/documents/122889`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/40812/widgets/169821/documents/122892`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/40812/widgets/169821/documents/122891`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`},{docName:`RM-4 and RM-4N District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265896,longitude:-123.156643,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1171 W 12th Ave`,applicant:`Stuart Howard Architects Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ479_2e7`,applicationDate:1710835200,addresses:[`1171 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 27, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1171-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740643200,relatedPermits:[],latitude:49.260885,longitude:-123.130712,approvalStatus:`Approved`},{primaryStreetName:`1540 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ480_ec0`,applicationDate:1789138916,addresses:[`1540 W 10th Ave`],status:`ACTIVE`,purpose:`
+Approved February 27, 2025
+**This application was approved by Council at Public Hearing on February 27, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential ) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 17-storey residential rental building and includes:
+
+*   111 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 56.7 m (186 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+  
+
+Announcements
+
+September 12, 2024
+
+Revised application booklet uploaded that includes updated shadow studies as per May 21, 2024.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1710835200,endDate:1710835200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1726041600,endDate:1727164800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740643200,endDate:1740643200},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740643200,endDate:1740643200}],storeys:17,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1171-w-12-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.260885,longitude:-123.130712,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1540 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ480_ec0`,applicationDate:1789138916,addresses:[`1540 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1540-w-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.262421,longitude:-123.139607},{primaryStreetName:`2158-2170 W 1st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ481_d36`,applicationDate:1750752e3,addresses:[`2158-2170 W 1st Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1540-w-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.262421,longitude:-123.139607},{primaryStreetName:`2158-2170 W 1st Ave`,applicant:`Chris Dikeakos Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ481_d36`,applicationDate:1714550400,addresses:[`2158-2170 W 1st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 24, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1750752e3,endDate:1750752e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2158-2170-w-1-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1750752e3,relatedPermits:[],latitude:49.270526,longitude:-123.154342,approvalStatus:`Approved`},{primaryStreetName:`2225 W 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ482_f0d`,applicationDate:1744876800,addresses:[`2225 W 8th Ave`],status:`ACTIVE`,purpose:`
+Approved June 24, 2025
+**This application was approved by Council on June 24, 2025, following the Public Hearing on June 19, 2025.**  
+  
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building with a 4-storey podium and includes:
+
+*   185 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 64.7 m (212 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+September 16, 2024
+
+The Q&A period will be extended by an additional week. Please note that feedback and questions can still be submitted after the Q&A period ends. Following the Q&A period, questions and feedback can be emailed directly to the Rezoning Planner at [oskar.eriksson@vancouver.ca(External link)](mailto:oskar.eriksson@vancouver.ca)[(External link)](mailto:oskar.eriksson@vancouver.ca)_[(External link)](mailto:oskar.eriksson@vancouver.ca)_`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1714550400,endDate:1714550400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1725436800,endDate:1727164800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1750752e3,endDate:1750752e3}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2158-2170-w-1-ave`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.270526,longitude:-123.154342,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2225 W 8th Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ482_f0d`,applicationDate:1712217600,addresses:[`2225 W 8th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved April 17, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1744876800,endDate:1744876800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2225-w-8-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1744876800,relatedPermits:[],latitude:49.265029,longitude:-123.156042,approvalStatus:`Approved`},{primaryStreetName:`1855 W 2nd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ483_a8f`,applicationDate:1751961600,addresses:[`1855 W 2nd Ave`],status:`ACTIVE`,purpose:`
+Approved April 17, 2025
+**This application was approved with yellow memo by Council at Public Hearing on April 17, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential ) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use rental building and includes:
+
+*   231 market rental units with 20% of the floor area secured for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 68.7 m (224 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1712217600,endDate:1712217600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1719993600,endDate:1721116800},{taskDescription:`Referred to Public Hearing`,taskType:`Referred to Public Hearing`,startDate:174168e4,endDate:174168e4},{taskDescription:`Approved`,taskType:`Approved`,startDate:1744876800,endDate:1744876800}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2225-w-8-ave`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265029,longitude:-123.156042,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1855 W 2nd Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ483_a8f`,applicationDate:1706688e3,addresses:[`1855 W 2nd Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 8, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1855-w-2-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1751961600,relatedPermits:[],latitude:49.27005,longitude:-123.146772,approvalStatus:`Approved`},{primaryStreetName:`2226 W 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ484_54a`,applicationDate:1789138916,addresses:[`2226 W 8th Ave`,`2415-2421 Yew St`],status:`ACTIVE`,purpose:`2415-2421 Yew St
+Approved July 8, 2025
+**This application was approved by Council at Public Hearing on July 8, 2025**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use building and includes:
+
+*   171 secured rental units with 20% of the floor area secured for below market rental units (approximately 34 units);
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.80; and
+*   A building height of 73.8 m (242 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1706688e3,endDate:1706688e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1718179200,endDate:1719302400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1748937600,endDate:1748937600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1751961600,endDate:1751961600}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1855-w-2-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`CD-1 (Comprehensive Development) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.27005,longitude:-123.146772,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2226 W 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ484_54a`,applicationDate:1789138916,addresses:[`2226 W 8th Ave`,`2415-2421 Yew St`],status:`ACTIVE`,purpose:`2415-2421 Yew St
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2226-w-8-ave-and-2415-2421-yew-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.264599,longitude:-123.155864},{primaryStreetName:`455-565 Great Northern Way`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ485_b3e`,applicationDate:1780387200,addresses:[`455-565 Great Northern Way`,`1850 Thornton St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2226-w-8-ave-and-2415-2421-yew-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.264599,longitude:-123.155864},{primaryStreetName:`455-565 Great Northern Way`,applicant:`PCI Developments`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ485_b3e`,applicationDate:1715932800,addresses:[`455-565 Great Northern Way`,`1850 Thornton St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/455-565-great-northern-way-and-1850-thornton-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.267186,longitude:-123.094517,approvalStatus:`Approved`},{primaryStreetName:`8366-8380 Beatrice St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ486_23a`,applicationDate:1740470400,addresses:[`8366-8380 Beatrice St`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+**Resubmission Rezoning Application (October 24, 2025)**
+
+The City of Vancouver has received a revised application to rezone the subject site from CD-1 (402) (Comprehensive Development) District to a new CD-1 (Comprehensive Development) District. The revised proposal includes form of development changes that have resulted in an increase to the proposed density and height, adjusts the below-market rental rates, and amends the proposed childcare space.
+
+The proposed uses are consistent with the original application. The revised proposal is to allow for the development of a 20-storey mixed-use office building with a 4-storey podium and two 35-storey mixed-use residential rental buildings. This proposal includes:
+
+*   572 rental units;
+*   Commercial space on the ground floor and in the podium levels;
+*   A floor space ratio (FSR) of 6.99 or total floor area of 88,870 sq. m (956,589 sq. ft.);
+*   A maximum building height of 119.2 m (391 ft.) with additional height for rooftop amenity space and mechanical appurtenances;
+*   A publicly accessible open space integrated with the future Emily Carr SkyTrain station;
+*   A childcare facility (90 spaces) dedicated turnkey to the City; and
+*   470 vehicle parking spaces and 1,848 bicycle spaces.
+
+* * *
+
+**Original Rezoning Application (May 17, 2024)**
+
+The City of Vancouver has received an application to rezone the subject site from CD-1 (402) (Comprehensive Development) District to a new CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use office building with a 4-storey podium and two 35-storey mixed-use residential rental buildings with 4-storey podiums. This proposal includes:
+
+*   548 rental units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor and in the podium levels;
+*   A floor space ratio (FSR) of 6.41;
+*   A maximum building height of 113.7 m (373 ft.) with additional height for rooftop amenity space and mechanical appurtenances;
+*   A publicly accessible open space integrated with the future Emily Carr SkyTrain station;
+*   A childcare facility (94 spaces) dedicated turnkey to the City; and
+*   470 vehicle parking spaces and 1,848 bicycle spaces.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1715932800,endDate:1715932800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1719993600,endDate:1721116800},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1724227200,endDate:1724227200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:35,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/455-565-great-northern-way-and-1850-thornton-st`},{docName:`CD-1 (402)`,docURL:`https://cd1-bylaws.vancouver.ca/402-great-northern-way-campus.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.267186,longitude:-123.094517,major:!0,approvalStatus:`Approved`},{primaryStreetName:`8366-8380 Beatrice St`,applicant:`Stuart Howard Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ486_23a`,applicationDate:1703232e3,addresses:[`8366-8380 Beatrice St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 25, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8366-8380-beatrice-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740470400,relatedPermits:[],latitude:49.208866,longitude:-123.067516,approvalStatus:`Approved`},{primaryStreetName:`1110-1160 W King Edward Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ487_d7f`,applicationDate:175032e4,addresses:[`1110-1160 W King Edward Ave`],status:`ACTIVE`,purpose:`
+Approved February 25, 2025
+**This application was approved by Council at Public Hearing on February 25, 2025.**
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to **[RR-2A(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)** (Residential Rental) District. The proposal includes:
+
+*   4-storey residential rental building;
+*   A partial storey for rooftop amenity space (optional); and
+*   A floor space ratio (FSR) up to 1.75.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2A. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   How SRP helps deliver key objectives of the [Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`​Application received`,taskType:`​Application received`,startDate:1703232e3,endDate:1703232e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1719993600,endDate:1721116800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740470400,endDate:1740470400}],storeys:4,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8366-8380-beatrice-st`},{docName:`RR-2A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.208866,longitude:-123.067516,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1110-1160 W King Edward Ave`,applicant:`Marcon Developments Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ487_d7f`,applicationDate:1710835200,addresses:[`1110-1160 W King Edward Ave`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
-Approved June 19, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1110-1160-w-king-edward-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:175032e4,relatedPermits:[],latitude:49.248947,longitude:-123.130658,approvalStatus:`Approved`},{primaryStreetName:`1770 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ488_bb3`,applicationDate:1747728e3,addresses:[`1770 W 12th Ave`],status:`ACTIVE`,purpose:`
+Approved June 19, 2025
+**This application was approved by Council at Public Hearing on June 19, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey institutional building limited to the Community Care Facility — Class B use and includes:
+
+*   169 care facility units;
+*   A floor space ratio (FSR) of 3.1; and
+*   A building height of 28.0 m (92 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Interim Rezoning Policy for Social Housing, Seniors Housing, and Institutional, Cultural and Recreational Uses in Former Community Visions Areas.(External link)](https://guidelines.vancouver.ca/policy-rezoning-former-community-visions-areas.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+October 9, 2024
+
+Revised application booklet uploaded with corrected project statistics.
+
+  
+
+November 21, 2024
+
+Revised application booklet uploaded with additional project renderings containing the context of the single family homes across the lane.
+
+  
+
+March 11, 2024
+
+This application was previously considered under the _Interim Rezoning Policy for Social Housing, Seniors Housing, and Institutional, Cultural and Recreational Uses in Former Community Visions Areas_. It is now being considered under the _Seniors Housing Rezoning Policy_.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1710835200,endDate:1710835200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1719388800,endDate:1720512e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1110-1160-w-king-edward-ave`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`Interim Rezoning Policy for Social Housing, Seniors Housing, and Institutional, Cultural and Recreational Uses in Former Community Visions Areas`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-former-community-visions-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.248947,longitude:-123.130658,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1770 W 12th Ave`,applicant:`DIALOG`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ488_bb3`,applicationDate:1715155200,addresses:[`1770 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 20, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1770-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1747728e3,relatedPermits:[],latitude:49.26063,longitude:-123.145189,approvalStatus:`Approved`},{primaryStreetName:`45 E 16th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ489_275`,applicationDate:1758182400,addresses:[`45 E 16th Ave`],status:`ACTIVE`,purpose:`
+Approved May 20, 2025
+**This application was approved by Council at Public Hearing on May 20, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use rental building with a 6-storey podium and includes:
+
+*   243 units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.50; and
+*   A building height of 66.7 m (219 ft).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Revised Application (February 28, 2025)  
+  
+**A revised application was submitted following feedback from staff review. Revisions were made to address adjustments to the density and height. Changes include:
+
+*   264 rental units with 20% of the floor area for below-market rental unit;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 76.6 m (251 ft) to top of residential parapet with additional height for rooftop amenity space
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1715155200,endDate:1715155200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1719388800,endDate:1720512e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1744704e3,endDate:1744704e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1747728e3,endDate:1747728e3}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1770-w-12-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.26063,longitude:-123.145189,major:!0,approvalStatus:`Approved`},{primaryStreetName:`45 E 16th Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ489_275`,applicationDate:1713945600,addresses:[`45 E 16th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved September 18, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1758182400,endDate:1758182400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/45-e-16-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1758182400,relatedPermits:[],latitude:49.256908,longitude:-123.104088,approvalStatus:`Approved`},{primaryStreetName:`2111 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ490_6c0`,applicationDate:1741852800,addresses:[`2111 Main St`],status:`ACTIVE`,purpose:`
+Approved September 18, 2025
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 17-storey mixed-use rental building and includes:
+
+*   145 units with 20% of the residential floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.80; and
+*   A building height of 56.0 m (184 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1713945600,endDate:1713945600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1719993600,endDate:1721116800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1751961600,endDate:1751961600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1758182400,endDate:1758182400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1758182400,endDate:1758182400}],storeys:17,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/45-e-16-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.256908,longitude:-123.104088,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2111 Main St`,applicant:`MCMP Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ490_6c0`,applicationDate:1714723200,addresses:[`2111 Main St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 13, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2111-main-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1741852800,relatedPermits:[],latitude:49.265891,longitude:-123.101475,approvalStatus:`Approved`},{primaryStreetName:`396 E 2nd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ492_c72`,applicationDate:1741852800,addresses:[`396 E 2nd Ave`],status:`ACTIVE`,purpose:`
+Approved March 13, 2025
+**This application was approved by Council at Public Hearing on March 13, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from IC-1 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 24-storey and a 22-storey mixed-use rental buildings and includes:
+
+*   446 units with 20% of the residential floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   Arts and cultural space;
+*   A floor space ratio (FSR) of 9.93; and
+*   A building height of 70.3 m (231 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application Received`,taskType:`Application Received`,startDate:1714723200,endDate:1714723200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1719993600,endDate:1721116800},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1724227200,endDate:1724227200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1738656e3,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],storeys:24,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2111-main-st`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`IC-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ic-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265891,longitude:-123.101475,major:!0,approvalStatus:`Approved`},{primaryStreetName:`396 E 2nd Ave`,applicant:`Colliers International`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ492_c72`,applicationDate:1709712e3,addresses:[`396 E 2nd Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 13, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/396-e-2-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1741852800,relatedPermits:[],latitude:49.266171,longitude:-123.096127,approvalStatus:`Approved`},{primaryStreetName:`310 E 14th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ494_92b`,applicationDate:1776153600,addresses:[`310 E 14th Ave`],status:`ACTIVE`,purpose:`
+Approved March 13, 2025
+**This application was approved by Council at Public Hearing on March 13, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 22-storey residential rental building with a 6-storey podium and includes:
+
+*   273 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1709712e3,endDate:1709712e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1721203200,endDate:1722326400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1738656e3,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1741852800,endDate:1741852800}],storeys:22,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/396-e-2-ave`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.266171,longitude:-123.096127,major:!0,approvalStatus:`Approved`},{primaryStreetName:`310 E 14th Ave`,applicant:`Bingham Hill Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ494_92b`,applicationDate:171576e4,addresses:[`310 E 14th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved April 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/310-e-14-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1776153600,relatedPermits:[],latitude:49.258125,longitude:-123.097999,approvalStatus:`Approved`},{primaryStreetName:`2180 W 6th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ495_2ca`,applicationDate:1747728e3,addresses:[`2180 W 6th Ave`],status:`ACTIVE`,purpose:`
+Approved April 14, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey residential rental building and includes:
+
+*   138 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 6.48; and
+*   A building height of 62.3 m (204 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:171576e4,endDate:171576e4},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1720598400,endDate:1721721600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1776153600,endDate:1776153600}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/310-e-14-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.258125,longitude:-123.097999,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2180 W 6th Ave`,applicant:`Hollybush Holdings Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ495_2ca`,applicationDate:1713168e3,addresses:[`2180 W 6th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 20, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2180-w-6-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1747728e3,relatedPermits:[],latitude:49.266205,longitude:-123.154568,approvalStatus:`Approved`},{primaryStreetName:`325 E 6th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ496_0d2`,applicationDate:175032e4,addresses:[`325 E 6th Ave`],status:`ACTIVE`,purpose:`
+Approved May 20, 2025
+**This application was approved by Council at Public Hearing on May 20, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 23-storey mixed-use rental building with a 4-storey podium and includes:
+
+*   159 units with 20% of the floor area for below-market rental units;
+*   A 37-space childcare facility;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 7.1; and
+*   A building height of 75 m (245 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+July 30, 2024:
+
+[Revised shadow studies(External link)](https://rezoning.vancouver.ca/applications/2180-w-6-ave/revised-application-booklet.pdf) have been provided. These shadow studies have accounted for daylight savings.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1713168e3,endDate:1713168e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1721203200,endDate:1722326400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1744704e3,endDate:1744704e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1747728e3,endDate:1747728e3}],storeys:23,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2180-w-6-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.266205,longitude:-123.154568,major:!0,approvalStatus:`Approved`},{primaryStreetName:`325 E 6th Ave`,applicant:`Arcadis Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ496_0d2`,applicationDate:1716883200,addresses:[`325 E 6th Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved June 19, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/325-e-6-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:175032e4,relatedPermits:[],latitude:49.265692,longitude:-123.097773,approvalStatus:`Approved`},{primaryStreetName:`469-483 E 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ497_41d`,applicationDate:1750147200,addresses:[`469-483 E 10th Ave`],status:`ACTIVE`,purpose:`
+Approved June 19, 2025
+**This application was approved by Council at Public Hearing on June 19, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey residential building and includes:
+
+*   131 residential units with:
+    *   22 social housing units (20% of the floor area); and
+    *   109 market strata units.
+*   A floor space ratio (FSR) of 6.0; and
+*   A building height of 60.9 m (199.8 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1716883200,endDate:1716883200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1721203200,endDate:1722326400},{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/325-e-6-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265692,longitude:-123.097773,major:!0,approvalStatus:`Approved`},{primaryStreetName:`469-483 E 10th Ave`,applicant:`Fastmark Acquisitions`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ497_41d`,applicationDate:1714550400,addresses:[`469-483 E 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 17, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1750147200,endDate:1750147200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/469-483-e-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1750147200,relatedPermits:[],latitude:49.261801,longitude:-123.093876,approvalStatus:`Approved`},{primaryStreetName:`320 E 2nd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ498_5af`,applicationDate:1777968e3,addresses:[`320 E 2nd Ave`],status:`ACTIVE`,purpose:`
+Approved June 17, 2025
+The City of Vancouver has received an application to rezone the subject site from RT-5 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 17-storey residential rental building and includes:
+
+*   138 units with 20% of the residential floor area for below-market rental units;
+*   A floor space ratio (FSR) of 5.50; and
+*   A building height of 56.2 m (184.4 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1714550400,endDate:1714550400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1721203200,endDate:1722326400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1750147200,endDate:1750147200},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1750147200,endDate:1750147200}],storeys:17,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/469-483-e-10-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RT-5 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-5.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261801,longitude:-123.093876,major:!0,approvalStatus:`Approved`},{primaryStreetName:`320 E 2nd Ave`,applicant:`RR Planning`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ498_5af`,applicationDate:1718092800,addresses:[`320 E 2nd Ave`,`320 (318-346) E 2nd Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/320-e-2-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.267318,longitude:-123.09797,approvalStatus:`Approved`},{primaryStreetName:`1364 W 11th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ499_c21`,applicationDate:1747728e3,addresses:[`1364 W 11th Ave`],status:`ACTIVE`,purpose:`
+Approved May 5, 2026
+**Due to the Canada Post Strike, we were unable to send out postcard notifications to inform the public about the revised application. We apologize for any inconvenience this may cause and appreciate your understanding.**
+
+**Revised Application (August 1, 2025)**
+
+The City of Vancouver has received a revised rezoning application for 320 E 2nd Avenue. The zoning would change from IC-3 (Industrial) District to CD-1 (Comprehensive Development) District. Key changes from the original application include:
+
+*   162 rental units, including 20% of the residential floor area provided as below-market rental units;
+*   A podium massing of 4-storeys; and
+*   An overall building height of 73.2 m (240 ft.)
+
+Elements that have not been changed from the original application include:
+
+*   Commercial space on the ground floor;
+*   Office space on the second floor;
+*   An overall massing of 20 storeys; and
+*   A floor space ratio (FSR) of 7.0.
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+In December 2025, Council approved a two-year, time-limited [Rental Development Relief Program(External link)](https://vancouver.ca/files/cov/rental-development-relief-program.pdf) to improve the viability of rental projects. This project is eligible and has applied to reduce the affordability requirements.
+
+* * *
+
+**Original Rezoning Application (June 11, 2024)**
+
+The City of Vancouver has received an application to rezone the subject site from IC-3 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use building with a 5-storey podium and includes:
+
+*   165 residential units with:
+    *   26 social housing units (20% of the residential floor area); and
+    *   139 strata units.
+*   Commercial space on the ground floor;
+*   Office space on level two;
+*   A floor space ratio (FSR) of 7.0; and
+*   A building height of 72.5 m (238 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+**A previous Q&A was held for the original rezoning application from September 18, 2024, to October 1, 2024.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1718092800,endDate:1718092800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1726646400,endDate:1727769600},{taskDescription:`Revised application`,taskType:`Revised application`,startDate:1754035200,endDate:1754035200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/320-e-2-ave`},{docName:`IC-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ic-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.267318,longitude:-123.09797,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1364 W 11th Ave`,applicant:`CCI Trading Group Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ499_c21`,applicationDate:1703145600,addresses:[`1364 W 11th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 20, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1364-w-11-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1747728e3,relatedPermits:[],latitude:49.261385,longitude:-123.135334,approvalStatus:`Approved`},{primaryStreetName:`1270-1290 W 11th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ500_a76`,applicationDate:175032e4,addresses:[`1270-1290 W 11th Ave`],status:`ACTIVE`,purpose:`
+Approved May 20, 2025
+**This application was approved by Council at Public Hearing on May 20, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey residential rental building with a four-storey podium and includes:
+
+*   178 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 6.53; and
+*   A building height of 61.6 m (202 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_ This proposal is non-compliant with existing policy, and requests consideration of an additional tower to be permitted on this block.
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1703145600,endDate:1703145600},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1727251200,endDate:1728374400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1744704e3,endDate:1744704e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1747728e3,endDate:1747728e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1747728e3,endDate:1747728e3}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1364-w-11-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261385,longitude:-123.135334,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1270-1290 W 11th Ave`,applicant:`Proscenium Architecture + Interiors Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ500_a76`,applicationDate:1715673600,addresses:[`1270-1290 W 11th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 19, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1270-1290-w-11-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:175032e4,relatedPermits:[],latitude:49.261377,longitude:-123.133349,approvalStatus:`Approved`},{primaryStreetName:`254 E 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ501_9bd`,applicationDate:1751961600,addresses:[`254 E 12th Ave`],status:`ACTIVE`,purpose:`
+Approved June 19, 2025
+**This application was approved with one amendment **by Council** at Public Hearing on June 19, 2025.**
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 19-storey mixed-use rental building and includes:
+
+*   155 units with 20% of the residential floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.80; and
+*   A building height of 57.2 m (188 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+January 16, 2025
+
+Revised shadow studies have been provided ([link to new studies(External link)](https://rezoning.vancouver.ca/applications/1270-1290-w-11-ave/shadow-study.pdf)). They show the proposed building’s shadows cast at 10 am, noon, and 2 pm. The shadow studies previously shown in the Application Booklet ([link(External link)](https://rezoning.vancouver.ca/applications/1270-1290-w-11-ave/application-booklet.pdf)) did not account for Day Light Savings time.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1715673600,endDate:1715673600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1736323200,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],storeys:19,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1270-1290-w-11-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261377,longitude:-123.133349,major:!0,approvalStatus:`Approved`},{primaryStreetName:`254 E 12th Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ501_9bd`,applicationDate:1711612800,addresses:[`254 E 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 8, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/254-e-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1751961600,relatedPermits:[],latitude:49.259935,longitude:-123.099178,approvalStatus:`Approved`},{primaryStreetName:`1150 Barclay St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ502_cda`,applicationDate:1789138916,addresses:[`1150 Barclay St`],status:`ACTIVE`,purpose:`
+Approved July 8, 2025
+**This application was approved by Council at Public Hearing on July 8, 2025**  
+  
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey mixed-use rental building with a three-storey podium and includes:
+
+*   145 units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.80; and
+*   A building height of 59.4 m (195 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1711612800,endDate:1711612800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1727856e3,endDate:1728979200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1748937600,endDate:1748937600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1751961600,endDate:1751961600}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/254-e-12-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.259935,longitude:-123.099178,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1150 Barclay St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ502_cda`,applicationDate:1789138916,addresses:[`1150 Barclay St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1150-barclay-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.283852,longitude:-123.128611},{primaryStreetName:`1470-1476 W Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ503_f85`,applicationDate:1771488e3,addresses:[`1470-1476 W Broadway`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1150-barclay-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.283852,longitude:-123.128611},{primaryStreetName:`1470-1476 W Broadway`,applicant:`Gracorp Properties LP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ503_f85`,applicationDate:17568e5,addresses:[`1470-1476 W Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1771488e3,endDate:1771488e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1470-1476-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1771488e3,relatedPermits:[],latitude:49.263331,longitude:-123.137571,approvalStatus:`Approved`},{primaryStreetName:`193-195 E 63rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ504_d0c`,applicationDate:1789138916,addresses:[`193-195 E 63rd Ave`,`7869 Main St`],status:`ACTIVE`,purpose:`7869 Main St
+Approved February 19, 2026
+**Due to the Canada Post Strike, we were unable to send out postcard notifications to inform the public about the revised application. We apologize for any inconvenience this may cause and appreciate your understanding.**
+
+**Revised Application (September 2, 2025)**
+
+The City of Vancouver has received a revised rezoning application for 1470-1476 West Broadway. The zoning would change from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. Key changes from the original application include:
+
+*   337 rental units with 20% of the floor area secured for below-market rental units;
+*   Below-market rental units starting rents at 10% discount to city-wide average rents as published by the Canada Mortgage and Housing Corporation;
+*   Commercial/job space on the 2nd floor;
+*   38 storeys and a building height of 123 m (404 ft.), with additional height for rooftop amenity space;
+*   Total floor area of 23,441 sq. m (252,316 sq. ft.);
+*   A floor space ratio of 16.16.
+
+The secondary South Granville subway station entrance is maintained in the revised application. This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+* * *
+
+**Original Rezoning Application (June 25, 2024)**
+
+We would like your feedback on a rezoning application at 1470-1476 West Broadway. The proposal is to allow for the development of a 34-storey mixed-use building. The zoning would change from C3-A (Commercial) District to CD-1 (Comprehensive Development) District. This proposal includes:
+
+*   300 secured rental units with 20% of the floor area secured for below-market rental units;
+*   Commercial space on the ground floor;
+*   A secondary Broadway Subway station entrance for South Granville station;
+*   A floor space ratio (FSR) of 13.0; and
+*   A building height of 119 m (391 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf). The application requests consideration of additional density and for a reduction in the minimum job space requirements.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+**A previous Q&A was held for the original rezoning application from September 4, 2024, to September 17, 2024.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1719302400,endDate:1719302400},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1725436800,endDate:172656e4},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1728460800,endDate:1728460800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:17568e5,endDate:17568e5},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1771488e3,endDate:1771488e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1771488e3,endDate:1771488e3}],storeys:38,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1470-1476-w-broadway`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`C3-A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.263331,longitude:-123.137571,major:!0,approvalStatus:`Approved`},{primaryStreetName:`193-195 E 63rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ504_d0c`,applicationDate:1789138916,addresses:[`193-195 E 63rd Ave`,`7869 Main St`],status:`ACTIVE`,purpose:`7869 Main St
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/193-195-e-63-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.213517,longitude:-123.10254},{primaryStreetName:`124-148 E 6th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ505_f94`,applicationDate:1789138916,addresses:[`124-148 E 6th Ave`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/124-148-e-6-ave-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.265625,longitude:-123.102246},{primaryStreetName:`767-791 W 28th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ507_e05`,applicationDate:1740470400,addresses:[`767-791 W 28th Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/124-148-e-6-ave-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.265625,longitude:-123.102246},{primaryStreetName:`767-791 W 28th Ave`,applicant:`Forme Development`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ507_e05`,applicationDate:1718179200,addresses:[`767-791 W 28th Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved February 25, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/767-791-w-28-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740470400,relatedPermits:[],latitude:49.246532,longitude:-123.122156,approvalStatus:`Approved`},{primaryStreetName:`859-883 E 33rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ508_5ac`,applicationDate:1752134400,addresses:[`859-883 E 33rd Ave`,`4895 St. Catherines St`],status:`ACTIVE`,purpose:`
+Approved February 25, 2025
+**This application was approved by Council on February 25, 2026.**
+
+**Building Example**
+
+**New submission (June 12, 2024):**
+
+The City of Vancouver has received a new submission to rezone the subject site. The new submission proposes to rezone from R1-1 (Residential Inclusive) District to RM-8A (Residential) District. This proposal includes:
+
+*   Stacked residential townhouses or rowhouses up to three storeys fronting the street; and
+*   A floor space ratio (FSR) up to 1.20.
+
+The application is being considered under the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf?_ga=2.252250377.1405552080.1653889945-157054488.1649108460).
+
+If approved, this site's zoning will change to RM-8A, an established zoning district. Any development on the site would be regulated by the District Schedule and accompanying design guidelines. This approach differs from a site-specific Comprehensive Development (CD-1) District rezoning.
+
+**The specific form of development (building design) will be reviewed through a future development permit process. Application drawings will be available for viewing and comment at that time.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1718179200,endDate:1718179200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1737446400,endDate:1737446400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740470400,endDate:1740470400}],storeys:3,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/767-791-w-28-ave`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`RM 8A/8AN District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-8-all-districts.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.246532,longitude:-123.122156,approvalStatus:`Approved`},{primaryStreetName:`859-883 E 33rd Ave`,applicant:`Alabaster Developments Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ508_5ac`,applicationDate:1721116800,addresses:[`859-883 E 33rd Ave`,`4895 St. Catherines St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 10, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1752134400,endDate:1752134400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/859-883-e-33-ave-and-4895-st-catherines-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1752134400,relatedPermits:[],latitude:49.240578,longitude:-123.086618,approvalStatus:`Approved`},{primaryStreetName:`4910-4950 Willow St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ509_9be`,applicationDate:1789138916,addresses:[`4910-4950 Willow St`],status:`ACTIVE`,purpose:`
+Approved July 10, 2025
+**This application was approved by Council at Public Hearing on July 10, 2025  
+  
+**
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to\xA0**[RR-2B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)**\xA0(Residential Rental) District. The proposal includes:
+
+*   A 5-storey residential rental building;
+*   A partial storey for rooftop amenity space (optional); and
+*   A floor space ratio (FSR) up to 2.40.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2B. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   How SRP helps deliver key objectives of the [Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1721116800,endDate:1721116800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1727856e3,endDate:1728979200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1748937600,endDate:1748937600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1752134400,endDate:1752134400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1752134400,endDate:1752134400}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/859-883-e-33-ave-and-4895-st-catherines-st`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.240578,longitude:-123.086618,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4910-4950 Willow St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ509_9be`,applicationDate:1789138916,addresses:[`4910-4950 Willow St`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
-Status: Approved`,progressSections:[],documents:[],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.240891,longitude:-123.123304,approvalStatus:`Approved`},{primaryStreetName:`4001-4009 Knight St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ510_413`,applicationDate:1752134400,addresses:[`4001-4009 Knight St`,`1348 E 24th Ave`],status:`ACTIVE`,purpose:`1348 E 24th Ave
+Status: Approved`,progressSections:[],documents:[],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.240891,longitude:-123.123304,approvalStatus:`Approved`},{primaryStreetName:`4001-4009 Knight St`,applicant:`CONWEST`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ510_413`,applicationDate:1710403200,addresses:[`4001-4009 Knight St`,`1348 E 24th Ave`],status:`ACTIVE`,purpose:`1348 E 24th Ave
 Category: Strata Housing Included
 Status: Approved
-Approved July 10, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1752134400,endDate:1752134400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4001-4009-knight-st-and-1348-e-24-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1752134400,relatedPermits:[],latitude:49.248803,longitude:-123.076806,approvalStatus:`Approved`},{primaryStreetName:`426-428 W 14th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ511_ec8`,applicationDate:1769068800,addresses:[`426-428 W 14th Ave`,`3015-3027 Yukon St`],status:`ACTIVE`,purpose:`3015-3027 Yukon St
+Approved July 10, 2025
+**This application was approved by Council at Public Hearing on July 10, 2025**  
+  
+  
+
+The City of Vancouver has received an application to rezone the subject site from C-2 (Commercial) and RM-1N (Residential) Districts to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 24-storey mixed-use building with a 4-storey podium and includes:
+
+*   233 strata residential units;
+*   Commercial space on the ground floor;
+*   37-space childcare facility;
+*   A floor space ratio (FSR) of 10.47; and
+*   A building height of 79.5 m (261 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is not consistent with Council-adopted rezoning policies. The City is required to process all rezoning applications submitted and staff position on the proposal will be summarized in the referral report later in the application process timeline.
+
+**Updated Materials (November 15, 2024)**
+
+Updated materials were submitted following staff review. Updates were made to include separate [shadow studies(External link)](https://rezoning.vancouver.ca/applications/4001-4009-knight-st-and-1348-e-24th-ave/updated-shadow-studies.pdf) for the Spring and Fall Equinox. The updates do not include changes to the proposed building itself.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1710403200,endDate:1710403200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1727251200,endDate:1728374400},{taskDescription:`In-person information session - Polish Community Centre, 4015 Fraser St (4:30pm to 7:00pm)`,taskType:`In-person information session - Polish Community Centre, 4015 Fraser St (4:30pm to 7:00pm)`,startDate:1727769600,endDate:1727769600},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1732694400,endDate:1732694400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1748937600,endDate:1748937600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1752134400,endDate:1752134400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1752134400,endDate:1752134400}],storeys:24,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4001-4009-knight-st-and-1348-e-24-ave`},{docName:`C-2 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2.pdf`},{docName:`RM-1N District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.248803,longitude:-123.076806,major:!0,approvalStatus:`Approved`},{primaryStreetName:`426-428 W 14th Ave`,applicant:`Stuart Howard Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ511_ec8`,applicationDate:1702972800,addresses:[`426-428 W 14th Ave`,`3015-3027 Yukon St`],status:`ACTIVE`,purpose:`3015-3027 Yukon St
 Category: Market Rental Housing included
 Status: Approved
-Approved January 22, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1769068800,endDate:1769068800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/426-428-w-14-ave-and-3015-3027-yukon-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1769068800,relatedPermits:[],latitude:49.258458,longitude:-123.113574,approvalStatus:`Approved`},{primaryStreetName:`1375-1395 W 14th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ512_625`,applicationDate:1789138916,addresses:[`1375-1395 W 14th Ave`],status:`ACTIVE`,purpose:`
+Approved January 22, 2026
+The City of Vancouver has received an application to rezone the subject site from RT-6 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 18-storey rental building and includes:
+
+*   134 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 5.5; and
+*   A building height of 60.5 m (197 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+  
+
+Announcements
+
+October 17, 2024
+
+An updated\xA0[shadow study(External link)](https://rezoning.vancouver.ca/applications/426-428-w-14th-ave-and-3015-3027-yukon-st/shadow-study.pdf)\xA0is now available. This study replaces the previous version in the application booklet.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1702972800,endDate:1702972800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1727856e3,endDate:1728979200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1762243200,endDate:1762243200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1769068800,endDate:1769068800}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/426-428-w-14-ave-and-3015-3027-yukon-st`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/41556/widgets/173167/documents/137114`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/41556/widgets/173167/documents/137115`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/41556/widgets/173167/documents/137116`},{docName:`Revised shadow studies`,docURL:`https://www.shapeyourcity.ca/41556/widgets/173167/documents/141028`},{docName:`RT-6 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-6.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.258458,longitude:-123.113574,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1375-1395 W 14th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ512_625`,applicationDate:1789138916,addresses:[`1375-1395 W 14th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1375-1395-w-14-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.25916,longitude:-123.135819},{primaryStreetName:`1030-1070 E Hastings St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ514_64c`,applicationDate:1789138916,addresses:[`1030-1070 E Hastings St`],status:`ACTIVE`,purpose:`
@@ -83426,157 +84886,1031 @@ Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1155-e-6-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.265706,longitude:-123.080376},{primaryStreetName:`1527 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ520_b92`,applicationDate:1751961600,addresses:[`1527 Main St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 8, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1527-main-st `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1751961600,relatedPermits:[],latitude:49.271897,longitude:-123.100717,approvalStatus:`Approved`},{primaryStreetName:`282 W 49th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ521_898`,applicationDate:1740470400,addresses:[`282 W 49th Ave`],status:`ACTIVE`,purpose:`
+Approved July 8, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1527-main-st `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1751961600,relatedPermits:[],latitude:49.271897,longitude:-123.100717,approvalStatus:`Approved`},{primaryStreetName:`282 W 49th Ave`,applicant:`Musqueam Capital Corp`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ521_898`,applicationDate:1725868800,addresses:[`282 W 49th Ave`,`282 W 49th Ave (Langara YMCA)`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 25, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/282-w-49th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1740470400,relatedPermits:[],latitude:49.225536,longitude:-123.112451,approvalStatus:`Approved`},{primaryStreetName:`302-360 W 2nd Avenue`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ523_45d`,applicationDate:1769500800,addresses:[`302-360 W 2nd Avenue`],status:`ACTIVE`,purpose:`
+Approved February 25, 2025
+**This application was approved by Council at Public Hearing on February 25, 2025.**
+
+Musqueam Capital Corporation, the economic development arm of the xʷməθkʷəy̓əm (Musqueam Indian Band), in partnership with YMCA BC and Townline, seeks to rezone the site to a new CD-1 district. This will permit a mixed-use development that offers a diverse range of housing options and new community facilities. It will also provide a unique opportunity to secure long-term economic prosperity and self-sufficiency for the Musqueam people. This initiative aims not only to generate economic growth but also to empower the Musqueam people through ownership and active participation in Vancouver’s economic fabric.
+
+The proposal is for a mixed-use development with three buildings at heights of 8, 33, and 37 storeys that includes:
+
+*   Community service focused replacement YMCA facility with associated childcare;
+*   308 rental units, 269 strata units, and 88 social housing units;
+*   Commercial space on the ground floor;
+*   A total floor area of 53,928 sq. m (580,472 sq. ft.); and
+*   A maximum building height of approximately 122 m (400 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+The application is being considered under the [_Cambie Corridor Plan_(External link)](https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf) and the [_Transit-Oriented Areas Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf).
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1725868800,endDate:1725868800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1727251200,endDate:1728374400},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1728460800,endDate:1728460800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1738656e3,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1740470400,endDate:1740470400},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1740470400,endDate:1740470400}],storeys:37,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/282-w-49th-ave`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`UNDRIP Action Plan 2024-2028`,docURL:`https://vancouver.ca/files/cov/undrip-action-plan-2024-2028.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.225536,longitude:-123.112451,major:!0,approvalStatus:`Approved`},{primaryStreetName:`302-360 W 2nd Avenue`,applicant:`Strand`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ523_45d`,applicationDate:1725004800,addresses:[`302-360 W 2nd Avenue`,`320-360 W 2nd Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 27, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1769500800,endDate:1769500800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/320-360-w-2-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1769500800,relatedPermits:[],latitude:49.268057,longitude:-123.111314,approvalStatus:`Approved`},{primaryStreetName:`11-15 E 4th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ524_8f2`,applicationDate:1761033600,addresses:[`11-15 E 4th Ave`],status:`ACTIVE`,purpose:`
+Approved January 27, 2026
+**Revised Application (September 17, 2025)**
+
+A revised application was submitted following feedback from the community and staff review. The total floor space ratio remains the same but the form and uses have been amended. Changes include:
+
+*   Revised form of development from a 19-storey building with a seven-storey podium to a 25-storey building with a six-storey podium; and
+*   Removal of office use and replaced with market rental residential;
+*   The total FSR remains unchanged at 11.81 which includes 9.72 FSR for residential and 2.09 FSR for industrial.
+
+* * *
+
+**Previous Applicaiton (August 2024)**  
+The City of Vancouver has received an application to rezone the subject site from I-1C (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 19-storey mixed-use building and includes:
+
+*   203 residential rental units;
+*   Industrial and office space;
+*   A floor space ratio (FSR) of 11.81; and
+*   A building height of 67.3 m (211 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\xA0The application requires [_Official Development Plan_\xA0(ODP)\xA0(External link)](https://bylaws.vancouver.ca/odp/odp-regional-context-statement.pdf)and\xA0[_Regional Growth Strategy_\xA0(RGS)(External link)](https://metrovancouver.org/services/regional-planning/metro-2050-the-regional-growth-strategy) amendments.
+
+This application is not consistent with Council-adopted rezoning policies. The City is required to process all rezoning applications submitted and staff position on the proposal will be summarized in the referral report later in the application process.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1725004800,endDate:1725004800},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1741766400,endDate:1742889600},{taskDescription:`Revised application`,taskType:`Revised application`,startDate:1758096e3,endDate:1758096e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1765267200,endDate:1765267200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1769068800,endDate:1769068800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1769500800,endDate:1769500800}],storeys:25,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/320-360-w-2-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`Regional Context Statement Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-regional-context-statement.pdf`},{docName:`Metro 2050: Regional Growth Strategy`,docURL:`https://metrovancouver.org/services/regional-planning/metro-2050-the-regional-growth-strategy`},{docName:`I-1C district`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1c.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.268057,longitude:-123.111314,major:!0,approvalStatus:`Approved`},{primaryStreetName:`11-15 E 4th Ave`,applicant:`for Oxford Properties Group`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ524_8f2`,applicationDate:1728028800,addresses:[`11-15 E 4th Ave`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved October 21, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1761033600,endDate:1761033600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/11-15-e-4-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1761033600,relatedPermits:[],latitude:49.267652,longitude:-123.104345,approvalStatus:`Approved`},{primaryStreetName:`2268-2294 W 3rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ525_d1c`,applicationDate:177192e4,addresses:[`2268-2294 W 3rd Ave`,`1902-1912 Vine St`],status:`ACTIVE`,purpose:`1902-1912 Vine St
+Approved October 21, 2025
+The City of Vancouver has received an application to rezone the subject site from I-1 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 8-storey mixed-use industrial\xA0building and includes:
+
+*   Industrial and office space;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.7; and
+*   A building height of 44.5 m (146 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+October 11, 2024
+
+Revised application booklet uploaded with higher resolution imagery.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1728028800,endDate:1728028800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:173088e4,endDate:1732003200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1758009600,endDate:1758009600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1761033600,endDate:1761033600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1761033600,endDate:1761033600}],storeys:8,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/11-15-e-4-ave`},{docName:`I-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.267652,longitude:-123.104345,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2268-2294 W 3rd Ave`,applicant:`Marcon Developments Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ525_d1c`,applicationDate:1751875200,addresses:[`2268-2294 W 3rd Ave`,`1902-1912 Vine St`],status:`ACTIVE`,purpose:`1902-1912 Vine St
 Category: Market Rental Housing included
 Status: Approved
-Approved February 24, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:177192e4,endDate:177192e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2268-2294-w-3-ave-and-1902-1912-vine-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:177192e4,relatedPermits:[],latitude:49.268846,longitude:-123.156963,approvalStatus:`Approved`},{primaryStreetName:`3295-3333 Commercial Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ527_809`,applicationDate:1772697600,addresses:[`3295-3333 Commercial Dr`],status:`ACTIVE`,purpose:`
+Approved February 24, 2026
+**Update, December 4, 2025: Staff Review Completed**Following a detailed review of the application documents, staff have updated the technical statistics for the project as follows:  
+The review confirms a total project density of 7.1 FSR, with 6.8 FSR above grade and 0.3 FSR below grade.
+
+**Revised Application (July 7, 2025)**
+
+The applicant has submitted a revised application. The proposal is for a 22-storey mixed-use rental building. Key changes from the previous proposal include:
+
+*   Reduced podium height to two storeys;
+*   Modified building setbacks, including the addition of a pedestrian mid-block connector along the east property line; and
+*   Reconfigured storeys, and increased overall building height to 77 m (252 ft.)
+
+**Previous Application (August 30, 2024)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use rental\xA0building and includes:
+
+*   207 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 74 m (242 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+February 5, 2024
+
+The Q&A for this project has been extended by one day and will close at 5 pm, February 6, 2025. Any enquiries after the Q&A period can be sent directly to the rezoning planner via email at [oskar.eriksson@vancouver.ca(External link)](mailto:oskar.eriksson@vancouver.ca).`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1724832e3,endDate:1724832e3},{taskDescription:`Q&A`,taskType:`Q&A`,startDate:1737532800,endDate:1738742400},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1751875200,endDate:1751875200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:177192e4,endDate:177192e4},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:177192e4,endDate:177192e4}],storeys:22,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2268-2294-w-3-ave-and-1902-1912-vine-st`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/44607/widgets/222401/documents/169056`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/44607/widgets/222401/documents/169055`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/44607/widgets/222401/documents/169054`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.268846,longitude:-123.156963,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3295-3333 Commercial Dr`,applicant:`3333 Commercial Drive Limited Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ527_809`,applicationDate:1758268800,addresses:[`3295-3333 Commercial Dr`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3295-3333-commercial-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772697600,relatedPermits:[],latitude:49.254891,longitude:-123.069484,approvalStatus:`Approved`},{primaryStreetName:`2120-2150 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ530_9be`,applicationDate:1779177600,addresses:[`2120-2150 W 10th Ave`],status:`ACTIVE`,purpose:`
+Approved March 5, 2026
+**Revised Application (September 19, 2025)**
+
+A revised application was submitted following feedback from the community and staff review. The proposal is to allow for the development of a six-storey residential building. Changes include:
+
+*   133 market rental units;
+*   A floor space ratio (FSR) of 2.51; and
+*   A building height of 22 m (72 ft).
+
+**Revised Application (July 16, 2025)**\xA0
+
+A revised application was submitted following feedback from the community and staff review. The proposal is to allow for the development of a six storey residential building. Changes include:  
+  
+
+*   132 market rental units
+*   A floor space ratio (FSR) of 2.51
+*   A building height of 20.4 m (66.9 ft)
+
+**Previous Application (August 2024)**
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a five-storey residential rental building and includes:
+
+*   115 units;
+*   A floor space ratio (FSR) of 2.15; and
+*   A building height of 20.4 m (67 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _Secured Rental Policy_.\xA0
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+_Due to the Canada Post strike, we were unable to send out postcard notifications to inform the public about this rezoning application. We apologize for any inconvenience this may cause and appreciate your understanding._`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1725004800,endDate:1725004800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1732089600,endDate:1733212800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1752652800,endDate:1752652800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1758268800,endDate:1758268800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772697600,endDate:1772697600}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3295-3333-commercial-dr`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/44797/widgets/219282/documents/166131`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/44797/widgets/219282/documents/166130`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/44797/widgets/219282/documents/166129`},{docName:`Arborist report`,docURL:`https://www.shapeyourcity.ca/44797/widgets/219282/documents/166099`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.254891,longitude:-123.069484,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2120-2150 W 10th Ave`,applicant:`Bastion Development Corp.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ530_9be`,applicationDate:1721289600,addresses:[`2120-2150 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved May 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2120-2150-w-10th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1779177600,relatedPermits:[],latitude:49.262674,longitude:-123.153354,approvalStatus:`Approved`},{primaryStreetName:`3320-3356 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ531_f4f`,applicationDate:1789138916,addresses:[`3320-3356 W 41st Ave`,`5721 Blenheim St`],status:`ACTIVE`,purpose:`5721 Blenheim St
+Approved May 19, 2026
+Revised Application (December 19, 2025)
+
+The City of Vancouver has received a revised rezoning application for 2120-2150 W 10th Ave. The proposal is to allow for the development of a 20-storey mixed-use building and includes:
+
+*   120 rental units, with 20% of the residential floor area provided as below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 7.63; and
+*   A building height of 71.2 m (234 ft.).
+
+Key changes include:
+
+*   Changing the tenure from strata residential to rental residential housing;
+*   An additional partial storey for a rooftop amenity space;
+*   An increase in height from 66.1 m (217 ft.) to 71.2 m (234 ft.).
+*   An increase in density from 6.93 to 7.63 FSR; and
+*   An increase in tower floorplate from 6,342 sq. ft. to 6,944 sq. ft.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan__._(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)
+
+_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_
+
+* * *
+
+Original Rezoning Application (July 18, 2024)
+
+The City of Vancouver has received an application to rezone the subject site from C-8 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use building and includes:
+
+*   86 strata residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.93; and
+*   A building height of 66.1 m (217 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+_Due to the Canada Post strike, we were unable to send out postcard notifications to inform the public about this rezoning application when first submitted. We apologize for any inconvenience this may cause and appreciate your understanding. A postcard was sent out in February 2026 to notify the public of the revised rezoning application submitted._`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1721289600,endDate:1721289600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1732089600,endDate:1733212800},{taskDescription:`Revised application`,taskType:`Revised application`,startDate:1766131200,endDate:1766131200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1779177600,endDate:1779177600}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2120-2150-w-10th-ave`},{docName:`C-8 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-7-8.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262674,longitude:-123.153354,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3320-3356 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ531_f4f`,applicationDate:1789138916,addresses:[`3320-3356 W 41st Ave`,`5721 Blenheim St`],status:`ACTIVE`,purpose:`5721 Blenheim St
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3320-3356-w-41-ave-and-5721-blenheim`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.234636,longitude:-123.179097},{primaryStreetName:`1706-1738 Alberni St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ532_7f2`,applicationDate:1777968e3,addresses:[`1706-1738 Alberni St`,`735 Bidwell St`],status:`ACTIVE`,purpose:`735 Bidwell St
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3320-3356-w-41-ave-and-5721-blenheim`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.234636,longitude:-123.179097},{primaryStreetName:`1706-1738 Alberni St`,applicant:`Bosa Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ532_7f2`,applicationDate:1725436800,addresses:[`1706-1738 Alberni St`,`735 Bidwell St`,`1706-1738 Alberni Street`,`735 Bidwell Street`],status:`ACTIVE`,purpose:`735 Bidwell St
 Category: Market Rental Housing included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1706-1738-alberni-st-and-735-bidwell-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.291299,longitude:-123.133288,approvalStatus:`Approved`},{primaryStreetName:`2030-2038 Barclay St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ533_ed9`,applicationDate:1789138916,addresses:[`2030-2038 Barclay St`],status:`ACTIVE`,purpose:`
+Approved May 5, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-5C (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two mixed-use buildings at 44 (east tower) and 41 (west tower) storeys above a six-storey podium. The proposal includes:
+
+*   236 residential strata units (west tower);
+*   377 residential rental units (east tower);
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 16.11 (east tower) and 14.60 (west tower); and
+*   Building heights of 117.3 m (385 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[West End Rezoning Policy.(External link)](https://guidelines.vancouver.ca/policy-rezoning-west-end.pdf)_
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1725436800,endDate:1725436800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1737532800,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1706-1738-alberni-st-and-735-bidwell-st`},{docName:`West End Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-west-end.pdf`},{docName:`West End Community Plan`,docURL:`https://vancouver.ca/home-property-development/west-end-community-plan.aspx`},{docName:`RM-5C district schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-5-all-districts.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.291299,longitude:-123.133288,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2030-2038 Barclay St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ533_ed9`,applicationDate:1789138916,addresses:[`2030-2038 Barclay St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Application in Review
-Referred back to staff`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2030-2038-barclay-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.292149,longitude:-123.141329},{primaryStreetName:`1059-1083 Nelson`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ534_b57`,applicationDate:174168e4,addresses:[`1059-1083 Nelson`],status:`ACTIVE`,purpose:`
+Referred back to staff`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2030-2038-barclay-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.292149,longitude:-123.141329},{primaryStreetName:`1059-1083 Nelson`,applicant:`Brivia Group`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ534_b57`,applicationDate:1687507200,addresses:[`1059-1083 Nelson`,`1075 Nelson Street (Formerly 1059-1083 Nelson Street) Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 11, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:174168e4,endDate:174168e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1059-1083-nelson-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:174168e4,relatedPermits:[],latitude:49.282378,longitude:-123.127245,approvalStatus:`Approved`},{primaryStreetName:`2929 Commercial Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ535_51b`,applicationDate:1626163200,addresses:[`2929 Commercial Dr`],status:`ACTIVE`,purpose:`
+Approved March 11, 2025
+**This application was approved by Council at Public Hearing on March 11, 2025.**
+
+  
+
+The City of Vancouver has received an application to amend the CD-1 (836) (Comprehensive Development) District By-law to permit the conversion of floor area originally intended for social housing into market rental housing. As a result, the total number of market rental housing units would increase from 50 to 174. The social housing obligation of the project will be met through a cash-in-lieu payment, which will be used to deliver off-site social housing.
+
+Additionally, the amendment would allow for the exclusion of balconies on the building's east and west sides that are enclosed to assist in meeting Passive House sustainability standards. The proposed amendments would have no significant impacts to the approved form of development.
+
+This application is being considered under the _[West End Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-west-end.pdf)._
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+_Due to the Canada Post strike, postcard notifications to inform the public about this rezoning application were delayed. We apologize for any inconvenience this may cause and appreciate your understanding._`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1687507200,endDate:1687507200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1738656e3,endDate:1738656e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:174168e4,endDate:174168e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1059-1083-nelson-st`},{docName:`CD-1 (836)`,docURL:`https://bylaws.vancouver.ca/consolidated/13488.PDF`},{docName:`West End Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-west-end.pdf`},{docName:`West End Rezoning Policy: Interim Inclusionary Social Housing`,docURL:`https://council.vancouver.ca/20240924/documents/r1.pdf`},{docName:`West End Community Plan`,docURL:`https://vancouver.ca/files/cov/west-end-community-plan.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.282378,longitude:-123.127245,approvalStatus:`Approved`},{primaryStreetName:`2929 Commercial Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ535_51b`,applicationDate:1626163200,addresses:[`2929 Commercial Dr`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
 Approved July 13, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1626163200,endDate:1626163200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2929-commercial-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1626163200,relatedPermits:[],latitude:49.258474,longitude:-123.070137,approvalStatus:`Approved`},{primaryStreetName:`450 W Georgia St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ536_60e`,applicationDate:1624953600,addresses:[`450 W Georgia St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved June 29, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1624953600,endDate:1624953600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/450-w-georgia-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1624953600,relatedPermits:[],latitude:49.280871,longitude:-123.11614,approvalStatus:`Approved`},{primaryStreetName:`728-796 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ537_66a`,applicationDate:1731398400,addresses:[`728-796 Main St`,`205 Union St`],status:`ACTIVE`,purpose:`205 Union St
+Approved June 29, 2021`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1624953600,endDate:1624953600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/450-w-georgia-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1624953600,relatedPermits:[],latitude:49.280871,longitude:-123.11614,approvalStatus:`Approved`},{primaryStreetName:`728-796 Main St`,applicant:`Studio One Architecture`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ537_66a`,applicationDate:1718352e3,addresses:[`728-796 Main St`,`205 Union St`,`205 Union St Text Amendment`],status:`ACTIVE`,purpose:`205 Union St
 Category: Market Rental Housing included
 Status: Approved
-Approved November 12, 2024`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1731398400,endDate:1731398400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/205-union-st-and-728-796-main-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1731398400,relatedPermits:[],latitude:49.278147,longitude:-123.099568,approvalStatus:`Approved`},{primaryStreetName:`1088 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ538_33d`,applicationDate:1784016e3,addresses:[`1088 W 12th Ave`],status:`ACTIVE`,purpose:`
+Approved November 12, 2024
+The City of Vancouver has received an application to amend CD-1 (845) (Comprehensive Development) By-law to allow a change in residential tenure to 100% social housing, a height increase from 35.5 m (116 ft.) to 39 m (127 ft.) and a floor space ratio (FSR) increase from 6.79 to 7.4.
+
+The application is being considered under the [_Affordable Housing Policies_(External link)](https://guidelines.vancouver.ca/policy-rental-affordable-housing.pdf).  
+  
+The previous rezoning application was approved by City Council at [Public Hearing(External link)](https://council.vancouver.ca/20210119/documents/rr3.pdf) on February 9, 2021. Link: [https://www.shapeyourcity.ca/728-796-main-st](https://www.shapeyourcity.ca/728-796-main-st)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1718352e3,endDate:1718352e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1728374400,endDate:1728374400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1731398400,endDate:1731398400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1731398400,endDate:1731398400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/205-union-st-and-728-796-main-st`},{docName:`CD-1 (845) District Schedule`,docURL:`https://cd1-bylaws.vancouver.ca/CD-1(845).pdf`},{docName:`Affordable Housing Policies`,docURL:`https://guidelines.vancouver.ca/policy-rental-affordable-housing.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.278147,longitude:-123.099568,approvalStatus:`Approved`},{primaryStreetName:`1088 W 12th Ave`,applicant:`PC Urban Properties Corp.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ538_33d`,applicationDate:1723017600,addresses:[`1088 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1088-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.260345,longitude:-123.128427,approvalStatus:`Approved`},{primaryStreetName:`1050 Expo Bvld`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ539_128`,applicationDate:1689235200,addresses:[`1050 Expo Bvld`],status:`ACTIVE`,purpose:`
+Approved July 14, 2026
+Announcement
+
+On December 13, 2024, Council approved updates to the Broadway Plan, including increased building heights up to 26 storeys on large sites and in some areas (Policy 11.4.4). On November 20, 2025, the applicant submitted an updated proposal in keeping with the updates to the Broadway Plan. The application now proposes to increase the height from 24 to 26 storeys and an increase in density from 6.8 to 6.9 FSR. The updated drawings are included under 'Application documents' on the righthand side of this page.
+
+Application
+
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 24-storey mixed-use rental building and includes:
+
+*   295 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 74.0 m (243 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1723017600,endDate:1723017600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1738137600,endDate:1739260800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3}],storeys:26,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1088-w-12-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.260345,longitude:-123.128427,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1050 Expo Bvld`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ539_128`,applicationDate:1689235200,addresses:[`1050 Expo Bvld`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
 Approved July 13, 2023`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1689235200,endDate:1689235200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/false-creek-north-non-market-housing`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1689235200,relatedPermits:[],latitude:49.274338,longitude:-123.116221,approvalStatus:`Approved`},{primaryStreetName:`450 Pacific St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ540_e72`,applicationDate:1689235200,addresses:[`450 Pacific St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 13, 2023`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1689235200,endDate:1689235200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/false-creek-north-non-market-housing`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1689235200,relatedPermits:[],latitude:49.273132,longitude:-123.127049,approvalStatus:`Approved`},{primaryStreetName:`2260-2266 W 2nd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ542_d04`,applicationDate:1769500800,addresses:[`2260-2266 W 2nd Ave`],status:`ACTIVE`,purpose:`
+Approved July 13, 2023`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1689235200,endDate:1689235200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/false-creek-north-non-market-housing`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1689235200,relatedPermits:[],latitude:49.273132,longitude:-123.127049,approvalStatus:`Approved`},{primaryStreetName:`2260-2266 W 2nd Ave`,applicant:`DA Architects + Planners Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ542_d04`,applicationDate:1746172800,addresses:[`2260-2266 W 2nd Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 27, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1769500800,endDate:1769500800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2260-2266-w-2-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1769500800,relatedPermits:[],latitude:49.269807,longitude:-123.156328,approvalStatus:`Approved`},{primaryStreetName:`414-420 W Pender St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ543_976`,applicationDate:1752134400,addresses:[`414-420 W Pender St`],status:`ACTIVE`,purpose:`
+Approved January 27, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 22-storey rental building with a 2-storey podium and includes:
+
+*   176 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 76.3m (250 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1730966400,endDate:1730966400},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1746172800,endDate:1746172800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1752048e3,endDate:1753171200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1762243200,endDate:1762243200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1769500800,endDate:1769500800}],storeys:22,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2260-2266-w-2-ave`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.269807,longitude:-123.156328,major:!0,approvalStatus:`Approved`},{primaryStreetName:`414-420 W Pender St`,applicant:`Fastmark Development Corp.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ543_976`,applicationDate:1729670400,addresses:[`414-420 W Pender St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 10, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1752134400,endDate:1752134400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/414-420-w-pender-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1752134400,relatedPermits:[],latitude:49.282834,longitude:-123.112496,approvalStatus:`Approved`},{primaryStreetName:`4339-4387 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ544_f46`,applicationDate:1779177600,addresses:[`4339-4387 Cambie St`,`506 W 27th Ave`],status:`ACTIVE`,purpose:`506 W 27th Ave
+Approved July 10, 2025
+**This application was approved by Council at Public Hearing on July 10, 2025**  
+  
+
+The City of Vancouver has received an application to rezone the subject site from DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 12-storey residential rental building and includes:
+
+*   88 units;
+*   A floor space ratio (FSR) of 9.3;
+*   A building height of 35.8 m (117 ft.) with additional height for rooftop amenity space; and
+*   Heritage façade retention of the 1914 Western Canada Building.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Downtown Eastside Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf)_ The application requests consideration of height in excess of the existing policy.
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1707379200,endDate:1707379200},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1729670400,endDate:1729670400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1739347200,endDate:1740470400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1748937600,endDate:1748937600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1752134400,endDate:1752134400},{taskDescription:`Agenda`,taskType:`Agenda`,startDate:1752134400,endDate:1752134400}],storeys:12,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/414-420-w-pender-st`},{docName:`DD (Downtown) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`},{docName:`Downtown Eastside Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf`},{docName:`Rezoning Policy for the Downtown Eastside`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown-eastside.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.282834,longitude:-123.112496,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4339-4387 Cambie St`,applicant:`Rafii Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ544_f46`,applicationDate:1715587200,addresses:[`4339-4387 Cambie St`,`506 W 27th Ave`],status:`ACTIVE`,purpose:`506 W 27th Ave
 Category: Strata Housing Included
 Status: Approved
-Approved May 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4339-4387-cambie-st-and-506-w-27-ave-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1779177600,relatedPermits:[],latitude:49.246717,longitude:-123.116235,approvalStatus:`Approved`},{primaryStreetName:`1110 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ545_34e`,applicationDate:175032e4,addresses:[`1110 W 10th Ave`],status:`ACTIVE`,purpose:`
+Approved May 19, 2026
+**Revised Application (September 18, 2025)**
+
+_The applicant submitted a revised application to retain an on-site tree, re-allocate the density, and increase the building height from eight to nine-storeys._
+
+**Previous Application (September 18, 2024)**\xA0
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a seven-storey mixed-use\xA0building and includes:
+
+*   130 strata residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 2.96; and
+*   A building height of 27.0 m (89 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Cambie Corridor Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)_
+
+The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1715587200,endDate:1715587200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1738137600,endDate:1739260800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1779177600,endDate:1779177600}],storeys:9,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4339-4387-cambie-st-and-506-w-27-ave-2`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`Cambie Corridor Plan`,docURL:`https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.246717,longitude:-123.116235,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1110 W 10th Ave`,applicant:`Intracorp Homes`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ545_34e`,applicationDate:1717747200,addresses:[`1110 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 19, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1110-w-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:175032e4,relatedPermits:[],latitude:49.262222,longitude:-123.129339,approvalStatus:`Approved`},{primaryStreetName:`1401-1455 E 49th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ546_495`,applicationDate:1763020800,addresses:[`1401-1455 E 49th Ave`,`6363 Lanark St`],status:`ACTIVE`,purpose:`
+Approved June 19, 2025
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey residential rental building and includes:
+
+*   181 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 10.1; and
+*   A building height of 60.9 m (199 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\xA0and requests consideration of density in excess of the existing policy.
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.
+
+* * *
+
+* * *
+
+Announcements
+
+January 24, 2025
+
+Please note the Q&A period has been updated to April 2, 2025, to April 15, 2025.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1717747200,endDate:1717747200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1743580800,endDate:1744704e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:175032e4,endDate:175032e4}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1110-w-10-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262222,longitude:-123.129339,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1401-1455 E 49th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ546_495`,applicationDate:1763020800,addresses:[`1401-1455 E 49th Ave`,`6363 Lanark St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved November 13, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1763020800,endDate:1763020800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1401-1455-e-49th-ave `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1763020800,relatedPermits:[],latitude:49.226251,longitude:-123.076557,approvalStatus:`Approved`},{primaryStreetName:`441 E Pender St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ548_85d`,applicationDate:1772092800,addresses:[`441 E Pender St`],status:`ACTIVE`,purpose:`
+Approved November 13, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1763020800,endDate:1763020800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1401-1455-e-49th-ave `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1763020800,relatedPermits:[],latitude:49.226251,longitude:-123.076557,approvalStatus:`Approved`},{primaryStreetName:`441 E Pender St`,applicant:`Pack Buildings`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ548_85d`,applicationDate:1734076800,addresses:[`441 E Pender St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 26, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/441-e-pender-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772092800,relatedPermits:[],latitude:49.280472,longitude:-123.0945,approvalStatus:`Approved`},{primaryStreetName:`2079-2085 W 5th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ549_921`,applicationDate:1751961600,addresses:[`2079-2085 W 5th Ave`],status:`ACTIVE`,purpose:`
+Approved February 26, 2026
+Announcement  
+(December 16, 2025)
+
+In response to the in-person community information session on November 24, 2025 and public feedback received on this application, the applicant has incorporated a unit mix into the proposed development. The proposal now includes 55 social housing units, including 46 micro-dwelling suites, four larger accessible studio units, and five two-bedroom units.
+
+The “test fit” drawings which demonstrate inclusion of a unit mix are included on the righthand side of this page, under the “application documents” heading.
+
+The application continues to propose social housing, and the applicant is considering partnering with Lookout as the proposed building operator.
+
+For information, at the rezoning stage, Council does not approve a specific building operator as part of a proposal. Housing operators are typically secured at later development stages, to provide projects flexibility with senior government funding opportunities.
+
+為回應2025年11月24日舉行的公眾資訊會以及收到的公眾回饋，申請人已在建議書中作出更改並納入了不同類型的住宅單位。
+
+新的建議書將提供一共55個社會住宅單位，其中包括46個小型開放式單位社會住宅單位、4個面積較大的無障礙開放式單位單位和5個兩房單位。
+
+如欲了解更多關於建議書的最新更改請點擊: 納入了不同類型的住宅單位的「測試」圖則
+
+該申請繼續推進社會住宅項目，申請人正在考慮與非牟利房屋供應商 Lookout公司合作，由其負責該住宅項目的營運。
+
+請注意，在重新分區階段，市議會不會在提案中指定特定的非牟利房屋供應商。管理該項目的非牟利房屋供應商通常在開發後期階段確定，以便專案在申請政府撥款時擁有更大的靈活性。
+
+* * *
+
+Application\xA0  
+(December 13, 2024)
+
+The City of Vancouver has received an application to rezone the subject site from RT-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey rental building and includes:
+
+*   65 micro-dwelling, social housing units;
+*   A floor space ratio (FSR) of 3.04; and
+*   A building height of 22.5 m (73 ft.)
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Downtown Eastside Plan(External link)](https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf)._
+
+Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.
+
+* * *
+
+Announcement\xA0  
+(November 14, 2025)\xA0
+
+A community information session is scheduled for Monday, November 24, 2025 from 6:00 pm to 8:00 pm at Strathcona Community Centre (601 Keefer Street). City Staff and the applicant team will be available to answer any questions and provide information on the proposal.
+
+市政府將在士達孔拿社區中心(Strathcona Community Centre)舉行公眾資訊會 地址:奇化街 601號 (Keefer Street), 溫哥華 。 11月24日(星期一)下午6時至8時。 公眾資訊會當日將提供廣東話及國語口譯服務 。
+
+* * *
+
+Announcement\xA0  
+(August 28, 2025)  
+The applicant had previously partnered with Community Builders, a non-profit housing operator, for future operation of the proposed social housing building. The applicant has indicated they have entered into a new partnership with a different non-profit housing provider, Lookout Housing and Health Society ("Lookout"). No other changes to the rezoning application are proposed.
+
+公告
+
+(2025年8月28日)
+
+申請人本來與非牟利房屋供應商 Community Builders 合作共同經營該擬建的社會住宅計畫。申請人表示，他們已與另一家非牟利房屋供應商 Lookout Housing and Health Society（簡稱「Lookout」）建立了新的合作關係。除此之外，本次重新分區申請未作其他修改。
+
+* * *
+
+Revised Submission\xA0  
+(March 2024)
+
+Revised submission in response to clarification of programming from the future building operator.
+
+Changes include removal of the medical room formerly proposed on the ground level, and clarification in the rezoning booklet (see rezoning rationale statement) that the proposal is for independent living, operated by the non-profit social housing provider, Community Builders.
+
+修訂計劃
+
+申請人對提交的方案進行了修訂。修訂內容包括取消原本計劃在底層設置的醫療室（請閱重新分區理由說明），並在申請手冊中指出該社會住宅方案為將獨立生活公寓，由非牟利房屋供應商 Community Builders 運營。`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734076800,endDate:1734076800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1742976e3,endDate:1744099200},{taskDescription:`In-person information session`,taskType:`In-person information session`,startDate:1763971200,endDate:1763971200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772092800,endDate:1772092800}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/441-e-pender-st`},{docName:`RT-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-3.pdf`},{docName:`Downtown Eastside Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.280472,longitude:-123.0945,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2079-2085 W 5th Ave`,applicant:`Colliers - Strategy and Consulting`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ549_921`,applicationDate:1734076800,addresses:[`2079-2085 W 5th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 8, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2079-2085-w-5th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1751961600,relatedPermits:[],latitude:49.267472,longitude:-123.152202,approvalStatus:`Approved`},{primaryStreetName:`1550 W 11th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ550_28c`,applicationDate:1770278400,addresses:[`1550 W 11th Ave`],status:`ACTIVE`,purpose:`
+Approved July 8, 2025
+****This application was approved by Council at Public Hearing on July 8, 2025****
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building and includes:
+
+*   200 social housing units;
+*   Commercial space on the ground floor and one level of office space;
+*   A floor space ratio (FSR) of 10.0; and
+*   A building height of 65.2 m (214 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf),_\xA0and requests consideration of density in excess of the existing policy.\xA0
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734076800,endDate:1734076800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1739865600,endDate:1740988800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1748937600,endDate:1748937600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1751961600,endDate:1751961600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1751961600,endDate:1751961600}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2079-2085-w-5th-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/46598/widgets/215805/documents/163266`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/46598/widgets/215805/documents/163265`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/46598/widgets/215805/documents/163264`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.267472,longitude:-123.152202,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1550 W 11th Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ550_28c`,applicationDate:1709193600,addresses:[`1550 W 11th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1550-w-11-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770278400,relatedPermits:[],latitude:49.261524,longitude:-123.139988,approvalStatus:`Approved`},{primaryStreetName:`44 E 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ551_4f6`,applicationDate:1789138916,addresses:[`44 E 13th Ave`],status:`ACTIVE`,purpose:`
+Approved February 5, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 17-storey mixed-use building and includes:
+
+*   160 rental units with 20% of the residential floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.80; and
+*   A building height of 59.8 m (196 ft.), with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1709193600,endDate:1709193600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1736928e3,endDate:1738051200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770278400,endDate:1770278400}],storeys:17,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1550-w-11-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261524,longitude:-123.139988,major:!0,approvalStatus:`Approved`},{primaryStreetName:`44 E 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ551_4f6`,applicationDate:1789138916,addresses:[`44 E 13th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/44-e-13-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.259087,longitude:-123.104083},{primaryStreetName:`1402-1460 Burrard St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ552_713`,applicationDate:1770105600,addresses:[`1402-1460 Burrard St`,`900 Pacific St`,`1401-1451 Hornby St`],status:`ACTIVE`,purpose:`1401-1451 Hornby St
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/44-e-13-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.259087,longitude:-123.104083},{primaryStreetName:`1402-1460 Burrard St`,applicant:`Vancouver Housing Development Office`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ552_713`,applicationDate:1747209600,addresses:[`1402-1460 Burrard St`,`900 Pacific St`,`1401-1451 Hornby St`],status:`ACTIVE`,purpose:`1401-1451 Hornby St
 Category: Market Rental Housing included
 Status: Approved
-Approved February 3, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770105600,endDate:1770105600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1402-1460-burrard-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770105600,relatedPermits:[],latitude:49.27628,longitude:-123.132532,approvalStatus:`Approved`},{primaryStreetName:`2090 W 1st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ553_88b`,applicationDate:1763020800,addresses:[`2090 W 1st Ave`],status:`ACTIVE`,purpose:`
+Approved February 3, 2026
+The City of Vancouver has received a revised application to rezone the subject site from FCCDD (False Creek Comprehensive Development District) District to CD-1 (Comprehensive Development) District.
+
+The revised proposal includes form of development changes that have resulted in a change to the proposed density and unit count. The proposed height and uses are consistent with the original application. The proposal is to allow for the development of a 40 (west) and 54-storey (east) (with additional height for rooftop mechanical) mixed-use building and includes:
+
+*   1,089 market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 11.83; and
+*   Maximum building height of 162.6 m (534 ft.).
+
+This application is being considered under the [_Rental Housing on City-Owned Land – Public Benefits Pilot Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-rental-city-owned-public-benefits.pdf). The proposal exceeds the height and density anticipated in the applicable policies.
+
+Comments and questions on the revised proposal are welcomed throughout the application review process.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+**Previous Rezoning Application (3 December 2024)**
+
+The original rezoning application, submitted on December 3, 2024, consisted of an application to rezone the subject site from FCCDD (False Creek Comprehensive Development District) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 40 (west) and 52-storey (east) (with additional height for rooftop mechanical) rental residential building and includes:
+
+*   1136 units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 12.11; and
+*   Maximum building height of 162.6 m (534 ft.).
+
+This application is being considered under the Rental Housing on City-Owned Land – Public Benefits Pilot Rezoning Policy. The proposal exceeds the height and density anticipated in the applicable policies.
+
+* * *
+
+Announcements
+
+May 14, 2025
+
+A revised application was submitted by the Applicant. See the above information as well as the Application Documents for further reference.
+
+January 22, 2025
+
+An in-person information session has been scheduled at the Vancouver Aquatic Centre, 1050 Beach Ave, on March 31, 2025, from 5:30pm to 7:30pm. Please note the Q&A period has been updated to March 26, 2025, to April 8, 2025.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1733212800,endDate:1733212800},{taskDescription:`Q&A`,taskType:`Q&A`,startDate:1742976e3,endDate:1744099200},{taskDescription:`Information Session - Vancouver Aquatic Centre, 1050 Beach Ave (5:30pm to 7:30pm)`,taskType:`Information Session - Vancouver Aquatic Centre, 1050 Beach Ave (5:30pm to 7:30pm)`,startDate:1743408e3,endDate:1743408e3},{taskDescription:`Revised Application Received`,taskType:`Revised Application Received`,startDate:1747209600,endDate:1747209600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770105600,endDate:1770105600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770105600,endDate:1770105600}],storeys:54,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1402-1460-burrard-st`},{docName:`Resubmission Application Booklet - 14 May 2025`,docURL:`https://www.shapeyourcity.ca/46597/widgets/195818/documents/152898`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/46597/widgets/195818/documents/144791`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/46597/widgets/195818/documents/144810`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/46597/widgets/195818/documents/144792`},{docName:`Info Session Boards - Applicant`,docURL:`https://www.shapeyourcity.ca/46597/widgets/201922/documents/150510`},{docName:`Info Session Boards - City`,docURL:`https://www.shapeyourcity.ca/46597/widgets/201922/documents/150515`},{docName:`Revised Shadow Studies - January 2025`,docURL:`https://www.shapeyourcity.ca/46597/widgets/202254/documents/150683`},{docName:`Rental Housing on City-Owned Land – Public Benefits Pilot Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-rental-city-owned-public-benefits.pdf`},{docName:`FCCDD (False Creek Comprehensive Development District)`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-fccdd.pdf`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`},{docName:`Granville Slopes Policies`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-granville-slopes.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.27628,longitude:-123.132532,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2090 W 1st Ave`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ553_88b`,applicationDate:1721721600,addresses:[`2090 W 1st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved November 13, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1763020800,endDate:1763020800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2090-w-1-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1763020800,relatedPermits:[],latitude:49.270499,longitude:-123.152295,approvalStatus:`Approved`},{primaryStreetName:`1055 Canada Pl`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ555_cda`,applicationDate:1776153600,addresses:[`1055 Canada Pl`],status:`ACTIVE`,purpose:`
+Approved November 13, 2025
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental\xA0building and includes:
+
+*   176 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 65.1 m (214 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0[_vancouver.ca/protecting-tenants._(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements  
+April 15, 2025  
+Updated Application Booklet with updated Shadow Studies has been posted.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1721721600,endDate:1721721600},{taskDescription:`Q&A`,taskType:`Q&A`,startDate:1743580800,endDate:1744704e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1759824e3,endDate:1759824e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1763020800,endDate:1763020800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1763020800,endDate:1763020800}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2090-w-1-ave`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.270499,longitude:-123.152295,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1055 Canada Pl`,applicant:`Vancouver Habour Flight Centre LTD.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ555_cda`,applicationDate:1734940800,addresses:[`1055 Canada Pl`,`1055-1085 Canada Pl`,`1001-1045 W Waterfront Rd Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved April 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1055-canada-pl`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1776153600,relatedPermits:[],latitude:49.288389,longitude:-123.115553,approvalStatus:`Approved`},{primaryStreetName:`5238-5262 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ556_a82`,applicationDate:1768464e3,addresses:[`5238-5262 Granville St`,`1495 W 37th Ave`],status:`ACTIVE`,purpose:`
+Approved April 14, 2026
+The City of Vancouver has received an application to amend the CD-1 (363) (Comprehensive Development) District By-law to permit a 250-room floating hotel next to the Vancouver Convention and Exhibition Centre (VCEC).
+
+The hotel is in the form of a vessel with six decks and contains a publicly accessible restaurant, bar, shops, and viewing deck. A public dock with commercial spaces are proposed on the west side of the hotel.
+
+The proposed floor area is 15,053 sq. m (140,975 sq. ft.) and the proposed height is 19.5 m (64 ft.) above the waterline. Parking and bicycle spaces are provided in the existing facilities at the VCEC.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734940800,endDate:1734940800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1740556800,endDate:174168e4},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1774944e3,endDate:1774944e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1055-canada-pl`},{docName:`CD-1 (363)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(363).PDF`},{docName:`Interim Hotel Policy (2018)`,docURL:`https://guidelines.vancouver.ca/policy-hotel-development.pdf`},{docName:`Coal Harbour Official Development Plan (1990)`,docURL:`https://bylaws.vancouver.ca/odp/odp-coal-harbour.pdf`},{docName:`Vancouver Convention and Exhibition Centre CD-1 Guidelines - 100 Thurlow Street (2002)`,docURL:`https://guidelines.vancouver.ca/CD-1/guidelines-cd-1-100-thurlow-street.pdf`},{docName:`Vancouver Convention Centre Expansion Project (VCCEP) Supplementary Bulletin: Water-Oriented Development (2005)`,docURL:`https://guidelines.vancouver.ca/bulletins/V001.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.288389,longitude:-123.115553,approvalStatus:`Approved`},{primaryStreetName:`5238-5262 Granville St`,applicant:`Granville Street G37 Project LP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ556_a82`,applicationDate:1734940800,addresses:[`5238-5262 Granville St`,`1495 W 37th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 15, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1768464e3,endDate:1768464e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5238-5262-granville-st-and-1495-w-37th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1768464e3,relatedPermits:[],latitude:49.238431,longitude:-123.13896,approvalStatus:`Approved`},{primaryStreetName:`1249-1263 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ557_1d6`,applicationDate:1769068800,addresses:[`1249-1263 W 41st Ave`],status:`ACTIVE`,purpose:`
+Approved January 15, 2026
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential) District to **[RR-2B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)** (Residential Rental) District. The proposal includes:
+
+*   A five-storey apartment building where all dwelling units are secured as rental; and
+*   A floor space ratio (FSR) up to 2.4.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2B. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   [How SRP helps deliver key objectives of the Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734940800,endDate:1734940800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1765267200,endDate:1765267200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1768464e3,endDate:1768464e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1768464e3,endDate:1768464e3}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5238-5262-granville-st-and-1495-w-37th-ave`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.238431,longitude:-123.13896,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1249-1263 W 41st Ave`,applicant:`Pacific West Architecture Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ557_1d6`,applicationDate:1736841600,addresses:[`1249-1263 W 41st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 22, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1769068800,endDate:1769068800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1249-1263-w-41st-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1769068800,relatedPermits:[],latitude:49.234428,longitude:-123.133736,approvalStatus:`Approved`},{primaryStreetName:`2244-2280 W 6th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ558_60a`,applicationDate:1779177600,addresses:[`2244-2280 W 6th Ave`],status:`ACTIVE`,purpose:`
+Approved January 22, 2026
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to [RR-2B(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)[(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)**[(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf)** (Residential Rental) District. The proposal includes:
+
+*   A five-storey apartment building where all units are secured as rental; and
+*   A floor space ratio (FSR) up to 2.2.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to RR-2B. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   [How SRP helps deliver key objectives of the Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1736841600,endDate:1736841600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1762243200,endDate:1762243200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1769068800,endDate:1769068800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1769068800,endDate:1769068800}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1249-1263-w-41st-ave`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.234428,longitude:-123.133736,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2244-2280 W 6th Ave`,applicant:`Colliers`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ558_60a`,applicationDate:1751875200,addresses:[`2244-2280 W 6th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2244-2280-w-6-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1779177600,relatedPermits:[],latitude:49.26623,longitude:-123.156007,approvalStatus:`Approved`},{primaryStreetName:`4967-5017 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ559_1ec`,applicationDate:1770278400,addresses:[`4967-5017 Main St`],status:`ACTIVE`,purpose:`
+Approved May 19, 2026
+**Revised Application (July 7, 2025)**  
+This application has been revised. Overall, the proposal has been revised to remove the podium, which is replaced with a two-storey lobby and amenity space. Two 22-storey towers are proposed as opposed to two 20-storey towers over a four-storey podium. Further information is noted below.
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Multiple Dwelling) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two 22-storey rental residential buildings and includes:
+
+*   416 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.5;
+*   A building height of 74.4 m (244 ft.) with additional height for rooftop amenity space; and
+*   An Enhanced Open Space Setback (EOSS) along West 6th Avenue.
+
+This application is being considered under the [_Broadway Plan._(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)
+
+The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+* * *
+
+**Previous Application (December 19, 2024)**  
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Multiple Dwelling) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two 20-storey residential rental buildings that include:
+
+*   416 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 66.75m (219 ft) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan._(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)
+
+The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734595200,endDate:1734595200},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1751875200,endDate:1751875200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1762934400,endDate:1764057600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1779177600,endDate:1779177600}],storeys:22,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2244-2280-w-6-ave`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.26623,longitude:-123.156007,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4967-5017 Main St`,applicant:`Matthew Cheng Architect, Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ559_1ec`,applicationDate:1729497600,addresses:[`4967-5017 Main St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4967-5017-main-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770278400,relatedPermits:[],latitude:49.239671,longitude:-123.101964,approvalStatus:`Approved`},{primaryStreetName:`1220 Station St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ560_ebc`,applicationDate:1780387200,addresses:[`1220 Station St`],status:`ACTIVE`,purpose:`
+Approved February 5, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-3A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a five-storey residential building and includes:
+
+*   24 rental residential units;
+*   31 strata residential units;
+*   A floor space ratio (FSR) of 2.32; and
+*   A building height of 17.3 m (57 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Little Mountain Adjacent Area Rezoning Policy.(External link)](https://guidelines.vancouver.ca/policy-rezoning-little-mountain-adjacent.pdf)_
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:** [**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1729497600,endDate:1729497600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1749628800,endDate:1750752e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770278400,endDate:1770278400}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4967-5017-main-st`},{docName:`Little Mountain Adjacent Area Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-little-mountain-adjacent.pdf`},{docName:`RM-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3a.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.239671,longitude:-123.101964,approvalStatus:`Approved`},{primaryStreetName:`1220 Station St`,applicant:`GWL Realty Advisors Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ560_ebc`,applicationDate:1734681600,addresses:[`1220 Station St`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1220-station-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.27297,longitude:-123.098018,approvalStatus:`Approved`},{primaryStreetName:`324 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ561_731`,applicationDate:1770883200,addresses:[`324 W 10th Ave`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+The City of Vancouver has received an application to rezone the subject site from FC-2 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 36-storey and a 28-storey building including commercial, office, and residential uses with an eight-storey podium. Overall, the proposal includes:
+
+*   470 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 11.1; and
+*   A building height of 87.4 m (287 ft.) and 109.8 m (360 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[False Creek Flats Plan(External link)](https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf)_and the __[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)_._\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734681600,endDate:1734681600},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1755504e3,endDate:1755504e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1762329600,endDate:1763452800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:36,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1220-station-st`},{docName:`FC-2 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-fc-2.pdf`},{docName:`False Creek Flats Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf`},{docName:`Transit Oriented Areas Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.27297,longitude:-123.098018,major:!0,approvalStatus:`Approved`},{primaryStreetName:`324 W 10th Ave`,applicant:`Third Space Properties Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ561_731`,applicationDate:1734508800,addresses:[`324 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 12, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770883200,endDate:1770883200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/324-w-10th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770883200,relatedPermits:[],latitude:49.262036,longitude:-123.111613,approvalStatus:`Approved`},{primaryStreetName:`6428-6438 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ562_0d4`,applicationDate:1768291200,addresses:[`6428-6438 Cambie St`,`480-488 W 48th Ave`],status:`ACTIVE`,purpose:`480-488 W 48th Ave
+Approved February 12, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 18-storey mixed-use rental\xA0building and includes:
+
+*   181 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 54.7 m (180 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._\xA0
+
+__\\[The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__\\]__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734508800,endDate:1734508800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1746604800,endDate:1747728e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770883200,endDate:1770883200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770883200,endDate:1770883200}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/324-w-10th-ave`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262036,longitude:-123.111613,major:!0,approvalStatus:`Approved`},{primaryStreetName:`6428-6438 Cambie St`,applicant:`Urban Solutions Architecture Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ562_0d4`,applicationDate:1732262400,addresses:[`6428-6438 Cambie St`,`480-488 W 48th Ave`],status:`ACTIVE`,purpose:`480-488 W 48th Ave
 Category: Market Rental Housing included
 Status: Approved
-Approved January 13, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1768291200,endDate:1768291200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6428-6438-cambie-st-and-480-488-w-48-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1768291200,relatedPermits:[],latitude:49.226753,longitude:-123.116001,approvalStatus:`Approved`},{primaryStreetName:`466-476 W 27th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ563_803`,applicationDate:1784016e3,addresses:[`466-476 W 27th Ave`],status:`ACTIVE`,purpose:`
+Approved January 13, 2026
+The City of Vancouver has received an application to amend CD-1 (730) (Comprehensive Development) District. The proposal is to allow for the development of a 26-storey mixed-use rental\xA0building and includes:
+
+*   182 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 10.24; and
+*   A building height of 79.6 m (261 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Transit-Oriented Areas Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf) and _[Cambie Corridor Plan(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)._ The application requests consideration of density and height in excess of the existing policies.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1732262400,endDate:1732262400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1745395200,endDate:1746518400},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1747814400,endDate:1747814400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1765267200,endDate:1765267200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1768291200,endDate:1768291200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1768291200,endDate:1768291200}],storeys:26,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6428-6438-cambie-st-and-480-488-w-48-ave`},{docName:`CD-1 (730)`,docURL:`https://cd1-bylaws.vancouver.ca/CD-1(730).pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.226753,longitude:-123.116001,major:!0,approvalStatus:`Approved`},{primaryStreetName:`466-476 W 27th Ave`,applicant:`Raffaele Architecture Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ563_803`,applicationDate:1771833600,addresses:[`466-476 W 27th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/466-476-w-27-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.246768,longitude:-123.114141,approvalStatus:`Approved`},{primaryStreetName:`625-777 Pacific St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ564_591`,applicationDate:1764835200,addresses:[`625-777 Pacific St`],status:`ACTIVE`,purpose:`
+Approved July 14, 2026
+Revised Application (February, 2026)
+
+The City of Vancouver has received a revised proposal to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The revised proposal is to allow for a 15-storey residential building and includes:
+
+*   140 rental units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 5.89; and
+*   A building height of 45.6 m (150 ft.).
+
+The revised proposal includes an\xA0increase to the proposed density and height, and change to the Below-market rental unit rates.
+
+This application is being considered under the [_Transit-Oriented Areas Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf")\xA0in combination with the\xA0[_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)\xA0and the\xA0[_Rental Development Relief Program, Stream 2_(External link)](https://vancouver.ca/files/cov/rental-development-relief-program.pdf).  
+  
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Previous Application (January, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 10-storey rental\xA0building and includes:
+
+*   63 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 4.0; and
+*   A building height of 34.4 m (113 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Cambie Corridor Plan(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)_ and [_Transit-Oriented Areas Rezoning Policy._(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+**UPDATE: This application has been withdrawn from the Public Hearing on February 19, 2026, and will proceed at a later date.**  
+**More information to come.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1738137600,endDate:1738137600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1745395200,endDate:1746518400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1771833600,endDate:1771833600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3}],storeys:15,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/466-476-w-27-ave`},{docName:`R1-1 District Schedule`,docURL:`https://council.vancouver.ca/20230725/documents/rr2.pdf#page=28`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.246768,longitude:-123.114141,major:!0,approvalStatus:`Approved`},{primaryStreetName:`625-777 Pacific St`,applicant:`City of Vancouver`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ564_591`,applicationDate:1733385600,addresses:[`625-777 Pacific St`,`1390 Granville St Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved Dec. 4, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1764835200,endDate:1764835200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/675-pacific-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1764835200,relatedPermits:[],latitude:49.274884,longitude:-123.12821,approvalStatus:`Approved`},{primaryStreetName:`354-380 E 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ565_ef0`,applicationDate:1777968e3,addresses:[`354-380 E 10th Ave`],status:`ACTIVE`,purpose:`
+Approved Dec. 4, 2025
+**Revised Application (August 21, 2025)**
+
+The City of Vancouver has received a revised text amendment application for 625-777 Pacific St & 1390 Granville St. The proposal is to amend the CD-1 (887) (Comprehensive Development) District By-law to increase the allowable density for sub-area C by approximately 3,385 sq. m (36,436 sq. ft.) to allow additional floor area for social housing and to remove the childcare.
+
+This is a revised application from the original text amendment application submitted on December 5, 2024. Key changes from the original text amendment application include:
+
+*   Increase in total floor area by 3,385 sq. m (36,436 sq. ft.) (total proposed floor area is 20,325 sq. m (218,776 sq. ft.);
+*   11 additional social housing units (increase of 34 additional social housing units in comparison to the existing CD-1 By-law);
+*   Increase in permitted height by 1.5 m (5 ft.);
+*   Removal of the proposed childcare facility;
+*   Increase in proportion of family-sized units;
+
+This application is being considered under the _[Granville Loops Policy Plan.(External link)](https://guidelines.vancouver.ca/granville-loops-policy-plan.pdf)_
+
+**Original Text Amendment Application (December 5, 2024)**
+
+The City of Vancouver has received a text amendment application for 625-777 Pacific St & 1390 Granville St. The proposal is to amend the CD-1 (887) (Comprehensive Development) District By-law to increase the allowable density for sub-area C (social housing and childcare site) by approximately 2,131 sq. m (22,938 sq. ft.) to enable additional floor area for social housing. The floor area for sub-area C would total 19,017 sq. m (204,697 sq. ft.).
+
+**A previous Q&A was held for the original text amendment application from February 19, 2025 to March 4, 2025.**
+
+  
+
+---`,progressSections:[{taskDescription:`Application Received`,taskType:`Application Received`,startDate:1733385600,endDate:1733385600},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1757491200,endDate:1758614400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1762243200,endDate:1762243200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1764835200,endDate:1764835200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1764835200,endDate:1764835200},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:null,endDate:null}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/675-pacific-st`},{docName:`CD-1 (887)`,docURL:`https://bylaws.vancouver.ca/consolidated/14237.pdf`},{docName:`Granville Loops Policy Plan`,docURL:`https://guidelines.vancouver.ca/granville-loops-policy-plan.pdf`},{docName:`View Protection Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-public-views.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.274884,longitude:-123.12821,approvalStatus:`Approved`},{primaryStreetName:`354-380 E 10th Ave`,applicant:`LPI Management Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ565_ef0`,applicationDate:1732176e3,addresses:[`354-380 E 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/354-380-e-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.261859,longitude:-123.097023,approvalStatus:`Approved`},{primaryStreetName:`1065 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ567_055`,applicationDate:1789138916,addresses:[`1065 W 12th Ave`,`2772 Spruce St`],status:`ACTIVE`,purpose:`2772 Spruce St
+Approved May 5, 2026
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 25-storey mixed-use rental building with a five-storey podium and includes:
+
+*   230 units with 20% of the floor area for below-market units and commercial at-grade (7.92 FSR);
+*   A new, smaller telecommunications facility (0.69 FSR) to replace the existing structure;
+*   A total floor space ratio (FSR) of 8.61; and
+*   A building height of 78.6 m (258 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+__Please note, a development permit for the new, smaller telecommunications facility has been submitted and is currently under staff review. The proposed telecommunications use is permitted under the existing zoning. If you have questions related to the development permit (DP-2025-00030), please contact Bryce Cassidy, Project Facilitator - [bryce.casidy@vancouver.ca(External link)](mailto:bryce.casidy@vancouver.ca) – 604-871-6707__
+
+The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1732176e3,endDate:1732176e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1746e6,endDate:1747123200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:25,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/354-380-e-10-ave`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261859,longitude:-123.097023,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1065 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ567_055`,applicationDate:1789138916,addresses:[`1065 W 12th Ave`,`2772 Spruce St`],status:`ACTIVE`,purpose:`2772 Spruce St
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1065-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.260905,longitude:-123.128625},{primaryStreetName:`1305-1355 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ568_134`,applicationDate:1776153600,addresses:[`1305-1355 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved April 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1305-1355-w-12th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1776153600,relatedPermits:[],latitude:49.261052,longitude:-123.134444,approvalStatus:`Approved`},{primaryStreetName:`375 E 1st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ569_3d4`,applicationDate:1784620800,addresses:[`375 E 1st Ave`],status:`ACTIVE`,purpose:`
+Approved April 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1305-1355-w-12th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1776153600,relatedPermits:[],latitude:49.261052,longitude:-123.134444,approvalStatus:`Approved`},{primaryStreetName:`375 E 1st Ave`,applicant:`Onni Group`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ569_3d4`,applicationDate:1734508800,addresses:[`375 E 1st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/375-e-1st-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.268452,longitude:-123.095534,approvalStatus:`Approved`},{primaryStreetName:`453-461 E 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ570_756`,applicationDate:1771315200,addresses:[`453-461 E 10th Ave`,`2536-2542 Guelph St`],status:`ACTIVE`,purpose:`2536-2542 Guelph St
+Approved July 21, 2026
+The City of Vancouver has received an application to rezone the subject site from CD-1 (402) (Comprehensive Development) District to a new CD-1 (Comprehensive Development) District to allow for the development of three 35-storey mixed-use buildings and a 40-storey mixed-use building with a six-storey podium, and includes:
+
+*   639 strata and 485 rental units;
+*   Commercial and office space;
+*   225 hotel rooms;
+*   32 social housing units;
+*   A cultural amenity space;
+*   A floor space ratio of 10.73; and
+*   Building heights up to 140 m (458 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This rezoning application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734508800,endDate:1734508800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:176112e4,endDate:1762243200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],storeys:40,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/375-e-1st-ave`},{docName:`CD-1 (402)`,docURL:`https://cd1-bylaws.vancouver.ca/402-great-northern-way-campus.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`False Creek Flats Area Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.268452,longitude:-123.095534,major:!0,approvalStatus:`Approved`},{primaryStreetName:`453-461 E 10th Ave`,applicant:`Qualex-Landmark Holdings Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ570_756`,applicationDate:1734422400,addresses:[`453-461 E 10th Ave`,`2536-2542 Guelph St`],status:`ACTIVE`,purpose:`2536-2542 Guelph St
 Category: Market Rental Housing included
 Status: Approved
-Approved February 17, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1771315200,endDate:1771315200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/453-461-e10-ave-and-2536-2542-guelph-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1771315200,relatedPermits:[],latitude:49.261809,longitude:-123.094502,approvalStatus:`Approved`},{primaryStreetName:`2202-2212 E 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ571_09c`,applicationDate:1772611200,addresses:[`2202-2212 E 10th Ave`],status:`ACTIVE`,purpose:`
+Approved February 17, 2026
+The City of Vancouver has received an application to rezone the subject site from RT-5 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 18-storey mixed-use rental\xA0building and includes:
+
+*   172 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.23; and
+*   A building height of 57 m (187 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\xA0and requests consideration of density in excess of the existing policy.
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734422400,endDate:1734422400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1750233600,endDate:1751356800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1771315200,endDate:1771315200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1771315200,endDate:1771315200}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/453-461-e10-ave-and-2536-2542-guelph-st`},{docName:`RT-5 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-5.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261809,longitude:-123.094502,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2202-2212 E 10th Ave`,applicant:`LPI Management Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ571_09c`,applicationDate:1729238400,addresses:[`2202-2212 E 10th Ave`,`2202-2212 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 4, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772611200,endDate:1772611200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2202-2212-w-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772611200,relatedPermits:[],latitude:49.262715,longitude:-123.155746,approvalStatus:`Approved`},{primaryStreetName:`1230 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ572_7af`,applicationDate:1780387200,addresses:[`1230 W 12th Ave`],status:`ACTIVE`,purpose:`
+Approved March 4, 2026
+Announcement
+
+A community information session is scheduled for Thursday, November 6, 2025 from 5:00 pm to 7:30 pm at Kitsilano Neighbourhood House (2305 West 7th Avenue). City Staff and the applicant team will be available to answer any questions and provide information on the proposal.
+
+* * *
+
+Application
+
+The City of Vancouver has received an application to rezone the subject site from C-7 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 25-storey mixed-use rental building with a four-storey podium and includes:
+
+*   221 units with 20% of the floor area for below-market units;
+*   Telecommunications use on the ground floor;
+*   A floor space ratio (FSR) of 6.65; and
+*   A building height of 77.6 m (255 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+Please note, a development permit for the new, smaller telecommunications facility has been submitted and is currently under staff review. The proposed telecommunications use is permitted under the existing zoning. If you have questions related to the development permit (DP-2025-00227), please contact Bryce Casidy, Project Facilitator - [bryce.casidy@vancouver.ca(External link)](mailto:bryce.casidy@vancouver.ca) – 604-871-6707.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1729238400,endDate:1729238400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1752048e3,endDate:1753171200},{taskDescription:`In-person information session`,taskType:`In-person information session`,startDate:1762416e3,endDate:1762416e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1771315200,endDate:1771315200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772611200,endDate:1772611200}],storeys:25,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2202-2212-w-10-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/45354/widgets/190397/documents/144661`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/45354/widgets/190397/documents/144663`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/45354/widgets/190397/documents/144662`},{docName:`Shadow study`,docURL:`https://www.shapeyourcity.ca/45354/widgets/190397/documents/151458`},{docName:`C-7 district schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-7-8.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.262715,longitude:-123.155746,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1230 W 12th Ave`,applicant:`BFA Studio Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ572_7af`,applicationDate:1738137600,addresses:[`1230 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1230-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.260434,longitude:-123.132278,approvalStatus:`Approved`},{primaryStreetName:`5770-5790 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ573_b9f`,applicationDate:1761206400,addresses:[`5770-5790 Granville St`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey rental building and includes:
+
+*   110 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 67.8 m (223 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1738137600,endDate:1738137600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1747209600,endDate:1748332800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1230-w-12-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.260434,longitude:-123.132278,major:!0,approvalStatus:`Approved`},{primaryStreetName:`5770-5790 Granville St`,applicant:`Tera Development`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ573_b9f`,applicationDate:1732867200,addresses:[`5770-5790 Granville St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved Oct. 23, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1761206400,endDate:1761206400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5770-5790-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1761206400,relatedPermits:[],latitude:49.233509,longitude:-123.139313,approvalStatus:`Approved`},{primaryStreetName:`8080 Yukon St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ574_b4c`,applicationDate:1770278400,addresses:[`8080 Yukon St`],status:`ACTIVE`,purpose:`
+Approved Oct. 23, 2025
+The City of Vancouver has received an application to rezone the subject site from R1**\\-**1 (Residential Inclusive) District to\xA0[**RR-3B**(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-3a-3b.pdf) (Residential Rental) District. The proposal includes:
+
+*   A 6-storey mixed-use rental building;
+*   A partial storey for rooftop amenity space (optional);
+*   At least 20% of the floor area secured for below-market rental units;
+*   Commercial space at the ground floor; and
+*   A floor space ratio (FSR) up to 3.40.
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to **RR-3B**. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   [How SRP helps deliver key objectives of the Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1732867200,endDate:1732867200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1743580800,endDate:1744704e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1758009600,endDate:1758009600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1758009600,endDate:1758009600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1761206400,endDate:1761206400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1761206400,endDate:1761206400}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5770-5790-granville-st`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`RR-3B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-3a-3b.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.233509,longitude:-123.139313,major:!0,approvalStatus:`Approved`},{primaryStreetName:`8080 Yukon St`,applicant:`Purpose Driven Development`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ574_b4c`,applicationDate:1757664e3,addresses:[`8080 Yukon St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8080-yukon-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770278400,relatedPermits:[],latitude:49.211979,longitude:-123.114068,approvalStatus:`Approved`},{primaryStreetName:`900-990 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ576_90a`,applicationDate:1768464e3,addresses:[`900-990 W 12th Ave`],status:`ACTIVE`,purpose:`
+Approved February 5, 2026
+**Revised Application (May 1, 2026)**
+
+The City of Vancouver has received an application to revise the CD-1 by-law prior to enactment for the 8080 Yukon Street CD-1 rezoning that was approved at the Public Hearing on February 5, 2026. This proposal is to increase the allowable building height for sub-area A for the six-storey seniors housing building from 23.0 m (75.4 ft.) to 25.3 m (83 ft.). This accommodates new building technology and will enable the avoidance of construction delays and potential impact to funding commitments.
+
+* * *
+
+**Revised Application (September 12, 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from CD-1 (88) to a new CD-1 (Comprehensive Development) District. The proposal is to allow for the development of four buildings of social housing. This proposal includes:
+
+*   A total of 903 social housing units;
+*   A total floor space ratio (FSR) of 7.46;
+*   Building One is a six-storey building with a height of 19.2 m (63 ft.) and 123 units for seniors;
+*   Building Two is a 26-storey building with a height of 77.4 m (254 ft.) and 255 units;
+*   Building Three is a 32-storey building with a height of 95.1 m (312 ft.) and 272 units; and
+*   Building Four is a 28-storey building with a height of 83.2 m (273 ft.) and 253 units.
+
+This application is being considered under the _[Marpole Community Plan(External link)](https://guidelines.vancouver.ca/policy-plan-marpole.pdf)._
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+**Previous Application (January 28, 2025)**
+
+The previous version of this application included the following differences:
+
+*   A total of 847 social housing units;
+*   A total floor space ratio (FSR) of 6.99;
+*   Building Two is a 20-storey building with a height of 59.4 m (195 ft.) and 200 units; and
+*   Building Four is a 28-storey building with a height of 83.2 m (273 ft.) and 252 units.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1738051200,endDate:1738051200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1743580800,endDate:1744704e3},{taskDescription:`Information Session - Jig Space, 106-8889 Laurel St, (4:30pm to 7:30pm)`,taskType:`Information Session - Jig Space, 106-8889 Laurel St, (4:30pm to 7:30pm)`,startDate:1744272e3,endDate:1744272e3},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1747814400,endDate:1747814400},{taskDescription:`Revised Application Received`,taskType:`Revised Application Received`,startDate:1757664e3,endDate:1757664e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770278400,endDate:1770278400},{taskDescription:`Council (revision)`,taskType:`Council (revision)`,startDate:1784016e3,endDate:1784016e3}],storeys:32,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8080-yukon-st`},{docName:`CD-1(88)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(088).PDF`},{docName:`Marpole Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-marpole.pdf`},{docName:`Marine Landing Policy Updates`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-marine-landing-updates.pdf`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.211979,longitude:-123.114068,major:!0,approvalStatus:`Approved`},{primaryStreetName:`900-990 W 12th Ave`,applicant:`MCM Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ576_90a`,applicationDate:1733472e3,addresses:[`900-990 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved January 15, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1768464e3,endDate:1768464e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/900-990-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1768464e3,relatedPermits:[],latitude:49.260305,longitude:-123.125562,approvalStatus:`Approved`},{primaryStreetName:`10 E 11th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ577_a27`,applicationDate:1770278400,addresses:[`10 E 11th Ave`],status:`ACTIVE`,purpose:`
+Approved January 15, 2026
+The City of Vancouver has received an application to rezone the site from CD-1 (295) (Comprehensive Development) District and RM-3 (Residential) District to CD-1 (Comprehensive Development) District to allow for phased expansion of the Vancouver General Hospital (VGH) campus and development of two mixed-use buildings with institutional space and ground floor commercial. The proposal includes:
+
+*   A 26-storey west building with 280 new seniors long-term care beds, clinical and diagnostic space, clinical support functions, and physician offices;
+*   A 28-storey east building in a future phase, with clinical space, medical offices, childcare, and public open space;
+*   Total floor space ratio (FSR) of 14.15; and
+*   West building height of 100.3 m (329 ft.) and east building height of 107.6 m (353 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\xA0with an amendment to the [_Rental Housing Stock Official Development Plan._(External link)](https://bylaws.vancouver.ca/ODP/odp-rental-housing-stock.pdf)
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1733472e3,endDate:1733472e3},{taskDescription:`Q&A`,taskType:`Q&A`,startDate:1744358400,endDate:1745481600},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1745395200,endDate:1745395200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1765267200,endDate:1765267200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1768464e3,endDate:1768464e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1768464e3,endDate:1768464e3}],storeys:28,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/900-990-w-12-ave`},{docName:`CD‐1 (295)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(295).pdf`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`},{docName:`Rental Housing Stock Official Development Plan`,docURL:`https://bylaws.vancouver.ca/ODP/odp-rental-housing-stock.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.260305,longitude:-123.125562,major:!0,approvalStatus:`Approved`},{primaryStreetName:`10 E 11th Ave`,applicant:`Stuart Howard Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ577_a27`,applicationDate:1737532800,addresses:[`10 E 11th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/10-e-11-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770278400,relatedPermits:[],latitude:49.260958,longitude:-123.10465,approvalStatus:`Approved`},{primaryStreetName:`15-27 W Hastings St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ578_b30`,applicationDate:1770710400,addresses:[`15-27 W Hastings St`],status:`ACTIVE`,purpose:`
+Approved February 5, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 16-storey mixed-use rental building with a 4-storey podium and includes:
+
+*   115 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 6.8; and
+*   A building height of 43.8 m (144 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1703059200,endDate:1703059200},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1737532800,endDate:1737532800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1746604800,endDate:1747728e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770278400,endDate:1770278400}],storeys:16,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/10-e-11-ave`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.260958,longitude:-123.10465,major:!0,approvalStatus:`Approved`},{primaryStreetName:`15-27 W Hastings St`,applicant:`Bosa Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ578_b30`,applicationDate:1740988800,addresses:[`15-27 W Hastings St`,`15-27 W Hastings`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 10, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770710400,endDate:1770710400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/15-27-w-hastings`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770710400,relatedPermits:[],latitude:49.281948,longitude:-123.105392,approvalStatus:`Approved`},{primaryStreetName:`8-36 W Cordova St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ579_c0b`,applicationDate:1770710400,addresses:[`8-36 W Cordova St`],status:`ACTIVE`,purpose:`
+Approved February 10, 2026
+The City of Vancouver has received an application to rezone the subject site from DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 40-storey mixed-use rental building and includes:
+
+*   441 market rental units;
+*   108 below-market rental units operated by a non-profit operator;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 22.28; and
+*   A building height of 117 m (384 ft.).
+
+The Samuel Tower is located in the Victory Square sub area of the [_Downtown Eastside Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf)_._\xA0The proposal requests consideration of height in excess of the existing policy. The Victory Square sub-area allows a maximum height of 32 m (105 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+_This application is being processed and reviewed concurrently with the application to rezone [8-36 W Cordova St](http://www.shapeyourcity.ca/8-36-cordova)._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+The previous [2023 rezoning application](https://www.shapeyourcity.ca/8-36-w-cordova-st-15-27-w-hastings-st) has been withdrawn, and replaced by this application.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1740988800,endDate:1740988800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1743580800,endDate:1744704e3},{taskDescription:`Vancouver Heritage Commission`,taskType:`Vancouver Heritage Commission`,startDate:1746432e3,endDate:1746432e3},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1746604800,endDate:1746604800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770710400,endDate:1770710400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770710400,endDate:1770710400}],storeys:40,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/15-27-w-hastings`},{docName:`Downtown District`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`},{docName:`Downtown Eastside Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf`},{docName:`Rezoning Policy for the Downtown Eastside`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown-eastside.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.281948,longitude:-123.105392,major:!0,approvalStatus:`Approved`},{primaryStreetName:`8-36 W Cordova St`,applicant:`Bosa Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ579_c0b`,applicationDate:1740988800,addresses:[`8-36 W Cordova St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 10, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770710400,endDate:1770710400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8-36-cordova`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770710400,relatedPermits:[],latitude:49.282417,longitude:-123.105183,approvalStatus:`Approved`},{primaryStreetName:`1405 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ580_5b4`,applicationDate:1770710400,addresses:[`1405 Main St`,`1510 Quebec St`],status:`ACTIVE`,purpose:`1510 Quebec St
+Approved February 10, 2026
+The City of Vancouver has received an application to rezone the subject site from HA-2 (Historic Area) to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building with a five-storey podium and includes:
+
+*   219 rental units with 20% of the floor area for below-market units;
+*   179-room hotel;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 7.03; and
+*   A building height of 66.4 m (218 ft.).
+
+This proposal is located in the Gastown sub area of the [_Downtown Eastside Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf)_._ The proposal requests rezoning consideration of height in excess of the existing policy. The Gastown sub-area allows a maximum height of 22.9 m (75 ft.).
+
+This proposal includes a number of heritage properties, and as such, the City’s [_Heritage Policies_(External link)](https://guidelines.vancouver.ca/policy-heritage-policies.pdf) apply. The application proposes primarily façade-only retention for the Cohen Block (Vancouver Heritage Register-listed buildings).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+_This application is being processed and reviewed concurrently with the application to rezone [15-27 W Hastings](http://www.shapeyourcity.ca/15-27-w-hastings)._\xA0
+
+**_Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report._**
+
+The previous [2023 rezoning application](https://www.shapeyourcity.ca/8-36-w-cordova-st-15-27-w-hastings-st) has been withdrawn, and replaced by this application.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1740988800,endDate:1740988800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1743580800,endDate:1744704e3},{taskDescription:`Vancouver Heritage Commission`,taskType:`Vancouver Heritage Commission`,startDate:1746432e3,endDate:1746432e3},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1746604800,endDate:1746604800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770710400,endDate:1770710400}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8-36-cordova`},{docName:`HA-2 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ha-2.pdf`},{docName:`Downtown Eastside Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf`},{docName:`Rezoning Policy for the Downtown Eastside`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown-eastside.pdf`},{docName:`Heritage Policies`,docURL:`https://guidelines.vancouver.ca/policy-heritage-policies.pdf`},{docName:`Vancouver Heritage Register (VHR)`,docURL:`https://guidelines.vancouver.ca/policy-vancouver-heritage-register.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.282417,longitude:-123.105183,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1405 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ580_5b4`,applicationDate:1770710400,addresses:[`1405 Main St`,`1510 Quebec St`],status:`ACTIVE`,purpose:`1510 Quebec St
 Category: Market Rental Housing included
 Status: Approved
 Approved February 10, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770710400,endDate:1770710400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1405-main-st-and-1510-quebec-st `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770710400,relatedPermits:[],latitude:49.272336,longitude:-123.100718,approvalStatus:`Approved`},{primaryStreetName:`138 E 7th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ581_99d`,applicationDate:1770105600,addresses:[`138 E 7th Ave`],status:`ACTIVE`,purpose:`
@@ -83585,289 +85919,1906 @@ Status: Approved
 Approved February 3, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770105600,endDate:1770105600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/138-e-7-ave `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770105600,relatedPermits:[],latitude:49.264367,longitude:-123.102046,approvalStatus:`Approved`},{primaryStreetName:`464-482 E 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ583_477`,applicationDate:1789138916,addresses:[`464-482 E 8th Ave`,`2401 St. George St`],status:`ACTIVE`,purpose:`2401 St. George St
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/464-482-e-8-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.263252,longitude:-123.093505},{primaryStreetName:`2245-2283 W Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ584_45a`,applicationDate:1780387200,addresses:[`2245-2283 W Broadway`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/464-482-e-8-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.263252,longitude:-123.093505},{primaryStreetName:`2245-2283 W Broadway`,applicant:`Frame Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ584_45a`,applicationDate:1768291200,addresses:[`2245-2283 W Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2245-2283-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.264166,longitude:-123.156407,approvalStatus:`Approved`},{primaryStreetName:`360 E 14th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ585_a44`,applicationDate:1780387200,addresses:[`360 E 14th Ave`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+Revised application (January 13, 2026)
+
+The City of Vancouver has received a revised rezoning application for 2245-2283 W Broadway. The revised proposal is to allow for the development of a 25-storey mixed-use rental building and includes:
+
+*   198 rental residential units;
+*   Commercial space on the ground floor;
+*   Childcare on the third floor;
+*   A floor space ratio (FSR) of 9.05; and
+*   A building height of 78.8 m (259 ft.).
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+  
+
+* * *
+
+  
+
+Original application (March 28, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from C3-A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 25-storey mixed-use rental building and includes:
+
+*   219 rental residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 8.88; and
+*   A building height of 73.77 m (242 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1743148800,endDate:1743148800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1747814400,endDate:1748937600},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1768291200,endDate:1768291200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:25,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2245-2283-w-broadway`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.264166,longitude:-123.156407,major:!0,approvalStatus:`Approved`},{primaryStreetName:`360 E 14th Ave`,applicant:`Stuart Howard Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ585_a44`,applicationDate:1718006400,addresses:[`360 E 14th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/360-e-14-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.258057,longitude:-123.096953,approvalStatus:`Approved`},{primaryStreetName:`1010 W King Edward Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ586_c48`,applicationDate:1789138916,addresses:[`1010 W King Edward Ave`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey rental residential building and includes:
+
+*   137 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 6.50; and
+*   A building height of 56.8 m (186 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Pla__n_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1718006400,endDate:1718006400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1748419200,endDate:1749542400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/360-e-14-ave`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`RM-4 and RM-4N Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.258057,longitude:-123.096953,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1010 W King Edward Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ586_c48`,applicationDate:1789138916,addresses:[`1010 W King Edward Ave`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1010-w-king-edward`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.248962,longitude:-123.128012},{primaryStreetName:`5635-5655 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ587_3e9`,applicationDate:1777968e3,addresses:[`5635-5655 Cambie St`,`511 W 41st Ave`],status:`ACTIVE`,purpose:`511 W 41st Ave
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1010-w-king-edward`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.248962,longitude:-123.128012},{primaryStreetName:`5635-5655 Cambie St`,applicant:`Polygon Elysee Homes Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ587_3e9`,applicationDate:1742284800,addresses:[`5635-5655 Cambie St`,`511 W 41st Ave`],status:`ACTIVE`,purpose:`511 W 41st Ave
 Category: Strata Housing Included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5635-5655-cambie-st-and-511-w-41-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.234228,longitude:-123.116641,approvalStatus:`Approved`},{primaryStreetName:`4338-4362 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ588_8cd`,applicationDate:1789138916,addresses:[`4338-4362 Cambie St`],status:`ACTIVE`,purpose:`
+Approved May 5, 2026
+The City of Vancouver has received an application to rezone the subject site from C-1 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 31-storey mixed-use residential building with a five-storey podium and includes:
+
+*   176 strata residential units;
+*   Commercial space on the ground floor;
+*   Office space in the podium;
+*   A childcare facility;
+*   A floor space ratio (FSR) of 8.93; and
+*   A building height of 92.9 m (305 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Cambie Corridor Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.app**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1742284800,endDate:1742284800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1752652800,endDate:1753776e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:31,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5635-5655-cambie-st-and-511-w-41-ave`},{docName:`C-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-1.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.234228,longitude:-123.116641,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4338-4362 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ588_8cd`,applicationDate:1789138916,addresses:[`4338-4362 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4338-4362-cambie-st-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.247383,longitude:-123.11492},{primaryStreetName:`1431 W Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ589_9e5`,applicationDate:1789138916,addresses:[`1431 W Broadway`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1431-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.263906,longitude:-123.136933},{primaryStreetName:`1125 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ590_222`,applicationDate:1769068800,addresses:[`1125 W 10th Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1431-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.263906,longitude:-123.136933},{primaryStreetName:`1125 W 10th Ave`,applicant:`Sightline Properties Ltd`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ590_222`,applicationDate:1722412800,addresses:[`1125 W 10th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 22, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1769068800,endDate:1769068800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1125-w-10-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1769068800,relatedPermits:[],latitude:49.262761,longitude:-123.129905,approvalStatus:`Approved`},{primaryStreetName:`807-815 Hornby St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ590_c2b`,applicationDate:1784620800,addresses:[`807-815 Hornby St`],status:`ACTIVE`,purpose:`
+Approved January 22, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use rental\xA0building and includes:
+
+*   162 units with 20% of the floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 9.06; and
+*   A building height of 68.4 m (224 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+_**_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_**\xA0_[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1722412800,endDate:1722412800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1747814400,endDate:1748937600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1762243200,endDate:1762243200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1769068800,endDate:1769068800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1769068800,endDate:1769068800}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1125-w-10-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262761,longitude:-123.129905,major:!0,approvalStatus:`Approved`},{primaryStreetName:`807-815 Hornby St`,applicant:`Reliance Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ590_c2b`,applicationDate:1749715200,addresses:[`807-815 Hornby St`,`807-819 Hornby St`,`908-948 Robson St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/807-815-hornby-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.28257,longitude:-123.122477,approvalStatus:`Approved`},{primaryStreetName:`6012-6088 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ591_217`,applicationDate:1777968e3,addresses:[`6012-6088 Cambie St`],status:`ACTIVE`,purpose:`
+Approved July 21, 2026
+The City of Vancouver has received an application to rezone the subject site from DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 35-storey mixed-use building with an 11-storey podium and includes:
+
+*   160 hotel rooms;
+*   176 strata residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 14.53; and
+*   A building height of 108.1 m (355 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [Downtown Rezoning Policy(External link)](https://council.vancouver.ca/20250604/documents/pspc1.pdf#page=17) and the [Hotel Development Policy(External link)](https://guidelines.vancouver.ca/policy-hotel-development.pdf).
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749715200,endDate:1749715200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1758700800,endDate:1759824e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],storeys:35,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/807-815-hornby-st`},{docName:`Downtown District`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`},{docName:`Downtown Rezoning Policy`,docURL:`https://council.vancouver.ca/20250604/documents/pspc1.pdf#page=17`},{docName:`Hotel Development Policy`,docURL:`https://guidelines.vancouver.ca/policy-hotel-development.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.28257,longitude:-123.122477,major:!0,approvalStatus:`Approved`},{primaryStreetName:`6012-6088 Cambie St`,applicant:`GBL Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ591_217`,applicationDate:1732521600,addresses:[`6012-6088 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6012-6088-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.230542,longitude:-123.115863,approvalStatus:`Approved`},{primaryStreetName:`1045 Haro St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ591_913`,applicationDate:1784620800,addresses:[`1045 Haro St`,`830-850 Thurlow St`],status:`ACTIVE`,purpose:`830-850 Thurlow St
+Approved May 5, 2026
+The City of Vancouver has received an application to rezone the subject site from RT-2 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 25-storey residential and a 15-storey hotel building with a three-storey podium and includes:
+
+*   126 strata residential units;
+*   94 hotel spaces;
+*   Commercial space on the ground floor;
+*   Non-profit organization space, including office and related programming space;
+*   A floor space ratio (FSR) of 8.65; and
+*   A building height of 84.2 m (276 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _Cambie Corridor Plan_ and is not consistent with Council-adopted policies. Additional height is requested for delivery of the non-profit organization space and hotel space.
+
+The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1732521600,endDate:1732521600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1747814400,endDate:1748937600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:25,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6012-6088-cambie-st`},{docName:`RT-2 district schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-2.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.230542,longitude:-123.115863,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1045 Haro St`,applicant:`1045 Haro Street Limited Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ591_913`,applicationDate:1749542400,addresses:[`1045 Haro St`,`830-850 Thurlow St`],status:`ACTIVE`,purpose:`830-850 Thurlow St
 Category: Market Rental Housing included
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1045-haro-st-and-830-850-thurlow-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.283675,longitude:-123.124915,approvalStatus:`Approved`},{primaryStreetName:`888 W 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ592_564`,applicationDate:1777968e3,addresses:[`888 W 8th Ave`],status:`ACTIVE`,purpose:`
+Approved July 21, 2026
+The City of Vancouver has received an application to rezone the subject site from DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 26-storey and 25-storey mixed-use rental\xA0building with an eight-storey podium and includes:
+
+*   542 units including 22 below-market units;
+*   A childcare facility;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 10.78; and
+*   A building height of 79.8 m (262 ft.) and 75.8 m (249ft).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_West End Community Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-west-end.pdf#page=51)_[.(External link)](https://guidelines.vancouver.ca/policy-plan-west-end.pdf#page=51)_
+
+_**_\\[The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)**_\\]_**_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749542400,endDate:1749542400},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1756886400,endDate:1758009600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],storeys:26,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1045-haro-st-and-830-850-thurlow-st`},{docName:`West End Community Plan`,docURL:`https://vancouver.ca/files/cov/west-end-community-plan-2013-nov.pdf`},{docName:`Downtown District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.283675,longitude:-123.124915,major:!0,approvalStatus:`Approved`},{primaryStreetName:`888 W 8th Ave`,applicant:`Formosis Architecture`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ592_564`,applicationDate:1746086400,addresses:[`888 W 8th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/888-w-8th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.264144,longitude:-123.12339,approvalStatus:`Approved`},{primaryStreetName:`3803-3823 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ592_e96`,applicationDate:1789138916,addresses:[`3803-3823 W 10th Ave`,`2553 Highbury St`],status:`ACTIVE`,purpose:`2553 Highbury St
+Approved May 5, 2026
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 16-storey hotel with a five-storey podium and includes:
+
+*   152 hotel rooms;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 8.14; and
+*   A building height of 51 m (167 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan__._(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1746086400,endDate:1746086400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1757491200,endDate:1758614400},{taskDescription:`Referred to Council meeting`,taskType:`Referred to Council meeting`,startDate:1776153600,endDate:1776153600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:16,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/888-w-8th-ave`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.264144,longitude:-123.12339,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3803-3823 W 10th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ592_e96`,applicationDate:1789138916,addresses:[`3803-3823 W 10th Ave`,`2553 Highbury St`],status:`ACTIVE`,purpose:`2553 Highbury St
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3803-3823-w-10-ave-and-2553-highbury-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.263777,longitude:-123.188174},{primaryStreetName:`904-920 Davie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ593_5ef`,applicationDate:1785225600,addresses:[`904-920 Davie St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3803-3823-w-10-ave-and-2553-highbury-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.263777,longitude:-123.188174},{primaryStreetName:`904-920 Davie St`,applicant:`Reliance Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ593_5ef`,applicationDate:1749801600,addresses:[`904-920 Davie St`,`904-928 Davie St`,`1223 Hornby St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/904-920-davie-street`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.278659,longitude:-123.128835,approvalStatus:`Approved`},{primaryStreetName:`1500-1588 W 3rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ593_f35`,applicationDate:1780387200,addresses:[`1500-1588 W 3rd Ave`],status:`ACTIVE`,purpose:`
+Approved July 28, 2026
+The City of Vancouver has received an application to rezone the subject site from DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 32-storey mixed-use\xA0building and includes:
+
+*   244 strata residential units;
+*   Commercial retail space at grade;
+*   A floor space ratio (FSR) of 13.3; and
+*   A building height of 106 m (348 ft.). [(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [Downtown Official Development Plan(External link)](https://bylaws.vancouver.ca/odp/odp-downtown.pdf) and the [_Downtown Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf#page=10)._[(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749801600,endDate:1749801600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1760515200,endDate:1761638400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:32,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/904-920-davie-street`},{docName:`Downtown Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-downtown.pdf`},{docName:`Downtown District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf`},{docName:`Downtown Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.278659,longitude:-123.128835,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1500-1588 W 3rd Ave`,applicant:`Arno Matis Architecture Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ593_f35`,applicationDate:1734336e3,addresses:[`1500-1588 W 3rd Ave`,`1500-1588 W 3rd Avenue`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1500-1588-w-3-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.268646,longitude:-123.140195,approvalStatus:`Approved`},{primaryStreetName:`1745 W 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ594_450`,applicationDate:1780473600,addresses:[`1745 W 8th Ave`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+The City of Vancouver has received an application to rezone the subject site from IC-2 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 17-storey\xA0building and includes:
+
+*   160 hotel units;
+*   A floor space ratio (FSR) of 16.4; and
+*   A building height of 53.6 m (176 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\xA0and\xA0[_Hotel Development Policy._(External link)](https://council.vancouver.ca/20180710/documents/p2.pdf)\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1734336e3,endDate:1734336e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1750838400,endDate:1751961600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:17,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1500-1588-w-3-ave`},{docName:`IC-2`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ic-2.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`Hotel Development Policy`,docURL:`https://guidelines.vancouver.ca/policy-hotel-development.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.268646,longitude:-123.140195,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1745 W 8th Ave`,applicant:`Amacon Construction Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ594_450`,applicationDate:1752739200,addresses:[`1745 W 8th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 3, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780473600,endDate:1780473600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1745-w-8th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780473600,relatedPermits:[],latitude:49.265107,longitude:-123.143951,approvalStatus:`Approved`},{primaryStreetName:`605-695 SE Marine Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ594_c43`,applicationDate:1789138916,addresses:[`605-695 SE Marine Dr`],status:`ACTIVE`,purpose:`
+Approved June 3, 2026
+**_Vancouver Official Development Plan (ODP)_\xA0Amendment Application **(March 31, 2026)****\xA0
+
+On March 31, 2026 Council adopted the _Vancouver Official Development Plan (__ODP)._\xA0This rezoning application proposes to amend the _ODP_ to change the Generalized Land Use (GLU) designation from Mixed-Use High-Rise 1 to Mixed-Use High-Rise 2.
+
+**Revised Application (March 2, 2026)**
+
+The City of Vancouver has received a revised rezoning application for 1745 West 8th Avenue. The zoning would change from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The application was revised in response to the staff review. Key changes from the original application include:
+
+*   A 31-storey and 29-storey mixed-use building;
+*   432 strata units;
+*   98 social housing units;
+*   Commercial-retail space;
+*   A 37-space childcare;
+*   A floor space ratio (FSR) of 8.56;
+*   Building heights up to 104 m (342 ft.).
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_.
+
+**Original Application (July 17, 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 28-storey and a 29-storey mixed-use building, and includes:
+
+*   421 strata units;
+*   107 social housing units;
+*   Live-work space;
+*   An approximate 50-space childcare;
+*   A floor space ratio (FSR) of 8.5; and
+*   Building heights up to 91.4 m (300 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This rezoning application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1752739200,endDate:1752739200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:176112e4,endDate:1762243200},{taskDescription:`Revised Application`,taskType:`Revised Application`,startDate:1772438400,endDate:1772438400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1779177600,endDate:1779177600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780473600,endDate:1780473600}],storeys:31,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1745-w-8th-ave`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.265107,longitude:-123.143951,major:!0,approvalStatus:`Approved`},{primaryStreetName:`605-695 SE Marine Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ594_c43`,applicationDate:1789138916,addresses:[`605-695 SE Marine Dr`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/605-695-se-marine-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.211289,longitude:-123.09258},{primaryStreetName:`8530 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ595_9af`,applicationDate:1785225600,addresses:[`8530 Cambie St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/605-695-se-marine-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.211289,longitude:-123.09258},{primaryStreetName:`8530 Cambie St`,applicant:`PCI Developments LP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ595_9af`,applicationDate:1751011200,addresses:[`8530 Cambie St`,`8530-8550 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8530-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.20872,longitude:-123.115934,approvalStatus:`Approved`},{primaryStreetName:`1366 W 12th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ596_255`,applicationDate:1761206400,addresses:[`1366 W 12th Ave`],status:`ACTIVE`,purpose:`
+Approved July 28, 2026
+The City of Vancouver has received an application to rezone the subject site from I-2 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two 43-storey towers, one 10-storey tower, and one seven-storey tower over a shared three-storey podium and includes:
+
+*   1,000 rental units, with 20% of the floor area for below-market units;
+*   Industrial space on the first and second level;
+*   Commercial space and a rooftop park on level three;
+*   A private childcare facility;
+*   A private senior’s centre;
+*   A floor space ratio (FSR) of 5.33; and
+*   A range in building heights from 44.1 m (144.7 ft.) to 137.7 m (451 ft.).
+
+This application is being considered under the\xA0_[_Metro 2050_(External link)](https://metrovancouver.org/services/regional-planning/Documents/metro-2050.pdf "https://metrovancouver.org/services/regional-planning/documents/metro-2050.pdf")_\xA0clause to consider residential uses in Employment Lands within 200 metres of a rapid transit station and within a Frequent Transit Development Area.
+
+Other applicable policies include the\xA0_[_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf "https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf"), [_Marine Landing Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-marine-landing-updates.pdf "https://guidelines.vancouver.ca/policy-rezoning-marine-landing-updates.pdf"),_\xA0and\xA0_[_The Rezoning Policy for Sustainable Large Developments_(External link)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjatLi6wfmOAxVpIDQIHUOiOUoQFnoECCAQAQ&url=https%3A%2F%2Fguidelines.vancouver.ca%2Fpolicy-rezoning-sustainable-large-developments.pdf&usg=AOvVaw29pktf7GtQI6JsYwyla0W0&opi=89978449 "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahukewjatli6wfmoaxvpidqihuoiouoqfnoeccaqaq&url=https%3a%2f%2fguidelines.vancouver.ca%2fpolicy-rezoning-sustainable-large-developments.pdf&usg=aovvaw29pktf7gtqi6jsywyla0w0&opi=89978449")._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1751011200,endDate:1751011200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1761724800,endDate:1762934400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:43,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8530-cambie-st`},{docName:`I-2 District`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-2.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Metro 2025`,docURL:`https://metrovancouver.org/services/regional-planning/Documents/metro-2050.pdf`},{docName:`Marine Landing Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-marine-landing-updates.pdf`},{docName:`Marpole Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-marpole.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.20872,longitude:-123.115934,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1366 W 12th Ave`,applicant:`BFA Studio Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ596_255`,applicationDate:1720598400,addresses:[`1366 W 12th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved October 23, 2025`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1761206400,endDate:1761206400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1366-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1761206400,relatedPermits:[],latitude:49.260452,longitude:-123.135387,approvalStatus:`Approved`},{primaryStreetName:`3731-3743 W 4th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ596_555`,applicationDate:1780387200,addresses:[`3731-3743 W 4th Ave`,`1975 Alma St`],status:`ACTIVE`,purpose:`1975 Alma St
+Approved October 23, 2025
+The City of Vancouver has received an application to rezone the subject site from RM-3 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey rental building with a 4-storey podium and includes:
+
+*   180 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 60 m (197 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\xA0which permits a maximum of two towers per block in this area.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1720598400,endDate:1720598400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1744790400,endDate:1745913600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1758009600,endDate:1758009600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1761206400,endDate:1761206400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1761206400,endDate:1761206400}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1366-w-12-ave`},{docName:`RM-3 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.260452,longitude:-123.135387,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3731-3743 W 4th Ave`,applicant:`Third Space Properties Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ596_555`,applicationDate:1746777600,addresses:[`3731-3743 W 4th Ave`,`1975 Alma St`],status:`ACTIVE`,purpose:`1975 Alma St
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3731-3743-w-4th-ave-and-1975-alma-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.268916,longitude:-123.186354,approvalStatus:`Approved`},{primaryStreetName:`501-525 W Georgia St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ597_499`,applicationDate:1784793600,addresses:[`501-525 W Georgia St`,`619 Richards St`,`500 Dunsmuir St`],status:`ACTIVE`,purpose:`500 Dunsmuir St
+Approved June 2, 2026
+The City of Vancouver has received an application to rezone the subject site from C-2 (Commercial) District and RM-3A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey mixed-use rental\xA0building and includes:
+
+*   100 market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 3.82; and
+*   A building height of 23.4 m (76 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf). The application requests consideration of a 100% market rental building.
+
+The City’s Tenant Relocation and Protection Policy under the\xA0[_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)\xA0applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1746777600,endDate:1746777600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1758700800,endDate:1759824e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3731-3743-w-4th-ave-and-1975-alma-st`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`},{docName:`C-2 Zoning`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2.pdf`},{docName:`RM-3A Zoning`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3a.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.268916,longitude:-123.186354,major:!0,approvalStatus:`Approved`},{primaryStreetName:`501-525 W Georgia St`,applicant:`Henriquez Partners Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ597_499`,applicationDate:1749628800,addresses:[`501-525 W Georgia St`,`619 Richards St`,`500 Dunsmuir St`],status:`ACTIVE`,purpose:`500 Dunsmuir St
 Category: Market Rental Housing included
 Status: Approved
-Approved July 23, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/501-525-w-georgia-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784793600,relatedPermits:[],latitude:49.281675,longitude:-123.11607,approvalStatus:`Approved`},{primaryStreetName:`4088 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ597_5aa`,applicationDate:1776153600,addresses:[`4088 Granville St`],status:`ACTIVE`,purpose:`
+Approved July 23, 2026
+Rezoning Application Addendum (April 7, 2026)\xA0
+
+The City of Vancouver has received an addendum to the application to rezone the subject sites. The revised proposal includes consolidation of the subject site with [575-595 W Georgia Street and 620-692 Seymour Street](https://www.shapeyourcity.ca/575-595-w-georgia-st-and-620-692-seymour-st) and includes the existing north-south lane that separates the two sites. The overall proposed density for the consolidated site is 27.4 FSR. No changes to the height and uses are proposed. A monetary community amenity contribution is proposed. Amendments to the [338 Abbott Street](https://www.shapeyourcity.ca/388-abbott-st)[](https://www.shapeyourcity.ca/388-abbott-st) site have also been proposed.
+
+On March 31, 2026, Council adopted the _Vancouver Official Development Plan (ODP)._\xA0This application proposes to amend the _ODP_\xA0to change the Generalized Land Use (GLU) designation from Business District to Mixed-Use High-Rise 2.
+
+Standard rezoning notification will be provided in advance of Council consideration. Comments and questions are welcome at any time through the application review process.
+
+* * *
+
+Original application (June 11, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from the DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 79-storey (south) and a 63-storey (north) mixed-use residential building, and it includes:
+
+*   1,288 strata residential units and 273 rental\xA0residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 31.29; and
+*   A building height of 271.0 m (889 ft.) with additional height for rooftop amenity space.
+
+This application is being considered under the _[Downtown Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf)._\xA0
+
+This application is being processed and reviewed concurrently with the application to rezone [575-595 W Georgia St and 620-692 Seymour St](https://www.shapeyourcity.ca/575-595-w-georgia-st-and-620-692-seymour-st), & [388 Abbott St](https://www.shapeyourcity.ca/388-abbott-st). The application proposes to transfer ownership of the building at 388 Abbott Street to the City.
+
+**The rendering displays the applications for 501-525 W Georgia St, 619 Richards St, and 500 Dunsmuir St & 575-595 W Georgia St and 620-692 Seymour St.**\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749628800,endDate:1749628800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1763539200,endDate:1764662400},{taskDescription:`Rezoning addendum`,taskType:`Rezoning addendum`,startDate:1775548800,endDate:1775548800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1784793600,endDate:1784793600}],storeys:79,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/501-525-w-georgia-st`},{docName:`Downtown Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.281675,longitude:-123.11607,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4088 Granville St`,applicant:`Matthew Cheng Architect Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ597_5aa`,applicationDate:1739347200,addresses:[`4088 Granville St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved April 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4088-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1776153600,relatedPermits:[],latitude:49.249868,longitude:-123.138695,approvalStatus:`Approved`},{primaryStreetName:`501-525 W Georgia St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ597_c26`,applicationDate:1784793600,addresses:[`501-525 W Georgia St`,`619 Richards St`,`500 Dunsmuir St`],status:`ACTIVE`,purpose:`500 Dunsmuir St
+Approved April 14, 2026
+The City of Vancouver has received an application to rezone the subject site from FSD (First Shaughnessy) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of three 3-storey residential rental buildings and includes:
+
+*   31 units;
+*   A floor space ratio (FSR) of 1.21; and
+*   A building height of 13.7 m (45 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Secured Rental Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf).\xA0The application is compliant with the [_Heritage Conservation Area Official Development Plan_(External link)](https://bylaws.vancouver.ca/ODP/odp-heritage-conservation-area.pdf)\xA0and Council will make a decision on the application at a Council meeting instead of at a Public Hearing. For more information about this procedural change, please visit\xA0[_Provincial housing legislation_(External link)](https://vancouver.ca/people-programs/provincial-housing-legislation.aspx#odp).
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1739347200,endDate:1739347200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1749024e3,endDate:1750147200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1776153600,endDate:1776153600}],storeys:3,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4088-granville-st`},{docName:`First Shaughnessy District (FSD) District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-fsd.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`},{docName:`Heritage Conservation Area Official Development Plan`,docURL:`https://bylaws.vancouver.ca/ODP/odp-heritage-conservation-area.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.249868,longitude:-123.138695,approvalStatus:`Approved`},{primaryStreetName:`501-525 W Georgia St`,applicant:`Henriquez Partners Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ597_c26`,applicationDate:1749628800,addresses:[`501-525 W Georgia St`,`619 Richards St`,`500 Dunsmuir St`],status:`ACTIVE`,purpose:`500 Dunsmuir St
 Category: Strata Housing Included
 Status: Approved
-Approved July 23, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/501-525-w-georgia-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784793600,relatedPermits:[],latitude:49.281678,longitude:-123.116073,approvalStatus:`Approved`},{primaryStreetName:`575-595 W Georgia St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ598_8e7`,applicationDate:1789138916,addresses:[`575-595 W Georgia St`,`620-692 Seymour St`],status:`ACTIVE`,purpose:`620-692 Seymour St
+Approved July 23, 2026
+Rezoning Application Addendum (April 7, 2026)\xA0
+
+The City of Vancouver has received an addendum to the application to rezone the subject sites. The revised proposal includes consolidation of the subject site with [575-595 W Georgia Street and 620-692 Seymour Street](https://www.shapeyourcity.ca/575-595-w-georgia-st-and-620-692-seymour-st) and includes the existing north-south lane that separates the two sites. The overall proposed density for the consolidated site is 27.4 FSR. No changes to the height and uses are proposed. A monetary community amenity contribution is proposed. Amendments to the [338 Abbott Street](https://www.shapeyourcity.ca/388-abbott-st)[](https://www.shapeyourcity.ca/388-abbott-st) site have also been proposed.
+
+On March 31, 2026, Council adopted the _Vancouver Official Development Plan (ODP)._\xA0This application proposes to amend the _ODP_\xA0to change the Generalized Land Use (GLU) designation from Business District to Mixed-Use High-Rise 2.
+
+Standard rezoning notification will be provided in advance of Council consideration. Comments and questions are welcome at any time through the application review process.
+
+* * *
+
+Original application (June 11, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from the DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 79-storey (south) and a 63-storey (north) mixed-use residential building, and it includes:
+
+*   1,288 strata residential units and 273 rental\xA0residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 31.29; and
+*   A building height of 271.0 m (889 ft.) with additional height for rooftop amenity space.
+
+This application is being considered under the _[Downtown Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf)._\xA0
+
+This application is being processed and reviewed concurrently with the application to rezone [575-595 W Georgia St and 620-692 Seymour St](https://www.shapeyourcity.ca/575-595-w-georgia-st-and-620-692-seymour-st), & [388 Abbott St](https://www.shapeyourcity.ca/388-abbott-st). The application proposes to transfer ownership of the building at 388 Abbott Street to the City.
+
+**The rendering displays the applications for 501-525 W Georgia St, 619 Richards St, and 500 Dunsmuir St & 575-595 W Georgia St and 620-692 Seymour St.**\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749628800,endDate:1749628800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1763539200,endDate:1764662400},{taskDescription:`Rezoning addendum`,taskType:`Rezoning addendum`,startDate:1775548800,endDate:1775548800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1784793600,endDate:1784793600}],storeys:79,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/501-525-w-georgia-st`},{docName:`Downtown Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.281678,longitude:-123.116073,major:!0,approvalStatus:`Approved`},{primaryStreetName:`575-595 W Georgia St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ598_8e7`,applicationDate:1789138916,addresses:[`575-595 W Georgia St`,`620-692 Seymour St`],status:`ACTIVE`,purpose:`620-692 Seymour St
 Category: Office, commercial, or other land uses
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/575-595-w-georgia-st-and-620-692-seymour-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.281965,longitude:-123.116666},{primaryStreetName:`2233 W 3rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ598_c81`,applicationDate:1769500800,addresses:[`2233 W 3rd Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/575-595-w-georgia-st-and-620-692-seymour-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.281965,longitude:-123.116666},{primaryStreetName:`2233 W 3rd Ave`,applicant:`DA Architects + Planners`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ598_c81`,applicationDate:1743753600,addresses:[`2233 W 3rd Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved January 27, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1769500800,endDate:1769500800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2233-w-3rd-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1769500800,relatedPermits:[],latitude:49.269299,longitude:-123.155838,approvalStatus:`Approved`},{primaryStreetName:`388 Abbott St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ599_2e1`,applicationDate:1789138916,addresses:[`388 Abbott St`],status:`ACTIVE`,purpose:`
+Approved January 27, 2026
+**Update: Public Hearing will reconvene on **Tuesday, January 27**, 2026 at 3:00 pm**
+
+The City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey rental residential building and includes:
+
+*   131 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.50; and
+*   A building height of 52.5 m (172 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx)_ [(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx)[Broadway Plan(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx) [(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx)_[(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx)._
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Announcements
+
+June 26, 2025
+
+An updated\xA0[shadow study(External link)](https://rezoning.vancouver.ca/applications/2233-w-3rd-ave/revised-shadow-studies.pdf)\xA0is now available. This study replaces the previous version in the application booklet.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1684396800,endDate:1684396800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1743753600,endDate:1743753600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1749024e3,endDate:1750147200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1762243200,endDate:1762243200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1769500800,endDate:1769500800}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2233-w-3rd-ave`},{docName:`RM-4 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.269299,longitude:-123.155838,major:!0,approvalStatus:`Approved`},{primaryStreetName:`388 Abbott St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ599_2e1`,applicationDate:1789138916,addresses:[`388 Abbott St`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/388-abbott-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.282249,longitude:-123.106754},{primaryStreetName:`602-644 Kingsway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ599_d74`,applicationDate:1780387200,addresses:[`602-644 Kingsway`,`603-617 E 16th Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/388-abbott-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.282249,longitude:-123.106754},{primaryStreetName:`602-644 Kingsway`,applicant:`Perkins + Will Canada Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ599_d74`,applicationDate:1741248e3,addresses:[`602-644 Kingsway`,`603-617 E 16th Ave`,`602-646 Kingsway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/602-644-kingsway-and-603-617-e-16th-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.256786,longitude:-123.091055,approvalStatus:`Approved`},{primaryStreetName:`1613-1625 Nanaimo St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ600_523`,applicationDate:1770278400,addresses:[`1613-1625 Nanaimo St`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026
+**Revised Application (September 5, 2025)**
+
+The applicant has submitted a revised application. The changes include:
+
+*   Increased tower separation distance between the two towers
+*   Reduced building height to 50.3 m (165 ft.) for the North Tower, and 83.2 m and (273 ft.) for the South Tower
+*   Adjustments to the podium massing
+*   Revised unit layout on Levels 3 and 4 of the South Tower
+*   Unit count in the North Tower revised to 123 rental units
+
+* * *
+
+**Previous Application (March 6, 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from C-2C (Commercial) District to  
+CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two buildings as follows: a 14-storey mixed-use rental building with a one-storey podium (North Tower) and a 25-storey mixed-use rental building with a one-storey podium (South Tower). Additional details include:
+
+*   120 rental units (North Tower) and 207 rental units (South Tower) with\xA020% of the total residential floor area for below-market units;
+*   Commercial space on the ground floor;
+*   A private 20-space childcare facility;
+*   A floor space ratio (FSR) of 8.5; and
+*   A building height of 51.0 m (167 ft.) for the North Tower, and 84.1 m (276 ft.) for the South Tower.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://vancouver.ca/home-property-development/broadway-plan.aspx)._
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1741248e3,endDate:1741248e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1751443200,endDate:1752566400},{taskDescription:`Revised application`,taskType:`Revised application`,startDate:1757059200,endDate:1757059200},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1758096e3,endDate:1758096e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:25,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/602-644-kingsway-and-603-617-e-16th-ave`},{docName:`C-2C District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2c.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.256786,longitude:-123.091055,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1613-1625 Nanaimo St`,applicant:`JTA Development Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ600_523`,applicationDate:1742803200,addresses:[`1613-1625 Nanaimo St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1613-1625-nanaimo-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770278400,relatedPermits:[],latitude:49.270299,longitude:-123.056943,approvalStatus:`Approved`},{primaryStreetName:`1926-1978 E Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ600_806`,applicationDate:1789138916,addresses:[`1926-1978 E Broadway`],status:`ACTIVE`,purpose:`
+Approved February 5, 2026
+The City of Vancouver has received an application to rezone the subject site from C-1 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a five-storey mixed-use building and includes:
+
+*   23 rental residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 2.80; and
+*   A building height of 19 m (62 ft.).[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Grandview Woodland Community Plan(External link)](https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application Received`,taskType:`Application Received`,startDate:1742803200,endDate:1742803200},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1751443200,endDate:1752566400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770278400,endDate:1770278400},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770278400,endDate:1770278400}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1613-1625-nanaimo-st`},{docName:`C-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-1.pdf`},{docName:`Grandview Woodland Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.270299,longitude:-123.056943,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1926-1978 E Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ600_806`,applicationDate:1789138916,addresses:[`1926-1978 E Broadway`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1926-1978-e-broadway-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.262132,longitude:-123.064373},{primaryStreetName:`1926-1978 E Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ600_993`,applicationDate:1789138916,addresses:[`1926-1978 E Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1926-1978-e-broadway-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.262135,longitude:-123.064376},{primaryStreetName:`531-595 W 27th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ601_659`,applicationDate:1777968e3,addresses:[`531-595 W 27th Ave`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1926-1978-e-broadway-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.262135,longitude:-123.064376},{primaryStreetName:`531-595 W 27th Ave`,applicant:`Zail Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ601_659`,applicationDate:1753948800,addresses:[`531-595 W 27th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/531-595-w-27-ave-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.247488,longitude:-123.118216,approvalStatus:`Approved`},{primaryStreetName:`215 W 1st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ601_99a`,applicationDate:1772092800,addresses:[`215 W 1st Ave`],status:`ACTIVE`,purpose:`
+Approved May 5, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-8A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two six-storey rental residential buildings and includes:
+
+*   222 units;
+*   A floor space ratio (FSR) of 3.0; and
+*   A building height of 22.3 m (73 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy.(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)_\xA0This application does not propose below-market units as required by the Policy.  
+  
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1753948800,endDate:1753948800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:176112e4,endDate:1762243200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/531-595-w-27-ave-2`},{docName:`RM-8A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-8-8a.pdf`},{docName:`Transit Oriented Areas Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.247488,longitude:-123.118216,major:!0,approvalStatus:`Approved`},{primaryStreetName:`215 W 1st Ave`,applicant:`Vancouver School Board`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ601_99a`,applicationDate:1747814400,addresses:[`215 W 1st Ave`,`215 W 1st Ave Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Office, commercial, or other land uses
 Status: Approved
-Approved February 26, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/215-w-1-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772092800,relatedPermits:[],latitude:49.271339,longitude:-123.109885,approvalStatus:`Approved`},{primaryStreetName:`6507-6527 Maple St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ602_d09`,applicationDate:1770105600,addresses:[`6507-6527 Maple St`],status:`ACTIVE`,purpose:`
+Approved February 26, 2026
+The City of Vancouver has received a rezoning application to­­ amend CD-1 (454) for an increase in height from 13.5 m (44 ft.) to 18.8 m (62 ft.). The existing zoning allows for Institutional uses which includes School – Elementary or Secondary. The proposal is for the development of a four-storey elementary school building, which­ includes:
+
+*   6,000 sq. m (64,583 sq. ft.) for instructional areas including classrooms, gymnasium, and community facilities to accommodate 630 students;
+*   An activated rooftop space;
+*   A floor space ratio (FSR) of 3.0; and
+*   A building height of 18.8 m (62 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Southeast False Creek Official Development Plan(External link)](https://bylaws.vancouver.ca/odp/odp-southeast-false-creek.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**  
+  
+
+* * *
+
+Announcement
+
+(September 2025)  
+
+The rezoning application has recieved an addition:
+
+*   To better accommodate outdoor play space that will support the Olympic Village School, the Vancouver Board of Education (VBE) and the City of Vancouver (CoV) are negotiating an access agreement and improvements to the portion of Hinge Park outlined in red.
+*   These improvements are intended to meet the needs of the school during school hours, and invest in the park for use by the public.
+*   The improvements of this area will be to the satisfaction of the Park Board.
+*   The approximate area is 18,000 sq. ft.
+*   The Official Development Plan for Southeast False Creek provides for additional greenspace to be provided to the west of Olympic Village School (also known as Site 1A). A Map of Site 1A is noted below.
+*   There is currently no timeline for redevelopment of Site 1A, however, a considerable waterfront park will be part of the eventual phased development.
+
+\xA0The applicant has submitted a Transportation Assessment and Management Study (TAMS) as part of the application. The document is available for public review under the _Application Documents_ tab.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1747814400,endDate:1747814400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1752652800,endDate:1753776e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770883200,endDate:1770883200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800}],storeys:4,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/215-w-1-ave`},{docName:`CD-1 (454)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(454).pdf`},{docName:`Southeast False Creek Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-southeast-false-creek.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.271339,longitude:-123.109885,approvalStatus:`Approved`},{primaryStreetName:`6507-6527 Maple St`,applicant:`Matthew Cheng Architect Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ602_d09`,applicationDate:1740988800,addresses:[`6507-6527 Maple St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 3, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1770105600,endDate:1770105600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6507-6527-maple-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1770105600,relatedPermits:[],latitude:49.227007,longitude:-123.152762,approvalStatus:`Approved`},{primaryStreetName:`6212-6218 Ash St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ602_dbf`,applicationDate:1784016e3,addresses:[`6212-6218 Ash St`],status:`ACTIVE`,purpose:`
+Approved February 3, 2026
+The City of Vancouver has received an application to rezone the subject site from R1**\\-**1 (Residential Inclusive) District to\xA0[**RR-2B**(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf) (Residential Rental) District. The proposal includes:
+
+*   A five-storey rental building;
+*   A partial storey for rooftop amenity space (optional); and
+*   A floor space ratio (FSR) up to 2.40.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+The application is being considered under the [_Secured Rental Policy_(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf) (Section 2.4 Rezonings in Low-Density Transition Areas).
+
+If approved, this site's zoning will change to **RR-2B**. Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning. It allows for a simplified rezoning process and provides greater clarity and consistency on the types of new secured rental buildings that may be built in eligible low-density areas.
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Rezoning Policy Background
+--------------------------
+
+On December 14, 2021, Council approved amendments to the Secured Rental Policy (SRP) to allow simplified rezonings in low-density areas near shopping, public transportation and other amenities. This policy is intended to help:
+
+*   Increase housing choice for renter households
+*   Streamline processes and clarifying policy requirements
+*   Diversify rental housing options
+*   Respond to the City’s Climate Emergency
+*   Help enhance local shopping areas
+*   Improving livability of rental housing
+
+Learn more about:
+
+*   [Secured Rental Policy(External link)](https://vancouver.ca/people-programs/creating-new-market-rental-housing.aspx)
+*   [Public feedback during the development of SRP(External link)](https://council.vancouver.ca/20211102/documents/phea1report.pdf#page=242)
+*   [How SRP helps deliver key objectives of the Housing Vancouver Strategy(External link)](https://vancouver.ca/people-programs/housing-vancouver-strategy.aspx)
+*   [Sites eligible for rezoning in low-density transition areas (map included)(External link)](https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf#page=3)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1740988800,endDate:1740988800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1768896e3,endDate:1768896e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1770105600,endDate:1770105600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1770105600,endDate:1770105600}],storeys:5,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6507-6527-maple-st`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`RR-2B District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`Residential Rental Design Guidelines`,docURL:`https://guidelines.vancouver.ca/guidelines-rr-districts.pdf`},{docName:`Secured Rental Policy`,docURL:`https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf`},{docName:`Secured Rental Policy Low-Density Transition Areas Rezoning Guide`,docURL:`https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.227007,longitude:-123.152762,major:!0,approvalStatus:`Approved`},{primaryStreetName:`6212-6218 Ash St`,applicant:`Matthew Cheng Architect Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ602_dbf`,applicationDate:1749628800,addresses:[`6212-6218 Ash St`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6212-6218-ash-st-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.228905,longitude:-123.117496,approvalStatus:`Approved`},{primaryStreetName:`6212-6218 Ash St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ602_e00`,applicationDate:1784016e3,addresses:[`6212-6218 Ash St`],status:`ACTIVE`,purpose:`
+Approved July 14, 2026
+**Revised Application (April 2026)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-8A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 6-storey mixed-use building and includes:
+
+*   30 rental units with 20% of the floor area as below-market units;
+*   Childcare space on the ground floor and within the mezzanine level;
+*   A floor space ratio (FSR) of 3.4; and
+*   A building height of 21 m (70 ft.).
+
+This application is being considered under the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf) and _Transit-Oriented Areas Rezoning Policy__._
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0[_vancouver.ca/protecting-tenants._(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**Previous Application (June 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-8A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an eight-storey mixed-use building and includes:
+
+*   40 rental units with 20% of the floor area as below-market units;
+*   Childcare space on the ground floor;
+*   A floor space ratio (FSR) of 4.0; and
+*   A building height of 29.9 m (98 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the __[**Cambie Corridor Plan**(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)__ and __[**Transit-Oriented Areas Rezoning Policy**](http://Transit-Oriented%20Areas%20Rezoning%20Policy)___._
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749628800,endDate:1749628800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1760515200,endDate:1761638400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3}],storeys:8,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6212-6218-ash-st-2`},{docName:`RM-8 and RM-8A`,docURL:`https://guidelines.vancouver.ca/guidelines-rm-8-8a.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.228905,longitude:-123.117496,major:!0,approvalStatus:`Approved`},{primaryStreetName:`6212-6218 Ash St`,applicant:`Matthew Cheng Architect Inc`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ602_e00`,applicationDate:1749628800,addresses:[`6212-6218 Ash St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6212-6218-ash-st-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.228908,longitude:-123.117499,approvalStatus:`Approved`},{primaryStreetName:`809 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ603_cda`,applicationDate:1784188800,addresses:[`809 W 41st Ave`],status:`ACTIVE`,purpose:`
+Approved July 14, 2026
+**Revised Application (April 2026)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-8A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 6-storey mixed-use building and includes:
+
+*   30 rental units with 20% of the floor area as below-market units;
+*   Childcare space on the ground floor and within the mezzanine level;
+*   A floor space ratio (FSR) of 3.4; and
+*   A building height of 21 m (70 ft.).
+
+This application is being considered under the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf) and _Transit-Oriented Areas Rezoning Policy__._
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0[_vancouver.ca/protecting-tenants._(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**Previous Application (June 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from RM-8A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an eight-storey mixed-use building and includes:
+
+*   40 rental units with 20% of the floor area as below-market units;
+*   Childcare space on the ground floor;
+*   A floor space ratio (FSR) of 4.0; and
+*   A building height of 29.9 m (98 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the __[**Cambie Corridor Plan**(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)__ and __[**Transit-Oriented Areas Rezoning Policy**](http://Transit-Oriented%20Areas%20Rezoning%20Policy)___._
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749628800,endDate:1749628800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1760515200,endDate:1761638400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3}],storeys:8,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6212-6218-ash-st-2`},{docName:`RM-8 and RM-8A`,docURL:`https://guidelines.vancouver.ca/guidelines-rm-8-8a.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.228908,longitude:-123.117499,major:!0,approvalStatus:`Approved`},{primaryStreetName:`809 W 41st Ave`,applicant:`Arno Matis Architecture + Urbanism Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ603_cda`,applicationDate:1746e6,addresses:[`809 W 41st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 16, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784188800,endDate:1784188800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/809-w-41-ave-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784188800,relatedPermits:[],latitude:49.234406,longitude:-123.124128,approvalStatus:`Approved`},{primaryStreetName:`2170 W 3rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ603_e81`,applicationDate:1780387200,addresses:[`2170 W 3rd Ave`],status:`ACTIVE`,purpose:`
+Approved July 16, 2026
+**Revised Application (February 4, 2026):**
+
+The City of Vancouver has received a revised proposal to amend the 809 W 41st Avenue site CD-1 (34) (Comprehensive Development) District to allow for the development of a 32-storey mixed-use building, and includes:
+
+*   305 market rental units;
+*   Commercial space, allowing for private childcare on the 7th floor;
+*   Office space on the 7th floor;
+*   A floor space ratio (FSR) of 14.32; and
+*   A building height of 99.2 m (325 ft.), with additional height for a rooftop amenity.
+
+The revised proposal includes a decrease to the proposed density and height, and an increase in employment space.
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)._ The application requests consideration of density and height in excess of the existing policies.
+
+* * *
+
+**Previous** **Application (April 30, 2025):**
+
+The City of Vancouver has received an application to amend the subject site CD-1 (34) (Comprehensive Development) District. The proposal is to allow for the development of a 37-storey mixed-use rental building and includes:
+
+*   402 market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 16.15; and
+*   A building height of 112.17 m (368 ft), with additional height for a two-storey rooftop amenity.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)._ The application requests consideration of density and height in excess of the existing policies.
+
+* * *
+
+**Previous Approved Application (March 5, 2021):**
+
+A previous application was approved by Council at Public Hearing on June 21, 2022 - [https://www.shapeyourcity.ca/809-w-41-ave](https://www.shapeyourcity.ca/809-w-41-ave), but has been withdrawn.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1746e6,endDate:1746e6},{taskDescription:`Revised application`,taskType:`Revised application`,startDate:1770192e3,endDate:1770192e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1772611200,endDate:1773734400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1780387200,endDate:1780387200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784188800,endDate:1784188800},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1784188800,endDate:1784188800}],storeys:37,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/809-w-41-ave-2`},{docName:`CD-1 (34) District Schedule`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(034).pdf`},{docName:`Transit-Oriented Areas Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`Oakridge Transit Centre and Adjunct Sites Policy Statement`,docURL:`https://guidelines.vancouver.ca/policy-statement-oakridge-transit-centre-adjacent-sites.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.234406,longitude:-123.124128,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2170 W 3rd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ603_e81`,applicationDate:1780387200,addresses:[`2170 W 3rd Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2170-w-3-ave `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.268906,longitude:-123.154416,approvalStatus:`Approved`},{primaryStreetName:`1668 W Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ604_a8b`,applicationDate:1780387200,addresses:[`1668 W Broadway`],status:`ACTIVE`,purpose:`
+Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2170-w-3-ave `}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.268906,longitude:-123.154416,approvalStatus:`Approved`},{primaryStreetName:`1668 W Broadway`,applicant:`W.T. Leung Architects Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ604_a8b`,applicationDate:1744790400,addresses:[`1668 W Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved June 2, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1668-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1780387200,relatedPermits:[],latitude:49.263594,longitude:-123.142272,approvalStatus:`Approved`},{primaryStreetName:`5590 Victoria Drive`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ605_3d9`,applicationDate:1776153600,addresses:[`5590 Victoria Drive`,`2005 E40th Ave`],status:`ACTIVE`,purpose:`2005 E40th Ave
+Approved June 2, 2026
+**Update: “An additional question and answer period has been scheduled due to a notification error. This question-and-answer period will be scheduled for February 25 to March 13, 2026.”**
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 26-storey mixed-use rental building with a two-storey podium, and includes:
+
+*   208 units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 8.6; and
+*   A building height of 81.0 m (265 ft.).
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1744790400,endDate:1744790400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1752652800,endDate:1753776e3},{taskDescription:`Additional Q&A period`,taskType:`Additional Q&A period`,startDate:1772006400,endDate:1773388800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1780387200,endDate:1780387200},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1780387200,endDate:1780387200}],storeys:26,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1668-w-broadway`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.263594,longitude:-123.142272,major:!0,approvalStatus:`Approved`},{primaryStreetName:`5590 Victoria Drive`,applicant:`JTA Developments Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ605_3d9`,applicationDate:1752825600,addresses:[`5590 Victoria Drive`,`2005 E40th Ave`,`5590 Victoria Dr`,`2005 E 40th Ave Text Amendment`],status:`ACTIVE`,purpose:`2005 E40th Ave
 Category: Market Rental Housing included
 Status: Approved
-Approved April 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5590-victoria-dr-and-2005-e-40-ave-ta`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1776153600,relatedPermits:[],latitude:49.2341,longitude:-123.065226,approvalStatus:`Approved`},{primaryStreetName:`5590 Victoria Drive`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ605_5b8`,applicationDate:1776153600,addresses:[`5590 Victoria Drive`,`2005 E40th Ave`],status:`ACTIVE`,purpose:`2005 E40th Ave
+Approved April 14, 2026
+**Revised application (October 1, 2025):**
+
+The applicant has submitted a revised proposal. The proposed changes are to replace 30% of the dwelling units to be occupied by households with incomes below housing income limits (HILs) with 100% of the units at market rents.
+
+**Previous application (July 18, 2025):**
+
+The City of Vancouver has received an application to amend CD-1 (839) to permit a change in the residential affordability and to increase the density. The changes include:
+
+*   Replacing 30% of the dwelling units to be occupied by households with incomes below housing income limits (HILs) with 20% of the residential floor area for below-market rental units. This generates a total of 51 rental units with 20% of the residential floor area for below-market rental units; and
+*   An increase in the floor space ratio (FSR) from 3.49 to 3.5.
+
+The previously approved application is linked here: [](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[https://www.shapeyourcity.ca/5590-victoria-dr](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")
+
+This application is being considered under the _[Secured Rental Policy.(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf "https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf")_
+
+_[(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf "https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf")[(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf "https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf")_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1752825600,endDate:1752825600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5590-victoria-dr-and-2005-e-40-ave-ta`},{docName:`CD-1 (839)`,docURL:`https://bylaws.vancouver.ca/consolidated/13493.pdf`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.2341,longitude:-123.065226,approvalStatus:`Approved`},{primaryStreetName:`5590 Victoria Drive`,applicant:`JTA Developments Consultants`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ605_5b8`,applicationDate:1752825600,addresses:[`5590 Victoria Drive`,`2005 E40th Ave`,`5590 Victoria Dr`,`2005 E 40th Ave Text Amendment`],status:`ACTIVE`,purpose:`2005 E40th Ave
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
-Approved April 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5590-victoria-dr-and-2005-e-40-ave-ta`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1776153600,relatedPermits:[],latitude:49.234097,longitude:-123.065223,approvalStatus:`Approved`},{primaryStreetName:`1880-1898 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ606_9f9`,applicationDate:1779177600,addresses:[`1880-1898 Main St`,`Lorne St`],status:`ACTIVE`,purpose:`Lorne St
+Approved April 14, 2026
+**Revised application (October 1, 2025):**
+
+The applicant has submitted a revised proposal. The proposed changes are to replace 30% of the dwelling units to be occupied by households with incomes below housing income limits (HILs) with 100% of the units at market rents.
+
+**Previous application (July 18, 2025):**
+
+The City of Vancouver has received an application to amend CD-1 (839) to permit a change in the residential affordability and to increase the density. The changes include:
+
+*   Replacing 30% of the dwelling units to be occupied by households with incomes below housing income limits (HILs) with 20% of the residential floor area for below-market rental units. This generates a total of 51 rental units with 20% of the residential floor area for below-market rental units; and
+*   An increase in the floor space ratio (FSR) from 3.49 to 3.5.
+
+The previously approved application is linked here: [](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[https://www.shapeyourcity.ca/5590-victoria-dr](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")[](https://www.shapeyourcity.ca/5590-victoria-dr "https://www.shapeyourcity.ca/5590-victoria-dr")
+
+This application is being considered under the _[Secured Rental Policy.(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf "https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf")_
+
+_[(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf "https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf")[(External link)](https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf "https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf")_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1752825600,endDate:1752825600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1776153600,endDate:1776153600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1776153600,endDate:1776153600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5590-victoria-dr-and-2005-e-40-ave-ta`},{docName:`CD-1 (839)`,docURL:`https://bylaws.vancouver.ca/consolidated/13493.pdf`},{docName:`Secured Rental Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.234097,longitude:-123.065223,approvalStatus:`Approved`},{primaryStreetName:`1880-1898 Main St`,applicant:`Cressey (Main) Development LLP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ606_9f9`,applicationDate:1748592e3,addresses:[`1880-1898 Main St`,`Lorne St`,`1851 Lorne St -`],status:`ACTIVE`,purpose:`Lorne St
 Category: Market Rental Housing included
 Status: Approved
-Approved May 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1880-1898-main-st-and-1851-lorne-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1779177600,relatedPermits:[],latitude:49.268858,longitude:-123.100248,approvalStatus:`Approved`},{primaryStreetName:`304-316 E 1st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ607_77b`,applicationDate:1784016e3,addresses:[`304-316 E 1st Ave`],status:`ACTIVE`,purpose:`
+Approved May 19, 2026
+Update to application (April 23, 2026):
+
+The proposed density has increased from 7.3 to 8.0 FSR. The additional density is proposed to be incorporated in the building podium. No additional height is proposed.
+
+* * *
+
+Original application (May 30, 2025):
+
+The City of Vancouver has received an application to rezone the subject site from IC-1 (Industrial) District to CD-1 (Comprehensive Development) District.
+
+The proposal is to allow for the development of an 18-storey mixed-use rental building, and includes:
+
+*   185 units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 7.31; and
+*   A building height of 53.7 m (176.16 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+**In December 2025, Council approved a two-year, time-limited [Rental Development Relief Program(External link)](https://vancouver.ca/files/cov/rental-development-relief-program.pdf) to improve the viability of rental projects. This project is eligible and has applied to reduce the affordability requirements.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1748592e3,endDate:1748592e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1757491200,endDate:1758614400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1779177600,endDate:1779177600}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1880-1898-main-st-and-1851-lorne-st`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`IC-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ic-1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.268858,longitude:-123.100248,major:!0,approvalStatus:`Approved`},{primaryStreetName:`304-316 E 1st Ave`,applicant:`MCMP Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ607_77b`,applicationDate:1754467200,addresses:[`304-316 E 1st Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/304-316-e-1-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.268073,longitude:-123.097124,approvalStatus:`Approved`},{primaryStreetName:`6333-6369 Yukon St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ608_ec6`,applicationDate:1784793600,addresses:[`6333-6369 Yukon St`],status:`ACTIVE`,purpose:`
+Approved July 14, 2026
+**Revised Application (March 26, 2026)**
+
+The applicant has submitted an updated proposal to increase the height from 23 to 26 storeys, and in increase in density from 9.8 to 11.7 FSR. A total of 217 units are proposed, with 20% of the floor area for below-market rental units. Commercial space is proposed on the ground floor.
+
+**Rezoning Application (August 6, 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from IC-3 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 22-storey mixed-use rental residential building with a two-storey podium and includes:
+
+*   181 units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 9.8; and
+*   A building height of 70.9 m (232 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf) and requests additional height and density in excess of the existing plan_._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1754467200,endDate:1754467200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1764144e3,endDate:1765267200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:26,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/304-316-e-1-ave`},{docName:`IC-3 District schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ic-3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.268073,longitude:-123.097124,major:!0,approvalStatus:`Approved`},{primaryStreetName:`6333-6369 Yukon St`,applicant:`Soheil Khosravi Kermani Architecture Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ608_ec6`,applicationDate:1740643200,addresses:[`6333-6369 Yukon St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 23, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6333-6369-yukon-st-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784793600,relatedPermits:[],latitude:49.227566,longitude:-123.115028,approvalStatus:`Approved`},{primaryStreetName:`2396-2400 Kingsway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ609_8ad`,applicationDate:1789138916,addresses:[`2396-2400 Kingsway`,`2441-2493 E 33rd Ave`],status:`ACTIVE`,purpose:`2441-2493 E 33rd Ave
+Approved July 23, 2026
+Announcement (April 13, 2026)
+
+In December 2025, Council approved a two-year, time-limited, Rental Development Relief Program to improve the viability of rental projects. This project is eligible and has applied to reduce the affordability requirements.
+
+* * *
+
+Application (February 25, 2026)
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 23-storey rental building with a 6-storey podium and includes:
+
+*   276 units with 20% of the floor area for below-market units;
+*   A floor space ratio (FSR) of 6.5; and
+*   A building height of 82.3 m (270 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1740643200,endDate:1740643200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1757491200,endDate:1758614400},{taskDescription:`Urban design panel`,taskType:`Urban design panel`,startDate:1760515200,endDate:1760515200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1780387200,endDate:1780387200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1784793600,endDate:1784793600}],storeys:23,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6333-6369-yukon-st-2`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.227566,longitude:-123.115028,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2396-2400 Kingsway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ609_8ad`,applicationDate:1789138916,addresses:[`2396-2400 Kingsway`,`2441-2493 E 33rd Ave`],status:`ACTIVE`,purpose:`2441-2493 E 33rd Ave
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2396-2400-kingsway-and-2441-2493-e-33-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.241507,longitude:-123.056548},{primaryStreetName:`2345-2349 Main St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ611_1d4`,applicationDate:1785312e3,addresses:[`2345-2349 Main St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2396-2400-kingsway-and-2441-2493-e-33-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.241507,longitude:-123.056548},{primaryStreetName:`2345-2349 Main St`,applicant:`Align Architecture Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ611_1d4`,applicationDate:1749715200,addresses:[`2345-2349 Main St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 29, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2345-2349-main-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785312e3,relatedPermits:[],latitude:49.264268,longitude:-123.101181,approvalStatus:`Approved`},{primaryStreetName:`365-395 W Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ612_339`,applicationDate:1784016e3,addresses:[`365-395 W Broadway`],status:`ACTIVE`,purpose:`
+Approved July 29, 2026
+The City of Vancouver has\xA0received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 26-storey mixed-use building with a 2-storey podium and heritage retention, and includes:
+
+*   315 student housing and dormitory units;
+*   Commercial space on the ground floor;
+*   3 levels of underground cultural spaces (expansion of Goh Ballet)
+*   A floor space ratio (FSR) of 21.3;
+*   A building height of 67.9 m (223 ft.) with additional height for rooftop amenity space; and
+*   Retention of the Royal Bank Heritage Building (Vancouver Heritage Register).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf) and requests consideration of density and height in excess of the existing policy.
+
+_The site includes a heritage building at 2345 Main Street, and as such, the City’s Heritage Program and Heritage Policies apply. The application proposes retention of the street façades along Main Street and East 8th Avenue for what was originally built as the Royal Bank building (Vancouver Heritage Register)._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+  
+
+* * *
+
+Announcements  
+August 25, 2025  
+  
+Rezoning Booklet and Architectural Drawings have been reposted with updated Shadow studies and Tower separation analysis.`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749715200,endDate:1749715200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:176112e4,endDate:1762243200},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1761724800,endDate:1761724800},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],storeys:26,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2345-2349-main-st`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.264268,longitude:-123.101181,major:!0,approvalStatus:`Approved`},{primaryStreetName:`365-395 W Broadway`,applicant:`Perkins+Will Canada Architects Co.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ612_339`,applicationDate:1747814400,addresses:[`365-395 W Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/365-395-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.263381,longitude:-123.112653,approvalStatus:`Approved`},{primaryStreetName:`2516 Commercial Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ613_792`,applicationDate:1784793600,addresses:[`2516 Commercial Dr`,`1704 E Broadway`],status:`ACTIVE`,purpose:`1704 E Broadway
+Approved July 14, 2026
+**Revised Application (January 22, 2026)**
+
+The City of Vancouver has received a revised application to increase the density and increase the residential units. Additionally, the form of development has been revised, and second floor office space has been removed. The revised proposal now includes:
+
+*   196 secured rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 22.04; and
+*   A building height of 103.6m (340 ft) or 33 stories.
+
+**Rezoning Application (May 21, 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 32-storey mixed-use rental building, and includes:
+
+*   176 units;
+*   Commercial space on the ground floor;
+*   Office space on the second floor;
+*   A floor space ratio (FSR) of 20.7; and
+*   A building height of 103.6m (340 ft) or 32 stories
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1747814400,endDate:1747814400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1760515200,endDate:1761638400},{taskDescription:`Revised Application`,taskType:`Revised Application`,startDate:1769068800,endDate:1769068800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3}],storeys:33,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/365-395-w-broadway`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/48701/widgets/216668/documents/164035`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/48701/widgets/216668/documents/164036`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/48701/widgets/216668/documents/164037`},{docName:`Architectural drawings`,docURL:`https://www.shapeyourcity.ca/48701/widgets/216668/documents/164198`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.263381,longitude:-123.112653,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2516 Commercial Dr`,applicant:`DA Architects + Planners Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ613_792`,applicationDate:1753084800,addresses:[`2516 Commercial Dr`,`1704 E Broadway`],status:`ACTIVE`,purpose:`1704 E Broadway
 Category: Market Rental Housing included
 Status: Approved
-Approved July 23, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2516-commercial-dr-and-1704-e-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784793600,relatedPermits:[],latitude:49.262302,longitude:-123.069522,approvalStatus:`Approved`},{primaryStreetName:`3553-3563 E Hastings Street`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ614_a91`,applicationDate:1772697600,addresses:[`3553-3563 E Hastings Street`],status:`ACTIVE`,purpose:`
+Approved July 23, 2026
+Update to Application (May 14, 2026):
+
+The City of Vancouver has received an update to the application. The proposal now includes one storey of community serving space on the 3rd floor, proposed as a long-term lease to the City. The 4th floor is now proposed as general office use. No other changes to the application are proposed.
+
+* * *
+
+  
+
+Original application (July 21, 2025):
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 31-storey mixed-use rental building with a four-storey podium, and includes:
+
+*   207 units;
+*   Commercial space on the ground floor;
+*   Two storeys of community space on the 3rd and 4th floors, proposed as a long-term lease to the City;
+*   A floor space ratio (FSR) of 14.75; and
+*   A building height of 124.3 m (408 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy Plan(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf) and_\xA0_[Grandview-Woodland Community Plan(External link)](https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf)._\xA0It requests consideration of density and height in excess of the existing policy.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1753084800,endDate:1753084800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1761724800,endDate:1762848e3},{taskDescription:`Update to application`,taskType:`Update to application`,startDate:1778745600,endDate:1778745600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1784793600,endDate:1784793600}],storeys:31,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2516-commercial-dr-and-1704-e-broadway`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Grandview-Woodland Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy Plan`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262302,longitude:-123.069522,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3553-3563 E Hastings Street`,applicant:`PCI Developments`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ614_a91`,applicationDate:1749628800,addresses:[`3553-3563 E Hastings Street`,`3553-3563 E Hastings St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved March 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3553-e-hastings-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772697600,relatedPermits:[],latitude:49.281411,longitude:-123.02714,approvalStatus:`Approved`},{primaryStreetName:`3553-3563 E Hastings Street`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ614_bd4`,applicationDate:1772697600,addresses:[`3553-3563 E Hastings Street`],status:`ACTIVE`,purpose:`
+Approved March 5, 2026
+Due to the Canada Post Strike, we were unable to send out postcard notifications to inform the public about this upcoming Q&A scheduled from October 1st to October 14th, 2025. We apologize for any inconvenience this may cause and appreciate your understanding.
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from C-2C1 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey mixed-use building with a four-storey podium and includes:
+
+*   178 rental units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 8.45; and
+*   A building height of 59.7 m (196 ft.), with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)._\xA0The application requests consideration of height and density in excess of the existing policy.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749628800,endDate:1749628800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1759305600,endDate:1760428800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772697600,endDate:1772697600}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3553-e-hastings-st`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`C-2C1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2c1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.281411,longitude:-123.02714,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3553-3563 E Hastings Street`,applicant:`PCI Developments`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ614_bd4`,applicationDate:1749628800,addresses:[`3553-3563 E Hastings Street`,`3553-3563 E Hastings St`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
-Approved March 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3553-e-hastings-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772697600,relatedPermits:[],latitude:49.281408,longitude:-123.027137,approvalStatus:`Approved`},{primaryStreetName:`8427-8483 Cambie Street`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ615_e1a`,applicationDate:1785225600,addresses:[`8427-8483 Cambie Street`],status:`ACTIVE`,purpose:`
+Approved March 5, 2026
+Due to the Canada Post Strike, we were unable to send out postcard notifications to inform the public about this upcoming Q&A scheduled from October 1st to October 14th, 2025. We apologize for any inconvenience this may cause and appreciate your understanding.
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from C-2C1 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey mixed-use building with a four-storey podium and includes:
+
+*   178 rental units with 20% of the floor area for below-market rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 8.45; and
+*   A building height of 59.7 m (196 ft.), with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)._\xA0The application requests consideration of height and density in excess of the existing policy.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749628800,endDate:1749628800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1759305600,endDate:1760428800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772697600,endDate:1772697600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772697600,endDate:1772697600}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3553-e-hastings-st`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`C-2C1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2c1.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.281408,longitude:-123.027137,major:!0,approvalStatus:`Approved`},{primaryStreetName:`8427-8483 Cambie Street`,applicant:`Francl Architecture`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ615_e1a`,applicationDate:1749542400,addresses:[`8427-8483 Cambie Street`,`8427-8483 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8427-8483-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.208976,longitude:-123.117581,approvalStatus:`Approved`},{primaryStreetName:`935-955 W 57th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ616_e2d`,applicationDate:1789138916,addresses:[`935-955 W 57th Ave`,`7225-7255 Laurel St`],status:`ACTIVE`,purpose:`7225-7255 Laurel St
+Approved July 28, 2026
+The City of Vancouver has received an application to rezone the subject site from RT-2 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 37-storey mixed-use building with a 5-storey podium, and includes:
+
+*   330 strata units;
+*   Commercial space on the ground floor;
+*   55 social housing units, or an equivalent cash-in lieu payment which will be used to deliver off-site social housing.
+*   A floor space ratio (FSR) of 7.73; and
+*   A building height of 117 m (384 ft.).
+
+This application is being considered under the _[Marine Landing Policy Updates(External link)](https://guidelines.vancouver.ca/policy-rezoning-marine-landing-updates.pdf)_.
+
+**_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protection to eligible renters impacted by redevelopment activity. To learn more, visit:_**\xA0[**_vancouver.ca/protecting-tenants._**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect "https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect")
+
+**Application drawings and statistics are posted as submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749542400,endDate:1749542400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1761724800,endDate:1762848e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:37,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8427-8483-cambie-st`},{docName:`RT-2 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-2.pdf`},{docName:`Marpole Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-marpole.pdf`},{docName:`Marine Landing Policy Updates`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-marine-landing-updates.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.208976,longitude:-123.117581,major:!0,approvalStatus:`Approved`},{primaryStreetName:`935-955 W 57th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ616_e2d`,applicationDate:1789138916,addresses:[`935-955 W 57th Ave`,`7225-7255 Laurel St`],status:`ACTIVE`,purpose:`7225-7255 Laurel St
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/935-955-w-57-ave-7225-7255-laurel-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.219573,longitude:-123.126676},{primaryStreetName:`717-743 W 28th Ave (Primary Address 717 W 28th Avenue)`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ617_604`,applicationDate:1779177600,addresses:[`717-743 W 28th Ave (Primary Address 717 W 28th Avenue)`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/935-955-w-57-ave-7225-7255-laurel-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.219573,longitude:-123.126676},{primaryStreetName:`717-743 W 28th Ave (Primary Address 717 W 28th Avenue)`,applicant:`Soheil Khosravi Kermani Architecture Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ617_604`,applicationDate:1740643200,addresses:[`717-743 W 28th Ave (Primary Address 717 W 28th Avenue)`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/717-w-28-ave-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1779177600,relatedPermits:[],latitude:49.246856,longitude:-123.120887,approvalStatus:`Approved`},{primaryStreetName:`3575 Sawmill Cres`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ618_d0a`,applicationDate:177192e4,addresses:[`3575 Sawmill Cres`,`8711 River District Crossing`,`3522 E Kent Ave S`],status:`ACTIVE`,purpose:`3522 E Kent Ave S
+Approved May 19, 2026
+**Due to the Canada Post Strike, we were unable to send out postcard notifications to inform the public about this upcoming Q&A scheduled from October 8th to October 21st, 2025. We apologize for any inconvenience this may cause and appreciate your understanding.**\xA0
+
+**Update, August 22, 2025:**\xA0
+
+**Updated drawings have been submitted.**
+
+  
+
+The City of Vancouver has received an application to rezone the subject site from RM-8A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey rental residential building and includes:
+
+*   94 units;
+*   A floor space ratio (FSR) of 3.0; and
+*   A building height of 18.3 m (60 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Transit-Oriented Areas Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)_._ The application requests consideration of a 100% market rental building.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1740643200,endDate:1740643200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1759910400,endDate:1761033600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1779177600,endDate:1779177600}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/717-w-28-ave-2`},{docName:`Transit Oriented Areas Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`RM-8A Policy`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-8-8a.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.246856,longitude:-123.120887,major:!0,approvalStatus:`Approved`},{primaryStreetName:`3575 Sawmill Cres`,applicant:`Wesgroup Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ618_d0a`,applicationDate:1752739200,addresses:[`3575 Sawmill Cres`,`8711 River District Crossing`,`3522 E Kent Ave S`,`East Fraser Lands Town Square: 3575 Sawmill Cres (Parcel 19.1)`,`East Fraser Lands Waterfront Precinct: 8711 River District Crossing (Parcel 30)`,`3522 E Kent Ave S (Parcels 33`,`34`,`Parcels 35`,`36)`],status:`ACTIVE`,purpose:`3522 E Kent Ave S
 Category: Market Rental Housing included
 Status: Approved
-Approved February 24, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:177192e4,endDate:177192e4}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3522-e-kent-ave-s-8711-river-dist-crossing`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:177192e4,relatedPermits:[],latitude:49.20624,longitude:-123.028585,approvalStatus:`Approved`},{primaryStreetName:`325-343 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ619_ff5`,applicationDate:1772092800,addresses:[`325-343 W 41st Ave`,`5696 Alberta St`],status:`ACTIVE`,purpose:`5696 Alberta St
+Approved February 24, 2026
+The proposal seeks to amend [CD-1 (566)(External link)](https://cd1-bylaws.vancouver.ca/CD-1\\(566\\).pdf): East Fraser Lands Town Square District and [CD-1 (567)(External link)](https://cd1-bylaws.vancouver.ca/CD-1\\(567\\).pdf): East Fraser Lands Waterfront Precinct of the East Fraser Lands. Consequential amendments to the _East Fraser Lands Official Development Plan_ will be required. The application proposes to:
+
+*   Permit above-grade parking on Parcels 19.1, 33/34 and 35/36;
+*   Transfer the affordable/social housing obligation from Parcel 34 to a stand-alone site on Parcel 30;
+*   Transfer rental density from Parcel 33/34 to Parcel 19.1;
+*   Update the maximum building height:
+    *   Parcel 19.1, increase from 18 to 26 storeys
+    *   Parcel 30, decrease from 22 to 6 storeys
+    *   Parcel 33/34, increase from 23 to 34 storeys
+    *   Parcel 35/36, increase from 16 to 22 storeys; and
+*   Correct the 'live-work' use provisions in CD-1 (567).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+No changes to the overall permitted floor area is proposed; however, the density will be redistributed between the sites, with the floor area allocated to below-grade parking being accommodated within the podium levels and additional height proposed for some towers to accommodate the permitted residential floor area. Please see the 'Application documents' for more information.
+
+This application is being considered under the\xA0[_East Fraser Lands Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-east-fraser-lands.pdf) (EFL ODP).
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1752739200,endDate:1752739200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1757491200,endDate:1758614400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:177192e4,endDate:177192e4},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:177192e4,endDate:177192e4}],storeys:34,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3522-e-kent-ave-s-8711-river-dist-crossing`},{docName:`East Fraser Lands Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-east-fraser-lands.pdf`},{docName:`CD-1 (566)`,docURL:`https://cd1-bylaws.vancouver.ca/CD-1(566).pdf`},{docName:`CD-1 (567)`,docURL:`https://cd1-bylaws.vancouver.ca/CD-1(567).pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.20624,longitude:-123.028585,major:!0,approvalStatus:`Approved`},{primaryStreetName:`325-343 W 41st Ave`,applicant:`Cambie 41st West Limited Partnership (Owner)`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ619_ff5`,applicationDate:1747987200,addresses:[`325-343 W 41st Ave`,`5696 Alberta St`,`5696 Alberta St Text Amendment`],status:`ACTIVE`,purpose:`5696 Alberta St
 Category: Market Rental Housing included
 Status: Approved
-Approved February 26, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/325-343-w-41-ave-and-5696-alberta-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772092800,relatedPermits:[],latitude:49.233751,longitude:-123.113192,approvalStatus:`Approved`},{primaryStreetName:`375-475 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ620_895`,applicationDate:1772092800,addresses:[`375-475 W 41st Ave`],status:`ACTIVE`,purpose:`
+Approved February 26, 2026
+The City of Vancouver has received an application to amend the CD-1 (893) (Comprehensive Development) District to permit an increase in density, height, number of storeys, and floor area of a 10-storey rental building with a four-storey podium.
+
+*   Increase in FSR from 5.42 to 6.75;
+*   Increase height from 36 m (118 ft.) to 44.8 m (147 ft.);
+*   Increase in the number of storeys from 10 to 13; and
+*   Additional floor area is approximately 3636 sq. m. (39,140 sq. ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Cambie Corridor Plan(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)._\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1747987200,endDate:1747987200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1761724800,endDate:1762848e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772092800,endDate:1772092800}],storeys:10,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/325-343-w-41-ave-and-5696-alberta-st`},{docName:`CD-1 (893)`,docURL:`https://bylaws.vancouver.ca/consolidated/14263.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.233751,longitude:-123.113192,major:!0,approvalStatus:`Approved`},{primaryStreetName:`375-475 W 41st Ave`,applicant:`Cambie 41st West Limited Partnership (Owner)`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ620_895`,applicationDate:1747987200,addresses:[`375-475 W 41st Ave`,`357-475 W 41st Ave Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 26, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/375-475-w-41-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772092800,relatedPermits:[],latitude:49.233849,longitude:-123.115197,approvalStatus:`Approved`},{primaryStreetName:`39-65 Smithe St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ621_3b8`,applicationDate:1771315200,addresses:[`39-65 Smithe St`],status:`ACTIVE`,purpose:`
+Approved February 26, 2026
+The City of Vancouver has received an application to amend the CD-1 (878) (Comprehensive Development) District to permit an increase in density, height, number of storeys, and floor area.
+
+*   Increase the number of residential units from 437 to 497;
+*   Increase in FSR from 6.32 to 7.1;
+*   Increase height from 69.5 m (228 ft.) to 78.0 m (256 ft.); and
+*   Increase in the number of storeys from 23 to 26 (tower 1) and 15 to 18 (tower 2);
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Cambie Corridor Plan(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)._\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1747987200,endDate:1747987200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1761724800,endDate:1762848e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772092800,endDate:1772092800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/375-475-w-41-ave`},{docName:`CD-1 (878)`,docURL:`https://bylaws.vancouver.ca/consolidated/14166.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.233849,longitude:-123.115197,major:!0,approvalStatus:`Approved`},{primaryStreetName:`39-65 Smithe St`,applicant:`Social Purpose & Engagement`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ621_3b8`,applicationDate:1749024e3,addresses:[`39-65 Smithe St`,`39-65 Smithe St Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 17, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1771315200,endDate:1771315200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/39-65-smithe-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1771315200,relatedPermits:[],latitude:49.275929,longitude:-123.112976,approvalStatus:`Approved`},{primaryStreetName:`1305-1325 W 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ624_54c`,applicationDate:1789138916,addresses:[`1305-1325 W 13th Ave`],status:`ACTIVE`,purpose:`
+Approved February 17, 2026
+The City of Vancouver has received an application to amend the CD-1 (519) (Comprehensive Development) District By-law Section 4\xA0to increase the maximum permitted slot machines from 600 to 900. The proposal contains no changes to the form of development. The application is being considered under the existing CD-1 (519) District By-Law and the BC Gaming Control Act.
+
+Please note that in addition to the consultation process provided on Shape your City, additional processes may apply pursuant to the Gaming Control Act, including with other municipalities, and xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), səlilwətaɬ (Tsleil‑Waututh) Nations in accordance with the Gaming Control Act.
+
+**Application materials are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1749024e3,endDate:1749024e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1758700800,endDate:1759824e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1771315200,endDate:1771315200},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1771315200,endDate:1771315200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/39-65-smithe-st`},{docName:`CD-1 (519)`,docURL:`https://cd1-bylaws.vancouver.ca/CD-1(519).pdf`},{docName:`BC Gaming Control Act`,docURL:`https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/02014_01`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.275929,longitude:-123.112976,approvalStatus:`Approved`},{primaryStreetName:`1305-1325 W 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ624_54c`,applicationDate:1789138916,addresses:[`1305-1325 W 13th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1305-1325-w-13-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.260184,longitude:-123.134271},{primaryStreetName:`1305-1325 W 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ624_ce4`,applicationDate:1789138916,addresses:[`1305-1325 W 13th Ave`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1305-1325-w-13-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.260181,longitude:-123.134268},{primaryStreetName:`2808-2888 E Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ625_637`,applicationDate:1784620800,addresses:[`2808-2888 E Broadway`,`2813-2881 E 10th Ave`,`2528-2580 Kaslo St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1305-1325-w-13-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.260181,longitude:-123.134268},{primaryStreetName:`2808-2888 E Broadway`,applicant:`Sightline Properties Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ625_637`,applicationDate:1787212800,addresses:[`2808-2888 E Broadway`,`2813-2881 E 10th Ave`,`2528-2580 Kaslo St`],status:`ACTIVE`,purpose:`
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2808-2888-e-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.262298,longitude:-123.046738,approvalStatus:`Approved`},{primaryStreetName:`2808-2888 E Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ625_fee`,applicationDate:1784620800,addresses:[`2808-2888 E Broadway`,`2813-2881 E 10th Ave`,`2528-2580 Kaslo St`],status:`ACTIVE`,purpose:`
+Approved July 21, 2026
+**This application was approved by Council on July 21, 2026, following the Council Meetings on July 14 and 16, 2026.**
+
+  
+
+(Revised application: August 20, 2026)
+
+The City of Vancouver has received an application to revise the approved but not yet enacted CD-1 (RTS 18693) to subdivide the land into four parcels.
+
+The current proposal is for four 39-45-storey mixed-use buildings, and includes:
+
+*   1,959 residential units; with
+*   1,386 strata units;
+*   573 rental units with 20% of the floor area for below-market units;
+*   Commercial space, a 73-space private child care, and amenities on the ground floor;
+*   A floor space ratio (FSR) of 10.5; and
+*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).
+
+This application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)._  
+  
+_No form of development changes are proposed._
+
+_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_
+
+* * *
+
+(Original application: June 2, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District.
+
+The proposal is to allow for the development of four 39-45-storey mixed-use buildings, and includes:
+
+*   1,959 residential units; with
+*   1,386 strata units;
+*   573 rental units with 20% of the floor area for below-market units;
+*   Commercial space, a 73-space private child care, and amenities on the ground floor;
+*   A floor space ratio (FSR) of 10.5; and
+*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)_ as a new Unique Site. Proposals for Unique Sites are expected to undertake a more comprehensive development review and consultation process, given their larger scale and complexity.
+
+__**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**_ **_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_**_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+  
+
+**Update, November 19, 2025:**
+
+**Requested boards from the open house are now posted on this website.**
+
+  
+
+**Update, November 28, 2025:**
+
+**Landscape drawings have been updated.**
+
+  
+
+**Update, December 22, 2025:**
+
+**Minor inconsistencies within the rezoning booklet for building heights and building grades were addressed.**
+
+**Update, August 20, 2026:**
+
+**Revised application was received to subdivide the site.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1748851200,endDate:1748851200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1762934400,endDate:1764057600},{taskDescription:`Information Session - Sunrise Community Association Hall, 1950 Windermere St (4:00pm to 7:00pm)`,taskType:`Information Session - Sunrise Community Association Hall, 1950 Windermere St (4:00pm to 7:00pm)`,startDate:1763452800,endDate:1763452800},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1764144e3,endDate:1764144e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1787212800,endDate:1787212800}],storeys:45,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2808-2888-e-broadway`},{docName:`Open house boards`,docURL:`https://www.shapeyourcity.ca/49357/widgets/214568/documents/162218`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/49357/widgets/226385/documents/173135`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/49357/widgets/226385/documents/173136`},{docName:`R1-1`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`Rupert Renfrew Station Area Plan`,docURL:`https://www.shapeyourcity.ca/rupert-renfrew-station-area-plan`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262298,longitude:-123.046738,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2808-2888 E Broadway`,applicant:`Sightline Properties Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ625_fee`,applicationDate:1787212800,addresses:[`2808-2888 E Broadway`,`2813-2881 E 10th Ave`,`2528-2580 Kaslo St`],status:`ACTIVE`,purpose:`
 Category: Strata Housing Included
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2808-2888-e-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.262301,longitude:-123.046741,approvalStatus:`Approved`},{primaryStreetName:`1683-1691 E Pender St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ626_f98`,applicationDate:1784188800,addresses:[`1683-1691 E Pender St`,`485 Commercial Dr`],status:`ACTIVE`,purpose:`485 Commercial Dr
+Approved July 21, 2026
+**This application was approved by Council on July 21, 2026, following the Council Meetings on July 14 and 16, 2026.**
+
+  
+
+(Revised application: August 20, 2026)
+
+The City of Vancouver has received an application to revise the approved but not yet enacted CD-1 (RTS 18693) to subdivide the land into four parcels.
+
+The current proposal is for four 39-45-storey mixed-use buildings, and includes:
+
+*   1,959 residential units; with
+*   1,386 strata units;
+*   573 rental units with 20% of the floor area for below-market units;
+*   Commercial space, a 73-space private child care, and amenities on the ground floor;
+*   A floor space ratio (FSR) of 10.5; and
+*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).
+
+This application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)._  
+  
+_No form of development changes are proposed._
+
+_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_
+
+* * *
+
+(Original application: June 2, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District.
+
+The proposal is to allow for the development of four 39-45-storey mixed-use buildings, and includes:
+
+*   1,959 residential units; with
+*   1,386 strata units;
+*   573 rental units with 20% of the floor area for below-market units;
+*   Commercial space, a 73-space private child care, and amenities on the ground floor;
+*   A floor space ratio (FSR) of 10.5; and
+*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)_ as a new Unique Site. Proposals for Unique Sites are expected to undertake a more comprehensive development review and consultation process, given their larger scale and complexity.
+
+__**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**_ **_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_**_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+  
+
+**Update, November 19, 2025:**
+
+**Requested boards from the open house are now posted on this website.**
+
+  
+
+**Update, November 28, 2025:**
+
+**Landscape drawings have been updated.**
+
+  
+
+**Update, December 22, 2025:**
+
+**Minor inconsistencies within the rezoning booklet for building heights and building grades were addressed.**
+
+**Update, August 20, 2026:**
+
+**Revised application was received to subdivide the site.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1748851200,endDate:1748851200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1762934400,endDate:1764057600},{taskDescription:`Information Session - Sunrise Community Association Hall, 1950 Windermere St (4:00pm to 7:00pm)`,taskType:`Information Session - Sunrise Community Association Hall, 1950 Windermere St (4:00pm to 7:00pm)`,startDate:1763452800,endDate:1763452800},{taskDescription:`Urban Design Panel`,taskType:`Urban Design Panel`,startDate:1764144e3,endDate:1764144e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1787212800,endDate:1787212800}],storeys:45,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2808-2888-e-broadway`},{docName:`Open house boards`,docURL:`https://www.shapeyourcity.ca/49357/widgets/214568/documents/162218`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/49357/widgets/226385/documents/173135`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/49357/widgets/226385/documents/173136`},{docName:`R1-1`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`Rupert Renfrew Station Area Plan`,docURL:`https://www.shapeyourcity.ca/rupert-renfrew-station-area-plan`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.262301,longitude:-123.046741,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1683-1691 E Pender St`,applicant:`Cressey (East Pender) Development LLP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ626_f98`,applicationDate:1774598400,addresses:[`1683-1691 E Pender St`,`485 Commercial Dr`],status:`ACTIVE`,purpose:`485 Commercial Dr
 Category: Market Rental Housing included
 Status: Approved
-Approved July 16, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784188800,endDate:1784188800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1683-1691-e-pender-and-485-commercial-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784188800,relatedPermits:[],latitude:49.280701,longitude:-123.0712,approvalStatus:`Approved`},{primaryStreetName:`888 W Broadway Text Amendment`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ628_fbf`,applicationDate:1772092800,addresses:[`888 W Broadway Text Amendment`],status:`ACTIVE`,purpose:`
+Approved July 16, 2026
+Revised application (March 27, 2026)
+
+The City of Vancouver has received a revised rezoning application for 1683-1691 E Pender St and 485 Commercial Dr. The proposal is to allow for the development of two buildings and includes:
+
+*   A 22-storey residential rental building with a height of 71.1 m (233 ft.) and 236 secured market rental units;
+*   A six-storey mixed-use building with a height of 21.3 m (70 ft.) with 40 social housing units and a Social Service Centre; and
+*   A total floor space ratio (FSR) of 7.75.
+
+Key Changes include:
+
+*   Increasing separation between the two buildings to improve liveability;
+*   Reducing the density from 7.9 FSR to 7.75 FSR;
+*   Three less market rental units and one less social housing unit;
+*   Tower floorplate of the market tower reduced from 7,750 sq. ft. to 7,567 sq. ft.; and
+*   Changes to amenity areas.
+
+This application is being considered under the [_Grandview-Woodland Community Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf)\xA0and requests additional height and density in excess of the existing plan.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Original application (August 25, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from MC-1 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of two buildings and includes:
+
+*   A 22-storey residential rental building with a height of 71.1 m (233 ft.) and 239 secured market rental units;
+*   A six-storey mixed-use building with a height of 21.3 m (70 ft.) with 41 social housing units and a Social Service Centre; and
+*   A total floor space ratio (FSR) of 7.9.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Grandview-Woodland Community Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf)\xA0and requests additional height and density in excess of the existing plan.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1756108800,endDate:1756108800},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1762329600,endDate:1763452800},{taskDescription:`Revised application received`,taskType:`Revised application received`,startDate:1774598400,endDate:1774598400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1780387200,endDate:1780387200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784188800,endDate:1784188800},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1784188800,endDate:1784188800}],storeys:22,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1683-1691-e-pender-and-485-commercial-dr`},{docName:`MC-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-mc-1-2.pdf`},{docName:`Grandview-Woodland Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.280701,longitude:-123.0712,major:!0,approvalStatus:`Approved`},{primaryStreetName:`888 W Broadway Text Amendment`,applicant:`Henriquez Partners Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ628_fbf`,applicationDate:1756368e3,addresses:[`888 W Broadway Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 26, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/888-w-broadway-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1772092800,relatedPermits:[],latitude:49.263377,longitude:-123.122819,approvalStatus:`Approved`},{primaryStreetName:`4911-5255 Heather St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ629_65a`,applicationDate:1774944e3,addresses:[`4911-5255 Heather St`,`637-657 W 37th Ave`,`620-689 W 35th Ave`],status:`ACTIVE`,purpose:`(Heather Lands)
+Approved February 26, 2026
+The City of Vancouver has received an application to amend the CD-1 (843) (Comprehensive Development) District to permit a change of use for the development of two buildings (15 and 11 storeys) connected by a two-storey podium. The proposal includes:
+
+*   Changing the proposed use of the 11-storey (west) tower from hotel to residential to permit 105 secured rental units, including 20% of units (approximately 21) at below-market rates for a minimum of 10 years
+*   Keeping the 15-storey (east) tower as hotel use with 279 hotel rooms
+
+The overall maximum height of 51 m (167 ft), FSR of 8.96, and commercial space on the ground floor permitted in [CD-1 (843)(External link)](https://bylaws.vancouver.ca/consolidated/13588.PDF) are not proposed to be changed.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1756368e3,endDate:1756368e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1763539200,endDate:1764662400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1772092800,endDate:1772092800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772092800,endDate:1772092800}],storeys:15,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/888-w-broadway-2`},{docName:`CD-1 (843)`,docURL:`https://bylaws.vancouver.ca/consolidated/13588.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.263377,longitude:-123.122819,major:!0,approvalStatus:`Approved`},{primaryStreetName:`4911-5255 Heather St`,applicant:`RR Planning`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ629_65a`,applicationDate:1758268800,addresses:[`4911-5255 Heather St`,`637-657 W 37th Ave`,`620-689 W 35th Ave`],status:`ACTIVE`,purpose:`(Heather Lands)
 Category: Market Rental Housing included
 Status: Approved
-Approved March 31, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1774944e3,endDate:1774944e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4911-5255-heather-637-657-w-37-ave-and-620-689-w-35-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1774944e3,relatedPermits:[],latitude:49.239289,longitude:-123.121314,approvalStatus:`Approved`},{primaryStreetName:`1444 Alberni St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ630_c97`,applicationDate:1785225600,addresses:[`1444 Alberni St`,`740 Nicola St`],status:`ACTIVE`,purpose:`740 Nicola St
+Approved March 31, 2026
+Announcement
+
+A community information session is scheduled for **Thursday, November 20, 2025 from 5:30 pm to 8:00 pm at VanDusen Botanical Garden Floral Hall (5251 Oak St).** City Staff and the applicant team will be available to answer any questions and provide information on the proposal.
+
+We would like your feedback on a rezoning application submitted by xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), səlilwətaɬ (Tsleil-Waututh) (MST Nations) and Aquilini Development, collectively referred to as MSTA. This proposal builds on and if approved, would replace the [previous rezoning application](https://www.shapeyourcity.ca/heather-lands) approved by Council at a Public Hearing on May 24, 2022.
+
+* * *
+
+Application
+
+The rezoning proposal is for the redevelopment of the 21-acre master plan site. The application is for 16 buildings between 4 and 46 storeys, a childcare facility, school, park and public open space, retail space, a cultural centre, and attainable leasehold ownership housing units under the provincial Attainable Housing Initiative (AHI). The application includes:
+
+*   317,861 sq. m (3,421,428 sq. ft.) of gross floor area;
+*   210,707 sq. m (2,268,029 sq. ft.) of AHI housing, equal to approximately 2,937 units;
+*   47,535 sq. m (511,660 sq. ft.) of market leasehold strata, equal to approximately 701 units;
+*   44,349 sq. m (477,370 sq. ft.) of social housing, equal to approximately 612 units;
+*   5,825 sq. m (62,696 sq. ft.) of retail space;
+*   A 929 sq. m (10,000 sq. ft.) Musqueam, Squamish, and Tsleil-Waututh (MST) Cultural Centre;
+*   A 125-space childcare facility;
+*   One acre parcel for a school, to be leased to the Conseil Scolaire Francophone (CSF);
+*   Four acres of park and open space; and
+*   A maximum building height of 141 m (463 ft.).
+
+The application is being considered under the [_Heather Lands Policy Statement_(External link)](https://vancouver.ca/files/cov/heather-lands-policy-statement.pdf).
+
+Please note that a previous rezoning of the Heather Lands site was approved by Council in May 2022, the details of which are available [here](http://www.shapeyourcity.ca/heather-lands). The 2025 rezoning application retains the parcels, street networks, and parks from the 2022 rezoning. Key changes from this previous version include:
+
+*   Additional building heights and floor area to support the [Attainable Housing Initiative (AHI)(External link)](https://www2.gov.bc.ca/gov/content/housing-tenancy/strata-housing/attainable-housing-initiative-heather-lands);
+*   Podium heights have been reduced and with more simplified forms;
+*   Expanded the childcare centre from 74 to 125 spaces; and
+*   A smaller Cultural Centre space with flexibility to support a variety of activities.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1758268800,endDate:1758268800},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1762934400,endDate:1764057600},{taskDescription:`In-person Information session`,taskType:`In-person Information session`,startDate:1763625600,endDate:1763625600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1772697600,endDate:1772697600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1774944e3,endDate:1774944e3}],storeys:46,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/4911-5255-heather-637-657-w-37-ave-and-620-689-w-35-ave`},{docName:`CD-1 (80)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(080).PDF`},{docName:`CD-1 (881)`,docURL:`https://bylaws.vancouver.ca/consolidated/14247.PDF`},{docName:`Heather Lands Policy Statement (2018)`,docURL:`https://guidelines.vancouver.ca/policy-statement-heather-lands.pdf`},{docName:`Attainable Housing Initiative Heather Lands`,docURL:`https://www2.gov.bc.ca/gov/content/housing-tenancy/strata-housing/attainable-housing-initiative-heather-lands`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.239289,longitude:-123.121314,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1444 Alberni St`,applicant:`Pooni Group`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ630_c97`,applicationDate:1752048e3,addresses:[`1444 Alberni St`,`740 Nicola St`,`Application to Revise Rezoning in Advance of Enactment 1444 Alberni St`],status:`ACTIVE`,purpose:`740 Nicola St
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1444-alberni-st-and-740-nicola-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.288886,longitude:-123.129768,approvalStatus:`Approved`},{primaryStreetName:`888-896 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ631_233`,applicationDate:1778140800,addresses:[`888-896 Cambie St`],status:`ACTIVE`,purpose:`
+Approved July 28, 2026
+The City of Vancouver has received an application to amend the approved CD-1 (Comprehensive Development District) draft By-law in advance of enactment to permit the conversion of floor area originally intended for rental residential housing into social housing. This conversion corresponds to a reduction in the offered cash CAC which is converted to in-kind CAC in the form of social housing. As a result, the total number of market rental housing units would decrease from 129 to 78. The addition of a 51 social housing unit obligation is proposed to replace a portion of the cash-in-lieu payment secured in the original rezoning. The application has been amended and proposes to retain Passive House Certification requirements as established in the original rezoning process.
+
+The proposal is to allow for the enactment of a CD-1 By-law which allows for a 48-storey and a 43-storey mixed-use building with a six-storey podium and includes:
+
+*   443 residential units;
+*   51 social housing units, 78 rental units, and 314 strata-titled units;
+*   A floor space ratio (FSR) of 14.48;
+*   A building height of 135.2 m (444 ft.); and[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_West End Community Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-west-end.pdf).
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1752048e3,endDate:1752048e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1762934400,endDate:1764057600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:48,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1444-alberni-st-and-740-nicola-st`},{docName:`West End Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-west-end.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.288886,longitude:-123.129768,major:!0,approvalStatus:`Approved`},{primaryStreetName:`888-896 Cambie St`,applicant:`Nonni Property Group`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ631_233`,applicationDate:1778140800,addresses:[`888-896 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 7, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1778140800,endDate:1778140800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/888-896-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1778140800,relatedPermits:[],latitude:49.277332,longitude:-123.115309,approvalStatus:`Approved`},{primaryStreetName:`816-860 W 13th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ632_719`,applicationDate:1771488e3,addresses:[`816-860 W 13th Ave`,`2915-2925 Willow St`],status:`ACTIVE`,purpose:`2915-2925 Willow St
+Approved May 7, 2026
+The City of Vancouver has received an application to rezone the subject site from DD (Downtown) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 29-storey mixed-use development building with an eight-storey podium and includes:
+
+*   165 rental residential units on levels fourteen to twenty-nine;
+*   Hotel use (246 hotel units) on levels one to thirteen;
+*   Commercial space on the ground floor;
+*   Site includes two heritage buildings:
+    *   888 Cambie St
+    *   896 Cambie St
+*   Façade retention of heritage building at 888 Cambie St;
+*   A floor space ratio (FSR) of 19.77; and
+*   A building height of 86.9 m (285 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Downtown Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-downtown.pdf) and [Rezoning Policy for the Central Business District (CBD) and CBD Shoulder.(External link)](https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application Intake`,taskType:`Application Intake`,startDate:1747814400,endDate:1747814400},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1767772800,endDate:1768896e3},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1776153600,endDate:1776153600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1778140800,endDate:1778140800}],storeys:29,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/888-896-cambie-st`},{docName:`Downtown District (DD) Schedule`,docURL:`https://bylaws.vancouver.ca/odp/odp-downtown.pdf`},{docName:`Rezoning Policy for the Central Business District (CBD) and CBD Shoulder`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.277332,longitude:-123.115309,major:!0,approvalStatus:`Approved`},{primaryStreetName:`816-860 W 13th Ave`,applicant:`PC Urban (13th and Willow) Holdings Corp`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ632_719`,applicationDate:1771488e3,addresses:[`816-860 W 13th Ave`,`2915-2925 Willow St`],status:`ACTIVE`,purpose:`2915-2925 Willow St
 Category: Market Rental Housing included
 Status: Approved
-Approved February 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1771488e3,endDate:1771488e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/816-860-w-13-ave-and-2915-2925-willow-st-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1771488e3,relatedPermits:[{relatedPermitID:`RZ341_719`,relatedPermitType:`Rezoning`}],latitude:49.259332,longitude:-123.122662,approvalStatus:`Approved`},{primaryStreetName:`2538 Birch Street`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ633_991`,applicationDate:1784793600,addresses:[`2538 Birch Street`],status:`ACTIVE`,purpose:`(formerly 1296 West Broadway)
+Approved February 19, 2026
+The City of Vancouver has received an application to amend the approved CD-1 (Comprehensive Development District) draft by-law. The proposal is to provide dedicated workforce housing for Vancouver Coastal Health (VCH) and Vancouver General Hospital (VGH) staff within two 21-storey buildings and includes:
+
+*   Increasing the total rental units from 354 to 507 and modifying the unit mix to support dedicated workforce housing for VCH and VGH staff
+*   Modifying the affordability requirements for the below-market rental units from 20% of the residential floor area at 20% below city-wide average market rents to 100% of units at discounted rents aligned with the Westside Area Development Cost Levy (DCL) rates.
+
+The proposed changes would not result in any significant impacts to the approved form of development, height or density, and the 49-space private childcare facility will remain. The previously approved application is linked [here](https://www.shapeyourcity.ca/816-860-w-13-ave-and-2915-2925-willow-st).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application Intake`,taskType:`Application Intake`,startDate:1760428800,endDate:1760428800},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1764748800,endDate:1765267200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1771488e3,endDate:1771488e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1771488e3,endDate:1771488e3}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/816-860-w-13-ave-and-2915-2925-willow-st-2`},{docName:`R3 Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r3.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[{relatedPermitID:`RZ341_719`,relatedPermitType:`Rezoning`}],latitude:49.259332,longitude:-123.122662,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2538 Birch Street`,applicant:`Arcadis Architects (Canada) Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ633_991`,applicationDate:1763625600,addresses:[`2538 Birch Street`,`2538 Birch Street (Formerly 1296 West Broadway)`],status:`ACTIVE`,purpose:`(formerly 1296 West Broadway)
 Category: Market Rental Housing included
 Status: Approved
-Approved July 23, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2538-birch`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784793600,relatedPermits:[],latitude:49.263494,longitude:-123.133313,approvalStatus:`Approved`},{primaryStreetName:`1031-1039 Burnaby St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ634_a90`,applicationDate:1785312e3,addresses:[`1031-1039 Burnaby St`],status:`ACTIVE`,purpose:`
+Approved July 23, 2026
+Revised Application (April 27, 2026)
+
+The City of Vancouver has received a revised rezoning application to amend the CD-1 (708) (Comprehensive Development) District By-law, which allows for the development of a 28-storey mixed-use building. The revised amendment includes:
+
+*   Adding 202 hotel units;
+*   Removing 200 market rental housing units;
+*   Providing 56 Moderate Income Rental Housing Units;
+*   Adding a childcare facility; and
+*   A decrease in retail area.
+
+Key changes in the revised application include:
+
+*   Changing the land use for the originally proposed 200 Temporary Accommodation for Medical Care units to 202 Hotel units; and
+*   Proposing 56 Moderate Income Rental Housing Units (two less from original application), while maintaining the same total floor area for the Moderate Income Rental Housing Units.
+
+The building is currently under construction. No changes to the form of development are proposed.
+
+This application is considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+The previously approved application is linked here: [Rezoning Application, 2538 Birch Street(External link)](https://wayback.archive-it.org/8849/20211021195634/https:/rezoning.vancouver.ca/applications/2538birch/index.htm)[(External link)](https://wayback.archive-it.org/8849/20211021195634/https:/rezoning.vancouver.ca/applications/2538birch/index.htm)_[(External link)](https://wayback.archive-it.org/8849/20211021195634/https:/rezoning.vancouver.ca/applications/2538birch/index.htm)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**
+
+* * *
+
+Original Application (November 20, 2025)
+
+The City of Vancouver has received an application to amend the CD-1 (708) (Comprehensive Development) District By-law, which allows for the development of a 28-storey mixed-use building. The amendment includes:
+
+*   Adding 200 Temporary Accommodation for Medical Care units;
+*   Removing 200 market rental housing units;
+*   Adding a childcare facility;\xA0
+*   An increase in amenity area; and\xA0
+*   A decrease of approximately 27.9 sq. m (300 sq. ft.) in retail area.
+
+Temporary Accommodation for Medical Care units provide temporary accommodation for out-of-town individuals seeking medical care at local health facilities. The building will continue to provide 58 Moderate Income Rental Housing Units. No changes to the form of development, including height and density, are proposed.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+The application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+The previously approved application is linked here: [Rezoning Application, 2538 Birch Street(External link)](https://wayback.archive-it.org/8849/20211021195634/https:/rezoning.vancouver.ca/applications/2538birch/index.htm)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1763625600,endDate:1763625600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1764748800,endDate:1765267200},{taskDescription:`Revised submission received`,taskType:`Revised submission received`,startDate:1777276800,endDate:1777276800},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1784793600,endDate:1784793600}],storeys:28,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2538-birch`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`CD-1 (708) by-law`,docURL:`https://cd1-bylaws.vancouver.ca/CD-1(708).pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.263494,longitude:-123.133313,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1031-1039 Burnaby St`,applicant:`Urban Solutions Architecture Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ634_a90`,applicationDate:1754035200,addresses:[`1031-1039 Burnaby St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 29, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1031-1039-burnaby`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785312e3,relatedPermits:[],latitude:49.279286,longitude:-123.131078,approvalStatus:`Approved`},{primaryStreetName:`5229-5249 Ash St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ635_100`,applicationDate:1785312e3,addresses:[`5229-5249 Ash St`],status:`ACTIVE`,purpose:`
+Approved July 29, 2026
+The City of Vancouver has received an application to rezone the subject site from RM-5A (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 32-storey\xA0rental\xA0residential building with a six-storey podium and includes:
+
+*   329 units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 12.23; and
+*   A building height of 90.2 m (296 ft.) with additional height for rooftop amenity space.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [West End Community Plan(External link)](https://guidelines.vancouver.ca/policy-plan-west-end.pdf)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1754035200,endDate:1754035200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1767772800,endDate:1768896e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],storeys:32,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1031-1039-burnaby`},{docName:`West End Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-west-end.pdf`},{docName:`RM-5A District schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-5-all-districts.pdf`},{docName:`Tenant Relocation Protection Policy`,docURL:`https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.279286,longitude:-123.131078,major:!0,approvalStatus:`Approved`},{primaryStreetName:`5229-5249 Ash St`,applicant:`Pennyfarthing`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ635_100`,applicationDate:1758009600,addresses:[`5229-5249 Ash St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 29, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5229-5249-ash-st-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785312e3,relatedPermits:[{relatedPermitID:`RZ429_d89`,relatedPermitType:`Rezoning`}],latitude:49.237659,longitude:-123.118102,approvalStatus:`Approved`},{primaryStreetName:`2406-2484 Renfrew St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ636_ab4`,applicationDate:1784620800,addresses:[`2406-2484 Renfrew St`],status:`ACTIVE`,purpose:`
+Approved July 29, 2026
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a six-storey\xA0residential rental building and includes:
+
+*   63 units;
+*   A floor space ratio (FSR) of 3.06; and
+*   A building height of 20.9 m (69 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Cambie Corridor Plan___.__(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf)_[(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1758009600,endDate:1758009600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1768377600,endDate:1769500800},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5229-5249-ash-st-2`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[{relatedPermitID:`RZ429_d89`,relatedPermitType:`Rezoning`}],latitude:49.237659,longitude:-123.118102,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2406-2484 Renfrew St`,applicant:`Easthill Development Limited Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ636_ab4`,applicationDate:1761984e3,addresses:[`2406-2484 Renfrew St`,`2406-2490 Renfrew St`,`2905-2911 E Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2406-2484-renfrew-st-1`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.263363,longitude:-123.043934,approvalStatus:`Approved`},{primaryStreetName:`75 E 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ637_9eb`,applicationDate:1785225600,addresses:[`75 E 8th Ave`],status:`ACTIVE`,purpose:`
+Approved July 21, 2026
+The City of Vancouver has received an application to rezone the subject site from CD-1 (846) District to a new CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 31-storey mixed-use residential building and a 6-storey mixed-use residential building, that includes:
+
+*   339 rental units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 7.5; and
+*   A building height of 97 m (318 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Rupert and Renfrew Station Area Plan(External link)](https://guidelines.vancouver.ca/policy-plan-rupert-renfrew.pdf)._\xA0
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1761984e3,endDate:1761984e3},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1769587200,endDate:1770710400},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],storeys:31,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2406-2484-renfrew-st-1`},{docName:`CD-1 (846)`,docURL:`https://bylaws.vancouver.ca/consolidated/13625.pdf`},{docName:`Rupert and Renfrew Station Area Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-rupert-renfrew.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.263363,longitude:-123.043934,major:!0,approvalStatus:`Approved`},{primaryStreetName:`75 E 8th Ave`,applicant:`MCM Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ637_9eb`,applicationDate:1761724800,addresses:[`75 E 8th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/75-e-8-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.264161,longitude:-123.103376,approvalStatus:`Approved`},{primaryStreetName:`456 Prior St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ638_0ca`,applicationDate:1771488e3,addresses:[`456 Prior St`],status:`ACTIVE`,purpose:`
+Approved July 28, 2026
+**Update, February 12, 2026: Staff are reviewing a high volume of questions submitted through the Q&A and will respond as soon as possible. Response times may exceed the standard two-day period.**\xA0
+
+**Update: The Q&A period has been extended to February 10, 2026.**\xA0
+
+The City of Vancouver has received an application to rezone the subject site from I-1 (Industrial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 21-storey mixed-use hotel building over a two-storey podium and includes:
+
+*   190 hotel units;
+*   Industrial space within the two-storey podium;
+*   A floor area of 12,860 sq. m (138,422 sq. ft.);
+*   A floor space ratio (FSR) of 11.5; and
+*   A building height of 102.2 m (335 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._ While a hotel is not anticipated at this location, the _Broadway Plan_ enables hotel developments at other locations in the Mount Pleasant Industrial Area.
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1761724800,endDate:1761724800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1768982400,endDate:1770710400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1780387200,endDate:1780387200},{taskDescription:`Public hearing`,taskType:`Public hearing`,startDate:1784188800,endDate:1784188800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/75-e-8-ave`},{docName:`I-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.264161,longitude:-123.103376,major:!0,approvalStatus:`Approved`},{primaryStreetName:`456 Prior St`,applicant:`Prior Street LP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ638_0ca`,applicationDate:1757491200,addresses:[`456 Prior St`,`450-496 Prior St`,`550 Malkin Ave`,`1002 Station St Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved February 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1771488e3,endDate:1771488e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/456-prior-ta`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1771488e3,relatedPermits:[],latitude:49.276501,longitude:-123.09465,approvalStatus:`Approved`},{primaryStreetName:`1795 W Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ639_cbd`,applicationDate:1785225600,addresses:[`1795 W Broadway`],status:`ACTIVE`,purpose:`
+Approved February 19, 2026
+The City of Vancouver has received an application to amend the CD-1 (915) (Comprehensive Development District) By-law to permit the subdivision of the site into two parcels. This amendment would allow the proposed development to proceed in two phases:
+
+_Phase 1_
+
+*   A 20-storey residential tower;
+*   321 market rental housing units;
+*   Cultural amenity space; and
+*   Ground-level commercial space.
+
+_Phase 2_
+
+*   _A 17-storey office tower; and_
+*   _Ground-level commercial space._
+
+_The proposed changes would not result in any significant impacts to the approved form of development, height or density. The previously approved application is linked here: [https://www.shapeyourcity.ca/456-prior-st](https://www.shapeyourcity.ca/456-prior-st)_
+
+_[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)_
+
+_This application is being considered under the [_False Creek Flats Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf)._
+
+_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1757491200,endDate:1757491200},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1770105600,endDate:1770105600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1771488e3,endDate:1771488e3},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1771488e3,endDate:1771488e3}],storeys:20,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/456-prior-ta`},{docName:`False Creek Flats Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf`},{docName:`CD-1 (915)`,docURL:`https://bylaws.vancouver.ca/consolidated/14566.PDF`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.276501,longitude:-123.09465,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1795 W Broadway`,applicant:`Concord Broadway Limited Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ639_cbd`,applicationDate:1785225600,addresses:[`1795 W Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1795-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.264069,longitude:-123.145433,approvalStatus:`Approved`},{primaryStreetName:`1368-1398 W Broadway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ640_f8d`,applicationDate:1785225600,addresses:[`1368-1398 W Broadway`],status:`ACTIVE`,purpose:`
+Approved July 28, 2026
+Revised Application (April 8, 2026)
+
+The City of Vancouver has received a revised rezoning application for 1795 West Broadway. The proposal is to allow for the development of a 33-storey mixed-use building and includes:
+
+*   263 strata residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 14.6; and
+*   A building height of 110.6 m (363 ft.).
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf) and proposes additional height and density beyond what the plan currently permits. The increased height and density are intended to provide a Community Amenity Contribution to help fund the inclusion of a seniors centre as part of the related application at [1368–1398 West Broadway](http://www.shapeyourcity.ca/1368-1398-w-broadway). Both applications are being reviewed concurrently.
+
+* * *
+
+Original Application (August 14, 2026)
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 30-storey mixed-use building and includes:
+
+*   239 strata residential units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 13.1; and
+*   A building height of 101.8 m (334 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf) and proposes additional height and density beyond what the plan currently permits. The increased height and density are intended to provide a Community Amenity Contribution to help fund the inclusion of a seniors centre as part of the related application at [1368–1398 West Broadway](http://www.shapeyourcity.ca/1368-1398-w-broadway). Both applications are being reviewed concurrently.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application Intake`,taskType:`Application Intake`,startDate:1755158400,endDate:1755158400},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1768377600,endDate:1769500800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:33,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1795-w-broadway`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.264069,longitude:-123.145433,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1368-1398 W Broadway`,applicant:`Concord Hemlock Limited Partnership`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ640_f8d`,applicationDate:1755158400,addresses:[`1368-1398 W Broadway`,`1368-1398 West Broadway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1368-1398-w-broadway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.263361,longitude:-123.135229,approvalStatus:`Approved`},{primaryStreetName:`2611 Victoria Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ642_e45`,applicationDate:1789138916,addresses:[`2611 Victoria Dr`],status:`ACTIVE`,purpose:`
+Approved July 28, 2026
+Revised Application (April 8, 2026)
+
+The City of Vancouver has received a revised rezoning application for 1368-1398 West Broadway. The proposal is to allow for the development of a 38-storey mixed-use building and includes:
+
+*   257 hotel rooms;
+*   197 strata residential units;
+*   A seniors centre on level 3;
+*   A floor space ratio (FSR) of 13.36; and
+*   A building height of 131.9 m (433 ft.).
+
+This application is being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf) and proposes additional height and density beyond what the plan currently permits.
+
+This application is being reviewed concurrently with the rezoning application at [1795 West Broadway](http://www.shapeyourcity.ca/1795-w-broadway), which proposes to provide a Community Amenity Contribution to support the seniors centre planned for this site.
+
+* * *
+
+Original Application (August 14, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 35-storey mixed-use building and includes:
+
+*   257 hotel rooms;
+*   172 strata residential units;
+*   A seniors centre on level 3;
+*   A floor space ratio (FSR) of 12.51; and
+*   A building height of 123.1 m (404 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).
+
+This application is being reviewed concurrently with the rezoning application at [1795 West Broadway](http://www.shapeyourcity.ca/1795-w-broadway), which proposes to provide a Community Amenity Contribution to support the seniors centre planned for this site.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1755158400,endDate:1755158400},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1768377600,endDate:1769500800},{taskDescription:`Revised submission received`,taskType:`Revised submission received`,startDate:1775635200,endDate:1775635200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:38,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1368-1398-w-broadway`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.263361,longitude:-123.135229,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2611 Victoria Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ642_e45`,applicationDate:1789138916,addresses:[`2611 Victoria Dr`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Referred back to staff`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2611-victoria-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.261164,longitude:-123.066332,approvalStatus:`Approved`},{primaryStreetName:`133-159 W 49th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ643_fc5`,applicationDate:1779177600,addresses:[`133-159 W 49th Ave`],status:`ACTIVE`,purpose:`
+Referred back to staff`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2611-victoria-dr`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.261164,longitude:-123.066332,approvalStatus:`Approved`},{primaryStreetName:`133-159 W 49th Ave`,applicant:`Alabaster Developments Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ643_fc5`,applicationDate:1762502400,addresses:[`133-159 W 49th Ave`,`133-159 W 49th Ave Text Amendment`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved May 19, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/133-159-w-49-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1779177600,relatedPermits:[],latitude:49.226117,longitude:-123.10912,approvalStatus:`Approved`},{primaryStreetName:`401 Kingsway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ644_c2f`,applicationDate:1789138916,addresses:[`401 Kingsway`],status:`ACTIVE`,purpose:`
+Approved May 19, 2026
+The City of Vancouver has received an application to amend CD-1 (847) (Comprehensive Development) District to permit mezzanine spaces within commercial retail units. The amendment proposes to increase the permitted floor area by 334.6 sq. m (3,602 sq. ft.), which represents an increase in the floor space ratio (FSR) from 2.50 to 2.62.
+
+No changes are proposed to the form of development and land use. _The previously approved application can be found here:_\xA0_[131-163 W 49th Ave rezoning application](https://www.shapeyourcity.ca/131-163-w-49-ave)._
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Cambie Corridor Plan(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf#page=1)_\xA0and _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1762502400,endDate:1762502400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1779177600,endDate:1779177600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1779177600,endDate:1779177600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1779177600,endDate:1779177600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/133-159-w-49-ave`},{docName:`CD-1 (847)`,docURL:`https://bylaws.vancouver.ca/consolidated/13626.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.226117,longitude:-123.10912,approvalStatus:`Approved`},{primaryStreetName:`401 Kingsway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ644_c2f`,applicationDate:1789138916,addresses:[`401 Kingsway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/401-kingsway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.259613,longitude:-123.095553},{primaryStreetName:`421 Kingsway`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ645_b33`,applicationDate:1789138916,addresses:[`421 Kingsway`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/421-kingsway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.259213,longitude:-123.094526},{primaryStreetName:`185-193 SW Marine Dr`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ646_3b1`,applicationDate:1777968e3,addresses:[`185-193 SW Marine Dr`,`7980 Manitoba St Text Amendment`],status:`ACTIVE`,purpose:`7980 Manitoba St text amendment
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/421-kingsway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.259213,longitude:-123.094526},{primaryStreetName:`185-193 SW Marine Dr`,applicant:`DAE Design Architecture Everyday Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ646_3b1`,applicationDate:1754380800,addresses:[`185-193 SW Marine Dr`,`7980 Manitoba St Text Amendment`],status:`ACTIVE`,purpose:`7980 Manitoba St text amendment
 Category: Market Rental Housing included
 Status: Approved
-Approved May 5, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/185-193-sw-marine-7980-manitoba-ta`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1777968e3,relatedPermits:[],latitude:49.212584,longitude:-123.109695,approvalStatus:`Approved`},{primaryStreetName:`6525-6575 Oak St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ647_33b`,applicationDate:1784793600,addresses:[`6525-6575 Oak St`],status:`ACTIVE`,purpose:`
+Approved May 5, 2026
+The City of Vancouver has received an application to amend CD-1 (908) for an increase in height from 17.4 m (57 ft.) to 19.8 m (65 ft.), an increase in floor space ratio (FSR) from 2.4 to 3.0, and to include 20% of the residential floor area for below-market rental units.
+
+The previously approved application is linked here: [](https://www.shapeyourcity.ca/185-193-sw-marine-dr)[](https://www.shapeyourcity.ca/185-193-sw-marine-dr)[https://www.shapeyourcity.ca/185-193-sw-marine-dr](https://www.shapeyourcity.ca/185-193-sw-marine-dr)[](https://www.shapeyourcity.ca/185-193-sw-marine-dr)[](https://www.shapeyourcity.ca/185-193-sw-marine-dr)
+
+The current proposal is for a six-storey residential rental building and includes:
+
+*   61 units with 20% of the residential floor area for below-market rental units;
+*   A floor space ratio (FSR) of 3.0; and
+*   A building height of 19.8 m (65 ft.).
+
+This application is being considered under the _[(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf")[(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf")[Transit-Oriented Areas Rezoning Policy.(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf")[(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf")[(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf")_
+
+_The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_\xA0[_vancouver.ca/protecting-tenants._(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1754380800,endDate:1754380800},{taskDescription:`Approved`,taskType:`Approved`,startDate:1777968e3,endDate:1777968e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1777968e3,endDate:1777968e3}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/185-193-sw-marine-7980-manitoba-ta`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`CD-1(908)`,docURL:`https://bylaws.vancouver.ca/consolidated/14498.PDF`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.212584,longitude:-123.109695,major:!0,approvalStatus:`Approved`},{primaryStreetName:`6525-6575 Oak St`,applicant:`Mckinley Studios`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ647_33b`,applicationDate:1761552e3,addresses:[`6525-6575 Oak St`,`6525-6577 Oak St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 23, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6525-6575-oak`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784793600,relatedPermits:[],latitude:49.226438,longitude:-123.128796,approvalStatus:`Approved`},{primaryStreetName:`Vancouver General Hospital Campus`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ648_891`,applicationDate:1784016e3,addresses:[`Vancouver General Hospital Campus`],status:`ACTIVE`,purpose:`
+Approved July 23, 2026
+**Revised Application (April 20, 2026)**
+
+This application has been revised. The revised proposal now includes 20% of the floor area of below-market rental units. The other aspects of the proposal remain the same as listed below.
+
+**_Vancouver Official Development Plan (ODP)_\xA0Amendment Application (March 31, 2026)**
+
+On March 31, 2026 Council adopted the _Vancouver Official Development Plan (ODP)._\xA0This rezoning application proposes to amend the _ODP_ to change the Generalized Land Use (GLU) designation from Mixed-Use Mid-Rise to Mixed-Use High-Rise 1.
+
+**Revised Application (March 18, 2026)**
+
+This application has been revised. The revised proposal includes a reduction to the overall density and reduction in the proportion of below-market rental units. Further information is noted below.
+
+The City of Vancouver has received an application to rezone the subject site from C-1 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey mixed-use building with a six-storey podium and includes:
+
+*   189 rental units with 13% of the floor area for below-market rental units;
+*   Commercial space, allowing for a grocery store and privately-owned childcare;
+*   A floor space ratio (FSR) of 7.52; and
+*   A building height of 59.7 m (196 ft.).
+
+This application is being considered under the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf).
+
+The proposal exceeds the height and density of the applicable area of the Cambie Corridor Plan ([4.4.4 Area B(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf#page=102)).
+
+**Previous Application (October 27, 2025)**
+
+The City of Vancouver has received an application to rezone the subject site from C-1 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of an 18-storey mixed-use building with a six-storey podium and includes:
+
+*   189 rental units with 20% of the floor area for below-market rental units;
+*   A floor space ratio (FSR) of 8.0; and
+*   A building height of 59.4 m (195 ft.).
+
+This application is being considered under the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf).
+
+The proposal exceeds the height and density of the applicable area of the Cambie Corridor Plan ([4.4.4 Area B(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf#page=102)).
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1761552e3,endDate:1761552e3},{taskDescription:`Revised application date`,taskType:`Revised application date`,startDate:1773820800,endDate:1773820800},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1775030400,endDate:1776153600},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784793600,endDate:1784793600},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1784793600,endDate:1784793600}],storeys:18,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/6525-6575-oak`},{docName:`C-1 District schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-1.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.226438,longitude:-123.128796,major:!0,approvalStatus:`Approved`},{primaryStreetName:`Vancouver General Hospital Campus`,applicant:`Kasian Architecture Interior Design And Planning Ltd`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ648_891`,applicationDate:1784016e3,addresses:[`Vancouver General Hospital Campus`,`Vancouver General Hospital Campus Rezoning Application`,`Planning Process`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/855-w-12-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.261489,longitude:-123.122258,approvalStatus:`Approved`},{primaryStreetName:`111 E 5th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ649_92f`,applicationDate:1789138916,addresses:[`111 E 5th Ave`],status:`ACTIVE`,purpose:`
+Approved July 14, 2026
+****The VGH Campus Policy Update and Interim Zoning Amendment were approved at the July 14, 2026 Council Meeting. The VGH Campus Rezoning is still under review, targeting Council consideration in 2027.****
+
+  
+
+  
+The City of Vancouver has received an application from Kasian Architecture Interior Design and Planning Ltd. on behalf of Vancouver Coastal Health Authority to rezone the Vancouver General Hospital (VGH) campus site, to allow for the long-term redevelopment of the VGH campus site over the next 30+ years. Ten phases with over 300,000 sq. m of modernized healthcare facilities in buildings up to 24 storeys are proposed. See Proposal Summary below for more information.
+
+The City of Vancouver is seeking input on three planning processes for the Vancouver General Hospital (VGH):
+
+1.  **VGH Campus Rezoning:** A campus-wide rezoning application proposes a new site-specific CD-1 zoning by-law to support the long-term redevelopment and modernization of the VGH Campus over the next 30+ years. The rezoning application proposes updates to development parameters including but not limited to height, density, use, setbacks, site-wide transportation networks, and heritage and open space requirements for the entire VGH campus. The campus rezoning is targeting consideration by Council following steps 2 and 3 below.  
+    
+2.  **Interim Zoning Amendment****:** As the overall VGH campus rezoning progresses, an interim minor amendment is proposed to site coverage and density in the existing CD-1 (59) (Comprehensive Development) District By-law to permit development of a new 11-storey hospital building with Emergency and Inpatient Care facilities. The interim zoning amendment is targeting consideration by Council during summer 2026.  
+      
+    
+3.  **VGH Campus Policy Update:** Concurrently with the interim zoning amendment, the City of Vancouver is preparing to update site-specific policies in the Broadway Plan to guide the overall VGH campus rezoning process. The policy update is also targeting consideration by Council during summer 2026.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+**Proposal Summary**
+
+The applications from Kasian Architecture Interior Design and Planning Ltd. on behalf of Vancouver Coastal Health Authority to rezone the Vancouver General Hospital (VGH) campus site propose:
+
+*   Long-term phased redevelopment vision to modernize healthcare infrastructure and replace aging facilities, addressing the immediate and long-term healthcare needs of the community and expanding service capacity;
+*   10 phases of redevelopment with new buildings up to 24 storeys;
+*   Over 300,000 sq. m of modernized healthcare facilities, with a maximum site density of approximately 5.0 FSR;
+*   Near-term request to amend site coverage and density in the CD-1 (59) (Comprehensive Development) District By-law to allow for a new 11-storey Emergency and Inpatient Care Building on 818-900 West 10th Avenue and 803-899 West 12th Avenue, and a temporary cycling centre at 2785 Ash streeet;
+*   Framework for redevelopment that ensures the hospital remains fully operational throughout all phases of construction;
+*   Zoning boundary adjustments;
+*   Updates to zoning parameters including uses, density, site coverage, heights, and building setbacks;
+*   Updates to open space requirements;
+*   Revisions to heritage conservation requirements, including demolition of the Heather Pavilion – a municipally\\-designated heritage building (see submitted [Heritage Document(External link)](https://rezoning.vancouver.ca/applications/VGH/vgh-heritage-conservation.pdf));
+*   Proposed changes to circulation and access, including vehicle access and drop-off, service and loading, bikeways, and pedestrian pathways (see p. 179\\-201 of [Rezoning Booklet(External link)](https://rezoning.vancouver.ca/applications/VGH/campus-wide-application-booklet.pdf#page=179));
+*   New heliports;
+*   A commitment to reconciliation; and
+*   A commitment to environmental sustainability and climate resilience.
+
+The rezoning applications and policy work are being considered under the [_Broadway Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf).  
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1770796800,endDate:177192e4},{taskDescription:`In-person Information session`,taskType:`In-person Information session`,startDate:1771401600,endDate:1771401600},{taskDescription:`Urban Design Panel (UDP)`,taskType:`Urban Design Panel (UDP)`,startDate:1774425600,endDate:1774425600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Application received`,taskType:`Application received`,startDate:null,endDate:null}],storeys:24,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/855-w-12-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/50280/widgets/225599/documents/172364`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/50280/widgets/225599/documents/172374`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/50280/widgets/225599/documents/172376`},{docName:`Heritage conservation management plan`,docURL:`https://www.shapeyourcity.ca/50280/widgets/225599/documents/172377`},{docName:`Vancouver General Hospital Campus`,docURL:`https://www.shapeyourcity.ca/50280/widgets/217663/documents/164976`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`CD-1 (59) District schedule`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(059).pdf`},{docName:`Vancouver Heritage Register`,docURL:`https://guidelines.vancouver.ca/policy-vancouver-heritage-register.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.261489,longitude:-123.122258,major:!0,approvalStatus:`Approved`},{primaryStreetName:`111 E 5th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ649_92f`,applicationDate:1789138916,addresses:[`111 E 5th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
 Referred back to staff`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/111-e-5`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.266718,longitude:-123.102153},{primaryStreetName:`1743 Burrard St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ650_09e`,applicationDate:1789138916,addresses:[`1743 Burrard St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application In Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1743-burrard-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.270165,longitude:-123.14591},{primaryStreetName:`966 W 18th Ave (906-982 W 18th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ651_216`,applicationDate:1785312e3,addresses:[`966 W 18th Ave (906-982 W 18th Ave`,`907-975 W 19th Ave`,`3403-3415 Laurel St)`],status:`ACTIVE`,purpose:`(Balfour Block)
+Application In Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1743-burrard-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.270165,longitude:-123.14591},{primaryStreetName:`966 W 18th Ave (906-982 W 18th Ave`,applicant:`Wesgroup Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ651_216`,applicationDate:1765958400,addresses:[`966 W 18th Ave (906-982 W 18th Ave`,`907-975 W 19th Ave`,`3403-3415 Laurel St)`,`966 W 18th Ave (Balfour Block) Rezoning Application (906-982 W 18th Ave`],status:`ACTIVE`,purpose:`(Balfour Block)
 Category: Market Rental Housing included
 Status: Approved
-Approved July 29, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/966-w-18-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785312e3,relatedPermits:[],latitude:49.255201,longitude:-123.125981,approvalStatus:`Approved`},{primaryStreetName:`966 W 18th Ave (906-982 W 18th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ651_e6b`,applicationDate:1785312e3,addresses:[`966 W 18th Ave (906-982 W 18th Ave`,`907-975 W 19th Ave`,`3403-3415 Laurel St)`],status:`ACTIVE`,purpose:`(Balfour Block)
+Approved July 29, 2026
+**RR-2C Building Example**\xA0
+
+**R1-1 Building Example**\xA0
+
+Revised application (June 5, 2026)
+
+The application has been revised as follows:
+
+*   A 374 sq. m park is proposed at the southeast corner of the site under CD-1 zoning. This park is slightly smaller than the park included in the 2022 rezoning approval.
+*   Lot 1 is proposed to be rezoned to RR-2B to allow for:
+    *   A 6-storey residential rental building; with
+    *   A maximum building height of 19.8 m;
+    *   A maximum floor space ratio (FSR) of 2.70; and
+    *   Approximately 90 rental units.
+*   The remaining portion of the site is proposed to be subdivided into 19 lots and be rezoned to R1-1.
+
+Council will consider the application, with a decision anticipated at the end of July.
+
+* * *
+
+Original rezoning application (December 17, 2025)
+
+The City of Vancouver has received a new application to rezone the subject site from CD-1 (884) District to RR-2C (Residential Rental) and R1-1 (Residential) Districts. The application is inconsistent with the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf), as it does not deliver the public open space and childcare objectives set out in the enabling policy.
+
+The northwest portion of the site is proposed to be rezoned to:
+
+*   RR-2C to allow for:
+    *   A 6-storey residential rental building; with
+    *   A maximum building height of 19.8 m; and
+    *   A maximum floor space ratio (FSR) of 2.70.
+    *   Approximately 90 units, with no below-market rental units proposed.
+
+The remaining portion of the site is proposed to be subdivided into twenty lots and be rezoned to:
+
+*   R1-1 to allow for:
+    *   Multiplex housing (or other smaller typologies allowable under this zoning); with
+    *   A maximum height of 11.5 m; and
+    *   A maximum density of 1.00 FSR; and
+    *   Up to 4 dwelling units per lot.
+
+If approved, this site's zoning will change to [RR-2C(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf) and [R1-1(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf). Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning, as it allows for zoning certainty and consistency through established district schedules rather than project-specific regulations.
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protection to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Previous rezoning application (August 30, 2021):
+
+The proposal allowed for the development of a 6-storey rental building; a 6-storey condo building with a rooftop amenity and a childcare space on the ground floor; seven 3- to 4-storey townhome buildings. The proposal included public open space. This By-Law has been enacted on December 10, 2024.
+
+For further detail refer to: [https://www.shapeyourcity.ca/balfour-block](https://www.shapeyourcity.ca/balfour-block).
+
+_Note: Additional information has been added on January 30, 2026._`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1765958400,endDate:1765958400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1772006400,endDate:1773129600},{taskDescription:`Application revised`,taskType:`Application revised`,startDate:1780646400,endDate:1780646400},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/966-w-18-ave`},{docName:`CD-1 (884)`,docURL:`https://bylaws.vancouver.ca/consolidated/14221.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`RR-2C Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Rezoning Policy for Large Sustainable Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.255201,longitude:-123.125981,major:!0,approvalStatus:`Approved`},{primaryStreetName:`966 W 18th Ave (906-982 W 18th Ave`,applicant:`Wesgroup Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ651_e6b`,applicationDate:1765958400,addresses:[`966 W 18th Ave (906-982 W 18th Ave`,`907-975 W 19th Ave`,`3403-3415 Laurel St)`,`966 W 18th Ave (Balfour Block) Rezoning Application (906-982 W 18th Ave`],status:`ACTIVE`,purpose:`(Balfour Block)
 Category: Strata Housing Included
 Status: Approved
-Approved July 29, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/966-w-18-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785312e3,relatedPermits:[],latitude:49.255204,longitude:-123.125984,approvalStatus:`Approved`},{primaryStreetName:`896 W 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ652_208`,applicationDate:1789138916,addresses:[`896 W 8th Ave`,`2412 Laurel St`],status:`ACTIVE`,purpose:`2412 Laurel St
+Approved July 29, 2026
+**RR-2C Building Example**\xA0
+
+**R1-1 Building Example**\xA0
+
+Revised application (June 5, 2026)
+
+The application has been revised as follows:
+
+*   A 374 sq. m park is proposed at the southeast corner of the site under CD-1 zoning. This park is slightly smaller than the park included in the 2022 rezoning approval.
+*   Lot 1 is proposed to be rezoned to RR-2B to allow for:
+    *   A 6-storey residential rental building; with
+    *   A maximum building height of 19.8 m;
+    *   A maximum floor space ratio (FSR) of 2.70; and
+    *   Approximately 90 rental units.
+*   The remaining portion of the site is proposed to be subdivided into 19 lots and be rezoned to R1-1.
+
+Council will consider the application, with a decision anticipated at the end of July.
+
+* * *
+
+Original rezoning application (December 17, 2025)
+
+The City of Vancouver has received a new application to rezone the subject site from CD-1 (884) District to RR-2C (Residential Rental) and R1-1 (Residential) Districts. The application is inconsistent with the [_Cambie Corridor Plan_(External link)](https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf), as it does not deliver the public open space and childcare objectives set out in the enabling policy.
+
+The northwest portion of the site is proposed to be rezoned to:
+
+*   RR-2C to allow for:
+    *   A 6-storey residential rental building; with
+    *   A maximum building height of 19.8 m; and
+    *   A maximum floor space ratio (FSR) of 2.70.
+    *   Approximately 90 units, with no below-market rental units proposed.
+
+The remaining portion of the site is proposed to be subdivided into twenty lots and be rezoned to:
+
+*   R1-1 to allow for:
+    *   Multiplex housing (or other smaller typologies allowable under this zoning); with
+    *   A maximum height of 11.5 m; and
+    *   A maximum density of 1.00 FSR; and
+    *   Up to 4 dwelling units per lot.
+
+If approved, this site's zoning will change to [RR-2C(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf) and [R1-1(External link)](https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf). Any development on the site would have to conform to these zoning regulations and design guidelines. This approach differs from a site-specific Comprehensive Development (CD) District rezoning, as it allows for zoning certainty and consistency through established district schedules rather than project-specific regulations.
+
+**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protection to eligible renters impacted by redevelopment activity. To learn more visit:**\xA0[**vancouver.ca/protecting-tenants.**(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**
+
+* * *
+
+Previous rezoning application (August 30, 2021):
+
+The proposal allowed for the development of a 6-storey rental building; a 6-storey condo building with a rooftop amenity and a childcare space on the ground floor; seven 3- to 4-storey townhome buildings. The proposal included public open space. This By-Law has been enacted on December 10, 2024.
+
+For further detail refer to: [https://www.shapeyourcity.ca/balfour-block](https://www.shapeyourcity.ca/balfour-block).
+
+_Note: Additional information has been added on January 30, 2026._`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1765958400,endDate:1765958400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1772006400,endDate:1773129600},{taskDescription:`Application revised`,taskType:`Application revised`,startDate:1780646400,endDate:1780646400},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785312e3,endDate:1785312e3}],storeys:6,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/966-w-18-ave`},{docName:`CD-1 (884)`,docURL:`https://bylaws.vancouver.ca/consolidated/14221.pdf`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`RR-2C Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rr-2a-2b-2c.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Rezoning Policy for Large Sustainable Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.255204,longitude:-123.125984,major:!0,approvalStatus:`Approved`},{primaryStreetName:`896 W 8th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ652_208`,applicationDate:1789138916,addresses:[`896 W 8th Ave`,`2412 Laurel St`],status:`ACTIVE`,purpose:`2412 Laurel St
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/896-w-8-ave-and-2412-laurel-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.264366,longitude:-123.123836},{primaryStreetName:`1105-1109 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ653_e5e`,applicationDate:1789138916,addresses:[`1105-1109 Granville St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1105-1109-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.278418,longitude:-123.124984},{primaryStreetName:`1618-1680 E Hastings St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ654_023`,applicationDate:1784016e3,addresses:[`1618-1680 E Hastings St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1105-1109-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.278418,longitude:-123.124984},{primaryStreetName:`1618-1680 E Hastings St`,applicant:`hcma architecture + design`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ654_023`,applicationDate:1769155200,addresses:[`1618-1680 E Hastings St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1618-1680-e-hastings`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.281164,longitude:-123.071791,approvalStatus:`Approved`},{primaryStreetName:`486 W 26th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ655_1ff`,applicationDate:1789138916,addresses:[`486 W 26th Ave`],status:`ACTIVE`,purpose:`
+Approved July 14, 2026
+The City of Vancouver has received an application to rezone the site from MC-1 (Industrial) District to  
+CD-1 (Comprehensive Development) District. The proposal is to allow for a 23-storey mixed-use building with a four-storey podium, and includes:
+
+*   Institutional uses including a Social Service Centre and a School – University or College within the podium;
+*   A 44-space childcare facility on top of the podium;
+*   122 social housing units within the tower;
+*   A floor space ratio (FSR) of 5.67; and
+*   A building height of 81.8 m (268 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [Grandview-Woodland Community Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf)
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1769155200,endDate:1769155200},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1772006400,endDate:1773129600},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3}],storeys:23,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1618-1680-e-hastings`},{docName:`MC-1 District schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-mc-1-2.pdf`},{docName:`Grandview-Woodland Community Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.281164,longitude:-123.071791,major:!0,approvalStatus:`Approved`},{primaryStreetName:`486 W 26th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ655_1ff`,applicationDate:1789138916,addresses:[`486 W 26th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/486-w-26-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.247836,longitude:-123.114833},{primaryStreetName:`3202 Riverwalk Ave (Parcel 11)`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ656_cd4`,applicationDate:1784016e3,addresses:[`3202 Riverwalk Ave (Parcel 11)`,`3302 North Arm Ave (Parcel 24`,`Parcel 28)`],status:`ACTIVE`,purpose:`(East Fraser Lands (Area 2))
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/486-w-26-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.247836,longitude:-123.114833},{primaryStreetName:`3202 Riverwalk Ave (Parcel 11)`,applicant:`Wesgroup Properties`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ656_cd4`,applicationDate:1767859200,addresses:[`3202 Riverwalk Ave (Parcel 11)`,`3302 North Arm Ave (Parcel 24`,`Parcel 28)`,`East Fraser Lands (Area 2): 3202 Riverwalk Ave (Parcel 11)`],status:`ACTIVE`,purpose:`(East Fraser Lands (Area 2))
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3202-riverwalk-ave-and-3302-northarm-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.205203,longitude:-123.037819,approvalStatus:`Approved`},{primaryStreetName:`2277 W 2nd Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ657_b70`,applicationDate:1785225600,addresses:[`2277 W 2nd Ave`,`1750 Vine St`],status:`ACTIVE`,purpose:`1750 Vine St
+Approved July 14, 2026
+**Th****e text amendment for Parcel 11 was approved by Council at the Council meeting on July 14, 2026. Application review of the text amendments proposed for Parcels 24 and 28 ongoing.  
+**
+
+  
+
+Rezoning Application Update (July 21, 2026)
+
+On [July 14, 2026(External link)](https://council.vancouver.ca/20260714/regu20260714ag.htm), Council approved in principle the text amendment to CD-1(499) to allow a maximum height of 15-storeys on Parcel 11 in Area 2 of East Fraser Lands. Application review of the text amendments proposed for Parcels 24 and 28 are ongoing. Comments and questions are welcome throughout the application review process.
+
+The application proposes to:
+
+*   Combine Parcels 24 and 25 into one development block called Parcel 24;
+    
+
+*   Permit above-grade parking on Parcels 24 and 28; and
+    
+
+*   Update the maximum building height:
+    
+
+*   Parcel 24, increase from 11 to 21 storeys; and
+    
+
+*   Parcel 28, increase from 15 to 21 storeys.
+    
+
+An amendment to the [_East Fraser Lands Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-east-fraser-lands.pdf) _(EFL ODP)_ is required to permit the proposed heights.
+
+* * *
+
+  
+
+Rezoning Application Addendum (May 1, 2026)
+
+The City of Vancouver has received an addendum to the application to amend the maximum height permitted at 3202 Riverwalk Avenue (Parcel 11).
+
+The application originally proposed a maximum 18-storey building height. The addendum proposes a maximum 15-storey building height. The revised proposal complies with the _East Fraser Lands Official Development Plan_. No changes are proposed for the Parcels 24 and 28.
+
+Standard rezoning notification will be provided in advance of Council consideration. Comments and questions are welcome at any time through the application review process.
+
+* * *
+
+  
+
+Original Rezoning Application (February 23, 2026)
+
+The proposal seeks to amend [CD-1(499) East Fraser Lands Area 2 South(External link)](https://cd1-bylaws.vancouver.ca/cd-1\\(499\\).PDF "https://cd1-bylaws.vancouver.ca/cd-1(499).pdf"). Consequential amendments to the _East Fraser Lands Official Development Plan_ will be required. The application proposes to:
+
+*   Combine Parcels 24 and 25 into one development block called Parcel 24;
+*   Permit above-grade parking on Parcels 11, 24 and 28; and
+*   Update the maximum building height:
+    *   Parcel 11, increase from 12 to 18 storeys
+    *   Parcel 24, increase from 11 to 21 storeys; and
+    *   Parcel 28, increase from 15 to 21 storeys.
+
+No changes to the overall permitted floor area are proposed.
+
+This application is being considered under the [_East Fraser Lands Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-east-fraser-lands.pdf "https://bylaws.vancouver.ca/odp/odp-east-fraser-lands.pdf") _(EFL ODP)_.
+
+This application is being reviewed in a phased approach, whereby Parcel 11 may proceed for Council consideration in advance of Parcels 24 and 28.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1767859200,endDate:1767859200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1772611200,endDate:1773734400},{taskDescription:`Application addendum received`,taskType:`Application addendum received`,startDate:1777622400,endDate:1777622400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting for 3202 Riverwalk Ave (Parcel 11)`,taskType:`Council meeting for 3202 Riverwalk Ave (Parcel 11)`,startDate:1784016e3,endDate:1784016e3}],storeys:21,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3202-riverwalk-ave-and-3302-northarm-ave`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/51021/widgets/226311/documents/173047`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/51021/widgets/226311/documents/173048`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/51021/widgets/226311/documents/173049`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/51021/widgets/226311/documents/173024`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/51021/widgets/226311/documents/173025`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/51021/widgets/226311/documents/173026`},{docName:`CD-1(499)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(499).PDF`},{docName:`East Fraser Lands Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-east-fraser-lands.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.205203,longitude:-123.037819,major:!0,approvalStatus:`Approved`},{primaryStreetName:`2277 W 2nd Ave`,applicant:`DA Architects + Planners Inc.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ657_b70`,applicationDate:1763971200,addresses:[`2277 W 2nd Ave`,`1750 Vine St`],status:`ACTIVE`,purpose:`1750 Vine St
 Category: Market Rental Housing included
 Status: Approved
-Approved July 28, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2277-w-2nd-ave-and-1750-vine-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1785225600,relatedPermits:[],latitude:49.270386,longitude:-123.156763,approvalStatus:`Approved`},{primaryStreetName:`282 W 49th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ658_898`,applicationDate:1784016e3,addresses:[`282 W 49th Ave`],status:`ACTIVE`,purpose:`(Langara YMCA)
+Approved July 28, 2026
+**Building Example**
+
+Update (March 23, 2026)
+
+**The application has been updated to rezone from R3-3 to R5-4 (previously R5-3)**. **The R5-4 district schedule contains a standardized form of development requirements, site requirements, and land use allowances that follow the policies for the area under the _Broadway Plan_. Any development on the site would have to conform to these zoning regulations and design guidelines. The standardized district rezoning process offers a simplified process, rather than rezoning to a customized CD-1 district, which aims to streamline development and support the delivery of complete, walkable neighbourhoods close to transit.**
+
+The City of Vancouver has received an application to rezone the subject site from R3-3 (Residential) District to R5-4 (Residential) District. The proposal is to allow for the development of a mixed-use residential rental building up to 26 storeys, and includes:
+
+*   20% of the residential floor area provided as below-market units;
+*   Commercial space on the ground floor; and
+*   A floor space ratio (FSR) of 6.8.
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**  
+
+* * *
+
+Application (November 24, 2025)
+
+The City of Vancouver has received an application to rezone the subject site from R3-3 (Residential) District to R5-3 (Residential) District. The proposal is to allow for the development of a 26-storey mixed-use residential rental building, and includes:
+
+*   20% of the floor area provided as below-market units;
+*   Commercial space on the ground floor; and
+*   A floor space ratio (FSR) of 6.8.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Broadway Plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)._
+
+**The specific form of development (building design) will be reviewed through a future Development Permit process. Application drawings will be available for viewing and comment at that time.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1763971200,endDate:1763971200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1785225600,endDate:1785225600},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1785225600,endDate:1785225600}],storeys:26,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2277-w-2nd-ave-and-1750-vine-st`},{docName:`R3-3 Districts Schedule`,docURL:`https://council.vancouver.ca/20250916/documents/phea1_ZDbylaw.pdf#page=4`},{docName:`R5-4 Districts Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r5.pdf#page=12`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.270386,longitude:-123.156763,major:!0,approvalStatus:`Approved`},{primaryStreetName:`282 W 49th Ave`,applicant:`Musqueam Capital Corporation`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ658_898`,applicationDate:1784016e3,addresses:[`282 W 49th Ave`,`282 W 49th Ave (Langara YMCA) Rezoning Application Revision`],status:`ACTIVE`,purpose:`(Langara YMCA)
 Category: Market Rental Housing included
 Status: Approved
-Approved July 14, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/282-w-49-ave-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784016e3,relatedPermits:[],latitude:49.226083,longitude:-123.112654,approvalStatus:`Approved`},{primaryStreetName:`811 Carrall St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ659_730`,applicationDate:1789138916,addresses:[`811 Carrall St`],status:`ACTIVE`,purpose:`(Northeast False Creek Sub-area 6C)
+Approved July 14, 2026
+**Update, June 5, 2026: The primary applicant has been changed to Musqueam Capital Corp.  
+**
+
+  
+
+The City of Vancouver has received a proposed revision to the rezoning application at 282 W 49th Avenue (Langara YMCA). Note that the original rezoning application has been approved by Council, but the CD-1 by-law has not been enacted. The proposed revision is for minor increases to height and density:
+
+Building A (33-storey mixed-use rental residential building)
+
+*   Increase maximum height by 1 m to 103 m.
+
+Building B (37-storey strata building)
+
+*   Increase maximum height by 1 m to 120 m.
+
+Building C (8-storey mixed-use social housing building, including YMCA facility with associated childcare)
+
+*   Increase floor area of the YMCA and the associated childcare portions of the building by 354 sq. m to a total of 10,250 sq. m for the building
+
+The proposed revision is being considered under the [_Cambie Corridor Plan_(External link)](https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf) and the [_Transit-Oriented Areas Rezoning Policy_(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf).
+
+* * *
+
+**Original Rezoning Application (Approved on February 25, 2025)**
+
+The original rezoning application was submitted by Musqueam Capital Corporation, the economic development arm of the xʷməθkʷəy̓əm (Musqueam Indian Band), in partnership with YMCA BC and Townline, to rezone the site from CD-1 (103) to a new CD-1 district. The new CD-1 district would enable a mixed-use development with three buildings at heights of 8, 33, and 37 storeys. The proposal included:
+
+*   A replacement YMCA facility focussed on community service delivery, with\xA0associated childcare;
+*   308 rental units, 269 strata units, and 88 social housing units; and
+*   Commercial space on the ground floor.
+
+_The previously approved application can be found here:_\xA0[_282 W 49th Ave rezoning application_](https://www.shapeyourcity.ca/282-w-49th-ave)_._
+
+**Application materials for this amendment are posted as submitted to the City. Final project statistics will be confirmed through the enactment process.**`,progressSections:[{taskDescription:`Application Intake`,taskType:`Application Intake`,startDate:1766390400,endDate:1766390400},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3}],storeys:37,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/282-w-49-ave-2`},{docName:`CD-1 (103)`,docURL:`https://cd1-bylaws.vancouver.ca/cd-1(103).pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`UNDRIP Action Plan 2024-2028`,docURL:`https://vancouver.ca/files/cov/undrip-action-plan-2024-2028.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530594,relatedPermits:[],latitude:49.226083,longitude:-123.112654,major:!0,approvalStatus:`Approved`},{primaryStreetName:`811 Carrall St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ659_730`,applicationDate:1789138916,addresses:[`811 Carrall St`],status:`ACTIVE`,purpose:`(Northeast False Creek Sub-area 6C)
 Category: Non-market housing included (Social, supportive, or co-op)
 Status: Application in Review
 On Hold`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/811-carrall-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.276694,longitude:-123.107696},{primaryStreetName:`811 Carrall St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ659_c68`,applicationDate:1789138916,addresses:[`811 Carrall St`],status:`ACTIVE`,purpose:`(Northeast False Creek Sub-area 6C)
 Category: Strata Housing Included
 Status: Application in Review
-On Hold`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/811-carrall-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.276697,longitude:-123.107699},{primaryStreetName:`450-496 Prior St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ660_b95`,applicationDate:1784620800,addresses:[`450-496 Prior St`,`550 Malkin Ave`,`1002 Station St - Directions Report`],status:`ACTIVE`,purpose:`1002 Station St - Directions Report
+On Hold`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/811-carrall-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.276697,longitude:-123.107699},{primaryStreetName:`450-496 Prior St`,applicant:`Prior Street LP`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ660_b95`,applicationDate:1771574400,addresses:[`450-496 Prior St`,`550 Malkin Ave`,`1002 Station St - Directions Report`],status:`ACTIVE`,purpose:`1002 Station St - Directions Report
 Category: Market Rental Housing included
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/456-prior-st-ir`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.27628,longitude:-123.094629,approvalStatus:`Approved`},{primaryStreetName:`5027-5053 Boundary Road`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ661_057`,applicationDate:1789138916,addresses:[`5027-5053 Boundary Road`],status:`ACTIVE`,purpose:`
+Approved July 21, 2026
+The City of Vancouver has received an application to amend the Community Amenity Contribution (CAC) of an approved CD-1 rezoning application. The subject property, now rezoned to CD-1 (915) (enacted on January 20, 2026), allows for the development of two 19-storey mixed-use towers containing secured market rental residential, office space, and commercial retail uses. An amendment of CD-1 (915) was also approved in principle on February 19, 2026, which includes changes to allow for the phased delivery of the project.
+
+As part of the original rezoning application, the applicant offered to deliver a 6,500 sq. ft turn-key Cultural Amenity Space as in-kind Community Amenity Contribution at occupancy. The application proposes to:
+
+*   Defer the delivery of a 6,500 sq. ft turn-key Cultural Amenity Space from Phase 1 to Phase 2 of the project; or
+*   Replace this in-kind CAC contribution with cash CAC.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+_The proposed changes would not result in significant impacts to the approved external form of development, height, or density. The previously approved application is linked here_: [https://www.shapeyourcity.ca/456-prior-st](https://www.shapeyourcity.ca/456-prior-st)__
+
+___The previously approved CD-1 text amendment to CD-1 (915)_\xA0_is linked here: [https://www.shapeyourcity.ca/456-prior-ta](https://www.shapeyourcity.ca/456-prior-ta)___
+
+This application is being considered under the _[False Creek Flats Plan(External link)](https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf)._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1771574400,endDate:1771574400},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1773216e3,endDate:1773734400},{taskDescription:`Referral to Public Hearing`,taskType:`Referral to Public Hearing`,startDate:1780387200,endDate:1780387200},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800},{taskDescription:`Public Hearing`,taskType:`Public Hearing`,startDate:1784620800,endDate:1784620800}],storeys:19,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/456-prior-st-ir`},{docName:`CD-1 (915)`,docURL:`https://bylaws.vancouver.ca/consolidated/14566.PDF`},{docName:`False Creek Flats Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.27628,longitude:-123.094629,major:!0,approvalStatus:`Approved`},{primaryStreetName:`5027-5053 Boundary Road`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ661_057`,applicationDate:1789138916,addresses:[`5027-5053 Boundary Road`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
 Approved July 28. 2026`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/5027-5053-boundary-rd`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.238975,longitude:-123.024,approvalStatus:`Approved`},{primaryStreetName:`852-872 Seymour St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ662_31a`,applicationDate:1789138916,addresses:[`852-872 Seymour St`],status:`ACTIVE`,purpose:`
@@ -83915,34 +87866,118 @@ Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/688-w57-ave-ta`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.218229,longitude:-123.120208},{primaryStreetName:`628 W 28th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ676_6c0`,applicationDate:1789138916,addresses:[`628 W 28th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/628-w-28-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.246034,longitude:-123.119734},{primaryStreetName:`929-989 W 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ677_897`,applicationDate:1789138916,addresses:[`929-989 W 41st Ave`,`5670 Oak St`,`988 W 38th Ave`,`5469-5507 Willow St (Former Oakridge Transit Centre)`],status:`ACTIVE`,purpose:`5469-5507 Willow St (former Oakridge Transit Centre)
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/628-w-28-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.246034,longitude:-123.119734},{primaryStreetName:`929-989 W 41st Ave`,applicant:`Grosvenor Property Canada`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ677_897`,applicationDate:1780300800,addresses:[`929-989 W 41st Ave`,`5670 Oak St`,`988 W 38th Ave`,`5469-5507 Willow St (Former Oakridge Transit Centre)`],status:`ACTIVE`,purpose:`5469-5507 Willow St (former Oakridge Transit Centre)
 Category: Market Rental Housing included
 Status: Upcoming public consultation
-Open house June 17, 2026 to July 1, 2026`,progressSections:[{taskDescription:``,taskType:`Open House`,startDate:1781683200,endDate:1782892800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/929-989-w-41-ave-otc`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1781683200,relatedPermits:[],latitude:49.235402,longitude:-123.125687},{primaryStreetName:`259-293 E 11th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ678_437`,applicationDate:1789138916,addresses:[`259-293 E 11th Ave`,`216 Kingsway`],status:`ACTIVE`,purpose:`216 Kingsway
+Open house June 17, 2026 to July 1, 2026
+Announcement
+
+A community information session is scheduled for **Wednesday****, June 24, 2026 from 5:00 pm to 7:00 pm at the Jewish Community Centre (950 W 41st Ave).** City Staff and the applicant team will be available to answer any questions and provide information on the proposal.
+
+* * *
+
+Application
+
+The City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District. The proposal is to allow for a mixed-use development consisting of 16 buildings ranging from 6-storeys to 33-storeys, and includes:
+
+*   1,231 strata units;
+*   1,238 market-rental units;
+*   158 below-market rental units;
+*   Transferring a dirt site to the city that has potential for 361 social housing units;
+*   A 1.9-acre public park;
+*   A 69-space childcare facility;
+*   4,922 sq. m (52,975 sq. ft.) of commercial space; and
+*   A total floor area of 230,565.5 sq. m (2,481,787 sq. ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Oakridge Transit Centre Policy Statement(External link)](https://guidelines.vancouver.ca/policy-statement-oakridge-transit-centre-adjacent-sites.pdf)._
+
+The previously approved rezoning for this site was withdrawn. Details of the withdrawn rezoning can be found at [_949 West 41st Avenue & 5469-5507 Willow Street (Oakridge Transit Centre)_(External link)](https://wayback.archive-it.org/8849/20211021195119/https:/rezoning.vancouver.ca/applications/949w41stave/index.htm).
+
+The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit: [vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect) [(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_[(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1780300800,endDate:1780300800},{taskDescription:`Urban Design Panel (UDP)`,taskType:`Urban Design Panel (UDP)`,startDate:1781683200,endDate:1781683200},{taskDescription:``,taskType:`Open House`,startDate:1781683200,endDate:1782892800},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1781683200,endDate:1782892800},{taskDescription:`In-person information session`,taskType:`In-person information session`,startDate:1782288e3,endDate:1782288e3}],storeys:33,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/929-989-w-41-ave-otc`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/50701/widgets/214293/documents/162590`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/50701/widgets/214293/documents/162592`},{docName:`Transportation assessment and management study`,docURL:`https://www.shapeyourcity.ca/50701/widgets/214293/documents/171019`},{docName:`R1-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf`},{docName:`Oakridge Transit Centre Policy Statement`,docURL:`https://guidelines.vancouver.ca/policy-statement-oakridge-transit-centre-adjacent-sites.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`},{docName:`Rezoning Policy for Sustainable Large Developments`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.235402,longitude:-123.125687,major:!0},{primaryStreetName:`259-293 E 11th Ave`,applicant:`Diamond Schmitt Architects`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ678_437`,applicationDate:1779264e3,addresses:[`259-293 E 11th Ave`,`216 Kingsway`],status:`ACTIVE`,purpose:`216 Kingsway
 Category: Market Rental Housing included
 Status: Upcoming public consultation
-Open house June 17, 2026 to July 2, 2026`,progressSections:[{taskDescription:``,taskType:`Open House`,startDate:1781683200,endDate:1782979200}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/259-293-e-11-216-kingsway`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1781683200,relatedPermits:[],latitude:49.261381,longitude:-123.099105},{primaryStreetName:`2900-2926 Fraser St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ679_9e7`,applicationDate:1789138916,addresses:[`2900-2926 Fraser St`],status:`ACTIVE`,purpose:`
+Open house June 17, 2026 to July 2, 2026
+The City of Vancouver has received an application to rezone the subject site from C-3A (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 29-storey mixed-use tower, with a seven-storey podium on East 11th Avenue and a 11-storey podium on Kingsway. This proposal also includes:
+
+*   364 social housing units;
+*   17 assisted living units;
+*   two levels of commercial, office, and social service space;
+*   A floor space ratio (FSR) of 10.09;
+*   A building height of 101.7 m (334 ft.); and
+*   Partial road closure at the north and east portions of the development site.
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [Broadway Plan_._(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_[(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+__The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:_ _[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)__
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1779264e3,endDate:1779264e3},{taskDescription:``,taskType:`Open House`,startDate:1781683200,endDate:1782979200},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1781683200,endDate:1782979200}],storeys:29,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/259-293-e-11-216-kingsway`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/51770/widgets/218962/documents/169703`},{docName:`Renderings and architectural drawings`,docURL:`https://www.shapeyourcity.ca/51770/widgets/218962/documents/169701`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/51770/widgets/218962/documents/169702`},{docName:`Site configuration`,docURL:`https://www.shapeyourcity.ca/51770/widgets/218962/documents/170120`},{docName:`Landscape drawings`,docURL:`https://www.shapeyourcity.ca/51770/widgets/218962/documents/171675`},{docName:`C-3A District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf`},{docName:`Broadway Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-broadway.pdf`},{docName:`Tenant Relocation and Protection Policy (TRPP)`,docURL:`https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.261381,longitude:-123.099105,major:!0},{primaryStreetName:`2900-2926 Fraser St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ679_9e7`,applicationDate:1789138916,addresses:[`2900-2926 Fraser St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/2900-2926-fraser-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.258573,longitude:-123.088922},{primaryStreetName:`1749-1755 W 4th Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ680_dcd`,applicationDate:1789138916,addresses:[`1749-1755 W 4th Ave`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1749-1757-w-4-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.268264,longitude:-123.144443},{primaryStreetName:`7525 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ681_f65`,applicationDate:1784620800,addresses:[`7525 Cambie St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1749-1757-w-4-ave`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.268264,longitude:-123.144443},{primaryStreetName:`7525 Cambie St`,applicant:`Wesgroup`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ681_f65`,applicationDate:1762502400,addresses:[`7525 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Approved
-Approved July 21, 2026`,progressSections:[{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/7525-cambie-st-2`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1784620800,relatedPermits:[],latitude:49.216819,longitude:-123.117412,approvalStatus:`Approved`},{primaryStreetName:`1407 E 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ682_4d3`,applicationDate:1789138916,addresses:[`1407 E 41st Ave`,`5696-5698`],status:`ACTIVE`,purpose:`5696-5698
+Approved July 21, 2026
+The City of Vancouver has received an application to rezone the subject site from C-1 (Commercial) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 12-storey mixed-use rental building and includes:
+
+*   97 units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 4.19; and
+*   A building height of 43.9 m (144 ft.)
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the _[Transit-Oriented Areas Rezoning Policy(External link)](https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf)._ \xA0
+
+_The previously approved application for this site can be found here:_\xA0_[7525 Cambie St rezoning application](https://www.shapeyourcity.ca/7525-cambie-st)._
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1762502400,endDate:1762502400},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1772611200,endDate:1773734400},{taskDescription:`Council meeting`,taskType:`Council meeting`,startDate:1784016e3,endDate:1784016e3},{taskDescription:`Approved`,taskType:`Approved`,startDate:1784620800,endDate:1784620800}],storeys:12,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/7525-cambie-st-2`},{docName:`C-1 District Schedule`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-1.pdf`},{docName:`Cambie Corridor Plan`,docURL:`https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf`},{docName:`Transit-Oriented Areas Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.216819,longitude:-123.117412,major:!0,approvalStatus:`Approved`},{primaryStreetName:`1407 E 41st Ave`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ682_4d3`,applicationDate:1789138916,addresses:[`1407 E 41st Ave`,`5696-5698`],status:`ACTIVE`,purpose:`5696-5698
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1407-e-41-5696-5698-knight`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.232993,longitude:-123.076569},{primaryStreetName:`1166 W Pender St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ683_445`,applicationDate:1789138916,addresses:[`1166 W Pender St`],status:`ACTIVE`,purpose:`
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1407-e-41-5696-5698-knight`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.232993,longitude:-123.076569},{primaryStreetName:`1166 W Pender St`,applicant:`Hines`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ683_445`,applicationDate:1782201600,addresses:[`1166 W Pender St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Upcoming public consultation
-Open house November 25, 2026 to December 8, 2026`,progressSections:[{taskDescription:``,taskType:`Open House`,startDate:1795593600,endDate:1796716800}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1166-w-pender`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.288019,longitude:-123.122549},{primaryStreetName:`8555 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ684_bef`,applicationDate:1789138916,addresses:[`8555 Cambie St`],status:`ACTIVE`,purpose:`
+Open house November 25, 2026 to December 8, 2026
+The City of Vancouver has received an application to rezone the subject site from CD-1 (Comprehensive Development) District (833) to a new CD-1 (Comprehensive Development) District to allow for the development of a 49-storey mixed-use building. This proposal includes:
+
+*   340 strata residential units;
+*   199 hotel units;
+*   Commercial space on the ground floor;
+*   A floor space ratio (FSR) of 24.3; and
+*   A building height of 162 m (530 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being considered under the [_Vancouver Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-vancouver.pdf) and [_Downtown Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-downtown.pdf)_[_._(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1782201600,endDate:1782201600},{taskDescription:`Q&A period`,taskType:`Q&A period`,startDate:1794988800,endDate:1796112e3},{taskDescription:``,taskType:`Open House`,startDate:1795593600,endDate:1796716800}],storeys:49,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/1166-w-pender`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/52702/widgets/222933/documents/171633`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/52702/widgets/222933/documents/171631`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/52702/widgets/222933/documents/171632`},{docName:`CD-1 (Comprehensive Development) District (833)`,docURL:`https://bylaws.vancouver.ca/consolidated/13485.pdf`},{docName:`Downtown Rezoning Policy`,docURL:`https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf`},{docName:`Downtown Official Development Plan`,docURL:`https://bylaws.vancouver.ca/odp/odp-downtown.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.288019,longitude:-123.122549,major:!0},{primaryStreetName:`8555 Cambie St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ684_bef`,applicationDate:1789138916,addresses:[`8555 Cambie St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
-Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8555-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.207573,longitude:-123.117963},{primaryStreetName:`3738 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ685_454`,applicationDate:1789138916,addresses:[`3738 Granville St`,`1499 Balfour Ave`],status:`ACTIVE`,purpose:`1499 Balfour Ave
+Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8555-cambie-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.207573,longitude:-123.117963},{primaryStreetName:`3738 Granville St`,applicant:`Intracorp Projects Ltd.`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ685_454`,applicationDate:1778054400,addresses:[`3738 Granville St`,`1499 Balfour Ave`],status:`ACTIVE`,purpose:`1499 Balfour Ave
 Category: Market Rental Housing included
 Status: Upcoming public consultation
-Open house November 18, 2026 to December 1, 2026`,progressSections:[{taskDescription:``,taskType:`Open House`,startDate:1794988800,endDate:1796112e3}],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3738-granville-1499-balfour`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1789138916,relatedPermits:[],latitude:49.252689,longitude:-123.138415},{primaryStreetName:`8072 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ686_41b`,applicationDate:1790161019,addresses:[`8072 Granville St`],status:`ACTIVE`,purpose:`
+Open house November 18, 2026 to December 1, 2026
+The City of Vancouver has received an application to rezone the subject site from FSD (First Shaughnessy) District to CD-1 (Comprehensive Development) District. The proposal is to allow for a three-storey strata townhouse development and conversion of a protected heritage property into a triplex. This proposal also includes:
+
+*   27 strata townhouse units with individual garages;
+*   A floor space ratio (FSR) of 1.03; and
+*   A building height of 10.8 m (36 ft.).
+
+[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)
+
+This application is being reviewed under the [_Vancouver Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-vancouver.pdf), [_Heritage Conservation Area Official Development Plan (HCA ODP)_(External link)](https://bylaws.vancouver.ca/ODP/odp-heritage-conservation-area.pdf). It includes elements that are not consistent with the _HCA ODP_.
+
+The City is required to process all rezoning applications submitted and staff position on the proposal will be summarized in the referral report later in the application process timeline.
+
+**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**`,progressSections:[{taskDescription:`Application received`,taskType:`Application received`,startDate:1778054400,endDate:1778054400},{taskDescription:``,taskType:`Open House`,startDate:1794988800,endDate:1796112e3},{taskDescription:`Q&A Period`,taskType:`Q&A Period`,startDate:1795593600,endDate:1796716800}],storeys:3,documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/3738-granville-1499-balfour`},{docName:`Application booklet`,docURL:`https://www.shapeyourcity.ca/52706/widgets/222961/documents/170481`},{docName:`Statistics`,docURL:`https://www.shapeyourcity.ca/52706/widgets/222961/documents/170480`},{docName:`Renderings`,docURL:`https://www.shapeyourcity.ca/52706/widgets/222961/documents/170479`},{docName:`First Shaughnessy District`,docURL:`https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-fsd.pdf`},{docName:`Heritage Conservation Area - Official Development Plan`,docURL:`https://bylaws.vancouver.ca/ODP/odp-heritage-conservation-area.pdf`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790530262,relatedPermits:[],latitude:49.252689,longitude:-123.138415},{primaryStreetName:`8072 Granville St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ686_41b`,applicationDate:1790161019,addresses:[`8072 Granville St`],status:`ACTIVE`,purpose:`
 Category: Market Rental Housing included
 Status: Application in Review
 Application in Process`,progressSections:[],documents:[{docName:`View the application`,docURL:`https://www.shapeyourcity.ca/8072-granville-st`}],withDistrictDays:null,withApplicantDays:null,city:`Vancouver-Rezoning`,lastUpdated:1790161019,relatedPermits:[],latitude:49.212528,longitude:-123.139966},{primaryStreetName:`5680 Oak St`,applicant:`UNKNOWN`,cityApplicationType:`Rezoning`,applicationType:`Rezoning`,folderNumber:`RZ687_cc4`,applicationDate:1790161019,addresses:[`5680 Oak St`],status:`ACTIVE`,purpose:`
@@ -101145,7 +105180,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     .p-toggleswitch.p-disabled .p-toggleswitch-handle {
         background: dt('toggleswitch.handle.disabled.background');
     }
-`,classes:{root:function(e){var t=e.instance,n=e.props;return[`p-toggleswitch p-component`,{"p-toggleswitch-checked":t.checked,"p-disabled":n.disabled,"p-invalid":t.$invalid}]},input:`p-toggleswitch-input`,slider:`p-toggleswitch-slider`,handle:`p-toggleswitch-handle`},inlineStyles:{root:{position:`relative`}}}),MA={name:`ToggleSwitch`,extends:{name:`BaseToggleSwitch`,extends:fv,props:{trueValue:{type:null,default:!0},falseValue:{type:null,default:!1},readonly:{type:Boolean,default:!1},tabindex:{type:Number,default:null},inputId:{type:String,default:null},inputClass:{type:[String,Object],default:null},inputStyle:{type:Object,default:null},ariaLabelledby:{type:String,default:null},ariaLabel:{type:String,default:null}},style:jA,provide:function(){return{$pcToggleSwitch:this,$parentInstance:this}}},inheritAttrs:!1,emits:[`change`,`focus`,`blur`],methods:{getPTOptions:function(e){return(e===`root`?this.ptmi:this.ptm)(e,{context:{checked:this.checked,disabled:this.disabled}})},onChange:function(e){if(!this.disabled&&!this.readonly){var t=this.checked?this.falseValue:this.trueValue;this.writeValue(t,e),this.$emit(`change`,e)}},onFocus:function(e){this.$emit(`focus`,e)},onBlur:function(e){var t,n;this.$emit(`blur`,e),(t=(n=this.formField).onBlur)==null||t.call(n,e)}},computed:{checked:function(){return this.d_value===this.trueValue},dataP:function(){return Ec({checked:this.checked,disabled:this.disabled,invalid:this.$invalid})}}},NA=[`data-p-checked`,`data-p-disabled`,`data-p`],PA=[`id`,`checked`,`tabindex`,`disabled`,`readonly`,`aria-checked`,`aria-labelledby`,`aria-label`,`aria-invalid`],FA=[`data-p`],IA=[`data-p`];function LA(e,t,n,r,i,a){return U(),W(`div`,Y({class:e.cx(`root`),style:e.sx(`root`)},a.getPTOptions(`root`),{"data-p-checked":a.checked,"data-p-disabled":e.disabled,"data-p":a.dataP}),[K(`input`,Y({id:e.inputId,type:`checkbox`,role:`switch`,class:[e.cx(`input`),e.inputClass],style:e.inputStyle,checked:a.checked,tabindex:e.tabindex,disabled:e.disabled,readonly:e.readonly,"aria-checked":a.checked,"aria-labelledby":e.ariaLabelledby,"aria-label":e.ariaLabel,"aria-invalid":e.invalid||void 0,onFocus:t[0]||=function(){return a.onFocus&&a.onFocus.apply(a,arguments)},onBlur:t[1]||=function(){return a.onBlur&&a.onBlur.apply(a,arguments)},onChange:t[2]||=function(){return a.onChange&&a.onChange.apply(a,arguments)}},a.getPTOptions(`input`)),null,16,PA),K(`div`,Y({class:e.cx(`slider`)},a.getPTOptions(`slider`),{"data-p":a.dataP}),[K(`div`,Y({class:e.cx(`handle`)},a.getPTOptions(`handle`),{"data-p":a.dataP}),[V(e.$slots,`handle`,{checked:a.checked})],16,IA)],16,FA)],16,NA)}MA.render=LA;var RA={install:function(e){var t={add:function(e){CO.emit(`add`,e)},remove:function(e){CO.emit(`remove`,e)},removeGroup:function(e){CO.emit(`remove-group`,e)},removeAllGroups:function(){CO.emit(`remove-all-groups`)}};e.config.globalProperties.$toast=t,e.provide(RE,t)}},zA={class:`flex align-items-center gap-3`},BA={class:`text-sm text-color-secondary`},VA={class:`mb-3`},HA={class:`flex align-items-center gap-2`},UA={class:`mb-3`},WA={class:`flex align-items-center gap-2 mb-2`},GA={key:0,class:`text-color-secondary`},KA={key:1,class:`text-green-600`},qA={key:2,class:`text-orange-600`},JA={class:`flex gap-2 flex-wrap`},YA={key:0,class:`mt-3`},XA={key:0,class:`text-color-secondary`},ZA={key:1,class:`flex flex-column gap-2`},QA={class:`font-bold mb-1`},$A={class:`text-sm`},ej=[`title`],tj={key:0},nj={key:1,class:`mt-3`},rj={key:0,class:`text-color-secondary`},ij={key:1,class:`flex flex-column gap-2`},aj={class:`font-bold mb-1`},oj={class:`text-sm`},sj=ED(wr({__name:`DebugDialog`,props:{visible:{type:Boolean},showOnlyMinor:{type:[Boolean,null]}},emits:[`update:visible`,`update:showOnlyMinor`],setup(e,{emit:t}){let n=new Date(`2026-09-27T11:02:01.037Z`).toLocaleString(),r=e,i=t,a=so({get:()=>r.showOnlyMinor,set:e=>i(`update:showOnlyMinor`,e)}),o=zE(),s=I(null);async function c(){let e=await eD.clickedDocs.toArray();e.sort((e,t)=>e.docURL.localeCompare(t.docURL));let t=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(e,null,2)),n=document.createElement(`a`);n.setAttribute(`href`,t),n.setAttribute(`download`,`clickedDocs.json`),document.body.appendChild(n),n.click(),n.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`Viewed documents download started.`,life:3e3})}async function l(){let e=document.createElement(`input`);e.type=`file`,e.accept=`.json`,e.onchange=async e=>{let t=e.target.files?.[0];if(t)try{let e=await t.text(),n=JSON.parse(e);if(!Array.isArray(n))throw Error(`JSON file must contain an array of documents`);for(let e of n)if(!e.city||!e.permitID||!e.docName||!e.docURL)throw Error(`Each document must have 'city', 'permitID', 'docName' and 'docURL' fields`);await eD.clickedDocs.bulkPut(n),o.add({severity:`success`,summary:`Import Successful`,detail:`Successfully imported ${n.length} viewed documents.`,life:5e3})}catch(e){console.error(`Error importing viewed docs:`,e),o.add({severity:`error`,summary:`Import Failed`,detail:e instanceof Error?e.message:`Failed to import documents`,life:5e3})}},e.click()}async function u(){let e=await eD.addressLocations.toArray();e.sort((e,t)=>e.address.localeCompare(t.address));let t=e.map(({address:e,lat:t,lng:n})=>({address:e,lat:t,lng:n})),n=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(t,null,2)),r=document.createElement(`a`);r.setAttribute(`href`,n),r.setAttribute(`download`,`address_locations.json`),document.body.appendChild(r),r.click(),r.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`Address locations download started.`,life:3e3})}async function d(){let e=document.createElement(`input`);e.type=`file`,e.accept=`.json`,e.onchange=async e=>{let t=e.target.files?.[0];if(t)try{let e=await t.text(),n=JSON.parse(e);if(!Array.isArray(n))throw Error(`JSON file must contain an array of address locations`);for(let e of n)if(!e.address||typeof e.lat!=`number`||typeof e.lng!=`number`)throw Error(`Each address location must have 'address', 'lat', and 'lng' fields`);await eD.addressLocations.bulkPut(n),o.add({severity:`success`,summary:`Import Successful`,detail:`Successfully imported ${n.length} address locations.`,life:5e3})}catch(e){console.error(`Error importing address locations:`,e),o.add({severity:`error`,summary:`Import Failed`,detail:e instanceof Error?e.message:`Failed to import address locations`,life:5e3})}},e.click()}async function f(){let e=prompt(`Enter document name to search (partial match, case insensitive):`);if(e)try{let t=await eD.clickedDocs.toArray(),n=e.toLowerCase(),r=t.filter(e=>e.docName.toLowerCase().includes(n)),i=r.map(e=>[e.city,e.permitID,e.docName]);console.log(`=== Document Search Results ===`),console.log(`Search term: "${e}"`),console.log(`\nMatching documents (${r.length}):`),console.log(i),console.log(`=== End Search Results ===`),o.add({severity:`info`,summary:`Search Complete`,detail:`Found ${r.length} matching documents. Check console.`,life:5e3})}catch(e){console.error(`Error searching documents:`,e),o.add({severity:`error`,summary:`Search Failed`,detail:e instanceof Error?e.message:`Failed to search documents`,life:5e3})}}async function p(){try{if(navigator.storage&&navigator.storage.persist){let e=await navigator.storage.persist();s.value=e,e?o.add({severity:`success`,summary:`Persistent Storage Granted`,detail:`Storage will not be cleared automatically.`,life:5e3}):o.add({severity:`warn`,summary:`Persistent Storage Denied`,detail:`The browser denied the request. Storage may be cleared under pressure.`,life:5e3})}else o.add({severity:`error`,summary:`Not Supported`,detail:`Persistent storage API is not available in this browser.`,life:5e3})}catch(e){console.error(`Error requesting persistent storage:`,e),o.add({severity:`error`,summary:`Request Failed`,detail:e instanceof Error?e.message:`Failed to request persistent storage`,life:5e3})}}async function m(e,t,n){let r=await e.exportAll(),i=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(r,null,2)),a=document.createElement(`a`);a.setAttribute(`href`,i),a.setAttribute(`download`,n),document.body.appendChild(a),a.click(),a.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`${t} download started (${r.length} permits).`,life:3e3})}function h(){m(MD,`Minor permits`,`minorPermits.json`)}function g(){m(ND,`Major permits`,`majorPermits.json`)}async function _(){let e=await AD.exportFavourites(),t=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(e,null,2)),n=document.createElement(`a`);n.setAttribute(`href`,t),n.setAttribute(`download`,`favourites.json`),document.body.appendChild(n),n.click(),n.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`Favourites download started (${e.length} favourites).`,life:3e3})}async function v(){let e=document.createElement(`input`);e.type=`file`,e.accept=`.json`,e.onchange=async e=>{let t=e.target.files?.[0];if(t)try{let e=await t.text(),n=JSON.parse(e),r=await AD.importFavourites(n);o.add({severity:`success`,summary:`Import Successful`,detail:`Successfully imported ${r} favourites.`,life:5e3})}catch(e){console.error(`Error importing favourites:`,e),o.add({severity:`error`,summary:`Import Failed`,detail:e instanceof Error?e.message:`Failed to import favourites`,life:5e3})}},e.click()}let y=I(null),b=I(!1),x=I(null),S=I(!1);async function C(){b.value=!0,y.value=null;try{let e=await eD.lastSeenPermits.where(`dbVersion`).equals(`current`).toArray(),t=[];for(let n of e){if(t.length>=5)break;let e=(await eD.lastSeenPermits.where({dbVersion:`previous`,city:n.city,folderNumber:n.folderNumber}).toArray())[0];if(!e||n.lastUpdated===e.lastUpdated)continue;let r=e.documents.filter(e=>!n.documents.some(t=>t.docName===e.docName&&t.docURL===e.docURL)).map(e=>({name:e.docName||e.docURL,url:e.docURL}));r.length>0&&t.push({city:n.city,folderNumber:n.folderNumber,deletedDocs:r})}y.value=t}finally{b.value=!1}}async function w(){S.value=!0,x.value=null;try{let e=await eD.lastSeenPermits.where(`dbVersion`).equals(`current`).toArray(),t=[];for(let n of e){if(t.length>=5)break;let e=(await eD.lastSeenPermits.where({dbVersion:`previous`,city:n.city,folderNumber:n.folderNumber}).toArray())[0];if(!e||n.lastUpdated===e.lastUpdated)continue;let r=e.progressSections.filter(e=>!n.progressSections.some(t=>t.taskDescription===e.taskDescription&&t.taskType===e.taskType)).map(e=>e.taskDescription||e.taskType);r.length>0&&t.push({city:n.city,folderNumber:n.folderNumber,deletedProgress:r})}x.value=t}finally{S.value=!1}}let T=so({get:()=>r.visible,set:e=>i(`update:visible`,e)});return Gn(()=>r.visible,async e=>{e?(console.log(`Debug Dialog opening - initializing`),navigator.storage&&navigator.storage.persisted?s.value=await navigator.storage.persisted():s.value=null,await Dn()):console.log(`Debug Dialog closing - cleaning up`)}),Br(()=>{r.visible&&Dn(()=>{})}),Wr(()=>{}),(e,t)=>(U(),G(L(pE),{visible:T.value,"onUpdate:visible":t[1]||=e=>T.value=e,dismissableMask:!0,style:{width:`95vw`,height:`90vh`},header:`Debug Dialog`,modal:!0,class:`debug-dialog`},{header:R(()=>[K(`div`,zA,[t[2]||=K(`h3`,{class:`m-0`},`Debug Dialog`,-1),K(`span`,BA,`v`+M(L(`30c5d60`))+` — built `+M(L(n)),1)])]),default:R(()=>[K(`div`,VA,[t[4]||=K(`h4`,{class:`mt-0 mb-2`},`Filters`,-1),K(`div`,HA,[t[3]||=K(`label`,{for:`filterMinor`},`Minor permits:`,-1),q(L(Xv),{modelValue:a.value,"onUpdate:modelValue":t[0]||=e=>a.value=e,inputId:`filterMinor`,options:[{label:`All`,value:null},{label:`Minor only`,value:!0},{label:`Non-minor only`,value:!1}],optionLabel:`label`,optionValue:`value`,placeholder:`All`,style:{"min-width":`150px`}},null,8,[`modelValue`])])]),K(`div`,UA,[t[6]||=K(`h4`,{class:`mt-0 mb-2`},`Storage Information`,-1),K(`div`,WA,[t[5]||=K(`strong`,null,`Storage Persisted:`,-1),s.value===null?(U(),W(`span`,GA,` Not available or checking... `)):s.value?(U(),W(`span`,KA,` ✓ Yes (storage will not be cleared) `)):(U(),W(`span`,qA,` ✗ No (storage may be cleared under pressure) `))]),s.value===!1?(U(),G(L(vg),{key:0,icon:`pi pi-lock`,label:`Request Persistent Storage`,onClick:p,severity:`secondary`,size:`small`})):J(``,!0)]),K(`div`,JA,[q(L(vg),{icon:`pi pi-download`,label:`Download Viewed Docs`,onClick:c}),q(L(vg),{icon:`pi pi-download`,label:`Export Address Locations`,onClick:u}),q(L(vg),{icon:`pi pi-download`,label:`Export Favourites`,onClick:_,severity:`warning`}),q(L(vg),{icon:`pi pi-download`,label:`Export Minor Permits`,onClick:h,severity:`info`}),q(L(vg),{icon:`pi pi-download`,label:`Export Major Permits`,onClick:g,severity:`primary`}),q(L(vg),{icon:`pi pi-file-search`,label:`Search Docs by Name`,onClick:f}),q(L(vg),{icon:`pi pi-upload`,label:`Import Viewed Docs`,onClick:l}),q(L(vg),{icon:`pi pi-upload`,label:`Import Address Locations`,onClick:d}),q(L(vg),{icon:`pi pi-upload`,label:`Import Favourites`,onClick:v,severity:`warning`}),q(L(vg),{icon:`pi pi-search`,label:`Find Deleted Docs`,onClick:C,loading:b.value,severity:`danger`},null,8,[`loading`]),q(L(vg),{icon:`pi pi-search`,label:`Find Deleted Tasks`,onClick:w,loading:S.value,severity:`danger`},null,8,[`loading`])]),y.value===null?J(``,!0):(U(),W(`div`,YA,[t[8]||=K(`h4`,{class:`mt-0 mb-2`},`Permits with Removed Documents (first 5)`,-1),y.value.length===0?(U(),W(`div`,XA,` No permits with deleted documents found. `)):(U(),W(`div`,ZA,[(U(!0),W(H,null,ti(y.value,e=>(U(),W(`div`,{key:e.city+e.folderNumber,class:`border-1 border-round p-2`,style:{"border-color":`var(--colour-data-deleted)`,background:`#fff5f5`}},[K(`div`,QA,M(e.city)+` — `+M(e.folderNumber),1),K(`div`,$A,[t[7]||=K(`span`,{class:`font-semibold`},`Removed docs:`,-1),(U(!0),W(H,null,ti(e.deletedDocs,(t,n)=>(U(),W(H,{key:t.url},[K(`span`,{title:t.url},M(t.name),9,ej),n<e.deletedDocs.length-1?(U(),W(`span`,tj,`, `)):J(``,!0)],64))),128))])]))),128))]))])),x.value===null?J(``,!0):(U(),W(`div`,nj,[t[10]||=K(`h4`,{class:`mt-0 mb-2`},`Permits with Removed Tasks (first 5)`,-1),x.value.length===0?(U(),W(`div`,rj,` No permits with deleted task progress found. `)):(U(),W(`div`,ij,[(U(!0),W(H,null,ti(x.value,e=>(U(),W(`div`,{key:e.city+e.folderNumber,class:`border-1 border-round p-2`,style:{"border-color":`var(--colour-data-deleted)`,background:`#fff5f5`}},[K(`div`,aj,M(e.city)+` — `+M(e.folderNumber),1),K(`div`,oj,[t[9]||=K(`span`,{class:`font-semibold`},`Removed tasks:`,-1),Pa(` `+M(e.deletedProgress.join(`, `)),1)])]))),128))]))]))]),_:1},8,[`visible`]))}}),[[`__scopeId`,`data-v-61a8212e`]]),cj=class{diff(e,t,n={}){let r;typeof n==`function`?(r=n,n={}):`callback`in n&&(r=n.callback);let i=this.castInput(e,n),a=this.castInput(t,n),o=this.removeEmpty(this.tokenize(i,n)),s=this.removeEmpty(this.tokenize(a,n));return this.diffWithOptionsObj(o,s,n,r)}diffWithOptionsObj(e,t,n,r){let i=e=>{if(e=this.postProcess(e,n),r){setTimeout(function(){r(e)},0);return}else return e},a=t.length,o=e.length,s=1,c=a+o;n.maxEditLength!=null&&(c=Math.min(c,n.maxEditLength));let l=n.timeout??1/0,u=Date.now()+l,d=[{oldPos:-1,lastComponent:void 0}],f=this.extractCommon(d[0],t,e,0,n);if(d[0].oldPos+1>=o&&f+1>=a)return i(this.buildValues(d[0].lastComponent,t,e));let p=-1/0,m=1/0,h=()=>{for(let r=Math.max(p,-s);r<=Math.min(m,s);r+=2){let s,c=d[r-1],l=d[r+1];c&&(d[r-1]=void 0);let u=!1;if(l){let e=l.oldPos-r;u=l&&0<=e&&e<a}let h=c&&c.oldPos+1<o;if(!u&&!h){d[r]=void 0;continue}if(s=!h||u&&c.oldPos<l.oldPos?this.addToPath(l,!0,!1,0,n):this.addToPath(c,!1,!0,1,n),f=this.extractCommon(s,t,e,r,n),s.oldPos+1>=o&&f+1>=a)return i(this.buildValues(s.lastComponent,t,e))||!0;d[r]=s,s.oldPos+1>=o&&(m=Math.min(m,r-1)),f+1>=a&&(p=Math.max(p,r+1))}s++};if(r)(function e(){setTimeout(function(){if(s>c||Date.now()>u)return r(void 0);h()||e()},0)})();else for(;s<=c&&Date.now()<=u;){let e=h();if(e)return e}}addToPath(e,t,n,r,i){let a=e.lastComponent;return a&&!i.oneChangePerToken&&a.added===t&&a.removed===n?{oldPos:e.oldPos+r,lastComponent:{count:a.count+1,added:t,removed:n,previousComponent:a.previousComponent}}:{oldPos:e.oldPos+r,lastComponent:{count:1,added:t,removed:n,previousComponent:a}}}extractCommon(e,t,n,r,i){let a=t.length,o=n.length,s=e.oldPos,c=s-r,l=0;for(;c+1<a&&s+1<o&&this.equals(n[s+1],t[c+1],i);)c++,s++,l++,i.oneChangePerToken&&(e.lastComponent={count:1,previousComponent:e.lastComponent,added:!1,removed:!1});return l&&!i.oneChangePerToken&&(e.lastComponent={count:l,previousComponent:e.lastComponent,added:!1,removed:!1}),e.oldPos=s,c}equals(e,t,n){return n.comparator?n.comparator(e,t):e===t||!!n.ignoreCase&&e.toLowerCase()===t.toLowerCase()}removeEmpty(e){let t=[];for(let n=0;n<e.length;n++)e[n]&&t.push(e[n]);return t}castInput(e,t){return e}tokenize(e,t){return Array.from(e)}join(e){return e.join(``)}postProcess(e,t){return e}get useLongestToken(){return!1}buildValues(e,t,n){let r=[],i;for(;e;)r.push(e),i=e.previousComponent,delete e.previousComponent,e=i;r.reverse();let a=r.length,o=0,s=0,c=0;for(;o<a;o++){let e=r[o];if(e.removed)e.value=this.join(n.slice(c,c+e.count)),c+=e.count;else{if(!e.added&&this.useLongestToken){let r=t.slice(s,s+e.count);r=r.map(function(e,t){let r=n[c+t];return r.length>e.length?r:e}),e.value=this.join(r)}else e.value=this.join(t.slice(s,s+e.count));s+=e.count,e.added||(c+=e.count)}}return r}};new class extends cj{};function lj(e,t){let n;for(n=0;n<e.length&&n<t.length;n++)if(e[n]!=t[n])return e.slice(0,n);return e.slice(0,n)}function uj(e,t){let n;if(!e||!t||e[e.length-1]!=t[t.length-1])return``;for(n=0;n<e.length&&n<t.length;n++)if(e[e.length-(n+1)]!=t[t.length-(n+1)])return e.slice(-n);return e.slice(-n)}function dj(e,t,n){if(e.slice(0,t.length)!=t)throw Error(`string ${JSON.stringify(e)} doesn't start with prefix ${JSON.stringify(t)}; this is a bug`);return n+e.slice(t.length)}function fj(e,t,n){if(!t)return e+n;if(e.slice(-t.length)!=t)throw Error(`string ${JSON.stringify(e)} doesn't end with suffix ${JSON.stringify(t)}; this is a bug`);return e.slice(0,-t.length)+n}function pj(e,t){return dj(e,t,``)}function mj(e,t){return fj(e,t,``)}function hj(e,t){return t.slice(0,gj(e,t))}function gj(e,t){let n=0;e.length>t.length&&(n=e.length-t.length);let r=t.length;e.length<t.length&&(r=e.length);let i=Array(r),a=0;i[0]=0;for(let e=1;e<r;e++){for(t[e]==t[a]?i[e]=i[a]:i[e]=a;a>0&&t[e]!=t[a];)a=i[a];t[e]==t[a]&&a++}a=0;for(let r=n;r<e.length;r++){for(;a>0&&e[r]!=t[a];)a=i[a];e[r]==t[a]&&a++}return a}function _j(e,t){let n=[];for(let r of Array.from(t.segment(e))){let e=r.segment;n.length&&/\s/.test(n[n.length-1])&&/\s/.test(e)?n[n.length-1]+=e:n.push(e)}return n}function vj(e,t){if(t)return bj(e,t)[1];let n;for(n=e.length-1;n>=0&&e[n].match(/\s/);n--);return e.substring(n+1)}function yj(e,t){if(t)return bj(e,t)[0];let n=e.match(/^\s*/);return n?n[0]:``}function bj(e,t){if(!t)return[yj(e),vj(e)];if(t.resolvedOptions().granularity!=`word`)throw Error(`The segmenter passed must have a granularity of "word"`);let n=_j(e,t),r=n[0],i=n[n.length-1];return[/\s/.test(r)?r:``,/\s/.test(i)?i:``]}var xj=`a-zA-Z0-9_\\u{AD}\\u{C0}-\\u{D6}\\u{D8}-\\u{F6}\\u{F8}-\\u{2C6}\\u{2C8}-\\u{2D7}\\u{2DE}-\\u{2FF}\\u{1E00}-\\u{1EFF}`,Sj=RegExp(`[${xj}]+|\\s+|[^${xj}]`,`ug`);new class extends cj{equals(e,t,n){return n.ignoreCase&&(e=e.toLowerCase(),t=t.toLowerCase()),e.trim()===t.trim()}tokenize(e,t={}){let n;if(t.intlSegmenter){let r=t.intlSegmenter;if(r.resolvedOptions().granularity!=`word`)throw Error(`The segmenter passed must have a granularity of "word"`);n=_j(e,r)}else n=e.match(Sj)||[];let r=[],i=null;return n.forEach(e=>{/\s/.test(e)?i==null?r.push(e):r.push(r.pop()+e):i!=null&&/\s/.test(i)?r[r.length-1]==i?r.push(r.pop()+e):r.push(i+e):r.push(e),i=e}),r}join(e){return e.map((e,t)=>t==0?e:e.replace(/^\s+/,``)).join(``)}postProcess(e,t){if(!e||t.oneChangePerToken)return e;let n=null,r=null,i=null;return e.forEach(e=>{e.added?r=e:e.removed?i=e:((r||i)&&Cj(n,i,r,e,t.intlSegmenter),n=e,r=null,i=null)}),(r||i)&&Cj(n,i,r,null,t.intlSegmenter),e}};function Cj(e,t,n,r,i){if(t&&n){let[a,o]=bj(t.value,i),[s,c]=bj(n.value,i);if(e){let r=lj(a,s);e.value=fj(e.value,s,r),t.value=pj(t.value,r),n.value=pj(n.value,r)}if(r){let e=uj(o,c);r.value=dj(r.value,c,e),t.value=mj(t.value,e),n.value=mj(n.value,e)}}else if(n){if(e){let e=yj(n.value,i);n.value=n.value.substring(e.length)}if(r){let e=yj(r.value,i);r.value=r.value.substring(e.length)}}else if(e&&r){let n=yj(r.value,i),[a,o]=bj(t.value,i),s=lj(n,a);t.value=pj(t.value,s);let c=uj(pj(n,s),o);t.value=mj(t.value,c),r.value=dj(r.value,n,c),e.value=fj(e.value,n,n.slice(0,n.length-c.length))}else if(r){let e=yj(r.value,i),n=hj(vj(t.value,i),e);t.value=mj(t.value,n)}else if(e){let n=hj(vj(e.value,i),yj(t.value,i));t.value=pj(t.value,n)}}new class extends cj{tokenize(e){let t=RegExp(`(\\r?\\n)|[${xj}]+|[^\\S\\n\\r]+|[^${xj}]`,`ug`);return e.match(t)||[]}};var wj=new class extends cj{constructor(){super(...arguments),this.tokenize=Ej}equals(e,t,n){return n.ignoreWhitespace?((!n.newlineIsToken||!e.includes(`
+`,classes:{root:function(e){var t=e.instance,n=e.props;return[`p-toggleswitch p-component`,{"p-toggleswitch-checked":t.checked,"p-disabled":n.disabled,"p-invalid":t.$invalid}]},input:`p-toggleswitch-input`,slider:`p-toggleswitch-slider`,handle:`p-toggleswitch-handle`},inlineStyles:{root:{position:`relative`}}}),MA={name:`ToggleSwitch`,extends:{name:`BaseToggleSwitch`,extends:fv,props:{trueValue:{type:null,default:!0},falseValue:{type:null,default:!1},readonly:{type:Boolean,default:!1},tabindex:{type:Number,default:null},inputId:{type:String,default:null},inputClass:{type:[String,Object],default:null},inputStyle:{type:Object,default:null},ariaLabelledby:{type:String,default:null},ariaLabel:{type:String,default:null}},style:jA,provide:function(){return{$pcToggleSwitch:this,$parentInstance:this}}},inheritAttrs:!1,emits:[`change`,`focus`,`blur`],methods:{getPTOptions:function(e){return(e===`root`?this.ptmi:this.ptm)(e,{context:{checked:this.checked,disabled:this.disabled}})},onChange:function(e){if(!this.disabled&&!this.readonly){var t=this.checked?this.falseValue:this.trueValue;this.writeValue(t,e),this.$emit(`change`,e)}},onFocus:function(e){this.$emit(`focus`,e)},onBlur:function(e){var t,n;this.$emit(`blur`,e),(t=(n=this.formField).onBlur)==null||t.call(n,e)}},computed:{checked:function(){return this.d_value===this.trueValue},dataP:function(){return Ec({checked:this.checked,disabled:this.disabled,invalid:this.$invalid})}}},NA=[`data-p-checked`,`data-p-disabled`,`data-p`],PA=[`id`,`checked`,`tabindex`,`disabled`,`readonly`,`aria-checked`,`aria-labelledby`,`aria-label`,`aria-invalid`],FA=[`data-p`],IA=[`data-p`];function LA(e,t,n,r,i,a){return U(),W(`div`,Y({class:e.cx(`root`),style:e.sx(`root`)},a.getPTOptions(`root`),{"data-p-checked":a.checked,"data-p-disabled":e.disabled,"data-p":a.dataP}),[K(`input`,Y({id:e.inputId,type:`checkbox`,role:`switch`,class:[e.cx(`input`),e.inputClass],style:e.inputStyle,checked:a.checked,tabindex:e.tabindex,disabled:e.disabled,readonly:e.readonly,"aria-checked":a.checked,"aria-labelledby":e.ariaLabelledby,"aria-label":e.ariaLabel,"aria-invalid":e.invalid||void 0,onFocus:t[0]||=function(){return a.onFocus&&a.onFocus.apply(a,arguments)},onBlur:t[1]||=function(){return a.onBlur&&a.onBlur.apply(a,arguments)},onChange:t[2]||=function(){return a.onChange&&a.onChange.apply(a,arguments)}},a.getPTOptions(`input`)),null,16,PA),K(`div`,Y({class:e.cx(`slider`)},a.getPTOptions(`slider`),{"data-p":a.dataP}),[K(`div`,Y({class:e.cx(`handle`)},a.getPTOptions(`handle`),{"data-p":a.dataP}),[V(e.$slots,`handle`,{checked:a.checked})],16,IA)],16,FA)],16,NA)}MA.render=LA;var RA={install:function(e){var t={add:function(e){CO.emit(`add`,e)},remove:function(e){CO.emit(`remove`,e)},removeGroup:function(e){CO.emit(`remove-group`,e)},removeAllGroups:function(){CO.emit(`remove-all-groups`)}};e.config.globalProperties.$toast=t,e.provide(RE,t)}},zA={class:`flex align-items-center gap-3`},BA={class:`text-sm text-color-secondary`},VA={class:`mb-3`},HA={class:`flex align-items-center gap-2`},UA={class:`mb-3`},WA={class:`flex align-items-center gap-2 mb-2`},GA={key:0,class:`text-color-secondary`},KA={key:1,class:`text-green-600`},qA={key:2,class:`text-orange-600`},JA={class:`flex gap-2 flex-wrap`},YA={key:0,class:`mt-3`},XA={key:0,class:`text-color-secondary`},ZA={key:1,class:`flex flex-column gap-2`},QA={class:`font-bold mb-1`},$A={class:`text-sm`},ej=[`title`],tj={key:0},nj={key:1,class:`mt-3`},rj={key:0,class:`text-color-secondary`},ij={key:1,class:`flex flex-column gap-2`},aj={class:`font-bold mb-1`},oj={class:`text-sm`},sj=ED(wr({__name:`DebugDialog`,props:{visible:{type:Boolean},showOnlyMinor:{type:[Boolean,null]}},emits:[`update:visible`,`update:showOnlyMinor`],setup(e,{emit:t}){let n=new Date(`2026-09-27T17:40:51.538Z`).toLocaleString(),r=e,i=t,a=so({get:()=>r.showOnlyMinor,set:e=>i(`update:showOnlyMinor`,e)}),o=zE(),s=I(null);async function c(){let e=await eD.clickedDocs.toArray();e.sort((e,t)=>e.docURL.localeCompare(t.docURL));let t=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(e,null,2)),n=document.createElement(`a`);n.setAttribute(`href`,t),n.setAttribute(`download`,`clickedDocs.json`),document.body.appendChild(n),n.click(),n.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`Viewed documents download started.`,life:3e3})}async function l(){let e=document.createElement(`input`);e.type=`file`,e.accept=`.json`,e.onchange=async e=>{let t=e.target.files?.[0];if(t)try{let e=await t.text(),n=JSON.parse(e);if(!Array.isArray(n))throw Error(`JSON file must contain an array of documents`);for(let e of n)if(!e.city||!e.permitID||!e.docName||!e.docURL)throw Error(`Each document must have 'city', 'permitID', 'docName' and 'docURL' fields`);await eD.clickedDocs.bulkPut(n),o.add({severity:`success`,summary:`Import Successful`,detail:`Successfully imported ${n.length} viewed documents.`,life:5e3})}catch(e){console.error(`Error importing viewed docs:`,e),o.add({severity:`error`,summary:`Import Failed`,detail:e instanceof Error?e.message:`Failed to import documents`,life:5e3})}},e.click()}async function u(){let e=await eD.addressLocations.toArray();e.sort((e,t)=>e.address.localeCompare(t.address));let t=e.map(({address:e,lat:t,lng:n})=>({address:e,lat:t,lng:n})),n=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(t,null,2)),r=document.createElement(`a`);r.setAttribute(`href`,n),r.setAttribute(`download`,`address_locations.json`),document.body.appendChild(r),r.click(),r.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`Address locations download started.`,life:3e3})}async function d(){let e=document.createElement(`input`);e.type=`file`,e.accept=`.json`,e.onchange=async e=>{let t=e.target.files?.[0];if(t)try{let e=await t.text(),n=JSON.parse(e);if(!Array.isArray(n))throw Error(`JSON file must contain an array of address locations`);for(let e of n)if(!e.address||typeof e.lat!=`number`||typeof e.lng!=`number`)throw Error(`Each address location must have 'address', 'lat', and 'lng' fields`);await eD.addressLocations.bulkPut(n),o.add({severity:`success`,summary:`Import Successful`,detail:`Successfully imported ${n.length} address locations.`,life:5e3})}catch(e){console.error(`Error importing address locations:`,e),o.add({severity:`error`,summary:`Import Failed`,detail:e instanceof Error?e.message:`Failed to import address locations`,life:5e3})}},e.click()}async function f(){let e=prompt(`Enter document name to search (partial match, case insensitive):`);if(e)try{let t=await eD.clickedDocs.toArray(),n=e.toLowerCase(),r=t.filter(e=>e.docName.toLowerCase().includes(n)),i=r.map(e=>[e.city,e.permitID,e.docName]);console.log(`=== Document Search Results ===`),console.log(`Search term: "${e}"`),console.log(`\nMatching documents (${r.length}):`),console.log(i),console.log(`=== End Search Results ===`),o.add({severity:`info`,summary:`Search Complete`,detail:`Found ${r.length} matching documents. Check console.`,life:5e3})}catch(e){console.error(`Error searching documents:`,e),o.add({severity:`error`,summary:`Search Failed`,detail:e instanceof Error?e.message:`Failed to search documents`,life:5e3})}}async function p(){try{if(navigator.storage&&navigator.storage.persist){let e=await navigator.storage.persist();s.value=e,e?o.add({severity:`success`,summary:`Persistent Storage Granted`,detail:`Storage will not be cleared automatically.`,life:5e3}):o.add({severity:`warn`,summary:`Persistent Storage Denied`,detail:`The browser denied the request. Storage may be cleared under pressure.`,life:5e3})}else o.add({severity:`error`,summary:`Not Supported`,detail:`Persistent storage API is not available in this browser.`,life:5e3})}catch(e){console.error(`Error requesting persistent storage:`,e),o.add({severity:`error`,summary:`Request Failed`,detail:e instanceof Error?e.message:`Failed to request persistent storage`,life:5e3})}}async function m(e,t,n){let r=await e.exportAll(),i=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(r,null,2)),a=document.createElement(`a`);a.setAttribute(`href`,i),a.setAttribute(`download`,n),document.body.appendChild(a),a.click(),a.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`${t} download started (${r.length} permits).`,life:3e3})}function h(){m(MD,`Minor permits`,`minorPermits.json`)}function g(){m(ND,`Major permits`,`majorPermits.json`)}async function _(){let e=await AD.exportFavourites(),t=`data:text/json;charset=utf-8,`+encodeURIComponent(JSON.stringify(e,null,2)),n=document.createElement(`a`);n.setAttribute(`href`,t),n.setAttribute(`download`,`favourites.json`),document.body.appendChild(n),n.click(),n.remove(),o.add({severity:`success`,summary:`Download Started`,detail:`Favourites download started (${e.length} favourites).`,life:3e3})}async function v(){let e=document.createElement(`input`);e.type=`file`,e.accept=`.json`,e.onchange=async e=>{let t=e.target.files?.[0];if(t)try{let e=await t.text(),n=JSON.parse(e),r=await AD.importFavourites(n);o.add({severity:`success`,summary:`Import Successful`,detail:`Successfully imported ${r} favourites.`,life:5e3})}catch(e){console.error(`Error importing favourites:`,e),o.add({severity:`error`,summary:`Import Failed`,detail:e instanceof Error?e.message:`Failed to import favourites`,life:5e3})}},e.click()}let y=I(null),b=I(!1),x=I(null),S=I(!1);async function C(){b.value=!0,y.value=null;try{let e=await eD.lastSeenPermits.where(`dbVersion`).equals(`current`).toArray(),t=[];for(let n of e){if(t.length>=5)break;let e=(await eD.lastSeenPermits.where({dbVersion:`previous`,city:n.city,folderNumber:n.folderNumber}).toArray())[0];if(!e||n.lastUpdated===e.lastUpdated)continue;let r=e.documents.filter(e=>!n.documents.some(t=>t.docName===e.docName&&t.docURL===e.docURL)).map(e=>({name:e.docName||e.docURL,url:e.docURL}));r.length>0&&t.push({city:n.city,folderNumber:n.folderNumber,deletedDocs:r})}y.value=t}finally{b.value=!1}}async function w(){S.value=!0,x.value=null;try{let e=await eD.lastSeenPermits.where(`dbVersion`).equals(`current`).toArray(),t=[];for(let n of e){if(t.length>=5)break;let e=(await eD.lastSeenPermits.where({dbVersion:`previous`,city:n.city,folderNumber:n.folderNumber}).toArray())[0];if(!e||n.lastUpdated===e.lastUpdated)continue;let r=e.progressSections.filter(e=>!n.progressSections.some(t=>t.taskDescription===e.taskDescription&&t.taskType===e.taskType)).map(e=>e.taskDescription||e.taskType);r.length>0&&t.push({city:n.city,folderNumber:n.folderNumber,deletedProgress:r})}x.value=t}finally{S.value=!1}}let T=so({get:()=>r.visible,set:e=>i(`update:visible`,e)});return Gn(()=>r.visible,async e=>{e?(console.log(`Debug Dialog opening - initializing`),navigator.storage&&navigator.storage.persisted?s.value=await navigator.storage.persisted():s.value=null,await Dn()):console.log(`Debug Dialog closing - cleaning up`)}),Br(()=>{r.visible&&Dn(()=>{})}),Wr(()=>{}),(e,t)=>(U(),G(L(pE),{visible:T.value,"onUpdate:visible":t[1]||=e=>T.value=e,dismissableMask:!0,style:{width:`95vw`,height:`90vh`},header:`Debug Dialog`,modal:!0,class:`debug-dialog`},{header:R(()=>[K(`div`,zA,[t[2]||=K(`h3`,{class:`m-0`},`Debug Dialog`,-1),K(`span`,BA,`v`+M(L(`29fe802`))+` — built `+M(L(n)),1)])]),default:R(()=>[K(`div`,VA,[t[4]||=K(`h4`,{class:`mt-0 mb-2`},`Filters`,-1),K(`div`,HA,[t[3]||=K(`label`,{for:`filterMinor`},`Minor permits:`,-1),q(L(Xv),{modelValue:a.value,"onUpdate:modelValue":t[0]||=e=>a.value=e,inputId:`filterMinor`,options:[{label:`All`,value:null},{label:`Minor only`,value:!0},{label:`Non-minor only`,value:!1}],optionLabel:`label`,optionValue:`value`,placeholder:`All`,style:{"min-width":`150px`}},null,8,[`modelValue`])])]),K(`div`,UA,[t[6]||=K(`h4`,{class:`mt-0 mb-2`},`Storage Information`,-1),K(`div`,WA,[t[5]||=K(`strong`,null,`Storage Persisted:`,-1),s.value===null?(U(),W(`span`,GA,` Not available or checking... `)):s.value?(U(),W(`span`,KA,` ✓ Yes (storage will not be cleared) `)):(U(),W(`span`,qA,` ✗ No (storage may be cleared under pressure) `))]),s.value===!1?(U(),G(L(vg),{key:0,icon:`pi pi-lock`,label:`Request Persistent Storage`,onClick:p,severity:`secondary`,size:`small`})):J(``,!0)]),K(`div`,JA,[q(L(vg),{icon:`pi pi-download`,label:`Download Viewed Docs`,onClick:c}),q(L(vg),{icon:`pi pi-download`,label:`Export Address Locations`,onClick:u}),q(L(vg),{icon:`pi pi-download`,label:`Export Favourites`,onClick:_,severity:`warning`}),q(L(vg),{icon:`pi pi-download`,label:`Export Minor Permits`,onClick:h,severity:`info`}),q(L(vg),{icon:`pi pi-download`,label:`Export Major Permits`,onClick:g,severity:`primary`}),q(L(vg),{icon:`pi pi-file-search`,label:`Search Docs by Name`,onClick:f}),q(L(vg),{icon:`pi pi-upload`,label:`Import Viewed Docs`,onClick:l}),q(L(vg),{icon:`pi pi-upload`,label:`Import Address Locations`,onClick:d}),q(L(vg),{icon:`pi pi-upload`,label:`Import Favourites`,onClick:v,severity:`warning`}),q(L(vg),{icon:`pi pi-search`,label:`Find Deleted Docs`,onClick:C,loading:b.value,severity:`danger`},null,8,[`loading`]),q(L(vg),{icon:`pi pi-search`,label:`Find Deleted Tasks`,onClick:w,loading:S.value,severity:`danger`},null,8,[`loading`])]),y.value===null?J(``,!0):(U(),W(`div`,YA,[t[8]||=K(`h4`,{class:`mt-0 mb-2`},`Permits with Removed Documents (first 5)`,-1),y.value.length===0?(U(),W(`div`,XA,` No permits with deleted documents found. `)):(U(),W(`div`,ZA,[(U(!0),W(H,null,ti(y.value,e=>(U(),W(`div`,{key:e.city+e.folderNumber,class:`border-1 border-round p-2`,style:{"border-color":`var(--colour-data-deleted)`,background:`#fff5f5`}},[K(`div`,QA,M(e.city)+` — `+M(e.folderNumber),1),K(`div`,$A,[t[7]||=K(`span`,{class:`font-semibold`},`Removed docs:`,-1),(U(!0),W(H,null,ti(e.deletedDocs,(t,n)=>(U(),W(H,{key:t.url},[K(`span`,{title:t.url},M(t.name),9,ej),n<e.deletedDocs.length-1?(U(),W(`span`,tj,`, `)):J(``,!0)],64))),128))])]))),128))]))])),x.value===null?J(``,!0):(U(),W(`div`,nj,[t[10]||=K(`h4`,{class:`mt-0 mb-2`},`Permits with Removed Tasks (first 5)`,-1),x.value.length===0?(U(),W(`div`,rj,` No permits with deleted task progress found. `)):(U(),W(`div`,ij,[(U(!0),W(H,null,ti(x.value,e=>(U(),W(`div`,{key:e.city+e.folderNumber,class:`border-1 border-round p-2`,style:{"border-color":`var(--colour-data-deleted)`,background:`#fff5f5`}},[K(`div`,aj,M(e.city)+` — `+M(e.folderNumber),1),K(`div`,oj,[t[9]||=K(`span`,{class:`font-semibold`},`Removed tasks:`,-1),Pa(` `+M(e.deletedProgress.join(`, `)),1)])]))),128))]))]))]),_:1},8,[`visible`]))}}),[[`__scopeId`,`data-v-61a8212e`]]),cj=class{diff(e,t,n={}){let r;typeof n==`function`?(r=n,n={}):`callback`in n&&(r=n.callback);let i=this.castInput(e,n),a=this.castInput(t,n),o=this.removeEmpty(this.tokenize(i,n)),s=this.removeEmpty(this.tokenize(a,n));return this.diffWithOptionsObj(o,s,n,r)}diffWithOptionsObj(e,t,n,r){let i=e=>{if(e=this.postProcess(e,n),r){setTimeout(function(){r(e)},0);return}else return e},a=t.length,o=e.length,s=1,c=a+o;n.maxEditLength!=null&&(c=Math.min(c,n.maxEditLength));let l=n.timeout??1/0,u=Date.now()+l,d=[{oldPos:-1,lastComponent:void 0}],f=this.extractCommon(d[0],t,e,0,n);if(d[0].oldPos+1>=o&&f+1>=a)return i(this.buildValues(d[0].lastComponent,t,e));let p=-1/0,m=1/0,h=()=>{for(let r=Math.max(p,-s);r<=Math.min(m,s);r+=2){let s,c=d[r-1],l=d[r+1];c&&(d[r-1]=void 0);let u=!1;if(l){let e=l.oldPos-r;u=l&&0<=e&&e<a}let h=c&&c.oldPos+1<o;if(!u&&!h){d[r]=void 0;continue}if(s=!h||u&&c.oldPos<l.oldPos?this.addToPath(l,!0,!1,0,n):this.addToPath(c,!1,!0,1,n),f=this.extractCommon(s,t,e,r,n),s.oldPos+1>=o&&f+1>=a)return i(this.buildValues(s.lastComponent,t,e))||!0;d[r]=s,s.oldPos+1>=o&&(m=Math.min(m,r-1)),f+1>=a&&(p=Math.max(p,r+1))}s++};if(r)(function e(){setTimeout(function(){if(s>c||Date.now()>u)return r(void 0);h()||e()},0)})();else for(;s<=c&&Date.now()<=u;){let e=h();if(e)return e}}addToPath(e,t,n,r,i){let a=e.lastComponent;return a&&!i.oneChangePerToken&&a.added===t&&a.removed===n?{oldPos:e.oldPos+r,lastComponent:{count:a.count+1,added:t,removed:n,previousComponent:a.previousComponent}}:{oldPos:e.oldPos+r,lastComponent:{count:1,added:t,removed:n,previousComponent:a}}}extractCommon(e,t,n,r,i){let a=t.length,o=n.length,s=e.oldPos,c=s-r,l=0;for(;c+1<a&&s+1<o&&this.equals(n[s+1],t[c+1],i);)c++,s++,l++,i.oneChangePerToken&&(e.lastComponent={count:1,previousComponent:e.lastComponent,added:!1,removed:!1});return l&&!i.oneChangePerToken&&(e.lastComponent={count:l,previousComponent:e.lastComponent,added:!1,removed:!1}),e.oldPos=s,c}equals(e,t,n){return n.comparator?n.comparator(e,t):e===t||!!n.ignoreCase&&e.toLowerCase()===t.toLowerCase()}removeEmpty(e){let t=[];for(let n=0;n<e.length;n++)e[n]&&t.push(e[n]);return t}castInput(e,t){return e}tokenize(e,t){return Array.from(e)}join(e){return e.join(``)}postProcess(e,t){return e}get useLongestToken(){return!1}buildValues(e,t,n){let r=[],i;for(;e;)r.push(e),i=e.previousComponent,delete e.previousComponent,e=i;r.reverse();let a=r.length,o=0,s=0,c=0;for(;o<a;o++){let e=r[o];if(e.removed)e.value=this.join(n.slice(c,c+e.count)),c+=e.count;else{if(!e.added&&this.useLongestToken){let r=t.slice(s,s+e.count);r=r.map(function(e,t){let r=n[c+t];return r.length>e.length?r:e}),e.value=this.join(r)}else e.value=this.join(t.slice(s,s+e.count));s+=e.count,e.added||(c+=e.count)}}return r}};new class extends cj{};function lj(e,t){let n;for(n=0;n<e.length&&n<t.length;n++)if(e[n]!=t[n])return e.slice(0,n);return e.slice(0,n)}function uj(e,t){let n;if(!e||!t||e[e.length-1]!=t[t.length-1])return``;for(n=0;n<e.length&&n<t.length;n++)if(e[e.length-(n+1)]!=t[t.length-(n+1)])return e.slice(-n);return e.slice(-n)}function dj(e,t,n){if(e.slice(0,t.length)!=t)throw Error(`string ${JSON.stringify(e)} doesn't start with prefix ${JSON.stringify(t)}; this is a bug`);return n+e.slice(t.length)}function fj(e,t,n){if(!t)return e+n;if(e.slice(-t.length)!=t)throw Error(`string ${JSON.stringify(e)} doesn't end with suffix ${JSON.stringify(t)}; this is a bug`);return e.slice(0,-t.length)+n}function pj(e,t){return dj(e,t,``)}function mj(e,t){return fj(e,t,``)}function hj(e,t){return t.slice(0,gj(e,t))}function gj(e,t){let n=0;e.length>t.length&&(n=e.length-t.length);let r=t.length;e.length<t.length&&(r=e.length);let i=Array(r),a=0;i[0]=0;for(let e=1;e<r;e++){for(t[e]==t[a]?i[e]=i[a]:i[e]=a;a>0&&t[e]!=t[a];)a=i[a];t[e]==t[a]&&a++}a=0;for(let r=n;r<e.length;r++){for(;a>0&&e[r]!=t[a];)a=i[a];e[r]==t[a]&&a++}return a}function _j(e,t){let n=[];for(let r of Array.from(t.segment(e))){let e=r.segment;n.length&&/\s/.test(n[n.length-1])&&/\s/.test(e)?n[n.length-1]+=e:n.push(e)}return n}function vj(e,t){if(t)return bj(e,t)[1];let n;for(n=e.length-1;n>=0&&e[n].match(/\s/);n--);return e.substring(n+1)}function yj(e,t){if(t)return bj(e,t)[0];let n=e.match(/^\s*/);return n?n[0]:``}function bj(e,t){if(!t)return[yj(e),vj(e)];if(t.resolvedOptions().granularity!=`word`)throw Error(`The segmenter passed must have a granularity of "word"`);let n=_j(e,t),r=n[0],i=n[n.length-1];return[/\s/.test(r)?r:``,/\s/.test(i)?i:``]}var xj=`a-zA-Z0-9_\\u{AD}\\u{C0}-\\u{D6}\\u{D8}-\\u{F6}\\u{F8}-\\u{2C6}\\u{2C8}-\\u{2D7}\\u{2DE}-\\u{2FF}\\u{1E00}-\\u{1EFF}`,Sj=RegExp(`[${xj}]+|\\s+|[^${xj}]`,`ug`);new class extends cj{equals(e,t,n){return n.ignoreCase&&(e=e.toLowerCase(),t=t.toLowerCase()),e.trim()===t.trim()}tokenize(e,t={}){let n;if(t.intlSegmenter){let r=t.intlSegmenter;if(r.resolvedOptions().granularity!=`word`)throw Error(`The segmenter passed must have a granularity of "word"`);n=_j(e,r)}else n=e.match(Sj)||[];let r=[],i=null;return n.forEach(e=>{/\s/.test(e)?i==null?r.push(e):r.push(r.pop()+e):i!=null&&/\s/.test(i)?r[r.length-1]==i?r.push(r.pop()+e):r.push(i+e):r.push(e),i=e}),r}join(e){return e.map((e,t)=>t==0?e:e.replace(/^\s+/,``)).join(``)}postProcess(e,t){if(!e||t.oneChangePerToken)return e;let n=null,r=null,i=null;return e.forEach(e=>{e.added?r=e:e.removed?i=e:((r||i)&&Cj(n,i,r,e,t.intlSegmenter),n=e,r=null,i=null)}),(r||i)&&Cj(n,i,r,null,t.intlSegmenter),e}};function Cj(e,t,n,r,i){if(t&&n){let[a,o]=bj(t.value,i),[s,c]=bj(n.value,i);if(e){let r=lj(a,s);e.value=fj(e.value,s,r),t.value=pj(t.value,r),n.value=pj(n.value,r)}if(r){let e=uj(o,c);r.value=dj(r.value,c,e),t.value=mj(t.value,e),n.value=mj(n.value,e)}}else if(n){if(e){let e=yj(n.value,i);n.value=n.value.substring(e.length)}if(r){let e=yj(r.value,i);r.value=r.value.substring(e.length)}}else if(e&&r){let n=yj(r.value,i),[a,o]=bj(t.value,i),s=lj(n,a);t.value=pj(t.value,s);let c=uj(pj(n,s),o);t.value=mj(t.value,c),r.value=dj(r.value,n,c),e.value=fj(e.value,n,n.slice(0,n.length-c.length))}else if(r){let e=yj(r.value,i),n=hj(vj(t.value,i),e);t.value=mj(t.value,n)}else if(e){let n=hj(vj(e.value,i),yj(t.value,i));t.value=pj(t.value,n)}}new class extends cj{tokenize(e){let t=RegExp(`(\\r?\\n)|[${xj}]+|[^\\S\\n\\r]+|[^${xj}]`,`ug`);return e.match(t)||[]}};var wj=new class extends cj{constructor(){super(...arguments),this.tokenize=Ej}equals(e,t,n){return n.ignoreWhitespace?((!n.newlineIsToken||!e.includes(`
 `))&&(e=e.trim()),(!n.newlineIsToken||!t.includes(`
 `))&&(t=t.trim())):n.ignoreNewlineAtEof&&!n.newlineIsToken&&(e.endsWith(`
 `)&&(e=e.slice(0,-1)),t.endsWith(`
