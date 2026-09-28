@@ -1,3 +1,5 @@
+const API_KEY = "AIzaSyB-AAgFz8X7o_N5vmiLU1MoKPUVa6_0NPA";
+
 let isApiLoaded = false;
 let apiLoadPromise: Promise<void> | null = null;
 
