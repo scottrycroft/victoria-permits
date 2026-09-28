@@ -1,5 +1,3 @@
-const API_KEY = "AIzaSyB-AAgFz8X7o_N5vmiLU1MoKPUVa6_0NPA";
-
 let isApiLoaded = false;
 let apiLoadPromise: Promise<void> | null = null;
 
@@ -41,7 +39,7 @@ export async function loadGoogleMapsAPI(): Promise<void> {
 		};
 
 		const script = document.createElement("script");
-		const apiUrl = `https://maps.googleapis.com/maps/api/js?key=${API_KEY}&libraries=drawing&callback=${callbackName}`;
+		const apiUrl = `https://maps.googleapis.com/maps/api/js?key=&libraries=drawing&callback=${callbackName}`;
 		console.log("Loading Google Maps API with URL:", apiUrl);
 		script.src = apiUrl;
 		script.async = true;
