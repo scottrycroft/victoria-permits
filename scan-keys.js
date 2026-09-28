@@ -27,7 +27,7 @@ if (targets.length === 0 && !HISTORY) {
 }
 
 const SKIP_DIRS = new Set([".git", "node_modules", "dist", "build", ".next", "coverage", "vendor"]);
-const MAX_FILE_BYTES = 5 * 1024 * 1024;
+const MAX_FILE_BYTES = 50 * 1024 * 1024;
 
 /** Detection rules. */
 const RULES = [
@@ -80,7 +80,6 @@ function scanText(text) {
 	const findings = [];
 	const lines = text.split(/\r?\n/);
 	lines.forEach((line, i) => {
-		if (line.length > 5000) return; // skip minified junk
 		const seen = new Set();
 		for (const rule of RULES) {
 			rule.regex.lastIndex = 0;
@@ -91,7 +90,7 @@ function scanText(text) {
 				if (rule.entropyMin && entropy(value) < rule.entropyMin) continue;
 				if (rule.mustHaveMixed && !(/[a-z]/.test(value) && /[A-Z]/.test(value) && /\d/.test(value))) continue;
 				seen.add(value);
-				findings.push({ rule: rule.name, line: i + 1, match: value });
+				findings.push({ rule: rule.name, line: i + 1, col: m.index + 1, match: value });
 			}
 		}
 	});
@@ -118,7 +117,7 @@ let total = 0;
 function report(where, findings) {
 	for (const f of findings) {
 		total++;
-		console.log(`[${f.rule}] ${where}:${f.line}  ${redact(f.match)}`);
+		console.log(`[${f.rule}] ${where}:${f.line}:${f.col}  ${redact(f.match)}`);
 	}
 }
 
@@ -130,9 +129,15 @@ for (const target of targets) {
 	}
 	for (const file of walk(target)) {
 		try {
-			if (fs.statSync(file).size > MAX_FILE_BYTES) continue;
+			if (fs.statSync(file).size > MAX_FILE_BYTES) {
+				console.error(`Skipped (over ${MAX_FILE_BYTES / 1024 / 1024}MB): ${file}`);
+				continue;
+			}
 			const buf = fs.readFileSync(file);
-			if (looksBinary(buf)) continue;
+			if (looksBinary(buf)) {
+				console.error(`Skipped (binary): ${file}`);
+				continue;
+			}
 			report(file, scanText(buf.toString("utf8")));
 		} catch (err) {
 			console.error(`Skipped ${file}: ${err.message}`);
