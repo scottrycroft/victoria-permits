@@ -16,7 +16,16 @@ const hasCoordinates = computed(
 // Check if the address contains a street number (starts with a digit)
 const addressHasNumber = computed(() => /\d/.test(props.address));
 
-const addressCity = computed(() => props.city === "Vancouver-Rezoning" ? "Vancouver" : props.city);
+const addressCity = computed(() => {
+	switch (props.city) {
+		case "Vancouver-Rezoning":
+			return "Vancouver";
+		case "Langford-Tracker":
+			return "Langford";
+		default:
+			return props.city;
+	}
+});
 
 const googleHref = computed(() => {
 	const addressPart = `${encodeURIComponent(props.address)}, ${encodeURIComponent(addressCity.value)}`;
