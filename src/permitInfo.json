@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1791370365,
+  "dateRetrieved": 1791456725,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10756,8 +10756,15 @@
         }
       ],
       "city": "Colwood",
-      "lastUpdated": 1789642368,
+      "lastUpdated": 1791456728,
       "relatedPermits": [
+        {
+          "relatedPermitID": "SP000076",
+          "relatedPermitType": "SIGN PERMIT",
+          "relatedPermitApplicationDate": 1790236800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "This application proposes 1 fascia sign for Royal Bay Veterinary Clinic."
+        },
         {
           "relatedPermitID": "DVP00015",
           "relatedPermitType": "DEVELOPMENT VARIANCE PERMIT",
@@ -113695,6 +113702,34 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "$0.00 14291 Burrows Rd 1DL Construction Ltd (604)723-3697 $0.00",
+      "applicant": "Ronos Architectural Inc. (Claire Park) (778) 654-8762",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-21-941370-000-03-BB",
+      "applicationDate": 1790496000,
+      "addresses": [
+        "$0.00 14291 Burrows Rd 1DL Construction Ltd (604)723-3697 $0.00"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Warehouse\nWork Proposed: Revision\nConstruction Value: 1",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1790496000,
+          "endDate": 1790496000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1791457001,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "16880 Westminster Hwy",
       "applicant": "Yi-Kai Lee (778)388-8637",
       "cityApplicationType": "Building Permit",
@@ -120997,7 +121032,7 @@
       "addresses": [
         "3820 Francis Road Eva Wang (778)713-7139"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: One Family Dwelling\nWork Proposed: New\nConstruction Value: $571,568.42",
       "progressSections": [
         {
@@ -121197,6 +121232,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "11431 Seacrest Road Ranjeet Suri (604)362-0467",
+      "applicant": "Skywerk Construction Ltd (604)338-7760",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-017002-000-00-B7",
+      "applicationDate": 1790496000,
+      "addresses": [
+        "11431 Seacrest Road Ranjeet Suri (604)362-0467"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Alteration\nConstruction Value: $50,000.00 1 $50,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1790496000,
+          "endDate": 1790496000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1791457001,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 50000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "4899 Vanguard Road Unit 114 Alex Mai (778)867-1026",
       "applicant": "1466295 BC Ltd",
       "cityApplicationType": "Building Permit",
@@ -121296,7 +121361,7 @@
       "addresses": [
         "3651 No 3 Rd Ken Sherwood (778)231-5028"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Repair Garage\nWork Proposed: Alteration\nConstruction Value: $95,000.00 1 $95,000.00",
       "progressSections": [
         {
@@ -121317,6 +121382,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "6081 No 3 Rd Unit 1010 Rishab Mehta (778)680-5321",
+      "applicant": "Anilson Construction Ltd (778)680-5321",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-021667-000-00-B8",
+      "applicationDate": 1790496000,
+      "addresses": [
+        "6081 No 3 Rd Unit 1010 Rishab Mehta (778)680-5321"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Office\nWork Proposed: Alteration\nConstruction Value: $45,000.00 1 $45,000.00\nContractor: 2",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1790496000,
+          "endDate": 1790496000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1791457001,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 45000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "3211 Carscallen Rd Rising Tide Consultants (Kim Norbury) (778)220-4410",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -121326,7 +121421,7 @@
       "addresses": [
         "3211 Carscallen Rd Rising Tide Consultants (Kim Norbury) (778)220-4410"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Apartment\nWork Proposed: Alteration\nConstruction Value: $0.00 1 $0.00",
       "progressSections": [
         {
@@ -121355,7 +121450,7 @@
       "addresses": [
         "9340 No 6 Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: One Family Dwelling\nWork Proposed: Alteration\nConstruction Value: $10,000.00 2 $581,568.42",
       "progressSections": [
         {
@@ -122748,6 +122843,34 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "10368 Swinton Crescent",
+      "applicant": "1521980 BC Ltd (Rigg Kumar) (604)716- 4957",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-014006-000-00-D7",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "10368 Swinton Crescent"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Trust Excavation & Demolition Ltd (Parmjit Dhaliwal) (604)805-0320",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1790841600,
+          "endDate": 1790841600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1791457001,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "11371 Frigate Court",
       "applicant": "Ranbir Saran (604)783-7987",
       "cityApplicationType": "Demolition",
@@ -122888,6 +123011,34 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "5180 Westwater Drive",
+      "applicant": "Alvin Martin (604)738-0201",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-016963-000-00-D2",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "5180 Westwater Drive"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Museum\nWork Proposed: Demolish\nContractor: VEMA Deconstruction\nDescription: FIRST NATIONS BLDG",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1790841600,
+          "endDate": 1790841600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1791457001,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "8520 Cambie Road",
       "applicant": "KP Architecture Ltd (Curtis Gray) (604) 853-8831",
       "cityApplicationType": "Demolition",
@@ -122968,6 +123119,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1788605857,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "10844 Springmont Gate",
+      "applicant": "Sukhvir Dosanjh (778)322-3671",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-021645-000-00-D7",
+      "applicationDate": 1790582400,
+      "addresses": [
+        "10844 Springmont Gate"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: G & H Demolition & Excavation Ltd (604)551-3870",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1790582400,
+          "endDate": 1790582400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1791457001,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -139554,6 +139733,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1788159600,
+          "endDate": 1791356400
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1791356400,
+          "endDate": 1791356400
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1791356400,
           "endDate": null
         }
       ],
@@ -139576,7 +139767,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1789123990,
+      "lastUpdated": 1791456728,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -139778,8 +139969,58 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1778223600,
-      "relatedPermits": [],
+      "lastUpdated": 1791456728,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RBP01087",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
+          "relatedPermitID": "RBP01086",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
+          "relatedPermitID": "RBP01085",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
+          "relatedPermitID": "RBP01084",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
+          "relatedPermitID": "RBP01081",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": ""
+        },
+        {
+          "relatedPermitID": "RBP01080",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
+          "relatedPermitID": "RBP01079",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": ""
+        }
+      ],
       "major": true
     },
     {
@@ -140950,7 +141191,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1789642368,
+      "lastUpdated": 1791456728,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26695",
@@ -140967,11 +141208,25 @@
           "relatedPermitDescription": "DEMOLITION OF EXISTING STORAGE SHED - SAANICH PARKS OPERATIONS CENTRE"
         },
         {
+          "relatedPermitID": "CBP00190",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1777449600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "**PRIORITY**  COVERED STORAGE & WORK AREA"
+        },
+        {
+          "relatedPermitID": "CBP00189",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1777449600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "**PRIORITY**  BIKE SHELTER"
+        },
+        {
           "relatedPermitID": "CBP00119",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1777449600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "**PRIORITY** RENOVATION TO EXISTING WORKSHOP, OFFICE BUILDING & PARKING, ADDITION OF COVERED STORAGE AREA & BIKE PARKING"
+          "relatedPermitDescription": "**PRIORITY**  RENOVATION TO EXISTING WORKSHOP & OFFICE BUILDING"
         },
         {
           "relatedPermitID": "DPA01114",
@@ -143937,9 +144192,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLAN_LANDSCAPE_SEPT 18 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A708FDD9-A9B5-4430-894B-179A7F342926&folderId=24190C260925091947480739"
+        },
+        {
+          "docName": "PLAN_SITE_AUG 29 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=33F03031-B386-4E40-B85C-B6671C48AAB0&folderId=24190C260925091947480739"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1791283933,
+      "lastUpdated": 1791456728,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01131",
@@ -156541,7 +156805,7 @@
         "315 MAIN STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 11-storey mixed-use building (118 social housing units) consisting of:\n  1st storey - 3 restaurants; school (shell space) \n  2nd storey - 3 live/work units; theatre; school (shell space)\n  3rd storey - dwelling units; indoor amenities (residential); outdoor amenity (commercial & residential)\n  4th to 10th storeys - dwelling units\n  11th storey - dwelling units; indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Apr. 22, 2026\n\nSTAGE II: Full Construction; Revisions to Building per DPMA DP-2026-00200, including Change of Structure from Mass Timber to Concrete - In review\nProject Value: $60,574,064.00\nProperty Use: Dwelling Uses, Institutional Uses, Retail Uses, Service Uses\nSpecific Use: School - University or College, Mixed-Use Residential Building, Restaurant - Class 1, Retail Store\nNeighbourhood: Downtown\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 11-storey mixed-use building (118 social housing units) consisting of:\n  1st storey - 3 restaurants; school (shell space) \n  2nd storey - 3 live/work units; theatre; school (shell space)\n  3rd storey - dwelling units; indoor amenities (residential); outdoor amenity (commercial & residential)\n  4th to 10th storeys - dwelling units\n  11th storey - dwelling units; indoor & outdoor amenities\n\nall over 1 level of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Apr. 22, 2026\n\nSTAGE II: Full Construction; Revisions to Building per DPMA DP-2026-00200, including Change of Structure from Mass Timber to Concrete - In review\nProject Value: $59,081,257.33\nProperty Use: Dwelling Uses, Institutional Uses, Retail Uses, Service Uses\nSpecific Use: School - University or College, Mixed-Use Residential Building, Restaurant - Class 1, Retail Store\nNeighbourhood: Downtown\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -156566,9 +156830,9 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791457026,
       "relatedPermits": [],
-      "projectValue": 60574064,
+      "projectValue": 59081257.33,
       "latitude": 49.281981,
       "longitude": -123.099739,
       "major": true,
@@ -161080,7 +161344,7 @@
         "1045 BURNABY STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 17-storey residential building consisting of:\n  1st to 17th storeys - 170 dwelling units (including 2-level dwelling units on Level 1); amenity room on 2nd storey (Level PH L2); indoor & outdoor amenities on 17th storey (Level 16)\n\nall over 3 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: May 16, 2025\n\nREVISION I: Change of Coordinating Registered Professional (S.Yoo)\nISSUED: Nov. 19, 2025\n\nREVISION II: Change of Certified Professional (S.Yoo)\nISSUED: Jan. 27, 2026\n\nSTAGE II: Foundation Up to Grade (S.Yoo)\nISSUED: Jan. 30, 2026\n\nStage III-A: Full Construction up to Grade; Revisions to the Building’s Interior and Exterior per DPMA DP-2025-00945 (S.Yoo)\nISSUED: Jul. 10, 2026\n\nREVISION III: Revisions to the Stage 3-A BP Drawings - In review\n\nStage III-B: Full Construction above Grade; Revisions to the Building’s Interior and Exterior per DPMA DP-2025-00945 - In review\nProject Value: $44,502,510.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West End\nContractor: MARCON PROJECT (452) LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a 17-storey residential building consisting of:\n  1st to 17th storeys - 170 dwelling units (including 2-level dwelling units on Level 1); amenity room on 2nd storey (Level PH L2); indoor & outdoor amenities on 17th storey (Level 16)\n\nall over 3 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: May 16, 2025\n\nREVISION I: Change of Coordinating Registered Professional (S.Yoo)\nISSUED: Nov. 19, 2025\n\nREVISION II: Change of Certified Professional (S.Yoo)\nISSUED: Jan. 27, 2026\n\nSTAGE II: Foundation Up to Grade (S.Yoo)\nISSUED: Jan. 30, 2026\n\nStage III-A: Full Construction up to Grade; Revisions to the Building’s Interior and Exterior per DPMA DP-2025-00945 (S.Yoo)\nISSUED: Jul. 10, 2026\n\nStage III-B: Full Construction above Grade; Revisions to the Building’s Interior and Exterior per DPMA DP-2025-00945 (S.Yoo)\nISSUED: Oct. 6, 2026\n\nREVISION III: Revisions to the Stage 3-A BP Drawings - In review\nProject Value: $44,502,510.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West End\nContractor: MARCON PROJECT (452) LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -161111,7 +161375,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791284229,
+      "lastUpdated": 1791457026,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2024-00717",
@@ -183356,7 +183620,7 @@
         "3380 VANNESS AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 34-storey mixed-use building containing 679 below market rental dwellings, 6 (six) CRUs (shell)  and a Daycare facility at grade. \nThe building consists of two towers ( 34-storey East Tower and 32-storey West Tower ) with 6-storey podium constructed over 5 levels  below-grade  storage and parking garage. \n\n1. Radio antenna system is required. \n2. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511). \n\nSTAGED CONSTRUCTION:\n19-Mar-2026 - Stage I (E &S) issued.\n\nR1 - In Review\nBP Revision after DPMA (DP-2026-00724); changes to E & S drawings and\nProject Value: $144,787,150.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Child Day Care Facility, Parking Garage, Dwelling Unit, Retail Store\nNeighbourhood: Renfrew-Collingwood\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a new 34-storey mixed-use building containing 679 below market rental dwellings, 6 (six) CRUs (shell)  and a Daycare facility at grade. \nThe building consists of two towers ( 34-storey East Tower and 32-storey West Tower ) with 6-storey podium constructed over 5 levels  below-grade  storage and parking garage. \n\n1. Radio antenna system is required. \n2. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511). \n\nSTAGED CONSTRUCTION:\n19-Mar-2026 - Stage I (E &S) issued.\n\nRevision#1 - In Review \nBP Revision after DPMA (DP-2026-00724); changes to E & S drawings.\nProject Value: $144,787,150.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Child Day Care Facility, Parking Garage, Dwelling Unit, Retail Store\nNeighbourhood: Renfrew-Collingwood\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -183381,7 +183645,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1790506544,
+      "lastUpdated": 1791457026,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2025-01886",
@@ -206135,6 +206399,49 @@
       "storeys": 20
     },
     {
+      "primaryStreetName": "3442 CHERRY STREET",
+      "applicant": "Asit Biswas DBA: MBD Maple Building Design Inc.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-03472",
+      "applicationDate": 1754035200,
+      "addresses": [
+        "3442 CHERRY STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a three-storey four-unit Multiple Dwelling \"Multiplex\" with four surface parking spaces having access from the lane. \n\nBRB NOTES:\n1. Reviewed under VBBL 2019\n2. Related to DP-2024-00988\n3. Building to be sprinklered to Modified NFPA 13R\n4. Part 5 design\nProject Value: $1,600,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Renfrew-Collingwood\nContractor: Amarjit Singh Ahluwalia & Pawitter  Basra",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1754035200,
+          "endDate": 1754035200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1754035200,
+          "endDate": 1754035200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1754035200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2025-04751",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 1600000,
+      "latitude": 49.234172,
+      "longitude": -123.03211,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "5876 TYNE STREET",
       "applicant": "QICHANG LI DBA: ZOOMLINK DESIGN INC.",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -207294,7 +207601,7 @@
     },
     {
       "primaryStreetName": "188 E 5TH AVENUE",
-      "applicant": "Tavis McAuley DBA: McAuley Consulting",
+      "applicant": "Michael Van Blokland DBA: LMDG Building Code Consultant",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2025-03640",
@@ -207303,7 +207610,7 @@
         "188 E 5TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development:\n\nTo construct two (2) 24-storey mixed use residential towers having Retail, Restaurant, and Cultural uses on Levels 1 & 2, and 447 secured market rental dwelling units above (including 20% at below-market rental rate), over four (4) levels of underground parking accessed from the rear lane.\n\nBuilding 1: 24-storey mixed use residential tower (North).  Refer to BP-2025-04059.\nL1: Residential lobby, multi-purpose area, retail, cultural space.\nL2: Restaurants, cultural space.\nL3: Dwelling units.\nL4: Dwelling units, amenity.\nL5 to 23: Dwelling units.\nL24: Amenity.\n\n\nBuilding 2: 24-storey mixed use residential tower (South).  Refer to BP-2025-04060.\nL1: Parking, bike storage, residential & commercial garbage rooms.\nL2: Residential lobby, Restaurants, loading bays.\nL3: Open to below.\nL4: Dwelling units, amenity.\nL5 to 23: Dwelling units.\nL24: Amenity.\n\nThis is a CP Process Permit and the applicant is Tavis McAuley, Architect AIBC, CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio Antenna System is required.\n3. A 2 hour pre-shaft to the roof has NOT been provided for the ground floor (Level 2) restaurants. Rough-in for kitchen exhaust termination will be provided for all units. Owner assumes the responsibility of informing all future restaurant and retail food tenants that they will be required to upgrade the CRU with a kitchen exhaust system that complies with the Vancouver Building Bylaw and all applicable City regulations.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued March 16, 2026)\nProject Value: $177,476,625.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Dwelling Unit, Parking Garage, Not Applicable, Restaurant - Class 1\nNeighbourhood: Mount Pleasant\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development:\n\nTo construct two (2) 24-storey mixed use residential towers having Retail, Restaurant, and Cultural uses on Levels 1 & 2, and 447 secured market rental dwelling units above (including 20% at below-market rental rate), over four (4) levels of underground parking accessed from the rear lane.\n\nBuilding 1: 24-storey mixed use residential tower (North).  Refer to BP-2025-04059.\nL1: Residential lobby, multi-purpose area, retail, cultural space.\nL2: Restaurants, cultural space.\nL3: Dwelling units.\nL4: Dwelling units, amenity.\nL5 to 23: Dwelling units.\nL24: Amenity.\n\n\nBuilding 2: 24-storey mixed use residential tower (South).  Refer to BP-2025-04060.\nL1: Parking, bike storage, residential & commercial garbage rooms.\nL2: Residential lobby, Restaurants, loading bays.\nL3: Open to below.\nL4: Dwelling units, amenity.\nL5 to 23: Dwelling units.\nL24: Amenity.\n\nThis is a CP Process Permit and the applicant is Tavis McAuley, Architect AIBC, CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio Antenna System is required.\n3. A 2 hour pre-shaft to the roof has NOT been provided for the ground floor (Level 2) restaurants. Rough-in for kitchen exhaust termination will be provided for all units. Owner assumes the responsibility of informing all future restaurant and retail food tenants that they will be required to upgrade the CRU with a kitchen exhaust system that complies with the Vancouver Building Bylaw and all applicable City regulations.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring (Issued March 16, 2026)\n\nRevision 1 (Under Review)\nChange of CP from Tavis McAuley to Mike van Blokland effective October 6, 2026.\nProject Value: $177,476,625.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Dwelling Unit, Parking Garage, Not Applicable, Restaurant - Class 1\nNeighbourhood: Mount Pleasant\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -207328,7 +207635,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791457026,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04059",
@@ -211973,17 +212280,17 @@
       "approvalStatus": "Approved"
     },
     {
-      "primaryStreetName": "2246 E 40TH AVENUE",
+      "primaryStreetName": "2244 E 40TH AVENUE",
       "applicant": "Bhupinder (Raj) Singh DBA: Raj Home Design",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2025-04410",
       "applicationDate": 1760428800,
       "addresses": [
-        "2246 E 40TH AVENUE"
+        "2244 E 40TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - Building Permit for DP-2025-00067 To construct a Multiple Dwelling “Multiplex” with a 2 storey + basement 2-unit front building, with 4 parking spaces having access from the lane.\n\nNote: The entire building to be sprinklered to 2 x NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in second floor closet\n2.\\tHeat pump proposed – Exterior component located in front & east side, Interior component located in second floor closet\n3.\\tSchedule B: N.S. Bharaj, P.Eng (778.325.7307) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Avtar Enterprises 2022 Ltd.\n\nAddress Information:\n\nBuilding 1 (North) (Front)\n#1 - 2246 E 40th Av - One Dwelling Unit (North-side, basement, 1st - 2nd Floor)\n#2 - 2246 E 40th Av - One Dwelling Unit (South-side, basement, 1st - 2nd Floor) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $960,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kensington-Cedar Cottage\nContractor: AVTAR ENTERPRISES 2022 LTD.",
+      "purpose": "Low Density Housing - New Building - Building Permit for DP-2025-00067 To construct a Multiple Dwelling “Multiplex” with a 2 storey + basement 2-unit front building, with 4 parking spaces having access from the lane.\n\nNote: The entire building to be sprinklered to 2 x NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in second floor closet\n2.\\tHeat pump proposed – Exterior component located in front & east side, Interior component located in second floor closet\n3.\\tSchedule B: N.S. Bharaj, P.Eng (778.325.7307) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Avtar Enterprises 2022 Ltd.\n\nAddress Information:\n\nBuilding 1 (North) (Front)\n#1 - 2246 E 40th Av - One Dwelling Unit (North-side, basement, 1st - 2nd Floor)\n#2 - 2246 E 40th Av - One Dwelling Unit (South-side, basement, 1st - 2nd Floor) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $960,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nContractor: AVTAR ENTERPRISES 2022 LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -212002,28 +212309,21 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP-2025-04703",
-          "relatedPermitType": "Demolition"
-        }
-      ],
+      "lastUpdated": 1791457026,
+      "relatedPermits": [],
       "projectValue": 960000,
-      "latitude": 49.233613,
-      "longitude": -123.060703,
       "approvalStatus": "Approved",
       "storeys": 2
     },
     {
-      "primaryStreetName": "2248 E 40TH AVENUE",
+      "primaryStreetName": "2246 E 40TH AVENUE",
       "applicant": "Bhupinder (Raj) Singh DBA: Raj Home Design",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2025-04411",
       "applicationDate": 1760428800,
       "addresses": [
-        "2248 E 40TH AVENUE"
+        "2246 E 40TH AVENUE"
       ],
       "status": "ACTIVE",
       "purpose": "Low Density Housing - New Building - Building Permit for DP-2025-00067 To construct a Multiple Dwelling “Multiplex” with a 2 storey + crawl sapce 2-unit rear building, with 4 parking spaces having access from the lane.\n\nNote: The entire building to be sprinklered to 2 x NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in second floor closet\n2.\\tHeat pump proposed – Exterior component located in courtyard, Interior component located in second floor closet\n3.\\tSchedule B: N.S. Bharaj, P.Eng (778.325.7307) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Avtar Enterprises 2022 Ltd.\n\nAddress Information:\n\nBuilding 2 (South)(Back)\n#1 -2248 E 40th Av  - One Dwelling Unit (North-side, 1st - 2nd Floor)\n#2 -2248 E 40th Av  - One Dwelling Unit (South-side 1st - 2nd Floor)\n \nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $720,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kensington-Cedar Cottage\nContractor: AVTAR ENTERPRISES 2022 LTD.",
@@ -212045,11 +212345,16 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
-      "relatedPermits": [],
+      "lastUpdated": 1791457026,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04703",
+          "relatedPermitType": "Demolition"
+        }
+      ],
       "projectValue": 720000,
-      "latitude": 49.23386,
-      "longitude": -123.060619,
+      "latitude": 49.233613,
+      "longitude": -123.060703,
       "approvalStatus": "Approved",
       "storeys": 2
     },
@@ -213741,10 +214046,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1762502400,
+      "lastUpdated": 1791457026,
       "relatedPermits": [
         {
-          "relatedPermitID": "BP-2025-04410",
+          "relatedPermitID": "BP-2025-04411",
           "relatedPermitType": "Building Permit"
         }
       ],
@@ -329925,7 +330230,7 @@
         "1360 PANDORA AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to construct 11 new strata townhouse units on Proposed Lot A and a new 73-unit purpose-built market rental building on Proposed Lot B.\n\nConcurrent Heritage Alteration Permit No. 00256.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "purpose": "The City is reviewing a Delegated Development Permit application to construct six-level market rental residential building containing 75 new rental units, supported by surface parking and underground storage facilities. In addition, Restoration of the existing heritage-designated house with interior renovations to accommodate two residential units, for a total of 77 dwelling units across the site.\n\nConcurrent Heritage Alteration Permit No. 00256.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
@@ -329942,21 +330247,32 @@
       ],
       "documents": [
         {
-          "docName": "2024-05-21 - Letter to Mayor and Council - Deemed 2023-04-12.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=66502C260605153930461453&folderId=93786C251017104004358472"
+          "docName": "2026-10-07 - Letter to Development Services.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06565C261007163031592660&folderId=93786C251017104004358472"
         },
         {
-          "docName": "2024-08-21 - Plans_Revision_Unbubbled_Apt - Deemed 24-04-12.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=66502C260605153930533687&folderId=93786C251017104004358472"
+          "docName": "2026-10-07 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06565C261007163031664864&folderId=93786C251017104004358472"
         },
         {
-          "docName": "2024-08-21 - Plans_Revisions_Bubbled_Apt - Deemed 24-04-12.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=66502C260605153930513293&folderId=93786C251017104004358472"
+          "docName": "2026-10-07 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06565C261007164012144586&folderId=93786C251017104004358472"
+        },
+        {
+          "docName": "2026-10-07 - Plans_Submission_bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06565C261007164012217599&folderId=93786C251017104004358472"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1781693588,
+      "lastUpdated": 1791456728,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01181",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1791187200,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": ""
+        },
         {
           "relatedPermitID": "REZ00833",
           "relatedPermitType": "Rezoning Application",
@@ -329985,8 +330301,7 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ],
-      "major": true
+      ]
     },
     {
       "primaryStreetName": "1574 BAY ST",
@@ -334152,7 +334467,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1789974000,
-          "endDate": null
+          "endDate": 1791356400
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
@@ -334186,7 +334501,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1791370367,
+      "lastUpdated": 1791456728,
       "relatedPermits": []
     },
     {
@@ -400386,6 +400701,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the HAPL  - OPEN TO THE PUBLIC\nSCHEDULED - Admin - Meeting date has been set\nCOMPLETED - Admin - Meeting has been completed",
           "taskType": "Heritage Advisory Panel (HAPL) Meeting",
           "startDate": null,
@@ -400480,10 +400801,26 @@
         {
           "docName": "2026-08-26 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=92901C260826132657155741&folderId=45150C250516134437243497"
+        },
+        {
+          "docName": "2026-10-07 - Plans_Revisions_Bubbled_For DT_1 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06173C261007161645213171&folderId=45150C250516134437243497"
+        },
+        {
+          "docName": "2026-10-07 - Plans_Revisions_Bubbled_For DT_2 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06173C261007161645266314&folderId=45150C250516134437243497"
+        },
+        {
+          "docName": "2026-10-07 - Plans_Revisions_For DT_1 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06173C261007161645279660&folderId=45150C250516134437243497"
+        },
+        {
+          "docName": "2026-10-07 - Plans_Revisions_For DT_2 of 2.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=06173C261007161645319244&folderId=45150C250516134437243497"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788519195,
+      "lastUpdated": 1791456728,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00294",
@@ -404775,8 +405112,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportsep20-26202679819.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportsep20-26202679820.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportsep27-oct3202679844.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportsep27-oct3202679845.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
