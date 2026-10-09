@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1791456725,
+  "dateRetrieved": 1791543097,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -6895,7 +6895,7 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1790578800,
           "endDate": null
         },
         {
@@ -6922,7 +6922,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1791370367,
+      "lastUpdated": 1791543099,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -113567,7 +113567,7 @@
         "2072 CARNARVON ST"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application for a Zoning Bylaw Text Amendment to increase the Maximum Floor Area Ratio (FAR) to 0.48 to accommodate for a rear yard deck at 2072 Carnarvon Street.",
+      "purpose": "This is an application for a Zoning Bylaw Text Amendment to increase the Maximum Floor Area Ratio (FAR) to 0.48 to accommodate an existing rear yard deck at 2072 Carnarvon Street.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -113578,7 +113578,7 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
+          "startDate": 1790838000,
           "endDate": null
         },
         {
@@ -113639,7 +113639,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1790419908,
+      "lastUpdated": 1791543099,
       "relatedPermits": []
     },
     {
@@ -139745,7 +139745,19 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1791356400,
-          "endDate": null
+          "endDate": 1791442800
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1791442800,
+          "endDate": 1791442800
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1791442800,
+          "endDate": 1791442800
         }
       ],
       "documents": [
@@ -139767,7 +139779,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1791456728,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -139969,8 +139981,22 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791456728,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
+        {
+          "relatedPermitID": "RBP01096",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF ACCESSORY BUILDING"
+        },
+        {
+          "relatedPermitID": "RBP01095",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF ACCESSORY BUILDING"
+        },
         {
           "relatedPermitID": "RBP01087",
           "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
@@ -139998,6 +140024,13 @@
           "relatedPermitApplicationDate": 1791273600,
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
+          "relatedPermitID": "RBP01082",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": ""
         },
         {
           "relatedPermitID": "RBP01081",
@@ -140203,18 +140236,18 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1791270000,
-          "endDate": null
+          "endDate": 1791442800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1791442800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791370367,
+      "lastUpdated": 1791543099,
       "relatedPermits": []
     },
     {
@@ -141407,18 +141440,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1790838000,
-          "endDate": null
+          "endDate": 1791442800
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1791442800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791024725,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26525",
@@ -143805,12 +143838,18 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1790838000,
-          "endDate": null
+          "endDate": 1791442800
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1791442800,
+          "endDate": 1791442800
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1790938328,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00759",
@@ -156453,7 +156492,7 @@
         "3532 E HASTINGS STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 8-storey (7-storey Z&D) noncombustible mixed-use building consists of\r\n1st storey - Parking and service rooms,\r\n2nd to 3rd storeys - Retail use (shell only, double height), bicycle storage, two-storey dwelling units and Amenity room,\r\n4th to 8th storeys - dwelling units and outdoor amenity at 8th storey,\r\nhaving vehicular access from the lane.\r\n\r\nTotal dwelling units = 34 secured market rentals.\r\nAll tenant spaces require separate tenant improvement permits.\r\n\r\nNotes:\r\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on February 9, 2023.  \r\n2. Building to be sprinklered to NFPA 13 requirements. \r\n3. Radio Antenna System to be installed in this building.\r\n4. One 2 hr vertical shaft with grease duct is proposed for the only CRU on the ground floor of this mixed-use building. \r\n\r\nSTAGED CONSTRUCTION\r\nStage 1 - Excavation and Shoring - issued January 12, 2024 by T. Lee\r\nStage 2 - Foundation to L1 slab (Aug 20/24, A. Min) related to M/A DP-2023-00318\r\nStage 3 - Full Construction (Feb 19/25, A. Min) related to M/A DP-2024-00948\r\n\r\nStage 1 - REVISION #1 (Feb 20/25, A. Min): Revised excavation & shoring drawings with updated elevations and details. See Authorized Staged Construction Form for details.\nProject Value: $10,300,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Multiple Dwelling, Parking Garage, Retail Store\nNeighbourhood: Hastings-Sunrise\nContractor: Pro-Can Construction Group Corp",
+      "purpose": "Certified Professional Program - New Building - To construct a 8-storey (7-storey Z&D) noncombustible mixed-use building consists of\r\n1st storey - Parking and service rooms,\r\n2nd to 3rd storeys - Retail use (shell only, double height), bicycle storage, two-storey dwelling units and Amenity room,\r\n4th to 8th storeys - dwelling units and outdoor amenity at 8th storey,\r\nhaving vehicular access from the lane.\r\n\r\nTotal dwelling units = 34 secured market rentals.\r\nAll tenant spaces require separate tenant improvement permits.\r\n\r\nNotes:\r\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on February 9, 2023.  \r\n2. Building to be sprinklered to NFPA 13 requirements. \r\n3. Radio Antenna System to be installed in this building.\r\n4. One 2 hr vertical shaft with grease duct is proposed for the only CRU on the ground floor of this mixed-use building. \r\n\r\nSTAGED CONSTRUCTION\r\nStage 1 - Excavation and Shoring - issued January 12, 2024 by T. Lee\r\nStage 2 - Foundation to L1 slab (Aug 20/24, A. Min) related to M/A DP-2023-00318\r\nStage 3 - Full Construction (Feb 19/25, A. Min) related to M/A DP-2024-00948\r\n\r\nStage 1 - REVISION #1 (Feb 20/25, A. Min): Revised excavation & shoring drawings with updated elevations and details. See Authorized Staged Construction Form for details.\nProject Value: $10,300,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Multiple Dwelling, Retail Store\nNeighbourhood: Hastings-Sunrise\nContractor: Pro-Can Construction Group Corp",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -156472,7 +156511,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791284229,
+      "lastUpdated": 1791543417,
       "relatedPermits": [],
       "projectValue": 10300000,
       "latitude": 49.280856,
@@ -166324,7 +166363,7 @@
         "1300 ROBSON STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 27-storey mixed-use tower consisting of:\n1st to 11th storeys - Hotel (183 hotel rooms), restaurant & bar at L1, hotel amenities, incl. pool and hot tubs at L5\n12th to 26th storeys - 133 (changed from 119) market rental dwelling units \n27th storey - amenity room and open amenity deck, \nall over 4 levels of underground levels (3 levels of underground parking and 1 level of hotel service rooms at Level P1). \n\nNOTE: on Dept 23, 2024 the VFRS accepted:\n- principal entrance for the hotel at 1300 Robson St. \n-  the 24.1 m. travel distance from Jervis St. to Rental Apartment Building principal entrance; no Alternative Solution is required. \nRefer to minutes of meeting included in the Code Report. \nNote: MAX OL for the restaurant is 227 p. plus 16 staff. The restaurant and bar share washrooms at L1 and L2. \n\n\nNOTE:  \n- The building is provided with 2-Stage FA system and radio antenna system.\n- This Permit has been issued under the VBBL 2019. \n- Four Class 1 Cooking Operations with 6 Type 1 hoods (Grease-Laden Vapours) proposed for the Level 1 Restaurant. Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n- Termination of linen chute at L14 addressed by a letter of EJ accepted on 02-Mar-2026. \n\n23-Sep-2025 - Stage 1(E &S) issued.  \n24-Mar-2026 - Stage 2 (Full Permit less the commercial kitchen at L1 and outdoor pools at L5) \nProject description updated to reflect changes accepted under the DP-2025-00514.\nChange of owner.\n\nStage 3 - submitted \nCommercial Kitchen & outdoor pools \n4 Class 1 cooking operations \nChange in mechanical engineer \nChanges to A/S/E/M drawings as outlined in change letters provided by A/S/E/M  registered professional of record\nProject Value: $141,600,000.00\nProperty Use: Dwelling Uses, Parking Uses, Service Uses\nSpecific Use: Mixed-Use Residential Building, Hotel, Parking Garage, Restaurant - Class 1\nNeighbourhood: West End\nContractor: Axiom Builders Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a new 27-storey mixed-use tower consisting of:\n1st to 11th storeys - Hotel (183 hotel rooms), restaurant & bar at L1, hotel amenities, incl. pool and hot tubs at L5\n12th to 26th storeys - 133 (changed from 119) market rental dwelling units \n27th storey - amenity room and open amenity deck, \nall over 4 levels of underground levels (3 levels of underground parking and 1 level of hotel service rooms at Level P1). \n\nNOTE: on Dept 23, 2024 the VFRS accepted:\n- principal entrance for the hotel at 1300 Robson St. \n-  the 24.1 m. travel distance from Jervis St. to Rental Apartment Building principal entrance; no Alternative Solution is required. \nRefer to minutes of meeting included in the Code Report. \nNote: MAX OL for the restaurant is 227 p. plus 16 staff. The restaurant and bar share washrooms at L1 and L2. \n\n\nNOTE:  \n- The building is provided with 2-Stage FA system and radio antenna system.\n- This Permit has been issued under the VBBL 2019. \n- Four Class 1 Cooking Operations with 6 Type 1 hoods (Grease-Laden Vapours) proposed for the Level 1 Restaurant. Commercial kitchen exhaust system to NFPA 96 (Type 1 hood).\n- Termination of linen chute at L14 addressed by a letter of EJ accepted on 02-Mar-2026. \n\n23-Sep-2025 - Stage 1(E &S) issued.  \n24-Mar-2026 - Stage 2 (Full Permit less the commercial kitchen at L1 and outdoor pools at L5) \nProject description updated to reflect changes accepted under the DP-2025-00514.\nChange of owner.\n\nStage 3 - In Review \nCommercial Kitchen & outdoor pools \nBP Revision after DPMA (DP-2026-00277) \nChanges to A/S/E/M drawings as outlined in Change letters.\nChange in mechanical engineer \n\nNote: \n4 Class 1 cooking operations\nProject Value: $141,600,000.00\nProperty Use: Dwelling Uses, Parking Uses, Service Uses\nSpecific Use: Mixed-Use Residential Building, Hotel, Parking Garage, Restaurant - Class 1\nNeighbourhood: West End\nContractor: Axiom Builders Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -166349,7 +166388,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791543417,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-03156",
@@ -166374,7 +166413,7 @@
         "4450 MAPLE CRESCENT"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - Building Permit for DP-2024-00014 \nTo construct a Multiple Dwelling \"Multiplex\" with a three-story 4 unit front building and a two-story 2 unit Rear Building and 6 surface parking spaces having access from the lane. This permit is for front building and site work.\n\nBuilding 1: BP-2024-02611 (Unit A, B, C & D) plus site work -$3,159,030.00\nBuilding 2: BP-2024-02612 (Unit E & F) - $1,138,970.00\n\nNote:\n1.0. Application is reviewed under VBBL 2019.\n2.0. Both Buildings are sprinklered to NFPA 13R.\n\nRevision #1 - July 9, 2026\n1. Alteration to roof assemblies \n2. Alteration to building height (addition concrete topping)\nNo DPMA required per J. Neal\nProject Value: $4,300,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Shaughnessy",
+      "purpose": "High Density Housing / Commercial - New Building - **************  PART 5  ************************\n\nBuilding Permit for DP-2024-00014 \nTo construct a Multiple Dwelling \"Multiplex\" with a three-story 4 unit front building and a two-story 2 unit Rear Building and 6 surface parking spaces having access from the lane. This permit is for front building and site work.\n\nBuilding 1: BP-2024-02611 (Unit A, B, C & D) plus site work -$3,159,030.00\nBuilding 2: BP-2024-02612 (Unit E & F) - $1,138,970.00\n\nNote:\n1.0. Application is reviewed under VBBL 2019.\n2.0. Both Buildings are sprinklered to NFPA 13R.\n\nRevision #1 - July 9, 2026\n1. Alteration to roof assemblies \n2. Alteration to building height (addition concrete topping)\nNo DPMA required per J. Neal\nProject Value: $4,300,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Shaughnessy",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -166393,7 +166432,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791543417,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-02612",
@@ -169816,7 +169855,7 @@
         "188 JACKSON AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 11-storey mixed use building consisting of: \n1st & 2nd storeys - 2 commercial spaces shell: one 2-level Community Economic Hub with future commercial kitchen (Group A-2) \nand one level retail space (Group E). \n3rd to 10th storeys - 158 non-market social housing units (105 multiple dwelling units & 53 shelter rate units) \n11th storey - amenity space with areas for children, Quiet Enjoyment, and Plots for urban agriculture,\nall over one level of underground parkade. \n\nNotes:\n- This building is equipped with radio antenna system.\n- This building is designed to VBBL 2019. \n- Two 2-hr vertical shafts with grease ducts are proposed within CED Hub from second floor ceiling to the roof for the two CRUs on the ground floor.\n\n23-Oct-2025 - Stage 1 (E &S) issued.\nRevision - In Review (requested by Engineering) \nStage 2 - Full permit - In Review  \n\nSTATUS AS OF MAY 2026 - EXCAVATION HAS NOT STARTED YET. INSURANCE HAS NOT BEEN PAID. REVIEW -2 NOT COMPLETED.\nProject Value: $69,979,400.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Apartment, Retail Store\nNeighbourhood: Strathcona\nContractor: SCOTT CONSTRUCTION MANAGEMENT LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a new 11-storey mixed use building consisting of: \n1st & 2nd storeys - 2 commercial spaces shell: one 2-level Community Economic Hub with future commercial kitchen (Group A-2) \nand one level retail space (Group E). \n3rd to 10th storeys - 158 non-market social housing units (105 multiple dwelling units & 53 shelter rate units) \n11th storey - amenity space with areas for children, Quiet Enjoyment, and Plots for urban agriculture,\nall over one level of underground parkade. \n\nNotes:\n- This building is equipped with radio antenna system.\n- This building is designed to VBBL 2019. \n- Two 2-hr vertical shafts with grease ducts are proposed within CED Hub from second floor ceiling to the roof for the two CRUs on the ground floor.\n\n23-Oct-2025 - Stage 1 (E &S) issued.\nRevision - In Review (requested by Engineering) \nStage 2 - Full permit - In Review  \n\nSTATUS AS OF MAY 2026 - EXCAVATION HAS NOT STARTED YET. INSURANCE HAS NOT BEEN PAID. REVIEW -2 NOT COMPLETED. \n\n7-Oct-2026 - DPMA in the system (changes to landscape)\nProject Value: $69,979,400.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Parking Garage, Apartment, Retail Store\nNeighbourhood: Strathcona\nContractor: SCOTT CONSTRUCTION MANAGEMENT LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -169841,7 +169880,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791370596,
+      "lastUpdated": 1791543417,
       "relatedPermits": [],
       "projectValue": 69979400,
       "latitude": 49.283188,
@@ -199132,7 +199171,7 @@
       "latitude": 49.255853,
       "longitude": -123.188792,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3823 W 19TH AVENUE",
@@ -199171,7 +199210,7 @@
       "longitude": -123.188776,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1725 RUPERT STREET",
@@ -199684,7 +199723,7 @@
         "3725 W 28TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a Net Zero, three-storey multiple dwelling \"Multiplex\" containing four dwelling units with a detached carport with four parking spaces having vehicular access from the lane.\n\nThis is a ***PART 5*** project\n\nTo be sprinklered to NFPA 13R. Reviewed under the 2019 VBBL\nProject Value: $2,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Dunbar-Southlands",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Net Zero, three-storey multiple dwelling \"Multiplex\" containing four dwelling units with a detached carport with four parking spaces having vehicular access from the lane.\n\nThis is a ***PART 5*** project\n\nTo be sprinklered to NFPA 13D. Reviewed under the 2019 VBBL\n\nRevision #1 - Oct 7, 2026 / nb\nTo correct work description sprinkler requirement from 13R to 13D\nProject Value: $2,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Dunbar-Southlands",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -199703,7 +199742,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791543417,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2025-04934",
@@ -205300,7 +205339,7 @@
       "longitude": -123.095457,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "473 E 58TH AVENUE",
@@ -206525,7 +206564,7 @@
       "latitude": 49.235993,
       "longitude": -123.049239,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2785 E 38TH AVENUE",
@@ -211433,7 +211472,7 @@
       "latitude": 49.273558,
       "longitude": -123.163811,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1816 W 62ND AVENUE",
@@ -212290,7 +212329,7 @@
         "2244 E 40TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - Building Permit for DP-2025-00067 To construct a Multiple Dwelling “Multiplex” with a 2 storey + basement 2-unit front building, with 4 parking spaces having access from the lane.\n\nNote: The entire building to be sprinklered to 2 x NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in second floor closet\n2.\\tHeat pump proposed – Exterior component located in front & east side, Interior component located in second floor closet\n3.\\tSchedule B: N.S. Bharaj, P.Eng (778.325.7307) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Avtar Enterprises 2022 Ltd.\n\nAddress Information:\n\nBuilding 1 (North) (Front)\n#1 - 2246 E 40th Av - One Dwelling Unit (North-side, basement, 1st - 2nd Floor)\n#2 - 2246 E 40th Av - One Dwelling Unit (South-side, basement, 1st - 2nd Floor) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $960,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nContractor: AVTAR ENTERPRISES 2022 LTD.",
+      "purpose": "Low Density Housing - New Building - Building Permit for DP-2025-00067 To construct a Multiple Dwelling “Multiplex” with a 2 storey + basement 2-unit front building, with 4 parking spaces having access from the lane.\n\nNote: The entire building to be sprinklered to 2 x NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in second floor closet\n2.\\tHeat pump proposed – Exterior component located in front & east side, Interior component located in second floor closet\n3.\\tSchedule B: N.S. Bharaj, P.Eng (778.325.7307) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Avtar Enterprises 2022 Ltd.\n\nAddress Information:\n\nBuilding 1 (North) (Front)\n#1 - 2246 E 40th Av - One Dwelling Unit (North-side, basement, 1st - 2nd Floor)\n#2 - 2246 E 40th Av - One Dwelling Unit (South-side, basement, 1st - 2nd Floor) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $960,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kensington-Cedar Cottage\nContractor: AVTAR ENTERPRISES 2022 LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -212309,9 +212348,11 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791457026,
+      "lastUpdated": 1791543417,
       "relatedPermits": [],
       "projectValue": 960000,
+      "latitude": 49.233861,
+      "longitude": -123.060804,
       "approvalStatus": "Approved",
       "storeys": 2
     },
@@ -219935,7 +219976,8 @@
       "projectValue": 1000000,
       "latitude": 49.273348,
       "longitude": -123.163769,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4008 CROWN STREET",
@@ -224314,7 +224356,7 @@
       "latitude": 49.252594,
       "longitude": -123.179513,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2250 SW MARINE DRIVE",
@@ -225227,7 +225269,7 @@
       "longitude": -123.06251,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5868 WILTSHIRE STREET",
@@ -226867,7 +226909,7 @@
       "latitude": 49.271621,
       "longitude": -123.047962,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "71 E 60TH AVENUE #3",
@@ -228748,7 +228790,7 @@
       "latitude": 49.256002,
       "longitude": -123.124049,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2386 E 45TH AVENUE",
@@ -228921,7 +228963,7 @@
       "longitude": -123.213329,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4646 W 3RD AVENUE #3",
@@ -228960,7 +229002,7 @@
       "longitude": -123.213329,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1983 WHYTE AVENUE",
@@ -228998,7 +229040,7 @@
       "latitude": 49.275622,
       "longitude": -123.149573,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2731 W 34TH AVENUE",
@@ -229241,7 +229283,7 @@
       "longitude": -123.135708,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 3
     },
     {
       "primaryStreetName": "1343 W 33RD AVENUE #3",
@@ -229280,7 +229322,7 @@
       "longitude": -123.135722,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 2
+      "storeys": 3
     },
     {
       "primaryStreetName": "4355 ST. CATHERINES STREET",
@@ -229402,7 +229444,7 @@
       "longitude": -123.05759,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2814 E 14TH AVENUE",
@@ -229695,7 +229737,7 @@
       "latitude": 49.251758,
       "longitude": -123.112501,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1092 W 50TH AVENUE",
@@ -229950,7 +229992,7 @@
       "latitude": 49.278851,
       "longitude": -123.05348,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1582 E 2ND AVENUE",
@@ -230535,7 +230577,7 @@
       "latitude": 49.290009,
       "longitude": -123.046131,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "817 W 28TH AVENUE",
@@ -230877,7 +230919,7 @@
       "latitude": 49.234318,
       "longitude": -123.104428,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2875 CAMBRIDGE STREET",
@@ -231014,7 +231056,7 @@
       "latitude": 49.276377,
       "longitude": -123.033188,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5355 INVERNESS STREET",
@@ -231399,7 +231441,7 @@
       "latitude": 49.253528,
       "longitude": -123.189084,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6949 DOMAN STREET #3",
@@ -232158,7 +232200,7 @@
       "latitude": 49.265268,
       "longitude": -123.061074,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "480 E 49TH AVENUE",
@@ -232201,7 +232243,7 @@
       "latitude": 49.225253,
       "longitude": -123.094575,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4617 PUGET DRIVE",
@@ -232332,7 +232374,7 @@
       "latitude": 49.253957,
       "longitude": -123.167248,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2964 E 42ND AVENUE",
@@ -232575,7 +232617,7 @@
       "latitude": 49.284118,
       "longitude": -123.024817,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "285 E 45TH AVENUE #3",
@@ -232991,7 +233033,7 @@
       "latitude": 49.26601,
       "longitude": -123.0434,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3821 W 50TH AVENUE",
@@ -233614,7 +233656,7 @@
       "latitude": 49.239048,
       "longitude": -123.082713,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "595 E 49TH AVENUE",
@@ -234053,7 +234095,7 @@
       "longitude": -123.088271,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3504 W 30TH AVENUE",
@@ -234097,7 +234139,7 @@
       "longitude": -123.182162,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4639 COLLINGWOOD STREET",
@@ -234716,7 +234758,7 @@
       "latitude": 49.236969,
       "longitude": -123.100487,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "871 E 59TH AVENUE",
@@ -235221,7 +235263,7 @@
       "latitude": 49.228556,
       "longitude": -123.186519,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3663 W 48TH AVENUE #3",
@@ -235343,7 +235385,7 @@
       "longitude": -123.211012,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2130 E 2ND AVENUE",
@@ -235386,7 +235428,7 @@
       "latitude": 49.268368,
       "longitude": -123.061153,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1749 E 33RD AVENUE",
@@ -235887,7 +235929,7 @@
       "latitude": 49.275151,
       "longitude": -123.041031,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2049 W 43RD AVENUE #3",
@@ -236430,7 +236472,7 @@
       "latitude": 49.261779,
       "longitude": -123.088235,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5150 SPENCER STREET",
@@ -236473,7 +236515,7 @@
       "latitude": 49.237628,
       "longitude": -123.038535,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "19 E 58TH AVENUE",
@@ -236760,7 +236802,7 @@
       "latitude": 49.274507,
       "longitude": -123.058675,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2756 W 17TH AVENUE",
@@ -236803,7 +236845,7 @@
       "latitude": 49.256865,
       "longitude": -123.166521,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2541 GRANT STREET",
@@ -236937,7 +236979,7 @@
       "longitude": -123.161634,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2439 W 19TH AVENUE #3",
@@ -237437,7 +237479,7 @@
       "latitude": 49.274125,
       "longitude": -123.05951,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1103 RENFREW STREET #3",
@@ -238346,7 +238388,7 @@
       "latitude": 49.258471,
       "longitude": -123.172453,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2807 W 39TH AVENUE #3",
@@ -238428,7 +238470,7 @@
       "latitude": 49.246382,
       "longitude": -123.171377,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4676 W 13TH AVENUE #3",
@@ -239277,7 +239319,7 @@
       "latitude": 49.251237,
       "longitude": -123.094049,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1636 E 37TH AVENUE",
@@ -239907,7 +239949,7 @@
       "latitude": 49.226423,
       "longitude": -123.037287,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2043 E 47TH AVENUE #3",
@@ -240067,7 +240109,7 @@
       "latitude": 49.221562,
       "longitude": -123.098004,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5558 LANARK STREET",
@@ -240201,7 +240243,7 @@
       "longitude": -123.041058,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3015 E 19TH AVENUE #3",
@@ -240322,7 +240364,7 @@
       "latitude": 49.270179,
       "longitude": -123.186894,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6310 ELGIN STREET #3",
@@ -240611,7 +240653,7 @@
       "latitude": 49.285427,
       "longitude": -123.049873,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3771 W KING EDWARD AVENUE",
@@ -240654,7 +240696,7 @@
       "latitude": 49.250417,
       "longitude": -123.18757,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1292 W 38TH AVENUE",
@@ -240827,7 +240869,7 @@
       "latitude": 49.250002,
       "longitude": -123.100098,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2760 W 19TH AVENUE",
@@ -241034,7 +241076,7 @@
       "latitude": 49.231601,
       "longitude": -123.162462,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3429 NAPIER STREET",
@@ -241077,7 +241119,7 @@
       "latitude": 49.275186,
       "longitude": -123.029843,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2759 E 57TH AVENUE #3",
@@ -241154,7 +241196,7 @@
       "latitude": 49.228456,
       "longitude": -123.158798,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3813 W 16TH AVENUE",
@@ -241483,7 +241525,7 @@
       "longitude": -123.204853,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4363 W 9TH AVENUE #3",
@@ -242195,7 +242237,7 @@
       "latitude": 49.237126,
       "longitude": -123.107685,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3205 E 2ND AVENUE",
@@ -242849,7 +242891,7 @@
       "latitude": 49.26526,
       "longitude": -123.059138,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 3
     },
     {
       "primaryStreetName": "4449 PINE CRESCENT #3",
@@ -242932,7 +242974,7 @@
       "longitude": -123.169901,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2892 W 34TH AVENUE #3",
@@ -243057,7 +243099,7 @@
       "latitude": 49.259093,
       "longitude": -123.213348,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3405 W 23RD AVENUE",
@@ -243148,7 +243190,7 @@
       "longitude": -123.142808,
       "major": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1622 W 37TH AVENUE",
@@ -243358,7 +243400,7 @@
       "latitude": 49.248352,
       "longitude": -123.189192,
       "approvalStatus": "Approved",
-      "storeys": 2
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6976 HEATHER STREET #3",
@@ -243667,7 +243709,7 @@
       "longitude": -123.077984,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3089 W 44TH AVENUE",
@@ -244633,7 +244675,7 @@
       "latitude": 49.229571,
       "longitude": -123.046284,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2256 E PENDER STREET",
@@ -245005,7 +245047,7 @@
       "latitude": 49.246355,
       "longitude": -123.065527,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6672 BROOKS STREET",
@@ -245389,7 +245431,7 @@
       "latitude": 49.254937,
       "longitude": -123.187145,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6137 WILTSHIRE STREET",
@@ -245595,7 +245637,7 @@
       "latitude": 49.26078,
       "longitude": -123.171543,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2636 E 53RD AVENUE",
@@ -245846,7 +245888,7 @@
       "longitude": -123.157807,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3656 VINE STREET",
@@ -246606,7 +246648,7 @@
       "longitude": -123.103378,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "76 E 21ST AVENUE #3",
@@ -246731,7 +246773,7 @@
       "latitude": 49.275037,
       "longitude": -123.060606,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1967 E BROADWAY",
@@ -247687,7 +247729,7 @@
       "latitude": 49.260653,
       "longitude": -123.060323,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2715 CHEYENNE AVENUE",
@@ -248584,7 +248626,7 @@
       "longitude": -123.047519,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2774 CHARLES STREET",
@@ -249291,7 +249333,7 @@
       "longitude": -123.191255,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3908 W 32ND AVENUE #3",
@@ -249538,7 +249580,7 @@
       "longitude": -123.191415,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3915 W 32ND AVENUE #3",
@@ -249713,7 +249755,7 @@
       "longitude": -123.211181,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4570 W 12TH AVENUE #3",
@@ -249960,7 +250002,7 @@
       "latitude": 49.271627,
       "longitude": -123.051163,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6991 WILTSHIRE STREET",
@@ -251073,7 +251115,7 @@
       "latitude": 49.236377,
       "longitude": -123.077897,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "470 W 20TH AVENUE",
@@ -251423,7 +251465,7 @@
       "latitude": 49.240928,
       "longitude": -123.068328,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6962 BALMORAL STREET #3",
@@ -251703,7 +251745,7 @@
       "latitude": 49.221243,
       "longitude": -123.098545,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2715 CHEYENNE AVENUE",
@@ -251875,7 +251917,7 @@
       "latitude": 49.216654,
       "longitude": -123.044045,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5570 ARGYLE STREET",
@@ -252625,7 +252667,7 @@
       "latitude": 49.230748,
       "longitude": -123.164971,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3221 E 16TH AVENUE",
@@ -252750,7 +252792,7 @@
       "latitude": 49.231299,
       "longitude": -123.181535,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "7818 JASPER CRESCENT #3",
@@ -252914,7 +252956,7 @@
       "latitude": 49.278491,
       "longitude": -123.034414,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "8138 PRINCE EDWARD STREET #3",
@@ -253900,7 +253942,7 @@
       "longitude": -123.106255,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6345 ONTARIO STREET #3",
@@ -253982,7 +254024,7 @@
       "latitude": 49.239761,
       "longitude": -123.175131,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3157 W 36TH AVENUE #3",
@@ -254064,7 +254106,7 @@
       "latitude": 49.248117,
       "longitude": -123.097675,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "7230 GLADSTONE STREET",
@@ -254272,7 +254314,7 @@
       "latitude": 49.226435,
       "longitude": -123.06938,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5936 MACDONALD STREET",
@@ -254565,7 +254607,7 @@
       "latitude": 49.21836,
       "longitude": -123.073225,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1635 E 57TH AVENUE",
@@ -254780,7 +254822,7 @@
       "latitude": 49.232291,
       "longitude": -123.102372,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3041 PENTICTON STREET",
@@ -254867,7 +254909,7 @@
       "latitude": 49.26264,
       "longitude": -123.208739,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5216 FRASER STREET",
@@ -256608,7 +256650,7 @@
       "latitude": 49.234907,
       "longitude": -123.075175,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3164 E 45TH AVENUE #3",
@@ -256805,7 +256847,7 @@
       "latitude": 49.259216,
       "longitude": -123.206507,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3523 W 30TH AVENUE",
@@ -257742,7 +257784,7 @@
       "longitude": -123.096103,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "459 E 57TH AVENUE",
@@ -258784,7 +258826,7 @@
       "longitude": -123.200143,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2598 COURTENAY STREET",
@@ -258823,7 +258865,7 @@
       "longitude": -123.200075,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3170 ASH STREET",
@@ -259042,7 +259084,7 @@
       "latitude": 49.258521,
       "longitude": -123.085665,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4710 COMMERCIAL STREET #3",
@@ -259953,7 +259995,7 @@
       "latitude": 49.266156,
       "longitude": -123.058298,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "864 E 16TH AVENUE",
@@ -259996,7 +260038,7 @@
       "latitude": 49.256115,
       "longitude": -123.086296,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3794 W 29TH AVENUE",
@@ -260040,7 +260082,7 @@
       "longitude": -123.187911,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4784 ROSS STREET #3",
@@ -260122,7 +260164,7 @@
       "latitude": 49.274126,
       "longitude": -123.059235,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3204 COLERIDGE AVENUE",
@@ -260718,7 +260760,7 @@
       "latitude": 49.254338,
       "longitude": -123.166689,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "668 W 17TH AVENUE",
@@ -260761,7 +260803,7 @@
       "latitude": 49.255832,
       "longitude": -123.119362,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1858 W 43RD AVENUE",
@@ -261311,7 +261353,7 @@
       "latitude": 49.217608,
       "longitude": -123.136761,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1371 W 59TH AVENUE #3",
@@ -261688,7 +261730,7 @@
       "longitude": -123.124645,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2725 YALE STREET #3",
@@ -261848,7 +261890,7 @@
       "longitude": -123.132545,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 1
+      "storeys": 2
     },
     {
       "primaryStreetName": "6908 TISDALL STREET",
@@ -262223,7 +262265,7 @@
       "latitude": 49.278498,
       "longitude": -123.030084,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6582 BUTLER STREET",
@@ -262488,7 +262530,7 @@
       "latitude": 49.237812,
       "longitude": -123.070035,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3406 ONTARIO STREET",
@@ -262532,7 +262574,7 @@
       "longitude": -123.104391,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3016 WATERLOO STREET",
@@ -262575,7 +262617,7 @@
       "latitude": 49.259503,
       "longitude": -123.17956,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3716 DUNBAR STREET",
@@ -262829,7 +262871,7 @@
       "latitude": 49.288025,
       "longitude": -123.048347,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1878 W 60TH AVENUE",
@@ -263185,7 +263227,7 @@
       "latitude": 49.271086,
       "longitude": -123.042925,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "256 W 45TH AVENUE #3",
@@ -263555,7 +263597,7 @@
       "latitude": 49.251689,
       "longitude": -123.18248,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4053 W 32ND AVENUE",
@@ -264057,7 +264099,7 @@
       "latitude": 49.25983,
       "longitude": -123.182995,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1639 E 59TH AVENUE",
@@ -264230,7 +264272,7 @@
       "longitude": -123.213419,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4638 W 11TH AVENUE #3",
@@ -264439,7 +264481,7 @@
       "longitude": -123.190536,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2
     },
     {
       "primaryStreetName": "3584 W 22ND AVENUE",
@@ -264482,7 +264524,7 @@
       "latitude": 49.252603,
       "longitude": -123.18399,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2682 NAPIER STREET",
@@ -264525,7 +264567,7 @@
       "latitude": 49.274735,
       "longitude": -123.049866,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2886 W 29TH AVENUE",
@@ -264569,7 +264611,7 @@
       "longitude": -123.169749,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3369 W 43RD AVENUE",
@@ -265279,7 +265321,7 @@
       "latitude": 49.266008,
       "longitude": -123.042026,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2635 W 43RD AVENUE",
@@ -265323,7 +265365,7 @@
       "longitude": -123.164854,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2635 W 43RD AVENUE #3",
@@ -265362,7 +265404,7 @@
       "longitude": -123.164882,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "644 WOODLAND DRIVE",
@@ -265607,7 +265649,7 @@
       "latitude": 49.255789,
       "longitude": -123.117057,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1773 E 37TH AVENUE #3",
@@ -266156,7 +266198,7 @@
       "latitude": 49.25903,
       "longitude": -123.084135,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "953 E 13TH AVENUE",
@@ -266364,7 +266406,8 @@
       "latitude": 49.217938,
       "longitude": -123.055739,
       "minor": true,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "7291 ASHBURN STREET",
@@ -266485,7 +266528,7 @@
       "latitude": 49.253124,
       "longitude": -123.186032,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5888 DUMFRIES STREET",
@@ -266900,7 +266943,7 @@
       "latitude": 49.269333,
       "longitude": -123.204613,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 4
     },
     {
       "primaryStreetName": "5195 BURSILL STREET #3",
@@ -267194,7 +267237,7 @@
       "longitude": -123.152463,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3375 MONMOUTH AVENUE #3",
@@ -267813,7 +267856,7 @@
       "latitude": 49.238904,
       "longitude": -123.153187,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6414 ELGIN STREET #3",
@@ -268322,7 +268365,7 @@
       "latitude": 49.261081,
       "longitude": -123.166552,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2702 W 12TH AVENUE",
@@ -268360,7 +268403,7 @@
       "latitude": 49.261354,
       "longitude": -123.167201,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "336 E 64TH AVENUE #3",
@@ -269089,7 +269132,7 @@
       "longitude": -123.162818,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3988 VALLEY DRIVE",
@@ -269824,7 +269867,7 @@
       "latitude": 49.260255,
       "longitude": -123.075816,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4091 W 34TH AVENUE",
@@ -269867,7 +269910,7 @@
       "latitude": 49.24174,
       "longitude": -123.19643,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3141 W 35TH AVENUE",
@@ -269910,7 +269953,7 @@
       "latitude": 49.240701,
       "longitude": -123.174909,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3988 VALLEY DRIVE",
@@ -270463,7 +270506,7 @@
       "latitude": 49.252467,
       "longitude": -123.102005,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "238 E 20TH AVENUE",
@@ -270635,7 +270678,7 @@
       "latitude": 49.235705,
       "longitude": -123.04923,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2868 E 43RD AVENUE #3",
@@ -270717,7 +270760,7 @@
       "latitude": 49.247372,
       "longitude": -123.063499,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "260 W 45TH AVENUE",
@@ -270965,7 +271008,7 @@
       "longitude": -123.064297,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1603 FRANCES STREET",
@@ -272584,7 +272627,7 @@
       "longitude": -123.060488,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2727 TEMPLETON DRIVE",
@@ -272623,7 +272666,7 @@
       "longitude": -123.060179,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3263 MATAPAN CRESCENT",
@@ -273221,7 +273264,7 @@
       "latitude": 49.261319,
       "longitude": -123.207129,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3589 W 20TH AVENUE",
@@ -273686,7 +273729,7 @@
       "latitude": 49.278844,
       "longitude": -123.046292,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2286 E BROADWAY",
@@ -273896,7 +273939,7 @@
       "latitude": 49.236946,
       "longitude": -123.05511,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5248 CLARENDON STREET",
@@ -275078,7 +275121,7 @@
       "latitude": 49.263199,
       "longitude": -123.211535,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "8107 OSLER STREET",
@@ -275207,7 +275250,7 @@
       "latitude": 49.246445,
       "longitude": -123.065521,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2111 W 47TH AVENUE",
@@ -275251,7 +275294,7 @@
       "longitude": -123.156551,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "688 W 53RD AVENUE",
@@ -275290,7 +275333,7 @@
       "longitude": -123.120462,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6926 TISDALL STREET",
@@ -276373,7 +276416,7 @@
       "longitude": -123.149902,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "6725 CYPRESS STREET #3",
@@ -276827,7 +276870,7 @@
       "longitude": -123.196102,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4077 W 29TH AVENUE #3",
@@ -277274,7 +277317,7 @@
       "latitude": 49.245908,
       "longitude": -123.185989,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "7949 HUDSON STREET",
@@ -277316,7 +277359,8 @@
       "projectValue": 1035000,
       "latitude": 49.21373,
       "longitude": -123.134585,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3419 W 20TH AVENUE #3",
@@ -277665,7 +277709,7 @@
         "1726 W 11TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish the existing  59 Unit multi rental dwelling building (1971), to grade ($765,000).\n\\t \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n\\t \nThis demolition was reviewed under VBBL 2025.\n\nDemo Contractor: Nav Sidhu - Kern BSG\n#2363085164 email: nav@kernbsg.com\n\nQP Form: Steve Sokalski - Xcel Safety Systems Ltd.\n#604-312-7302 email: steve.sokalski@xcelsafety.com\n\n\n•\\tThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n•\\tDemo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\n•\\tHazardous Building Materials Report Form signed by the QP, WorkSafeBC compliant Hazardous Materials Inspection Report, and WorkSafeBC compliant Post-Abatement Inspection Report must be submitted prior to calling for the Notice of Demolition.\nProject Value: $765,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Fairview\nContractor: KERN BSG MANAGEMENT LTD",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - 1726 W 11th Ave\n\nTo demolish the existing  59 Unit multi rental dwelling building (1971), to grade ($765,000).\n\\t \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n\\t \nThis demolition was reviewed under VBBL 2025.\n\nDemo Contractor: Nav Sidhu - Kern BSG\n#2363085164 email: nav@kernbsg.com\n\nQP Form: Steve Sokalski - Xcel Safety Systems Ltd.\n#604-312-7302 email: steve.sokalski@xcelsafety.com\n\n\n•\\tThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n•\\tDemo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\n•\\tHazardous Building Materials Report Form signed by the QP, WorkSafeBC compliant Hazardous Materials Inspection Report, and WorkSafeBC compliant Post-Abatement Inspection Report must be submitted prior to calling for the Notice of Demolition.\nProject Value: $765,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Fairview\nContractor: KERN BSG MANAGEMENT LTD",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -277684,7 +277728,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791543417,
       "relatedPermits": [],
       "projectValue": 765000,
       "latitude": 49.261533,
@@ -277899,7 +277943,7 @@
       "latitude": 49.261128,
       "longitude": -123.071489,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2850 E 43RD AVENUE",
@@ -278642,7 +278686,7 @@
       "latitude": 49.264378,
       "longitude": -123.062463,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5095 HEATHER STREET",
@@ -279484,7 +279528,8 @@
       "latitude": 49.236203,
       "longitude": -123.183406,
       "minor": true,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2177 E 11TH AVENUE",
@@ -279527,7 +279572,7 @@
       "latitude": 49.260648,
       "longitude": -123.06046,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "85 E 23RD AVENUE",
@@ -279700,7 +279745,8 @@
       "latitude": 49.215677,
       "longitude": -123.072928,
       "minor": true,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1659 E 60TH AVENUE",
@@ -280330,7 +280376,7 @@
       "latitude": 49.26119,
       "longitude": -123.172768,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "704 W 59TH AVENUE #3",
@@ -280857,7 +280903,7 @@
       "latitude": 49.232826,
       "longitude": -123.17939,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2242 E 39TH AVENUE",
@@ -280943,7 +280989,7 @@
       "latitude": 49.237677,
       "longitude": -123.058441,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5170 NANAIMO STREET",
@@ -281760,7 +281806,7 @@
       "latitude": 49.254871,
       "longitude": -123.170873,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2066 E 44TH AVENUE",
@@ -281946,7 +281992,7 @@
       "latitude": 49.276381,
       "longitude": -123.035291,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "47 E 47TH AVENUE #3",
@@ -282027,7 +282073,8 @@
       "projectValue": 800000,
       "latitude": 49.240896,
       "longitude": -123.060558,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5631 ONTARIO STREET #3",
@@ -282190,7 +282237,8 @@
       "projectValue": 1100000,
       "latitude": 49.236102,
       "longitude": -123.096711,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3580 W 17TH AVENUE",
@@ -283080,7 +283128,7 @@
       "latitude": 49.24188,
       "longitude": -123.079844,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4772 INVERNESS STREET",
@@ -283167,7 +283215,7 @@
       "longitude": -123.152944,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "1195 KELOWNA STREET",
@@ -283482,7 +283530,7 @@
       "longitude": -123.163337,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2551 W 35TH AVENUE",
@@ -283649,7 +283697,8 @@
       "projectValue": 1485000,
       "latitude": 49.27476,
       "longitude": -123.151041,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4495 WALDEN STREET",
@@ -284377,7 +284426,8 @@
       "projectValue": 750000,
       "latitude": 49.27473,
       "longitude": -123.048039,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2754 NAPIER STREET",
@@ -284501,7 +284551,8 @@
       "latitude": 49.234372,
       "longitude": -123.190574,
       "minor": true,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "5738 WALLACE STREET",
@@ -285467,7 +285518,7 @@
       "latitude": 49.27295,
       "longitude": -123.039948,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2905 MCGILL STREET",
@@ -285553,7 +285604,7 @@
       "latitude": 49.25127,
       "longitude": -123.117173,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "572 W 22ND AVENUE",
@@ -285916,7 +285967,7 @@
       "latitude": 49.236542,
       "longitude": -123.099017,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "311 E 38TH AVENUE",
@@ -286002,7 +286053,7 @@
       "latitude": 49.222438,
       "longitude": -123.061205,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4263 W 9TH AVENUE #3",
@@ -286199,7 +286250,7 @@
       "latitude": 49.22812,
       "longitude": -123.096688,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "420 E 46TH AVENUE",
@@ -286701,7 +286752,7 @@
       "latitude": 49.250012,
       "longitude": -123.06384,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2044 E 22ND AVENUE",
@@ -288016,7 +288067,8 @@
       "projectValue": 900000,
       "latitude": 49.278037,
       "longitude": -123.056005,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2426 E GEORGIA STREET",
@@ -288643,7 +288695,7 @@
       "latitude": 49.234459,
       "longitude": -123.166365,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2746 W 41ST AVENUE",
@@ -288967,7 +289019,8 @@
       "projectValue": 850000,
       "latitude": 49.216688,
       "longitude": -123.132344,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "7526 SELKIRK STREET",
@@ -289990,7 +290043,8 @@
       "projectValue": 800000,
       "latitude": 49.271807,
       "longitude": -123.058736,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2258 KITCHENER STREET",
@@ -290154,7 +290208,7 @@
       "latitude": 49.250898,
       "longitude": -123.099946,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3867 W 17TH AVENUE",
@@ -292176,7 +292230,8 @@
       "projectValue": 900000,
       "latitude": 49.251675,
       "longitude": -123.108413,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "140 W 21ST AVENUE",
@@ -292391,7 +292446,7 @@
       "latitude": 49.250571,
       "longitude": -123.103194,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3857 QUEBEC STREET",
@@ -292604,7 +292659,7 @@
       "longitude": -123.214102,
       "major": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4684 W 2ND AVENUE #3",
@@ -293680,7 +293735,7 @@
       "latitude": 49.253923,
       "longitude": -123.163899,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "2637 W 21ST AVENUE",
@@ -293805,7 +293860,8 @@
       "latitude": 49.262737,
       "longitude": -123.199495,
       "minor": true,
-      "approvalStatus": "Approved"
+      "approvalStatus": "Approved",
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "4190 W 11TH AVENUE",
@@ -293930,7 +293986,7 @@
       "longitude": -123.177372,
       "minor": true,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "3262 W 21ST AVENUE",
@@ -294727,7 +294783,7 @@
       "latitude": 49.248453,
       "longitude": -123.094413,
       "approvalStatus": "Approved",
-      "storeys": 5
+      "storeys": 2.5
     },
     {
       "primaryStreetName": "486 E KING EDWARD AVENUE",
@@ -323145,6 +323201,76 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "1114 ROCKLAND AVE",
+      "applicant": "SCOTT DAVIES",
+      "cityApplicationType": "Pre-Application (CALUC)",
+      "applicationType": "Pre-Application",
+      "folderNumber": "CLC00489",
+      "applicationDate": 1791442800,
+      "addresses": [
+        "1114 ROCKLAND AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Applicants are required to complete additional Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) due to changes in the proposal. See Rezoning Application No. 00855 for historical submissions.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "2026-10-02 - Plans.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=04693C261002155844436631&folderId=04693C261002155648865589"
+        },
+        {
+          "docName": "2026-10-02 - Summary Letter.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=04693C261002155844445065&folderId=04693C261002155648865589"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1791442800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00482",
+          "relatedPermitType": "Pre-Application (CALUC)",
+          "relatedPermitApplicationDate": 1756972800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\n\n\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca"
+        },
+        {
+          "relatedPermitID": "REZ00855",
+          "relatedPermitType": "Rezoning Application",
+          "relatedPermitApplicationDate": 1687507200,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Rezoning application to allow for a hotel."
+        },
+        {
+          "relatedPermitID": "DPV00313",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1687507200,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Development Permit with Variance application to allow for a hotel.\n\nCONCURRENT WITH REZONING FILE #00855. REFER TO REZONING FILE FOR ATTACHMENTS."
+        },
+        {
+          "relatedPermitID": "DPV00140",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1580803200,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPROVED BY COUNCIL MARCH 25, 2021.\n\nThe City is considering a Development Permit with Variance application to construct a multiple dwelling building.\n\nSEE REZ NO. 00711 FOR PROJECT DETAILS"
+        },
+        {
+          "relatedPermitID": "REZ00711",
+          "relatedPermitType": "Rezoning Application",
+          "relatedPermitApplicationDate": 1564646400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPROVED BY COUNCIL MARCH 25, 2021.\n\nThe City is considering a Rezoning application for a five-storey multi-unit residential building. \n\nNOTE: CONCURRENT WITH DPV00140 (FORMALLY DP00052)"
+        },
+        {
+          "relatedPermitID": "DP000562",
+          "relatedPermitType": "DEVELOPMENT PERMITS",
+          "relatedPermitApplicationDate": 1564646400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPLICATION RETIRED: SEE DPV #00140.\n\nThe City is considering a Development Permit application to construct a multiple dwelling building.\n\nConcurrent with REZ00711"
+        }
+      ]
+    },
+    {
       "primaryStreetName": "2319 BELMONT AVE",
       "applicant": "BRADLEY, OWEN",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
@@ -330219,7 +330345,7 @@
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01094",
-      "applicationDate": 1759388400,
+      "applicationDate": 1791356400,
       "addresses": [
         "1342 PANDORA AVE",
         "1344 PANDORA AVE",
@@ -330236,6 +330362,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1730790000,
+          "endDate": 1791356400
+        },
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1791356400,
           "endDate": null
         },
         {
@@ -330264,15 +330396,8 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1791456728,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
-        {
-          "relatedPermitID": "DDP01181",
-          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
-          "relatedPermitApplicationDate": 1791187200,
-          "relatedPermitStatus": "ARCHIVED",
-          "relatedPermitDescription": ""
-        },
         {
           "relatedPermitID": "REZ00833",
           "relatedPermitType": "Rezoning Application",
@@ -334944,6 +335069,12 @@
           "endDate": 1788850800
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1791442800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -334957,7 +335088,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1789555974,
+      "lastUpdated": 1791543099,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -359548,8 +359679,15 @@
       "progressSections": [],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1687503600,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00489",
+          "relatedPermitType": "Pre-Application (CALUC)",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Applicants are required to complete additional Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) due to changes in the proposal. See Rezoning Application No. 00855 for historical submissions.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City."
+        },
         {
           "relatedPermitID": "CLC00482",
           "relatedPermitType": "Pre-Application (CALUC)",
@@ -395046,8 +395184,15 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788605616,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
+        {
+          "relatedPermitID": "CLC00489",
+          "relatedPermitType": "Pre-Application (CALUC)",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Applicants are required to complete additional Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) due to changes in the proposal. See Rezoning Application No. 00855 for historical submissions.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City."
+        },
         {
           "relatedPermitID": "CLC00482",
           "relatedPermitType": "Pre-Application (CALUC)",
@@ -400703,7 +400848,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1791356400,
           "endDate": null
         },
         {
@@ -400820,7 +400965,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1791456728,
+      "lastUpdated": 1791543099,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00294",
