@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1791543097,
+  "dateRetrieved": 1791629514,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10798,6 +10798,12 @@
           "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab. \n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, a new task will be added.",
           "taskType": "APPLICATION REVIEW",
           "startDate": 1787209200,
+          "endDate": 1791529200
+        },
+        {
+          "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab. \n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, a new task will be added.",
+          "taskType": "APPLICATION REVIEW",
+          "startDate": null,
           "endDate": null
         },
         {
@@ -10844,7 +10850,7 @@
         }
       ],
       "city": "Colwood",
-      "lastUpdated": 1788000804,
+      "lastUpdated": 1791629517,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -73729,6 +73735,28 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "4369 West Shore Pkwy",
+      "applicant": "Pavery Holdings Inc",
+      "cityApplicationType": "Major Construction Non-Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD25-0113",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "4369 West Shore Pkwy"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Non-Residential\nBuilding Type: 520 - Commercial\nWork Type: 01-New construction (built on-site)\nArea: 1550.59\nValue: $4,500,000.00\nUnits Created: \nContractors: Pavery Holdings Inc",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 4500000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "419 2840 Peatt Rd",
       "applicant": "Leslie Myers",
       "cityApplicationType": "Major Construction Non-Residential",
@@ -78496,6 +78524,31 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "1081 Brown Rd",
+      "applicant": "Ash Landco Developments Ltd",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0109",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "1081 Brown Rd",
+        "1083 Brown Rd",
+        "1085 Brown Rd",
+        "1087 Brown Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 330 - Townhouse\nWork Type: 01-New construction (built on-site)\nArea: 493.06\nValue: $1,600,000.00\nUnits Created: 4\nContractors: Ash Landco Gord Baier",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 1600000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "816 Blackbird Pl",
       "applicant": "1581053 BC Ltd",
       "cityApplicationType": "Major Construction Residential",
@@ -79034,6 +79087,28 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "2815 Aldwynd Rd",
+      "applicant": "City Of Langford",
+      "cityApplicationType": "Major Construction Non-Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0173",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "2815 Aldwynd Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Non-Residential\nBuilding Type: 562 - Commercial\nWork Type: 01-New construction (built on-site)\nArea: \nValue: $364,000.00\nUnits Created: \nContractors: ",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 364000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "1318 Glenridge Dr",
       "applicant": "Voll, Glen James Patrick",
       "cityApplicationType": "Major Construction Residential",
@@ -79043,7 +79118,7 @@
       "addresses": [
         "1318 Glenridge Dr"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 110 - Additions and Alterations\nWork Type: 03-Alteration and improvements\nArea: \nValue: $100,000.00\nUnits Created: 1\nContractors: Voll, Glen James Patrick",
       "progressSections": [],
       "documents": [],
@@ -79154,7 +79229,7 @@
       "addresses": [
         "1228 Bramley Run"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 299.37\nValue: $836,781.00\nUnits Created: 2\nContractors: Adam Weir (Langdon Weir Construction Ltd)",
       "progressSections": [],
       "documents": [],
@@ -79192,6 +79267,29 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "3309 West Oak Pl",
+      "applicant": "Java Development Inc.",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0202",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "3309 West Oak Pl",
+        "3311 West Oak Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 310 - Duplex\nWork Type: 01-New construction (built on-site)\nArea: 260.69\nValue: $785,573.00\nUnits Created: 2\nContractors: Java Development Inc.",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 785573,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "2161 Bellamy Rd",
       "applicant": "Frisby, Aaron K",
       "cityApplicationType": "Major Construction Residential",
@@ -79201,7 +79299,7 @@
       "addresses": [
         "2161 Bellamy Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 110 - Additions and Alterations\nWork Type: 03-Alteration and improvements\nArea: \nValue: $100,000.00\nUnits Created: \nContractors: Frisby, Aaron K",
       "progressSections": [],
       "documents": [],
@@ -79214,6 +79312,29 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "3346 West Oak Pl",
+      "applicant": "Java Development Inc.",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0209",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "3346 West Oak Pl",
+        "3348 West Oak Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 310 - Duplex\nWork Type: 01-New construction (built on-site)\nArea: 308.92\nValue: $878,976.00\nUnits Created: 2\nContractors: Java Development Inc.",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 878976,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "1378 Sandstone Ln",
       "applicant": "Ltd, Coastside Contracting",
       "cityApplicationType": "Major Construction Residential",
@@ -79223,7 +79344,7 @@
       "addresses": [
         "1378 Sandstone Ln"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 501\nValue: $1,251,329.00\nUnits Created: 2\nContractors: APM Enterprises Ltd.",
       "progressSections": [],
       "documents": [],
@@ -79236,6 +79357,28 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "698 Atkins Ave",
+      "applicant": "Matt Sander",
+      "cityApplicationType": "Major Construction Non-Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0224",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "698 Atkins Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Non-Residential\nBuilding Type: 612 - Tenant Improvement\nWork Type: 03-Alteration and improvements\nArea: \nValue: $880,000.00\nUnits Created: \nContractors: Kinetic Construction Ltd.",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 880000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "2581 Alabaster Crt",
       "applicant": "Verity Construction Ltd",
       "cityApplicationType": "Major Construction Residential",
@@ -79245,7 +79388,7 @@
       "addresses": [
         "2581 Alabaster Crt"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 329\nValue: $917,754.00\nUnits Created: 2\nContractors: Verity Construction Ltd",
       "progressSections": [],
       "documents": [],
@@ -79273,7 +79416,7 @@
         "1413 2000 Hannington Rd",
         "1511 2000 Hannington Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Major Construction Residential\nBuilding Type: 315 - Additions and Alterations\nWork Type: 03-Alteration and improvements\nArea: \nValue: $100,000.00\nUnits Created: \nContractors: 1129.37",
       "progressSections": [],
       "documents": [],
@@ -79283,6 +79426,50 @@
       "lastUpdated": 1789210654,
       "relatedPermits": [],
       "projectValue": 100000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "635 Madrona Pl",
+      "applicant": "Toco Developments Ltd.",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0241",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "635 Madrona Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 326\nValue: $892,512.00\nUnits Created: 2\nContractors: Bowcey Construction Ltd",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 892512,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "1231 Bramley Run",
+      "applicant": "Adam Weir (Langdon Weir Construction Ltd)",
+      "cityApplicationType": "Major Construction Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0253",
+      "applicationDate": 1790841600,
+      "addresses": [
+        "1231 Bramley Run"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Major Construction Residential\nBuilding Type: 110 - SFD with Suite\nWork Type: 01-New construction (built on-site)\nArea: 304.14\nValue: $934,231.00\nUnits Created: 2\nContractors: Langdon Weir Construction Ltd",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford",
+      "lastUpdated": 1791629805,
+      "relatedPermits": [],
+      "projectValue": 934231,
       "approvalStatus": "Approved"
     },
     {
@@ -85110,7 +85297,7 @@
       "addresses": [
         "31 848 Hockley Ave"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Demolition\nBuilding Type:  - Demolition\nWork Type: 00-Demolition\nArea: \nValue: \nUnits Created: \nContractors: Jared Knippshild",
       "progressSections": [],
       "documents": [],
@@ -85784,7 +85971,7 @@
       "addresses": [
         "2990 Leigh Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Demolition\nBuilding Type: 110 - Demolition\nWork Type: 00-Demolition\nArea: \nValue: \nUnits Created: \nContractors: 0724597 Bc Ltd",
       "progressSections": [],
       "documents": [],
@@ -85805,7 +85992,7 @@
       "addresses": [
         "18 848 Hockley Ave"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Demolition\nBuilding Type: 130 - Demolition\nWork Type: 00-Demolition\nArea: \nValue: \nUnits Created: \nContractors: Jared Knippshild",
       "progressSections": [],
       "documents": [],
@@ -135713,12 +135900,6 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1774508400,
           "endDate": 1781766000
-        },
-        {
-          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [
@@ -135752,7 +135933,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787741604,
+      "lastUpdated": 1791629517,
       "relatedPermits": [
         {
           "relatedPermitID": "BLC07024",
@@ -139762,24 +139943,24 @@
       ],
       "documents": [
         {
-          "docName": "REVISED ELEVATION PLANS_AUG 21 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=00741CF3-6C7C-4BEE-85D9-34D451108FAE&folderId=65996C260423132902715808"
+          "docName": "REVISED_PLANS_ELEVATIONS_OCT 7 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2E68AC6F-661E-467C-9BA3-A9C1B5FAE2F1&folderId=65996C260423132902715808"
         },
         {
-          "docName": "REVISED LANDSCAPE_AUG 25 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=7075E92C-0E77-49FA-8286-3E5A5EA51A4E&folderId=65996C260423132902715808"
+          "docName": "REVISED_PLANS_LANDSCAPE_OCT 7 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=924C3F61-0303-405B-8EDA-12D9F96BC36D&folderId=65996C260423132902715808"
         },
         {
-          "docName": "REVISED SHADOW PLANS_AUG 21 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=73FF9661-82C6-4870-B3A0-E668E1315428&folderId=65996C260423132902715808"
+          "docName": "REVISED_PLANS_SHADOW STUDY_OCT 7 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A2A8651C-335D-4D3A-9CC2-A05569613D41&folderId=65996C260423132902715808"
         },
         {
-          "docName": "REVISED SITE PLAN_AUG 21 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=068794E6-B19A-4D3B-A5E9-4B0D33CB383F&folderId=65996C260423132902715808"
+          "docName": "REVISED_PLANS_SITE_OCT 7 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=ED45E108-F1D4-4B22-B9D7-8A9A9121877C&folderId=65996C260423132902715808"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1791543099,
+      "lastUpdated": 1791629517,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -155093,7 +155274,7 @@
         "1650 CLARK DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A: Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade until the full permit has been issued.\n\nStage 4 (full permit) - In Review\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
+      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A: Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade until the full permit has been issued.\n\nStage 4: Full Construction, excluding the Full Structure issued under Stage 3A - issued Oct. 8, 2026\nNote: The architectural drawings previously issued under Stage 2 BP are to be superseded and replaced in their entirety by the new architectural drawings issued as part of the Stage 4 BP.\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -155124,13 +155305,19 @@
           "taskType": "",
           "startDate": 1778227200,
           "endDate": 1778227200
+        },
+        {
+          "taskDescription": "Stage 4: Full Construction, excluding the Full Structure issued under Stage 3A",
+          "taskType": "",
+          "startDate": 1791446400,
+          "endDate": 1791446400
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791629835,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2024-02424",
@@ -158739,7 +158926,7 @@
         "2480 RENFREW STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development:\n\nTo construct 2 buildings (159 secured market rental units) consisting of:\n  1st storey - 3 CRU's; underground parking\n\nBuilding 1: 13-storey mixed-use building (South)\n  2nd storey - lobby; rental office; mailroom\n  3rd to 12th storeys - dwelling units\n  13th storey - indoor & outdoor amenities\n\nBuilding 2: 10-storey residential building (North)\n  2nd storey - lobby; 2 CRUs; partial underground parking\n  3rd storey - 1 CRU; indoor amenity; bike rooms\n  4th storey - bike rooms\n  5th to 9th storeys - dwelling units\n  10th storey - indoor & outdoor amenities\n\nall over 2 additional levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. The 1st and 2nd storeys of Building 1, as well as the 2nd storey of Building 2, are ground levels due to the sloping site.\n\nRefer to BP-2025-03852 for Building 1.\nRefer to BP-2025-03853 for Building 2.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Aug. 28, 2026\nProject Value: $76,634,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Hastings-Sunrise\nContractor: Syncra Construction Corp",
+      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development:\n\nTo construct 2 buildings (159 secured market rental units) consisting of:\n  1st storey - 3 CRU's; underground parking\n\nBuilding 1: 13-storey mixed-use building (South)\n  2nd storey - lobby; rental office; mailroom\n  3rd to 12th storeys - dwelling units\n  13th storey - indoor & outdoor amenities\n\nBuilding 2: 10-storey residential building (North)\n  2nd storey - lobby; 2 CRUs; partial underground parking\n  3rd storey - 1 CRU; indoor amenity; bike rooms\n  4th storey - bike rooms\n  5th to 9th storeys - dwelling units\n  10th storey - indoor & outdoor amenities\n\nall over 2 additional levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of VBBL 2019.\n2. A radio antenna system is required.\n3. The 1st and 2nd storeys of Building 1, as well as the 2nd storey of Building 2, are ground levels due to the sloping site.\n\nRefer to BP-2025-03852 for Building 1.\nRefer to BP-2025-03853 for Building 2.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation & Shoring (S.Yoo)\nISSUED: Aug. 28, 2026\n\nSTAGE II: Foundation up to Grade - In review\nProject Value: $76,634,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Retail Store\nNeighbourhood: Hastings-Sunrise\nContractor: Syncra Construction Corp",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -158764,7 +158951,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791629835,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-03852",
@@ -210546,6 +210733,95 @@
       "storeys": 4
     },
     {
+      "primaryStreetName": "241 E 45TH AVENUE",
+      "applicant": "Jamsher Properties Ltd. DBA: Jamsher Properties Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04164",
+      "applicationDate": 1758182400,
+      "addresses": [
+        "241 E 45TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - *Part 5* To develop a Multiple Dwelling \"Multiplex\" with a 4 unit front building and a 2 unit Rear Building and 5 surface parking spaces having access from the lane.\n\nFront Building 1 *Part 5 applies* - 241 E 45th (BP-2025-04164) - front (All docs and drawings here)\nRear Building 2 - BP-2025-04165\n\n1. Schedules Submitted: A /B(Arch)/D; B (Struct), B (Geo)\n2. Front building sprinklered to Modified NFPA 13-R\n3. Rear building sprinklered to NFPA 13D w/ quick response in carport\n\n\nThis permit issued pursuant to VBBL #14343 (2025)\nProject Value: $3,521,142.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Sunset\nContractor: Jamsher Builders Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758182400,
+          "endDate": 1758182400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758182400,
+          "endDate": 1758182400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758182400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04165",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "DB-2026-01922",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 3521142,
+      "latitude": 49.229615,
+      "longitude": -123.100699,
+      "minor": true,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "239 E 45TH AVENUE",
+      "applicant": "Jamsher Properties Ltd. DBA: Jamsher Properties Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04165",
+      "applicationDate": 1758182400,
+      "addresses": [
+        "239 E 45TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - *Part 5* To develop a Multiple Dwelling \"Multiplex\" with a 4 unit front building and a 2 unit Rear Building and 5 surface parking spaces having access from the lane.\n\nThis permit is for Rear Building 2 - BP-2025-04165\nSee BP-2025-04164 Front Building 1 (All docs and drawings here)\n\nNotes:\n1. Schedules Submitted: A /B(Arch)/D; B (Struct), B (Geo)\n2. Rear building sprinklered to NFPA 13D w/ quick response in carport\n\nThis permit issued pursuant to VBBL #14343 (2025)\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Sunset\nContractor: Jamsher Builders Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1758182400,
+          "endDate": 1758182400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1758182400,
+          "endDate": 1758182400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1758182400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04164",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "latitude": 49.229393,
+      "longitude": -123.100756,
+      "minor": true,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "3841 W 24TH AVENUE",
       "applicant": "QI LI DBA: LQ Design GROUP Ltd",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -217694,6 +217970,49 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "1676 E 61ST AVENUE",
+      "applicant": "Alice Chua",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00236",
+      "applicationDate": 1768896000,
+      "addresses": [
+        "1676 E 61ST AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a 3-storey Multiple Dwelling building (\"multiplex\") containing four units with four parking spaces having access from the lane.\n\nNote: To reduce sediment discharges from a construction site, the  erosion and sediment control measures described in Bulletin2002-002-EV  should be practiced. \nNote:  This building is sprinklered to NFPA 13D. All rooms adjacent to the exposing building face and containing unprotected openings are sprinklered, notwithstanding any exemptions stated in NFPA 13D.\nProject Value: $800,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Dwelling Unit, Multiple Dwelling\nNeighbourhood: Victoria-Fraserview\nContractor: Harvey Contracting Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1768896000,
+          "endDate": 1768896000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1768896000,
+          "endDate": 1768896000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1768896000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2026-01557",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 800000,
+      "latitude": 49.214343,
+      "longitude": -123.072916,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "2923 W 20TH AVENUE",
       "applicant": "Stephanie Ho DBA: Designer",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -222469,6 +222788,45 @@
       "longitude": -123.181006,
       "minor": true,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "2227 GRANVILLE STREET",
+      "applicant": "Abdul Basir Rahimi DBA: Construction General Contractor",
+      "cityApplicationType": "Demolition / Deconstruction",
+      "applicationType": "Demolition",
+      "folderNumber": "BP-2026-02724",
+      "applicationDate": 1786521600,
+      "addresses": [
+        "2227 GRANVILLE STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish this existing 2 storey commercial building. This demolition permit also permits abatement work to be completed to WorkSafe standards.\n \nThis demolition was reviewed under VBBL 2025.\n\nDemolition Contractor: Tip Top Framing Ltd -  Mandip Shobha\ntiptopframing@gmail.com - (778) 8917048 \n\nQP: Coast BC Hazmat Inspections Inc - Baraa Habash\ninfo@bchazmatinspections.ca - (604) 5938275\nProject Value: $70,000.00\nProperty Use: Retail Uses\nSpecific Use: Retail Store\nNeighbourhood: Fairview\nContractor: Tip Top Framing Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1786521600,
+          "endDate": 1786521600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1786521600,
+          "endDate": 1786521600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1786521600,
+      "relatedPermits": [],
+      "projectValue": 70000,
+      "latitude": 49.265729,
+      "longitude": -123.138902,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "7239 OAK STREET",
@@ -292014,8 +292372,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1778486400,
-      "relatedPermits": [],
+      "lastUpdated": 1791629835,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00236",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 45000,
       "latitude": 49.214343,
       "longitude": -123.072916,
@@ -294189,8 +294552,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1781078400,
-      "relatedPermits": [],
+      "lastUpdated": 1791629835,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04164",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 40000,
       "latitude": 49.229615,
       "longitude": -123.100699,
@@ -405245,7 +405613,7 @@
       "*": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/Search.aspx"
     },
     "Langford": {
-      "*": "https://langford.ca/wp-content/uploads/2026/09/August-2026-Public-Stats.pdf"
+      "*": "https://langford.ca/wp-content/uploads/2026/10/Septmeber-2026-Public-Stats.pdf"
     },
     "Highlands": {
       "*": "https://www.highlands.ca/media/1797"
