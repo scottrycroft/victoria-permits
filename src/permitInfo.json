@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1791629514,
+  "dateRetrieved": 1791717244,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7038,7 +7038,7 @@
     },
     {
       "primaryStreetName": "790 SEA DR",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "PL002017",
@@ -7046,7 +7046,7 @@
       "addresses": [
         "790 SEA DR"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Development Permit",
       "progressSections": [
         {
@@ -7058,8 +7058,20 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1790578800,
+          "endDate": 1790578800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
+          "startDate": 1790578800,
+          "endDate": 1790578800
+        },
+        {
+          "taskDescription": "",
+          "taskType": "ISSUE PERMIT TO APPLICANT",
+          "startDate": 1790578800,
+          "endDate": 1790578800
         },
         {
           "taskDescription": "Applicable with variance",
@@ -7070,18 +7082,6 @@
         {
           "taskDescription": "",
           "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "ISSUE PERMIT TO APPLICANT",
           "startDate": null,
           "endDate": null
         }
@@ -7102,7 +7102,8 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1787223158,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "6858 VEYANESS RD",
@@ -8343,7 +8344,7 @@
     },
     {
       "primaryStreetName": "QUARRY ST",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000059",
@@ -8352,7 +8353,7 @@
         "QUARRY ST",
         "TRADEWINDS AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This Form & Character DP application proposes 76 fee-simple rowhomes.",
       "progressSections": [
         {
@@ -8370,11 +8371,48 @@
         {
           "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
           "taskType": "PERMIT ISSUED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787727600,
+          "endDate": 1787727600
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 1.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826130304796978&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 2.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826130304813179&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 3.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826130304821311&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 4.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826130304828418&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 5.1.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826131237379026&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 5.2.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826131237399595&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 6.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826130304837114&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 7.1.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826131415733150&folderId=89358C260522112313354454"
+        },
+        {
+          "docName": "DP000059_Permit_Signed_Consolidated_Redacted - Section 7.2.pdf",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=97399C260826131415741897&folderId=89358C260522112313354454"
+        }
+      ],
       "city": "Colwood",
       "lastUpdated": 1787223158,
       "relatedPermits": [
@@ -140911,7 +140949,7 @@
     },
     {
       "primaryStreetName": "4673 FALAISE DR",
-      "applicant": "HOMEOWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01126",
@@ -140919,7 +140957,7 @@
       "addresses": [
         "4673 FALAISE DR"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "**STREAMSIDE** TO REGRADE AREA FOR GREEN BURIAL USE & RESTORATION OF THE SPEA.",
       "progressSections": [
         {
@@ -140999,6 +141037,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1785913200,
           "endDate": 1786518000
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVED",
+          "startDate": 1787036400,
+          "endDate": 1787036400
         }
       ],
       "documents": [
@@ -155274,7 +155318,7 @@
         "1650 CLARK DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A: Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade until the full permit has been issued.\n\nStage 4: Full Construction, excluding the Full Structure issued under Stage 3A - issued Oct. 8, 2026\nNote: The architectural drawings previously issued under Stage 2 BP are to be superseded and replaced in their entirety by the new architectural drawings issued as part of the Stage 4 BP.\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
+      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use high building and 6-storey mixed-use combustible midrise building over 2-levels of above ground parking consisting of \n1st storey - social enterprise space and parkade\n2nd storey - parkade\n3rd to 4th storeys - withdrawal management and care centre \n5th to 10th storeys - 97 social housing units\n\nThis application is being processed under the SHORT program and VBBL 2019.\n\nSTAGED CONSTRUCTION\nStage 1: Excavation and Shoring - issued July 25, 2024\n\nStage 2: Foundation Up to and Including Level 1 - issued Sept. 23, 2025\n\nRevision #1: Addition of Geotechnical Engineer for Temporary Geotechnical Discipline; Substitution of Shoring Drawings - issued May 2, 2025\n\nRevision #2: As of August 21st, 2025, Darrell Li taking over the role of Certified Professional from Dean Skalski\n\nRevision #3: As of December 5, 2025, Dean Skalski is the CP for this project.\n\nStage 3: Structure from Level 2 Floor Slab up to Level 4 Floor Slab (structural only) - issued May 8, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4. No sprinkler work shall commence on Levels 3 and 4 until the Stage 4 BP has been issued.\n\nStage 3A: Full Structure - issued July 20, 2026\nNote: No separate sprinkler permit application has been submitted for this stage. One has been submitted for Stage 2 and another for Stage 4 (full permit) . No sprinkler work shall commence above grade until the full permit has been issued.\n\nStage 4: Full Construction, excluding the Full Structure issued under Stage 3A - issued Oct. 9, 2026\nNote: The architectural drawings previously issued under Stage 2 BP are to be superseded and replaced in their entirety by the new architectural drawings issued as part of the Stage 4 BP.\nProject Value: $95,000,000.00\nProperty Use: Dwelling Uses, Institutional Uses, Parking Uses, Retail Uses\nSpecific Use: Detoxification Centre, Parking Garage, Dwelling Unit, Retail Store, Group Residence\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -155309,15 +155353,15 @@
         {
           "taskDescription": "Stage 4: Full Construction, excluding the Full Structure issued under Stage 3A",
           "taskType": "",
-          "startDate": 1791446400,
-          "endDate": 1791446400
+          "startDate": 1791532800,
+          "endDate": 1791532800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791629835,
+      "lastUpdated": 1791716283,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2024-02424",
@@ -156718,7 +156762,7 @@
         "1406 E 28TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a multi-family dwelling building consisting of one combustible 6-storey building on top of a 1-level non-combustible underground parkade with 69 single-level dwelling units from Levels 1-6 and 10 two-storey Live-Work units on Levels 1-2 separated from multi-family dwellings with a green roof. An outdoor amenity is provided on the occupied roof.\n\nVBBL 2019 - NFPA 13 -  Radio antenna is required. \n\nStage 1 - Excavation, Shoring & Plies/Shotcretes issued on Dec. 3, 2025.\nRev# 1 (July 17, 2026) - Shoring changes with two Geotechnical Engineers (see letters for their work).\n\nStage 2 - Foundation to Grade issued on July 24, 2026. \nRev# 2 (________) - CRP change.... \n\nStage 3 - Full Construction issued on _________.\nProject Value: $17,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: ORION COMMERCIAL CONSTRUCTION LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a multi-family dwelling building consisting of one combustible 6-storey building on top of a 1-level non-combustible underground parkade with 69 single-level dwelling units from Levels 1-6 and 10 two-storey Live-Work units on Levels 1-2 separated from multi-family dwellings with a green roof. An outdoor amenity is provided on the occupied roof.\n\nVBBL 2019 - NFPA 13 -  Radio antenna is required. \n\nStage 1 - Excavation, Shoring & Plies/Shotcretes issued on Dec. 3, 2025.\nRev# 1 (July 17, 2026) - Shoring changes with two Geotechnical Engineers (see letters for their work).\n\nStage 2 - Foundation to Grade issued on July 24, 2026. \nRev# 2 (Oct. 9, 2026) - Arch/CRP change from Amela Brudar (outgoing - Aug. 11, 2026) to Thomas Lee ( incoming - Aug. 11, 2026). \n\nStage 3 - Full Construction issued on _________.\nProject Value: $17,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: ORION COMMERCIAL CONSTRUCTION LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -156749,7 +156793,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1791716283,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2025-05001",
@@ -159798,6 +159842,44 @@
       "longitude": -123.087661,
       "minor": true,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "2064 W 41ST AVENUE",
+      "applicant": "Dayle Ehresman DBA: Belfor - PropertyRestoration",
+      "cityApplicationType": "Demolition / Deconstruction",
+      "applicationType": "Demolition",
+      "folderNumber": "BP-2023-04096",
+      "applicationDate": 1699430400,
+      "addresses": [
+        "2064 W 41ST AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To provide for the demolition of this existing one storey commercial building at 2064 W 41st Street that was severely damaged due to a fire.\n\nDemolition Contractor:  Dayle Ehresman of Belfor Property Restoration\nQP: Lance Pizzariello - Efotti Ltd\n\nNote:  This is related to Case File CF-2023-010860:  In Violation (Vancouver Building By-law - Building Fire), which had an immediate Unsafe Order.\nProject Value: $200,000.00\nProperty Use: Service Uses\nSpecific Use: Restaurant - Class 1\nNeighbourhood: Kerrisdale\nContractor: Belfor Property Restoration",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1699430400,
+          "endDate": 1699430400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1699430400,
+          "endDate": 1699430400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1699430400,
+      "relatedPermits": [],
+      "projectValue": 200000,
+      "latitude": 49.234252,
+      "longitude": -123.154049,
+      "approvalStatus": "Approved",
+      "storeys": 1
     },
     {
       "primaryStreetName": "2355 W 49TH AVENUE",
@@ -216878,6 +216960,45 @@
       "projectValue": 798058.1,
       "latitude": 49.234622,
       "longitude": -123.060694,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "2240 E 39TH AVENUE",
+      "applicant": "JNS Developments Ltd DBA: JNS Developments Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00132",
+      "applicationDate": 1768291200,
+      "addresses": [
+        "2240 E 39TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a three-storey 2 unit front building and a two-storey 2 unit rear building with a carport providing four parking spaces having vehicular access from the lane.\n\n1. Mechanical unit proposed – Exterior components located in court yard. Interior components located in crawl space.\n2. Schedule B: (J. J. S. HUI) P.Eng (778.319.3403) Structural & Geotechnical\n3. HPO: Residential Builder - JNS Developments Ltd.\n\nNote: This 2 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\n\nBUILDING 2 (REAR/EAST)\n#1- 2240 E 39th Av - One Dwelling Unit (1st - 2nd floor)\n#2- 2240 E 39th Av - One Dwelling Unit (1st - 2nd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $375,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kensington-Cedar Cottage\nContractor: JNS Developments Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1768291200,
+          "endDate": 1768291200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1768291200,
+          "endDate": 1768291200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1768291200,
+      "relatedPermits": [],
+      "projectValue": 375000,
+      "latitude": 49.234856,
+      "longitude": -123.06081,
       "minor": true,
       "approvalStatus": "Approved",
       "storeys": 3
@@ -278067,7 +278188,7 @@
         "1726 W 11TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Enquiry Centre - Demolition / Deconstruction - 1726 W 11th Ave\n\nTo demolish the existing  59 Unit multi rental dwelling building (1971), to grade ($765,000).\n\\t \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n\\t \nThis demolition was reviewed under VBBL 2025.\n\nDemo Contractor: Nav Sidhu - Kern BSG\n#2363085164 email: nav@kernbsg.com\n\nQP Form: Steve Sokalski - Xcel Safety Systems Ltd.\n#604-312-7302 email: steve.sokalski@xcelsafety.com\n\n\n•\\tThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n•\\tDemo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\n•\\tHazardous Building Materials Report Form signed by the QP, WorkSafeBC compliant Hazardous Materials Inspection Report, and WorkSafeBC compliant Post-Abatement Inspection Report must be submitted prior to calling for the Notice of Demolition.\nProject Value: $765,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Fairview\nContractor: KERN BSG MANAGEMENT LTD",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - 1726 W 11th Ave\n\nTo demolish the existing  59 Unit multi rental dwelling building (1971), to grade ($765,000).\n\nRev#1: Amendment application to change the structural engineer on record. From Adam Samuel Densmore, 778-791-7456, DSW Structural Engineering to Andrew Boettcher, 604-568-9373, aDB Structural Engineering\n\\t \nThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n\\t \nThis demolition was reviewed under VBBL 2025.\n\nDemo Contractor: Nav Sidhu - Kern BSG\n#2363085164 email: nav@kernbsg.com\n\nQP Form: Steve Sokalski - Xcel Safety Systems Ltd.\n#604-312-7302 email: steve.sokalski@xcelsafety.com\n\n\n•\\tThis demolition permit also permits abatement work to be completed to WorkSafe standards.\n•\\tDemo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\n•\\tHazardous Building Materials Report Form signed by the QP, WorkSafeBC compliant Hazardous Materials Inspection Report, and WorkSafeBC compliant Post-Abatement Inspection Report must be submitted prior to calling for the Notice of Demolition.\nProject Value: $765,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Fairview\nContractor: KERN BSG MANAGEMENT LTD",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -278086,7 +278207,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791543417,
+      "lastUpdated": 1791716283,
       "relatedPermits": [],
       "projectValue": 765000,
       "latitude": 49.261533,
@@ -326129,7 +326250,7 @@
     },
     {
       "primaryStreetName": "129 GORGE RD E",
-      "applicant": "MATT KOLEC, INTRACORP PROJECTS",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01021",
@@ -326139,7 +326260,7 @@
         "131 GORGE RD E",
         "135 GORGE RD E"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for Phase 2 - replacing the existing 141 rental homes in three separate building with approximately 325 new rental units in four separate buildings.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -326203,16 +326324,10 @@
           "endDate": 1786604400
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787209200,
+          "endDate": 1787209200
         }
       ],
       "documents": [
@@ -326245,7 +326360,7 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=79D7DF08-C34C-4812-8CB3-5362304AACAD&folderId=23623C250307080810488877"
         },
         {
-          "docName": "2026-08-13 - Plans_Revisions_Bubbled",
+          "docName": "FINAL APPROVED PLANS_Bubbled",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=88552C260813104108790662&folderId=23623C250307080810488877"
         }
       ],
@@ -326301,7 +326416,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "695 ALPHA ST",
@@ -332721,7 +332837,7 @@
     },
     {
       "primaryStreetName": "1803 DOUGLAS ST",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01123",
@@ -332729,20 +332845,20 @@
       "addresses": [
         "1803 DOUGLAS ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for the installation of shrouded wireless telecommunication antennae and equipment.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1771916400,
-          "endDate": null
+          "endDate": 1790924400
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1791270000,
+          "endDate": 1791270000
         }
       ],
       "documents": [
@@ -332753,7 +332869,8 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1771916400,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "2549 DOWLER PL",
@@ -334058,7 +334175,7 @@
     },
     {
       "primaryStreetName": "747 RUSSELL ST",
-      "applicant": "GARETT CAMPBELL",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01147",
@@ -334066,7 +334183,7 @@
       "addresses": [
         "747 RUSSELL ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to approve material changes, and relocation of long-term bike and waste & recycling rooms.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -334079,18 +334196,18 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1784271600,
-          "endDate": null
+          "endDate": 1787814000
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1788159600,
+          "endDate": 1788159600
         }
       ],
       "documents": [
         {
-          "docName": "2026-06-01 Plans_Submission.pdf",
+          "docName": "FINAL APPROVED",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A973E147-6ADF-46E6-8C3F-28677767AFA0&folderId=64555C260601142152767538"
         }
       ],
@@ -334125,7 +334242,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "The City is considering a Rezoning application to develop an approximately twenty-unit ground-oriented multiple dwelling within a townhouse format."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "129 GORGE RD E",
@@ -334598,7 +334716,7 @@
     },
     {
       "primaryStreetName": "2659 DOUGLAS ST",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01157",
@@ -334606,7 +334724,7 @@
       "addresses": [
         "2659 DOUGLAS ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for minor landscape and bicycle configuration changes.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -334618,8 +334736,8 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787641200,
+          "endDate": 1787641200
         }
       ],
       "documents": [
@@ -334636,16 +334754,16 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=58B64F86-C3AA-462D-824A-D427D5816E14&folderId=78214C260713084353166386"
         },
         {
-          "docName": "2026-08-13 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3D47B258-92CC-4AEB-8CF7-186D045B9869&folderId=78214C260713084353166386"
-        },
-        {
           "docName": "2026-08-13 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=DC424F1C-4768-4223-8906-863CE214FAE3&folderId=78214C260713084353166386"
         },
         {
           "docName": "2026-08-13 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=AF893BED-6445-414E-A2B5-E07C0DCEB681&folderId=78214C260713084353166386"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3D47B258-92CC-4AEB-8CF7-186D045B9869&folderId=78214C260713084353166386"
         }
       ],
       "city": "Victoria",
@@ -334672,11 +334790,12 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "APPROVED BY COUNCIL AUGUST 6, 2020\n\nThe City is considering a Rezoning Application to increase the density in order to construct an approximately six-storey, multi-unit residential building, as well as heritage-designate, renovate and add an additional storey to the existing building and convert the upper storeys to residential.  There is a concurrent Development Permit with Variance Application.\n\nThe application is concurrent with Development Permit with Variance Application No. 00123 and Heritage Designation No. 000180."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "1708 QUADRA ST",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01158",
@@ -334684,7 +334803,7 @@
       "addresses": [
         "1708 QUADRA ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for changes to approved DDP01050.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -334697,23 +334816,23 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1786518000,
-          "endDate": null
+          "endDate": 1787122800
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1787727600,
+          "endDate": 1787727600
         }
       ],
       "documents": [
         {
-          "docName": "2026-07-27 - Plans_Revised.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83084C260727103623923541&folderId=l8TQpVclbkSExrmQkUAoGw"
-        },
-        {
           "docName": "2026-07-27 - Plans_Revised_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83084C260727103624031275&folderId=l8TQpVclbkSExrmQkUAoGw"
+        },
+        {
+          "docName": "Final approved",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83084C260727103623923541&folderId=l8TQpVclbkSExrmQkUAoGw"
         },
         {
           "docName": "LIST OF DP AMENDMENTS",
@@ -334758,7 +334877,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "During the COVID-19 pandemic, development application plans will be posted here as a substitute for the Community Association Land Use Committee (CALUC) Community Meeting.\n\nLooking for details?\n\nView the plans under Documents below\nContact the applicant noted above\nContact the appropriate CALUC\nContact City staff for information on the Rezoning process\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf a Rezoning Application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "1079 DOUGLAS ST",
@@ -334799,7 +334919,7 @@
     },
     {
       "primaryStreetName": "222 LANGFORD ST",
-      "applicant": "HOLLY PRIDIE",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01160",
@@ -334807,21 +334927,17 @@
       "addresses": [
         "222 LANGFORD ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for changes to the approved development permit DDP01108.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1788246000,
+          "endDate": 1788246000
         }
       ],
       "documents": [
-        {
-          "docName": "2026-07-24 - Plans_Revisions.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82531C260724072209662689&folderId=Yn9v1URDQUagFJrVJLea7A"
-        },
         {
           "docName": "2026-07-24 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82531C260724072209686583&folderId=Yn9v1URDQUagFJrVJLea7A"
@@ -334829,6 +334945,10 @@
         {
           "docName": "2026-07-24 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82531C260724072209724630&folderId=Yn9v1URDQUagFJrVJLea7A"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82531C260724072209662689&folderId=Yn9v1URDQUagFJrVJLea7A"
         }
       ],
       "city": "Victoria",
@@ -334862,7 +334982,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "2535 SHELBOURNE ST",
@@ -335268,7 +335389,7 @@
     },
     {
       "primaryStreetName": "1 CENTENNIAL SQ",
-      "applicant": "MOLLY MCGRAIL",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01170",
@@ -335276,31 +335397,36 @@
       "addresses": [
         "1 CENTENNIAL SQ"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to construct a new gated enclosure for the Downtown Victoria Bike Valet.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1787295600,
-          "endDate": null
+          "endDate": 1790233200
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1790319600,
+          "endDate": 1790319600
         }
       ],
       "documents": [
         {
           "docName": "2026-08-21 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=56C48999-C347-4ADF-A2D9-B7785C7C65A4&folderId=l7Jw5SZvtkqexngG7Qvoow"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=E95F5C3B-EE76-4572-A793-8730AA506F72&folderId=l7Jw5SZvtkqexngG7Qvoow"
         }
       ],
       "city": "Victoria",
       "lastUpdated": 1787295600,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "626 MANCHESTER RD",
