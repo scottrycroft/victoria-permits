@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1791888703,
+  "dateRetrieved": 1791975113,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -18197,14 +18197,21 @@
       "addresses": [
         "11470 92 AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a duplex dwelling with 2 secondary suites",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1791849600,
+          "endDate": 1791849600
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1791975445,
       "relatedPermits": [],
       "latitude": 49.170423,
       "longitude": -122.905101
@@ -126442,6 +126449,49 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "1095 MCKENZIE AVE",
+      "applicant": "G.L. SMITH PLANNING AND DESIGN",
+      "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPA01125",
+      "applicationDate": 1791874800,
+      "addresses": [
+        "1095 MCKENZIE AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO AMEND DPR95-0002 AND DPA00847 FOR INTERIOR AND EXTERIOR ALTERATIONS",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1791874800,
+          "endDate": 1791874800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1791874800,
+          "endDate": 1791874800
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1791874800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1791874800,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "640 BEAVER LAKE RD",
       "applicant": "CALID SERVICES LTD.",
       "cityApplicationType": "DEVELOPMENT PERMIT",
@@ -135023,6 +135073,12 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1772434800,
+          "endDate": 1791874800
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1791874800,
           "endDate": null
         },
         {
@@ -135047,7 +135103,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1791975116,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00772",
@@ -140474,7 +140530,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791543099,
+      "lastUpdated": 1791975116,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP01096",
@@ -140489,6 +140545,27 @@
           "relatedPermitApplicationDate": 1791446400,
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "DEMOLITION OF ACCESSORY BUILDING"
+        },
+        {
+          "relatedPermitID": "RBP01093",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF EXISTING ACCESSORY STRUCTURE"
+        },
+        {
+          "relatedPermitID": "RBP01092",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF EXISTING ACCESSORY BUILDING"
+        },
+        {
+          "relatedPermitID": "RBP01091",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF EXISTING ACCESSORY BUILDING"
         },
         {
           "relatedPermitID": "RBP01087",
@@ -140530,7 +140607,7 @@
           "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1791273600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": ""
+          "relatedPermitDescription": "DEMOLITION OF EXISTING SINGLE FAMILY DWELLING"
         },
         {
           "relatedPermitID": "RBP01080",
@@ -140544,7 +140621,7 @@
           "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1791273600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": ""
+          "relatedPermitDescription": "DEMOLITION OF EXISTING DUPLEX"
         }
       ],
       "major": true
@@ -141945,12 +142022,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1791442800,
+          "endDate": 1791874800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1791874800,
+          "endDate": 1791874800
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1791874800,
+          "endDate": 1791874800
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1791874800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791543099,
+      "lastUpdated": 1791975116,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26525",
@@ -150624,7 +150719,7 @@
         "4667 CORDOVA BAY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-18 TO RS-12/RS-6 TO CREATE A 20 LOT SUBDIVISION.",
+      "purpose": "TO REZONE FROM RS-18 TO RS-12/RS-6",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -150658,7 +150753,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1790333537,
+      "lastUpdated": 1791975116,
       "relatedPermits": []
     },
     {
@@ -155246,7 +155341,7 @@
       "purpose": "Site preparation and driveway construction for 4 SFDs on an RU2 parcel",
       "progressSections": [
         {
-          "taskDescription": "Application Received — ON HOLD",
+          "taskDescription": "Application Received — IN-PROGRESS",
           "taskType": "",
           "startDate": 1785369600,
           "endDate": 1785369600
@@ -155256,7 +155351,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1789383428,
+      "lastUpdated": 1791975444,
       "relatedPermits": [],
       "latitude": 48.376644,
       "longitude": -123.619528
@@ -331114,7 +331209,7 @@
         "1360 PANDORA AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to construct six-level market rental residential building containing 75 new rental units, supported by surface parking and underground storage facilities. In addition, Restoration of the existing heritage-designated house with interior renovations to accommodate two residential units, for a total of 77 dwelling units across the site.\n\nConcurrent Heritage Alteration Permit No. 00256.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "purpose": "The City is reviewing a Delegated Development Permit application to construct a six-level market rental residential building containing 75 new rental units, supported by surface parking and underground storage facilities. In addition, restoration of the existing heritage-designated house with interior renovations to accommodate two residential units, for a total of 77 dwelling units across the site.\n\nConcurrent Heritage Alteration Permit No. 00256.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
@@ -331154,7 +331249,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1791543099,
+      "lastUpdated": 1791975116,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00833",
