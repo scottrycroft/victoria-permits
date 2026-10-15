@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1791975113,
+  "dateRetrieved": 1792061491,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -6876,6 +6876,12 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1790578800,
+          "endDate": 1790578800
+        },
+        {
+          "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
           "startDate": 1790578800,
           "endDate": 1790578800
@@ -6891,12 +6897,6 @@
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1785308400,
           "endDate": 1791270000
-        },
-        {
-          "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": 1790578800,
-          "endDate": null
         },
         {
           "taskDescription": "Applicable with variance",
@@ -6922,7 +6922,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1791543099,
+      "lastUpdated": 1792061493,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -21954,6 +21954,28 @@
       "relatedPermits": [],
       "latitude": 49.008145,
       "longitude": -123.074624
+    },
+    {
+      "primaryStreetName": "7728 116A ST",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023400",
+      "applicationDate": 1792061811,
+      "addresses": [
+        "7728 116A ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1792061811,
+      "relatedPermits": [],
+      "latitude": 49.143639,
+      "longitude": -122.899634
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -113916,12 +113938,12 @@
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1787209200,
-          "endDate": null
+          "endDate": 1791874800
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
+          "startDate": 1791874800,
           "endDate": null
         },
         {
@@ -113939,6 +113961,12 @@
         {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
           "startDate": null,
           "endDate": null
         },
@@ -113992,7 +114020,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1787324664,
+      "lastUpdated": 1792061493,
       "relatedPermits": []
     },
     {
@@ -114217,7 +114245,7 @@
       "addresses": [
         "$0.00 14291 Burrows Rd 1DL Construction Ltd (604)723-3697 $0.00"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Warehouse\nWork Proposed: Revision\nConstruction Value: 1",
       "progressSections": [
         {
@@ -121747,7 +121775,7 @@
       "addresses": [
         "11431 Seacrest Road Ranjeet Suri (604)362-0467"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: One Family Dwelling\nWork Proposed: Alteration\nConstruction Value: $50,000.00 1 $50,000.00",
       "progressSections": [
         {
@@ -121897,7 +121925,7 @@
       "addresses": [
         "6081 No 3 Rd Unit 1010 Rishab Mehta (778)680-5321"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Office\nWork Proposed: Alteration\nConstruction Value: $45,000.00 1 $45,000.00\nContractor: 2",
       "progressSections": [
         {
@@ -121942,6 +121970,64 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1790679347,
+      "relatedPermits": [],
+      "minor": true,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "11531 Bird Road",
+      "applicant": "J H P Development Ltd (778)288-9284",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-021719-000-00-B7",
+      "applicationDate": 1791100800,
+      "addresses": [
+        "11531 Bird Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Access Building Detach\nWork Proposed: New\nConstruction Value: $0.00 1 $0.00\nDescription: SHED J H P Development Ltd (Jasbir Sidhu) (604)726-2237",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1791100800,
+          "endDate": 1791100800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1792061807,
+      "relatedPermits": [],
+      "minor": true,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "11960 Montego Street Bright Steps Daycare (Young Lee) (778) 345-7601",
+      "applicant": "Ezaid Plumbing and Heating LTD (778)317- 3979",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-022059-000-00-B2",
+      "applicationDate": 1791100800,
+      "addresses": [
+        "11960 Montego Street Bright Steps Daycare (Young Lee) (778) 345-7601"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Day Care\nWork Proposed: Alteration\nConstruction Value: $0.00 1 $0.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1791100800,
+          "endDate": 1791100800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1792061807,
       "relatedPermits": [],
       "minor": true,
       "approvalStatus": "Approved"
@@ -123629,6 +123715,34 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "9571 Glenthorne Drive",
+      "applicant": "Owner",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-019130-000-00-D7",
+      "applicationDate": 1791360000,
+      "addresses": [
+        "9571 Glenthorne Drive"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: G & K Excavation and Demolition Services Ltd (604)370-1950",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1791360000,
+          "endDate": 1791360000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1792061807,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "10844 Springmont Gate",
       "applicant": "Sukhvir Dosanjh (778)322-3671",
       "cityApplicationType": "Demolition",
@@ -123653,6 +123767,118 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1791457001,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4882 Garry Street",
+      "applicant": "Pacific Coastal Homes Ltd (Doug Loewen) (604)240-0412",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-021649-000-00-D7",
+      "applicationDate": 1791446400,
+      "addresses": [
+        "4882 Garry Street"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: JVT Excavating Demolition Ltd (778) 318-1643\nDescription: FOUNDATION ONLY - Bldg 2",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1791446400,
+          "endDate": 1791446400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1792061807,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4882 Garry Street",
+      "applicant": "Pacific Coastal Homes Ltd (Doug Loewen) (604)240-0412",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-021670-000-00-D7",
+      "applicationDate": 1791446400,
+      "addresses": [
+        "4882 Garry Street"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: JVT Excavating Demolition Ltd (778) 318-1643\nDescription: FOUNDATION ONLY - Bldg 1",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1791446400,
+          "endDate": 1791446400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1792061807,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "9891 Pinewell Crescent",
+      "applicant": "Jatinder Singh Ranauta (604)447-1120",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-022025-000-00-D7",
+      "applicationDate": 1791532800,
+      "addresses": [
+        "9891 Pinewell Crescent"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: MBD Demolition and Excavation Ltd (604)765-2316",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1791532800,
+          "endDate": 1791532800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1792061807,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "9891 Pinewell Cr",
+      "applicant": "Jatinder Singh Ranauta (604)447-1120",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-022027-000-00-D7",
+      "applicationDate": 1791532800,
+      "addresses": [
+        "9891 Pinewell Cr"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Access Building Detach\nWork Proposed: Demolish\nContractor: MBD Demolition and Excavation Ltd (604)765-2316\nDescription: Detached Garage",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1791532800,
+          "endDate": 1791532800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1792061807,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -133723,6 +133949,12 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1786950000,
+          "endDate": 1791961200
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1791961200,
           "endDate": null
         }
       ],
@@ -133741,7 +133973,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1792061493,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP22168",
@@ -140530,7 +140762,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791975116,
+      "lastUpdated": 1792061493,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP01096",
@@ -140547,11 +140779,18 @@
           "relatedPermitDescription": "DEMOLITION OF ACCESSORY BUILDING"
         },
         {
+          "relatedPermitID": "RBP01094",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791446400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF EXISTING ACCESSORY BUILDING"
+        },
+        {
           "relatedPermitID": "RBP01093",
           "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1791446400,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "DEMOLITION OF EXISTING ACCESSORY STRUCTURE"
+          "relatedPermitDescription": "DEMOLITION OF EXISTING ACCESSORY BUILDING"
         },
         {
           "relatedPermitID": "RBP01092",
@@ -140594,6 +140833,13 @@
           "relatedPermitApplicationDate": 1791273600,
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
+          "relatedPermitID": "RBP01083",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF EXISTING SINGLE FAMILY DWELLING"
         },
         {
           "relatedPermitID": "RBP01082",
@@ -142043,9 +142289,18 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLAN_ELEVATIONS_OCT 1 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=B47FFC4B-FB28-4E69-8EB2-55D738CB3BDC&folderId=25733C261001141146950848"
+        },
+        {
+          "docName": "PLAN_SITE_OCT 1 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=52D51789-E30E-4182-8559-6D63EB1EA409&folderId=25733C261001141146950848"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1791975116,
+      "lastUpdated": 1792061493,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26525",
@@ -144862,13 +145117,14 @@
       ]
     },
     {
-      "primaryStreetName": "894 KENTWOOD LANE",
+      "primaryStreetName": "886 KENTWOOD LANE",
       "applicant": "N/A",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DVP00577",
       "applicationDate": 1791183600,
       "addresses": [
+        "886 KENTWOOD LANE",
         "894 KENTWOOD LANE"
       ],
       "status": "ACTIVE",
@@ -144889,7 +145145,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791183600,
+      "lastUpdated": 1792061493,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00981",
@@ -196041,7 +196297,7 @@
         "4386 W 2ND AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two storey 3-unit front building, and a two storey 2-unit rear building with attached garage for 2 surface parking spaces having access from the lane.\n\n1. BP-2025-01723  - Building 1 (Front Building)\n2. BP-2025-01724  - Building 2 (Rear Building)\n\nThis permit is for Building 1\nBRB Notes:\n1. Reviewed under 2019 VBBL\n2. Sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nIf archaeological materials are found, at any stage of ground disturbance, all work on the property must stop immediately and the Provincial Archaeological Branch, City of Vancouver and local First Nations, must be notified. All those working on site must be aware of and comply to the Archaeological Chance Find Procedure for Lehman Building Project attached to this permit.\nProject Value: $1,725,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West Point Grey\nContractor: Daryl P Martini",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two storey 3-unit front building, and a two storey 2-unit rear building with attached garage for 2 surface parking spaces having access from the lane.\n\n1. BP-2025-01723  - Building 1 (Front Building)\n2. BP-2025-01724  - Building 2 (Rear Building)\n\nThis permit is for Building 1\nBRB Notes:\n1. Reviewed under 2019 VBBL\n2. Sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nIf archaeological materials are found, at any stage of ground disturbance, all work on the property must stop immediately and the Provincial Archaeological Branch, City of Vancouver and local First Nations, must be notified. All those working on site must be aware of and comply to the Archaeological Chance Find Procedure for Lehman Building Project attached to this permit.\n\nREV #1 (PENDING) - JI\nProject Value: $1,725,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West Point Grey\nContractor: Daryl P Martini",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -196060,7 +196316,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1792061839,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-01724",
@@ -211605,7 +211861,7 @@
         "560 W 29TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 6-storey residential building (East Front Building - Building 2) containing 95 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 6-storey residential building (East Front Building - Building 2) containing 95 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: South Cambie\nContractor: Alabaster Construction GP Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -211618,31 +211874,13 @@
           "taskType": "Approved",
           "startDate": 1758700800,
           "endDate": 1758700800
-        },
-        {
-          "taskDescription": "Stage 1: Excavation/Shoring",
-          "taskType": "",
-          "startDate": 1770019200,
-          "endDate": 1770019200
-        },
-        {
-          "taskDescription": "Stage 2: Foundation to Grade",
-          "taskType": "",
-          "startDate": 1774339200,
-          "endDate": 1774339200
-        },
-        {
-          "taskDescription": "Stage 3: Full Construction",
-          "taskType": "",
-          "startDate": 1788940800,
-          "endDate": 1788940800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1792061839,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-03420",
@@ -211666,7 +211904,7 @@
         "570 W 29TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 3-storey residential building (East Town House Building - Building 3) containing 9 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\n\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProperty Use: Dwelling Uses\nSpecific Use: Townhouse\nNeighbourhood: South Cambie",
+      "purpose": "Certified Professional Program - New Building - To construct a 3-storey residential building (East Town House Building - Building 3) containing 9 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\nProperty Use: Dwelling Uses\nSpecific Use: Townhouse\nNeighbourhood: South Cambie",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -211679,31 +211917,13 @@
           "taskType": "Approved",
           "startDate": 1758700800,
           "endDate": 1758700800
-        },
-        {
-          "taskDescription": "Stage 1: Excavation/Shoring",
-          "taskType": "",
-          "startDate": 1770019200,
-          "endDate": 1770019200
-        },
-        {
-          "taskDescription": "Stage 2: Foundation to Grade",
-          "taskType": "",
-          "startDate": 1774339200,
-          "endDate": 1774339200
-        },
-        {
-          "taskDescription": "Stage 3: Full Construction",
-          "taskType": "",
-          "startDate": 1788940800,
-          "endDate": 1788940800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1792061839,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-03420",
@@ -211726,7 +211946,7 @@
         "580 W 29TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 3-storey residential building (West Town House Building - Building 4) containing 9 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\n\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued Feb 2, 2026\nStage 2: Foundation to Grade - Issued March 24, 2026\nStage 3: Full Construction - Issued Sep 9, 2026\nProperty Use: Dwelling Uses\nSpecific Use: Townhouse\nNeighbourhood: South Cambie",
+      "purpose": "Certified Professional Program - New Building - To construct a 3-storey residential building (West Town House Building - Building 4) containing 9 dwelling units over one level of underground parking having vehicular access from the lane.\n\nRefer to BP-2025-03420 for the site work and basement storage garage.\nProperty Use: Dwelling Uses\nSpecific Use: Townhouse\nNeighbourhood: South Cambie",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -211739,31 +211959,13 @@
           "taskType": "Approved",
           "startDate": 1758700800,
           "endDate": 1758700800
-        },
-        {
-          "taskDescription": "Stage 1: Excavation/Shoring",
-          "taskType": "",
-          "startDate": 1770019200,
-          "endDate": 1770019200
-        },
-        {
-          "taskDescription": "Stage 2: Foundation to Grade",
-          "taskType": "",
-          "startDate": 1774339200,
-          "endDate": 1774339200
-        },
-        {
-          "taskDescription": "Stage 3: Full Construction",
-          "taskType": "",
-          "startDate": 1788940800,
-          "endDate": 1788940800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1792061839,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-03420",
@@ -221118,6 +221320,89 @@
       "minor": true,
       "approvalStatus": "Approved",
       "storeys": 3
+    },
+    {
+      "primaryStreetName": "4470 MAPLE CRESCENT",
+      "applicant": "Jane Vorbrodt DBA: Kuno Architecture Inc.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00856",
+      "applicationDate": 1773388800,
+      "addresses": [
+        "4470 MAPLE CRESCENT"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a three-storey plus roof deck two-unit front building, with 2 garage and 2 carport parking spaces at the rear building, having vehicular access from the lane.\n\n1.\\tHRV unit proposed - Unit #1 located in Laundry Room, Unit #2 located in Mud Room\n2.\\tHeat pump unit proposed – Exterior component for Unit #1 located in courtyard and Unit #2 on roof deck, Interior components located in crawlspace\n3.\\tSchedule A: (Jane Irene Vorbrodt) AIBC (604.512.3914) \n4.\\tSchedule B: (Jane Irene Vorbrodt) AIBC (604.512.3914) Architectural\n5.\\tSchedule B: (J.T. Plut) P.Eng (604.228.0518) Structural & Swimming Pool\n6.\\tSchedule B: (P.K.L. Fong) P.Eng (604.837.3205) Geotechnical & Swimming Pool\n7.\\tSchedule B: (C.K. Machniewski) P.Eng (604.228.0518) Building Envelope\n8.\\tSchedule D: (C.K. Machniewski) P.Eng (604.228.0518) \n9.\\tHPO: Residential Builder- WBD Construction Services Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBUILDING 1\n#1 - 4470 Maple St - One Dwelling Unit (1st & a portion of the 2nd Level)\n#2 - 4470 Maple St - One Dwelling Unit (Portion of 1st Level, 2nd & 3rd Level)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $2,010,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Shaughnessy\nContractor: WBD Construction Services Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773388800,
+          "endDate": 1773388800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773388800,
+          "endDate": 1773388800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773388800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2026-00980",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 2010000,
+      "latitude": 49.245953,
+      "longitude": -123.14825,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "4480 MAPLE CRESCENT",
+      "applicant": "Jane Vorbrodt DBA: Kuno Architecture Inc.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00857",
+      "applicationDate": 1773388800,
+      "addresses": [
+        "4480 MAPLE CRESCENT"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a two-storey two-unit rear building with 2 garage and 2 carport parking spaces having vehicular access from the lane.\n\n1.\\tHRV unit proposed - Unit #1 located in entry closet, Unit #2 located in pantry\n2.\\tHeat pump unit proposed – Exterior components located on roof deck, Interior components located in crawlspace\n3.\\tSchedule A: (Jane Irene Vorbrodt) AIBC (604.512.3914) \n4.\\tSchedule B: (Jane Irene Vorbrodt) AIBC (604.512.3914) Architectural\n5.\\tSchedule B: (J.T. Plut) P.Eng (604.228.0518) Structural \n6.\\tSchedule B: (P.K.L. Fong) P.Eng (604.837.3205) Geotechnical \n7.\\tSchedule B: (C.K. Machniewski) P.Eng (604.228.0518) Building Envelope\n8.\\tSchedule D: (C.K. Machniewski) P.Eng (604.228.0518) \n9.\\tHPO: Residential Builder- WBD Construction Services Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBUILDING 2\n#1 - 4480 Maple St - One Dwelling Unit (1st & 2nd Level)\n#2 - 4480 Maple St - One Dwelling Unit (1st & 2nd Level)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $990,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Shaughnessy\nContractor: WBD Construction Services Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773388800,
+          "endDate": 1773388800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773388800,
+          "endDate": 1773388800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773388800,
+      "relatedPermits": [],
+      "projectValue": 990000,
+      "latitude": 49.245766,
+      "longitude": -123.14848,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "3542 ETON STREET",
@@ -287769,8 +288054,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1774339200,
-      "relatedPermits": [],
+      "lastUpdated": 1792061839,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00856",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 40000,
       "latitude": 49.245953,
       "longitude": -123.14825,
@@ -299131,6 +299421,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-vancouver-heritage-register.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/676d554b2b6e08edd34466c067b0ef13cd8a5a4b/original/1742335579/3373c12690d24f667f3645a40b1b0eed_rendering.png?1742335579"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -299206,6 +299501,11 @@
         {
           "docName": "Downtown Official Development Plan",
           "docURL": "https://bylaws.vancouver.ca/odp/odp-downtown.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1677189644/7ae5b25b11fc96c5d72a087bfeec44cd_Rendering.jpg?1677189644"
         }
       ],
       "withDistrictDays": null,
@@ -299465,6 +299765,11 @@
         {
           "docName": "RM-3 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1707761557/ba204f277df4431f14a59558f6190746_rendering.jpg?1707761557"
         }
       ],
       "withDistrictDays": null,
@@ -299884,6 +300189,11 @@
           "docURL": "https://council.vancouver.ca/20190723/documents/p11.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/a9441de867f82566f3dcf4e1add575d7b39e81a2/original/1692817967/cda16522436ea1b1322abd1ada1e19df_langara_gardens_render.png?1692817967"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -299963,6 +300273,11 @@
         {
           "docName": "Secured Rental Policy Low-Density Transition Areas Rezoning Guide",
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/31e08d37f30c627da8983a921da3062c13655f6c/original/1675276838/clonedd48137b4891b9f008f84d4e83e12cc441_SRP_Building_Example_RR_2B___Label.png?1675276838"
         }
       ],
       "withDistrictDays": null,
@@ -300157,6 +300472,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-hotel-development.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/d8f3bb206cb20b8e9f2cf9c51f88ee73f9b7ed3e/original/1697757273/91411008d748b6e0e56c088509820ed3_rendering2.png?1697757273"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -300243,6 +300563,11 @@
         {
           "docName": "RT-5 and RT-5N Districts Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-5.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/e3bdbec784976c150165864cc75ca73e0dc79a42/original/1697661177/cf7ac705f95e2944d00566f1a64108b7_rendering2.jpg?1697661177"
         }
       ],
       "withDistrictDays": null,
@@ -300403,6 +300728,11 @@
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/31e08d37f30c627da8983a921da3062c13655f6c/original/1675280589/cloned648137b4891b9f008f84d4e83e12cc441_SRP_Building_Example_RR_2B___Label.png?1675280589"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -300470,6 +300800,11 @@
         {
           "docName": "RT-7 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-7.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1697838215/7471a814914ee50aeda58737e0db5cfc_rendering.jpg?1697838215"
         }
       ],
       "withDistrictDays": null,
@@ -300610,6 +300945,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/7ef29f55e856b54df0b4c8385258baee599a8771/original/1772233747/1edfc97aa34498ce8658a0a1cbeded2b_Render%20Nov%202025.png?1772233747"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -300697,6 +301037,11 @@
         {
           "docName": "Rezoning Policy for Sustainable Large Developments",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/e14074c18d4ce10fb7f135a72e38cc7daa7e6b8b/original/1723220157/c0929e490c6e9ea9c84b3062fcc5e338_2024-08-07_-_W_10th_aerial%E2%80%8E.png?1723220157"
         }
       ],
       "withDistrictDays": null,
@@ -300805,6 +301150,11 @@
         {
           "docName": "CD-1 (Comprehensive Development) District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-cd-1.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/2c9153cdd130a80c15bff50f1ba4ad08b20c4ac8/original/1702582805/ebc9573b3aed5acf511f70be87e1c46a_1555-1581_W_7th_Ave_-_render.jpg?1702582805"
         }
       ],
       "withDistrictDays": null,
@@ -300923,6 +301273,11 @@
         {
           "docName": "Secured Rental Policy Low-Density Transition Areas Rezoning Guide",
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/31e08d37f30c627da8983a921da3062c13655f6c/original/1701991095/cf1c3e82c2798d3c745de01e876da564_SRP_Building_Example_RR-2B_-_Label.png?1701991095"
         }
       ],
       "withDistrictDays": null,
@@ -301057,6 +301412,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1705363472/bd3b5e420c981b4d70e18c0afa05e3e5_rendering.jpg?1705363472"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -301171,6 +301531,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1706817179/6bcdbeb1ecba66260dd20a5608532ebe_render.jpg?1706817179"
         }
       ],
       "withDistrictDays": null,
@@ -301311,6 +301676,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1709228996/7999a6fbb377cde2fda4ed4716177a2e_render.jpg?1709228996"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -301387,6 +301757,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1707933495/f6462633d6a89c96ad48e542871dcc10_render.jpg?1707933495"
         }
       ],
       "withDistrictDays": null,
@@ -301469,6 +301844,11 @@
         {
           "docName": "Secured Rental Policy",
           "docURL": "https://bylaws.vancouver.ca/zoning/policy-rezoning-secured-rental.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/afefebbc4dcb468b05b8d035e27bd9c9dc9b36fd/original/1723131553/b063c62926226658a31cb23ecd8bdc52_SRP_Building_Example_RR-3A_-_Label.png?1723131553"
         }
       ],
       "withDistrictDays": null,
@@ -302797,6 +303177,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/3f8a20e772569af7f726d6134e0ed4b0df415ec9/original/1708128546/87dd33251baea39dbf40f4f22abb8851_rendering_%28use%29.jpg?1708128546"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -302875,6 +303260,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1708988878/799b24656d653f3b854f1e908835ef0f_Rendering.jpg?1708988878"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -302945,6 +303335,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1707844628/795ae2516e23e4c827f61a31834d2269_rendering.jpg?1707844628"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -303010,6 +303405,11 @@
         {
           "docName": "RM-3 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1708630011/258489d5175b773aad555537e8faa5f7_rendering.jpg?1708630011"
         }
       ],
       "withDistrictDays": null,
@@ -303107,6 +303507,11 @@
         {
           "docName": "RM-3 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1706737987/d51a9f2a22e4b9a33fdf955e811872a4_Rendering.jpg?1706737987"
         }
       ],
       "withDistrictDays": null,
@@ -303236,6 +303641,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/e89015dda5618e5524767d1e5b90570a3e9736fd/original/1717521438/d1aaf9b019b9d109be619509962e1b91_rendering_-_SYC.JPG?1717521438"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -303305,6 +303715,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1709054097/1e8381cae6f202873d5655832b982b02_rendering.jpg?1709054097"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -303372,6 +303787,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1710887712/8a4a727fc07548f4ef435a9052e7fd31_render.jpg?1710887712"
         }
       ],
       "withDistrictDays": null,
@@ -303456,6 +303876,11 @@
         {
           "docName": "Rezoning Policy for Sustainable Large Developments",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1761952818/1ff1337ee30cfdc7039498d787cc1a35_Render.jpeg?1761952818"
         }
       ],
       "withDistrictDays": null,
@@ -303550,6 +303975,11 @@
         {
           "docName": "West End Community Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-west-end.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1763078387/60c8e25443636d438320acd1c1b49cf2_Render.jpg?1763078387"
         }
       ],
       "withDistrictDays": null,
@@ -303650,6 +304080,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r3.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1762379132/fd81622b76d1d2ff86fb287533a120af_Render.jpeg?1762379132"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -303719,6 +304154,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1711559569/3e47b2d74d80e9423e28e61aaf1b7be1_render.jpg?1711559569"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -303784,6 +304224,11 @@
         {
           "docName": "R1-1 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/23f2f59d71f4230f508f0e9a1e9197cbb5801ba7/original/1698878640/clonef7clonea0clone7fclone43clone52cloneb5clone9aclone8aclone99clonefd8919eaddadaf082a5923b8f17631bbe8_TH_Building_Example_RM_8A_AN.PNG?1698878640"
         }
       ],
       "withDistrictDays": null,
@@ -303860,6 +304305,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-5-all-districts.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1707155538/3de8ddc9b94400f6c101ca72b5c95339_render.jpg?1707155538"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -303933,6 +304383,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/31e08d37f30c627da8983a921da3062c13655f6c/original/1706728128/clone51clone6d48137b4891b9f008f84d4e83e12cc441_SRP_Building_Example_RR_2B___Label.png?1706728128"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -303994,6 +304449,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/754a8f150b2f85b5f103d3d0c048481357036683/original/1715213813/d30f15ebb8c096e6b0f3d2a8f6c29e16_render-SYC.jpg?1715213813"
         }
       ],
       "withDistrictDays": null,
@@ -304093,6 +304553,14 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1706737987/d51a9f2a22e4b9a33fdf955e811872a4_Rendering.jpg?1706737987"
+        },
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1712879276/5e4d4a44474f706a395a24369dbb0b1e_render.jpg?1712879276"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -304160,6 +304628,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1711664562/087c4ec7218f9d7160fc7319ab7b21c1_render.jpg?1711664562"
         }
       ],
       "withDistrictDays": null,
@@ -304246,6 +304719,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1715624983/97922a8217b13d605b86607463242971_render.jpg?1715624983"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -304307,6 +304785,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1714673042/9696c06a6221584390194dd8d6441b68_rendering.jpg?1714673042"
         }
       ],
       "withDistrictDays": null,
@@ -304380,6 +304863,11 @@
         {
           "docName": "RM-4 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1709054522/b6dfe63703400d113377a514a8ebdc41_rendering.jpg?1709054522"
         }
       ],
       "withDistrictDays": null,
@@ -304480,6 +304968,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/199084a882f3ed5c432f9c98a0b10e8c6d578d9c/original/1764180858/f1274925c7098d9c4af5b896934e9bb0_Rendering%20Revised.jpeg?1764180858"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -304561,6 +305054,11 @@
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/5c410c29cfd47bbd7c4a1647d1d8eeaa5ad8b7c4/original/1708130198/cecec1756585359dc7d2e7f77d9d17ea_SRP_Building_Example_RR-2A_-_Label.png?1708130198"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -304616,6 +305114,11 @@
         {
           "docName": "Interim Rezoning Policy for Social Housing, Seniors Housing, and Institutional, Cultural and Recreational Uses in Former Community Visions Areas",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-former-community-visions-areas.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1712871762/2298c89eb04d02201a35246b99f44440_render.jpg?1712871762"
         }
       ],
       "withDistrictDays": null,
@@ -304687,6 +305190,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1716573248/dbe4dcf700044898816c022496dbb77b_rendering.jpg?1716573248"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -304754,6 +305262,11 @@
         {
           "docName": "RM-4 and RM-4N Districts Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1715899116/2da734bcb33a8269f3a3caa34aaf69bf_rendering.jpg?1715899116"
         }
       ],
       "withDistrictDays": null,
@@ -304825,6 +305338,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ic-1.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1718057941/a72f9c4c6d8f4e200f03422aa6a3e313_rendering.jpg?1718057941"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -304888,6 +305406,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1719262042/084039aa293fa6a8b0ab499ab26a09b7_render.jpg?1719262042"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -304949,6 +305472,11 @@
         {
           "docName": "RM-4 and RM-4N Districts Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b94d4805b1fcb6398f8afcd14fe4bb0c76613e6d/original/1717100781/264ae40ecf23f2a05cdb295bf5232705_rendering_2.jpg?1717100781"
         }
       ],
       "withDistrictDays": null,
@@ -305020,6 +305548,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1718309019/0843ef19bc4f8ec4dd4f14dd1302f254_rendering.jpg?1718309019"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -305075,6 +305608,11 @@
         {
           "docName": "RM-4 and RM-4N Districts Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1718138658/77cf84ca881f2bdef16f4923df94d986_rendering.jpg?1718138658"
         }
       ],
       "withDistrictDays": null,
@@ -305138,6 +305676,11 @@
         {
           "docName": "RT-5 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rt-5.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1715894900/6b5ddc4ae34629a22136d1077429b69a_rendering.jpg?1715894900"
         }
       ],
       "withDistrictDays": null,
@@ -305210,6 +305753,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/61742e633fcb7cb61d00a4b4f2cbc998b2ed6ac9/original/1760045611/5434937ccfeb7c324ccc9c21ee8d2e9f_Revised%20render.png?1760045611"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -305279,6 +305827,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1706556621/1af4eda64fa5d79e893dc67b76e0108f_render.jpg?1706556621"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -305334,6 +305887,11 @@
         {
           "docName": "RM-3 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b94d4805b1fcb6398f8afcd14fe4bb0c76613e6d/original/1717456780/24d314e065b3ab00ed3de171d6f2fb57_rendering_2.jpg?1717456780"
         }
       ],
       "withDistrictDays": null,
@@ -305403,6 +305961,11 @@
         {
           "docName": "RM-4 and RM-4N Districts Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1714603051/2c0f33b6d95555370042a24ea84eef02_rendering.jpg?1714603051"
         }
       ],
       "withDistrictDays": null,
@@ -305511,6 +306074,11 @@
         {
           "docName": "C3-A District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-3a.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/51e189a55e2aa3bf9121d69a67267ec2db0c29c8/original/1759357410/36df47abb1839309640b48122673ae87_revised%20rendering.png?1759357410"
         }
       ],
       "withDistrictDays": null,
@@ -305635,6 +306203,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-r1-1.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/23f2f59d71f4230f508f0e9a1e9197cbb5801ba7/original/1698878612/clonea0clone7fclone43clone52cloneb5clone9aclone8aclone99clonefd8919eaddadaf082a5923b8f17631bbe8_TH_Building_Example_RM_8A_AN.PNG?1698878612"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -305714,6 +306287,11 @@
         {
           "docName": "Secured Rental Policy Low-Density Transition Areas Rezoning Guide",
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/31e08d37f30c627da8983a921da3062c13655f6c/original/1721836007/87e60cd3e9c3ed5b369fa7c75e006046_SRP_Building_Example_RR-2B_-_Label.png?1721836007"
         }
       ],
       "withDistrictDays": null,
@@ -305821,6 +306399,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-1.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1723056161/f556b8086aa2cc900fb95a30e1dc9059_Render.jpg?1723056161"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -305905,6 +306488,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1706898420/f2aec5efef41b46d3a9dc93c249dae0e_render.jpg?1706898420"
         }
       ],
       "withDistrictDays": null,
@@ -306157,6 +306745,11 @@
           "docURL": "https://vancouver.ca/files/cov/undrip-action-plan-2024-2028.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/c8c59697a9942b9f6eaeab99f8f9d42d84355e09/original/1725059026/e7a4258b1dc9a3a9e9b3b9dbb077b03a_Langara_YMCA_-_Rendering.jpg?1725059026"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -306241,6 +306834,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-i-1c.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/80fe7c77a0abe2d142f95c2cf988fa8587733cfb/original/1726698340/25e601b3bb4a1568888841e8ad335b75_rendering.PNG?1726698340"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -306308,6 +306906,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1728320198/fa8446302de7c6c5c185982a5f239331_rendering.jpg?1728320198"
         }
       ],
       "withDistrictDays": null,
@@ -306396,6 +306999,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/beead8c54556713af6f3619705bc2b2e8c5cb4e1/original/1753828879/ecce7597db7bba38c8f24a58019c0460_Revised%20Render.JPG?1753828879"
         }
       ],
       "withDistrictDays": null,
@@ -306503,6 +307111,11 @@
           "docURL": "https://guidelines.vancouver.ca/guidelines-rr-districts.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/eb14721cdd035aefae98e6afcf5dfc7c8e49debd/original/1764005396/2abd7fe3d152e6e2590d3a94821fd086_Render.png?1764005396"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -306570,6 +307183,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1768865167/6696eef6a2e5917fcd07d4f5c0f05fc0_Render.jpg?1768865167"
         }
       ],
       "withDistrictDays": null,
@@ -306670,6 +307288,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-5-all-districts.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/80fe7c77a0abe2d142f95c2cf988fa8587733cfb/original/1726186975/df2b21d168519b1082df05878b2f3f34_rendering.PNG?1726186975"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -306760,6 +307383,11 @@
         {
           "docName": "West End Community Plan",
           "docURL": "https://vancouver.ca/files/cov/west-end-community-plan.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/1ef95bfa7afc4b5a411a7b522b49844e6689a16a/original/1689712429/0a8fee574001109ba63e855d0319e5c5_1059-1075_nelson.png?1689712429"
         }
       ],
       "withDistrictDays": null,
@@ -306957,6 +307585,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1732124137/0a26a68a5d541ca5da66454ab7c99968_rendering.jpg?1732124137"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307102,6 +307735,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/9fecca9375bc83eee4c01d35755e168dd37705f7/original/1750181378/c86bac925f8454dae10088e00550bb2f_Render%20V2.jpg?1750181378"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307181,6 +307819,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-downtown-eastside.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1734737402/e740addeba6def64c6ce956a9af67cc5_render.jpg?1734737402"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307245,6 +307888,11 @@
           "docURL": "https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/80fe7c77a0abe2d142f95c2cf988fa8587733cfb/original/1736266821/7e4d4369c52069ee5d4be9c6b231376b_rendering.PNG?1736266821"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307300,6 +307948,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1733270912/3b96b20a3bbd86becf4fb15aa74841b8_rendering.jpg?1733270912"
         }
       ],
       "withDistrictDays": null,
@@ -307413,6 +308066,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-downtown-eastside.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1734981370/a745abe61ecb093174f49430867c83c0_rendering.jpg?1734981370"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307494,6 +308152,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1734560270/c37c30df7b905ec29f378b01e04914c5_rendering.jpg?1734560270"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307561,6 +308224,11 @@
         {
           "docName": "RM-3 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/e8958447e558ad555184ebdaa6f27191d4efec7e/original/1732263669/668f215e9a9875964b3c05a1d8c8c94e_rendering_-_Revised.jpg?1732263669"
         }
       ],
       "withDistrictDays": null,
@@ -307709,6 +308377,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-granville-slopes.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1747346679/afbfe44d1fbc259f9e0f809f6b3742b1_render.jpg?1747346679"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307776,6 +308449,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1721846491/52ef246a5d9a3c84d35d62ee94cc7096_Render.jpg?1721846491"
         }
       ],
       "withDistrictDays": null,
@@ -307860,6 +308538,11 @@
           "docURL": "https://guidelines.vancouver.ca/bulletins/V001.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/48a0d915bb5d481eeac8e6ee3024ae33de283d7e/original/1737497598/aa5bffb1343001488a2be12030656401_rendering2.JPG?1737497598"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -307933,6 +308616,11 @@
         {
           "docName": "Secured Rental Policy Low-Density Transition Areas Rezoning Guide",
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/31e08d37f30c627da8983a921da3062c13655f6c/original/1718924360/clonea7clone6d48137b4891b9f008f84d4e83e12cc441_SRP_Building_Example_RR_2B___Label.png?1718924360"
         }
       ],
       "withDistrictDays": null,
@@ -308010,6 +308698,11 @@
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/31e08d37f30c627da8983a921da3062c13655f6c/original/1718924401/clone76clone6d48137b4891b9f008f84d4e83e12cc441_SRP_Building_Example_RR_2B___Label.png?1718924401"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -308079,6 +308772,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0325c5e4c1b1d09a29d644bf54f9182c5a77293e/original/1757435434/01ca1300820c24a6661728e61de95a71_2244%20Render.jpg?1757435434"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -308146,6 +308844,11 @@
         {
           "docName": "RM-3A District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3a.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/80fe7c77a0abe2d142f95c2cf988fa8587733cfb/original/1735944382/efb28770548c12fbc6959db3e0f5f178_rendering.PNG?1735944382"
         }
       ],
       "withDistrictDays": null,
@@ -308220,6 +308923,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1758231327/1007362a2d2302b6b0d87bbc97c55760_Render.jpg?1758231327"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -308287,6 +308995,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/f73c3e3b6d1ad2476854af9cc4057a4145e3fe15/original/1737754251/77b9b60c36dffe20d0e7e759d97f6b91_rendering.JPG?1737754251"
         }
       ],
       "withDistrictDays": null,
@@ -308369,6 +309082,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/7d462c647674d2d7cd599d81c16157383eaa383b/original/1738198426/96c026dd0923eab0e8776ad5cbc98116_SYC_-_Render_Edit.jpg?1738198426"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -308446,6 +309164,11 @@
         {
           "docName": "Transit-Oriented Areas Rezoning Policy",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1771971853/66788247be4a5c8511e0cd01f0323699_Render.jpg?1771971853"
         }
       ],
       "withDistrictDays": null,
@@ -308527,6 +309250,11 @@
           "docURL": "https://guidelines.vancouver.ca/guidelines-public-views.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/17e7374a3b5c63231790827340fd28f639047b85/original/1757098553/2cf99c86941c3c057663ef28e176c483_Capture.PNG?1757098553"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -308587,6 +309315,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/80fe7c77a0abe2d142f95c2cf988fa8587733cfb/original/1736278647/c18f1122f168054e6809fc535d1dabda_rendering.PNG?1736278647"
         }
       ],
       "withDistrictDays": null,
@@ -308719,6 +309452,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1754604234/355ed17dd96dafa241bd5ac1d0e1f1fd_Render.jpeg?1754604234"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -308787,6 +309525,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/e3bdbec784976c150165864cc75ca73e0dc79a42/original/1745875194/645d52ca5b6ab53bc4f1161fcc9751fb_rendering2.jpg?1745875194"
         }
       ],
       "withDistrictDays": null,
@@ -308881,6 +309624,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/80fe7c77a0abe2d142f95c2cf988fa8587733cfb/original/1733783901/0ab7af0b76aec6283ad70e9fde9677fb_rendering.PNG?1733783901"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -308942,6 +309690,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/858b81ec55f97b8e49a2d4d04500ad9d4283ba62/original/1739386252/e0a03828e9b8fa5f4ee67d918359c5f3_SYC_Render_V2.jpg?1739386252"
         }
       ],
       "withDistrictDays": null,
@@ -309029,6 +309782,11 @@
         {
           "docName": "Secured Rental Policy Low-Density Transition Areas Rezoning Guide",
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8b274c4354cd43cbd6367f61a64f3d29e750bd4a/original/1733422672/d3ff12a7f2e22c21a751dc0a5512f347_SRP_Building_Example_RR-3B.png?1733422672"
         }
       ],
       "withDistrictDays": null,
@@ -309132,6 +309890,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/f73c3e3b6d1ad2476854af9cc4057a4145e3fe15/original/1739382786/48bfe15ab766eaff0a0962f01d88c159_rendering.JPG?1739382786"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -309219,6 +309982,11 @@
           "docURL": "https://bylaws.vancouver.ca/ODP/odp-rental-housing-stock.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1734651633/8c2a52e7f50ec5f53dcf0e3a3c3714bf_rendering.jpg?1734651633"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -309292,6 +310060,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1741124292/c42f62c92191ecd5cfa90afb2f463549_render.jpg?1741124292"
         }
       ],
       "withDistrictDays": null,
@@ -309380,6 +310153,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-downtown-eastside.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/2300c7d082c1302ab00c9c4c3233a09609fa047f/original/1742232619/ea71a9fc0b63ac7e4e4898283c423733_hasting%20outlined.JPG?1742232619"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -309465,6 +310243,11 @@
         {
           "docName": "Vancouver Heritage Register (VHR)",
           "docURL": "https://guidelines.vancouver.ca/policy-vancouver-heritage-register.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/9e84063556ffedab90f2eb215fdddae7bff8a68e/original/1742253004/d48268c51ee7f82564735c8167a5d2a2_cordova.jpg?1742253004"
         }
       ],
       "withDistrictDays": null,
@@ -309635,6 +310418,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/eb14721cdd035aefae98e6afcf5dfc7c8e49debd/original/1774996900/45409a18058713bbde6f4d4c45239e20_Render.png?1774996900"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -309696,6 +310484,11 @@
         {
           "docName": "RM-4 and RM-4N Districts Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-4.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/676d554b2b6e08edd34466c067b0ef13cd8a5a4b/original/1745336865/6056742dc31f864ad306b7a2994e828f_rendering.png?1745336865"
         }
       ],
       "withDistrictDays": null,
@@ -309787,6 +310580,11 @@
         {
           "docName": "Cambie Corridor Plan",
           "docURL": "https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/de57db3f3ddf7fd44d5d0534db471b9119cdb03c/original/1751060781/beb98747b0d03d4ae3154983382762f1_render%203.jpg?1751060781"
         }
       ],
       "withDistrictDays": null,
@@ -309912,6 +310710,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/f73c3e3b6d1ad2476854af9cc4057a4145e3fe15/original/1744845413/b8d16b61e9b6cb2c55778a2a8188349f_rendering.JPG?1744845413"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -309981,6 +310784,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-hotel-development.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/06a8cc18ca5f51fc923fbf978fdf4db3d0491728/original/1753207272/281673cddeb72e870990b8305a0e0715_rendering%20.png?1753207272"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -310042,6 +310850,11 @@
         {
           "docName": "Cambie Corridor Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/01e132a5f29a14a47dccfc5c86e28037f1accf9f/original/1733955982/e4410c9490bcb6326ebbb20a93d2a123_SYC_render.PNG?1733955982"
         }
       ],
       "withDistrictDays": null,
@@ -310106,6 +310919,11 @@
         {
           "docName": "Downtown District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-dd.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ff0abcf9f02a7ec129d612061e00855837993e49/original/1753903179/96f0fbb53268eb46d680acad0cbaf56d_Rendering%202025.png?1753903179"
         }
       ],
       "withDistrictDays": null,
@@ -310175,6 +310993,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/f73c3e3b6d1ad2476854af9cc4057a4145e3fe15/original/1748391811/5a15816b53ad83930edc02757396e6f4_rendering.JPG?1748391811"
         }
       ],
       "withDistrictDays": null,
@@ -310274,6 +311097,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b6711b7c17a665492a1d7e40317084945934e8b0/original/1754078799/ab1f0516e707fc13cf73a72ae5149281_Rendering.png?1754078799"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -310340,6 +311168,11 @@
         {
           "docName": "Hotel Development Policy",
           "docURL": "https://guidelines.vancouver.ca/policy-hotel-development.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/f73c3e3b6d1ad2476854af9cc4057a4145e3fe15/original/1745868712/b98d4c00e0b5dd0afaf1dbbddfc98a71_rendering.JPG?1745868712"
         }
       ],
       "withDistrictDays": null,
@@ -310409,6 +311242,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b73bee270ccbe4cde7a3bb9e0b2a04bc797fb76e/original/1774647695/6850f33e54aa13545600bdff08770702_Rendering%20revised.png?1774647695"
         }
       ],
       "withDistrictDays": null,
@@ -310514,6 +311352,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-marpole.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/442c52ac783f499a9c7ec3f6af00eb2be2ef35fb/original/1754601647/5503ad2b486f97907567fb6ec2354a3a_Renderings.png?1754601647"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -310583,6 +311426,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1724194831/23d60672f23b11bb9e143b46d527adf0_Render.jpg?1724194831"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -310649,6 +311497,11 @@
         {
           "docName": "RM-3A Zoning",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-3a.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/06a8cc18ca5f51fc923fbf978fdf4db3d0491728/original/1751064611/492018b7c540eb3c571a06867d1026d6_rendering%20.png?1751064611"
         }
       ],
       "withDistrictDays": null,
@@ -310724,6 +311577,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1755117223/28e8d4d55c5a3ba24332e861f8b3243e_Render.jpeg?1755117223"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -310789,6 +311647,11 @@
         {
           "docName": "Heritage Conservation Area Official Development Plan",
           "docURL": "https://bylaws.vancouver.ca/ODP/odp-heritage-conservation-area.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1744842553/329227a45b2afd32ab5dc902c18f85f4_render.jpg?1744842553"
         }
       ],
       "withDistrictDays": null,
@@ -310861,6 +311724,11 @@
         {
           "docName": "Downtown Rezoning Policy",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1755117223/28e8d4d55c5a3ba24332e861f8b3243e_Render.jpeg?1755117223"
         }
       ],
       "withDistrictDays": null,
@@ -310964,6 +311832,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/207381ccc0b6c3a9e4cdabdd79610447523310a9/original/1747075695/9b49c8c9050ae873ff3f06416ac94b08_render.PNG?1747075695"
         }
       ],
       "withDistrictDays": null,
@@ -311070,6 +311943,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1747074093/9c0f779c44950130fd3ff467f2191e6b_render.jpg?1747074093"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -311137,6 +312015,11 @@
         {
           "docName": "Grandview Woodland Community Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/14578e56a799653ff778a52d52e16652f6ae8f9a/original/1747765443/1cd91a57ecc338190ae7bb3ccafa5d36_render.jpg?1747765443"
         }
       ],
       "withDistrictDays": null,
@@ -311260,6 +312143,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1757542559/f25b711f7cae564a69232d7230b06efc_Render.jpg?1757542559"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -311328,6 +312216,17 @@
         {
           "docName": "Southeast False Creek Official Development Plan",
           "docURL": "https://bylaws.vancouver.ca/odp/odp-southeast-false-creek.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/9ff12e2e83c5cdd727f796914edb09e07bba9bad/original/1750092197/59940bf81360ff2d056d023271648e84_persp%201%20JPG%20-%20FINAL.jpg?1750092197"
+        },
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ec6d4d3017ab8ba43718c0875e1797b63554a8ff/original/1757529090/9bb3796e779b30b7b9fb9e2d395b6a93_Map%20for%20SYC%20-%20Lease%20Area%20-%20Final.jpg?1757529090"
+        },
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/fabbb1f39e2ba932800699931faca6dc74610845/original/1757529076/18dd0f78cd8e0a0e77b575d70a33331d_Site%201A.jpg?1757529076"
         }
       ],
       "withDistrictDays": null,
@@ -311404,6 +312303,11 @@
           "docURL": "https://vancouver.ca/files/cov/SRP-Low-density-Transition-Areas-Rezoning-Guide.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/f0709b04677c5dbf32da253e25e34729a6297fba/original/1744239534/2cf2b21530c3cf675a486b849c310b3f_SRP%20Building%20Example%20RR-2B%20-%20Label.png?1744239534"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -311471,6 +312375,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b469ab0a6de1f3568ef33f14193822859cabf0c3/original/1779902823/2184b85cb1702a307fe264709bde7a9c_6212-6218%20Ash%20Street%20-%203rd%20Submission%20%28Official%29%20Rendering.jpg?1779902823"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -311536,6 +312445,11 @@
         {
           "docName": "Transit-Oriented Areas Rezoning Policy",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b469ab0a6de1f3568ef33f14193822859cabf0c3/original/1779902823/2184b85cb1702a307fe264709bde7a9c_6212-6218%20Ash%20Street%20-%203rd%20Submission%20%28Official%29%20Rendering.jpg?1779902823"
         }
       ],
       "withDistrictDays": null,
@@ -311615,6 +312529,11 @@
         {
           "docName": "Oakridge Transit Centre and Adjunct Sites Policy Statement",
           "docURL": "https://guidelines.vancouver.ca/policy-statement-oakridge-transit-centre-adjacent-sites.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/d0b047300f96ed8c1f7b48a502a1d5e45ff6f272/original/1770323292/1e4d18556c9a228834cd2873306e2171_REVISED%20Rendering.png?1770323292"
         }
       ],
       "withDistrictDays": null,
@@ -311721,6 +312640,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/aac592e94f7f974a2e3cec5548e13c5602b117b7/original/1770164177/7e9ff673d9b6c89b179bce292cd72917_LNG%20Studios-1668%20W%20Broadway-Hero-FHR-2026-02-03.png?1770164177"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -311780,6 +312704,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1755705591/475e42b36d839fd19b7fe6cf61ae2d9b_Rendering.jpg?1755705591"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -311836,6 +312765,11 @@
         {
           "docName": "Secured Rental Policy",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-secured-rental.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1755705591/475e42b36d839fd19b7fe6cf61ae2d9b_Rendering.jpg?1755705591"
         }
       ],
       "withDistrictDays": null,
@@ -311902,6 +312836,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-ic-1.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/32a4ec67d288a82aadac6ebe6f3ae09fedd19cc2/original/1749767016/80bed0502a9680da1a71d5ee7a2fc50f_Render.PNG?1749767016"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -311963,6 +312902,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/168a827d5de0a608aef63d854e829704f3930b15/original/1758560387/dd718e6cd3683ec1412d2a2c021bf2d5_Rendering%20.jpg?1758560387"
         }
       ],
       "withDistrictDays": null,
@@ -312038,6 +312982,11 @@
         {
           "docName": "Transit-Oriented Areas Rezoning Policy",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/02b00afbcec1f57cfcc6a7467c3412d307bdbc9c/original/1750720726/7ef29cbbab6de04d24b2caf6f16265e3_Rendering%20-%20Cropped.jpg?1750720726"
         }
       ],
       "withDistrictDays": null,
@@ -312137,6 +313086,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1754512531/ef87b58f828af3d243107709b3bab7d5_Render.jpeg?1754512531"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312222,6 +313176,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0811981aee9deb33157b524001f21b1157129238/original/1769543608/6d72a40c1021cdd23d4176f98eeed92d_Revised%20Rendering.jpeg?1769543608"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312302,6 +313261,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/c6d8d94c287b348ea2d0189b1d5d26dfdf1592ba/original/1758737176/f59c7126afcf4f18bcaa782a64f6b973_Render%20.jpg?1758737176"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312370,6 +313334,11 @@
         {
           "docName": "C-2C1 District Schedule",
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2c1.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/7259d7cbb38abfd0635dada5a651becf00e4fac3/original/1754691456/6ddab4f531467a83c8ec1b47a8d1fe97_render.jpeg?1754691456"
         }
       ],
       "withDistrictDays": null,
@@ -312442,6 +313411,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-c-2c1.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/7259d7cbb38abfd0635dada5a651becf00e4fac3/original/1754691456/6ddab4f531467a83c8ec1b47a8d1fe97_render.jpeg?1754691456"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312508,6 +313482,11 @@
         {
           "docName": "Marine Landing Policy Updates",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-marine-landing-updates.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1759429454/3c9f82558ab2590adb3e10e36bf22923_Render.jpeg?1759429454"
         }
       ],
       "withDistrictDays": null,
@@ -312601,6 +313580,11 @@
           "docURL": "https://bylaws.vancouver.ca/zoning/zoning-by-law-district-schedule-rm-8-8a.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1755896994/f20a6f012a4adf1b057310d8cd12197c_Rendering.jpg?1755896994"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312682,6 +313666,11 @@
           "docURL": "https://cd1-bylaws.vancouver.ca/CD-1(567).pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/434b85f3d373c7ac3d7814bf4ea2108dada9a2c7/original/1757962575/2360908f6aefede8045e629e58333548_Area%201%20TA%20plan_r1.png?1757962575"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312757,6 +313746,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1755554372/d2c1892ca52a692ae463d2a3019e306c_Render.jpg?1755554372"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312830,6 +313824,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1755235125/16233404d887ff8e2df052891efafc39_Render.jpeg?1755235125"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312899,6 +313898,11 @@
           "docURL": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/02014_01"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1755277799/c43557ff53aa35ca1377a3e0ae8f1457_Render.jpeg?1755277799"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -312955,6 +313959,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1754953120/3e8f9acda90ab3ef98f31953e7592b73_Render.jpeg?1754953120"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313009,6 +314018,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1754953120/3e8f9acda90ab3ef98f31953e7592b73_Render.jpeg?1754953120"
         }
       ],
       "withDistrictDays": null,
@@ -313103,6 +314117,11 @@
         {
           "docName": "Rupert Renfrew Station Area Plan",
           "docURL": "https://www.shapeyourcity.ca/rupert-renfrew-station-area-plan"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/91c5cdb8716950deff290468510dea4c2c21ebc9/original/1756852319/c3855f9bfeb898d4de29da8b42c6142e_2808EB1.JPG?1756852319"
         }
       ],
       "withDistrictDays": null,
@@ -313200,6 +314219,11 @@
           "docURL": "https://www.shapeyourcity.ca/rupert-renfrew-station-area-plan"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/91c5cdb8716950deff290468510dea4c2c21ebc9/original/1756852319/c3855f9bfeb898d4de29da8b42c6142e_2808EB1.JPG?1756852319"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313276,6 +314300,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1775002585/2932f6cbe87124309c4778de82fc56c8_Render.jpg?1775002585"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313343,6 +314372,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1760648553/190c6aff3f1924f915d5d2135b63536c_Render.jpeg?1760648553"
         }
       ],
       "withDistrictDays": null,
@@ -313430,6 +314464,11 @@
           "docURL": "https://www2.gov.bc.ca/gov/content/housing-tenancy/strata-housing/attainable-housing-initiative-heather-lands"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1761583304/bc9c807ffa89f2c214b0b6ed7b5e4f53_Render.jpg?1761583304"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313489,6 +314528,11 @@
         {
           "docName": "West End Community Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-west-end.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1758147458/671ba474de73f07729a66277a6de0652_Rendering.jpg?1758147458"
         }
       ],
       "withDistrictDays": null,
@@ -313560,6 +314604,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1763763877/b6759f401e3369953f59d624b10ab3cc_rendering.jpg?1763763877"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313628,6 +314677,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/53118e2b61dc221445b9e4b5ad05f1842311e029/original/1762558099/55a59dba44bc3745c601b5160199f3b2_Render.jpeg?1762558099"
         }
       ],
       "withDistrictDays": null,
@@ -313711,6 +314765,11 @@
           "docURL": "https://cd1-bylaws.vancouver.ca/CD-1(708).pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1764118056/4b8b63d53753b5c1df1e6106c288e8c1_Render.jpg?1764118056"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313778,6 +314837,11 @@
           "docURL": "https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b893f0a4b765a941d7e186bde6990eecac8e511b/original/1764029158/71b292aa4add8d4ec164fce264c3d55c_1031-1039%20Burnaby%20St%20Notification%20Photo.png?1764029158"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313839,6 +314903,11 @@
         {
           "docName": "Cambie Corridor Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1762388244/a3b085ac5fccd25672d7879195ef6ce5_Render.jpg?1762388244"
         }
       ],
       "withDistrictDays": null,
@@ -313911,6 +314980,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-rupert-renfrew.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/00ccc6ca938545b8aaaa2259d35ef54838bba93f/original/1768242986/bb983841d1ea0efee789d224c5ce1ef3_2406-2484%20Renfrew%20Street%20-%20Resubmitted%20Rendering%20-%202026-02-12.jpg?1768242986"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -313980,6 +315054,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/9897c7cb2a2bc8cbd0d59e676c8468100948aa08/original/1764631021/6392ea5fad082f55f3684d7abee3c747_75%20E%208th%20Rendering.jpeg?1764631021"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -314046,6 +315125,11 @@
           "docURL": "https://bylaws.vancouver.ca/consolidated/14566.PDF"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/f4d24d3d1dc8caa20d9ebdc8de356ad0587f6338/original/1762547907/d0062824d42557a51906743fa10c3955_456%20Prior%20Render.jpg?1762547907"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -314107,6 +315191,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/babcf4b8151f43b34f5afea04ffd8ce3d88acaf1/original/1780432280/e66c6df3760db485ee7b51a8507ad25b_1795%20W%20Broadway%20render.jpg?1780432280"
         }
       ],
       "withDistrictDays": null,
@@ -314177,6 +315266,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/cef72f8829c88d115d83a949405456f75fdfd052/original/1780428420/0f64adbadafdfbb454066dc420feeb9f_Rendering%206-2-26.png?1780428420"
         }
       ],
       "withDistrictDays": null,
@@ -314385,6 +315479,11 @@
           "docURL": "https://bylaws.vancouver.ca/consolidated/14498.PDF"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1765561561/bfe0391516822dc3469a0eb00c1906d7_Render.jpg?1765561561"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -314459,6 +315558,11 @@
         {
           "docName": "Cambie Corridor Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-cambie-corridor.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1764629452/e276f5c0114fa40ffcf4d9d5faff87a7_Render.jpg?1764629452"
         }
       ],
       "withDistrictDays": null,
@@ -314560,6 +315664,11 @@
         {
           "docName": "Vancouver Heritage Register",
           "docURL": "https://guidelines.vancouver.ca/policy-vancouver-heritage-register.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/4ee79e92681b872f0bbd2105c70035ac545e6790/original/1768418677/ee2ac45ba15266dc4079b8ab85bfaee2_VGH%20Rendering%20with%20Star.jpg?1768418677"
         }
       ],
       "withDistrictDays": null,
@@ -314700,6 +315809,14 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/a02771bfb29e4d9f2d6d829e011f2598cfed8409/original/1769799021/b1ccc9db253acc807c0f8e23c4ce280b_RR-2C%20Rendering.jpg?1769799021"
+        },
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1769551773/ed59cb6ac7750b7f3279ef015efd0c73_Rendering.jpg?1769551773"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -314782,6 +315899,14 @@
         {
           "docName": "Rezoning Policy for Large Sustainable Developments",
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/a02771bfb29e4d9f2d6d829e011f2598cfed8409/original/1769799021/b1ccc9db253acc807c0f8e23c4ce280b_RR-2C%20Rendering.jpg?1769799021"
+        },
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1769551773/ed59cb6ac7750b7f3279ef015efd0c73_Rendering.jpg?1769551773"
         }
       ],
       "withDistrictDays": null,
@@ -314900,6 +316025,11 @@
         {
           "docName": "Grandview-Woodland Community Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-grandview-woodland.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/8a897c2d086c20a6e917e457c141400dd8d27b4a/original/1770932243/11492c7bfaf4d373668324668493b119_Rendering.jpg?1770932243"
         }
       ],
       "withDistrictDays": null,
@@ -315025,6 +316155,14 @@
           "docURL": "https://bylaws.vancouver.ca/odp/odp-east-fraser-lands.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/bad33fa88b3b74599d6d6c9a7f932ddd1b7f8b63/original/1771441133/4f9d0e9b3993b9077dff507620d5df70_Map%20Final-01.jpg?1771441133"
+        },
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b0f053be56318bdb29293262ff19ca4b6bd5be0a/original/1778190624/7408e65f202bed75df7e9c86662ff59f_Massing%20Amendment%20Parcel%2011.jpg?1778190624"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -315085,6 +316223,11 @@
         {
           "docName": "Broadway Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-broadway.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/d29159d953ce5e7ee5c9e32857df7a82963b28be/original/1772040441/f39cf7a5058967b28c34f48d40651f12_R5-3%20Example%20-%20Tower%20on%20Podium.jpg?1772040441"
         }
       ],
       "withDistrictDays": null,
@@ -315151,6 +316294,11 @@
         {
           "docName": "UNDRIP Action Plan 2024-2028",
           "docURL": "https://vancouver.ca/files/cov/undrip-action-plan-2024-2028.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/168a827d5de0a608aef63d854e829704f3930b15/original/1772047333/71680e7c19132bd56d909a6fb144e3cc_Rendering%20.jpg?1772047333"
         }
       ],
       "withDistrictDays": null,
@@ -315276,6 +316424,11 @@
         {
           "docName": "False Creek Flats Plan",
           "docURL": "https://guidelines.vancouver.ca/policy-plan-false-creek-flats.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1772670736/d458c0c8f74ab8806d670245494e220a_Render.jpg?1772670736"
         }
       ],
       "withDistrictDays": null,
@@ -315803,6 +316956,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-sustainable-large-developments.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/ee3e298234ea367e87e2c3a6893dfd0b25b5d1a9/original/1780694110/087bd811f2481587bd7f80eba6ced893_rendering.jpg?1780694110"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -315882,6 +317040,11 @@
         {
           "docName": "Tenant Relocation and Protection Policy (TRPP)",
           "docURL": "https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/b6711b7c17a665492a1d7e40317084945934e8b0/original/1780419955/47636d334e3d2f6852dfba9fb460e0bf_Rendering.png?1780419955"
         }
       ],
       "withDistrictDays": null,
@@ -316004,6 +317167,11 @@
           "docURL": "https://guidelines.vancouver.ca/policy-rezoning-transit-oriented-areas.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/60be589ce06ff187916fbca8482a02eebf5ed790/original/1766166664/49a2b7cf79411b97a8b216f16b3d6440_View%201_Final%205.0.jpg?1766166664"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -316105,6 +317273,11 @@
           "docURL": "https://bylaws.vancouver.ca/odp/odp-downtown.pdf"
         }
       ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/eb14721cdd035aefae98e6afcf5dfc7c8e49debd/original/1784226637/7210146888619ec771857f41ec289ef2_Render.png?1784226637"
+        }
+      ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
@@ -316199,6 +317372,11 @@
         {
           "docName": "Heritage Conservation Area - Official Development Plan",
           "docURL": "https://bylaws.vancouver.ca/ODP/odp-heritage-conservation-area.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/0714f418d3651704caebe2c5d02421f5e4d49b34/original/1781804842/364a41fbf9d661232e3b871a345cc6ca_Render.jpg?1781804842"
         }
       ],
       "withDistrictDays": null,
@@ -333702,6 +334880,12 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1787641200,
+          "endDate": 1791961200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1791961200,
           "endDate": null
         },
         {
@@ -333722,7 +334906,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1790247140,
+      "lastUpdated": 1792061493,
       "relatedPermits": []
     },
     {
@@ -335447,16 +336631,16 @@
           "endDate": 1787554800
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1789974000,
-          "endDate": 1791356400
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1787554800,
+          "endDate": 1789974000
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1789974000,
+          "endDate": 1791356400
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -335484,7 +336668,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1791456728,
+      "lastUpdated": 1792061493,
       "relatedPermits": []
     },
     {
@@ -403240,15 +404424,21 @@
           "endDate": 1788159600
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1788159600,
+          "endDate": 1791961200
+        },
+        {
           "taskDescription": "Application is circulated to City departments for review and comment",
           "taskType": "Application Review by City",
           "startDate": 1759906800,
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": 1788159600,
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1791961200,
           "endDate": null
         },
         {
@@ -403334,10 +404524,26 @@
         {
           "docName": "2026-07-29 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F199BFE7-44F7-4AFD-9E05-7676925E5D95&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-10-14 - Plans_Revisions_Bubbled_1of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=08160C261014102319778146&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-10-14 - Plans_Revisions_Bubbled_2of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=08160C261014102658556197&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-10-14 - Revisions List_Architectural.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=822E2BE2-5003-460B-B0E8-12060B8ED9DA&folderId=89502C251002151439875948"
+        },
+        {
+          "docName": "2026-10-14 - Revisions List_Landscaping.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C25389DE-CBE1-4209-80A1-31C4B9E9D18E&folderId=89502C251002151439875948"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1792061493,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000658",
@@ -406120,8 +407326,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportsep27-oct3202679844.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportsep27-oct3202679845.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportoct4-10202679898.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportoct4-10202679899.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
