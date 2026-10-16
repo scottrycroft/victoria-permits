@@ -12,6 +12,7 @@ export interface PermitsEntity {
 	purpose: string;
 	progressSections: ProgressSectionsEntity[];
 	documents: DocumentsEntity[];
+	images?: PermitImageEntity[];
 	withDistrictDays?: number | null;
 	withApplicantDays?: number | null;
 	lastUpdated: number | null;
@@ -77,6 +78,10 @@ export interface ProgressSectionsEntity {
 export interface DocumentsEntity {
 	docName: string;
 	docURL: string;
+}
+
+export interface PermitImageEntity {
+	imgURL: string;
 }
 
 export interface DocumentEntity {

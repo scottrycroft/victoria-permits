@@ -1591,7 +1591,15 @@ onBeforeUnmount(() => {
 						{{ permit.purpose }}
 					</div>
 				</div>
-				<div class="col-7 field docSection">
+				<div class="col-4 field imagesSection" :style="{ display: permit.images?.length ? 'block' : 'none' }">
+					<label>Images</label>
+					<div class="font-bold">
+						<div v-for="(image, index) in permit.images" :key="image.imgURL">
+							<a :href="image.imgURL" target="_blank" class="imageLink"><img :src="image.imgURL" :alt="image.imgURL" style="width: 100%" /></a>
+						</div>
+					</div>
+				</div>
+				<div class="field docSection" :class="permit.images?.length ? 'col-3' : 'col-7'">
 					<label>Documents</label>
 					<Button
 						icon="pi pi-check"
