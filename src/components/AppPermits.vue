@@ -58,6 +58,10 @@ import { Select } from "primevue";
 import DatePicker from "primevue/datepicker";
 import DebugDialog from "./DebugDialog.vue";
 import RawJsonDialog from "./RawJsonDialog.vue";
+import { marked } from "marked";
+import DOMPurify from 'dompurify';
+
+const h = marked.parse("# Hello World\n\nThis is a **Markdown** example.", { async: false });
 
 const route = useRoute();
 const router = useRouter();
@@ -1594,7 +1598,8 @@ onBeforeUnmount(() => {
 						:class="versionDiffClass('purpose', permit, previousPermit)"
 						:title="versionDiffTitle('purpose', permit, previousPermit)"
 					>
-						{{ permit.purpose }}
+						<span v-if="permit.city === 'Vancouver-Rezoning'" v-html="DOMPurify.sanitize(marked.parse(permit.purpose || '', { async: false }))"></span>
+						<span v-else>{{ permit.purpose }}</span>
 					</div>
 				</div>
 				<div
