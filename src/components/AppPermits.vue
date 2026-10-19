@@ -666,6 +666,15 @@ const getPermitApplicationLinkByID = (
 		return dedicatedBase + permitID;
 	}
 
+	// Van Rezoning has the 'Shape Your City' link in the documents as the document link
+	if(pa && pa.city === "Vancouver-Rezoning") {
+		for(const doc of pa.documents) {
+			if(doc.docName.toLocaleLowerCase() === "view the application") {
+				return doc.docURL;
+			}
+		}
+	}
+
 	// Use permitUrls from permitInfo.json for all other cities
 	return getPermitUrlFromConfig(city, permitID, pa);
 };
