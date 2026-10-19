@@ -548,8 +548,8 @@ const addAddressMarker = async (
 
 		// Show detailed info window
 		const displayId = displayFolderNumber(permit.city, permit.folderNumber);
-		const titleAttr = permit.city === 'Richmond' ? ` title="${permit.folderNumber}"` : '';
-		const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
+		const titleAttr = permit.city === "Richmond" ? ` title="${permit.folderNumber}"` : "";
+		const basePath = import.meta.env.BASE_URL.replace(/\/$/, "");
 		const permitHref = `${basePath}/#!/p/${encodeURIComponent(permit.city)}/${encodeURIComponent(permit.folderNumber)}`;
 		const detailWindow = new google.maps.InfoWindow({
 			content: `
@@ -572,7 +572,7 @@ const addAddressMarker = async (
 					<div style="margin-bottom: 6px;">
 						<strong>Last Updated:</strong> ${lastUpdatedStr}
 					</div>
-					${permit.projectValue ? `<div style="margin-bottom: 6px;"><strong>Project Value:</strong> ${permit.projectValue}</div>` : ''}
+					${permit.projectValue ? `<div style="margin-bottom: 6px;"><strong>Project Value:</strong> ${permit.projectValue}</div>` : ""}
 					<div style="margin-bottom: 6px;">
 						<strong>Purpose:</strong> <span style="white-space: pre-wrap;">${permit.purpose}</span>
 					</div>

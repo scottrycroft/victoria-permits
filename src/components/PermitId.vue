@@ -12,7 +12,9 @@ const props = defineProps<{
 const resolvedCity = computed(() => props.permit?.city ?? props.city ?? "");
 const resolvedFolderNumber = computed(() => props.permit?.folderNumber ?? props.folderNumber ?? "");
 
-const displayText = computed(() => displayFolderNumber(resolvedCity.value, resolvedFolderNumber.value));
+const displayText = computed(() =>
+	displayFolderNumber(resolvedCity.value, resolvedFolderNumber.value)
+);
 
 const titleText = computed(() =>
 	resolvedCity.value === "Richmond" ? resolvedFolderNumber.value : undefined

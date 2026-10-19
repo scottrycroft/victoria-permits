@@ -405,7 +405,7 @@ const filteredPermitApplications = computed(() => {
 	if (showOnlyFavourites.value) {
 		filtered = filtered.filter((permit) => favouritesService.isPermitFavourite(permit));
 	}
-	
+
 	// Filter by viewed status
 	if (showOnlyViewedPermits.value !== null) {
 		filtered = filtered.filter((permit) => {
@@ -644,8 +644,7 @@ function getDaysWith(
 const dedicatedPermitUrlCities: Record<string, string> = {
 	Saanich: "https://online.saanich.ca/Tempest/OurCity/Prospero/Details.aspx?folderNumber=",
 	Victoria: "https://tender.victoria.ca/webapps/ourcity/Prospero/Details.aspx?folderNumber=",
-	"Oak Bay":
-		"https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=",
+	"Oak Bay": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/Details.aspx?folderNumber=",
 	"Central Saanich":
 		"https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/Details.aspx?folderNumber=",
 	Colwood: "https://services.colwood.ca/TLive/OurCity/Prospero/Details.aspx?folderNumber="
@@ -667,9 +666,9 @@ const getPermitApplicationLinkByID = (
 	}
 
 	// Van Rezoning has the 'Shape Your City' link in the documents as the document link
-	if(pa && pa.city === "Vancouver-Rezoning") {
-		for(const doc of pa.documents) {
-			if(doc.docName.toLocaleLowerCase() === "view the application") {
+	if (pa && pa.city === "Vancouver-Rezoning") {
+		for (const doc of pa.documents) {
+			if (doc.docName.toLocaleLowerCase() === "view the application") {
 				return doc.docURL;
 			}
 		}
@@ -684,11 +683,7 @@ const getPermitApplicationLinkByID = (
  * Matches the permit ID prefix to find the right URL, or falls back to "*".
  * Appends #:~:text= with the permit ID if available, or the primary address otherwise.
  */
-function getPermitUrlFromConfig(
-	city: string,
-	permitID: string,
-	pa?: PermitsEntity
-): string {
+function getPermitUrlFromConfig(city: string, permitID: string, pa?: PermitsEntity): string {
 	const cityUrls = permitUrls[city];
 	if (!cityUrls) {
 		return "";
@@ -719,10 +714,7 @@ function getPermitUrlFromConfig(
  * If there's only a "*" wildcard, returns that. Otherwise tries to match the
  * alphabetic prefix of the permit ID to a key in the config.
  */
-function resolveBaseUrl(
-	cityUrls: Record<string, string>,
-	permitID: string
-): string | undefined {
+function resolveBaseUrl(cityUrls: Record<string, string>, permitID: string): string | undefined {
 	// If there's a wildcard and it's the only entry, use it directly
 	if (cityUrls["*"]) {
 		return cityUrls["*"];
@@ -1147,9 +1139,7 @@ onBeforeUnmount(() => {
 					<!-- Second Row: All Filters -->
 					<div class="flex align-items-center gap-3 flex-wrap">
 						<div class="flex align-items-center gap-2">
-							<label for="filterUnviewedDocs">
-								Unviewed docs only:
-							</label>
+							<label for="filterUnviewedDocs"> Unviewed docs only: </label>
 							<input
 								type="checkbox"
 								id="filterUnviewedDocs"
@@ -1260,7 +1250,10 @@ onBeforeUnmount(() => {
 					/></router-link>
 				</template>
 			</Column>
-			<Column :exportable="false" style="width: 32px; min-width: 32px; max-width: 32px; padding: 0.25rem">
+			<Column
+				:exportable="false"
+				style="width: 32px; min-width: 32px; max-width: 32px; padding: 0.25rem"
+			>
 				<template #body="{ data }: { data: PermitsEntity }">
 					<i
 						v-if="data.major"
@@ -1430,7 +1423,11 @@ onBeforeUnmount(() => {
 		>
 			<template #header>
 				<div class="flex align-items-center gap-3">
-					<span class="font-bold text-xl">Permit Details - <a :href="getPermitApplicationLink(permit)" target="_blank"> <PermitId :permit="permit" /> </a></span>
+					<span class="font-bold text-xl"
+						>Permit Details -
+						<a :href="getPermitApplicationLink(permit)" target="_blank">
+							<PermitId :permit="permit" /> </a
+					></span>
 					<Button
 						:label="isPermitFavourite ? 'Unfavourite' : 'Favourite'"
 						:icon="isPermitFavourite ? 'pi pi-star-fill' : 'pi pi-star'"
@@ -1563,7 +1560,7 @@ onBeforeUnmount(() => {
 						:class="versionDiffClass('applicant', permit, previousPermit)"
 						:title="versionDiffTitle('applicant', permit, previousPermit)"
 					>
-						{{ permit.applicant || '\u00A0' }}
+						{{ permit.applicant || "\u00A0" }}
 					</div>
 				</div>
 				<div class="col-2 field">
@@ -1600,11 +1597,16 @@ onBeforeUnmount(() => {
 						{{ permit.purpose }}
 					</div>
 				</div>
-				<div class="col-4 field imagesSection" :style="{ display: permit.images?.length ? 'block' : 'none' }">
+				<div
+					class="col-4 field imagesSection"
+					:style="{ display: permit.images?.length ? 'block' : 'none' }"
+				>
 					<label>Images</label>
 					<div class="font-bold">
 						<div v-for="(image, index) in permit.images" :key="image.imgURL">
-							<a :href="image.imgURL" target="_blank" class="imageLink"><img :src="image.imgURL" :alt="image.imgURL" style="width: 100%" /></a>
+							<a :href="image.imgURL" target="_blank" class="imageLink"
+								><img :src="image.imgURL" :alt="image.imgURL" style="width: 100%"
+							/></a>
 						</div>
 					</div>
 				</div>
@@ -1698,32 +1700,37 @@ onBeforeUnmount(() => {
 					<div>
 						<DataTable stripedRows :value="permit.relatedPermits" :rowClass="relatedPermitRowClass">
 							<Column field="relatedPermitID" header="ID" style="width: 15em">
-									<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
-										<i
-											v-if="getApplicationByID(permit.city, relatedPermitID)?.major"
-											class="pi pi-bolt"
-											style="color: var(--p-blue-500); font-size: 1.1rem; margin-right: 0.35rem; vertical-align: middle"
-											title="Major"
-										></i>
-										<router-link
-											v-if="permitExistByID(permit.city, relatedPermitID) === 'exists'"
-											:to="{
-												name: 'view_permit',
-												params: { city: permit.city, permitID: relatedPermitID }
-											}"
-										>
-											<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
-										</router-link>
-										<a
-											v-else-if="permitExistByID(permit.city, relatedPermitID) === 'related'"
-											target="_blank"
-											:href="getPermitApplicationLinkByID(permit.city, relatedPermitID, permit)"
-										>
-											<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
-										</a>
-										<PermitId v-else :city="permit.city" :folderNumber="relatedPermitID" />
-									</template>
-								</Column>
+								<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
+									<i
+										v-if="getApplicationByID(permit.city, relatedPermitID)?.major"
+										class="pi pi-bolt"
+										style="
+											color: var(--p-blue-500);
+											font-size: 1.1rem;
+											margin-right: 0.35rem;
+											vertical-align: middle;
+										"
+										title="Major"
+									></i>
+									<router-link
+										v-if="permitExistByID(permit.city, relatedPermitID) === 'exists'"
+										:to="{
+											name: 'view_permit',
+											params: { city: permit.city, permitID: relatedPermitID }
+										}"
+									>
+										<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
+									</router-link>
+									<a
+										v-else-if="permitExistByID(permit.city, relatedPermitID) === 'related'"
+										target="_blank"
+										:href="getPermitApplicationLinkByID(permit.city, relatedPermitID, permit)"
+									>
+										<PermitId :city="permit.city" :folderNumber="relatedPermitID" />
+									</a>
+									<PermitId v-else :city="permit.city" :folderNumber="relatedPermitID" />
+								</template>
+							</Column>
 							<Column header="Status" style="width: 20em">
 								<template #body="{ data: { relatedPermitID } }: { data: RelatedPermit }">
 									<span v-if="getApplicationByID(permit.city, relatedPermitID)">

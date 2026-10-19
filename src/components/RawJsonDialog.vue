@@ -35,7 +35,9 @@ const diffHtml = computed(() => {
 	const oldJson = props.previous ? JSON.stringify(props.previous, null, 2) : "";
 	const newJson = props.current ? JSON.stringify(props.current, null, 2) : "";
 
-	const patch = createPatch("permit.json", oldJson, newJson, "Previous", "Current", { context: 9999 });
+	const patch = createPatch("permit.json", oldJson, newJson, "Previous", "Current", {
+		context: 9999
+	});
 	const diffJson: DiffFile[] = parse(patch);
 
 	return html(diffJson, {
@@ -74,11 +76,7 @@ watch(
 				</div>
 			</div>
 		</template>
-		<div
-			class="diff-container"
-			:class="{ 'word-wrap': wordWrap }"
-			v-html="diffHtml"
-		/>
+		<div class="diff-container" :class="{ 'word-wrap': wordWrap }" v-html="diffHtml" />
 	</Dialog>
 </template>
 

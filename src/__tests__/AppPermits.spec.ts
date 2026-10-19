@@ -25,9 +25,7 @@ vi.mock("@/geocoding", () => ({
 		geocodeAndCachePermit: vi.fn().mockResolvedValue(null),
 		geocodeAddressWithCache: vi.fn().mockResolvedValue(null),
 		getCachedLocation: vi.fn().mockResolvedValue(null),
-		getPermitAddressCacheKey: vi.fn(
-			(p: any) => `${p.primaryStreetName}, ${p.city}, BC, Canada`
-		),
+		getPermitAddressCacheKey: vi.fn((p: any) => `${p.primaryStreetName}, ${p.city}, BC, Canada`),
 		permitHasCoordinates: vi.fn(() => false),
 		getPermitCoordinates: vi.fn(() => null)
 	}
@@ -389,9 +387,7 @@ describe("AppPermits", () => {
 		it("displays purpose", async () => {
 			const { wrapper } = await mountAtPermit("Victoria", "BP-00100");
 			currentWrapper = wrapper;
-			expect(bodyText()).toContain(
-				"Construct a new 3-storey mixed-use building"
-			);
+			expect(bodyText()).toContain("Construct a new 3-storey mixed-use building");
 		});
 
 		it("displays documents with names", async () => {

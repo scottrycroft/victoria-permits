@@ -18,7 +18,10 @@ vi.stubEnv("BASE_URL", "/");
 		Marker: class {},
 		InfoWindow: class {},
 		LatLng: class {
-			constructor(public lat: number, public lng: number) {}
+			constructor(
+				public lat: number,
+				public lng: number
+			) {}
 		},
 		LatLngBounds: class {
 			extend() {

@@ -1,6 +1,13 @@
 <script setup lang="ts">
 import { db } from "@/db";
-import type { DocumentEntity, AddressLocation, FavouritePermit, MinorPermit, MajorPermit, PermitsEntityDB } from "@/types/Permits";
+import type {
+	DocumentEntity,
+	AddressLocation,
+	FavouritePermit,
+	MinorPermit,
+	MajorPermit,
+	PermitsEntityDB
+} from "@/types/Permits";
 import { favouritesService } from "@/favourites";
 import { minorPermitsService } from "@/minorPermits";
 import { majorPermitsService } from "@/majorPermits";
@@ -11,10 +18,10 @@ import Select from "primevue/select";
 import { useToast } from "primevue/usetoast";
 import { computed, nextTick, onMounted, onUnmounted, ref, watch } from "vue";
 
-declare const __APP_VERSION__: string
-declare const __BUILD_TIME__: string
-const appVersion = __APP_VERSION__
-const buildTime = new Date(__BUILD_TIME__).toLocaleString()
+declare const __APP_VERSION__: string;
+declare const __BUILD_TIME__: string;
+const appVersion = __APP_VERSION__;
+const buildTime = new Date(__BUILD_TIME__).toLocaleString();
 
 const props = defineProps<{
 	visible: boolean;
@@ -389,19 +396,19 @@ async function findPermitsWithDeletedDocs() {
 	findingDocDeletions.value = true;
 	docDeletionResults.value = null;
 	try {
-		const currentPermits = await db.lastSeenPermits
+		const currentPermits = (await db.lastSeenPermits
 			.where("dbVersion" as any)
 			.equals("current")
-			.toArray() as PermitsEntityDB[];
+			.toArray()) as PermitsEntityDB[];
 
 		const results: DocDeletionResult[] = [];
 
 		for (const current of currentPermits) {
 			if (results.length >= 5) break;
 
-			const previousArr = await db.lastSeenPermits
+			const previousArr = (await db.lastSeenPermits
 				.where({ dbVersion: "previous", city: current.city, folderNumber: current.folderNumber })
-				.toArray() as PermitsEntityDB[];
+				.toArray()) as PermitsEntityDB[];
 			const previous = previousArr[0];
 
 			if (!previous || current.lastUpdated === previous.lastUpdated) continue;
@@ -434,19 +441,19 @@ async function findPermitsWithDeletedProgress() {
 	findingProgressDeletions.value = true;
 	progressDeletionResults.value = null;
 	try {
-		const currentPermits = await db.lastSeenPermits
+		const currentPermits = (await db.lastSeenPermits
 			.where("dbVersion" as any)
 			.equals("current")
-			.toArray() as PermitsEntityDB[];
+			.toArray()) as PermitsEntityDB[];
 
 		const results: ProgressDeletionResult[] = [];
 
 		for (const current of currentPermits) {
 			if (results.length >= 5) break;
 
-			const previousArr = await db.lastSeenPermits
+			const previousArr = (await db.lastSeenPermits
 				.where({ dbVersion: "previous", city: current.city, folderNumber: current.folderNumber })
-				.toArray() as PermitsEntityDB[];
+				.toArray()) as PermitsEntityDB[];
 			const previous = previousArr[0];
 
 			if (!previous || current.lastUpdated === previous.lastUpdated) continue;
@@ -455,7 +462,8 @@ async function findPermitsWithDeletedProgress() {
 				.filter(
 					(prev) =>
 						!current.progressSections.some(
-							(cur) => cur.taskDescription === prev.taskDescription && cur.taskType === prev.taskType
+							(cur) =>
+								cur.taskDescription === prev.taskDescription && cur.taskType === prev.taskType
 						)
 				)
 				.map((p) => p.taskDescription || p.taskType);
@@ -636,7 +644,8 @@ onUnmounted(() => {});
 					<div class="text-sm">
 						<span class="font-semibold">Removed docs:</span>
 						<template v-for="(doc, i) in result.deletedDocs" :key="doc.url">
-							<span :title="doc.url">{{ doc.name }}</span><span v-if="i < result.deletedDocs.length - 1">, </span>
+							<span :title="doc.url">{{ doc.name }}</span
+							><span v-if="i < result.deletedDocs.length - 1">, </span>
 						</template>
 					</div>
 				</div>
