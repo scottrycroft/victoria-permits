@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1792752714,
+  "dateRetrieved": 1792839200,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -10794,13 +10794,13 @@
         }
       ],
       "city": "Colwood",
-      "lastUpdated": 1791456728,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "SP000076",
           "relatedPermitType": "SIGN PERMIT",
           "relatedPermitApplicationDate": 1790236800,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "This application proposes 1 fascia sign for Royal Bay Veterinary Clinic."
         },
         {
@@ -10892,6 +10892,78 @@
       "relatedPermits": [],
       "major": true,
       "storeys": 6
+    },
+    {
+      "primaryStreetName": "3460 VETERANS MEMORIAL PKY",
+      "applicant": "AUTHORIZED AGENT/OWNER",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000037",
+      "applicationDate": 1792566000,
+      "addresses": [
+        "3460 VETERANS MEMORIAL PKY"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This application proposes a text amendment to the Comprehensive Development 22 (CD22) zone to permit attached housing in Area 1.",
+      "progressSections": [
+        {
+          "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
+          "taskType": "APPLICATION INTAKE",
+          "startDate": 1789542000,
+          "endDate": 1792738800
+        },
+        {
+          "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab. \n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, a new task will be added.",
+          "taskType": "APPLICATION REVIEW",
+          "startDate": 1792738800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nSet Task Status to SCHEDULED when scheduled for Planning and Land Use Committee Meeting. \n\nAfter meeting, set to COMPLETE.",
+          "taskType": "PLANNING AND LAND USE COMMITTEE",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading are denied, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "1ST READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading are denied, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "2ND READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Set Task Status to SCHEDULED when Public Hearing scheduled. \n\nAfter meeting, set to COMPLETE.",
+          "taskType": "PUBLIC HEARING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nIf reading failed, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "3RD READING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Once meeting agenda posted, add link to OurCity. \n\nOnce scheduled, update Task Status to SCHEDULED.\n\nFile copy of signed and adopted amendment to Attachments.\nReview Checklist.\n\nWhen COMPLETE, the Issued, Approved, and Completed Date will bet set for the entire folder, and the Folder Status will be set to COMPLETE\n\nIf adoption failed, drop down to FAILED, the entire Folder will be set to DENIED.",
+          "taskType": "ADOPTION",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Architectural Plans",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=02394C261023091801661844&folderId=99308C260915163732834185"
+        }
+      ],
+      "city": "Colwood",
+      "lastUpdated": 1792738800,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "1708 BEACH GROVE RD",
@@ -22109,6 +22181,28 @@
       "relatedPermits": [],
       "latitude": 49.030209,
       "longitude": -123.056423
+    },
+    {
+      "primaryStreetName": "5379 1 AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023441",
+      "applicationDate": 1792839477,
+      "addresses": [
+        "5379 1 AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1792839477,
+      "relatedPermits": [],
+      "latitude": 49.0048,
+      "longitude": -123.07475
     },
     {
       "primaryStreetName": "4921 44A AVE",
@@ -88655,10 +88749,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1792839477,
       "relatedPermits": [],
-      "latitude": 48.40988322205748,
-      "longitude": -123.51655896513468,
+      "latitude": 48.40988778639919,
+      "longitude": -123.51657290957334,
       "projectValue": 918956
     },
     {
@@ -127159,18 +127253,45 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1791874800,
-          "endDate": null
+          "endDate": 1792738800
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791874800,
+      "lastUpdated": 1792839202,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "801 MCKENZIE AVE",
+      "applicant": "ABSTRACT DEVELOPMENT",
+      "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPA01126",
+      "applicationDate": 1792738800,
+      "addresses": [
+        "801 MCKENZIE AVE",
+        "811 MCKENZIE AVE",
+        "821 MCKENZIE AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO AMEND DPR00941",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1792738800,
       "relatedPermits": []
     },
     {
@@ -134546,13 +134667,19 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787036400,
-          "endDate": null
+          "endDate": 1789369200
         },
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1789974000,
-          "endDate": null
+          "endDate": 1789974000
+        },
+        {
+          "taskDescription": "Application approved by Council - work must commence within 2 years from date of approval",
+          "taskType": "APPLICATION APPROVED BY COUNCIL",
+          "startDate": 1789974000,
+          "endDate": 1789974000
         }
       ],
       "documents": [
@@ -134578,13 +134705,13 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1789555974,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00755",
           "relatedPermitType": "REZONING",
           "relatedPermitApplicationDate": 1702281600,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "TO REZONE FROM RS-6 TO A SITE SPECIFIC ZONE TO CONSTRUCT A SIX STOREY 88 UNIT WOOD FRAME MULTI FAMILY STRATA BUILDING WITH SURFACE (LIMITED)  AND UNDERGROUND PARKING"
         },
         {
@@ -134596,6 +134723,7 @@
         }
       ],
       "major": true,
+      "approvalStatus": "Approved",
       "storeys": 6
     },
     {
@@ -135206,6 +135334,18 @@
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1789974000,
+          "endDate": 1789974000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1789974000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -135224,7 +135364,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787655192,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -141052,14 +141192,14 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1792666280,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1779696000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "**TENANT PROTECTION BYLAW DPR01119** TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 150 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
+          "relatedPermitDescription": "**TENANT PROTECTION BYLAW DPR01119** TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
         },
         {
           "relatedPermitID": "REZ00811",
@@ -141454,7 +141594,7 @@
         "3953 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "**TENANT PROTECTION BYLAW DPR01119** TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 150 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES",
+      "purpose": "**TENANT PROTECTION BYLAW DPR01119** TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -141477,7 +141617,7 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00811",
@@ -141740,11 +141880,17 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1792566000,
-          "endDate": null
+          "endDate": 1792738800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
+          "startDate": 1792738800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
           "startDate": null,
           "endDate": null
         }
@@ -141764,7 +141910,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1792666280,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -142885,7 +143031,7 @@
         "4090 GORDON HEAD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "REZONE TO RM-7 TO BUILD A 3 BUILDING - 13 UNIT TOWNHOMES",
+      "purpose": "REZONE FROM RS-10 TO RM-7 TO BUILD 3 BUILDING TOWNHOMES TOTAL OF 13 DWELLING UNITS",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -142903,18 +143049,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1792393200,
-          "endDate": null
+          "endDate": 1792738800
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1792393200,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00823",
@@ -151004,14 +151150,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1788432810,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1779696000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "**TENANT PROTECTION BYLAW DPR01119** TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 150 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
+          "relatedPermitDescription": "**TENANT PROTECTION BYLAW DPR01119** TO REZONE FROM RS-14 TO C-17 (NEIGHBOURHOOD MIXED USE) ZONE TO CONSTRUCT A 6 STOREY BUILDING WITH 146 UNITS (MARKET RENTAL), UNDERGROUND PARKING AND TWO AT-GRADE COMMERCIAL RETAIL SPACES"
         },
         {
           "relatedPermitID": "DPR01114",
@@ -151728,14 +151874,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1792393200,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01134",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1792396800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "REZONE TO RM-7 TO BUILD A 3 BUILDING - 13 UNIT TOWNHOMES"
+          "relatedPermitDescription": "REZONE FROM RS-10 TO RM-7 TO BUILD 3 BUILDING TOWNHOMES TOTAL OF 13 DWELLING UNITS"
         }
       ]
     },
@@ -160991,7 +161137,7 @@
         "577 W 35TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit has been issued for site work and all below grade facilities for the proposed development:\r\n\r\nTo construct a new residential development consisting of one  four-storey, one five storey  and one six-storey noncombustible residential buildings with 124 residential units:\r\n Building 1/West   4 storey - BP-2024-00444 (5020 Ash St) -35 units \r\n Building 2/Middle 5 storey - BP-2024-00445 (5080 Ash St) -34 units\r\n Building 3/ East   6 storey - BP-2024-00446 (577 W 35 th Av) -55 units,\r\n\r\nall over 2 levels of underground parking with access from the lane.\r\n\r\nRadio antenna system to be installed in this building.\r\n\r\nStage I (E &S) issued - 27-Sep-2024\r\nStage II (Full permit) - issued 19-Aug-25 \r\n\r\nBP Revisions:\r\nRevision #1 (Changes to E &S dwgs) issued - 30-June-2025\nProject Value: $81,424,133.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Multiple Dwelling, Parking Garage\nNeighbourhood: Riley Park\nContractor: Etro Construction Limited",
+      "purpose": "Certified Professional Program - New Building - This permit has been issued for site work and all below grade facilities for the proposed development:\n\nTo construct a new residential development consisting of one  four-storey, one five storey  and one six-storey noncombustible residential buildings with 124 residential units:\n Building 1/West   4 storey - BP-2024-00444 (5020 Ash St) -35 units \n Building 2/Middle 5 storey - BP-2024-00445 (5080 Ash St) -34 units\n Building 3/ East   6 storey - BP-2024-00446 (577 W 35 th Av) -55 units,\n\nall over 2 levels of underground parking with access from the lane.\n\nRadio antenna system to be installed in this building.\n\nStage I (E &S) issued - 27-Sep-2024\nStage II (Full permit) - issued 19-Aug-25 \n\nBP Revisions:\nRevision #1 (Changes to E &S dwgs) issued - 30-June-2025\nRevision #2 - In Review \nBP Revision after DPMA (DP-2026-00518)\nProject Value: $81,424,133.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Multiple Dwelling, Parking Garage\nNeighbourhood: Riley Park\nContractor: Etro Construction Limited",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -161016,7 +161162,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1792839497,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-00444",
@@ -198986,7 +199132,7 @@
         "2175 W 7TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct  a 21- storey rental tower containing 182 residential units all over 3 levels of underground parking having vehicle access through a future  lane  from W 7th Ave. \n\nNOTES:\n1. Radio antenna system to be installed in this building.\n2. This Permit was reviewed under the  VBBL 2019.\n\nSTAGED CONSTRUCTION: \n19-Mar-2026 - Stage 1 (E &S) issued.\nStage 2 Full permit - In Review \n\nNOTE: Public Art fees - ouststanding  \nREL TO:  DP-2024-01130 (DPMA)\nProject Value: $67,586,956.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Apartment, Dwelling Unit, Parking Garage\nNeighbourhood: Kitsilano\nContractor: Graham Construction and Engineering LP",
+      "purpose": "Certified Professional Program - New Building - To construct  a 21- storey rental tower containing 182 residential units all over 3 levels of underground parking having vehicle access through a future  lane  from W 7th Ave. \n\nNOTES:\n1. Radio antenna system to be installed in this building.\n2. This Permit was reviewed under the  VBBL 2019.\n3. This Building Permit has been issued based on the adjacent owner's acknowledgment letter(s) for the proposed encroachment. Legal agreements must be executed and registered on Land Title prior to the commencement of any encroachment work.\n\nSTAGED CONSTRUCTION: \n19-Mar-2026 - Stage 1 (E &S) issued.\n\n\nStage 2 Full Permit - In Review\nProject Value: $67,586,956.00\nProperty Use: Dwelling Uses, Parking Uses\nSpecific Use: Apartment, Dwelling Unit, Parking Garage\nNeighbourhood: Kitsilano\nContractor: Graham Construction and Engineering LP",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -199011,7 +199157,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791370596,
+      "lastUpdated": 1792839497,
       "relatedPermits": [],
       "projectValue": 67586956,
       "latitude": 49.26586,
@@ -209669,7 +209815,7 @@
         "2010 HARRISON DRIVE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey seniors community care (class B) facility classified as Group B-3 Major Occupancy containing a total of 178 care beds including one level of parking on this existing site to replace the existing Care Home. Principal entrance and fire department's response point is located at 3rd storey facing Harrison Drive. \n\n1st storey includes parkade ramp and parking spaces, service rooms, production kitchen, laundry, storage rooms.\n2nd storey includes fitness room, conservatory, art room, hair salon, offices, conference rooms, common amenity rooms and individual sleeping units.\n3rd storey includes main firefighters' entrance, community hall, offices and nurse stations, common amenity rooms and individual sleeping units.\n4th-6th storeys include common amenity rooms and individual sleeping units.\n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. This project is being processed under SHORT program.\n3. High Building measures apply. Building requires a 2-stage Fire Alarm System, and a fire safety plan shall be submitted stating procedures and to ensure it meets all the requirements laid out in the Bulletin 2024-001-FI. Fire Safety Plan must be reviewed and accepted by VFRS prior to occupancy. \n4. Production kitchen on 1st storey to comply with NFPA-96 requirements  \n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring - Issued on May 12, 2026\nRevision #1 - changes to the shoring drawings - Issued on June 22, 2026\nStage 2: Foundation to Grade and Superstructure (Full Construction) - In Review\nProject Value: $83,000,000.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Victoria-Fraserview\nContractor: Lark Projects Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey seniors community care (class B) facility classified as Group B-3 Major Occupancy containing a total of 178 care beds including one level of parking on this existing site to replace the existing Care Home. Principal entrance and fire department's response point is located at 3rd storey facing Harrison Drive. \n\n1st storey includes parkade ramp and parking spaces, service rooms, production kitchen, laundry, storage rooms.\n2nd storey includes fitness room, conservatory, art room, hair salon, offices, conference rooms, common amenity rooms and individual sleeping units.\n3rd storey includes main firefighters' entrance, community hall, offices and nurse stations, common amenity rooms and individual sleeping units.\n4th-6th storeys include common amenity rooms and individual sleeping units.\n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. This project is being processed under SHORT program.\n3. High Building measures apply. Building requires a 2-stage Fire Alarm System, and a fire safety plan shall be submitted stating procedures and to ensure it meets all the requirements laid out in the Bulletin 2024-001-FI. Fire Safety Plan must be reviewed and accepted by VFRS prior to occupancy. \n4. Production kitchen on 1st storey to comply with NFPA-96 requirements  \n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Shoring - Issued on May 12, 2026\nRevision #1 - changes to the shoring drawings - Issued on June 22, 2026\nStage 2: Foundation to Grade and Superstructure (Full Construction) - Issued on Oct 22, 2026\nProject Value: $83,000,000.00\nProperty Use: Institutional Uses\nSpecific Use: Community Care Facility - Class B\nNeighbourhood: Victoria-Fraserview\nContractor: Lark Projects Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -209688,13 +209834,19 @@
           "taskType": "",
           "startDate": 1778572800,
           "endDate": 1778572800
+        },
+        {
+          "taskDescription": "Stage 2: Foundation to Grade and Superstructure (Full Construction)",
+          "taskType": "",
+          "startDate": 1792656000,
+          "endDate": 1792656000
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791370596,
+      "lastUpdated": 1792839497,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04898",
@@ -217633,6 +217785,60 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "1710 E PENDER STREET",
+      "applicant": "Kai Mikkelsen DBA: Thorson Consulting CP",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-05183",
+      "applicationDate": 1766044800,
+      "addresses": [
+        "1710 E PENDER STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 19-storey mixed-use building (191 social housing units) consisting of:\n  1st storey - 2 CRUs; 7 live/work artist studios (Class A); indoor amenity\n  2nd to 18th storeys - dwelling units; indoor & outdoor amenities on Levels 4 & 7\n  19th storey - indoor & outdoor amenities \n\nall over 2 levels of underground parking accessed from the lane.\n\nNotes:\n1. This permit has been reviewed under the provisions of the 2025 VBBL.\n2. A radio antenna system is required.\n\nSTAGED CONSTRUCTION\nSTAGE I: Excavation and Shoring (S.Yoo)\nISSUED: Oct. 22, 2026\nProject Value: $85,304,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Mixed-Use Residential Building, Dwelling Unit, Retail Store\nNeighbourhood: Grandview-Woodland\nContractor: Chandos Construction",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1766044800,
+          "endDate": 1766044800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1766044800,
+          "endDate": 1766044800
+        },
+        {
+          "taskDescription": "STAGE I: Excavation and Shoring",
+          "taskType": "",
+          "startDate": 1792656000,
+          "endDate": 1792656000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1766044800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2026-00309",
+          "relatedPermitType": "Demolition"
+        },
+        {
+          "relatedPermitID": "DB-2026-00326",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 85304000,
+      "latitude": 49.280022,
+      "longitude": -123.070007,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 19
+    },
+    {
       "primaryStreetName": "2755 W 30TH AVENUE",
       "applicant": "QI LI DBA: LQ Design GROUP Ltd",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -223076,6 +223282,84 @@
       "longitude": -123.111304,
       "approvalStatus": "Approved",
       "storeys": 3
+    },
+    {
+      "primaryStreetName": "6907 RUPERT STREET",
+      "applicant": "William Tan",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01191",
+      "applicationDate": 1776067200,
+      "addresses": [
+        "6907 RUPERT STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a three-storey two-unit front building, with four carport parking spaces at the rear building, having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in crawlspace\n2.\\tMechanical unit proposed – Exterior component located in courtyard, Interior component located in master bedroom closet\n3.\\tSchedule B: (Z.Y. You) P.Eng (778.302.2155) Glass Guards, Structural & Geotechnical\n4.\\tHPO: Residential Builder- Antaios Construction & Development Ltd.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBUILDING 1 - FRONT/EAST\n#1 - 6907 Rupert St - One Dwelling Unit (1st - 3rd floor)\n#2 - 6907 Rupert St - One Dwelling Unit (1st - 3rd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #14343 (2025)**\nProject Value: $1,222,720.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Killarney\nContractor: ANTAIOS CONSTRUCTION & DEVELOPMENT LTD",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1776067200,
+          "endDate": 1776067200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1776067200,
+          "endDate": 1776067200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1776067200,
+      "relatedPermits": [],
+      "projectValue": 1222720,
+      "latitude": 49.22134,
+      "longitude": -123.044762,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "6905 RUPERT STREET",
+      "applicant": "William Tan",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-01192",
+      "applicationDate": 1776067200,
+      "addresses": [
+        "6905 RUPERT STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling “Multiplex” with a two-storey two-unit rear building with four carport parking spaces having vehicular access from the lane.\n\n1.\\tHRV unit proposed - located in entry closet\n2.\\tMechanical unit proposed – Exterior component located in courtyard, Interior component located in second floor hallway closet\n3.\\tSchedule B: (Z.Y. You) P.Eng (778.302.2155) Glass Guards, Structural & Geotechnical\n4.\\tHPO: Residential Builder- Antaios Construction & Development Ltd.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBUILDING 2 - REAR/WEST\n#1 - 6905 Rupert St - One Dwelling Unit, North side (1st - 2nd floor)\n#2 - 6905 Rupert St - One Dwelling Unit, South side (1st - 2nd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n**THIS PERMIT HAS BEEN ISSUED UNDER THE REQUIREMENTS OF VBBL #14343 (2025)**\nProject Value: $808,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Killarney\nContractor: ANTAIOS CONSTRUCTION & DEVELOPMENT LTD",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1776067200,
+          "endDate": 1776067200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1776067200,
+          "endDate": 1776067200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1776067200,
+      "relatedPermits": [],
+      "projectValue": 808000,
+      "latitude": 49.221328,
+      "longitude": -123.044392,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "1601 COLUMBIA STREET",
@@ -303374,7 +303658,7 @@
         "4545 W 10th Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "\nCategory: Market Rental Housing included\nStatus: Approved\nApproved March 11, 2025\n**This application was approved by Council on March 11, 2025 following the Public Hearing on February 25, 2025.**\n\n  \n\n  \n\n**Updated Application Information (July 29, 2024)** \n\nThe City of Vancouver has received updated information related to the application to rezone the former West Point Grey Safeway site from C-2 (Commercial) District to CD-1 (Comprehensive Development) District. The updated proposal is to allow for the development of a 19-storey and 21-storey building and includes:\n\n*   457 market rental units and 114 moderate income rental units (571 units total);\n*   Commercial space on the ground floor, including a grocery store;\n*   A floor space ratio (FSR) of 3.92;\n*   A floor area of 49,414 sq. m (531,888 sq. ft.); and\n*   444 vehicle parking spaces and 1,107 bicycle spaces.\n\nThese updates are for a previous proposal submitted on November 14, 2023. Key changes from the previous version include shifting the towers further away from 10th Avenue, a reduced podium height, wrapping the retail space around the plaza edges, wider sidewalks along 10th Avenue, and adding a second underground parking entrance. Further details in table below and updated drawings:\n\n**2023 Original Application**\n\n**2024 Updated Drawings**\n\n**Height of podium (facing West 10th Avenue)**\n\n6 storeys\n\n4 storeys\n\n**Tower setback from property line**\n\n10 ft.\n\n32 ft.\n\n**Height of two towers**\n\n17 and 19 storeys\n\n19 and 21 storeys\n\n**Floor Area / Density**\n\n49,004 sq. m (527,475 sq. ft.)  \n3.84 FSR\n\n49,414 sq. m (531,888 sq. ft.)  \n3.92 FSR\n\n**Number of rental units**\n\n569 total (455 market, 114 moderate income rental)\n\n571 total (457 market, 114 moderate income rental)\n\n**Size of plaza**\n\n6,158 sq. ft.\n\n6,230 sq. ft.\n\n**Sidewalk width along 10th Ave (from curb to building face)**\n\n5.84 m (19 ft.)\n\n5.82 m-9.47 m (19-31 ft.)\n\n**Parking entrances**\n\nOne (off Tolmie St)\n\nTwo (one off Tolmie St, one off Sasamat St)\n\n**Parking spaces**\n\n444 vehicle spaces, 1,107 bicycle spaces\n\n444 vehicle spaces, 1,107 bicycle spaces\n\n**Size of grocery store**\n\n37,160 sq. ft.\n\n35,255 sq. ft.\n\n**Number/floor area of commercial retail units**\n\nTwo CRUs / 3,575 sq. ft.\n\nTwo CRUs / 4,928 sq. ft.\n\n  \n\nThis application is being considered under the [_Moderate Income Rental Housing Pilot Program_(External link)](https://vancouver.ca/files/cov/mirhpp-public-faqs.pdf).\n\n**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n* * *\n\n**Rezoning Application (November 14, 2023)** \n\nPrevious documents for this application, submitted on November 14, 2023, contained information for a mixed-use development comprised of two 6-storey buildings, and a central building with a 17-storey and a 19-storey tower. This included:\n\n*   455 market rental units and 114 moderate income rental units (569 units total);\n*   Commercial space on the ground floor, including a grocery store;\n*   A floor space ratio (FSR) of 3.84;\n*   A floor area of 49,004 sq. m (527,475 sq. ft.); and\n*   444 vehicle parking spaces and 1,107 bicycle spaces.\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)",
+      "purpose": "\nCategory: Market Rental Housing included\nStatus: Approved\nApproved March 11, 2025\n**This application was approved by Council on March 11, 2025 following the Public Hearing on February 25, 2025.**\n\n**Refer to the** [**Development Permit Application (DP-2026-00569)**](https://www.shapeyourcity.ca/4545-w-10th-ave-2).\n\n  \n\n  \n\n  \n\n**Updated Application Information (July 29, 2024)** \n\nThe City of Vancouver has received updated information related to the application to rezone the former West Point Grey Safeway site from C-2 (Commercial) District to CD-1 (Comprehensive Development) District. The updated proposal is to allow for the development of a 19-storey and 21-storey building and includes:\n\n*   457 market rental units and 114 moderate income rental units (571 units total);\n*   Commercial space on the ground floor, including a grocery store;\n*   A floor space ratio (FSR) of 3.92;\n*   A floor area of 49,414 sq. m (531,888 sq. ft.); and\n*   444 vehicle parking spaces and 1,107 bicycle spaces.\n\nThese updates are for a previous proposal submitted on November 14, 2023. Key changes from the previous version include shifting the towers further away from 10th Avenue, a reduced podium height, wrapping the retail space around the plaza edges, wider sidewalks along 10th Avenue, and adding a second underground parking entrance. Further details in table below and updated drawings:\n\n**2023 Original Application**\n\n**2024 Updated Drawings**\n\n**Height of podium (facing West 10th Avenue)**\n\n6 storeys\n\n4 storeys\n\n**Tower setback from property line**\n\n10 ft.\n\n32 ft.\n\n**Height of two towers**\n\n17 and 19 storeys\n\n19 and 21 storeys\n\n**Floor Area / Density**\n\n49,004 sq. m (527,475 sq. ft.)  \n3.84 FSR\n\n49,414 sq. m (531,888 sq. ft.)  \n3.92 FSR\n\n**Number of rental units**\n\n569 total (455 market, 114 moderate income rental)\n\n571 total (457 market, 114 moderate income rental)\n\n**Size of plaza**\n\n6,158 sq. ft.\n\n6,230 sq. ft.\n\n**Sidewalk width along 10th Ave (from curb to building face)**\n\n5.84 m (19 ft.)\n\n5.82 m-9.47 m (19-31 ft.)\n\n**Parking entrances**\n\nOne (off Tolmie St)\n\nTwo (one off Tolmie St, one off Sasamat St)\n\n**Parking spaces**\n\n444 vehicle spaces, 1,107 bicycle spaces\n\n444 vehicle spaces, 1,107 bicycle spaces\n\n**Size of grocery store**\n\n37,160 sq. ft.\n\n35,255 sq. ft.\n\n**Number/floor area of commercial retail units**\n\nTwo CRUs / 3,575 sq. ft.\n\nTwo CRUs / 4,928 sq. ft.\n\n  \n\nThis application is being considered under the [_Moderate Income Rental Housing Pilot Program_(External link)](https://vancouver.ca/files/cov/mirhpp-public-faqs.pdf).\n\n**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n* * *\n\n**Rezoning Application (November 14, 2023)** \n\nPrevious documents for this application, submitted on November 14, 2023, contained information for a mixed-use development comprised of two 6-storey buildings, and a central building with a 17-storey and a 19-storey tower. This included:\n\n*   455 market rental units and 114 moderate income rental units (569 units total);\n*   Commercial space on the ground floor, including a grocery store;\n*   A floor space ratio (FSR) of 3.84;\n*   A floor area of 49,004 sq. m (527,475 sq. ft.); and\n*   444 vehicle parking spaces and 1,107 bicycle spaces.\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)",
       "progressSections": [
         {
           "taskDescription": "Application received",
@@ -303450,7 +303734,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1790530262,
+      "lastUpdated": 1792840383,
       "relatedPermits": [],
       "latitude": 49.264103,
       "longitude": -123.210007,
@@ -307086,7 +307370,7 @@
         "2158-2170 W 1st Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "\nCategory: Market Rental Housing included\nStatus: Approved\nApproved June 24, 2025\n**This application was approved by Council on June 24, 2025, following the Public Hearing on June 19, 2025.**  \n  \n\n  \n\nThe City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building with a 4-storey podium and includes:\n\n*   185 units with 20% of the floor area for below-market units;\n*   Commercial space on the ground floor;\n*   A floor space ratio (FSR) of 6.8; and\n*   A building height of 64.7 m (212 ft.) with additional height for rooftop amenity space.\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\n\n**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n* * *\n\nAnnouncements\n\nSeptember 16, 2024\n\nThe Q&A period will be extended by an additional week. Please note that feedback and questions can still be submitted after the Q&A period ends. Following the Q&A period, questions and feedback can be emailed directly to the Rezoning Planner at [oskar.eriksson@vancouver.ca(External link)](mailto:oskar.eriksson@vancouver.ca)[(External link)](mailto:oskar.eriksson@vancouver.ca)_[(External link)](mailto:oskar.eriksson@vancouver.ca)_",
+      "purpose": "\nCategory: Market Rental Housing included\nStatus: Approved\nApproved June 24, 2025\n**This application was approved by Council on June 24, 2025.**  \n  \n\n  \n\nThe City of Vancouver has received an application to rezone the subject site from RM-4 (Residential) District to CD-1 (Comprehensive Development) District. The proposal is to allow for the development of a 20-storey mixed-use rental building with a 4-storey podium and includes:\n\n*   185 units with 20% of the floor area for below-market units;\n*   Commercial space on the ground floor;\n*   A floor space ratio (FSR) of 6.8; and\n*   A building height of 64.7 m (212 ft.) with additional height for rooftop amenity space.\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the _[Broadway Plan.(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf)_\n\n**Application drawings and statistics on this webpage are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n* * *\n\nAnnouncements\n\nSeptember 16, 2024\n\nThe Q&A period will be extended by an additional week. Please note that feedback and questions can still be submitted after the Q&A period ends. Following the Q&A period, questions and feedback can be emailed directly to the Rezoning Planner at [oskar.eriksson@vancouver.ca(External link)](mailto:oskar.eriksson@vancouver.ca)[(External link)](mailto:oskar.eriksson@vancouver.ca)_[(External link)](mailto:oskar.eriksson@vancouver.ca)_",
       "progressSections": [
         {
           "taskDescription": "Application received",
@@ -307130,7 +307414,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1790530262,
+      "lastUpdated": 1792840383,
       "relatedPermits": [],
       "latitude": 49.270526,
       "longitude": -123.154342,
@@ -322004,10 +322288,14 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1792753850,
+      "lastUpdated": 1792840383,
       "relatedPermits": [
         {
           "relatedPermitID": "RZ693_445",
+          "relatedPermitType": "Rezoning"
+        },
+        {
+          "relatedPermitID": "RZ694_445",
           "relatedPermitType": "Rezoning"
         }
       ],
@@ -322368,7 +322656,7 @@
         "650 W 41st Ave (Oakridge) Text Amendment"
       ],
       "status": "ACTIVE",
-      "purpose": "\nCategory: Market Rental Housing included\nStatus: Upcoming public consultation\nOpen house November 18, 2026 to December 1, 2026\nThe City of Vancouver has received an application to amend CD-1(1) (Comprehensive Development) District. The amendment includes:\n\n*   The removal of vehicle parking minimums;\n*   The removal of a shared e-bike fleet and the requirement for +300 Class A bikes;\n*   The revision of the residential green mobility incentives to be per dwelling unit instead of per user;\n*   The reduction of provisions for private and public car share; and\n*   The reduction of unbundled parking.\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThe application is being considered under the policy framework of the [_Issues Report on Intensification of Large Sites to include Moderate Income Rental Housing_(External link)](https://council.vancouver.ca/20190723/documents/p11.pdf) and the _[Cambie Corridor Plan(External link)](https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf)._\n\n__The previously approved application is linked here:_ [650 W 41st Ave (Oakridge Centre) rezoning application | Shape Your City Vancouver](https://www.shapeyourcity.ca/650-w-41-ave)_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**",
+      "purpose": "\nCategory: Market Rental Housing included\nStatus: Upcoming public consultation\nOpen house November 18, 2026 to December 1, 2026\nUpdate (October 23, 2026)  \nClarification of the applicants proposal:\n\n*   The removal of vehicle parking minimums to match the current Parking By-law;\n*   The removal of a shared e-bike fleet and the requirement for +300 Class A bikes;\n*   The revision of the residential green mobility incentives to be per dwelling unit instead of per user;\n*   The provision of private and public car share based on demand; and\n*   The provision of unbundled parking.\n\nIn addition, the project will provide off-site improvements, which includes a total of 88 Public Bike Share bikes in 3 different locations.\n\n* * *\n\nCurrent application (August 20, 2026)\n\nThe City of Vancouver has received an application to amend CD-1(1) (Comprehensive Development) District. The amendment includes:\n\n*   The removal of vehicle parking minimums;\n*   The removal of a shared e-bike fleet and the requirement for +300 Class A bikes;\n*   The revision of the residential green mobility incentives to be per dwelling unit instead of per user;\n*   The reduction of provisions for private and public car share; and\n*   The reduction of unbundled parking.\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThe application is being considered under the policy framework of the [_Issues Report on Intensification of Large Sites to include Moderate Income Rental Housing_(External link)](https://council.vancouver.ca/20190723/documents/p11.pdf) and the _[Cambie Corridor Plan(External link)](https://vancouver.ca/images/web/cambie-corridor/cambie-corridor-plan.pdf)._\n\n__The previously approved application is linked here:_ [650 W 41st Ave (Oakridge Centre) rezoning application | Shape Your City Vancouver](https://www.shapeyourcity.ca/650-w-41-ave)_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**",
       "progressSections": [
         {
           "taskDescription": "Application received",
@@ -322431,7 +322719,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1796112000,
+      "lastUpdated": 1792840383,
       "relatedPermits": [],
       "latitude": 49.232936,
       "longitude": -123.116895
@@ -322642,10 +322930,100 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
+      "lastUpdated": 1792840383,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ683_445",
+          "relatedPermitType": "Rezoning"
+        },
+        {
+          "relatedPermitID": "RZ694_445",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
+      "latitude": 49.288019,
+      "longitude": -123.122549,
+      "major": true
+    },
+    {
+      "primaryStreetName": "1166 W Pender St",
+      "applicant": "Hines",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ694_445",
+      "applicationDate": 1782201600,
+      "addresses": [
+        "1166 W Pender St"
+      ],
+      "status": "ACTIVE",
+      "purpose": "\nCategory: Market Rental Housing included\nStatus: Upcoming public consultation\nOpen house November 18, 2026 to December 1, 2026\nThe City of Vancouver has received an application to rezone the subject site from CD-1 (Comprehensive Development) District (833) to a new CD-1 (Comprehensive Development) District to allow for the development of a 49-storey mixed-use building. This proposal includes:\n\n*   340 strata residential units;\n*   199 hotel units;\n*   Commercial space on the ground floor;\n*   A floor space ratio (FSR) of 24.3; and\n*   A building height of 162 m (530 ft.).\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the [_Vancouver Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-vancouver.pdf) and [_Downtown Official Development Plan_(External link)](https://bylaws.vancouver.ca/odp/odp-downtown.pdf)_[_._(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**",
+      "progressSections": [
+        {
+          "taskDescription": "Application received",
+          "taskType": "Application received",
+          "startDate": 1782201600,
+          "endDate": 1782201600
+        },
+        {
+          "taskDescription": "",
+          "taskType": "Open House",
+          "startDate": 1794988800,
+          "endDate": 1796112000
+        },
+        {
+          "taskDescription": "Q&A period",
+          "taskType": "Q&A period",
+          "startDate": 1794988800,
+          "endDate": 1796112000
+        }
+      ],
+      "storeys": 49,
+      "documents": [
+        {
+          "docName": "View the application",
+          "docURL": "https://www.shapeyourcity.ca/1166-w-pender"
+        },
+        {
+          "docName": "Application booklet",
+          "docURL": "https://www.shapeyourcity.ca/52702/widgets/222933/documents/171633"
+        },
+        {
+          "docName": "Renderings",
+          "docURL": "https://www.shapeyourcity.ca/52702/widgets/222933/documents/171631"
+        },
+        {
+          "docName": "Statistics",
+          "docURL": "https://www.shapeyourcity.ca/52702/widgets/222933/documents/171632"
+        },
+        {
+          "docName": "CD-1 (Comprehensive Development) District (833)",
+          "docURL": "https://bylaws.vancouver.ca/consolidated/13485.pdf"
+        },
+        {
+          "docName": "Downtown Rezoning Policy",
+          "docURL": "https://guidelines.vancouver.ca/policy-rezoning-downtown.pdf"
+        },
+        {
+          "docName": "Downtown Official Development Plan",
+          "docURL": "https://bylaws.vancouver.ca/odp/odp-downtown.pdf"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://s3.ca-central-1.amazonaws.com/ehq-production-canada/eb14721cdd035aefae98e6afcf5dfc7c8e49debd/original/1784226637/7210146888619ec771857f41ec289ef2_Render.png?1784226637"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver-Rezoning",
       "lastUpdated": 1796112000,
       "relatedPermits": [
         {
           "relatedPermitID": "RZ683_445",
+          "relatedPermitType": "Rezoning"
+        },
+        {
+          "relatedPermitID": "RZ693_445",
           "relatedPermitType": "Rezoning"
         }
       ],
@@ -367082,6 +367460,66 @@
       ]
     },
     {
+      "primaryStreetName": "202 HARBOUR RD",
+      "applicant": "NIALL PALTIEL",
+      "cityApplicationType": "Development Permit with Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPV00314",
+      "applicationDate": 1792738800,
+      "addresses": [
+        "202 HARBOUR RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is considering a Development Permit with Variance application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices. Concurrent with REZ00908.",
+      "progressSections": [
+        {
+          "taskDescription": "Application is received by the City",
+          "taskType": "Application Received",
+          "startDate": 1792738800,
+          "endDate": 1792738800
+        },
+        {
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
+          "taskType": "Committee of the Whole Meeting (COTW)",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider approving the application.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
+          "taskType": "Council Meeting",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Victoria",
+      "lastUpdated": 1792738800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00908",
+          "relatedPermitType": "Rezoning Application",
+          "relatedPermitApplicationDate": 1759910400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Rezoning application to facilitate the creation of a four-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with DPV00314."
+        },
+        {
+          "relatedPermitID": "DP000658",
+          "relatedPermitType": "DEVELOPMENT PERMITS",
+          "relatedPermitApplicationDate": 1759910400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPLICATION RETIRED: X-REFERENCE DPV00314\nThe City is considering a Development Permit application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with REZ00908."
+        },
+        {
+          "relatedPermitID": "CLC00480",
+          "relatedPermitType": "Pre-Application (CALUC)",
+          "relatedPermitApplicationDate": 1753776000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\n\n\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca"
+        }
+      ],
+      "storeys": 2
+    },
+    {
       "primaryStreetName": "516 DISCOVERY ST",
       "applicant": "N/A",
       "cityApplicationType": "Rezoning Application",
@@ -408028,15 +408466,15 @@
           "endDate": 1778137200
         },
         {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": 1747897200,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1778223600,
+          "endDate": 1779260400
+        },
+        {
+          "taskDescription": "Application is circulated to City departments for review and comment",
+          "taskType": "Application Review by City",
+          "startDate": 1747897200,
           "endDate": null
         },
         {
@@ -408095,7 +408533,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1786704742,
+      "lastUpdated": 1792839202,
       "relatedPermits": [],
       "major": true
     },
@@ -409677,7 +410115,7 @@
         "202 HARBOUR RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to facilitate the creation of a four-storey vehicle sales centre with a service centre, cafe and offices. Concurrent with DP000658.",
+      "purpose": "The City is considering a Rezoning application to facilitate the creation of a four-storey vehicle sales centre with a service centre, cafe and offices.\nConcurrent with DPV00314.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -409853,14 +410291,21 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1792061493,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DPV00314",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1792742400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Development Permit with Variance application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with REZ00908."
+        },
         {
           "relatedPermitID": "DP000658",
           "relatedPermitType": "DEVELOPMENT PERMITS",
           "relatedPermitApplicationDate": 1759910400,
-          "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Development Permit application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with REZ00908."
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPLICATION RETIRED: X-REFERENCE DPV00314\nThe City is considering a Development Permit application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with REZ00908."
         },
         {
           "relatedPermitID": "CLC00480",
@@ -409920,6 +410365,12 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1789974000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1792652400,
           "endDate": null
         },
         {
@@ -409986,7 +410437,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1790247140,
+      "lastUpdated": 1792839202,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00312",
