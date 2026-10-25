@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1792839200,
+  "dateRetrieved": 1792927110,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -127024,7 +127024,7 @@
     },
     {
       "primaryStreetName": "3839 QUADRA ST",
-      "applicant": "ABSTRACT DEVELOPMENTS",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01122",
@@ -127032,7 +127032,7 @@
       "addresses": [
         "3839 QUADRA ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO AMEND DPR00753 RELATED TO SITE LAYOUT AND BUILDING CONSTRUCTION.",
       "progressSections": [
         {
@@ -127051,7 +127051,13 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1788159600,
-          "endDate": null
+          "endDate": 1788937200
+        },
+        {
+          "taskDescription": "Application has been approved by the District",
+          "taskType": "MINOR AMENDMENT APPROVED",
+          "startDate": 1788937200,
+          "endDate": 1788937200
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
@@ -127138,7 +127144,7 @@
     },
     {
       "primaryStreetName": "3551 RAVINE WAY",
-      "applicant": "MALLEN GOWING BERZINS ARCHITEC",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01123",
@@ -127146,7 +127152,7 @@
       "addresses": [
         "3551 RAVINE WAY"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO AMEND DPR89-00657 IN REGARD TO PARKING LAYOUT.",
       "progressSections": [
         {
@@ -127165,25 +127171,13 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1788246000,
-          "endDate": null
+          "endDate": 1788937200
         },
         {
-          "taskDescription": "File Manager review of application for completeness",
-          "taskType": "FILE MANAGER INTAKE",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
-          "endDate": null
+          "taskDescription": "Application has been approved by the District",
+          "taskType": "MINOR AMENDMENT APPROVED",
+          "startDate": 1788937200,
+          "endDate": 1788937200
         }
       ],
       "documents": [],
@@ -127194,7 +127188,7 @@
           "relatedPermitID": "CBP00068",
           "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
           "relatedPermitApplicationDate": 1765958400,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "TENANT IMPROVEMENT FOR ASPIRE DAYCARE"
         }
       ]
@@ -319652,7 +319646,7 @@
         "111 E 5th Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "\nCategory: Market Rental Housing included\nStatus: Application in Review\nReferred back to staff\nCurrent Application (September 4, 2026)\n\nThe City of Vancouver has received an application to rezone the subject site from I-1A (industrial) District to CD-1 (Comprehensive Development) District to allow for Bulk Data Storage use within an existing commercial building. No changing to mass is proposed. This application includes:\n\n*   Converting existing below grade parking to Bulk Data Storage related uses (mechanical, electrical, garbage/recycling);\n*   Adding a restaurant space at ground level; and\n*   Removing all parking requirements for the development.[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the [Broadway plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf#)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n* * *\n\nUPDATE (July 21, 2026)\n\nThis item has been pulled from the public hearing agenda for July 23rd and will not be going forward at this time. Staff have been directed by Council to undertake further public consultation and the site sign and Shape Your City webpage will be updated with further information about that engagement.\n\nPlease note: staff will not be beginning engagement until after the election",
+      "purpose": "\nCategory: Market Rental Housing included\nStatus: Application in Review\nReferred back to staff\nAnnouncement (October 23, 2026)\n\nIn response to council direction imploring City staff for further consultation there will be an additional Q&A period held from December 2, 2026 to December 15, 2026.\n\n* * *\n\nUPDATE (July 21, 2026)\n\nThis item has been pulled from the public hearing agenda for July 23rd and will not be going forward at this time. Staff have been directed by Council to undertake further public consultation and the site sign and Shape Your City webpage will be updated with further information about that engagement.\n\nPlease note: staff will not be beginning engagement until after the election\n\n* * *\n\nCurrent Application (September 4, 2026)\n\nThe City of Vancouver has received an application to rezone the subject site from I-1A (industrial) District to CD-1 (Comprehensive Development) District to allow for Bulk Data Storage use within an existing commercial building. No changing to mass is proposed. This application includes:\n\n*   Converting existing below grade parking to Bulk Data Storage related uses (mechanical, electrical, garbage/recycling);\n*   Adding a restaurant space at ground level; and\n*   Removing all parking requirements for the development.[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the [Broadway plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf#)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**",
       "progressSections": [
         {
           "taskDescription": "Application received",
@@ -319683,6 +319677,12 @@
           "taskType": "Public Hearing",
           "startDate": 1784793600,
           "endDate": 1784793600
+        },
+        {
+          "taskDescription": "Q&A Period",
+          "taskType": "Q&A Period",
+          "startDate": 1796198400,
+          "endDate": 1797321600
         }
       ],
       "documents": [
@@ -319715,7 +319715,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1792753850,
+      "lastUpdated": 1792926717,
       "relatedPermits": [],
       "latitude": 49.266718,
       "longitude": -123.102153
@@ -348976,7 +348976,7 @@
     },
     {
       "primaryStreetName": "202 HARBOUR RD",
-      "applicant": "NIALL PALTIEL",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMITS",
       "applicationType": "Development Permit",
       "folderNumber": "DP000658",
@@ -348984,8 +348984,8 @@
       "addresses": [
         "202 HARBOUR RD"
       ],
-      "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices. Concurrent with REZ00908.",
+      "status": "ARCHIVED",
+      "purpose": "APPLICATION RETIRED: X-REFERENCE DPV00314\nThe City is considering a Development Permit application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices.\nConcurrent with REZ00908.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -348999,11 +348999,18 @@
       "lastUpdated": 1786013565,
       "relatedPermits": [
         {
+          "relatedPermitID": "DPV00314",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1792742400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Development Permit with Variance application to facilitate the creation of a two-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with REZ00908."
+        },
+        {
           "relatedPermitID": "REZ00908",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1759910400,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Rezoning application to facilitate the creation of a four-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with DP000658."
+          "relatedPermitDescription": "The City is considering a Rezoning application to facilitate the creation of a four-storey vehicle sales centre with a service centre, cafe and offices.\n\nConcurrent with DPV00314."
         },
         {
           "relatedPermitID": "CLC00480",
@@ -349013,6 +349020,7 @@
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\n\n\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca"
         }
       ],
+      "approvalStatus": "Superseded",
       "storeys": 2
     },
     {
