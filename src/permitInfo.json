@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1793098364,
+  "dateRetrieved": 1793184765,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -8517,7 +8517,7 @@
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000062",
-      "applicationDate": 1786518000,
+      "applicationDate": 1792998000,
       "addresses": [
         "595 BEZANTON WAY"
       ],
@@ -8528,12 +8528,12 @@
           "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
           "taskType": "APPLICATION INTAKE",
           "startDate": 1787122800,
-          "endDate": null
+          "endDate": 1793084400
         },
         {
           "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
           "taskType": "APPLICATION REVIEW",
-          "startDate": null,
+          "startDate": 1793084400,
           "endDate": null
         },
         {
@@ -8545,7 +8545,7 @@
       ],
       "documents": [],
       "city": "Colwood",
-      "lastUpdated": 1787828009,
+      "lastUpdated": 1793184767,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -8584,6 +8584,43 @@
       "documents": [],
       "city": "Colwood",
       "lastUpdated": 1787914435,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3460 VETERANS MEMORIAL PKY",
+      "applicant": "AUTHORIZED AGENT/OWNER",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000065",
+      "applicationDate": 1792998000,
+      "addresses": [
+        "3460 VETERANS MEMORIAL PKY"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This Environmental, Natural Hazard, and Form & Character DP application proposes a 62-unit townhouse development in hillside, steeply sloped, and riparian development permit areas.",
+      "progressSections": [
+        {
+          "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
+          "taskType": "APPLICATION INTAKE",
+          "startDate": 1789542000,
+          "endDate": 1793084400
+        },
+        {
+          "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
+          "taskType": "APPLICATION REVIEW",
+          "startDate": 1793084400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
+          "taskType": "PERMIT ISSUED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Colwood",
+      "lastUpdated": 1793084400,
       "relatedPermits": []
     },
     {
@@ -17628,14 +17665,21 @@
       "addresses": [
         "11665 CORY DR"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a duplex dwelling with secondary suites",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1793059200,
+          "endDate": 1793059200
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1793185023,
       "relatedPermits": [],
       "latitude": 49.130863,
       "longitude": -122.899613
@@ -110365,30 +110409,9 @@
           "endDate": null
         }
       ],
-      "documents": [
-        {
-          "docName": "DP000074 - 3100 Woodburn - East Plans.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=102E8F23-E867-44F7-ADC1-7E54C13FAF1C&folderId=75820C260728095259835829"
-        },
-        {
-          "docName": "DP000074 - 3100 Woodburn - Survey's Site Plan.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=B0E40514-E3C9-4633-83D6-372D5618C044&folderId=75820C260728095259835829"
-        },
-        {
-          "docName": "DP000074 - 3100 Woodburn - Tree Protection and Landscaping Plan - Reduced in size.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=FD292C9A-5B63-47A8-8FB8-5D92178025BB&folderId=75820C260728095259835829"
-        },
-        {
-          "docName": "DP000074 - 3100 Woodburn - West Plans.pdf",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=F831B0FD-1089-4EF0-9F92-E18B3802DEC2&folderId=75820C260728095259835829"
-        },
-        {
-          "docName": "DP000074 - 3100 Woodburn Development Proposal.docx",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=6AA8648D-916E-49C7-BF86-30A0E65C5B8E&folderId=75820C260728095259835829"
-        }
-      ],
+      "documents": [],
       "city": "Oak Bay",
-      "lastUpdated": 1792752716,
+      "lastUpdated": 1793184767,
       "relatedPermits": []
     },
     {
@@ -123024,7 +123047,7 @@
       "addresses": [
         "6111 Twintree Pl"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: One Family Dwelling\nWork Proposed: Alteration\nConstruction Value: $2,000.00 1 $2,000.00",
       "progressSections": [
         {
@@ -127672,13 +127695,13 @@
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": null,
+          "startDate": 1792738800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1792839202,
+      "lastUpdated": 1793184767,
       "relatedPermits": []
     },
     {
@@ -138740,7 +138763,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1795417200,
           "endDate": null
         }
       ],
@@ -138767,7 +138790,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1787223158,
+      "lastUpdated": 1793184767,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00794",
@@ -143488,17 +143511,11 @@
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1792393200,
           "endDate": 1792738800
-        },
-        {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1792839202,
+      "lastUpdated": 1793184767,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00823",
@@ -145545,7 +145562,7 @@
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": null,
+          "startDate": 1793084400,
           "endDate": null
         }
       ],
@@ -145560,7 +145577,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1792666280,
+      "lastUpdated": 1793184767,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00892",
@@ -170522,7 +170539,7 @@
         "320 N NANAIMO STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 4-storey multiple dwelling building (stacked townhouses) with 21 dwelling units over one level of underground parking with bike rooms, a storage room, service rooms, and garbage/recycling room, having a vehicular access from the lane. \n\nThis is a CP Process Permit and the applicant is Michael Meszaros, P. Eng., CP.\nBuilding to be sprinklered to NFPA 13R. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON JUL 01, 2024***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 21/25, A. Min)\n\nStage 1 - REVISION #1 (Sep 23/25, A. Min): Updated Excavation & Shoring Drawings to resolve Building Branch Review & Engineering items at Stage 1 including AL-2025-00043 and to release Stage 1 drawings. \n\nStage 1 - REVISION #2 (Nov 07/25, A. Min): Updated Excavation & Shoring Drawings. \n\nStage 1 - REVISION #3 (Aug 31/26, A. Min): Updated Excavation & Shoring Drawings with eliminated offset between the shotcrete shoring and the proposed blind-foamed foundation wall.\n\nStage 2 - Foundation to Grade (Mar 31/26, A. Min) \n\nStage 3 - Full Construction (IN PROCESS)\nProject Value: $4,750,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: SILVER STAR ENTERPRISES LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a new 4-storey multiple dwelling building (stacked townhouses) with 21 dwelling units over one level of underground parking with bike rooms, a storage room, service rooms, and garbage/recycling room, having a vehicular access from the lane. \n\nThis is a CP Process Permit and the applicant is Michael Meszaros, P. Eng., CP.\nBuilding to be sprinklered to NFPA 13R. \n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON JUL 01, 2024***\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 21/25, A. Min)\n\nStage 1 - REVISION #1 (Sep 23/25, A. Min): Updated Excavation & Shoring Drawings to resolve Building Branch Review & Engineering items at Stage 1 including AL-2025-00043 and to release Stage 1 drawings. \n\nStage 1 - REVISION #2 (Nov 07/25, A. Min): Updated Excavation & Shoring Drawings. \n\nStage 1 - REVISION #3 (Aug 31/26, A. Min): Updated Excavation & Shoring Drawings with eliminated offset between the shotcrete shoring and the proposed blind-foamed foundation wall.\n\nStage 2 - Foundation to Grade (Mar 31/26, A. Min) \n\nStage 3 - Full Construction (Oct 26/26, A. Min)\nProject Value: $4,750,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Hastings-Sunrise\nContractor: SILVER STAR ENTERPRISES LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -170541,7 +170558,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793185043,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-01680",
@@ -185430,7 +185447,7 @@
         "2356 W 20TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - Building Permit to construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" with 2 car carport and 2 open parking spaces having access from the lane. To be sprinklered to NFPA 13D. 2019 VBBL\r\n\r\nDP-2024-00422\nProject Value: $1,200,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Dwelling Unit\nNeighbourhood: Arbutus Ridge",
+      "purpose": "High Density Housing / Commercial - New Building - Building Permit to construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" with 2 car carport and 2 open parking spaces having access from the lane. To be sprinklered to NFPA 13D. 2019 VBBL\n\nDP-2024-00422\n\nRevision #1: \n1. All units upper floor hallway bathroom sink and toilet relocated to side wall.\n2. All units upper floor master bathroom toilet relocated to exterior wall side, shower and sink sizes adjusted.\nProject Value: $1,200,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Dwelling Unit\nNeighbourhood: Arbutus Ridge",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -185449,7 +185466,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793185043,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2025-02320",
@@ -217156,7 +217173,7 @@
         "180 E 35TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey multiple dwelling building containing 37 rental dwelling units with an amenity space located on the sixth storey over one level of underground parking containing bike rooms, storage rooms, service rooms, and a garbage room, having a vehicular access from the west lane. Bike rooms are also located on the first storey. \n\nThis is a CP Process Permit and the applicant is Susana Chui, P. Eng., CP.\n\nBuilding to be sprinklered NFPA 13. \n\n******REVIEWED UNDER VBBL 2025 ******\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 18/26, A. Min)\nProject Value: $13,250,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Riley Park\nContractor: REZCOM CONSTRUCTION LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a new 6-storey multiple dwelling building containing 37 rental dwelling units with an amenity space located on the sixth storey over one level of underground parking containing bike rooms, storage rooms, service rooms, and a garbage room, having a vehicular access from the west lane. Bike rooms are also located on the first storey. \n\nThis is a CP Process Permit and the applicant is Susana Chui, P. Eng., CP.\n\nBuilding to be sprinklered NFPA 13. \n\n******REVIEWED UNDER VBBL 2025 ******\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Shoring. (Mar 18/26, A. Min)\nStage 2: Full Construction (IN PROCESS)\nProject Value: $13,250,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Riley Park\nContractor: REZCOM CONSTRUCTION LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -217175,7 +217192,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793185043,
       "relatedPermits": [],
       "projectValue": 13250000,
       "latitude": 49.23904,
@@ -331390,10 +331407,14 @@
         {
           "docName": "2026-10-02 - Summary Letter.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=04693C261002155844445065&folderId=04693C261002155648865589"
+        },
+        {
+          "docName": "2026-10-27 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FA7170ED-EBCA-4FED-AF96-EE4CA4413185&folderId=04693C261002155648865589"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1791442800,
+      "lastUpdated": 1793184767,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00482",
@@ -340109,20 +340130,14 @@
           "endDate": 1792479600
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": 1792479600,
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1792998000,
           "endDate": null
         },
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
-          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -340156,7 +340171,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1792752716,
+      "lastUpdated": 1793184767,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -413703,8 +413718,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportoct11-17202679907.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportoct11-17202679908.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportoct18-24202679958.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportoct18-24202679959.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
