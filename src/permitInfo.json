@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1793443947,
+  "dateRetrieved": 1793532004,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -104224,10 +104224,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793271400,
+      "lastUpdated": 1793530712,
       "relatedPermits": [],
-      "latitude": 48.44486589926275,
-      "longitude": -123.54521529725486
+      "latitude": 48.44478319796964,
+      "longitude": -123.54512750393373
     },
     {
       "primaryStreetName": "1211 Goldstream Ave",
@@ -136409,7 +136409,7 @@
     },
     {
       "primaryStreetName": "1899 COCHRANE ST",
-      "applicant": "AGENT",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01069",
@@ -136417,7 +136417,7 @@
       "addresses": [
         "1899 COCHRANE ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO REZONE FROM RS-6 SINGLE FAMILY ZONE TO RM-7 (NEIGHBOURHOOD RESIDENTIAL MIXED) ZONE TO CONSTRUCT AN 8 UNIT TOWNHOUSE PROJECT. VARIANCES REQUIRED.",
       "progressSections": [
         {
@@ -136511,16 +136511,22 @@
           "endDate": 1779692400
         },
         {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1779778800,
-          "endDate": null
-        },
-        {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
           "startDate": 1789974000,
-          "endDate": null
+          "endDate": 1789974000
+        },
+        {
+          "taskDescription": "Application approved by Council - work must commence within 2 years from date of approval",
+          "taskType": "APPLICATION APPROVED BY COUNCIL",
+          "startDate": 1791270000,
+          "endDate": 1791270000
+        },
+        {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1779778800,
+          "endDate": 1791874800
         }
       ],
       "documents": [
@@ -136545,13 +136551,28 @@
       "lastUpdated": 1789123990,
       "relatedPermits": [
         {
+          "relatedPermitID": "TRP23645",
+          "relatedPermitType": "TREE PERMIT",
+          "relatedPermitApplicationDate": 1792742400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Tree Permit in support of RBP01104 for tree protection barrier and working in the root zone of trees."
+        },
+        {
+          "relatedPermitID": "RBP01104",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1791964800,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLITION OF SINGLE FAMILY DWELLING"
+        },
+        {
           "relatedPermitID": "REZ00770",
           "relatedPermitType": "REZONING",
           "relatedPermitApplicationDate": 1719216000,
-          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "TO REZONE FROM RS-6 SINGLE FAMILY ZONE TO RM-7 (NEIGHBOURHOOD RESIDENTIAL MIXED) ZONE TO CONSTRUCT AN 8 UNIT TOWNHOUSE PROJECT. VARIANCES REQUIRED."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "4085 QUADRA ST",
@@ -146424,7 +146445,7 @@
     },
     {
       "primaryStreetName": "5040 SANTA CLARA AVE",
-      "applicant": "HOMEOWNER",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DVP00572",
@@ -146432,7 +146453,7 @@
       "addresses": [
         "5040 SANTA CLARA AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "VARIANCE FOR HEIGHT",
       "progressSections": [
         {
@@ -146482,6 +146503,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1788850800,
           "endDate": 1788850800
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVED",
+          "startDate": 1791529200,
+          "endDate": 1791529200
         }
       ],
       "documents": [],
@@ -168348,7 +168375,7 @@
         "720 E 56TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 3 storey multiple dwelling townhouse building (Group C) containing 8 secured market rental dwelling units on the west side of this site. \n\nRefer to BP-2024-03103 for Building 2 on the east side of the site containing 4 secured market rental dwelling units. \n\nThis is a CP Process Permit and the applicant is Kai Mikkelsen, P. Eng., CP.\n\nBuilding to be sprinklered to NFPA 13R\n*REVIEWED UNDER VBBL 2019\n\nSTAGED CONSTRUCTION\nStage 1: Full Construction- 2025-03-18- S.Le\n\nRevision #1- 2026-10-XX- S.Le\nChange of Architect from Simon Richards, AIBC to Gwillim Symons, AIBC of Cornerstone Architecture effective September 7th, 2025.\nProject Value: $5,141,860.67\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Sunset",
+      "purpose": "Certified Professional Program - New Building - To construct a 3 storey multiple dwelling townhouse building (Group C) containing 8 secured market rental dwelling units on the west side of this site. \n\nRefer to BP-2024-03103 for Building 2 on the east side of the site containing 4 secured market rental dwelling units. \n\nThis is a CP Process Permit and the applicant is Kai Mikkelsen, P. Eng., CP.\n\nBuilding to be sprinklered to NFPA 13R\n*REVIEWED UNDER VBBL 2019\n\nSTAGED CONSTRUCTION\nStage 1: Full Construction- 2025-03-18- S.Le\n\nRevision #1- 2026-10-30- S.Le\nChange of Architect from Simon Richards, AIBC to Gwillim Symons, AIBC of Cornerstone Architecture effective September 7th, 2025.\nProject Value: $5,141,860.67\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Sunset",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -168373,7 +168400,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1793098640,
+      "lastUpdated": 1793530732,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-03103",
@@ -196933,7 +196960,7 @@
         "2308 W 3RD AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use development with 2 levels of underground parking, a retail store, 9 townhomes located at the ground Level and Level 2, and 368 residential market rental units and one guest suite at Level 2.\nThe building is provided with two roof top courtyards at Level 3, outdoor and indoor amenities at Level 7, Level 8 and Level 10. \n\nThis building is designed to VBBL 2019. \nRadio Antenna System to be installed in this building. \n\nStage 1 (E & S) - issued Dec 24, 2025\nStage 2 (Foundation to Grade) - issued July 21, 2026\nStage 3 (Full Permit)  - issued Oct 29, 2026\naddition of new restaurant on the southeast corner  \n\nNOTES: \n- Two 2-hr vertical shafts with grease duct are proposed for Safeway and CRU-6 (Unit 1006) from ceiling to the roof. Rated access panels into public corridor or common area shall be provided on every storey.\n- Potential location of one 2-hr horizontal shaft (wrapped with 3M FireWrap 615+) from CRU-1 (Unit 1001) discharging horizontally to the lane has been reviewed. Installation of horizontal duct/shaft accompanied with ecology unit as required per article 6.3.1.7. will be part of future TI. Horizontal duct slope shall comply with NFPA-96 as noted on drawings.\nProject Value: $190,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Grocery or Drug Store, Apartment, Parking Garage\nNeighbourhood: Kitsilano\nContractor: Ledcor Construction Limited",
+      "purpose": "Certified Professional Program - New Building - To construct a 10-storey mixed-use building containing  Retail stores (shell) and Restaurant (shell) at grade, 368 residential suites and one guest suite, all over 2 levels of underground parking.   \nThe building is provided with two roof top courtyards at Level 3, outdoor and indoor amenities at Level 7, Level 8 and Level 10.\n\nThis building is designed to VBBL 2019. \nRadio Antenna System to be installed in this building. \n\nStage 1 (E & S) - issued Dec 24, 2025\nStage 2 (Foundation to Grade) - issued July 21, 2026\nStage 3 (Full Permit)  - issued Oct 30, 2026\naddition of new restaurant on the southeast corner  \n\nNOTES: \n- Two 2-hr vertical shafts with grease duct are proposed for Safeway and CRU-6 (Unit 1006) from ceiling to the roof. Rated access panels into public corridor or common area shall be provided on every storey.\n- Potential location of one 2-hr horizontal shaft (wrapped with 3M FireWrap 615+) from CRU-1 (Unit 1001) discharging horizontally to the lane has been reviewed. Installation of horizontal duct/shaft accompanied with ecology unit as required per article 6.3.1.7. will be part of future TI. Horizontal duct slope shall comply with NFPA-96 as noted on drawings.\nProject Value: $190,000,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses\nSpecific Use: Grocery or Drug Store, Apartment, Parking Garage\nNeighbourhood: Kitsilano\nContractor: Ledcor Construction Limited",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -196962,15 +196989,15 @@
         {
           "taskDescription": "Stage 3: (Full Permit)",
           "taskType": "",
-          "startDate": 1793260800,
-          "endDate": 1793260800
+          "startDate": 1793347200,
+          "endDate": 1793347200
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1793444237,
+      "lastUpdated": 1793530732,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-03222",
@@ -197280,8 +197307,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
-      "relatedPermits": [],
+      "lastUpdated": 1793530732,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2025-02115",
+          "relatedPermitType": "Demolition"
+        }
+      ],
       "projectValue": 68891045,
       "latitude": 49.265262,
       "longitude": -123.149152,
@@ -205011,7 +205043,7 @@
         "1248 E 22ND AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To develop a 2-storey Multiple Dwelling (Townhouse) building containing 4 dwelling units with 5 parking spaces having vehicular access from the lane.\n\nTo be sprinklered to NFPA 13R - reviewed under the 2019 VBBL\n\nRevision 1 - interior layout changes to units 1, 2, and 4. Adding two gables over the entries on the front elevation\nProject Value: $1,950,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage",
+      "purpose": "High Density Housing / Commercial - New Building - To develop a 2-storey Multiple Dwelling (Townhouse) building containing 4 dwelling units with 5 parking spaces having vehicular access from the lane.\n\nTo be sprinklered to NFPA 13R - reviewed under the 2019 VBBL\n\nRevision 1 - interior layout changes to units 1, 2, and 4. Adding two gables over the entries on the front elevation\n\nRevision #2 (pending approval ...)\n1. Unit# 3 (Main Floor):  Closet added, kitchen moved to the opposite side, and WC sink moved to the opposite side.\n3. Rooftop cabinet/sink has been put back in the drawing as per inspector request.\n4. Exterior Hardie sidings reorganized and redesigned.\n5. Parking spots paving bricks\n6. Reduce dimensions of overhangs to increase set back to west/east side property lines.\n7. Replace bathtub a shower base.\n9. ISO Board insulation added.\nProject Value: $1,950,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -205030,7 +205062,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793530732,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-03999",
@@ -210743,6 +210775,50 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "3263 MATAPAN CRESCENT",
+      "applicant": "TIMOTHY TSE DBA: Cadlab Design Inc.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-03677",
+      "applicationDate": 1755504000,
+      "addresses": [
+        "3263 MATAPAN CRESCENT"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - *Part 5*  To construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" and detached carport with 4 parking spaces having access from the lane.\n\nNotes:\n1. Building to be sprinklered to Modified NFPA 13R per bulletin 2025-003-BU\n2. Schedules submitted: A / B (Struct), B (Guards), B/D (Env), B (Geo)\n\nPermit issued pursuant to VBBL 2019\nProject Value: $1,700,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Renfrew-Collingwood\nContractor: JRXL Developments Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1755504000,
+          "endDate": 1755504000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1755504000,
+          "endDate": 1755504000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1755504000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2025-04131",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 1700000,
+      "latitude": 49.256242,
+      "longitude": -123.030795,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "3034 E 5TH AVENUE",
       "applicant": "Tejeshwar Singh",
       "cityApplicationType": "New Building",
@@ -212631,7 +212707,7 @@
         "4095 W 18TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two-storey one-unit net zero rear building with an attached carport providing one parking space having vehicular access from the lane. \n\n1. Mechanical unit proposed – Exterior component located in courtyard\n2. HRV unit proposed – Located in second-floor mechanical room\n3. Schedule B: (H.S.Saini) P.Eng (604-614-9959) Architectural\n4. Schedule B: (A.Taranenko) P.Eng (778-246-1683) Structural & Geotechnical\n5. HPO: Residential Builder – Lanefab Design Build Ltd.\n\nNote: This is a 2-storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\nBuilding 2 (rear) (north) \n4095 W 18th Av - One Dwelling Unit (1st-2nd floors)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted and to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $1,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Dunbar-Southlands\nContractor: Lanefab Design Build Ltd",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two-storey one-unit passive house rear building with an attached carport providing one parking space having vehicular access from the lane. \n\n1. Mechanical unit proposed – Exterior component located in courtyard\n2. HRV unit proposed – Located in second-floor mechanical room\n3. Schedule B: (H.S.Saini) P.Eng (604-614-9959) Architectural\n4. Schedule B: (A.Taranenko) P.Eng (778-246-1683) Structural & Geotechnical\n5. HPO: Residential Builder – Lanefab Design Build Ltd.\n\nNote: This is a 2-storey building pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nAddress Information:\nBuilding 2 (rear) (north) \n4095 W 18th Av - One Dwelling Unit (1st-2nd floors)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted and to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $1,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Dunbar-Southlands\nContractor: Lanefab Design Build Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -212650,7 +212726,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793530732,
       "relatedPermits": [],
       "projectValue": 1000000,
       "latitude": 49.256552,
@@ -219323,6 +219399,51 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "387 W PENDER STREET",
+      "applicant": "Tavis McAuley DBA: McAuley Consulting",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00067",
+      "applicationDate": 1767772800,
+      "addresses": [
+        "387 W PENDER STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Certified Professional Program - New Building - To construct a 9-storey (8 storey Z&D) building containing 94 Residential Rental (Seniors Supportive Dwelling) and amenity space serving occupant of the building. Scope of work also includes façade retention, rehabilitation and restoration of the Hartney Chambers Vancouver Heritage Building (demo and retention applied under DB-2026-00299)\n\n- 1st storey includes loading/vehicle parking, storage, service room, generator & electrical room, heat treatment room\n- 2nd storey includes main entrance, common dining, amenity and kitchen, UTR and residential suites,\n- 3-9 storey includes residential units, shower room, service room. 9th storey also includes amenity room. \n\nSHORT Project\n\nThis is a CP Process Permit, and the applicant is Tavis McAuley, AIBC.CP\n\nNOTES\n1. This permit has been reviewed under the 2025 Vancouver Building By-law (#14343).\n2. Radio Antenna system is required. \n3. Entire building to be sprinklered per NFPA-13-2019\n4. Resident will live independently in self-contained units, and no clinical care will be provided. \n\nSTAGED CONSTRUCTION\nStage 1 - Excavation/Shoring - Issued Oct 30, 2026\nProject Value: $27,565,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Downtown\nContractor: ITC Projects Inc",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1767772800,
+          "endDate": 1767772800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1767772800,
+          "endDate": 1767772800
+        },
+        {
+          "taskDescription": "Stage 1: Excavation/Shoring",
+          "taskType": "",
+          "startDate": 1793347200,
+          "endDate": 1793347200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1767772800,
+      "relatedPermits": [],
+      "projectValue": 27565000,
+      "latitude": 49.282737,
+      "longitude": -123.111816,
+      "major": true,
+      "approvalStatus": "Approved",
+      "storeys": 9
+    },
+    {
       "primaryStreetName": "3026 W 12TH AVENUE",
       "applicant": "QI LI DBA: LQ Design GROUP Ltd",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -223513,6 +223634,94 @@
       "longitude": -123.091918,
       "minor": true,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "43 DIEPPE PLACE",
+      "applicant": "Kin  Yeung",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00771",
+      "applicationDate": 1772784000,
+      "addresses": [
+        "43 DIEPPE PLACE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a two-storey plus basement two dwelling unit front building and a two-storey two dwelling unit rear building with an attached 3-car carport and 1 surface parking, providing total 4 parking spaces, having vehicular access from the rear lane.\n\nBuilding 1: BP-2026-00771 (Site permit and Building 1 permit) - Two dwelling units (South - Front)\nBuilding 2: BP-2026-00772 - Two dwelling units (North - Rear)\n\nThis permit is for site project work and construction of Building 1. \n\nNote: The entire building to be sprinklered to 2 x NFPA 13D.\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in basement floor mechanical room\n2.\\tHeat Pump proposed – Exterior component located in front and east side, Interior component located in second floor closet\n3.\\tSchedule B: Y.K. Sharma, P.Eng (778.863.7076) Structural\n4.\\tSchedule B: D. Pranassery, P.Eng (778.952.8886) Geotechnical\n5.\\tHPO: Residential Builder- Minhas Holdings Inc.\n\nAddress Information:\n\nBuilding 1 (Front) (south)   \n#1-43 Dieppe Place - One Dwelling Unit (south side 1st-2nd floors, basement)\n#2-43 Dieppe Place - One Dwelling Unit (north side 1st-2nd floors, basement) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $975,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Renfrew-Collingwood\nContractor: MINHAS HOLDINGS INC",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1772784000,
+          "endDate": 1772784000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1772784000,
+          "endDate": 1772784000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1772784000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00772",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 975000,
+      "latitude": 49.257022,
+      "longitude": -123.026431,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
+    },
+    {
+      "primaryStreetName": "41 DIEPPE PLACE",
+      "applicant": "Kin  Yeung",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00772",
+      "applicationDate": 1772784000,
+      "addresses": [
+        "41 DIEPPE PLACE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - Building 2 - BP-2026-00772: To construct a Multiple Dwelling 'Multiplex' with two-storey two dwelling unit with an attached 3-car carport, having vehicular access from the rear lane.\n\nRefer to Site Permit: BP-2026-00771\n\nNote: The entire building to be sprinklered to 2 x NFPA 13D, with quick response sprinklers for the attached carport (per Bulletin 2024-002-BU / 9.10.15.4.(11)).\n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – Located in second floor closet\n2.\\tHeat Pump proposed – Exterior component located in court yard, Interior component located in second floor closet\n3.\\tSchedule B: Y.K. Sharma, P.Eng (778.863.7076) Structural\n4.\\tSchedule B: D. Pranassery, P.Eng (778.952.8886) Geotechnical\n5.\\tHPO: Residential Builder- Minhas Holdings Inc.\n\nAddress Information:\n\nBuilding 2 (Rear) (north)\n#1-41 Dieppe Place - One Dwelling Unit (west side 1st-2nd floors)\n#2-41 Dieppe Place - One Dwelling Unit (east side 1st-2nd floors) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $825,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Renfrew-Collingwood\nContractor: MINHAS HOLDINGS INC",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1772784000,
+          "endDate": 1772784000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1772784000,
+          "endDate": 1772784000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1772784000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00771",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 825000,
+      "latitude": 49.256768,
+      "longitude": -123.026255,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "4805 INVERNESS STREET",
@@ -262718,6 +262927,48 @@
       "minor": true,
       "approvalStatus": "Approved",
       "storeys": 2
+    },
+    {
+      "primaryStreetName": "1960 W 7TH AVENUE",
+      "applicant": "Gracorp Properties LP",
+      "cityApplicationType": "Demolition / Deconstruction",
+      "applicationType": "Demolition",
+      "folderNumber": "DB-2025-02115",
+      "applicationDate": 1746518400,
+      "addresses": [
+        "1960 W 7TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Enquiry Centre - Demolition / Deconstruction - To demolish this existing multiple dwelling building on this site.\nDemo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\n\nRelated to: DP-2024-01170, BP-2025-01613\n\nOK for intake per PF J.Borsa\nProject Value: $525,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kitsilano\nContractor: Clearview Demolition Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1746518400,
+          "endDate": 1746518400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1746518400,
+          "endDate": 1746518400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1746518400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-01613",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 525000,
+      "latitude": 49.265262,
+      "longitude": -123.149152,
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "4434 W 1ST AVENUE",
@@ -343998,7 +344249,7 @@
     },
     {
       "primaryStreetName": "545 RITHET ST",
-      "applicant": "JARED BARROW",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01165",
@@ -344006,7 +344257,7 @@
       "addresses": [
         "545 RITHET ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for building envelope rehabilitation.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -344018,8 +344269,8 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1790146800,
+          "endDate": 1790146800
         }
       ],
       "documents": [
@@ -368814,7 +369065,7 @@
     },
     {
       "primaryStreetName": "1026 EMPRESS AVE",
-      "applicant": "TIM KINDRAT",
+      "applicant": "",
       "cityApplicationType": "Development Permit with Variance",
       "applicationType": "Development Permit",
       "folderNumber": "DPV00305",
@@ -368822,8 +369073,8 @@
       "addresses": [
         "1026 EMPRESS AVE"
       ],
-      "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit with Variance application to subdivide existing lots, keeping the existing conversions facing Empress Avenue, and construct a new townhouse facing Bay Street.",
+      "status": "ARCHIVED",
+      "purpose": "APPLICATION RETIRED: X-REFERENCE DDP01179 The City is considering a Development Permit with Variance application to subdivide existing lots, keeping the existing conversions facing Empress Avenue, and construct a new townhouse facing Bay Street.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -368866,24 +369117,6 @@
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1786690800,
           "endDate": 1789023600
-        },
-        {
-          "taskDescription": "Application is circulated to City departments for review and comment",
-          "taskType": "Application Review by City",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Meeting date for Council to consider approving the application.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
-          "taskType": "Council Meeting",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [
@@ -368916,6 +369149,13 @@
       "lastUpdated": 1789123990,
       "relatedPermits": [
         {
+          "relatedPermitID": "DDP01179",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1789718400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Development Permit with Variance application to subdivide existing lots, keep the existing conversions facing Empress Avenue, and construct a new townhouse facing Bay Street.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
           "relatedPermitID": "REZ00871",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1712131200,
@@ -368936,7 +369176,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ]
+      ],
+      "approvalStatus": "Superseded"
     },
     {
       "primaryStreetName": "1333 PANDORA AVE",
