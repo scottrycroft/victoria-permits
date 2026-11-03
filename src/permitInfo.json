@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1793616801,
+  "dateRetrieved": 1793703159,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22351,6 +22351,28 @@
     {
       "primaryStreetName": "1501 BEACH GROVE RD",
       "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023435",
+      "applicationDate": 1793703607,
+      "addresses": [
+        "1501 BEACH GROVE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1793703607,
+      "relatedPermits": [],
+      "latitude": 49.030209,
+      "longitude": -123.056423
+    },
+    {
+      "primaryStreetName": "1501 BEACH GROVE RD",
+      "applicant": "",
       "cityApplicationType": "Multi-Residential",
       "applicationType": "Development Permit",
       "folderNumber": "BP023436",
@@ -22487,6 +22509,28 @@
       "relatedPermits": [],
       "latitude": 49.146604,
       "longitude": -122.9193
+    },
+    {
+      "primaryStreetName": "CMPLX 4758 53 ST",
+      "applicant": "",
+      "cityApplicationType": "Multi-Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023472",
+      "applicationDate": 1793703607,
+      "addresses": [
+        "CMPLX 4758 53 ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Balcony membrane replacement and column cladding replacement",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1793703607,
+      "relatedPermits": [],
+      "latitude": 49.089834,
+      "longitude": -123.074531
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -87169,7 +87213,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1792493758,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0378",
@@ -87184,11 +87228,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -90614,7 +90658,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1792493758,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0174",
@@ -90629,11 +90673,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -90677,8 +90721,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1791284210,
-      "relatedPermits": [],
+      "lastUpdated": 1793703607,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0240",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 48.45854984416661,
       "longitude": -123.52492729525525,
       "projectValue": 270000
@@ -92187,12 +92236,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BLD25-0293",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BLD26-0061",
           "relatedPermitType": "Development Permit"
@@ -93156,12 +93201,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BLD25-0293",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BLD26-0181",
           "relatedPermitType": "Development Permit"
@@ -95181,12 +95222,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BLD25-0293",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BLD26-0061",
           "relatedPermitType": "Development Permit"
@@ -96352,11 +96389,11 @@
       "addresses": [
         "116 995 Latoria Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Tenant Improvement - Converting shell space to Vape Store; Tenant Improvement; Alteration and improvements; C1",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1782115200,
           "endDate": 1782115200
@@ -96366,13 +96403,19 @@
           "taskType": "",
           "startDate": 1783324800,
           "endDate": 1783324800
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1793347200,
+          "endDate": 1793347200
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1792666539,
+      "lastUpdated": 1793703607,
       "relatedPermits": [],
       "latitude": 48.41583510061408,
       "longitude": -123.53276417061076,
@@ -96480,12 +96523,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BLD25-0293",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BLD26-0061",
           "relatedPermitType": "Development Permit"
@@ -96585,11 +96624,11 @@
       "addresses": [
         "110 4342 West Shore Pkwy"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Tenant Improvement - building supply store and office; Tenant Improvement; Alteration and improvements",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1782720000,
           "endDate": 1782720000
@@ -96599,13 +96638,19 @@
           "taskType": "",
           "startDate": 1785916800,
           "endDate": 1785916800
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1793174400,
+          "endDate": 1793174400
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD26-0005",
@@ -96881,7 +96926,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1792493758,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0174",
@@ -96896,11 +96941,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -97916,6 +97961,47 @@
       "projectValue": 75000
     },
     {
+      "primaryStreetName": "126 1488 Flint Ave",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0240",
+      "applicationDate": 1787731200,
+      "addresses": [
+        "126 1488 Flint Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TI - Interior Office Partitions - Java Designs office; Tenant Improvement; Alteration and improvements; CD12",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1787731200,
+          "endDate": 1787731200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793088000,
+          "endDate": 1793088000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793088000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD25-0379",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.45854984416661,
+      "longitude": -123.52492729525525,
+      "projectValue": 150000
+    },
+    {
       "primaryStreetName": "635 Madrona Pl",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -97986,6 +98072,124 @@
       "latitude": 48.40888184252699,
       "longitude": -123.53689791524637,
       "projectValue": 2000
+    },
+    {
+      "primaryStreetName": "1091 Brown Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0246",
+      "applicationDate": 1788422400,
+      "addresses": [
+        "1091 Brown Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Townhouse (4-Unit); Townhouse; New construction (built on-site); RM2A",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1788422400,
+          "endDate": 1788422400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793174400,
+          "endDate": 1793174400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793174400,
+      "relatedPermits": [],
+      "latitude": 48.42880006425626,
+      "longitude": -123.53503247472636,
+      "projectValue": 1628809
+    },
+    {
+      "primaryStreetName": "2990 Leigh Pl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0247",
+      "applicationDate": 1788508800,
+      "addresses": [
+        "2990 Leigh Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling; SFD (without Sec Suite); New construction (built on-site); RL1",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1788508800,
+          "endDate": 1788508800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793260800,
+          "endDate": 1793260800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793260800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0248",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.44449296451574,
+      "longitude": -123.52406212361662,
+      "projectValue": 690000
+    },
+    {
+      "primaryStreetName": "2990 Leigh Pl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0248",
+      "applicationDate": 1788508800,
+      "addresses": [
+        "2990 Leigh Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Accessory building; Accessory Building; New construction (built on-site); RL1",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1788508800,
+          "endDate": 1788508800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793347200,
+          "endDate": 1793347200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793347200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0247",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.44449296451574,
+      "longitude": -123.52406212361662,
+      "projectValue": 300000
     },
     {
       "primaryStreetName": "664 Fairway Ave",
@@ -98240,6 +98444,42 @@
       "projectValue": 1425000
     },
     {
+      "primaryStreetName": "3416 Luxton Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0263",
+      "applicationDate": 1789718400,
+      "addresses": [
+        "3416 Luxton Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TI - Pallet Racking for Maintenance Shop; Tenant Improvement; Alteration and improvements; RR2, AG1",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1789718400,
+          "endDate": 1789718400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793088000,
+          "endDate": 1793088000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793088000,
+      "relatedPermits": [],
+      "latitude": 48.42502895472839,
+      "longitude": -123.53803223825706,
+      "projectValue": 20800
+    },
+    {
       "primaryStreetName": "1191 Centre Mountain Terr",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -98310,6 +98550,42 @@
       "latitude": 48.45337144350894,
       "longitude": -123.50348415750095,
       "projectValue": 1000
+    },
+    {
+      "primaryStreetName": "1366 Sandstone Ln",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0266",
+      "applicationDate": 1790150400,
+      "addresses": [
+        "1366 Sandstone Ln"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling - with Suite; SFD with Suite; New construction (built on-site); CD12",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1790150400,
+          "endDate": 1790150400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793260800,
+          "endDate": 1793260800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793260800,
+      "relatedPermits": [],
+      "latitude": 48.459864013961074,
+      "longitude": -123.52194752891553,
+      "projectValue": 1209820
     },
     {
       "primaryStreetName": "1609 Atlas Dr",
@@ -98420,6 +98696,78 @@
       "projectValue": 815880
     },
     {
+      "primaryStreetName": "2971 Cosmos Bend",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0271",
+      "applicationDate": 1790582400,
+      "addresses": [
+        "2971 Cosmos Bend"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Townhouse (4-Unit); Townhouse; New construction (built on-site); CD3, RR4",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1790582400,
+          "endDate": 1790582400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793347200,
+          "endDate": 1793347200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793347200,
+      "relatedPermits": [],
+      "latitude": 48.45005413939212,
+      "longitude": -123.5527669486451,
+      "projectValue": 1900000
+    },
+    {
+      "primaryStreetName": "2963 Cosmos Bend",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0272",
+      "applicationDate": 1790582400,
+      "addresses": [
+        "2963 Cosmos Bend"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Townhouse (3-Unit); Townhouse; New construction (built on-site); CD3, RR4",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1790582400,
+          "endDate": 1790582400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793347200,
+          "endDate": 1793347200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793347200,
+      "relatedPermits": [],
+      "latitude": 48.44983120078162,
+      "longitude": -123.5528763455465,
+      "projectValue": 1425000
+    },
+    {
       "primaryStreetName": "2789 Lakeshore Pl",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -98454,6 +98802,78 @@
       "latitude": 48.45363452591322,
       "longitude": -123.53222342848849,
       "projectValue": 650000
+    },
+    {
+      "primaryStreetName": "646 Rason Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0278",
+      "applicationDate": 1791446400,
+      "addresses": [
+        "646 Rason Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Accessory Building; Alteration and improvements; R2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1791446400,
+          "endDate": 1791446400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793174400,
+          "endDate": 1793174400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793174400,
+      "relatedPermits": [],
+      "latitude": 48.469670182515834,
+      "longitude": -123.49579141603313,
+      "projectValue": 115000
+    },
+    {
+      "primaryStreetName": "2018 Pebble Dr",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0284",
+      "applicationDate": 1792137600,
+      "addresses": [
+        "2018 Pebble Dr"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Kitchen and Laundry Renovation; Additions and Alterations; Alteration and improvements; RCBM2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1792137600,
+          "endDate": 1792137600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793001600,
+          "endDate": 1793001600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793001600,
+      "relatedPermits": [],
+      "latitude": 48.47466092695702,
+      "longitude": -123.53697070600995,
+      "projectValue": 200000
     },
     {
       "primaryStreetName": "2141 Caribou Dr",
@@ -103150,13 +103570,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "DP24-0040",
-          "relatedPermitType": "Development Permit"
-        }
-      ],
+      "lastUpdated": 1793703607,
+      "relatedPermits": [],
       "latitude": 48.47269204723629,
       "longitude": -123.50960234381111
     },
@@ -104656,6 +105071,36 @@
       "longitude": -123.55039898422449
     },
     {
+      "primaryStreetName": "2948 Glen Lake Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP26-0063",
+      "applicationDate": 1793174400,
+      "addresses": [
+        "2948 Glen Lake Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Form & Character Garden Suite. ; R2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Open",
+          "taskType": "",
+          "startDate": 1793174400,
+          "endDate": 1793174400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793174400,
+      "relatedPermits": [],
+      "latitude": 48.43937327135771,
+      "longitude": -123.51889605824852,
+      "minor": true
+    },
+    {
       "primaryStreetName": "2787 Lakeshore Pl",
       "applicant": "",
       "cityApplicationType": "Development Variance Permit",
@@ -104910,7 +105355,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1792493758,
+      "lastUpdated": 1793703607,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0174",
@@ -104925,11 +105370,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -115848,6 +116293,35 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "5660 Cantrell Road Jian Gong (778)999-0817",
+      "applicant": "Kingstar Building Ltd (778)896-7760",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-24-036203-000-00-B7",
+      "applicationDate": 1792915200,
+      "addresses": [
+        "5660 Cantrell Road Jian Gong (778)999-0817"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $546,890.00 1 $546,890.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1792915200,
+          "endDate": 1792915200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1793703604,
+      "relatedPermits": [],
+      "projectValue": 546890,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "12211 Vulcan Way Vipul Chauhan (778)657-6188",
       "applicant": "Altima (604)603-7609",
       "cityApplicationType": "Building Permit",
@@ -123085,6 +123559,35 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "5540 Hollybridge Way Jane Allison (604)484-8285",
+      "applicant": "Edifice Construction Inc (604)395-8210",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-016531-000-00-B2",
+      "applicationDate": 1792915200,
+      "addresses": [
+        "5540 Hollybridge Way Jane Allison (604)484-8285"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Recreational\nWork Proposed: Alteration\nConstruction Value: $3,030,021.00 1 $3,030,021.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1792915200,
+          "endDate": 1792915200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1793703604,
+      "relatedPermits": [],
+      "projectValue": 3030021,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "4000 No 3 Road Unit 3220 Wing Kai Renovation (Benson Lai) (604) 618-3618",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -123292,6 +123795,36 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 95000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "11751 No 3 Road",
+      "applicant": "Penta Builders Group Inc (604)244-9594",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-019717-000-00-BZ",
+      "applicationDate": 1792915200,
+      "addresses": [
+        "11751 No 3 Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Retaining Walls (over 1.2m in Height)\nWork Proposed: New\nConstruction Value: $20,000.00 1 $20,000.00\nDescription: FENCE Dore Design & Development (Brad Dore) (604)782-8240",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1792915200,
+          "endDate": 1792915200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1793703604,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 20000,
       "approvalStatus": "Approved"
     },
     {
@@ -124928,6 +125461,34 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "9371 Dolphin Avenue",
+      "applicant": "Sphere Builders Group Inc (Gurjit Pooni) (778)629-1855",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-014202-000-00-D7",
+      "applicationDate": 1793347200,
+      "addresses": [
+        "9371 Dolphin Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Hayer Demolition Ltd (604)324-4253",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1793347200,
+          "endDate": 1793347200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1793703604,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "11531 Bird Road",
       "applicant": "Hardip Sidhu (778)288-9284",
       "cityApplicationType": "Demolition",
@@ -125148,6 +125709,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1792061807,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "10600 Seamount Road",
+      "applicant": "Dore Design & Development (Brad Dore) (604)782-8240",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-019400-000-00-D7",
+      "applicationDate": 1793174400,
+      "addresses": [
+        "10600 Seamount Road"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: MBD Demolition and Excavation Ltd (604)765-2316",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1793174400,
+          "endDate": 1793174400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1793703604,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -128108,18 +128697,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1793343600,
-          "endDate": null
+          "endDate": 1793602800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "startDate": 1793602800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793443949,
+      "lastUpdated": 1793703162,
       "relatedPermits": []
     },
     {
@@ -137984,6 +138573,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1774508400,
           "endDate": 1781766000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1795417200,
+          "endDate": null
         }
       ],
       "documents": [
@@ -138017,7 +138612,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1791629517,
+      "lastUpdated": 1793703162,
       "relatedPermits": [
         {
           "relatedPermitID": "BLC07024",
@@ -138165,7 +138760,7 @@
         "3224 SHELBOURNE ST"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-6 ZONE TO RA-13 APARTMENT E ZONE TO CONSTRUCT A 6 STOREY, 77 UNIT RESIDENTIAL BUILDING WITH ONE LEVEL OF UNDERGROUND PARKING",
+      "purpose": "TO REZONE FROM RS-6 ZONE TO RA-13 APARTMENT ZONE TO CONSTRUCT A 6 STOREY, 77 UNIT RESIDENTIAL BUILDING WITH ONE LEVEL OF UNDERGROUND PARKING",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -138271,7 +138866,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793443949,
+      "lastUpdated": 1793703162,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00783",
@@ -140044,7 +140639,7 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1793343600,
-          "endDate": null
+          "endDate": 1793602800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
@@ -140072,7 +140667,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793443949,
+      "lastUpdated": 1793703162,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00799",
@@ -142324,11 +142919,17 @@
           "taskType": "APPLICATION REVIEW BY DISTRICT",
           "startDate": 1778223600,
           "endDate": 1778223600
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVED",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1792061493,
+      "lastUpdated": 1793703162,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP01096",
@@ -142547,11 +143148,17 @@
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1779692400,
           "endDate": 1780383600
+        },
+        {
+          "taskDescription": "Permit approved by delegated authority",
+          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVED",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1792839202,
+      "lastUpdated": 1793703162,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00811",
@@ -150546,14 +151153,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1793703162,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01081",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1736409600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE FROM RS-6 ZONE TO RA-13 APARTMENT E ZONE TO CONSTRUCT A 6 STOREY, 77 UNIT RESIDENTIAL BUILDING WITH ONE LEVEL OF UNDERGROUND PARKING"
+          "relatedPermitDescription": "TO REZONE FROM RS-6 ZONE TO RA-13 APARTMENT ZONE TO CONSTRUCT A 6 STOREY, 77 UNIT RESIDENTIAL BUILDING WITH ONE LEVEL OF UNDERGROUND PARKING"
         },
         {
           "relatedPermitID": "TRP21064",
@@ -154251,7 +154858,7 @@
       "purpose": "Development Permit and Development Variance Permit application for a four-storey mixed-use building with ground floor commercial space and 12 residential dwelling units.",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Development Permit Application",
+          "taskDescription": "Notice of New Development Permit ApplicationApplication under review by staff.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -154261,16 +154868,12 @@
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/9731-First-Street-Plans.pdf"
-        },
-        {
-          "docName": "Notice of New Development Permit Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/Notice-of-New-Application-9731-First-Street.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1790420117,
+      "lastUpdated": 1793703573,
       "relatedPermits": [],
       "major": true,
       "storeys": 4
@@ -154442,49 +155045,14 @@
       "folderNumber": "4e35e5a269",
       "applicationDate": 1742468487,
       "addresses": [
-        "9972 Third Street"
+        "9972 Third Street",
+        "Note:"
       ],
       "status": "ACTIVE",
       "purpose": "Zoning Amendment, Development Permit, and Development Variance Permit application for a four-storey 75-unit multi-family development.",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Development Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1756796400,
-          "endDate": 1756796400
-        },
-        {
-          "taskDescription": "Council Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1771830000,
-          "endDate": 1771830000
-        },
-        {
-          "taskDescription": "APC Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1775545200,
-          "endDate": 1775545200
-        },
-        {
-          "taskDescription": "Council Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1782111600,
-          "endDate": 1782111600
-        },
-        {
-          "taskDescription": "Notice of Zoning Amendment Bylaw",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Draft Zoning Amendment Bylaw No. 2317",
+          "taskDescription": ". Development Permit and Development Variance Permit application still under consideration.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -154502,40 +155070,12 @@
         {
           "docName": "Revised Plans (August 2025)",
           "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-Street-Plans-August-2025.pdf"
-        },
-        {
-          "docName": "Notice of New Development Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-St-Notice-of-New-Development-Application.pdf"
-        },
-        {
-          "docName": "September 2, 2025 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/50955/7c%20-%20RZ%20DV%20_%20DP%20-%209972%20Third%20Street%20-%20Staff%20Report.pdf"
-        },
-        {
-          "docName": "February 23, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/55213/Zoning%20Amendment%20Application%20No.%20RZ100110_Devel.pdf"
-        },
-        {
-          "docName": "April 7, 2026 APC Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/57157#page=4"
-        },
-        {
-          "docName": "June 22, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/58731/13a-%20Parks%20_%20Amenity%20Contributions%20-%20RZ10011009972.pdf"
-        },
-        {
-          "docName": "Notice of Zoning Amendment Bylaw",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-Street-Notice-of-Zoning-Amendment-Bylaw.pdf"
-        },
-        {
-          "docName": "Draft Zoning Amendment Bylaw No. 2317",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/Draft-Zoning-Amendment-Bylaw-2317-9972-Third-St.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1786013730,
+      "lastUpdated": 1793703573,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -154795,26 +155335,22 @@
       "purpose": "Development Permit application for a 5 storey 140 unit multi-unit residential development with surface and underground parking.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1789974000,
-          "endDate": 1789974000
+          "startDate": 1790578800,
+          "endDate": 1790578800
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/2180-Beacon-Avenue-W-Plans.pdf"
-        },
-        {
-          "docName": "September 21, 2026 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/60660/Development%20Permit%20Application%20No.%20DP100861_218.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1790679321,
+      "lastUpdated": 1793703573,
       "relatedPermits": [],
       "storeys": 5
     },
@@ -155255,36 +155791,22 @@
       "purpose": "Development Variance Permit application to relax the minimum required interior side, exterior side, and rear setbacks to allow for a new residential dwelling to be located in the rear yard.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1788850800,
-          "endDate": 1788850800
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1790578800,
+          "endDate": 1790578800
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/10007-Siddall-Road-Plans.pdf"
-        },
-        {
-          "docName": "September 8, 2026 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/60328/7a-%20DVP%20-%2010007%20Siddall%20Road.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/10007-Siddall-Road-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1789728976,
+      "lastUpdated": 1793703573,
       "relatedPermits": []
     },
     {
@@ -155298,7 +155820,7 @@
         "2378 Henry Avenue"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Permit application for a 2 storey fourplex rental building.",
+      "purpose": "Development Permit application for a four unit residential development.",
       "progressSections": [
         {
           "taskDescription": "Application under review by staff.",
@@ -155316,10 +155838,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1790074560,
-      "relatedPermits": [],
-      "major": true,
-      "storeys": 2
+      "lastUpdated": 1793703573,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "2060 White Birch Road",
@@ -155335,7 +155855,7 @@
       "purpose": "Development Permit application for a 4 storey 61 unit multi-unit residential development with surface and underground parking.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
           "startDate": 1790578800,
           "endDate": 1790578800
@@ -155345,16 +155865,12 @@
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/2060-White-Birch-Road-Plans.pdf"
-        },
-        {
-          "docName": "September 28, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/60855/9b-DP100863-2060%20White%20Birch%20Rd.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1790420117,
+      "lastUpdated": 1793703573,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -155451,36 +155967,22 @@
       "purpose": "Development Variance Permit application to allow for the placement of a heat pump on the balcony in the front yard of the subject property.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1786345200,
-          "endDate": 1786345200
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1789369200,
+          "endDate": 1789369200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/404-9870-Second-Street-Plans.pdf"
-        },
-        {
-          "docName": "August 10, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/59303/9a-DVP100396%20-%20404-9870%20Second%20Street.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/404-9870-Second-Street-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1787655378,
+      "lastUpdated": 1793703573,
       "relatedPermits": []
     },
     {
@@ -155809,13 +156311,14 @@
       "folderNumber": "c9a23e9f3d",
       "applicationDate": 1770811029,
       "addresses": [
-        "2384 Orchard Avenue"
+        "2384 Orchard Avenue",
+        "Note:"
       ],
       "status": "ACTIVE",
       "purpose": "Development Permit and Development Variance Permit application for a 4-unit residential development.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskDescription": "Committee of the Whole Meeting Staff ReportNote: Application being redesigned by applicant.",
           "taskType": "",
           "startDate": 1779174000,
           "endDate": 1779174000
@@ -155825,16 +156328,12 @@
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/2384-Orchard-Ave-Plans.pdf"
-        },
-        {
-          "docName": "May 19, 2026 Committee of the Whole Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/58096/Development%20Permit%20Application%20No.%20DP100857_Dev.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1778842948,
+      "lastUpdated": 1793703573,
       "relatedPermits": []
     },
     {
@@ -155878,28 +156377,17 @@
       "applicationDate": 1747911481,
       "addresses": [
         "9989 Fifth Street",
-        "9991 Fifth Street"
+        "9991 Fifth Street",
+        "Note:"
       ],
       "status": "ACTIVE",
       "purpose": "Development Variance Permit and Development Permit application for a four-storey 30-unit multi-family residential development with underground parking",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Development Application",
+          "taskDescription": "Council Meeting Staff ReportNote: Application being redesigned by applicant.",
           "taskType": "",
           "startDate": null,
           "endDate": null
-        },
-        {
-          "taskDescription": "Council Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1755500400,
-          "endDate": 1755500400
-        },
-        {
-          "taskDescription": "Council Meeting Staff Report",
-          "taskType": "",
-          "startDate": 1783926000,
-          "endDate": 1783926000
         }
       ],
       "documents": [
@@ -155914,24 +156402,12 @@
         {
           "docName": "Revised Plans (June 2026)",
           "docURL": "https://www.sidney.ca/wp-content/uploads/9989-Fifth-Street-Plans-June-2026.pdf"
-        },
-        {
-          "docName": "Notice of New Development Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/9989-9991-Fifth-Street-Notice-of-New-Development-Application.pdf"
-        },
-        {
-          "docName": "August 18, 2025 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/50769/Official%20Community%20Plan%20Amendment%20Application%20N.pdf"
-        },
-        {
-          "docName": "July 13, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/58934/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1786013730,
+      "lastUpdated": 1793703573,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -155949,7 +156425,7 @@
       "purpose": "Development Permit and Development Variance Permit application for the form and character of an elevated covered walkway, and to allow an accessory structure to be located within the exterior side yard.",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Development Permit Application",
+          "taskDescription": "Notice of New Development Permit ApplicationApplication under review by staff.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -155959,16 +156435,12 @@
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/9775-First-Street-Plans.pdf"
-        },
-        {
-          "docName": "Notice of New Development Permit Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/9775-First-Street-Notice-of-New-Application.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1789469801,
+      "lastUpdated": 1793703573,
       "relatedPermits": []
     },
     {
@@ -156190,36 +156662,22 @@
       "purpose": "Development Variance Permit application to reduce the minimum interior side setback along the west lot line from 2.0 metres to 1.48 metres, applying to one corner of an existing at-grade addition constructed within the footprint of a previous deck.",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff Report",
+          "taskDescription": ".",
           "taskType": "",
-          "startDate": 1786345200,
-          "endDate": 1786345200
-        },
-        {
-          "taskDescription": "Notice of Development Variance Permit Application",
-          "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1789369200,
+          "endDate": 1789369200
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/10249-Forsythia-Place-Plans.pdf"
-        },
-        {
-          "docName": "August 10, 2026 Council Meeting Staff Report",
-          "docURL": "https://sidney.civicweb.net/document/59165/9b-%20DV100397-%2010249%20Forsythia%20Place.pdf"
-        },
-        {
-          "docName": "Notice of Development Variance Permit Application",
-          "docURL": "https://www.sidney.ca/wp-content/uploads/10249-Forsythia-Place-DV-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1787655378,
+      "lastUpdated": 1793703573,
       "relatedPermits": []
     },
     {
@@ -341072,6 +341530,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -341094,10 +341558,22 @@
         {
           "docName": "2026-06-02 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C2AD9B7A-8BEE-4088-8875-E349A8CA5A45&folderId=15043C251223074735166568"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F2AEAF06-1F18-4AA4-A0EE-8675E334E45F&folderId=15043C251223074735166568"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=85FAF747-783F-40E2-8917-3056B1B85379&folderId=15043C251223074735166568"
+        },
+        {
+          "docName": "2026-11-02 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=FC2BF17B-045E-4FF7-9B92-1B4F5E339CB8&folderId=15043C251223074735166568"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1793703162,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -412039,6 +412515,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": 1793602800,
+          "endDate": null
+        },
+        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
           "startDate": null,
@@ -412146,7 +412628,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787395978,
+      "lastUpdated": 1793703162,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00299",
@@ -415153,8 +415635,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportoct18-24202679958.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportoct18-24202679959.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportoct25-31202679965.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportoct25-31202679966.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
