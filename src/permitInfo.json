@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1793703159,
+  "dateRetrieved": 1793789691,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22391,6 +22391,28 @@
       "relatedPermits": [],
       "latitude": 49.030209,
       "longitude": -123.056423
+    },
+    {
+      "primaryStreetName": "4437 RIVER RD W",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023437",
+      "applicationDate": 1793789952,
+      "addresses": [
+        "4437 RIVER RD W"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To construct a new float home - to complete BP011582",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1793789952,
+      "relatedPermits": [],
+      "latitude": 49.087387,
+      "longitude": -123.100817
     },
     {
       "primaryStreetName": "5663 ABBEY DR",
@@ -111125,18 +111147,18 @@
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1790924400,
-          "endDate": null
+          "endDate": 1792738800
         },
         {
           "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
           "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1792998000,
+          "endDate": 1793343600
         },
         {
           "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
           "taskType": "ADVISORY BODY MEETING",
-          "startDate": null,
+          "startDate": 1794294000,
           "endDate": null
         },
         {
@@ -111195,7 +111217,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1793789693,
       "relatedPermits": []
     },
     {
@@ -115946,7 +115968,7 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": null,
+          "startDate": 1793689200,
           "endDate": null
         },
         {
@@ -115997,7 +116019,89 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1793789693,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "2425 CRANMORE RD",
+      "applicant": "N/A",
+      "cityApplicationType": "ZONING BYLAW AMENDMENT",
+      "applicationType": "Rezoning",
+      "folderNumber": "ZON00076",
+      "applicationDate": 1793689200,
+      "addresses": [
+        "2425 CRANMORE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The amendment would increase the permitted floor space ratio (FSR) and basement floor area to allow a modest renovation of the existing 1912 home in keeping with the character of the neighbourhood. That renovation includes a small single-storey kitchen addition and a new secondary suite in the lower level.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1793689200,
+          "endDate": 1793689200
+        },
+        {
+          "taskDescription": "The application is under review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
+          "taskType": "*WITH APPLICANT",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
+          "taskType": "*COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date for Council to consider readings of the bylaw.",
+          "taskType": "*COUNCIL - READINGS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting of Council to adopt the bylaw.",
+          "taskType": "COUNCIL - FINAL ADOPTION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "ZON000076 - 2425 Cranmore - Rationale Letter.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=C6F0844D-95B2-48D3-AB94-751C97DA3C53&folderId=85900C261103123632744962"
+        },
+        {
+          "docName": "ZON000076 - 2425 Cranmore - Site Plans.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=CFB07939-E34B-4819-8998-007BCA78F545&folderId=85900C261103123632744962"
+        }
+      ],
+      "city": "Oak Bay",
+      "lastUpdated": 1793689200,
       "relatedPermits": []
     },
     {
@@ -138964,7 +139068,7 @@
         "3960 ASHFORD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO A NEW RM-7 ZONE TO CONSTRUCT EIGHT TOWNHOUSE UNITS FOUR OF WHICH INCLUDE A SUITE",
+      "purpose": "TO REZONE FROM RS-10 TO A NEW RM-7 ZONE TO CONSTRUCT EIGHT TOWNHOUSE UNITS",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -139084,14 +139188,14 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786704742,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00785",
           "relatedPermitType": "REZONING",
           "relatedPermitApplicationDate": 1738051200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE  FROM RS-10 TO RT-WA TO CONSTRUCT 8 TOWNHOUSES WITH SUITES"
+          "relatedPermitDescription": "TO REZONE  FROM RS-10 TO RM-7 TO CONSTRUCT 8 TOWNHOUSES"
         }
       ]
     },
@@ -140644,7 +140748,7 @@
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1793689200,
           "endDate": null
         }
       ],
@@ -140667,7 +140771,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793703162,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00799",
@@ -141119,11 +141223,17 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1788937200,
-          "endDate": null
+          "endDate": 1793689200
         },
         {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
           "startDate": null,
           "endDate": null
         },
@@ -141149,7 +141259,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1789728772,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00800",
@@ -141877,6 +141987,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1782370800,
+          "endDate": 1793689200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1793689200,
+          "endDate": 1793689200
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1793689200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -141899,7 +142027,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1782471198,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00808",
@@ -142542,7 +142670,7 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1792479600,
-          "endDate": null
+          "endDate": 1793689200
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
@@ -142566,7 +142694,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00810",
@@ -143438,20 +143566,20 @@
       ],
       "documents": [
         {
-          "docName": "PLANS_ELEVATION_JUNE 5 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8D3A5B27-95D0-48CC-9823-28E3EA08A27F&folderId=84439C260610101935754997"
+          "docName": "REVISED_ELEVATIONS_OCT 8 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=6CFE4135-DA38-4EDB-BA77-9157D1F4C182&folderId=84439C260610101935754997"
         },
         {
-          "docName": "PLANS_LANDSCAPING_JUNE 5 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=12EDD497-C371-46D8-81B1-8753A371344E&folderId=84439C260610101935754997"
+          "docName": "REVISED_LANDSCAPE_OCT 8 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=4C7B672C-9FF0-4D3C-B94F-252B04398686&folderId=84439C260610101935754997"
         },
         {
-          "docName": "PLANS_SHADOW STUDY_JUNE 5 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2C8CD678-7900-4EB6-9B93-C1858D92D06C&folderId=84439C260610101935754997"
+          "docName": "REVISED_SHADOW STUDY_OCT 8 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9471D8F0-2C2A-4CE4-A6A5-41A52DB87D74&folderId=84439C260610101935754997"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00815",
@@ -143937,7 +144065,13 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1791183600,
-          "endDate": null
+          "endDate": 1793689200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1793689200,
+          "endDate": 1793689200
         }
       ],
       "documents": [
@@ -143947,7 +144081,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1791283933,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01103",
@@ -144611,9 +144745,26 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATION PLANS_OCT 16 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=40F5BE9A-041D-4227-929D-94C6C5E5AED1&folderId=31757C261019101549091012"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_OCT 16 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=2018D567-901E-4EBF-8643-CDEC2776E7A2&folderId=31757C261019101549091012"
+        },
+        {
+          "docName": "SHADOW PLAN_OCT 16 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C411F688-3C2F-49F3-AC30-7B0082BC41BE&folderId=31757C261019101549091012"
+        },
+        {
+          "docName": "SITE PLAN_OCT 16 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8216051B-EAB7-45E9-BB10-0B14142066EB&folderId=31757C261019101549091012"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00823",
@@ -151264,7 +151415,7 @@
         "3960 ASHFORD RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM RS-10 TO RT-WA TO CONSTRUCT 8 TOWNHOUSES WITH SUITES",
+      "purpose": "TO REZONE FROM RS-10 TO RM-7 TO CONSTRUCT 8 TOWNHOUSES",
       "progressSections": [
         {
           "taskDescription": "Application has been received by the District",
@@ -151281,14 +151432,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1776509912,
+      "lastUpdated": 1793789693,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01083",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1738051200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE  FROM RS-10 TO A NEW RM-7 ZONE TO CONSTRUCT EIGHT TOWNHOUSE UNITS FOUR OF WHICH INCLUDE A SUITE"
+          "relatedPermitDescription": "TO REZONE  FROM RS-10 TO A NEW RM-7 ZONE TO CONSTRUCT EIGHT TOWNHOUSE UNITS"
         }
       ]
     },
@@ -320245,7 +320396,7 @@
         "2528-2580 Kaslo St"
       ],
       "status": "ACTIVE",
-      "purpose": "\nCategory: Non-market housing included (Social, supportive, or co-op)\nStatus: Approved\nApproved July 21, 2026\n**This application was approved by Council on July 21, 2026, following the Council Meetings on July 14 and 16, 2026.**\n\n  \n\n(Revised application: August 20, 2026)\n\nThe City of Vancouver has received an application to revise the approved but not yet enacted CD-1 (RTS 18693) to subdivide the land into four parcels.\n\nThe current proposal is for four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)._  \n  \n_No form of development changes are proposed._\n\n_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_\n\n* * *\n\n(Original application: June 2, 2025)\n\nThe City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District.\n\nThe proposal is to allow for the development of four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)_ as a new Unique Site. Proposals for Unique Sites are expected to undertake a more comprehensive development review and consultation process, given their larger scale and complexity.\n\n__**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**_ **_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_**_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n  \n\n**Update, November 19, 2025:**\n\n**Requested boards from the open house are now posted on this website.**\n\n  \n\n**Update, November 28, 2025:**\n\n**Landscape drawings have been updated.**\n\n  \n\n**Update, December 22, 2025:**\n\n**Minor inconsistencies within the rezoning booklet for building heights and building grades were addressed.**\n\n**Update, August 20, 2026:**\n\n**Revised application was received to subdivide the site.**",
+      "purpose": "\nCategory: Non-market housing included (Social, supportive, or co-op)\nStatus: Approved\nApproved July 21, 2026\n(Revised application: August 20, 2026)\n\nThe City of Vancouver has received an application to revise the approved but not yet enacted CD-1 (RTS 18693) to subdivide the land into four parcels.\n\nThe current proposal is for four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)._  \n  \n_No form of development changes are proposed._\n\n_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_\n\n* * *\n\nOriginal application (June 2, 2025)\n\nThe City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District.\n\nThe proposal is to allow for the development of four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)_ as a new Unique Site. Proposals for Unique Sites are expected to undertake a more comprehensive development review and consultation process, given their larger scale and complexity.\n\n__**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**_ **_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_**_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n  \n\n**Update, November 19, 2025:**\n\n**Requested boards from the open house are now posted on this website.**\n\n  \n\n**Update, November 28, 2025:**\n\n**Landscape drawings have been updated.**\n\n  \n\n**Update, December 22, 2025:**\n\n**Minor inconsistencies within the rezoning booklet for building heights and building grades were addressed.**\n\n**Update, August 20, 2026:**\n\n**Revised application was received to subdivide the site.**",
       "progressSections": [
         {
           "taskDescription": "Application received",
@@ -320325,7 +320476,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1790530262,
+      "lastUpdated": 1793790860,
       "relatedPermits": [],
       "latitude": 49.262298,
       "longitude": -123.046738,
@@ -320345,7 +320496,7 @@
         "2528-2580 Kaslo St"
       ],
       "status": "ACTIVE",
-      "purpose": "\nCategory: Strata Housing Included\nStatus: Approved\nApproved July 21, 2026\n**This application was approved by Council on July 21, 2026, following the Council Meetings on July 14 and 16, 2026.**\n\n  \n\n(Revised application: August 20, 2026)\n\nThe City of Vancouver has received an application to revise the approved but not yet enacted CD-1 (RTS 18693) to subdivide the land into four parcels.\n\nThe current proposal is for four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)._  \n  \n_No form of development changes are proposed._\n\n_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_\n\n* * *\n\n(Original application: June 2, 2025)\n\nThe City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District.\n\nThe proposal is to allow for the development of four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)_ as a new Unique Site. Proposals for Unique Sites are expected to undertake a more comprehensive development review and consultation process, given their larger scale and complexity.\n\n__**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**_ **_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_**_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n  \n\n**Update, November 19, 2025:**\n\n**Requested boards from the open house are now posted on this website.**\n\n  \n\n**Update, November 28, 2025:**\n\n**Landscape drawings have been updated.**\n\n  \n\n**Update, December 22, 2025:**\n\n**Minor inconsistencies within the rezoning booklet for building heights and building grades were addressed.**\n\n**Update, August 20, 2026:**\n\n**Revised application was received to subdivide the site.**",
+      "purpose": "\nCategory: Strata Housing Included\nStatus: Approved\nApproved July 21, 2026\n(Revised application: August 20, 2026)\n\nThe City of Vancouver has received an application to revise the approved but not yet enacted CD-1 (RTS 18693) to subdivide the land into four parcels.\n\nThe current proposal is for four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)._  \n  \n_No form of development changes are proposed._\n\n_**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**_\n\n* * *\n\nOriginal application (June 2, 2025)\n\nThe City of Vancouver has received an application to rezone the subject site from R1-1 (Residential Inclusive) District to CD-1 (Comprehensive Development) District.\n\nThe proposal is to allow for the development of four 39-45-storey mixed-use buildings, and includes:\n\n*   1,959 residential units; with\n*   1,386 strata units;\n*   573 rental units with 20% of the floor area for below-market units;\n*   Commercial space, a 73-space private child care, and amenities on the ground floor;\n*   A floor space ratio (FSR) of 10.5; and\n*   Building heights ranging from 163.8 m (537 ft.) to 187.4 m (618 ft.).\n\n[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the _[Rupert Renfrew Station Area Plan(External link)](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/6a98cc1d4415426e71b0a31ca22fd4b724e3b9bc/original/1752874120/af0a4f431edf7a408ec0f87668bc4fa2_PDS%20-%20Rupert%20and%20Renfrew%20-%20Appendix%20B%20-Rupert%20and%20Renfrew%20Station%20Area%20Plan%20-%20RTS%2017631.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIFWFOUYFI%2F20250821%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250821T181549Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c3918706dcfe74c14be6d2ee058722c72929203edfb71ec2995ce00f7895a436)_ as a new Unique Site. Proposals for Unique Sites are expected to undertake a more comprehensive development review and consultation process, given their larger scale and complexity.\n\n__**The City’s Tenant Relocation and Protection Policy applies to this site. This policy provides assistance and protections to eligible renters impacted by redevelopment activity. To learn more visit:**_ **_[vancouver.ca/protecting-tenants.(External link)](https://vancouver.ca/people-programs/protecting-tenants.aspx#redirect)_**_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**\n\n  \n\n**Update, November 19, 2025:**\n\n**Requested boards from the open house are now posted on this website.**\n\n  \n\n**Update, November 28, 2025:**\n\n**Landscape drawings have been updated.**\n\n  \n\n**Update, December 22, 2025:**\n\n**Minor inconsistencies within the rezoning booklet for building heights and building grades were addressed.**\n\n**Update, August 20, 2026:**\n\n**Revised application was received to subdivide the site.**",
       "progressSections": [
         {
           "taskDescription": "Application received",
@@ -320425,7 +320576,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1790530262,
+      "lastUpdated": 1793790860,
       "relatedPermits": [],
       "latitude": 49.262301,
       "longitude": -123.046741,
@@ -322026,7 +322177,7 @@
         "111 E 5th Ave"
       ],
       "status": "ACTIVE",
-      "purpose": "\nCategory: Market Rental Housing included\nStatus: Application in Review\nReferred back to staff\nAnnouncement (October 23, 2026)\n\nIn response to council direction imploring City staff for further consultation there will be an additional Q&A period held from December 2, 2026 to December 15, 2026.\n\n* * *\n\nUPDATE (July 21, 2026)\n\nThis item has been pulled from the public hearing agenda for July 23rd and will not be going forward at this time. Staff have been directed by Council to undertake further public consultation and the site sign and Shape Your City webpage will be updated with further information about that engagement.\n\nPlease note: staff will not be beginning engagement until after the election\n\n* * *\n\nCurrent Application (September 4, 2026)\n\nThe City of Vancouver has received an application to rezone the subject site from I-1A (industrial) District to CD-1 (Comprehensive Development) District to allow for Bulk Data Storage use within an existing commercial building. No changing to mass is proposed. This application includes:\n\n*   Converting existing below grade parking to Bulk Data Storage related uses (mechanical, electrical, garbage/recycling);\n*   Adding a restaurant space at ground level; and\n*   Removing all parking requirements for the development.[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the [Broadway plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf#)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**",
+      "purpose": "\nCategory: Market Rental Housing included\nStatus: Application in Review\nReferred back to staff\nAnnouncement (October 23, 2026)\n\nIn response to council direction imploring City staff for further consultation there will be an additional Q&A period held from December 2, 2026 to December 15, 2026.\n\n* * *\n\nUPDATE (July 21, 2026)\n\nThis item has been pulled from the public hearing agenda for July 23rd and will not be going forward at this time. Staff have been directed by Council to undertake further public consultation and the site sign and Shape Your City webpage will be updated with further information about that engagement.\n\nPlease note: staff will not be beginning engagement until after the election\n\n* * *\n\nCurrent Application (September 4, 2025)\n\nThe City of Vancouver has received an application to rezone the subject site from I-1A (industrial) District to CD-1 (Comprehensive Development) District to allow for Bulk Data Storage use within an existing commercial building. No changing to mass is proposed. This application includes:\n\n*   Converting existing below grade parking to Bulk Data Storage related uses (mechanical, electrical, garbage/recycling);\n*   Adding a restaurant space at ground level; and\n*   Removing all parking requirements for the development.[(External link)](https://rezoning.vancouver.ca/applications/7280fraserst/index.htm)\n\nThis application is being considered under the [Broadway plan(External link)](https://guidelines.vancouver.ca/policy-plan-broadway.pdf#)_[.(External link)](https://vancouver.ca/files/cov/Affordable-housing-choices-interim-rezoning-policy.pdf)_\n\n**Application drawings and statistics are posted as-submitted to the City. Following staff review, the final project statistics are documented within the referral report.**",
       "progressSections": [
         {
           "taskDescription": "Application received",
@@ -322095,7 +322246,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1792926717,
+      "lastUpdated": 1793790860,
       "relatedPermits": [],
       "latitude": 49.266718,
       "longitude": -123.102153
@@ -341825,6 +341976,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -341847,10 +342004,26 @@
         {
           "docName": "2026-04-22 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=51926C260422105914682612&folderId=23414C260121154828737456"
+        },
+        {
+          "docName": "2026-11-03 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14692C261103151356465274&folderId=23414C260121154828737456"
+        },
+        {
+          "docName": "2026-11-03 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14692C261103151356556560&folderId=23414C260121154828737456"
+        },
+        {
+          "docName": "2026-11-03 - Revisions List - Architectural.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14692C261103151356616616&folderId=23414C260121154828737456"
+        },
+        {
+          "docName": "2026-11-03 - Revisions List - Civil.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14692C261103151356655963&folderId=23414C260121154828737456"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1787914435,
+      "lastUpdated": 1793789693,
       "relatedPermits": [],
       "storeys": 2
     },
@@ -345480,6 +345653,94 @@
       "city": "Victoria",
       "lastUpdated": 1793098366,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "450 DALLAS RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01187",
+      "applicationDate": 1793602800,
+      "addresses": [
+        "450 DALLAS RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application for the addition of a freestanding barrel sauna to the rooftop amenity area and 3 glazed canopies to provide weather protection for green roof maintenance access points.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1793602800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-11-02 - List of Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14190C261102092044645670&folderId=F6obJpGEL06TQ2Wk1Sk78Q"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14190C261102092044687475&folderId=F6obJpGEL06TQ2Wk1Sk78Q"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Submission_Bubbled - Landscape.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14190C261102092044727070&folderId=F6obJpGEL06TQ2Wk1Sk78Q"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Submission_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14190C261102092044775429&folderId=F6obJpGEL06TQ2Wk1Sk78Q"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Submission_Landscape.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=14190C261102092044823284&folderId=F6obJpGEL06TQ2Wk1Sk78Q"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1793602800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01126",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1773734400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is considering a Delegated Development Permit to make changes to the approved plans. \n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
+          "relatedPermitID": "DDP00887",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1696924800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is considering a Delegated Development Permit application to make changes to the approved plans."
+        },
+        {
+          "relatedPermitID": "REZ00789",
+          "relatedPermitType": "Rezoning Application",
+          "relatedPermitApplicationDate": 1625212800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPROVED BY COUNCIL ON JUNE 8, 2023.\n\nThe City is considering a Rezoning application to construct a seven-storey multi-unit rental building while retaining the existing twelve-storey residential building to the east.\n\nConcurrent with DPV00177."
+        },
+        {
+          "relatedPermitID": "DPV00177",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1625212800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPROVED BY COUNCIL ON JUNE 8, 2023.\n\nThe City is considering a Development Permit with Variance application to to construct a multiple dwelling building while retaining one of the existing buildings with a parking variance.\n\nSee REZ00789 for project details."
+        },
+        {
+          "relatedPermitID": "CLC00346",
+          "relatedPermitType": "Pre-Application (CALUC)",
+          "relatedPermitApplicationDate": 1624435200,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "During the COVID-19 pandemic, development application plans will be posted here as a substitute for the Community Association Land Use Committee (CALUC) Community Meeting.\n\nLooking for details?\n\nView the plans under Documents below\nContact the applicant noted above\nContact the appropriate CALUC\nContact City staff for information on the Rezoning process\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf a Rezoning application has been submitted, it will be listed below under “Related Permits and Applications”."
+        }
+      ]
     },
     {
       "primaryStreetName": "933 CONVENT PL",
