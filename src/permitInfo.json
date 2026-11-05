@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1793789691,
+  "dateRetrieved": 1793875974,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -19436,6 +19436,28 @@
       "longitude": -123.083654
     },
     {
+      "primaryStreetName": "6599 FABER CRES",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP022688",
+      "applicationDate": 1793876228,
+      "addresses": [
+        "6599 FABER CRES"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential  - To construct a Driveway Retaining Wall",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1793876228,
+      "relatedPermits": [],
+      "latitude": 49.122635,
+      "longitude": -122.917686
+    },
+    {
       "primaryStreetName": "5042 59 ST",
       "applicant": "",
       "cityApplicationType": "Residential",
@@ -22531,6 +22553,28 @@
       "relatedPermits": [],
       "latitude": 49.146604,
       "longitude": -122.9193
+    },
+    {
+      "primaryStreetName": "11235 64 AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023464",
+      "applicationDate": 1793876228,
+      "addresses": [
+        "11235 64 AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To construct duplex with suites",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1793876228,
+      "relatedPermits": [],
+      "latitude": 49.119655,
+      "longitude": -122.911631
     },
     {
       "primaryStreetName": "CMPLX 4758 53 ST",
@@ -110966,7 +111010,7 @@
         "2725 EASTDOWNE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "This is an application to construct an ADU.",
+      "purpose": "This is an application to construct an ADU with a secondary suite.",
       "progressSections": [
         {
           "taskDescription": "An application for a Development Permit has been received by the District.",
@@ -110978,7 +111022,7 @@
           "taskDescription": "The application is under initial review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1790146800,
-          "endDate": null
+          "endDate": 1793775600
         },
         {
           "taskDescription": "Applicant to provide further information, revisions,  and/or documentation as requested by staff.",
@@ -111038,7 +111082,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1793875976,
       "relatedPermits": []
     },
     {
@@ -111383,6 +111427,86 @@
           "relatedPermitDescription": "This permit application is for/to fully renovate the existing house - kitchen, bathrooms, living areas."
         }
       ]
+    },
+    {
+      "primaryStreetName": "2351 LANSDOWNE RD",
+      "applicant": "N/A",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000077",
+      "applicationDate": 1793775600,
+      "addresses": [
+        "2351 LANSDOWNE RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This is an application for a Delegated Infill Development Permit to allow for the development of four new housing units on a parcel zoned R-4.",
+      "progressSections": [
+        {
+          "taskDescription": "An application for a Development Permit has been received by the District.",
+          "taskType": "*APPLICATION SUBMITTED",
+          "startDate": 1793775600,
+          "endDate": 1793775600
+        },
+        {
+          "taskDescription": "Staff evaluation of application to determine eligibility for delegation.",
+          "taskType": "*MINOR VARIANCE REVIEW",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "The application is under initial review by District Staff.",
+          "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Meeting date of Advisory Design Panel and/or Advisory Planning Commission to review application.",
+          "taskType": "ADVISORY BODY MEETING",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "*FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "DP000077 - 2351 Lansdowne Rd  - Service Connections.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=C11A0735-2283-4AC4-AEE8-BB02532B901D&folderId=86060C261104094253978790"
+        },
+        {
+          "docName": "DP000077 - 2351 Lansdowne Rd - Issued for DP.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=EF7B9A39-AA92-49CC-9E7E-368B13A6385B&folderId=86060C261104094253978790"
+        },
+        {
+          "docName": "DP000077 - 2351 Lansdowne Rd - Landscape Plans.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=884D6A4D-5F63-4215-B117-0EB3C5479893&folderId=86060C261104094253978790"
+        },
+        {
+          "docName": "DP000077 - 2351 Lansdowne Rd - Storm Management Memo.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=8A05190B-DE44-42B5-81CB-238B9149CF16&folderId=86060C261104094253978790"
+        },
+        {
+          "docName": "DP000077 - 2351 Lansdowne Rd - Tree Management Plan - (reduced).pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=4D70F9A3-A636-4FE0-A4E1-558FA679A19F&folderId=86060C261104094253978790"
+        },
+        {
+          "docName": "DP000077 - 2351 Lansdowne Rd - Tree Protection Plan - (reduced).pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=19E69B4B-E903-4330-BB01-435CC2274B9C&folderId=86060C261104094253978790"
+        }
+      ],
+      "city": "Oak Bay",
+      "lastUpdated": 1793775600,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "1742 ELGIN RD",
@@ -115951,7 +116075,7 @@
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1790838000,
-          "endDate": null
+          "endDate": 1793775600
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
@@ -116019,7 +116143,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1793789693,
+      "lastUpdated": 1793875976,
       "relatedPermits": []
     },
     {
@@ -128807,12 +128931,23 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1793602800,
-          "endDate": null
+          "endDate": 1793775600
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1793775600,
+          "endDate": 1793775600
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLANS_ELEVATIONS_OCT 13 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=0539546E-6740-41AC-BC0E-AB5B5B446293&folderId=29634C261013141826416713"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1793703162,
+      "lastUpdated": 1793875976,
       "relatedPermits": []
     },
     {
@@ -140754,24 +140889,24 @@
       ],
       "documents": [
         {
-          "docName": "PLANS_PROJECT DATA TABLE_AUG 10 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DBEE72D1-C22F-449C-A282-64A2F26AFA76&folderId=71698C250723115643435048"
+          "docName": "REVISED_CIVIL_OCT 30 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=1944AB50-05F2-4C52-A654-CD00912B51C8&folderId=71698C250723115643435048"
         },
         {
-          "docName": "REVISED_ELEVATIONS_AUG 10 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=A1573CDC-153E-49A6-BCD5-6BB9298354D6&folderId=71698C250723115643435048"
+          "docName": "REVISED_ELEVATIONS_OCT 30 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=982A00B5-C075-4108-9606-80CBB7BE41B2&folderId=71698C250723115643435048"
         },
         {
-          "docName": "REVISED_LANDSCAPE_AUG 10 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=610B53A7-59BF-4258-8EEB-28B578F2E382&folderId=71698C250723115643435048"
+          "docName": "REVISED_LANDSCAPE_OCT 30 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C45AD9E7-42DC-456E-B548-1D5DEC06BB34&folderId=71698C250723115643435048"
         },
         {
-          "docName": "REVISED_SITE_AUG 10 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=245E91BB-35B8-4BEE-8159-5A240AB5908D&folderId=71698C250723115643435048"
+          "docName": "REVISED_SITE PLAN_OCT 30 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=98E4A3E0-EAF0-4578-9891-57A81CB075F2&folderId=71698C250723115643435048"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793789693,
+      "lastUpdated": 1793875976,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00799",
@@ -141867,7 +142002,7 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1785394800,
-          "endDate": null
+          "endDate": 1790838000
         }
       ],
       "documents": [
@@ -141889,7 +142024,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1786186358,
+      "lastUpdated": 1793875976,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00807",
@@ -141999,12 +142134,12 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1793689200,
-          "endDate": null
+          "endDate": 1793775600
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1793775600,
           "endDate": null
         }
       ],
@@ -142027,7 +142162,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793789693,
+      "lastUpdated": 1793875976,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00808",
@@ -144365,7 +144500,7 @@
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
           "startDate": 1792134000,
-          "endDate": null
+          "endDate": 1793343600
         }
       ],
       "documents": [
@@ -144383,7 +144518,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1792234293,
+      "lastUpdated": 1793875976,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26695",
@@ -144561,21 +144696,27 @@
           "endDate": 1792998000
         },
         {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1793775600,
+          "endDate": 1793775600
+        },
+        {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1792998000,
           "endDate": null
         },
         {
-          "taskDescription": "Revised information and/or plans received for review by District",
-          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
-          "startDate": null,
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1793775600,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793098366,
+      "lastUpdated": 1793875976,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00822",
@@ -144810,12 +144951,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1793170800,
+          "endDate": 1793775600
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1793775600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793271142,
+      "lastUpdated": 1793875976,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -147665,6 +147818,65 @@
           "relatedPermitDescription": "BOUNDARY ADJUSTMENT"
         }
       ]
+    },
+    {
+      "primaryStreetName": "2011 CASA MARCIA CRES",
+      "applicant": "NEXUS MODULAR SOLUTIONS",
+      "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00578",
+      "applicationDate": 1793689200,
+      "addresses": [
+        "2011 CASA MARCIA CRES"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REDUCE MINIMUM REAR LOT LINE SETBACK TO LEGALIZE EXISTING GARDEN SUITE.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1793775600,
+          "endDate": 1793775600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1793775600,
+          "endDate": 1793775600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1793775600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1793775600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "TRP23125",
+          "relatedPermitType": "TREE PERMIT",
+          "relatedPermitApplicationDate": 1774339200,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "TREE PERMIT IN SUPPORT OF RBP00690 FOR TREE PROTECTION BARRIER FENCING AND ARBORIST SUPERVISION"
+        },
+        {
+          "relatedPermitID": "RBP00690",
+          "relatedPermitType": "RESIDENTIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1770105600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "GARDEN SUITE - MODULAR - CSA -A277"
+        }
+      ],
+      "minor": true
     },
     {
       "primaryStreetName": "843 NIGEL AVE",
@@ -153527,6 +153739,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1788850800,
+          "endDate": 1793775600
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1793775600,
           "endDate": null
         }
       ],
@@ -153537,7 +153755,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1791975116,
+      "lastUpdated": 1793875976,
       "relatedPermits": []
     },
     {
@@ -166281,7 +166499,7 @@
     },
     {
       "primaryStreetName": "689 E 17TH AVENUE",
-      "applicant": "Anthem Fraser Developments LP",
+      "applicant": "Jack Hui DBA: Pontem Group",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2024-00960",
@@ -166290,7 +166508,7 @@
         "689 E 17TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct will be installed for the Restaurant (shell) at 3281 Fraser St.\n\n29-Jan-2026 - Stage I (Excavation, Shoring & Foundation to Grade)  issued. \n28-Aug-2026 - Stage II (Full Permit) issued.\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct will be installed for the Restaurant (shell) at 3281 Fraser St.\n\n29-Jan-2026 - Stage I (Excavation, Shoring & Foundation to Grade)  issued. \n28-Aug-2026 - Stage II (Full Permit) issued. \n\n\nRev#1 - Pending DP Compliance Letter \nApplicant's name reverted to the name of original applicant - Jack Hui, P. Eng. CP \nChanges per Change memos issued by A/E/M/S consultants \n1. Common Area Door Changes,\n2. Curtain Wall Revisions at CRU 01,\n3. Interior Partition Wall Changes Between CRUs,\n4. Level 6 Amenity Terrace and Amenity Corridor Changes,\n5. Level 16 Amenity Terrace Changes and Relocation of Rooftop Heat Pumps to P1 Level\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -166321,7 +166539,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793876248,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-03975",
@@ -198473,6 +198691,169 @@
       "storeys": 3
     },
     {
+      "primaryStreetName": "6893 LAUREL STREET",
+      "applicant": "Randy Cheng DBA: Lightwell Developments Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-01648",
+      "applicationDate": 1744099200,
+      "addresses": [
+        "6893 LAUREL STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To Construct a Multiple Dwelling \"Multiplex\" with two three storey 2-unit front buildings and two two-storey 1-unit rear buildings with 5 surface parking spaces having access from the lane. This permit is for site and building 1.\n\n1. BP-2025-01648 - NE Front Building (2 units) - $767,000\n2. BP-2025-01649 - SE Front Building (2 units) - $767,000\n3. BP-2025-01650 - SW Rear Building (1 unit) - $383,000\n4. BP-2025-01651 - NW Rear Building (1 unit) - $383,000\n\nRelated DP: DP-2024-01051 \n\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2019 AND AMENDMENT EFFECTIVE FEBRUARY 27, 2025 ********\n\nBuilding Review Branch Notes:\n1.\\tThis lot is NOT Stratified.\n2.\\tSch B- STR & GEO are submitted.\n3.\\tAll dwelling units have separate exterior entrances.\n4.\\tEntire building to be sprinkler to NFPA 13D requirement.\n5.\\tAll new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\nProject Value: $2,300,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Oakridge\nContractor: MANAV Developments Inc",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1744099200,
+          "endDate": 1744099200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1744099200,
+          "endDate": 1744099200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1744099200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-01649",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-01650",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-01651",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "DB-2025-03971",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 2300000,
+      "latitude": 49.222727,
+      "longitude": -123.125344,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "6897 LAUREL STREET",
+      "applicant": "Randy Cheng DBA: Lightwell Developments Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-01650",
+      "applicationDate": 1744099200,
+      "addresses": [
+        "6897 LAUREL STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To Construct a Multiple Dwelling \"Multiplex\" with two three storey 2-unit front buildings and two two-storey 1-unit rear buildings with 5 surface parking spaces having access from the lane. This permit is for building 3.\n\n1. BP-2025-01648 - NE Front Building (2 units) - $767,000\n2. BP-2025-01649 - SE Front Building (2 units) - $767,000\n3. BP-2025-01650 - SW Rear Building (1 unit) - $383,000\n4. BP-2025-01651 - NW Rear Building (1 unit) - $383,000\n\nRelated DP: DP-2024-01051 \n\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2019 AND AMENDMENT EFFECTIVE FEBRUARY 27, 2025 ********\n\nBuilding Review Branch Notes:\n1.\\tThis lot is NOT Stratified.\n2.\\tSch B- STR & GEO are submitted.\n3.\\tAll dwelling units have separate exterior entrances.\n4.\\tEntire building to be sprinkler to NFPA 13D requirement.\n5.\\tAll new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\n6.     Electrical closet to be sprinklered. No storage permitted. Worker must operate outside the electrical closet.\nProperty Use: Dwelling Uses\nSpecific Use: Dwelling Unit\nNeighbourhood: Oakridge\nContractor: MANAV Developments Inc",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1744099200,
+          "endDate": 1744099200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1744099200,
+          "endDate": 1744099200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1744099200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-01648",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-01649",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-01651",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "DB-2025-03971",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "latitude": 49.222673,
+      "longitude": -123.125347,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "6891 LAUREL STREET",
+      "applicant": "Randy Cheng DBA: Lightwell Developments Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-01651",
+      "applicationDate": 1744099200,
+      "addresses": [
+        "6891 LAUREL STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To Construct a Multiple Dwelling \"Multiplex\" with two three storey 2-unit front buildings and two two-storey 1-unit rear buildings with 5 surface parking spaces having access from the lane. The permit is for building 4.\n\n1. BP-2025-01648 - NE Front Building (2 units) - $767,000\n2. BP-2025-01649 - SE Front Building (2 units) - $767,000\n3. BP-2025-01650 - SW Rear Building (1 unit) - $383,000\n4. BP-2025-01651 - NW Rear Building (1 unit) - $383,000\n\nRelated DP: DP-2024-01051 \n\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2019 AND AMENDMENT EFFECTIVE FEBRUARY 27, 2025 ********\n\nBuilding Review Branch Notes:\n1.\\tThis lot is NOT Stratified.\n2.\\tSch B- STR & GEO are submitted.\n3.\\tAll dwelling units have separate exterior entrances.\n4.\\tEntire building to be sprinkler to NFPA 13D requirement.\n5.\\tAll new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\nProperty Use: Dwelling Uses\nSpecific Use: Dwelling Unit\nNeighbourhood: Oakridge\nContractor: MANAV Developments Inc",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1744099200,
+          "endDate": 1744099200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1744099200,
+          "endDate": 1744099200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1744099200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-01648",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-01650",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2025-01649",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "DB-2025-03971",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "latitude": 49.222764,
+      "longitude": -123.125724,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "307 W 20TH AVENUE",
       "applicant": "Khang Nguyen DBA: Architrix Design Studio",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -211024,7 +211405,7 @@
         "3448 CORNETT ROAD"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 3 storey Data Center (Group F2) located at 3448 Cornett Road. \n\nThis is a CP Process Permit and the applicant is Naki Ocran, P.Eng, CP.\n\n***REVIEWED UNDER VBBL 2019****\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Foundation to Grade- 2026-07-30\nRefer to related alternative solutions:\nAL-2026-00004 & AL-2026-00005\nProject Value: $75,000,000.00\nProperty Use: Transportation and Storage Uses\nSpecific Use: Bulk Data Storage\nNeighbourhood: Renfrew-Collingwood",
+      "purpose": "Certified Professional Program - New Building - To construct a 3 storey Data Center (Group F2) located at 3448 Cornett Road. \n\nThis is a CP Process Permit and the applicant is Naki Ocran, P.Eng, CP.\n\n***REVIEWED UNDER VBBL 2019****\n\nSTAGED CONSTRUCTION\nStage 1: Excavation & Foundation to Grade- 2026-07-30\nRefer to related alternative solutions:\nAL-2026-00004 & AL-2026-00005\n\nStage 2: Full Construction - UNDER REVIEW\nProject Value: $75,000,000.00\nProperty Use: Transportation and Storage Uses\nSpecific Use: Bulk Data Storage\nNeighbourhood: Renfrew-Collingwood",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -211043,7 +211424,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793876248,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2026-01660",
@@ -212732,7 +213113,7 @@
         "766 E 21ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - *** PART 5 ***To construct a three storey 4-unit Multiple Dwelling \"Multiplex\" front building with a detached accessory building (carport) at the rear,  providing 3 parking spaces having access from the lane.\n\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design \n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n4. Reviewed under 2019 VBBL\n5. Energy requirements per 10.2.1.5\n6. Related to DP-2025-00056\nProject Value: $1,275,580.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: Arxa Development Corporation",
+      "purpose": "High Density Housing / Commercial - New Building - *** PART 5 ***To construct a three storey 4-unit Multiple Dwelling \"Multiplex\" front building with a detached accessory building (carport) at the rear,  providing 3 parking spaces having access from the lane.\n\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design \n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n4. Reviewed under 2019 VBBL\n5. Energy requirements per 10.2.1.5\n6. Related to DP-2025-00056\n\nRevision #1:\n• Revise sprinkler standard to NFPA 13D.\n• Revise principal heating/cooling system to gas. \n• Revise sidewalks as shown on sheet A101. \n• Add and relocate retaining wall around the site and rear.\n• Approved as a Change Notice to Development Permit Number DP-2025-00056\nProject Value: $1,275,580.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: Arxa Development Corporation",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -212751,7 +213132,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791370596,
+      "lastUpdated": 1793876248,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2026-00547",
@@ -214243,7 +214624,7 @@
         "2026 W 41ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - The project includes construction of a new single storey telecommunications building (Group F-2), purpose built for TELUS. It is the first phase of a two-phase project, under a single DP. Separate BP is required for the 2nd phase. \n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2025 Vancouver Building By-law.\n2. This is a post-disaster building.\n3. Refer to AL-2025-00162 for principal entrance not facing a street. \n4. Generator enclosure shall comply with bulletin 2000-015-BU/EL and be located in conformance with clearance requirements of VBBL and VFBL (minimum 1.5 m from PL). \n\nSTAGED CONSTRUCTION\nStage 1 - Full Construction: Issued March 20, 2026\nProject Value: $925,000.00\nProperty Use: Utility and Communication Uses\nSpecific Use: Public Utility\nNeighbourhood: Shaughnessy\nContractor: Humphrey Construction (2015) Ltd.",
+      "purpose": "Certified Professional Program - New Building - The project includes construction of a new single storey telecommunications building (Group F-2), purpose built for TELUS. It is the first phase of a two-phase project, under a single DP. Separate BP is required for the 2nd phase. \n\nThis is a CP Process Permit, and the applicant is Jack Hui, P.Eng. CP\n\nNOTES\n1. This permit has been reviewed under the 2025 Vancouver Building By-law.\n2. This is a post-disaster building.\n3. Refer to AL-2025-00162 for principal entrance not facing a street. \n4. Generator enclosure shall comply with bulletin 2000-015-BU/EL and be located in conformance with clearance requirements of VBBL and VFBL (minimum 1.5 m from PL). \n\nSTAGED CONSTRUCTION\nStage 1 - Full Construction: Issued March 20, 2026\n\nRevision #1 - Changes to mechanical design as noted in the letter from Mechanical EoR - In review\nProject Value: $925,000.00\nProperty Use: Utility and Communication Uses\nSpecific Use: Public Utility\nNeighbourhood: Shaughnessy\nContractor: Humphrey Construction (2015) Ltd.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -214268,7 +214649,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1793876248,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04842",
@@ -215393,6 +215774,93 @@
       "latitude": 49.238508,
       "longitude": -123.075401,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "3331 DUMFRIES STREET",
+      "applicant": "Dee Spencer DBA: Terra Firma Design Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04338",
+      "applicationDate": 1759824000,
+      "addresses": [
+        "3331 DUMFRIES STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with three storey, two dwelling units for Bldg 1, and two storey, three-unit with an attached carport, for a total of 2 buildings and 5 units on this site.  \n\nThis permit is for the site project work and construction of Bldg 1 (BP-2025-04338). \n\nBldg 1 (& site project work) BP-2025-04338 - East - 2 DU\nBldg 2 - BP-2025-04339 - West - 3 DU\n\nBRB Notes: \n1. Reviewed under 2025 VBBL \n2. Building sprinklered to NFPA 13D\n3. Part 5 Design\nProject Value: $3,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: Modern Styles Home Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1759824000,
+          "endDate": 1759824000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1759824000,
+          "endDate": 1759824000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1759824000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04339",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 3000000,
+      "latitude": 49.255055,
+      "longitude": -123.073397,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3329 DUMFRIES STREET",
+      "applicant": "Dee Spencer DBA: Terra Firma Design Ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04339",
+      "applicationDate": 1759824000,
+      "addresses": [
+        "3329 DUMFRIES STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a two storey, three-unit dwelling unit with an attached carport 'Multiplex'.  \n\nRefer to BP-2025-04338 for Building 1 and site work. \n\nBRB Notes:\n1. Reviewed under 2025 VBBL\n2. Building sprinklered to Modified NFPA 13R \n3. Part 5 Design\n4. Attached carport complying with 9.10.15.4(11)(a) through (d)\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1759824000,
+          "endDate": 1759824000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1759824000,
+          "endDate": 1759824000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1759824000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04338",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "latitude": 49.255069,
+      "longitude": -123.072934,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "1050 KINGSWAY",
@@ -223409,6 +223877,49 @@
       "longitude": -123.076702,
       "approvalStatus": "Approved",
       "storeys": 3
+    },
+    {
+      "primaryStreetName": "1825 E 51ST AVENUE",
+      "applicant": "LEONI MALLARI DBA: Arkitektura Bldg Design",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00559",
+      "applicationDate": 1771401600,
+      "addresses": [
+        "1825 E 51ST AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling “Multiplex” with a two storey, three-unit building, with three surface parking spaces having access from the lane.\n\nBRB Notes:\n1. Reviewed under 2025 VBBL \n2. Part 5 Design \n3. Building sprinklered to Modified NFPA 13R\nProject Value: $1,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Victoria-Fraserview\nContractor: 685024 B.C. LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1771401600,
+          "endDate": 1771401600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1771401600,
+          "endDate": 1771401600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1771401600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2026-01603",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 1400000,
+      "latitude": 49.223711,
+      "longitude": -123.068564,
+      "approvalStatus": "Approved",
+      "storeys": 2
     },
     {
       "primaryStreetName": "2476 W 13TH AVENUE",
@@ -298183,8 +298694,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1778659200,
-      "relatedPermits": [],
+      "lastUpdated": 1793876248,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-00559",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 45000,
       "latitude": 49.223711,
       "longitude": -123.068564,
@@ -324931,8 +325447,8 @@
         {
           "taskDescription": "Q&A Period",
           "taskType": "Q&A Period",
-          "startDate": 1795593600,
-          "endDate": 1796716800
+          "startDate": null,
+          "endDate": null
         }
       ],
       "storeys": 3,
@@ -324970,7 +325486,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1790530262,
+      "lastUpdated": 1793877185,
       "relatedPermits": [],
       "latitude": 49.252689,
       "longitude": -123.138415
@@ -325132,8 +325648,8 @@
         {
           "taskDescription": "Q&A period",
           "taskType": "Q&A period",
-          "startDate": 1795593600,
-          "endDate": 1796716800
+          "startDate": 1799222400,
+          "endDate": 1800345600
         }
       ],
       "storeys": 3,
@@ -325171,7 +325687,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1792753850,
+      "lastUpdated": 1793877185,
       "relatedPermits": [],
       "latitude": 49.25493,
       "longitude": -123.128264
@@ -341678,12 +342194,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1784876400,
-          "endDate": null
+          "endDate": 1793602800
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1793602800,
           "endDate": null
         },
         {
@@ -341724,7 +342240,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1793703162,
+      "lastUpdated": 1793875976,
       "relatedPermits": [],
       "major": true,
       "storeys": 6
@@ -345655,6 +346171,107 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "135 GORGE RD E",
+      "applicant": "N/A",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01186",
+      "applicationDate": 1793602800,
+      "addresses": [
+        "135 GORGE RD E"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application for minor revisions, including building height, to the previously approved Development Permit\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1793602800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-11-02 - Plans_Submission_Bubbled_1of3",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=9A3DD325-9568-404C-935B-213F8238FB6F&folderId=YxGdA112Gk2YVBeNXce/XQ"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Submission_Bubbled_2of3",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=EA3DDA68-2F42-4241-A823-2D3C513EB891&folderId=YxGdA112Gk2YVBeNXce/XQ"
+        },
+        {
+          "docName": "2026-11-02 - Plans_Submission_Bubbled_3of3",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=05FD65C1-90BA-4976-B5D3-635382745BA9&folderId=YxGdA112Gk2YVBeNXce/XQ"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1793602800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01148",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1780387200,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application for tenant protection.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
+          "relatedPermitID": "DDP01128",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1773820800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application for tenant protection.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
+          "relatedPermitID": "DDP01034",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1745481600,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to address changes since the last approved DPV00257.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
+          "relatedPermitID": "DDP01021",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1741852800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application for Phase 2 - replacing the existing 141 rental homes in three separate building with approximately 325 new rental units in four separate buildings.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
+          "relatedPermitID": "REZ00843",
+          "relatedPermitType": "Rezoning Application",
+          "relatedPermitApplicationDate": 1677744000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is considering a Rezoning application to redevelop the site in two phases:\n\nPhase 1 - 133 Gorge Road building and surface parking lot, replacing the existing 59 rental homes with 174 new rental units, as well as 3 Commercial units for shops and services.  \n \nPhase 2  - 135 Gorge Road building and surface parking lot, replacing the existing 141 rental homes with approximately 310 new units.\n\nApproved by Council October 17, 2024"
+        },
+        {
+          "relatedPermitID": "DPV00257",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1677744000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "SEE REZ00843 FOR PROJECT INFORMATION\n\nThe City is considering a Development Permit application for phase 1 development.\n\nApproved by Council October 17, 2024"
+        },
+        {
+          "relatedPermitID": "DP000627",
+          "relatedPermitType": "DEVELOPMENT PERMITS",
+          "relatedPermitApplicationDate": 1677744000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "SEE REZ00843 FOR PROJECT INFORMATION\n\nThe City is considering a Development Permit application for phase 1 development."
+        },
+        {
+          "relatedPermitID": "CLC00398",
+          "relatedPermitType": "Pre-Application (CALUC)",
+          "relatedPermitApplicationDate": 1667376000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf an application has been submitted, it will be listed below under “Related Permits and Applications”."
+        }
+      ]
+    },
+    {
       "primaryStreetName": "450 DALLAS RD",
       "applicant": "N/A",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
@@ -345739,6 +346356,61 @@
           "relatedPermitApplicationDate": 1624435200,
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "During the COVID-19 pandemic, development application plans will be posted here as a substitute for the Community Association Land Use Committee (CALUC) Community Meeting.\n\nLooking for details?\n\nView the plans under Documents below\nContact the applicant noted above\nContact the appropriate CALUC\nContact City staff for information on the Rezoning process\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf a Rezoning application has been submitted, it will be listed below under “Related Permits and Applications”."
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "610 HERALD ST",
+      "applicant": "N/A",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01188",
+      "applicationDate": 1793689200,
+      "addresses": [
+        "610 HERALD ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application for revisions by adding an enclosure on Level 5 to access a common roof amenity deck, adding common area accordingly, and adding brick cladding to the prominent corner to improve the architectural quality and material durability.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1793689200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-11-03 - Plans_Submission_Architectural.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=C962AE30-52A6-4030-B036-D442B55B3970&folderId=wGT94iF15UevXwCJiTn/Xg"
+        },
+        {
+          "docName": "2026-11-03 - Plans_Submission_Architectural_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=D1216FEA-D71A-4FB0-8F66-8054E1E272E2&folderId=wGT94iF15UevXwCJiTn/Xg"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1793689200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01096",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1764576000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to construct a rental residential building with ground floor commercial. This application is specifically to address the change in construction phasing. Phased occupancy is primarily due to construction scheduling\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        },
+        {
+          "relatedPermitID": "DPV00156",
+          "relatedPermitType": "Development Permit with Variance",
+          "relatedPermitApplicationDate": 1601020800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "APPROVED BY COUNCIL SEPTEMBER 9, 2021.\n\nThe City is considering a Development Permit with Variance application for a rental residential building with ground floor commercial."
         }
       ]
     },
