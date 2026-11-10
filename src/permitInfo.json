@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1794221540,
+  "dateRetrieved": 1794307959,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -5828,25 +5828,13 @@
         {
           "taskDescription": "",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1783926000,
+          "endDate": 1783926000
         },
         {
           "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
+          "startDate": 1797231600,
           "endDate": null
         },
         {
@@ -5858,7 +5846,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1775646001,
+      "lastUpdated": 1794307961,
       "relatedPermits": []
     },
     {
@@ -6474,32 +6462,20 @@
       "progressSections": [
         {
           "taskDescription": "",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1783926000,
+          "endDate": 1783926000
+        },
+        {
+          "taskDescription": "",
           "taskType": "UNDER REVIEW BY DISTRICT",
           "startDate": 1769497200,
           "endDate": null
         },
         {
           "taskDescription": "",
-          "taskType": "COUNCIL MEETING",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Applicable with variance",
-          "taskType": "REFERRAL TO APC",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
-          "taskType": "PUBLIC INPUT ON VARIANCE(S)",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "",
           "taskType": "PERMIT AUTHORIZED FOR ISSUANCE BY COUNCIL",
-          "startDate": null,
+          "startDate": 1797231600,
           "endDate": null
         },
         {
@@ -6511,7 +6487,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1776250649,
+      "lastUpdated": 1794307961,
       "relatedPermits": []
     },
     {
@@ -6765,16 +6741,16 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=59495C260617100030690214&folderId=59124C260602104457724435"
         },
         {
-          "docName": "3083 Island View Rd_Landscape Design WEB_May 25, 2026.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=59495C260617100030711754&folderId=59124C260602104457724435"
-        },
-        {
           "docName": "3083 Island View Rd_Letter of rationale WEB_May 25, 2026.pdf",
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=59495C260617100030726930&folderId=59124C260602104457724435"
+        },
+        {
+          "docName": "3083 Island View_Landscape WEB UPDATED_November 6, 2026.jpg",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=8A998AD3-FEE6-4C13-A49B-908B7DAFCCDF&folderId=59124C260602104457724435"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1784804009,
+      "lastUpdated": 1794307961,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001992",
@@ -14300,7 +14276,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
         {
           "relatedPermitID": "BP021516",
@@ -14308,10 +14284,6 @@
         },
         {
           "relatedPermitID": "BP021517",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -14324,6 +14296,10 @@
         },
         {
           "relatedPermitID": "BP021515",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -14347,7 +14323,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
         {
           "relatedPermitID": "BP021514",
@@ -14362,15 +14338,15 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "BP021513",
-          "relatedPermitType": "Development Permit"
-        },
-        {
           "relatedPermitID": "BP021518",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021519",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -14394,7 +14370,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
         {
           "relatedPermitID": "BP021514",
@@ -14402,10 +14378,6 @@
         },
         {
           "relatedPermitID": "BP021517",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -14418,6 +14390,10 @@
         },
         {
           "relatedPermitID": "BP021515",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -14441,7 +14417,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
         {
           "relatedPermitID": "BP021514",
@@ -14449,10 +14425,6 @@
         },
         {
           "relatedPermitID": "BP021516",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         },
         {
@@ -14465,6 +14437,10 @@
         },
         {
           "relatedPermitID": "BP021515",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -14488,7 +14464,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
         {
           "relatedPermitID": "BP021514",
@@ -14503,15 +14479,15 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "BP021513",
-          "relatedPermitType": "Development Permit"
-        },
-        {
           "relatedPermitID": "BP021519",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021515",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -14535,7 +14511,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
         {
           "relatedPermitID": "BP021514",
@@ -14550,15 +14526,15 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "BP021513",
-          "relatedPermitType": "Development Permit"
-        },
-        {
           "relatedPermitID": "BP021518",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021515",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021513",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16200,12 +16176,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794221794,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021865",
           "relatedPermitType": "Development Permit"
@@ -16220,6 +16192,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16243,12 +16219,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794221794,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16263,6 +16235,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16286,12 +16262,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794221794,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16306,6 +16278,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16329,12 +16305,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794221794,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16349,6 +16321,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16372,12 +16348,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794221794,
+      "lastUpdated": 1794308220,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16392,6 +16364,10 @@
         },
         {
           "relatedPermitID": "BP021867",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16464,14 +16440,21 @@
       "addresses": [
         "6425 KNIGHT DR"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "To construct a SFD with suite",
-      "progressSections": [],
+      "progressSections": [
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1794182400,
+          "endDate": 1794182400
+        }
+      ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779102051,
+      "lastUpdated": 1794308220,
       "relatedPermits": [],
       "latitude": 49.119855,
       "longitude": -122.903627
@@ -115917,14 +115900,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": 1794985200,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
           "endDate": null
         },
@@ -115990,7 +115973,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1792061493,
+      "lastUpdated": 1794307961,
       "relatedPermits": []
     },
     {
@@ -116121,7 +116104,7 @@
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
-          "startDate": 1793689200,
+          "startDate": 1794985200,
           "endDate": null
         },
         {
@@ -116172,7 +116155,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1793875976,
+      "lastUpdated": 1794307961,
       "relatedPermits": []
     },
     {
@@ -116559,7 +116542,7 @@
       "addresses": [
         "5660 Cantrell Road Jian Gong (778)999-0817"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Single Family/Suite\nWork Proposed: New\nConstruction Value: $546,890.00 1 $546,890.00",
       "progressSections": [
         {
@@ -123825,7 +123808,7 @@
       "addresses": [
         "5540 Hollybridge Way Jane Allison (604)484-8285"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Recreational\nWork Proposed: Alteration\nConstruction Value: $3,030,021.00 1 $3,030,021.00",
       "progressSections": [
         {
@@ -124064,7 +124047,7 @@
       "addresses": [
         "11751 No 3 Road"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Retaining Walls (over 1.2m in Height)\nWork Proposed: New\nConstruction Value: $20,000.00 1 $20,000.00\nDescription: FENCE Dore Design & Development (Brad Dore) (604)782-8240",
       "progressSections": [
         {
@@ -125914,6 +125897,34 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "23220 Willett Avenue",
+      "applicant": "Eddie Tang (604)763-1573",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-017220-000-00-D7",
+      "applicationDate": 1793952000,
+      "addresses": [
+        "23220 Willett Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: TX Contracting Ltd (604)763-1573",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1793952000,
+          "endDate": 1793952000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1794308217,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "8115 Lucerne Pl -Detached Shed",
       "applicant": "Luis D Cabido (604)828-5226",
       "cityApplicationType": "Demolition",
@@ -126134,6 +126145,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1792061807,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "2711 Smith Street",
+      "applicant": "Zhao Yi (Joey) Li (778)866-3666",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-023791-000-00-D7",
+      "applicationDate": 1793865600,
+      "addresses": [
+        "2711 Smith Street"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Apollo Excavating & Civil Works Ltd (604)370-0577",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1793865600,
+          "endDate": 1793865600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1794308217,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -144387,21 +144426,9 @@
           "endDate": 1793948400
         },
         {
-          "taskDescription": "File Manager re-review of application for completeness",
-          "taskType": "FILE MANAGER REV INTAKE",
-          "startDate": 1793862000,
-          "endDate": null
-        },
-        {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1793948400,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "REFERRALS",
-          "startDate": null,
           "endDate": null
         }
       ],
@@ -144424,7 +144451,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1794048731,
+      "lastUpdated": 1794307961,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -147047,6 +147074,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1793084400,
+          "endDate": 1794207600
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1794207600,
+          "endDate": 1794207600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1794207600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -147061,7 +147106,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793184767,
+      "lastUpdated": 1794307961,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00892",
@@ -151527,8 +151572,15 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793271142,
+      "lastUpdated": 1794307961,
       "relatedPermits": [
+        {
+          "relatedPermitID": "CBP00200",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1793865600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLISH EXISTING SINGLE FAMILY DWELLING FOR FUTURE SIX STORY 70 UNIT APARTMENT BUILDING"
+        },
         {
           "relatedPermitID": "DPR01078",
           "relatedPermitType": "DEVELOPMENT PERMIT",
@@ -196352,7 +196404,7 @@
         "97 E 44TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - Building Permit for DP-2024-00941 To develop a Multiple Dwelling “Multiplex” with a 2 storey 1-unit REAR building ($326,000.00), with 2 parking spaces having access from the lane.\r\n\r\n1.\\tNo external mechanical unit proposed\r\n2.\\tEntire building to be sprinklered 13D\r\n3.\\tExternal mechanical unit – Exterior component located in the rear yard, Interior component located on the first floor\r\n4.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Architectural (1.5)\r\n5.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n6.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n7.\\tHPO: Residential Builder- (HL Design and Construction LTD)\r\n\r\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\r\n\r\nAddress Information:\r\n\r\n5990 Quebec St=Primary Address\r\n\r\nBuilding 2 (Rear) (east)\r\n5992 Quebec St - One Dwelling Unit (1st-2nd floors)\r\n\r\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \r\n\r\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $326,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nContractor: HL Design and Construction Ltd",
+      "purpose": "Low Density Housing - New Building - Building Permit for DP-2024-00941 To develop a Multiple Dwelling “Multiplex” with a 2 storey 1-unit REAR building ($326,000.00), with 2 parking spaces having access from the lane.\r\n\r\n1.\\tNo external mechanical unit proposed\r\n2.\\tEntire building to be sprinklered 13D\r\n3.\\tExternal mechanical unit – Exterior component located in the rear yard, Interior component located on the first floor\r\n4.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Architectural (1.5)\r\n5.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n6.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n7.\\tHPO: Residential Builder- (HL Design and Construction LTD)\r\n\r\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\r\n\r\nAddress Information:\r\n\r\n5990 Quebec St=Primary Address\r\n\r\nBuilding 2 (Rear) (east)\r\n5992 Quebec St - One Dwelling Unit (1st-2nd floors)\r\n\r\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \r\n\r\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $326,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Sunset\nContractor: HL Design and Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -196371,9 +196423,11 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1794221815,
+      "lastUpdated": 1794308242,
       "relatedPermits": [],
       "projectValue": 326000,
+      "latitude": 49.230362,
+      "longitude": -123.103742,
       "approvalStatus": "Approved",
       "storeys": 2
     },
@@ -344501,6 +344555,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -344523,10 +344583,22 @@
         {
           "docName": "2026-09-24 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=085D7A6F-6350-4C06-B29A-DA1A8C99580E&folderId=59358C260514105051371975"
+        },
+        {
+          "docName": "2026-11-09 - Plans Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=974112CD-F1D6-4441-B7CC-DC316B600C36&folderId=59358C260514105051371975"
+        },
+        {
+          "docName": "2026-11-09 - Plans Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=2F6377F5-16B6-448F-B622-F5490FE9A3BD&folderId=59358C260514105051371975"
+        },
+        {
+          "docName": "2026-11-09 - Revision List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=89D4B299-BB12-4F95-817E-36CFE67BFB8B&folderId=59358C260514105051371975"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1794307961,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00263",
@@ -347004,12 +347076,12 @@
       ],
       "documents": [
         {
-          "docName": "NEW DDP PLANS",
+          "docName": "2026-11-05 - Plans - Submission.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=F0E74A05-653D-42CD-8B33-CA361379F75F&folderId=BTXXu99Hvky+JamtvF8H4Q"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1793862000,
+      "lastUpdated": 1794307961,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -412927,6 +412999,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -412975,10 +413053,22 @@
         {
           "docName": "2026-09-03 - Plans_Revisions_Bubbled.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5F06BE17-FEB3-4B6F-9B98-165A18E5D4B0&folderId=55746C250617105131749247"
+        },
+        {
+          "docName": "2026-11-09 - Plans_Revisions_Bubbled_1of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16387C261109132619704840&folderId=55746C250617105131749247"
+        },
+        {
+          "docName": "2026-11-09 - Plans_Revisions_Bubbled_2of2",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16387C261109132619770902&folderId=55746C250617105131749247"
+        },
+        {
+          "docName": "2026-11-09 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=570FD07D-D6BA-4D82-92E4-F22FFBAFC1A0&folderId=55746C250617105131749247"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1790333537,
+      "lastUpdated": 1794307961,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00303",
@@ -414569,12 +414659,6 @@
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -414619,10 +414703,22 @@
         {
           "docName": "2026-05-26 - Plans_Revisions_Bubbled_2of2 (Landscape Plans)",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=A01627B6-A5E0-48AC-9988-F1F6B174C644&folderId=16346C251231152823520005"
+        },
+        {
+          "docName": "2026-11-09 - Plans_Revisions_Bubbled_For DT_ 1of3.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16292C261109103121404386&folderId=16346C251231152823520005"
+        },
+        {
+          "docName": "2026-11-09 - Plans_Revisions_Bubbled_For DT_ 2of3.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16292C261109103121448749&folderId=16346C251231152823520005"
+        },
+        {
+          "docName": "2026-11-09 - Plans_Revisions_Bubbled_For DT_ 3of3.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16292C261109103121466579&folderId=16346C251231152823520005"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1792752716,
+      "lastUpdated": 1794307961,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00307",
@@ -417127,8 +417223,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportoct25-31202679965.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportoct25-31202679966.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportnov1-7202680000.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportnov1-7202680001.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
