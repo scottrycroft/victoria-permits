@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1794480744,
+  "dateRetrieved": 1794567131,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4856,7 +4856,7 @@
         "7185 WEST SAANICH RD"
       ],
       "status": "ACTIVE",
-      "purpose": "Proposal for a 126 unit seniors living, mix-use (residential/commercial) project",
+      "purpose": "Proposal for a mixed-use development featuring a 126-unit seniors assisted living facility, with ground floor commercial units.",
       "progressSections": [
         {
           "taskDescription": "",
@@ -4906,7 +4906,7 @@
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1787655192,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001709",
@@ -4922,7 +4922,8 @@
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "Please see application PL001704"
         }
-      ]
+      ],
+      "major": true
     },
     {
       "primaryStreetName": "7185 WEST SAANICH RD",
@@ -4988,7 +4989,7 @@
       ],
       "documents": [],
       "city": "Central Saanich",
-      "lastUpdated": 1787655192,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "PL001709",
@@ -5002,7 +5003,7 @@
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1735027200,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "Proposal for a 126 unit seniors living, mix-use (residential/commercial) project"
+          "relatedPermitDescription": "Proposal for a mixed-use development featuring a 126-unit seniors assisted living facility, with ground floor commercial units."
         }
       ]
     },
@@ -22637,6 +22638,28 @@
       "relatedPermits": [],
       "latitude": 49.156509,
       "longitude": -122.896442
+    },
+    {
+      "primaryStreetName": "10906 80 AVE",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023485",
+      "applicationDate": 1794567405,
+      "addresses": [
+        "10906 80 AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - Deck extension",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1794567405,
+      "relatedPermits": [],
+      "latitude": 49.148203,
+      "longitude": -122.920945
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -116639,14 +116662,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
+          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
+          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "startDate": 1794985200,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
-          "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
           "startDate": null,
           "endDate": null
         },
@@ -116698,7 +116721,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1793357535,
+      "lastUpdated": 1794567134,
       "relatedPermits": []
     },
     {
@@ -148284,18 +148307,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1793862000,
-          "endDate": null
+          "endDate": 1794466800
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "startDate": 1794466800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793962350,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00665",
@@ -148642,18 +148665,18 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1793775600,
-          "endDate": null
+          "endDate": 1794466800
         },
         {
-          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
-          "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1794466800,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793775600,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP23125",
@@ -154320,11 +154343,17 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1790665200,
           "endDate": 1790665200
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1795417200,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1791024725,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26026",
@@ -155341,10 +155370,6 @@
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/SS-RZ-2017.3%20-%202188%20North%20End%20Road%20(J.%20Colligan)/1.%20Staff%20Reports/2022-07-12_Staff%20Report.pdf"
         },
         {
-          "docName": "SS-BL-521_1st Reading.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/SS-RZ-2017.3%20-%202188%20North%20End%20Road%20(J.%20Colligan)/2.%20Proposed%20Bylaw/SS-BL-521_1st%20Reading.pdf"
-        },
-        {
           "docName": "2019-01-25_R. Kelln and J. Colligan_COR-R.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/SS-RZ-2017.3%20-%202188%20North%20End%20Road%20(J.%20Colligan)/3.%20Public%20Correspondence/2019-01-25_R.%20Kelln%20and%20J.%20Colligan_COR-R.pdf"
         },
@@ -155424,7 +155449,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1775741968,
+      "lastUpdated": 1794567371,
       "relatedPermits": []
     },
     {
@@ -159271,7 +159296,7 @@
     },
     {
       "primaryStreetName": "688 W 57TH AVENUE",
-      "applicant": "John Lim",
+      "applicant": "John Wesley Lim",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2018-04675",
@@ -159311,7 +159336,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1794481030,
+      "lastUpdated": 1794567428,
       "relatedPermits": [],
       "projectValue": 72812880,
       "latitude": 49.219063,
@@ -162964,7 +162989,7 @@
         "6189 GRANVILLE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Community Care Facility - Class B noncombustible building consists of\r\n1st storey - independent living units,\r\n2nd and 3rd storeys - memory care units,\r\n3rd and 4th storeys - assisted living units,\r\n5th and 6th storeys - independent living units, \r\n7th storey - amenity space and exterior occupied roof deck,\r\nAll over on level of underground parking with vehicle access from lane.  \r\n\r\nShared amenity spaces will be located on Levels P1 through 4th storey.\r\nOccupants in the independent living and assisted living units are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\r\n\r\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on September 7, 2023.  \r\nBuilding to be sprinklered to NFPA 13 requirements.  The building is designed with High Building measures.\r\nRadio Antenna System to be installed in this building.\r\nThe building will be equipped with 2-stage Fire Alarm System.\r\n\r\nSTAGED CONSTRUCTION\r\nStage 1 - Excavation and Shoring - issued April 22, 2024\r\nStage 2 - Foundation to Grade - issued July 18, 2024\r\nStage 3 - Full permit less the spaces outlined in the letters by RPR responsible for A/M/E/ disciplines and mechanical review -  issued Dec 06, 2024\r\nStage 4 - Full Permit to include excluded scope from Stage 3 -issued 24-Apr-2025 \r\n              Some additional changes to A/M/E disciplines as outlined in Change letters by professionals. \r\n\r\nREVISION 1: Changes in excavation load out area and associated shoring re-design.  \r\nISSUED: August 13, 2024 [Reza.H]\nProject Value: $100,982,732.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Community Care Facility - Class B, Parking Garage\nNeighbourhood: Kerrisdale\nContractor: MARCON PROJECT (657) LTD.",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (Z/D 6-storey) Community Care Facility - Class B noncombustible building consists of\n1st storey - independent living units,\n2nd and 3rd storeys - memory care units,\n3rd and 4th storeys - assisted living units,\n5th and 6th storeys - independent living units, \n7th storey - amenity space and exterior occupied roof deck,\nAll over on level of underground parking with vehicle access from lane.  \n\nShared amenity spaces will be located on Levels P1 through 4th storey.\nOccupants in the independent living and assisted living units are free to move around in their respective floor areas and to leave the area/exit the building with no restrictions.  Memory care occupants will be in an impeded egress zone and will require the release, by security personnel, of doors to the exit stairs and security doors before they are able to leave the area.\n\nThis permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on September 7, 2023.  \nBuilding to be sprinklered to NFPA 13 requirements.  The building is designed with High Building measures.\nRadio Antenna System to be installed in this building.\nThe building will be equipped with 2-stage Fire Alarm System.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation and Shoring - issued April 22, 2024\nStage 2 - Foundation to Grade - issued July 18, 2024\nStage 3 - Full permit less the spaces outlined in the letters by RPR responsible for A/M/E/ disciplines and mechanical review -  issued Dec 06, 2024\nStage 4 - Full Permit to include excluded scope from Stage 3 -issued 24-Apr-2025 \n              Some additional changes to A/M/E disciplines as outlined in Change letters by professionals. \n\nREVISION 1: Changes in excavation load out area and associated shoring re-design.  \nISSUED: August 13, 2024 [Reza.H]\n\nRevision#2 - \nTo include CCFL review\nProject Value: $100,982,732.00\nProperty Use: Institutional Uses, Parking Uses\nSpecific Use: Community Care Facility - Class B, Parking Garage\nNeighbourhood: Kerrisdale\nContractor: MARCON PROJECT (657) LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -163007,7 +163032,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789642630,
+      "lastUpdated": 1794567428,
       "relatedPermits": [],
       "projectValue": 100982732,
       "latitude": 49.229662,
@@ -188124,7 +188149,7 @@
         "3529 ARBUTUS STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development: \n\nTo construct two residential buildings (total of 108 secured market rental units) all over one level of basement storage garage with vehicular access from the lane.\n\nBuilding 1: 6 storey apartment building with rooftop indoor amenity (North).  Refer to BP-2025-00909. \nBuilding 2: 5 storey apartment building (South).  Refer to BP-2025-00910.\n\nThis is a CP Process Permit and the applicant is Ed Chow, M.Eng., P.Eng., CP.\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on January 1, 2025.\n2. Radio Antenna System is required.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Foundation to Grade (Issued February 9, 2026)\n\nRevision 1 - Changes to excavation, shoring, and basement parkade level to accommodate redesign of above grade levels for both buildings (Under Review)\n\nStage 2 - Full Construction (Under Review)\nProject Value: $31,172,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Arbutus Ridge\nContractor: ETRO CONSTRUCTION LIMITED",
+      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development: \n\nTo construct two residential buildings (total of 108 secured market rental units) all over one level of basement storage garage with vehicular access from the lane.\n\nBuilding 1: 6 storey apartment building with rooftop indoor amenity (North).  Refer to BP-2025-00909. \nBuilding 2: 5 storey apartment building (South).  Refer to BP-2025-00910.\n\nThis is a CP Process Permit and the applicant is Ed Chow, M.Eng., P.Eng., CP.\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on January 1, 2025.\n2. Radio Antenna System is required.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Foundation to Grade (Issued February 9, 2026)\n\nRevision 1 - Changes to excavation, shoring, and basement parkade level to accommodate redesign of above grade levels for both buildings per DP-2026-00804 (Under Review)\n\nStage 2 - Full Construction (Under Review)\nProject Value: $31,172,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Arbutus Ridge\nContractor: ETRO CONSTRUCTION LIMITED",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -188149,7 +188174,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1790506544,
+      "lastUpdated": 1794567428,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-00909",
@@ -200109,7 +200134,7 @@
         "4386 W 2ND AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two storey 3-unit front building, and a two storey 2-unit rear building with attached garage for 2 surface parking spaces having access from the lane.\n\n1. BP-2025-01723  - Building 1 (Front Building)\n2. BP-2025-01724  - Building 2 (Rear Building)\n\nThis permit is for Building 1\nBRB Notes:\n1. Reviewed under 2019 VBBL\n2. Sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nIf archaeological materials are found, at any stage of ground disturbance, all work on the property must stop immediately and the Provincial Archaeological Branch, City of Vancouver and local First Nations, must be notified. All those working on site must be aware of and comply to the Archaeological Chance Find Procedure for Lehman Building Project attached to this permit.\n\nREV #1 (PENDING) - JI\nProject Value: $1,725,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West Point Grey\nContractor: Daryl P Martini",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a Multiple Dwelling \"Multiplex\" with a two storey 3-unit front building, and a two storey 2-unit rear building with attached garage for 2 surface parking spaces having access from the lane.\n\n1. BP-2025-01723  - Building 1 (Front Building)\n2. BP-2025-01724  - Building 2 (Rear Building)\n\nThis permit is for Building 1\nBRB Notes:\n1. Reviewed under 2019 VBBL\n2. Sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU\n\nIf archaeological materials are found, at any stage of ground disturbance, all work on the property must stop immediately and the Provincial Archaeological Branch, City of Vancouver and local First Nations, must be notified. All those working on site must be aware of and comply to the Archaeological Chance Find Procedure for Lehman Building Project attached to this permit.\n\nREV #1 (PENDING) - JI\n• Add concrete Hydro meter base and service mast in front yard\n• Indicate heat pump locations in courtyard\n• Remove electrical room under Unit 1 porch stairs\n• Units 1 & 2: Change mech room & ensuite doors from pocket to swing\n• Units 1 & 2: Relocate HRV from mech room to Bed 1\n• Unit 2: Revise Bed 1 closet door type\n• Unit 3: Revise west dining room window size\n• Change cladding from horizontal Hardie siding to Hardie shingles\n• Add sheet steel & fire-retardant plywood above N/C framing at eaves\nProject Value: $1,725,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West Point Grey\nContractor: Daryl P Martini",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -200128,7 +200153,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1792061839,
+      "lastUpdated": 1794567428,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-01724",
@@ -220215,6 +220240,49 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "2395 HARRISON DRIVE",
+      "applicant": "Matthew Cheng DBA: Matthew Cheng Architect Inc.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04920",
+      "applicationDate": 1764144000,
+      "addresses": [
+        "2395 HARRISON DRIVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a three storey 6-unit Multiple Dwelling \"Multiplex\" with 5 surface parking spaces at the rear having access from the lane.\n\nBRB Notes:\n1. Reviewed under 2025 VBBL\n2. Part 5 Design required\n3. Sprinklered to Modified NFPA 13R\nProject Value: $2,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Victoria-Fraserview\nContractor: MEHSEM HOLDING LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1764144000,
+          "endDate": 1764144000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1764144000,
+          "endDate": 1764144000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1764144000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DB-2026-00777",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 2500000,
+      "latitude": 49.209385,
+      "longitude": -123.057557,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
       "primaryStreetName": "2822 W 4TH AVENUE",
       "applicant": "Jeremy  Bergmann",
       "cityApplicationType": "Demolition / Deconstruction",
@@ -225306,6 +225374,44 @@
       "longitude": -123.181236,
       "minor": true,
       "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "7187 FLEMING STREET",
+      "applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00648",
+      "applicationDate": 1772092800,
+      "addresses": [
+        "7187 FLEMING STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a three-storey 4-unit Multiple Dwelling \"Multiplex\" with 4 surface parking spaces having access from the lane. \n\nNotes:\n1. Schedules Submitted: A/B (Bldg Env)/D, B(Struct), B(Geo)\n2. This building will be sprinklered to NFPA 13D\n\nThis permit issued pursuant to VBBL #14343 (2025)\nProject Value: $1,499,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Victoria-Fraserview\nContractor: SHAHNAZ HOMES & BUILDERS LTD.",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1772092800,
+          "endDate": 1772092800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1772092800,
+          "endDate": 1772092800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1772092800,
+      "relatedPermits": [],
+      "projectValue": 1499000,
+      "latitude": 49.219013,
+      "longitude": -123.074364,
+      "approvalStatus": "Approved",
+      "storeys": 3
     },
     {
       "primaryStreetName": "1845 W 13TH AVENUE",
@@ -292501,8 +292607,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1773043200,
-      "relatedPermits": [],
+      "lastUpdated": 1794567428,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04920",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 40000,
       "latitude": 49.209385,
       "longitude": -123.057557,
@@ -315064,10 +315175,107 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1794395316,
-      "relatedPermits": [],
+      "lastUpdated": 1794568109,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ624_76e",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
       "latitude": 49.260184,
       "longitude": -123.134271
+    },
+    {
+      "primaryStreetName": "1305-1325 W 13th Ave",
+      "applicant": "UNKNOWN",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ624_76e",
+      "applicationDate": 1776153600,
+      "addresses": [
+        "1305-1325 W 13th Ave",
+        "Shape Your City"
+      ],
+      "status": "ACTIVE",
+      "purpose": "\nCategory: Market Rental Housing included\nStatus: Approved\nApproved April 14, 2026",
+      "progressSections": [
+        {
+          "taskDescription": "Approved",
+          "taskType": "Approved",
+          "startDate": 1776153600,
+          "endDate": 1776153600
+        }
+      ],
+      "documents": [
+        {
+          "docName": "View the application",
+          "docURL": "https://www.shapeyourcity.ca/1305-1325-w-13-ave"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://hdp-ca-prod-app-cov-shapeyourcity-files.s3.ca-central-1.amazonaws.com/7517/8764/2411/3e8f9acda90ab3ef98f31953e7592b73_Render.jpeg"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver-Rezoning",
+      "lastUpdated": 1776153600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ624_54c",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
+      "latitude": 49.260184,
+      "longitude": -123.134271,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "1305-1325 W 13th Ave",
+      "applicant": "UNKNOWN",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ624_b5d",
+      "applicationDate": 1776153600,
+      "addresses": [
+        "1305-1325 W 13th Ave",
+        "Shape Your City"
+      ],
+      "status": "ACTIVE",
+      "purpose": "\nCategory: Non-market housing included (Social, supportive, or co-op)\nStatus: Approved\nApproved April 14, 2026",
+      "progressSections": [
+        {
+          "taskDescription": "Approved",
+          "taskType": "Approved",
+          "startDate": 1776153600,
+          "endDate": 1776153600
+        }
+      ],
+      "documents": [
+        {
+          "docName": "View the application",
+          "docURL": "https://www.shapeyourcity.ca/1305-1325-w-13-ave"
+        }
+      ],
+      "images": [
+        {
+          "imgURL": "https://hdp-ca-prod-app-cov-shapeyourcity-files.s3.ca-central-1.amazonaws.com/7517/8764/2411/3e8f9acda90ab3ef98f31953e7592b73_Render.jpeg"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver-Rezoning",
+      "lastUpdated": 1776153600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ624_ce4",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
+      "latitude": 49.260181,
+      "longitude": -123.134268,
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "1305-1325 W 13th Ave",
@@ -315097,8 +315305,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver-Rezoning",
-      "lastUpdated": 1794395316,
-      "relatedPermits": [],
+      "lastUpdated": 1794568109,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "RZ624_b5d",
+          "relatedPermitType": "Rezoning"
+        }
+      ],
       "latitude": 49.260181,
       "longitude": -123.134268
     },
@@ -336113,7 +336326,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1790924400,
-          "endDate": null
+          "endDate": 1792738800
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -336141,7 +336354,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1791283933,
+      "lastUpdated": 1794567134,
       "relatedPermits": []
     },
     {
@@ -398273,20 +398486,20 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
-          "endDate": null
-        },
-        {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
+          "startDate": 1794294000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -398370,7 +398583,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1794394340,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00489",
@@ -403443,6 +403656,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
           "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
@@ -403489,10 +403708,26 @@
         {
           "docName": "2026-04-23 - Transmittal.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=52776C260424114332393526&folderId=42609C250509102706672636"
+        },
+        {
+          "docName": "2026-11-12 - Letter to Mayor and Council.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=17427C261112144309842620&folderId=42609C250509102706672636"
+        },
+        {
+          "docName": "2026-11-12 - Plan Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5D6BE680-0029-4079-93BB-EB8438CD8B96&folderId=42609C250509102706672636"
+        },
+        {
+          "docName": "2026-11-12 - Plan Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7F2279E3-6EB6-452B-B993-9DA3E6E9A165&folderId=42609C250509102706672636"
+        },
+        {
+          "docName": "2026-11-12 - Resubmission Transmittal.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=0C0DB9ED-27F8-493F-9B12-04E5D198238B&folderId=42609C250509102706672636"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1794394340,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00487",
@@ -404782,10 +405017,14 @@
         {
           "docName": "2026-09-24 - Revisions List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=204B4164-0A83-4E17-99FA-ED12737C2F04&folderId=70294C250730143709242714"
+        },
+        {
+          "docName": "26-081.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=17501C261112144733131538&folderId=70294C250730143709242714"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1790333537,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000657",
@@ -405219,14 +405458,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
-          "taskType": "With Applicant",
-          "startDate": null,
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": 1794294000,
           "endDate": null
         },
         {
-          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
-          "taskType": "Staff Review of Revised Plans",
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant",
+          "taskType": "With Applicant",
           "startDate": null,
           "endDate": null
         },
@@ -405286,7 +405525,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1794394340,
+      "lastUpdated": 1794567134,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP00299",
