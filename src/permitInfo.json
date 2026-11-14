@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1794567131,
+  "dateRetrieved": 1794653536,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22660,6 +22660,28 @@
       "relatedPermits": [],
       "latitude": 49.148203,
       "longitude": -122.920945
+    },
+    {
+      "primaryStreetName": "7695 115A ST",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023496",
+      "applicationDate": 1794653817,
+      "addresses": [
+        "7695 115A ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1794653817,
+      "relatedPermits": [],
+      "latitude": 49.143006,
+      "longitude": -122.903143
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -116545,18 +116567,18 @@
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
           "startDate": 1791874800,
-          "endDate": null
+          "endDate": 1793862000
+        },
+        {
+          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
+          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
+          "startDate": 1794207600,
+          "endDate": 1794207600
         },
         {
           "taskDescription": "Meeting date of the Advisory Planning Commission to review the application.",
           "taskType": "*ADVISORY PLANNING COMMISSION MEETING",
           "startDate": 1794985200,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Final application analysis has been completed by staff and the application is ready to proceed.",
-          "taskType": "*FINAL STAFF REVIEW OF APPLICATION",
-          "startDate": null,
           "endDate": null
         },
         {
@@ -116633,7 +116655,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1794394340,
+      "lastUpdated": 1794653538,
       "relatedPermits": []
     },
     {
@@ -128352,6 +128374,12 @@
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1788159600,
           "endDate": 1788159600
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -128369,7 +128397,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1788260033,
+      "lastUpdated": 1794653538,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26597",
@@ -142101,6 +142129,12 @@
           "endDate": 1793689200
         },
         {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1796626800,
+          "endDate": null
+        },
+        {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": null,
@@ -142109,12 +142143,6 @@
         {
           "taskDescription": "Review of referrals by File Manager",
           "taskType": "REFERRALS REVIEW",
-          "startDate": null,
-          "endDate": null
-        },
-        {
-          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
-          "taskType": "COUNCIL MEETING",
           "startDate": null,
           "endDate": null
         }
@@ -142134,7 +142162,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793789693,
+      "lastUpdated": 1794653538,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00800",
@@ -143703,6 +143731,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1792566000,
           "endDate": 1793170800
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1796626800,
+          "endDate": null
         }
       ],
       "documents": [
@@ -143724,7 +143758,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793271142,
+      "lastUpdated": 1794653538,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01119",
@@ -145035,7 +145069,7 @@
         "1514 CEDAR HILL CROSS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
+      "purpose": "TO REZONE TO C-16 (Neighbourhood Mixed Use) Zone to ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -145117,7 +145151,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1794307961,
+      "lastUpdated": 1794653538,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -145195,6 +145229,24 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1791183600,
+          "endDate": 1794553200
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1794553200,
+          "endDate": 1794553200
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1794553200,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
@@ -145205,7 +145257,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1791283933,
+      "lastUpdated": 1794653538,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00184",
@@ -154441,14 +154493,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1789469588,
+      "lastUpdated": 1794653538,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01128",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1783584000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE TO ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
+          "relatedPermitDescription": "TO REZONE TO C-16 (Neighbourhood Mixed Use) Zone to ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
         }
       ],
       "major": true,
@@ -155370,6 +155422,10 @@
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/SS-RZ-2017.3%20-%202188%20North%20End%20Road%20(J.%20Colligan)/1.%20Staff%20Reports/2022-07-12_Staff%20Report.pdf"
         },
         {
+          "docName": "SS-BL-521_1st Reading.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/SS-RZ-2017.3%20-%202188%20North%20End%20Road%20(J.%20Colligan)/2.%20Proposed%20Bylaw/SS-BL-521_1st%20Reading.pdf"
+        },
+        {
           "docName": "2019-01-25_R. Kelln and J. Colligan_COR-R.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/SS-RZ-2017.3%20-%202188%20North%20End%20Road%20(J.%20Colligan)/3.%20Public%20Correspondence/2019-01-25_R.%20Kelln%20and%20J.%20Colligan_COR-R.pdf"
         },
@@ -155449,7 +155505,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1794567371,
+      "lastUpdated": 1794653789,
       "relatedPermits": []
     },
     {
@@ -158278,10 +158334,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1793617052,
+      "lastUpdated": 1794653816,
       "relatedPermits": [],
-      "latitude": 48.38091,
-      "longitude": -123.751516
+      "latitude": 48.381425,
+      "longitude": -123.751918
     },
     {
       "primaryStreetName": "7059 BRIARWOOD PL",
@@ -158529,7 +158585,7 @@
       "purpose": "Zoning Amendment to create split zoned property, R3, RM1, and C1.",
       "progressSections": [
         {
-          "taskDescription": "Application Received — IN-PROGRESS",
+          "taskDescription": "Application Received — ON HOLD",
           "taskType": "",
           "startDate": 1728432000,
           "endDate": 1728432000
@@ -158539,7 +158595,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1775905266,
+      "lastUpdated": 1794653816,
       "relatedPermits": [],
       "latitude": 48.388615,
       "longitude": -123.74359
@@ -159046,10 +159102,10 @@
         "6754 WEST COAST RD"
       ],
       "status": "ACTIVE",
-      "purpose": "From R1 to CTC\r\n\r\nOn Hold - 05.28.2026 until missing items are received",
+      "purpose": "Zoning Amendment R1 to CTC",
       "progressSections": [
         {
-          "taskDescription": "Application Received — RECEIVED",
+          "taskDescription": "Application Received — IN-PROGRESS",
           "taskType": "",
           "startDate": 1778630400,
           "endDate": 1778630400
@@ -159059,7 +159115,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1793365713,
+      "lastUpdated": 1794653816,
       "relatedPermits": [],
       "latitude": 48.374258,
       "longitude": -123.725689
@@ -159104,7 +159160,7 @@
         "5229 SOOKE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "Development Permit to facilitate the construction of a new single family dwelling and accessory building in the Foreshore, Steep slope, and Environmentally Sensitive Development Permit Areas.",
+      "purpose": "Development Permit to facilitate the construction of a new single family dwelling and accessory building in the Foreshore, Steep slope, and Environmentally Sensitive Development Permit Areas.\r\n\r\nDVP to SDS Bylaw to increase slope of driveway from 15 to 20%.",
       "progressSections": [
         {
           "taskDescription": "Application Received — IN-PROGRESS",
@@ -159117,7 +159173,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1782730567,
+      "lastUpdated": 1794653816,
       "relatedPermits": [],
       "latitude": 48.3869,
       "longitude": -123.643707
@@ -159276,10 +159332,10 @@
         "6727 WEST COAST RD"
       ],
       "status": "ACTIVE",
-      "purpose": "",
+      "purpose": "DP for Energy Conservation and GHG Emmission Reduction (DPA 1) and Town Centre Waterfront (DPA 6)",
       "progressSections": [
         {
-          "taskDescription": "Application Received — IN-PROGRESS",
+          "taskDescription": "Application Received — ON HOLD",
           "taskType": "",
           "startDate": 1790208000,
           "endDate": 1790208000
@@ -159289,7 +159345,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sooke",
-      "lastUpdated": 1790865668,
+      "lastUpdated": 1794653816,
       "relatedPermits": [],
       "latitude": 48.37577,
       "longitude": -123.72422
@@ -190001,7 +190057,7 @@
         "5980 GRANVILLE STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development: \n\nTo construct a 6-storey apartment building at Granville Street and two 3-storey townhouse buildings at the rear of the site, containing a total of 95 secured market rental units with indoor and outdoor amenity at the roof of Building 1, all over one level of underground parking, providing 43 parking spaces having vehicular access from the lane.\n\nBuilding 1: 6 storey apartment building with indoor and outdoor roof amenity (West).  Refer to BP-2025-01245. \nBuilding 2: 3 storey townhouse building (Northeast).  Refer to BP-2025-01246.\nBuilding 3: 3 storey townhouse building (Southeast).  Refer to BP-2025-01247.\n\nThis is a CP Process Permit and the applicant is Kevin To, M.Eng., P.Eng., CP.\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on January 1, 2025.\n2. Radio Antenna System is required.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Foundation to Grade (Issued August 27, 2025)\n\nRevision #1 - Relocation of stormwater detention tank to underneath the parkade entry ramp (Issued September 25, 2025)\n\nStage 2 - Full Construction (Issued November 6, 2025)\n\nRevision #2 - Exterior changes including revisions to cladding and added bedroom and living room windows per DPMA DP-2025-01008 (Issued February 11, 2026)\nProject Value: $22,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Oakridge\nContractor: STRAND CONTRACTING LTD.",
+      "purpose": "Certified Professional Program - New Building - This permit is for the site work and construction of a basement storage garage for the following development: \n\nTo construct a 6-storey apartment building at Granville Street and two 3-storey townhouse buildings at the rear of the site, containing a total of 95 secured market rental units with indoor and outdoor amenity at the roof of Building 1, all over one level of underground parking, providing 43 parking spaces having vehicular access from the lane.\n\nBuilding 1: 6 storey apartment building with indoor and outdoor roof amenity (West).  Refer to BP-2025-01245. \nBuilding 2: 3 storey townhouse building (Northeast).  Refer to BP-2025-01246.\nBuilding 3: 3 storey townhouse building (Southeast).  Refer to BP-2025-01247.\n\nThis is a CP Process Permit and the applicant is Kevin To, M.Eng., P.Eng., CP.\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on January 1, 2025.\n2. Radio Antenna System is required.\n\nSTAGED CONSTRUCTION\nStage 1 - Excavation & Foundation to Grade (Issued August 27, 2025)\n\nRevision #1 - Relocation of stormwater detention tank to underneath the parkade entry ramp (Issued September 25, 2025)\n\nStage 2 - Full Construction (Issued November 6, 2025)\n\nRevision #2 - Exterior changes including revisions to cladding and added bedroom and living room windows per DPMA DP-2025-01008 (Issued February 11, 2026)\n\nRevision #3 - Additional partition walls and glass sliding doors in Unit Types U2, U3 and U4 to separate the sleeping area from the living/dining space (Under Review)\nProject Value: $22,500,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Apartment\nNeighbourhood: Oakridge\nContractor: STRAND CONTRACTING LTD.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -190032,7 +190088,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1794653836,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-01245",
@@ -197068,17 +197124,17 @@
       "storeys": 3
     },
     {
-      "primaryStreetName": "97 E 44TH AVENUE",
+      "primaryStreetName": "105 E 44TH AVENUE",
       "applicant": "John Yu DBA: HL Design and Construction Ltd.",
       "cityApplicationType": "New Building",
       "applicationType": "Building Permit",
       "folderNumber": "BP-2025-01402",
       "applicationDate": 1742889600,
       "addresses": [
-        "97 E 44TH AVENUE"
+        "105 E 44TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - Building Permit for DP-2024-00941 To develop a Multiple Dwelling “Multiplex” with a 2 storey 1-unit REAR building ($326,000.00), with 2 parking spaces having access from the lane.\r\n\r\n1.\\tNo external mechanical unit proposed\r\n2.\\tEntire building to be sprinklered 13D\r\n3.\\tExternal mechanical unit – Exterior component located in the rear yard, Interior component located on the first floor\r\n4.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Architectural (1.5)\r\n5.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n6.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n7.\\tHPO: Residential Builder- (HL Design and Construction LTD)\r\n\r\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\r\n\r\nAddress Information:\r\n\r\n5990 Quebec St=Primary Address\r\n\r\nBuilding 2 (Rear) (east)\r\n5992 Quebec St - One Dwelling Unit (1st-2nd floors)\r\n\r\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \r\n\r\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $326,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Sunset\nContractor: HL Design and Construction Ltd",
+      "purpose": "Low Density Housing - New Building - Building Permit for DP-2024-00941 To develop a Multiple Dwelling “Multiplex” with a 2 storey 1-unit REAR building ($326,000.00), with 2 parking spaces having access from the lane.\r\n\r\n1.\\tNo external mechanical unit proposed\r\n2.\\tEntire building to be sprinklered 13D\r\n3.\\tExternal mechanical unit – Exterior component located in the rear yard, Interior component located on the first floor\r\n4.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Architectural (1.5)\r\n5.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n6.\\tSchedule B: (MD. Shahidul Alam) P.Eng (604-653-7475) Structural\r\n7.\\tHPO: Residential Builder- (HL Design and Construction LTD)\r\n\r\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\r\n\r\nAddress Information:\r\n\r\n5990 Quebec St=Primary Address\r\n\r\nBuilding 2 (Rear) (east)\r\n5992 Quebec St - One Dwelling Unit (1st-2nd floors)\r\n\r\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \r\n\r\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***\nProject Value: $326,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nContractor: HL Design and Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -197097,11 +197153,9 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1794308242,
+      "lastUpdated": 1794653836,
       "relatedPermits": [],
       "projectValue": 326000,
-      "latitude": 49.230362,
-      "longitude": -123.103742,
       "approvalStatus": "Approved",
       "storeys": 2
     },
@@ -222986,7 +223040,7 @@
         "3858 W 10TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - Multiplex:\nTo construct a three-storey Multiple Dwelling front building (Building 1) containing 3-units located at the North end of the lot.\n\nBP-2026-00241 - Front (All docs and drwgs here)\nBP-2026-00242 - Rear\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design applies to front building\n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU \n4. Reviewed under VBBL 2025 \n5. Related to DP-2025-00082\nProject Value: $1,305,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West Point Grey\nContractor: Yeteng Construction Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - Multiplex:\nTo construct a three-storey Multiple Dwelling front building (Building 1) ***PART 5*** containing 3-units located at the North end of the lot.\n\nBP-2026-00241 - Front (All docs and drwgs here)\nBP-2026-00242 - Rear\n\nBRB notes:\n1. Part 4 design \n2. Part 5 design applies to front building\n3. Building to be sprinklered to Modified NFPA 13R as per bulletin 2025-003-BU \n4. Reviewed under VBBL 2025 \n5. Related to DP-2025-00082\nProject Value: $1,305,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: West Point Grey\nContractor: Yeteng Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -223005,7 +223059,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1768896000,
+      "lastUpdated": 1794653836,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2026-00242",
@@ -333056,6 +333110,18 @@
           "endDate": null
         },
         {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -333081,7 +333147,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1793098366,
+      "lastUpdated": 1794653538,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01181",
