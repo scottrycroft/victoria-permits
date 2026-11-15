@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1794653536,
+  "dateRetrieved": 1794741310,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7911,7 +7911,7 @@
     },
     {
       "primaryStreetName": "221 GOLDFINCH RD",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000051",
@@ -7919,7 +7919,7 @@
       "addresses": [
         "221 GOLDFINCH RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This application proposes two duplexes on a strata lot.",
       "progressSections": [
         {
@@ -7929,19 +7929,24 @@
           "endDate": 1767682800
         },
         {
+          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
+          "taskType": "PERMIT ISSUED",
+          "startDate": 1789714800,
+          "endDate": 1789714800
+        },
+        {
           "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
           "taskType": "APPLICATION REVIEW",
           "startDate": 1767682800,
           "endDate": null
-        },
-        {
-          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
-          "taskType": "PERMIT ISSUED",
-          "startDate": null,
-          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "Development Permit - OurCity",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=03782C261112093326539852&folderId=75438C251205153817297423"
+        }
+      ],
       "city": "Colwood",
       "lastUpdated": 1767682800,
       "relatedPermits": []
@@ -8244,16 +8249,17 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "3571 RYDER HESJEDAL WAY",
-      "applicant": "AUTHORIZED AGENT/OWNER",
+      "primaryStreetName": "3569 RYDER HESJEDAL WAY",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000057",
       "applicationDate": 1777618800,
       "addresses": [
+        "3569 RYDER HESJEDAL WAY",
         "3571 RYDER HESJEDAL WAY"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This Form & Character DP application proposes a 6-storey mixed-use building with 77 purpose built rental units.",
       "progressSections": [
         {
@@ -8263,19 +8269,32 @@
           "endDate": 1782370800
         },
         {
+          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
+          "taskType": "PERMIT ISSUED",
+          "startDate": 1791356400,
+          "endDate": 1791356400
+        },
+        {
           "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
           "taskType": "APPLICATION REVIEW",
           "startDate": 1776841200,
           "endDate": null
-        },
-        {
-          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
-          "taskType": "PERMIT ISSUED",
-          "startDate": null,
-          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "Development Permit - Part 1",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=03979C261112151606861981&folderId=87055C260422103824090910"
+        },
+        {
+          "docName": "Development Permit - Part 2",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=03979C261112151606877790&folderId=87055C260422103824090910"
+        },
+        {
+          "docName": "Development Permit - Part 3",
+          "docURL": "https://services.colwood.ca/TLive/OurCity/Prospero/FileDownload.aspx?fileId=03979C261112152119616177&folderId=87055C260422103824090910"
+        }
+      ],
       "city": "Colwood",
       "lastUpdated": 1782370800,
       "relatedPermits": [],
@@ -110611,6 +110630,12 @@
         {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "*FILE COMPLETED",
+          "startDate": 1789974000,
+          "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "*FILE COMPLETED",
           "startDate": null,
           "endDate": null
         }
@@ -110634,13 +110659,6 @@
           "relatedPermitApplicationDate": 1784707200,
           "relatedPermitStatus": "ACTIVE",
           "relatedPermitDescription": "This is an application for a Development Variance Permit to allow for the construction of an elevated parking pad and associated pedestrian tram providing access to the existing house on the property."
-        },
-        {
-          "relatedPermitID": "ZON00058",
-          "relatedPermitType": "ZONING BYLAW AMENDMENT",
-          "relatedPermitApplicationDate": 1739520000,
-          "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "This is an application for a zoning bylaw amendment for 4 lot Bareland Strata subdivision to allow construction of 4 new homes with secondary suites."
         }
       ]
     },
@@ -111815,6 +111833,12 @@
           "taskType": "*FILE COMPLETED",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "File has been completed and is now closed.",
+          "taskType": "*FILE COMPLETED",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -111948,7 +111972,7 @@
     },
     {
       "primaryStreetName": "2657 CRANMORE RD",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000075",
@@ -111956,7 +111980,7 @@
       "addresses": [
         "2657 CRANMORE RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This is an application for a Development Permit to allow for the construction of residential deck within the District’s mapped Watercourse DPA, while outside of the Provincially designated SPEA",
       "progressSections": [
         {
@@ -111998,8 +112022,8 @@
         {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "*FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1789974000,
+          "endDate": 1789974000
         }
       ],
       "documents": [
@@ -112030,7 +112054,7 @@
     },
     {
       "primaryStreetName": "1732 ARMSTRONG AVE",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DP000076",
@@ -112038,7 +112062,7 @@
       "addresses": [
         "1732 ARMSTRONG AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Environmental Development Permit to accommodate for the construction and siting of a deck at 1732 Armstrong Ave.",
       "progressSections": [
         {
@@ -112080,8 +112104,8 @@
         {
           "taskDescription": "File has been completed and is now closed.",
           "taskType": "*FILE COMPLETED",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1789974000,
+          "endDate": 1789974000
         }
       ],
       "documents": [
@@ -112101,6 +112125,13 @@
       "city": "Oak Bay",
       "lastUpdated": 1790160764,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP018094",
+          "relatedPermitType": "PART 9 BUILDING (STANDARD)",
+          "relatedPermitApplicationDate": 1790323200,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "This permit application is for a deck extension.\n\nSee DP000076"
+        },
         {
           "relatedPermitID": "BP017793",
           "relatedPermitType": "PART 9 BUILDING (STANDARD)",
@@ -128704,7 +128735,7 @@
     },
     {
       "primaryStreetName": "3010 ALBINA ST",
-      "applicant": "IRONCLAD DEVELOPMENTS INC.",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01117",
@@ -128712,7 +128743,7 @@
       "addresses": [
         "3010 ALBINA ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO AMEND DPR00911 RELATED TO LANDSCAPE DESIGN.",
       "progressSections": [
         {
@@ -128761,19 +128792,43 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
           "startDate": 1790060400,
-          "endDate": null
+          "endDate": 1790319600
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1790319600,
+          "endDate": 1790319600
+        },
+        {
+          "taskDescription": "Application has been approved by the District",
+          "taskType": "MINOR AMENDMENT APPROVED",
+          "startDate": 1790319600,
+          "endDate": 1790319600
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "LANDSCAPE PLAN_SEPT 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=7F8ED463-57D0-4181-8452-2FD3CAED3C3E&folderId=78443C260527090342654189"
+        }
+      ],
       "city": "Saanich",
       "lastUpdated": 1790160764,
       "relatedPermits": [
+        {
+          "relatedPermitID": "TRP23641",
+          "relatedPermitType": "TREE PERMIT",
+          "relatedPermitApplicationDate": 1792656000,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "Tree Permit in Support of SVS02421 for the removal of 3 trees"
+        },
         {
           "relatedPermitID": "TRP23533",
           "relatedPermitType": "TREE PERMIT",
           "relatedPermitApplicationDate": 1789113600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "Tree Permit in Support of CBP00059 and CBP00057\nFor the removal of 13 tree(s)."
+          "relatedPermitDescription": "Tree Permit in Support of CBP00059 and CBP00057 for the removal of 10 tree(s)."
         },
         {
           "relatedPermitID": "CBP00161",
@@ -129345,7 +129400,7 @@
     },
     {
       "primaryStreetName": "CMPLX 3160 ALBINA ST",
-      "applicant": "METACHRO ENGINEERING",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01121",
@@ -129353,7 +129408,7 @@
       "addresses": [
         "CMPLX-3160 ALBINA ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "PODIUM MEMBRANE RENEWAL",
       "progressSections": [
         {
@@ -129408,7 +129463,25 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1790233200,
-          "endDate": null
+          "endDate": 1790319600
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1790319600,
+          "endDate": 1790319600
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1790319600,
+          "endDate": 1790319600
+        },
+        {
+          "taskDescription": "Application has been approved by the District",
+          "taskType": "MINOR AMENDMENT APPROVED",
+          "startDate": 1790319600,
+          "endDate": 1790319600
         }
       ],
       "documents": [],
@@ -325795,7 +325868,7 @@
     },
     {
       "primaryStreetName": "441 GOVERNMENT ST",
-      "applicant": "NICHOLAS STANDEVEN",
+      "applicant": "",
       "cityApplicationType": "Pre-Application (CALUC)",
       "applicationType": "Pre-Application",
       "folderNumber": "CLC00487",
@@ -325806,8 +325879,8 @@
         "605 MICHIGAN ST",
         "607 MICHIGAN ST"
       ],
-      "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) due changes in their proposal related to density and use. See Rezoning Application No. 00983 for historical submissions.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "status": "ARCHIVED",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca",
       "progressSections": [],
       "documents": [
         {
@@ -331236,7 +331309,7 @@
     },
     {
       "primaryStreetName": "2501 BLANSHARD ST",
-      "applicant": "MICHAEL BARROS",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01065",
@@ -331244,7 +331317,7 @@
       "addresses": [
         "2501 BLANSHARD ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to construct a 6-storey, 110-unit affordable rental housing building.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -331268,8 +331341,8 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1790233200,
+          "endDate": 1790233200
         }
       ],
       "documents": [
@@ -331282,24 +331355,20 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=66082C250717135041498657&folderId=65078C250715134028144551"
         },
         {
-          "docName": "2026-03-03 - Plans_Revisions_Bubbled - 1of3.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BCB5B6FF-E94B-48D7-9E39-D41BB3360167&folderId=65078C250715134028144551"
-        },
-        {
-          "docName": "2026-03-03 - Plans_Revisions_Bubbled - 2of3.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BE5DC615-5E9A-4673-96EE-9933B2CE4889&folderId=65078C250715134028144551"
-        },
-        {
-          "docName": "2026-03-03 - Plans_Revisions_Bubbled - 3of3.pdf",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7752587F-1D5B-438A-A7E2-CB34D488938E&folderId=65078C250715134028144551"
-        },
-        {
           "docName": "2026-03-03 - Revisions Letter.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=5CE63C78-3B83-4264-B75D-69AEBE5849F5&folderId=65078C250715134028144551"
         },
         {
-          "docName": "Jul 23 plans added related to BP application, March 3 2026 remain final. /PC",
-          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=82377C260723135015249703&folderId=65078C250715134028144551"
+          "docName": "FINAL APPROVED PLANS 1 of 3",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BCB5B6FF-E94B-48D7-9E39-D41BB3360167&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS 2 of 3",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=BE5DC615-5E9A-4673-96EE-9933B2CE4889&folderId=65078C250715134028144551"
+        },
+        {
+          "docName": "FINAL APPROVED PLANS 3 of 3",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7752587F-1D5B-438A-A7E2-CB34D488938E&folderId=65078C250715134028144551"
         }
       ],
       "city": "Victoria",
@@ -331328,6 +331397,7 @@
         }
       ],
       "major": true,
+      "approvalStatus": "Approved",
       "storeys": 6
     },
     {
@@ -334815,7 +334885,7 @@
     },
     {
       "primaryStreetName": "1691 CHANDLER AVE",
-      "applicant": "MAXWELL SHEPHERSON",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01118",
@@ -334823,7 +334893,7 @@
       "addresses": [
         "1691 CHANDLER AVE"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application to construct a 3-storey, 6-unit townhouse\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -334860,13 +334930,13 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1790233200,
-          "endDate": null
+          "endDate": 1790319600
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1790665200,
+          "endDate": 1790665200
         }
       ],
       "documents": [
@@ -334902,6 +334972,7 @@
       "city": "Victoria",
       "lastUpdated": 1790419908,
       "relatedPermits": [],
+      "approvalStatus": "Approved",
       "storeys": 3
     },
     {
@@ -336993,7 +337064,7 @@
     },
     {
       "primaryStreetName": "406 SIMCOE ST",
-      "applicant": "PATEL VAIBHAV",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01154",
@@ -337001,7 +337072,7 @@
       "addresses": [
         "406 SIMCOE ST"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for building envelope rehabilitation.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
@@ -337025,8 +337096,8 @@
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1791183600,
+          "endDate": 1791183600
         }
       ],
       "documents": [
@@ -337045,7 +337116,8 @@
       ],
       "city": "Victoria",
       "lastUpdated": 1790160764,
-      "relatedPermits": []
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "2218 QUADRA ST",
@@ -338050,7 +338122,7 @@
     },
     {
       "primaryStreetName": "1060 QUEENS AVE",
-      "applicant": "SARAH OMWARE",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01178",
@@ -338058,26 +338130,38 @@
       "addresses": [
         "1060 QUEENS AVE"
       ],
-      "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to construct a ____-storey, ___ unit ______________ (brief project description, e.g., residential building, for revisions to approved DP plans, for tenant protection). The proposal also includes _____ (high-level variance details, if applicable - otherwise delete this sentence).\n\nUnder the sit",
+      "status": "ARCHIVED",
+      "purpose": "APPLICATION RETIRED: X-REFERENCE DDV00117 The City is reviewing a Delegated Development Permit application to retain and legalize an existing dwelling unit.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1789455600,
           "endDate": null
-        },
-        {
-          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
-          "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "2026-09-11 - Letter to Development Services.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=83300D5D-BAF0-4D13-8170-5AED79993FC0&folderId=erOa1LXdiEKSXRcQAUgs/Q"
+        },
+        {
+          "docName": "2026-09-11 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=55381017-E0E4-407E-9D2D-DC6C49D0C079&folderId=erOa1LXdiEKSXRcQAUgs/Q"
+        }
+      ],
       "city": "Victoria",
       "lastUpdated": 1790074362,
-      "relatedPermits": []
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDV00117",
+          "relatedPermitType": "Delegated Development Variance Permit",
+          "relatedPermitApplicationDate": 1790150400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Delegated Development Variance Permit application to retain and legalize an existing dwelling unit.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
+        }
+      ],
+      "approvalStatus": "Superseded"
     },
     {
       "primaryStreetName": "1026 EMPRESS AVE",
