@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1794826329,
+  "dateRetrieved": 1794912767,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -7564,8 +7564,15 @@
       ],
       "documents": [],
       "city": "Colwood",
-      "lastUpdated": 1769601410,
+      "lastUpdated": 1794912769,
       "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00048",
+          "relatedPermitType": "SUBDIVISION",
+          "relatedPermitApplicationDate": 1791273600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "This application proposes a subdivision to create 2 legal parcels."
+        },
         {
           "relatedPermitID": "DP000046",
           "relatedPermitType": "DEVELOPMENT PERMIT",
@@ -8617,6 +8624,79 @@
       "city": "Colwood",
       "lastUpdated": 1793084400,
       "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "3698 METCHOSIN RD",
+      "applicant": "AUTHORIZED AGENT/OWNER",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000066",
+      "applicationDate": 1792652400,
+      "addresses": [
+        "3698 METCHOSIN RD"
+      ],
+      "status": "ACTIVE",
+      "purpose": "This Form & Character DP application proposes a commercial development for a retail centre,\"Royal Bay Market,\" which consists of two single story buildings on the east and west edges of 3698 Metchosin Rd. and surface parking in the centre of the lot. No variances requested. A drug store and two commercial units are proposed for Building A, and a grocery store proposed for Building B.",
+      "progressSections": [
+        {
+          "taskDescription": "Set Task Resource. Add documents to Attachments. Use Checklist to review for complete submission. Prepare Fee Slip and send to applicant. \n\nOnce paid, confirm Checklist complete.\n\nIf there is an Outstanding Fee Balance, the task will show as an error. \n\nIf CANCELLED, the folder is set as Cancelled. \n\nWhen COMPLETE, the folder is set as Active.\n\nOnce complete, go to next task (Planner Review) add Task Resource (Specific Planner) and drop down to IN PROGRESS. This will send a referral to the Planner for review. Ensure that the Planner assigned is also set as the Folder Manager.",
+          "taskType": "APPLICATION INTAKE",
+          "startDate": 1792652400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "When IN PROGRESS, email will be to the Task Resource. \n\nReview documents in Attachments and add comments to the Deficiencies tab.\n\nAssign Task Resources and set Internal Referral tasks to IN PROGRESS. \nAssign Task Resource and set External Referral task to IN PROGRESS.\n\nIf no deficiencies, set to COMPLETE. \n\nIf REJECTED, new PLANNER REVIEW and ADDRESS REVIEW tasks will be added.",
+          "taskType": "APPLICATION REVIEW",
+          "startDate": 1794812400,
+          "endDate": null
+        },
+        {
+          "taskDescription": "A Development Permit has been issued for this application. If construction of the development has not substantially started within two years of the issued date, this permit will expire.",
+          "taskType": "PERMIT ISSUED",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Colwood",
+      "lastUpdated": 1794812400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "SUB00041",
+          "relatedPermitType": "SUBDIVISION",
+          "relatedPermitApplicationDate": 1755244800,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "This application is a preliminary layout assessment of City Lands.\nApplication changed to 3 lots by consolidating the middle 2 lots"
+        },
+        {
+          "relatedPermitID": "DP000047",
+          "relatedPermitType": "DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1751270400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "This application proposes initial site preparation to support future subdivision and development. Work includes clearing of trees and vegetation, as well as re-grading of the property."
+        },
+        {
+          "relatedPermitID": "SUB00026",
+          "relatedPermitType": "SUBDIVISION",
+          "relatedPermitApplicationDate": 1729152000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "This application proposes a subdivision of City lands at 3698 Metchosin Rd."
+        },
+        {
+          "relatedPermitID": "RZ000017",
+          "relatedPermitType": "REZONING",
+          "relatedPermitApplicationDate": 1721894400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "This application proposes an amendment to the existing CD28 zone at 3698 Metchosin Road."
+        },
+        {
+          "relatedPermitID": "OCP00004",
+          "relatedPermitType": "OCP AMENDMENT",
+          "relatedPermitApplicationDate": 1721894400,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "This application proposes an OCP Amendment to 3698 Metchosin Road"
+        }
+      ]
     },
     {
       "primaryStreetName": "532 LATORIA RD",
@@ -15754,18 +15834,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1790679350,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021798",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021800",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15790,18 +15870,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1790679350,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021798",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15826,18 +15906,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1790679350,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BP021798",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021800",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16195,12 +16275,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794826577,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021865",
           "relatedPermitType": "Development Permit"
@@ -16215,6 +16291,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16238,12 +16318,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794826577,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16258,6 +16334,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16281,12 +16361,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794826577,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16301,6 +16377,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16324,12 +16404,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794826577,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16344,6 +16420,10 @@
         },
         {
           "relatedPermitID": "BP021868",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -16367,12 +16447,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794826577,
+      "lastUpdated": 1794913016,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021862",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021864",
           "relatedPermitType": "Development Permit"
@@ -16387,6 +16463,10 @@
         },
         {
           "relatedPermitID": "BP021867",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021862",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -22309,13 +22389,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1792752968,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP023395",
-          "relatedPermitType": "Development Permit"
-        }
-      ],
+      "lastUpdated": 1794913016,
+      "relatedPermits": [],
       "latitude": 49.136447,
       "longitude": -122.911898,
       "minor": true
@@ -116823,7 +116898,7 @@
         {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1795417200,
           "endDate": null
         },
         {
@@ -116868,7 +116943,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1794307961,
+      "lastUpdated": 1794912769,
       "relatedPermits": []
     },
     {
@@ -118591,6 +118666,35 @@
       "relatedPermits": [],
       "minor": true,
       "projectValue": 18000,
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "13911 Vulcan Way Guhan Chendumathan (604)771-7119",
+      "applicant": "Community Fire Prevention Ltd (Gianni Orologio) (604)944-9242",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-25-024203-000-00-BZ",
+      "applicationDate": 1794124800,
+      "addresses": [
+        "13911 Vulcan Way Guhan Chendumathan (604)771-7119"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Equipment Foundations\nWork Proposed: Alteration\nConstruction Value: $500,000.00 1 $500,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794124800,
+          "endDate": 1794124800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1794913014,
+      "relatedPermits": [],
+      "projectValue": 500000,
       "approvalStatus": "Approved"
     },
     {
@@ -124928,6 +125032,36 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "8181 Cambie Road DA Architects (Juliana Milbratz) (604) 685-6312",
+      "applicant": "Prostar Contracting (604)876-3340",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD-26-024149-000-00-B7",
+      "applicationDate": 1794124800,
+      "addresses": [
+        "8181 Cambie Road DA Architects (Juliana Milbratz) (604) 685-6312"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Building Type: Hotel\nWork Proposed: Alteration\nConstruction Value: $45,000.00 1 $45,000.00",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794124800,
+          "endDate": 1794124800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1794913014,
+      "relatedPermits": [],
+      "minor": true,
+      "projectValue": 45000,
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "6111 Twintree Pl",
       "applicant": "Roisum Construction Ltd (604)275-1057",
       "cityApplicationType": "Building Permit",
@@ -126610,6 +126744,62 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "23160 Willett Avenue",
+      "applicant": "Eddie Tang (604)763-1573",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-017218-000-00-D7",
+      "applicationDate": 1794211200,
+      "addresses": [
+        "23160 Willett Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: TX Contracting Ltd (604)763-1573",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794211200,
+          "endDate": 1794211200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1794913014,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "23180 Willett Avenue",
+      "applicant": "Eddie Tang (604)763-1573",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-017219-000-00-D7",
+      "applicationDate": 1794211200,
+      "addresses": [
+        "23180 Willett Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: TX Contracting Ltd (604)763-1573",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794211200,
+          "endDate": 1794211200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1794913014,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "23220 Willett Avenue",
       "applicant": "Eddie Tang (604)763-1573",
       "cityApplicationType": "Demolition",
@@ -126634,6 +126824,34 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1794308217,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "23200 Willett Avenue",
+      "applicant": "Eddie Tang (604)763-1573",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-017227-000-00-D7",
+      "applicationDate": 1794211200,
+      "addresses": [
+        "23200 Willett Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: TX Contracting Ltd (604)763-1573",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794211200,
+          "endDate": 1794211200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1794913014,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -129831,9 +130049,22 @@
           "endDate": null
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "ELEVATION PLAN_OCT 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=56C56CB3-F752-4DCE-928F-EA8BCB32361B&folderId=34160C261023143848074980"
+        },
+        {
+          "docName": "LANDSCAPE PLAN_OCT 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8C79A843-A22C-4F50-B4EB-67530E7D8D76&folderId=34160C261023143848074980"
+        },
+        {
+          "docName": "SITE PLAN_OCT 21 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9459BE71-D43D-45D0-81E9-A59CAFAA0004&folderId=34160C261023143848074980"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1794394340,
+      "lastUpdated": 1794912769,
       "relatedPermits": []
     },
     {
@@ -144258,17 +144489,11 @@
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1779692400,
           "endDate": 1780383600
-        },
-        {
-          "taskDescription": "Permit approved by delegated authority",
-          "taskType": "DELEGATED DEVELOPMENT PERMIT APPROVED",
-          "startDate": null,
-          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1793703162,
+      "lastUpdated": 1794912769,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00811",
@@ -145142,7 +145367,7 @@
         "1514 CEDAR HILL CROSS RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE TO C-16 (Neighbourhood Mixed Use) Zone to ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
+      "purpose": "TO REZONE TO C-17 (Neighbourhood Mixed Use) Zone to ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES.",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -145202,29 +145427,47 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1793948400,
+          "endDate": 1794812400
+        },
+        {
+          "taskDescription": "Revised information and/or plans received for review by District",
+          "taskType": "DISTRICT REVIEW OF SUBMITTED REVISIONS",
+          "startDate": 1794294000,
+          "endDate": 1794812400
+        },
+        {
+          "taskDescription": "File Manager re-review of application for completeness",
+          "taskType": "FILE MANAGER REV INTAKE",
+          "startDate": 1794812400,
+          "endDate": 1794812400
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": 1794812400,
           "endDate": null
         }
       ],
       "documents": [
         {
-          "docName": "PLANS_ELEVATIONS_JUNE 26 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=3D79853C-D101-42F8-B95A-0B006FC601DD&folderId=96428C260709111458518289"
-        },
-        {
-          "docName": "PLANS_LANDSCAPE_JUNE 26 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=011788FF-9883-4F2A-9EEA-D3BC67294B09&folderId=96428C260709111458518289"
-        },
-        {
           "docName": "PLANS_SHADOW STUDY_JUNE 26 2026",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=C13833A7-94A6-4950-9F7F-93AEEF6687B3&folderId=96428C260709111458518289"
         },
         {
-          "docName": "PLANS_SITE_JUNE 26 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=978A55E4-B988-4D46-8E15-353C72306D6E&folderId=96428C260709111458518289"
+          "docName": "REVISED_ELEVATION_NOV 10 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=04F8D57F-E5FF-4EAF-99A0-EC76681F7F94&folderId=96428C260709111458518289"
+        },
+        {
+          "docName": "REVISED_LANDSCAPE_NOV 10 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=D9F3D9C3-635E-409C-A513-8CA821FE8B65&folderId=96428C260709111458518289"
+        },
+        {
+          "docName": "REVISED_SITE_NOV 10 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=FBBDE5EF-29CF-4FD3-8F80-9FD7AFE22EEA&folderId=96428C260709111458518289"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1794653538,
+      "lastUpdated": 1794912769,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00819",
@@ -145314,12 +145557,12 @@
           "taskDescription": "File Manager re-review of application for completeness",
           "taskType": "FILE MANAGER REV INTAKE",
           "startDate": 1794553200,
-          "endDate": null
+          "endDate": 1794812400
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
-          "startDate": null,
+          "startDate": 1794812400,
           "endDate": null
         }
       ],
@@ -145330,7 +145573,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1794653538,
+      "lastUpdated": 1794912769,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00184",
@@ -154566,14 +154809,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1794653538,
+      "lastUpdated": 1794912769,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01128",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1783584000,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE TO C-16 (Neighbourhood Mixed Use) Zone to ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
+          "relatedPermitDescription": "TO REZONE TO C-17 (Neighbourhood Mixed Use) Zone to ALLOW THE CONSTRUCTION OF A 6 STOREY MIXED USE DEVELOPMENT CONTAINING 114 SENIORS HOUSING UNITS AND MEDICAL SERVICES."
         }
       ],
       "major": true,
@@ -156182,7 +156425,13 @@
       "purpose": "Development Permit and Development Variance Permit application for a four-storey mixed-use building with ground floor commercial space and 12 residential dwelling units.",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Development Permit ApplicationApplication under review by staff.",
+          "taskDescription": "Notice of New Development Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application under review by staff.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -156197,7 +156446,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1793703573,
+      "lastUpdated": 1794912986,
       "relatedPermits": [],
       "major": true,
       "storeys": 4
@@ -156376,10 +156625,52 @@
       "purpose": "Zoning Amendment, Development Permit, and Development Variance Permit application for a four-storey 75-unit multi-family development.",
       "progressSections": [
         {
-          "taskDescription": ". Development Permit and Development Variance Permit application still under consideration.",
+          "taskDescription": "Notice of New Development Application",
           "taskType": "",
           "startDate": null,
           "endDate": null
+        },
+        {
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1756796400,
+          "endDate": 1756796400
+        },
+        {
+          "taskDescription": "Council Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1771830000,
+          "endDate": 1771830000
+        },
+        {
+          "taskDescription": "APC Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1775545200,
+          "endDate": 1775545200
+        },
+        {
+          "taskDescription": "Council Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1782111600,
+          "endDate": 1782111600
+        },
+        {
+          "taskDescription": "Notice of Zoning Amendment Bylaw",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Draft Zoning Amendment Bylaw No. 2317",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": ". Development Permit and Development Variance Permit application still under consideration.",
+          "taskType": "",
+          "startDate": 1790578800,
+          "endDate": 1790578800
         }
       ],
       "documents": [
@@ -156399,7 +156690,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1793703573,
+      "lastUpdated": 1794912986,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -156492,6 +156783,12 @@
           "taskType": "",
           "startDate": 1789974000,
           "endDate": 1789974000
+        },
+        {
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1794812400,
+          "endDate": 1794812400
         }
       ],
       "documents": [
@@ -156502,12 +156799,16 @@
         {
           "docName": "September 21, 2026 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/60693/Development%20Permit%20Application%20No.%20DP100860_Dev.pdf"
+        },
+        {
+          "docName": "November 16, 2026 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/64461/Development%20Permit%20Application%20No.%20DP100860_Dev.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1790679321,
+      "lastUpdated": 1794912986,
       "relatedPermits": [],
       "storeys": 3
     },
@@ -156913,22 +157214,26 @@
       "purpose": "Development Variance Permit application to relax Zoning Bylaw requirements for screening rooftop mechanical units in order to allow new HVAC units without screening on the roof of the subject property.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1794812400,
+          "endDate": 1794812400
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/2328-Beacon-Ave-Plans.pdf"
+        },
+        {
+          "docName": "November 16, 2026 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/61200/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1793098588,
+      "lastUpdated": 1794912986,
       "relatedPermits": []
     },
     {
@@ -157147,22 +157452,26 @@
       "purpose": "Development Permit application for a four unit residential development.",
       "progressSections": [
         {
-          "taskDescription": "Application under review by staff.",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1794812400,
+          "endDate": 1794812400
         }
       ],
       "documents": [
         {
           "docName": "Plans",
           "docURL": "https://www.sidney.ca/wp-content/uploads/2378-Henry-Ave-Plans.pdf"
+        },
+        {
+          "docName": "November 16, 2026 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/64645/Development%20Permit%20Application%20No.%20DP100865.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1793703573,
+      "lastUpdated": 1794912986,
       "relatedPermits": []
     },
     {
@@ -157642,10 +157951,16 @@
       "purpose": "Development Permit and Development Variance Permit application for a 4-unit residential development.",
       "progressSections": [
         {
-          "taskDescription": "Committee of the Whole Meeting Staff ReportNote: Application being redesigned by applicant.",
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
           "taskType": "",
           "startDate": 1779174000,
           "endDate": 1779174000
+        },
+        {
+          "taskDescription": "Note: Application being redesigned by applicant.",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -157657,7 +157972,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1793703573,
+      "lastUpdated": 1794912986,
       "relatedPermits": []
     },
     {
@@ -157708,7 +158023,25 @@
       "purpose": "Development Variance Permit and Development Permit application for a four-storey 30-unit multi-family residential development with underground parking",
       "progressSections": [
         {
-          "taskDescription": "Council Meeting Staff ReportNote: Application being redesigned by applicant.",
+          "taskDescription": "Notice of New Development Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Council Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1755500400,
+          "endDate": 1755500400
+        },
+        {
+          "taskDescription": "Council Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1783926000,
+          "endDate": 1783926000
+        },
+        {
+          "taskDescription": "Note: Application being redesigned by applicant.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -157731,7 +158064,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1793703573,
+      "lastUpdated": 1794912986,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -157749,7 +158082,13 @@
       "purpose": "Development Permit and Development Variance Permit application for the form and character of an elevated covered walkway, and to allow an accessory structure to be located within the exterior side yard.",
       "progressSections": [
         {
-          "taskDescription": "Notice of New Development Permit ApplicationApplication under review by staff.",
+          "taskDescription": "Notice of New Development Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application under review by staff.",
           "taskType": "",
           "startDate": null,
           "endDate": null
@@ -157764,7 +158103,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1793703573,
+      "lastUpdated": 1794912986,
       "relatedPermits": []
     },
     {
@@ -329439,7 +329778,8 @@
       "folderNumber": "DDP01036",
       "applicationDate": 1745823600,
       "addresses": [
-        "1701 RICHARDSON ST"
+        "1701 RICHARDSON ST",
+        "1703 RICHARDSON ST"
       ],
       "status": "ACTIVE",
       "purpose": "The City is reviewing a Delegated Development Permit application to construct a 4-storey, 12-unit corner townhouse. The proposal includes rear yard setback and parking variance.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
@@ -329524,7 +329864,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1793271142,
+      "lastUpdated": 1794912769,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -338567,13 +338907,14 @@
       ]
     },
     {
-      "primaryStreetName": "450 DALLAS RD",
+      "primaryStreetName": "440 DALLAS RD",
       "applicant": "N/A",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01187",
       "applicationDate": 1793602800,
       "addresses": [
+        "440 DALLAS RD",
         "450 DALLAS RD"
       ],
       "status": "ACTIVE",
@@ -338615,44 +338956,8 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1793602800,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "DDP01126",
-          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
-          "relatedPermitApplicationDate": 1773734400,
-          "relatedPermitStatus": "ARCHIVED",
-          "relatedPermitDescription": "The City is considering a Delegated Development Permit to make changes to the approved plans. \n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
-        },
-        {
-          "relatedPermitID": "DDP00887",
-          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
-          "relatedPermitApplicationDate": 1696924800,
-          "relatedPermitStatus": "ARCHIVED",
-          "relatedPermitDescription": "The City is considering a Delegated Development Permit application to make changes to the approved plans."
-        },
-        {
-          "relatedPermitID": "REZ00789",
-          "relatedPermitType": "Rezoning Application",
-          "relatedPermitApplicationDate": 1625212800,
-          "relatedPermitStatus": "ARCHIVED",
-          "relatedPermitDescription": "APPROVED BY COUNCIL ON JUNE 8, 2023.\n\nThe City is considering a Rezoning application to construct a seven-storey multi-unit rental building while retaining the existing twelve-storey residential building to the east.\n\nConcurrent with DPV00177."
-        },
-        {
-          "relatedPermitID": "DPV00177",
-          "relatedPermitType": "Development Permit with Variance",
-          "relatedPermitApplicationDate": 1625212800,
-          "relatedPermitStatus": "ARCHIVED",
-          "relatedPermitDescription": "APPROVED BY COUNCIL ON JUNE 8, 2023.\n\nThe City is considering a Development Permit with Variance application to to construct a multiple dwelling building while retaining one of the existing buildings with a parking variance.\n\nSee REZ00789 for project details."
-        },
-        {
-          "relatedPermitID": "CLC00346",
-          "relatedPermitType": "Pre-Application (CALUC)",
-          "relatedPermitApplicationDate": 1624435200,
-          "relatedPermitStatus": "ARCHIVED",
-          "relatedPermitDescription": "During the COVID-19 pandemic, development application plans will be posted here as a substitute for the Community Association Land Use Committee (CALUC) Community Meeting.\n\nLooking for details?\n\nView the plans under Documents below\nContact the applicant noted above\nContact the appropriate CALUC\nContact City staff for information on the Rezoning process\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf a Rezoning application has been submitted, it will be listed below under “Related Permits and Applications”."
-        }
-      ]
+      "lastUpdated": 1794912769,
+      "relatedPermits": []
     },
     {
       "primaryStreetName": "610 HERALD ST",
@@ -407876,23 +408181,27 @@
         {
           "docName": "2026 10 30 Plans",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2026-02 Plans.pdf"
+        },
+        {
+          "docName": "2026 11 17 Council Report",
+          "docURL": "https://viewroyalbc.civicweb.net/document/89535/Development%20Permit%202026-02%20-%201720%20Wilfert%20Road.pd?handleD2040FC200F04A71AF02AD7BBFD54862"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1793444187,
+      "lastUpdated": 1794912985,
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "181 Island Hwy",
+      "primaryStreetName": "181 Island Highway",
       "applicant": "",
       "cityApplicationType": "Development Permit",
       "applicationType": "Development Permit",
       "folderNumber": "DP 2026-03",
       "applicationDate": 1788346607,
       "addresses": [
-        "181 Island Hwy"
+        "181 Island Highway"
       ],
       "status": "ARCHIVED",
       "purpose": "The application proposes changes to on-site landscaping and the design of the on-site amenity structure.",
@@ -407910,7 +408219,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1790333749,
+      "lastUpdated": 1794912985,
       "relatedPermits": []
     },
     {
@@ -409053,8 +409362,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportnov1-7202680000.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportnov1-7202680001.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportnov8-14202681027.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportnov8-14202681028.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
