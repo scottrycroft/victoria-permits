@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1794912767,
+  "dateRetrieved": 1794999126,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -13880,10 +13880,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1779064457,
+      "lastUpdated": 1794999392,
       "relatedPermits": [],
-      "latitude": 49.168164,
-      "longitude": -122.909674
+      "latitude": 49.168221,
+      "longitude": -122.90969
     },
     {
       "primaryStreetName": "5301 3 AVE",
@@ -15834,18 +15834,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794913016,
+      "lastUpdated": 1794999392,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021800",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15870,18 +15870,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794913016,
+      "lastUpdated": 1794999392,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021801",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -15906,18 +15906,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1794913016,
+      "lastUpdated": 1794999392,
       "relatedPermits": [
-        {
-          "relatedPermitID": "BP021798",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "BP021799",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BP021800",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BP021798",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -22462,6 +22462,28 @@
       "longitude": -122.921476
     },
     {
+      "primaryStreetName": "CMPLX 11735 89A AVE",
+      "applicant": "",
+      "cityApplicationType": "Multi-Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023425",
+      "applicationDate": 1794999392,
+      "addresses": [
+        "CMPLX 11735 89A AVE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Replacing old decks with new decks - Units 9-16 and 25-28",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1794999392,
+      "relatedPermits": [],
+      "latitude": 49.165925,
+      "longitude": -122.897039
+    },
+    {
       "primaryStreetName": "1501 BEACH GROVE RD",
       "applicant": "",
       "cityApplicationType": "Residential",
@@ -25028,6 +25050,103 @@
       "major": true
     },
     {
+      "primaryStreetName": "1005 Tillicum Road",
+      "applicant": "Xquimalt Developments Ltd.",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000280",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "1005 Tillicum Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "33-unit residential development with 40 square metres of commercial space",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DP000280.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1140 Esquimalt Road",
+      "applicant": "Alastair Townsend",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000282",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "1140 Esquimalt Road",
+        "1148 Esquimalt Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "34-unit residential development",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DP000282.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "640 Lampson Street",
+      "applicant": "Xeniya Vins",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP000285",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "640 Lampson Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "34-unit residential development",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DP000285.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
+      "relatedPermits": []
+    },
+    {
       "primaryStreetName": "912 McNaughton Avenue",
       "applicant": "An Le and Hoa Kha",
       "cityApplicationType": "Development Variance",
@@ -26346,7 +26465,7 @@
         "604 Nelson Street"
       ],
       "status": "ACTIVE",
-      "purpose": "Reduction in setback to Nelson Street",
+      "purpose": "Reduction in parkade setback to Nelson Street",
       "progressSections": [
         {
           "taskDescription": "DVP00182 approved on June 1, 2026",
@@ -26364,7 +26483,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1780656958,
+      "lastUpdated": 1794999361,
       "relatedPermits": []
     },
     {
@@ -26621,6 +26740,135 @@
       "withApplicantDays": null,
       "city": "Esquimalt",
       "lastUpdated": 1787828205,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1340 Sussex Street",
+      "applicant": "Intracorp Projects, Ltd.",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00191",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "1340 Sussex Street",
+        "1337 Saunders Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduction in parkade setback to Nelson Street",
+      "progressSections": [
+        {
+          "taskDescription": "Presented to the Advisory Planning Commission on September 15, 2026",
+          "taskType": "",
+          "startDate": 1789455600,
+          "endDate": 1789455600
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00191.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1024 Munro Street",
+      "applicant": "Connor Ryan",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00192",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "1024 Munro Street"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reduction in rear setback and building separation for the accessory building",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00192.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1158 Heald Avenue",
+      "applicant": "Sandra Marshall",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00193",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "1158 Heald Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Retention of two separate single driveways",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00193.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "1213 Old Esquimalt Road",
+      "applicant": "Ronald Calderwood",
+      "cityApplicationType": "Development Variance",
+      "applicationType": "Development Permit",
+      "folderNumber": "DVP00194",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "1213 Old Esquimalt Road"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Addition to accessory building",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/DVP00194.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
       "relatedPermits": []
     },
     {
@@ -28007,10 +28255,10 @@
       "purpose": "To permit the use of Group Children's Day Care Centre",
       "progressSections": [
         {
-          "taskDescription": "Presented to the Advisory Planning Commission on August 18, 2026",
+          "taskDescription": "Council gave 1st and 2nd reading on November 16, 2026",
           "taskType": "",
-          "startDate": 1787036400,
-          "endDate": 1787036400
+          "startDate": 1794812400,
+          "endDate": 1794812400
         }
       ],
       "documents": [
@@ -28022,7 +28270,39 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1787324861,
+      "lastUpdated": 1794999361,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "477 Joffre Street South",
+      "applicant": "Jennifer Delaney and Nicholas Palaj",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "RZ000137",
+      "applicationDate": 1794999361,
+      "addresses": [
+        "477 Joffre Street South"
+      ],
+      "status": "ACTIVE",
+      "purpose": "To permit the use of Group Children's Day Care Centre",
+      "progressSections": [
+        {
+          "taskDescription": "Received",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Site Plan and Elevation",
+          "docURL": "https://www.esquimalt.ca/sites/default/files/docs/business-development/developments/RZ000137.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Esquimalt",
+      "lastUpdated": 1794999361,
       "relatedPermits": []
     },
     {
@@ -116957,7 +117237,7 @@
         "2425 CRANMORE RD"
       ],
       "status": "ACTIVE",
-      "purpose": "The amendment would increase the permitted floor space ratio (FSR) and basement floor area to allow a modest renovation of the existing 1912 home in keeping with the character of the neighbourhood. That renovation includes a small single-storey kitchen addition and a new secondary suite in the lower level.",
+      "purpose": "The amendment would increase the permitted floor area ratio (FAR) to allow a renovation of the existing home including a small single-storey kitchen addition as well as a new secondary suite in the lower level.",
       "progressSections": [
         {
           "taskDescription": "An application for a Zoning Bylaw Amendment has been received by the District.",
@@ -116968,7 +117248,7 @@
         {
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
-          "startDate": null,
+          "startDate": 1794466800,
           "endDate": null
         },
         {
@@ -117025,7 +117305,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1793689200,
+      "lastUpdated": 1794999128,
       "relatedPermits": []
     },
     {
@@ -130051,20 +130331,20 @@
       ],
       "documents": [
         {
-          "docName": "ELEVATION PLAN_OCT 21 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=56C56CB3-F752-4DCE-928F-EA8BCB32361B&folderId=34160C261023143848074980"
-        },
-        {
           "docName": "LANDSCAPE PLAN_OCT 21 2026",
           "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=8C79A843-A22C-4F50-B4EB-67530E7D8D76&folderId=34160C261023143848074980"
         },
         {
-          "docName": "SITE PLAN_OCT 21 2026",
-          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=9459BE71-D43D-45D0-81E9-A59CAFAA0004&folderId=34160C261023143848074980"
+          "docName": "REVISED_ELEVATIONS_NOV 10 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=27BF67B0-4E1F-40DE-86EE-3E22E83125AF&folderId=34160C261023143848074980"
+        },
+        {
+          "docName": "REVISED_SITE_NOV 10 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=DAB2C7F1-57D6-404B-893C-A1858B358D68&folderId=34160C261023143848074980"
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1794912769,
+      "lastUpdated": 1794999128,
       "relatedPermits": []
     },
     {
@@ -149039,12 +149319,30 @@
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1794466800,
+          "endDate": 1794898800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1794898800,
+          "endDate": 1794898800
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1794898800,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "INTERNAL REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1794567134,
+      "lastUpdated": 1794999128,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP23125",
@@ -155397,6 +155695,35 @@
       "withApplicantDays": null,
       "city": "Salt Spring",
       "lastUpdated": 1775741968,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "230 Smith Rd",
+      "applicant": "",
+      "cityApplicationType": "Land Use Bylaw Amendment",
+      "applicationType": "Rezoning",
+      "folderNumber": "PLRZ20250331",
+      "applicationDate": 1794999362,
+      "addresses": [
+        "230 Smith Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Application to amend the LUB  to facilitate new development on a four-lot, 93.03-hectare assembly at 230 Smith Road. Running concurrently with a boundary adjustment subdivision application, the rezoning would permit a retreat centre as a primary use; introduce a “retreat centre” definition to the land use bylaw; and include site specific requirements on each of the proposed parcels. The proposal would reduce the overall permitted residential density on the four parent lots from 41 to 9.",
+      "progressSections": [],
+      "documents": [
+        {
+          "docName": "SS-LTC_2026-04-09_PLRZ20250331_StaffReport_FINAL.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20250331%20-%20230%20Smith%20Rd/1.%20Staff%20Reports/SS-LTC_2026-04-09_PLRZ20250331_StaffReport_FINAL.pdf"
+        },
+        {
+          "docName": "SS-LTC_2026-06-11_PLRZ20250331_StaffReport_FINAL.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLRZ20250331%20-%20230%20Smith%20Rd/1.%20Staff%20Reports/SS-LTC_2026-06-11_PLRZ20250331_StaffReport_FINAL.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Salt Spring",
+      "lastUpdated": 1794999362,
       "relatedPermits": []
     },
     {
@@ -336166,7 +336493,7 @@
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01131",
-      "applicationDate": 1773990000,
+      "applicationDate": 1787641200,
       "addresses": [
         "639 FOUL BAY RD"
       ],
@@ -336209,7 +336536,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1792061493,
+      "lastUpdated": 1794999128,
       "relatedPermits": []
     },
     {
