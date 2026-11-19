@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1794999126,
+  "dateRetrieved": 1795085516,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4835,12 +4835,12 @@
           "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=52801C260122105035076658&folderId=33703C241224124145220589"
         },
         {
-          "docName": "7865 East Saanich_Letter of rationale WEB_Dec 20 24.pdf",
-          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=34313C250107142355221642&folderId=33703C241224124145220589"
+          "docName": "7865 East Saanich_Letter of rationale UPDATED WEB_Nov 16, 2026.pdf",
+          "docURL": "https://www.mycentralsaanich.ca/TempestLive/OURCITY/Prospero/FileDownload.aspx?fileId=0C6CE3B2-9D74-4D5C-B051-7ECDB05A7D05&folderId=33703C241224124145220589"
         }
       ],
       "city": "Central Saanich",
-      "lastUpdated": 1786475769,
+      "lastUpdated": 1795085518,
       "relatedPermits": [],
       "major": true,
       "storeys": 5
@@ -21657,13 +21657,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1785927375,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BP023230",
-          "relatedPermitType": "Development Permit"
-        }
-      ],
+      "lastUpdated": 1795085789,
+      "relatedPermits": [],
       "latitude": 49.004851,
       "longitude": -123.081904
     },
@@ -26853,10 +26848,10 @@
       "purpose": "Addition to accessory building",
       "progressSections": [
         {
-          "taskDescription": "Received",
+          "taskDescription": "Presented to the Advisory Planning Commission on November 17, 2026",
           "taskType": "",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1794898800,
+          "endDate": 1794898800
         }
       ],
       "documents": [
@@ -26868,7 +26863,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Esquimalt",
-      "lastUpdated": 1794999361,
+      "lastUpdated": 1795085759,
       "relatedPermits": []
     },
     {
@@ -148413,6 +148408,12 @@
           "taskType": "REFERRALS REVIEW",
           "startDate": 1794294000,
           "endDate": 1794294000
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -148426,7 +148427,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1794394340,
+      "lastUpdated": 1795085518,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP00892",
@@ -333949,12 +333950,12 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1791356400,
-          "endDate": null
+          "endDate": 1794985200
         },
         {
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
-          "startDate": null,
+          "startDate": 1794985200,
           "endDate": null
         },
         {
@@ -333989,7 +333990,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1794653538,
+      "lastUpdated": 1795085518,
       "relatedPermits": [
         {
           "relatedPermitID": "DDP01181",
@@ -337235,7 +337236,7 @@
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
           "startDate": 1790924400,
-          "endDate": 1792738800
+          "endDate": 1793602800
         },
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
@@ -337263,7 +337264,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1794567134,
+      "lastUpdated": 1795085518,
       "relatedPermits": []
     },
     {
@@ -344818,14 +344819,14 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1779447155,
+      "lastUpdated": 1795085518,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00880",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1728374400,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking.\n\nConcurrent with DP000645."
+          "relatedPermitDescription": "The City is considering a Rezoning application for a residential building with commercial on the ground floor and underground parking.\n\nConcurrent with DP000645."
         },
         {
           "relatedPermitID": "CLC00443",
@@ -402899,7 +402900,7 @@
         "741 FISGARD ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application for a multiple dwelling building with commercial on the ground floor and underground parking. Concurrent with DP000645.",
+      "purpose": "The City is considering a Rezoning application for a residential building with commercial on the ground floor and underground parking. Concurrent with DP000645.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -403013,7 +403014,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1785322396,
+      "lastUpdated": 1795085518,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000645",
@@ -408535,6 +408536,14 @@
       "progressSections": [],
       "documents": [
         {
+          "docName": "2026 11 05 Revised Letter to Mayor & Council",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2026-03 LMC Rev 2026 11 05.pdf"
+        },
+        {
+          "docName": "2026 11 03 Revised Plans",
+          "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2026-03 Plans Rev 2026 11 03.pdf"
+        },
+        {
           "docName": "2026 08 25 Letter to Mayor & Council",
           "docURL": "https://www.viewroyal.ca/assets/Business~and~Development/Land~Development/Active~Development~Apps/DP/DP 2026-03 LMC.pdf"
         },
@@ -408546,7 +408555,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1794912985,
+      "lastUpdated": 1795085760,
       "relatedPermits": []
     },
     {
@@ -409366,7 +409375,7 @@
         "32 HELMCKEN RD",
         "38 HELMCKEN RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "C-4 Neighbourhood Commercial",
       "progressSections": [],
       "documents": [],
@@ -409625,14 +409634,14 @@
       "relatedPermits": []
     },
     {
-      "primaryStreetName": "229 ISLAND HWY",
+      "primaryStreetName": "229 ISLAND HIGHWAY",
       "applicant": "",
       "cityApplicationType": "Rezoning",
       "applicationType": "Rezoning",
       "folderNumber": "REZ 2026-02",
       "applicationDate": 1778929343,
       "addresses": [
-        "229 ISLAND HWY"
+        "229 ISLAND HIGHWAY"
       ],
       "status": "ACTIVE",
       "purpose": "R-1 Detached Residential (Large Lot)",
@@ -409641,7 +409650,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "View Royal",
-      "lastUpdated": 1778929343,
+      "lastUpdated": 1795085760,
       "relatedPermits": []
     }
   ],
