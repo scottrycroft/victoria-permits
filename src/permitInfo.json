@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1795258327,
+  "dateRetrieved": 1795346097,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -4613,7 +4613,7 @@
     },
     {
       "primaryStreetName": "6996 CENTRAL SAANICH RD",
-      "applicant": "N/A",
+      "applicant": "",
       "cityApplicationType": "Rezoning and/or OCP Amendment",
       "applicationType": "Rezoning",
       "folderNumber": "PL001701",
@@ -4622,8 +4622,8 @@
         "6996 CENTRAL SAANICH RD",
         "7012 EAST SAANICH RD"
       ],
-      "status": "ACTIVE",
-      "purpose": "A 4 storey multi-family residential project providing 61 rental units (mix of studio, 1 and 2 bedroom)",
+      "status": "ARCHIVED",
+      "purpose": "APPLICATION DECLINED AT INTRODUCTION ON SEPT 8 2026 - A 4 storey multi-family residential project providing 61 rental units (mix of studio, 1 and 2 bedroom)",
       "progressSections": [
         {
           "taskDescription": "Staff are circulating and reviewing the application internally.",
@@ -4635,7 +4635,7 @@
           "taskDescription": "",
           "taskType": "COUNCIL FOR INTRO",
           "startDate": 1788850800,
-          "endDate": null
+          "endDate": 1788850800
         },
         {
           "taskDescription": "",
@@ -4694,7 +4694,22 @@
       ],
       "city": "Central Saanich",
       "lastUpdated": 1787395978,
-      "relatedPermits": [],
+      "relatedPermits": [
+        {
+          "relatedPermitID": "PL001713",
+          "relatedPermitType": "Subdivision",
+          "relatedPermitApplicationDate": 1736496000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "see PL001701"
+        },
+        {
+          "relatedPermitID": "PL001712",
+          "relatedPermitType": "DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1736496000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "see PL001701"
+        }
+      ],
       "storeys": 4
     },
     {
@@ -140175,7 +140190,7 @@
     },
     {
       "primaryStreetName": "3880 FINNERTY RD",
-      "applicant": "MICHAEL MOODY",
+      "applicant": "",
       "cityApplicationType": "DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DPR01078",
@@ -140183,7 +140198,7 @@
       "addresses": [
         "3880 FINNERTY RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "TO REZONE FROM RS-14 ZONE TO RA-11 ZONE TO CONSTRUCT A SIX STORY 59 UNIT APT BLG WITH UNDERGROUND PARKING- RENTAL UNITS",
       "progressSections": [
         {
@@ -140305,6 +140320,18 @@
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787036400,
           "endDate": 1790578800
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1792998000,
+          "endDate": 1792998000
+        },
+        {
+          "taskDescription": "Application approved by Council - work must commence within 2 years from date of approval",
+          "taskType": "APPLICATION APPROVED BY COUNCIL",
+          "startDate": 1792998000,
+          "endDate": 1792998000
         }
       ],
       "documents": [
@@ -140329,14 +140356,22 @@
       "lastUpdated": 1790679132,
       "relatedPermits": [
         {
+          "relatedPermitID": "CBP00200",
+          "relatedPermitType": "COMMERCIAL BUILDING PERMIT",
+          "relatedPermitApplicationDate": 1793865600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "DEMOLISH EXISTING SINGLE FAMILY DWELLING FOR FUTURE SIX STORY 59 UNIT APARTMENT BUILDING"
+        },
+        {
           "relatedPermitID": "REZ00781",
           "relatedPermitType": "REZONING",
           "relatedPermitApplicationDate": 1733990400,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE FROM RS-14 ZONE TO RA-11 ZONE TO CONSTRUCT A SIX STORY  70 UNIT APT BLG WITH UNDERGROUND PARKING"
+          "relatedPermitDescription": "TO REZONE FROM RS-14 ZONE TO RA-11 ZONE TO CONSTRUCT A SIX STORY  59 UNIT APT BLG WITH UNDERGROUND PARKING"
         }
       ],
       "major": true,
+      "approvalStatus": "Approved",
       "storeys": 6
     },
     {
@@ -155756,12 +155791,24 @@
         {
           "docName": "SS_LTC-2026_08-10_PLDVP20250460_JNowell_EMl_R.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026_08-10_PLDVP20250460_JNowell_EMl_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-06-22_434BakerRd_DP_DVP_RationaleUpd.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/5.%20Other%20Information/SS-LTC-2026-06-22_434BakerRd_DP_DVP_RationaleUpd.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-06-22_434BakerRd_DP_DVP_SitePlnUpd.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/5.%20Other%20Information/SS-LTC-2026-06-22_434BakerRd_DP_DVP_SitePlnUpd.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-06-22_434BakerRd_DP_DVP_TechReportUpd.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/5.%20Other%20Information/SS-LTC-2026-06-22_434BakerRd_DP_DVP_TechReportUpd.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1795258566,
+      "lastUpdated": 1795344988,
       "relatedPermits": []
     },
     {
@@ -168418,7 +168465,7 @@
         "689 E 17TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct will be installed for the Restaurant (shell) at 3281 Fraser St.\n\n29-Jan-2026 - Stage I (Excavation, Shoring & Foundation to Grade)  issued. \n28-Aug-2026 - Stage II (Full Permit) issued. \n\n\nRev#1 - Pending DP Compliance Letter \nApplicant's name reverted to the name of original applicant - Jack Hui, P. Eng. CP \nChanges per Change memos issued by A/E/M/S consultants \n1. Common Area Door Changes,\n2. Curtain Wall Revisions at CRU 01,\n3. Interior Partition Wall Changes Between CRUs,\n4. Level 6 Amenity Terrace and Amenity Corridor Changes,\n5. Level 16 Amenity Terrace Changes and Relocation of Rooftop Heat Pumps to P1 Level\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
+      "purpose": "Certified Professional Program - New Building - To construct a 16 storey (14 DZ/ByL)  mixed-use building consisting of:\n1st storey - one restaurant (shell), one retail (shell) & one 2-storey townhouse,\n3rd to 15 storey - 109 residential units,\nwith amenity spaces on the 6th &16th storeys, \n\nall over 3 levels of underground parking. \n\nNote: \n- This building contains in total 110 dwelling units. \n- VBBL 2019. \n- A radio antenna system to be installed in this building.\n- One 2-hr rated horizontal pre-shaft with duct will be installed for the Restaurant (shell) at 3281 Fraser St.\n\n29-Jan-2026 - Stage I (Excavation, Shoring & Foundation to Grade)  issued. \n28-Aug-2026 - Stage II (Full Permit) issued. \n\n\nRev#1 - Pending DP Compliance Letter ( most of docs uploaded on Oct 21, 2026)  \nApplicant's name reverted to the name of original applicant - Jack Hui, P. Eng. CP \nChanges per Change memos issued by A/E/M/S consultants \n1. Common Area Door Changes,\n2. Curtain Wall Revisions at CRU 01,\n3. Interior Partition Wall Changes Between CRUs,\n4. Level 6 Amenity Terrace and Amenity Corridor Changes,\n5. Level 16 Amenity Terrace Changes and Relocation of Rooftop Heat Pumps to P1 Level\nProject Value: $36,930,000.00\nProperty Use: Dwelling Uses, Parking Uses, Retail Uses, Service Uses\nSpecific Use: Restaurant - Class 1, Mixed-Use Residential Building, Parking Garage, Retail Store\nNeighbourhood: Riley Park\nContractor: APG Construction Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -168449,7 +168496,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1793876248,
+      "lastUpdated": 1795345041,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2024-03975",
@@ -221954,7 +222001,7 @@
         "4495 WALDEN STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - *Part 5 Design*  To construct a three-storey 3-unit Multiple Dwelling \"Multiplex\" with 4 parking spaces provided in detached carport having access from the lane.\n\nNotes:\n\n1. Schedules submitted: A/B (Arch-Part 5)/D, B (Arch), B (Geo), B (Struct)\n2. Building to be sprinklered to Modified NFPA 13R per Bulletin 2025-003-BU\n\nBuilding permit issued pursuant to VBBL #14343 (2025)\nProject Value: $2,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Riley Park\nContractor: Mahnger Homes Ltd",
+      "purpose": "High Density Housing / Commercial - New Building - *** Part 5  ***  To construct a three-storey 3-unit Multiple Dwelling \"Multiplex\" with 4 parking spaces provided in detached carport having access from the lane.\n\nNotes:\n\n1. Schedules submitted: A/B (Arch-Part 5)/D, B (Arch), B (Geo), B (Struct)\n2. Building to be sprinklered to Modified NFPA 13R per Bulletin 2025-003-BU\n\nBuilding permit issued pursuant to VBBL #14343 (2025)\nProject Value: $2,000,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Riley Park\nContractor: Mahnger Homes Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -221973,7 +222020,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1795345041,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2026-00466",
@@ -227382,6 +227429,84 @@
       "projectValue": 292000,
       "latitude": 49.285661,
       "longitude": -123.053315,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3514 W 14TH AVENUE",
+      "applicant": "Jack McDonald DBA: Jack McDonald Residential Design",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00835",
+      "applicationDate": 1773302400,
+      "addresses": [
+        "3514 W 14TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building and a two-storey one-unit rear building with a carport providing two parking spaces having vehicular access from the lane.\n\nBuilding envelope and environmental separation as per Part 5 design.\n\nNote: The entire building to be sprinklered to 2xNFPA 13D \n\nNote:  This is a 3 storey building pursuant to the Zoning & Development By-law.\n\n1. Mechanical unit proposed – Exterior component located in front yard & court yard. Interior component located in half storey closet.\n2. Schedule A, B, and D: (S. HUANG) P.Eng (604.401.6588) Architectural\n3. Schedule B: (R. A. GRAY) P.Eng (604.319.3503) Structural\n4. Schedule B: (P. K. L. FONG) P.Eng (604.837.3205) Geotechnical\n5. HPO: Residential Builder - Jeff. Henderson Construction Ltd.\n\nNote: This 3 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to 2 X NFPA 13D\n\nAddress Information:\n\nBuilding 1 (Main) (North)\n#1-3514 W 14th Av - One Dwelling Unit (north side 1st - 3rd floor) (primary)\n#2-3514 W 14th Av - One Dwelling Unit (south side 1st - 3rd floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $855,890.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kitsilano",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773302400,
+          "endDate": 1773302400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773302400,
+          "endDate": 1773302400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773302400,
+      "relatedPermits": [],
+      "projectValue": 855890,
+      "latitude": 49.259532,
+      "longitude": -123.182375,
+      "minor": true,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "3512 W 14TH AVENUE",
+      "applicant": "Jack McDonald DBA: Jack McDonald Residential Design",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-00836",
+      "applicationDate": 1773302400,
+      "addresses": [
+        "3512 W 14TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling \"Multiplex\" with a three-storey two-unit front building and a two-storey one-unit rear building with a carport providing two parking spaces having vehicular access from the lane.\n\nBuilding envelope and environmental separation as per Part 5 design.\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nNote:  This is a 3 storey building pursuant to the Zoning & Development By-law.\n\n1. Mechanical unit proposed – Exterior component located in court yard. Interior component located in \n2. Schedule B: (R. A. GRAY) P.Eng (604.319.3503) Structural\n3. Schedule B: (P. K. L. FONG) P.Eng (604.837.3205) Geotechnical\n4. HPO: Residential Builder - Jeff. Henderson Construction Ltd.\n\nNote: This 2 storey building is pursuant to the Zoning and Development By-Law\n\nNote: The entire building to be sprinklered to NFPA 13D\n\nAddress Information:\n\nBuilding 2 (South)\n3512 W 14th Av (1st - 2nd floor)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted and to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $133,340.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kitsilano",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1773302400,
+          "endDate": 1773302400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1773302400,
+          "endDate": 1773302400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1773302400,
+      "relatedPermits": [],
+      "projectValue": 133340,
+      "latitude": 49.259761,
+      "longitude": -123.182323,
+      "minor": true,
       "approvalStatus": "Approved",
       "storeys": 3
     },
@@ -339241,7 +339366,7 @@
     },
     {
       "primaryStreetName": "626 MANCHESTER RD",
-      "applicant": "MICHAEL MOODY",
+      "applicant": "",
       "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
       "applicationType": "Development Permit",
       "folderNumber": "DDP01171",
@@ -339249,19 +339374,19 @@
       "addresses": [
         "626 MANCHESTER RD"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The City is reviewing a Delegated Development Permit application for changes to previously approved DDP resulting from building permit revisions.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Di",
       "progressSections": [
         {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1794985200,
+          "endDate": 1794985200
         }
       ],
       "documents": [
         {
-          "docName": "2026-08-27 - Plans_Submission.pdf",
+          "docName": "FINAL APPROVED PLANS",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=93153C260827125652163307&folderId=EiI2YgOpeUS6u9/uX+iKtg"
         }
       ],
@@ -339303,7 +339428,8 @@
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "During the COVID-19 pandemic, development application plans will be posted here as a substitute for the Community Association Land Use Committee (CALUC) Community Meeting.\n\nLooking for details?\n\nView the plans under Documents below\nContact the applicant noted above\nContact the appropriate CALUC\nContact City staff for information on the Rezoning process\n\n\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca \n\nIf a Rezoning Application has been submitted, it will be listed below under “Related Permits and Applications”."
         }
-      ]
+      ],
+      "approvalStatus": "Approved"
     },
     {
       "primaryStreetName": "1778 ADANAC ST",
