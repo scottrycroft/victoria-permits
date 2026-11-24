@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1795431115,
+  "dateRetrieved": 1795517518,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22030,6 +22030,28 @@
       "longitude": -123.082372
     },
     {
+      "primaryStreetName": "8536 TERRACE DR",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023243",
+      "applicationDate": 1795517743,
+      "addresses": [
+        "8536 TERRACE DR"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Duplex",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1795517743,
+      "relatedPermits": [],
+      "latitude": 49.159983,
+      "longitude": -122.928591
+    },
+    {
       "primaryStreetName": "10877 64A AVE",
       "applicant": "",
       "cityApplicationType": "Residential",
@@ -22855,8 +22877,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1795172201,
-      "relatedPermits": [],
+      "lastUpdated": 1795517743,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP023406",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 49.08393,
       "longitude": -123.087089,
       "minor": true
@@ -23060,6 +23087,28 @@
       "relatedPermits": [],
       "latitude": 49.143006,
       "longitude": -122.903143
+    },
+    {
+      "primaryStreetName": "42 GEORGIA WYND",
+      "applicant": "",
+      "cityApplicationType": "Residential",
+      "applicationType": "Development Permit",
+      "folderNumber": "BP023499",
+      "applicationDate": 1795517743,
+      "addresses": [
+        "42 GEORGIA WYND"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "progressSections": [],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Delta",
+      "lastUpdated": 1795517743,
+      "relatedPermits": [],
+      "latitude": 49.003619,
+      "longitude": -123.086345
     },
     {
       "primaryStreetName": "429 Lampson Street",
@@ -119214,7 +119263,7 @@
       "addresses": [
         "13911 Vulcan Way Guhan Chendumathan (604)771-7119"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Equipment Foundations\nWork Proposed: Alteration\nConstruction Value: $500,000.00 1 $500,000.00",
       "progressSections": [
         {
@@ -125577,7 +125626,7 @@
       "addresses": [
         "8181 Cambie Road DA Architects (Juliana Milbratz) (604) 685-6312"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Building Type: Hotel\nWork Proposed: Alteration\nConstruction Value: $45,000.00 1 $45,000.00",
       "progressSections": [
         {
@@ -125820,6 +125869,62 @@
       "withApplicantDays": null,
       "city": "Richmond",
       "lastUpdated": 1778410994,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4640 Smith Crescent",
+      "applicant": "Terjinder Chung (778)865-1367",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-25-022293-000-00-D7",
+      "applicationDate": 1794816000,
+      "addresses": [
+        "4640 Smith Crescent"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: GRG Site Services Ltd (778)829-4892",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794816000,
+          "endDate": 1794816000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1795517740,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "4640 Smith Cr",
+      "applicant": "Terjinder Chung (778)865-1367",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-25-022294-000-00-D7",
+      "applicationDate": 1794816000,
+      "addresses": [
+        "4640 Smith Cr"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: Access Building Detach\nWork Proposed: Demolish\nContractor: GRG Site Services Ltd (778)829-4892\nDescription: Detached Garage",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794816000,
+          "endDate": 1794816000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1795517740,
       "relatedPermits": [],
       "approvalStatus": "Approved"
     },
@@ -127644,6 +127749,62 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "4271 Granville Avenue",
+      "applicant": "Jason Chen (604)729-5689",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-023934-000-00-D7",
+      "applicationDate": 1794816000,
+      "addresses": [
+        "4271 Granville Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: Hayer Demolition Ltd (604)614-3318",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794816000,
+          "endDate": 1794816000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1795517740,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
+      "primaryStreetName": "3571 Rosamond Avenue",
+      "applicant": "Harjinder Johal (778)999-1093",
+      "cityApplicationType": "Demolition",
+      "applicationType": "Demolition",
+      "folderNumber": "DEM-26-023950-000-00-D7",
+      "applicationDate": 1794988800,
+      "addresses": [
+        "3571 Rosamond Avenue"
+      ],
+      "status": "ARCHIVED",
+      "purpose": "Building Type: One Family Dwelling\nWork Proposed: Demolish\nContractor: MBD Demolition and Excavation Ltd (604)765-2316",
+      "progressSections": [
+        {
+          "taskDescription": "Permit issued",
+          "taskType": "Approved",
+          "startDate": 1794988800,
+          "endDate": 1794988800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Richmond",
+      "lastUpdated": 1795517740,
+      "relatedPermits": [],
+      "approvalStatus": "Approved"
+    },
+    {
       "primaryStreetName": "4670 ELK LAKE DR",
       "applicant": "STUDIO 531 ARCHITECT",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
@@ -129093,14 +129254,13 @@
       "storeys": 6
     },
     {
-      "primaryStreetName": "3347 GLASGOW AVE",
+      "primaryStreetName": "3351 GLASGOW AVE",
       "applicant": "ALAN LOWE ARCHITECT INC",
       "cityApplicationType": "DEVELOPMENT PERMIT AMENDMENT",
       "applicationType": "Development Permit",
       "folderNumber": "DPA01113",
       "applicationDate": 1774854000,
       "addresses": [
-        "3347 GLASGOW AVE",
         "3351 GLASGOW AVE"
       ],
       "status": "ACTIVE",
@@ -129182,7 +129342,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1794653538,
+      "lastUpdated": 1795517521,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26597",
@@ -142518,6 +142678,12 @@
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1793689200,
+          "endDate": 1795417200
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1795417200,
           "endDate": null
         }
       ],
@@ -142540,7 +142706,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793875976,
+      "lastUpdated": 1795517521,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00799",
@@ -146363,7 +146529,7 @@
         "5166 CORDOVA BAY RD"
       ],
       "status": "ACTIVE",
-      "purpose": "TO REZONE FROM C-2 GENERAL COMMERCIAL TO A MIXED-USE ZONE TO CONSTRUCT A FOUR-STOREY MIXED-USE BUILDING WITH 39 RESIDENTIAL RENTAL UNITS",
+      "purpose": "TO REZONE FROM C-2 GENERAL COMMERCIAL TO A MIXED-USE ZONE TO CONSTRUCT A FOUR-STOREY MIXED-USE BUILDING",
       "progressSections": [
         {
           "taskDescription": "Date when application is received",
@@ -146402,21 +146568,39 @@
           "endDate": 1795071600
         },
         {
+          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
+          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
+          "startDate": 1795071600,
+          "endDate": 1795417200
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1795417200,
+          "endDate": 1795417200
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1795417200,
+          "endDate": 1795417200
+        },
+        {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "REFERRALS",
           "startDate": 1792998000,
           "endDate": null
         },
         {
-          "taskDescription": "District departments require further information, revisions, or documentation from applicant",
-          "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
-          "startDate": 1795071600,
+          "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
+          "taskType": "REFERRALS",
+          "startDate": null,
           "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1795171930,
+      "lastUpdated": 1795517521,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00822",
@@ -148369,11 +148553,17 @@
           "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
           "startDate": 1782716400,
           "endDate": 1782716400
+        },
+        {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1784199212,
+      "lastUpdated": 1795517521,
       "relatedPermits": [
         {
           "relatedPermitID": "SUB00982",
@@ -155594,14 +155784,14 @@
       ],
       "documents": [],
       "city": "Saanich",
-      "lastUpdated": 1790333537,
+      "lastUpdated": 1795517521,
       "relatedPermits": [
         {
           "relatedPermitID": "DPR01132",
           "relatedPermitType": "DEVELOPMENT PERMIT",
           "relatedPermitApplicationDate": 1789545600,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "TO REZONE FROM C-2 GENERAL COMMERCIAL TO A MIXED-USE ZONE TO CONSTRUCT A FOUR-STOREY MIXED-USE BUILDING WITH 39 RESIDENTIAL RENTAL UNITS"
+          "relatedPermitDescription": "TO REZONE FROM C-2 GENERAL COMMERCIAL TO A MIXED-USE ZONE TO CONSTRUCT A FOUR-STOREY MIXED-USE BUILDING"
         }
       ],
       "major": true
@@ -230470,6 +230660,210 @@
       "minor": true,
       "approvalStatus": "Approved",
       "storeys": 1
+    },
+    {
+      "primaryStreetName": "6308 MCCLEERY STREET",
+      "applicant": "QI LI DBA: LQD Design  Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-02151",
+      "applicationDate": 1782460800,
+      "addresses": [
+        "6308 MCCLEERY STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - BLDG A – FRONT \n\nTo construct a Multiple Dwelling (Multiplex) consisting of two 3-storey, 1-unit front buildings and two 2-storey, 1-unit rear buildings, with five surface parking spaces accessed from the lane.\n\n1.\\tMechanical unit proposed – Exterior component located in Rear Yard; Interior component located in partial stories, and mechanical closets. \n2.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Structural\n3.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Geotechnical\n4.\\tHPO: Residential Builder- (Citrine Homes Ltd)\n\n•\\tNote: The entire building to be sprinklered to NFPA 13D \n\nBP-2026-02151 - Building A – 1 units\nBP-2026-02153 - Building B – 1 units\nBP-2026-02154 - Building C – 1 units\nBP-2026-02155 - Building D – 1 units\n\n*Drawings and documents for site uploaded to BP-2026-02151\n\nAddressing Info:\n\nBuilding 1 (south west) \n6308 McCleery St - One Dwelling Unit (basement, 1st-2nd floors + deck)\n\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n\nNEW R1-1 BYLAW  \n\n*This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*\nProject Value: $702,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale\nContractor: Citrine Homes Ltd",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1782460800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-02153",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02154",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02155",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 702000,
+      "latitude": 49.229213,
+      "longitude": -123.168886,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "2850 W 47TH AVENUE",
+      "applicant": "QI LI DBA: LQD Design  Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-02153",
+      "applicationDate": 1782460800,
+      "addresses": [
+        "2850 W 47TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - BLDG B – FRONT \n\nTo construct a Multiple Dwelling (Multiplex) consisting of two 3-storey, 1-unit front buildings and two 2-storey, 1-unit rear buildings, with five surface parking spaces accessed from the lane.\n\n1.\\tMechanical unit proposed – Exterior component located in Rear Yard; Interior component located in partial stories, and mechanical closets. \n2.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Structural\n3.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Geotechnical\n4.\\tHPO: Residential Builder- (Citrine Homes Ltd)\n\n•\\tNote: The entire building to be sprinklered to NFPA 13D \n\nBP-2026-02151 - Building A – 1 units\nBP-2026-02153 - Building B – 1 units\nBP-2026-02154 - Building C – 1 units\nBP-2026-02155 - Building D – 1 units\n\n*Drawings and documents for site uploaded to BP-2026-02151\n\nAddressing Info:\n\nBuilding 2 (north west)\n2850 W 47th Av - One Dwelling Unit (basement, 1st-2nd floors + deck) (Primary Address)\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n\nNEW R1-1 BYLAW  \n\n*This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*\nProject Value: $705,750.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1782460800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-02151",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02154",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02155",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 705750,
+      "latitude": 49.229183,
+      "longitude": -123.168499,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "2848 W 47TH AVENUE",
+      "applicant": "QI LI DBA: LQD Design  Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-02154",
+      "applicationDate": 1782460800,
+      "addresses": [
+        "2848 W 47TH AVENUE"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - BLDG C – FRONT \n\nTo construct a Multiple Dwelling (Multiplex) consisting of two 3-storey, 1-unit front buildings and two 2-storey, 1-unit rear buildings, with five surface parking spaces accessed from the lane.\n\n1.\\tMechanical unit proposed – Exterior component located in Rear Yard; Interior component located in partial stories, and mechanical closets. \n2.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Structural\n3.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Geotechnical\n4.\\tHPO: Residential Builder- (Citrine Homes Ltd)\n\n•\\tNote: The entire building to be sprinklered to NFPA 13D \n\nBP-2026-02151 - Building A – 1 units\nBP-2026-02153 - Building B – 1 units\nBP-2026-02154 - Building C – 1 units\nBP-2026-02155 - Building D – 1 units\n\n*Drawings and documents for site uploaded to BP-2026-02151\n\nAddressing Info:\nBuilding 3 (north east)\n2848 W 47th Av - One Dwelling Unit ( 1st-2nd floors)\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n\nNEW R1-1 BYLAW  \n\n*This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*\nProject Value: $430,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1782460800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-02151",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02153",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02155",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 430000,
+      "latitude": 49.229284,
+      "longitude": -123.168493,
+      "approvalStatus": "Approved",
+      "storeys": 3
+    },
+    {
+      "primaryStreetName": "6310 MCCLEERY STREET",
+      "applicant": "QI LI DBA: LQD Design  Ltd",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2026-02155",
+      "applicationDate": 1782460800,
+      "addresses": [
+        "6310 MCCLEERY STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Low Density Housing - New Building - BLDG D – FRONT \n\nTo construct a Multiple Dwelling (Multiplex) consisting of two 3-storey, 1-unit front buildings and two 2-storey, 1-unit rear buildings, with five surface parking spaces accessed from the lane.\n\n1.\\tMechanical unit proposed – Exterior component located in Rear Yard; Interior component located in partial stories, and mechanical closets. \n2.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Structural\n3.\\tSchedule B: (Jason Hui) P.Eng (778-319-3403) Geotechnical\n4.\\tHPO: Residential Builder- (Citrine Homes Ltd)\n\n\n•\\tNote: The entire building to be sprinklered to NFPA 13D \n\nBP-2026-02151 - Building A – 1 units\nBP-2026-02153 - Building B – 1 units\nBP-2026-02154 - Building C – 1 units\nBP-2026-02155 - Building D – 1 units\n\n*Drawings and documents for site uploaded to BP-2026-02151\n\nAddressing Info:\nBuilding 4 (south east )\n6310 McCleery St - One Dwelling Unit (1st-2nd floors)\nAddress number assigned as per approved plans for Fire and Emergency response. The address number is to be posted to the building and to be visible from the street in accordance with the Building By-law prior to final inspection. \n\n\nNEW R1-1 BYLAW  \n\n*This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*\nProject Value: $430,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Kerrisdale",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1782460800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-02151",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02153",
+          "relatedPermitType": "Building Permit"
+        },
+        {
+          "relatedPermitID": "BP-2026-02154",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
+      "projectValue": 430000,
+      "latitude": 49.229194,
+      "longitude": -123.168886,
+      "approvalStatus": "Approved",
+      "storeys": 3
     },
     {
       "primaryStreetName": "3040 W 2ND AVENUE",
@@ -340283,7 +340677,7 @@
         "2500 ROCK BAY AVE"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is reviewing a Delegated Development Permit application to vary light industrial use % on a lot.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "purpose": "The City is reviewing a Delegated Development Permit application to reduce the amount of light industrial use.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
       "progressSections": [
         {
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
@@ -340309,7 +340703,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1794985200,
+      "lastUpdated": 1795517521,
       "relatedPermits": []
     },
     {
@@ -363971,14 +364365,14 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1783421607,
+      "lastUpdated": 1795517521,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00884",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1733212800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Rezoning application to allow one residential rental building with the existing church.\n\nConcurrent with DPV00298 and HAP00267."
+          "relatedPermitDescription": "The City is considering a Rezoning application to subdivide to allow one residential rental building.\n\nConcurrent with DPV00298 and HAP00267."
         },
         {
           "relatedPermitID": "HAP00267",
@@ -404401,7 +404795,7 @@
         "1909 COOK ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to allow one residential rental building with the existing church. Concurrent with DPV00298 and HAP00267.",
+      "purpose": "The City is considering a Rezoning application to subdivide to allow one residential rental building. Concurrent with DPV00298 and HAP00267.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -404569,7 +404963,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1784631190,
+      "lastUpdated": 1795517521,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00298",
@@ -409156,7 +409550,7 @@
       "addresses": [
         "49 Tovey Crescent"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This application proposes an addition to the dwelling and refurbishment to the dock and deck structures.",
       "progressSections": [],
       "documents": [
@@ -409353,7 +409747,7 @@
       "addresses": [
         "1720 Wilfert Road"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "This application proposes new development within an environmental development permit area.",
       "progressSections": [],
       "documents": [
@@ -409382,7 +409776,7 @@
       "addresses": [
         "1720 Wilfert Road"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "The application proposes a daycare development.",
       "progressSections": [],
       "documents": [
@@ -410527,7 +410921,7 @@
       "addresses": [
         "229 ISLAND HIGHWAY"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "R-1 Detached Residential (Large Lot)",
       "progressSections": [],
       "documents": [],
@@ -410582,8 +410976,8 @@
       "SU": "https://www.crd.ca/media/file/jdf-subdivisions-0"
     },
     "Richmond": {
-      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportnov8-14202681027.pdf",
-      "DEM": "https://www.richmond.ca/__shared/assets/demoreportnov8-14202681028.pdf"
+      "BLD": "https://www.richmond.ca/__shared/assets/buildingreportnov15-21202681063.pdf",
+      "DEM": "https://www.richmond.ca/__shared/assets/demoreportnov15-21202681064.pdf"
     },
     "Salt Spring": {
       "*": "https://islandstrust.bc.ca/island-planning/salt-spring/current-applications/"
