@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1795603910,
+  "dateRetrieved": 1795690314,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -22827,13 +22827,13 @@
         "5663 ABBEY DR"
       ],
       "status": "ACTIVE",
-      "purpose": "Residential - New Construction - Single Detached Dwelling",
+      "purpose": "To construct a SFD w bsmt & sec suite.",
       "progressSections": [],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Delta",
-      "lastUpdated": 1793357784,
+      "lastUpdated": 1795690572,
       "relatedPermits": [],
       "latitude": 49.105922,
       "longitude": -122.892094
@@ -117285,7 +117285,7 @@
         {
           "taskDescription": "Meeting date of council for initial consideration of the application of whether to direct staff to proceed with notification.",
           "taskType": "*COUNCIL MEETING",
-          "startDate": 1797231600,
+          "startDate": null,
           "endDate": null
         },
         {
@@ -117360,7 +117360,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1795603913,
+      "lastUpdated": 1795690316,
       "relatedPermits": []
     },
     {
@@ -117570,12 +117570,12 @@
           "taskDescription": "The application is under review by District Staff.",
           "taskType": "*INITIAL STAFF REVIEW OF APPLICATION DOCUMENTS",
           "startDate": 1794466800,
-          "endDate": null
+          "endDate": 1795590000
         },
         {
           "taskDescription": "Applicant to provide further information, revisions, and/or documentation as requested by staff.",
           "taskType": "*WITH APPLICANT",
-          "startDate": null,
+          "startDate": 1795590000,
           "endDate": null
         },
         {
@@ -117626,7 +117626,7 @@
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1794999128,
+      "lastUpdated": 1795690316,
       "relatedPermits": []
     },
     {
@@ -149850,18 +149850,33 @@
           "taskDescription": "File Manager review of application for completeness",
           "taskType": "FILE MANAGER INTAKE",
           "startDate": 1794898800,
-          "endDate": null
+          "endDate": 1795590000
         },
         {
           "taskDescription": "Application circulated internally to District Departments and to external agencies for review and comment",
           "taskType": "INTERNAL REFERRALS",
-          "startDate": null,
-          "endDate": null
+          "startDate": 1795590000,
+          "endDate": 1795590000
+        },
+        {
+          "taskDescription": "Review of referrals by File Manager",
+          "taskType": "REFERRALS REVIEW",
+          "startDate": 1795590000,
+          "endDate": 1795590000
         }
       ],
-      "documents": [],
+      "documents": [
+        {
+          "docName": "PLANS_ELEVATIONS_NOV 3 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=AB341AE3-359A-4BF5-9127-48AAFD2A26B1&folderId=38226C261104105626786149"
+        },
+        {
+          "docName": "PLANS_SITE_NOV 3 2026",
+          "docURL": "https://online.saanich.ca/Tempest/OurCity/Prospero/FileDownload.aspx?fileId=11811DCE-277B-4FF2-A79F-9E43DBB27467&folderId=38226C261104105626786149"
+        }
+      ],
       "city": "Saanich",
-      "lastUpdated": 1794999128,
+      "lastUpdated": 1795690316,
       "relatedPermits": [
         {
           "relatedPermitID": "TRP23125",
@@ -155924,104 +155939,12 @@
         {
           "docName": "SS_LTC2026-08-27_PLDVP20250460_SR.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/1.%20Staff%20Reports/SS_LTC2026-08-27_PLDVP20250460_SR.pdf"
-        },
-        {
-          "docName": "SS-LTC-2025-08-14_PLDVP20250460_BKraft_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2025-08-14_PLDVP20250460_BKraft_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-10_PLDDVP20250460_DDunnison_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDDVP20250460_DDunnison_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-10_PLDVP20250460_HKuhrt_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDVP20250460_HKuhrt_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-10_PLDVP20250460_SBarclay_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDVP20250460_SBarclay_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-11_PLDVP20250460_DMagnusson_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_DMagnusson_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-11_PLDVP20250460_JWagner_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_JWagner_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-12_PLDVP20250460_MMcLeod_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_MMcLeod_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-12_PLDVP20250460_SHall_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_SHall_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-13_PLDVP20250460_CJohnson_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-13_PLDVP20250460_CJohnson_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-13_PLDVP20250460_TStafford_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-13_PLDVP20250460_TStafford_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-14_PLDVP20250460ApplicantLetterofSupport_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-14_PLDVP20250460ApplicantLetterofSupport_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-24_PLDVP20250460_BMilne-EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-24_PLDVP20250460_BMilne-EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC-2026-8-26_PLDVP20260460_PRees_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-8-26_PLDVP20260460_PRees_EML_R.pdf"
-        },
-        {
-          "docName": "SS-LTC_2026-08-27_PLDVP20250460_GCherneff_Letter_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC_2026-08-27_PLDVP20250460_GCherneff_Letter_R.pdf"
-        },
-        {
-          "docName": "SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf"
-        },
-        {
-          "docName": "SS_LTC-2026-08-07_PLDVP20250460_HJang-EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-07_PLDVP20250460_HJang-EML_R.pdf"
-        },
-        {
-          "docName": "SS_LTC-2026-08-07_PLDVP20250460_JSpiers_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-07_PLDVP20250460_JSpiers_EML_R.pdf"
-        },
-        {
-          "docName": "SS_LTC-2026-08-10_PLDVP20250460_AEtt_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-10_PLDVP20250460_AEtt_EML_R.pdf"
-        },
-        {
-          "docName": "SS_LTC-2026-08-13_PLDVP20250460_JGange_EML_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-13_PLDVP20250460_JGange_EML_R.pdf"
-        },
-        {
-          "docName": "SS_LTC-2026_08-10_PLDVP20250460_JNowell_EMl_R.pdf",
-          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026_08-10_PLDVP20250460_JNowell_EMl_R.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1795431274,
+      "lastUpdated": 1795690540,
       "relatedPermits": []
     },
     {
@@ -178217,7 +178140,7 @@
         "2352 W 4TH AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "High Density Housing / Commercial - New Building - To construct a two-story mixed-use commercial building containing three Retail - shell (Group E) units and one Restaurant - Class 1 shell (Group A2) unit on the ground floor, and one Office unit (Group D) on the second floor, and surface parking at the rear, with vehicle access from the lane.\n\nNotes:\n- Pre-shaft: One 1-hr vertical kitchen exhaust shaft is proposed for the future restaurant suite at 2356 W 4th Av. Grease duct to be installed by future tenant.\n\n*** Reviewed under the VBBL 2019 ***\n\nRevision #1 - Nov xx, 2026 - J. Chen\n- Combined suite #102 and #103 and change major occupancy and use from Retail to Office (Bank) - Shell and to change storefront doors and glazing configuration.\n- Modified floor layout including enlarging electrical room, removing demising wall, one rear door and ramp, relocating in-suite bike storage to rear.\n- Added cladding at north elevation to split glazing pattern for structural purposes.\n- Provisions to accommodate the gas meter based on coordination with BC Hydro.\n- Change one parking stall from small car to regular. \n*Changes are permitted under DP-2025-00873.\nProject Value: $3,010,000.00\nProperty Use: Office Uses, Retail Uses, Service Uses\nSpecific Use: General Office, Financial Institution, Restaurant - Class 1, Retail Store\nNeighbourhood: Kitsilano\nContractor: VENTANA (SPECIAL PROJECTS) CORP.",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a two-story mixed-use commercial building containing three Retail - shell (Group E) units and one Restaurant - Class 1 shell (Group A2) unit on the ground floor, and one Office unit (Group D) on the second floor, and surface parking at the rear, with vehicle access from the lane.\n\nNotes:\n- Pre-shaft: One 1-hr vertical kitchen exhaust shaft is proposed for the future restaurant suite at 2356 W 4th Av. Grease duct to be installed by future tenant.\n\n*** Reviewed under the VBBL 2019 ***\n\nRevision #1 - Nov xx, 2026 - J. Chen\n- Combined suite #102 and #103 and change major occupancy and use from Retail to Office (Bank) - Shell and to change storefront doors and glazing configuration.\n- Modified floor layout including enlarging electrical room, removing demising wall, one rear door and ramp, relocating in-suite bike storage to rear.\n- Added cladding at north elevation to split window glazing for structural purposes.\n- Provisions to accommodate the gas meter based on coordination with BC Hydro.\n- Change one parking stall from small car to regular. \n*Changes are permitted under DP-2025-00873.\nProject Value: $3,010,000.00\nProperty Use: Office Uses, Retail Uses, Service Uses\nSpecific Use: General Office, Financial Institution, Restaurant - Class 1, Retail Store\nNeighbourhood: Kitsilano\nContractor: VENTANA (SPECIAL PROJECTS) CORP.",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -178236,7 +178159,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1795431326,
+      "lastUpdated": 1795690594,
       "relatedPermits": [],
       "projectValue": 3010000,
       "latitude": 49.268162,
@@ -206372,7 +206295,7 @@
         "2231 E 41ST AVENUE"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct two (2) five-storey combustible residential apartment buildings, containing 74 secured market-rental units, all over one level of underground parking having vehicular access from the rear lane for each building (the parkades are not connected to each building. Buildings A & B will have a building area of 600 m2 and contain 37 dwelling units.) \n\nEngineer of Judgment letter for 3.4.2.3. (5) is approved - see document tab.\nEngineer of Judgment letter for 3.3.7.7. (2) is approved - see document tab. \n\nVBBL 2019- NFPA 13 \n\nThis permit is for project site work, common facilities, and Building A (5-storey, 37 DU, apartment with one level of parkade).\n\nBuilding B - BP-2025-04365 - 5-storey, 37 DU apartment with one level of parkade.\n\nStage 1 - Excavation and Shoring issued on Sept. 24, 2026.\nProject Value: $19,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: DAVA DEVELOPMENTS LTD",
+      "purpose": "Certified Professional Program - New Building - To construct two (2) five-storey combustible residential apartment buildings, containing 74 secured market-rental units, all over one level of underground parking having vehicular access from the rear lane for each building (the parkades are not connected to each building. Buildings A & B will have a building area of 600 m2 and contain 37 dwelling units.) \n\nEngineer of Judgment letter for 3.4.2.3. (5) is approved - see document tab.\nEngineer of Judgment letter for 3.3.7.7. (2) is approved - see document tab. \n\nVBBL 2019- NFPA 13 \n\nThis permit is for project site work, common facilities, and Building A (5-storey, 37 DU, apartment with one level of parkade).\n\nBuilding B - BP-2025-04365 - 5-storey, 37 DU apartment with one level of parkade.\n\nStage 1 - Excavation and Shoring issued on Sept. 24, 2026.\nStage 2 - Foundation to Grade issued on ________.\nProject Value: $19,400,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nNeighbourhood: Kensington-Cedar Cottage\nContractor: DAVA DEVELOPMENTS LTD",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -206397,7 +206320,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1795172221,
+      "lastUpdated": 1795690594,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2025-04365",
@@ -213520,7 +213443,7 @@
         "2553 HIGHBURY STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (6-storey Z&D Bylaw) mixed-use residential building with commercial retail on the ground floor and 88 residential rental units, over 1 level of underground parking having vehicular access from the lane on this existing sloping site. \n\n1st storey consists of Residential Lobby, Amenity Space, Office, P1 Parking, Bike Rooms, Mechanical Room, Electrical Room, Dog Wash & Playroom\n\nThis is a CP Process Permit, and the applicant is Samir Eidnani, P.Eng. CP\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued on Feb 25, 2026\nStage 2: Foundation to podium, up to and including 3rd storey (Lv2) suspended slab. Structural Only - Issued on June 9, 2026\nStage 3: Full Construction - Issued on Oct 2, 2026\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio antenna system is required.\n3. Alternative solutions are accepted for combustible construction above 3rd storey for this 7-storey building and to omit high rise measures (AL-2025-00156 and AL-2025-00157). Sprinkler design areas in wood frame portions will be doubled as per clause 3.2.6.1.(2)(f) and as proposed under alternative solution. \n4. Provide signage to identify location of 100 level suites on both response points. \n5. Potential location of kitchen exhaust reviewed as proposed in the EJ letter by mechanical engineer. Installation of ecology units and horizontal duct wrapped with 3M fire wrap 615+ will be part of future TIs. Currently one CRU is approved on 2nd storey (level 1)\nProject Value: $32,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Apartment, Retail Store\nNeighbourhood: West Point Grey\nContractor: Haebler Construction (2003) Inc",
+      "purpose": "Certified Professional Program - New Building - To construct a 7-storey (6-storey Z&D Bylaw) mixed-use residential building with commercial retail on the ground floor and 88 residential rental units, over 1 level of underground parking having vehicular access from the lane on this existing sloping site. \n\n1st storey consists of Residential Lobby, Amenity Space, Office, P1 Parking, Bike Rooms, Mechanical Room, Electrical Room, Dog Wash & Playroom\n\nThis is a CP Process Permit, and the applicant is Samir Eidnani, P.Eng. CP\n\n**Staged Construction**\nStage 1: Excavation/Shoring - Issued on Feb 25, 2026\nStage 2: Foundation to podium, up to and including 3rd storey (Lv2) suspended slab. Structural Only - Issued on June 9, 2026\nStage 3: Full Construction - Issued on Oct 2, 2026\nRev #1 - Change of CRP and Architect of Record from Paul Goodwin, AIBC to Thomas Lee, AIBC, effective Nov 16, 2026 - In Review\n\nNOTES\n1. This permit has been reviewed under the 2019 Vancouver Building By-law (#12511) with amendments effective on July 1, 2025.\n2. Radio antenna system is required.\n3. Alternative solutions are accepted for combustible construction above 3rd storey for this 7-storey building and to omit high rise measures (AL-2025-00156 and AL-2025-00157). Sprinkler design areas in wood frame portions will be doubled as per clause 3.2.6.1.(2)(f) and as proposed under alternative solution. \n4. Provide signage to identify location of 100 level suites on both response points. \n5. Potential location of kitchen exhaust reviewed as proposed in the EJ letter by mechanical engineer. Installation of ecology units and horizontal duct wrapped with 3M fire wrap 615+ will be part of future TIs. Currently one CRU is approved on 2nd storey (level 1)\nProject Value: $32,000,000.00\nProperty Use: Dwelling Uses, Retail Uses\nSpecific Use: Apartment, Retail Store\nNeighbourhood: West Point Grey\nContractor: Haebler Construction (2003) Inc",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -213557,7 +213480,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1791284229,
+      "lastUpdated": 1795690594,
       "relatedPermits": [
         {
           "relatedPermitID": "DB-2025-04098",
@@ -220846,6 +220769,49 @@
       "minor": true,
       "approvalStatus": "Approved",
       "storeys": 2
+    },
+    {
+      "primaryStreetName": "2227 GRANVILLE STREET",
+      "applicant": "Nicholas Waissbluth DBA: Waissbluth Architecture Office Inc.",
+      "cityApplicationType": "New Building",
+      "applicationType": "Building Permit",
+      "folderNumber": "BP-2025-04777",
+      "applicationDate": 1763366400,
+      "addresses": [
+        "2227 GRANVILLE STREET"
+      ],
+      "status": "ACTIVE",
+      "purpose": "High Density Housing / Commercial - New Building - To construct a one storey + mezzanine commercial building containing a retail store (shell), with a surface parking having vehicular access from the lane.\n\nRelated Permit: DP-2024-00582\n\n******THIS PERMIT HAS BEEN REVIEWED & ISSUED UNDER THE REQUIREMENTS OF VBBL 2025 AND AMENDMENT EFFECTIVE November 5, 2025 ********\n\nBuilding Review Branch Notes:\n1. Separate building permit required for tenant improvement work. \nNote: Provide location for future accessible lift to mezzanine for future tenant improvement.\n2. Schedule A, Sch B – Arch, Str, Geo, Elec, Mech/Plumbing, Sch D are submitted.\n3. Contractor shall have a valid business license prior to the commencement of any work.\n4. Entire building to be sprinklered to NFPA 13 requirements.\n5. All new windows, doors, and skylights shall conform to AAMA/WDMA/CSA101/I.S.2/A440, NAFS.\nProject Value: $1,500,000.00\nProperty Use: Retail Uses\nSpecific Use: Retail Store\nNeighbourhood: Fairview",
+      "progressSections": [
+        {
+          "taskDescription": "Application Created",
+          "taskType": "",
+          "startDate": 1763366400,
+          "endDate": 1763366400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "Approved",
+          "startDate": 1763366400,
+          "endDate": 1763366400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Vancouver",
+      "lastUpdated": 1763366400,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2026-02724",
+          "relatedPermitType": "Demolition"
+        }
+      ],
+      "projectValue": 1500000,
+      "latitude": 49.265729,
+      "longitude": -123.138902,
+      "approvalStatus": "Approved",
+      "storeys": 1
     },
     {
       "primaryStreetName": "2356 W 13TH AVENUE",
@@ -229430,7 +229396,7 @@
         "6029 DUMFRIES STREET"
       ],
       "status": "ACTIVE",
-      "purpose": "Low Density Housing - New Building - To construct a Multiple Dwelling 'Multiplex' with a three-storey with crawl space two dwelling unit front building and a two-storey plus basement with crawl space two dwelling unit rear building with three surface parking pads having vehicular access from the lane.\n\nBldg 1 - BP-2026-01578 (Site Permit and Bldg 1 permit) - Two dwelling units - East\nBldg 2 - BP-2026-01579 - Two dwelling units - West\n\nThis permit is for site project work and construction of Bldg 1. \n\nThe entire building to be sprinklered to 2 x NFPA 13D.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – located in first storey mechanical room\n2.\\tHeat Pump proposed – Exterior component located in court yard, Interior component located in first storey mechanical room\n3.\\tSchedule B: J.J.S. Hui, P.Eng. (778.319.3403) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Singh Development Ltd.\n\nAddress Information:\nBuilding 1 (Front) (east)   \n#1-6029 Dumfries St - One Dwelling Unit (north side 1st-3rd floors)\n#2-6029 Dumfries St - One Dwelling Unit (south side 1st-3rd floors) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $900,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Victoria-Fraserview\nContractor: Singh Development Ltd",
+      "purpose": "Low Density Housing - New Building - Rev#1: To construct a Multiple Dwelling 'Multiplex' with a three-storey with crawl space two dwelling unit front building and a two-storey plus basement with crawl space two dwelling unit rear building with an attached four (4) car carport having vehicular access from the lane.\n\nBldg 1 - BP-2026-01578 (Site Permit and Bldg 1 permit) - Two dwelling units - East\nBldg 2 - BP-2026-01579 - Two dwelling units - West\n\nThis permit is for site project work and construction of Bldg 1. \n\nThe entire building to be sprinklered to 2 x NFPA 13D.\n\nNote: This is a 3 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tHRV proposed – located in first storey mechanical room\n2.\\tHeat Pump proposed – Exterior component located in court yard, Interior component located in first storey mechanical room\n3.\\tSchedule B: J.J.S. Hui, P.Eng. (778.319.3403) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Singh Development Ltd.\n\nAddress Information:\nBuilding 1 (Front) (east)   \n#1-6029 Dumfries St - One Dwelling Unit (north side 1st-3rd floors)\n#2-6029 Dumfries St - One Dwelling Unit (south side 1st-3rd floors) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***\nProject Value: $900,000.00\nProperty Use: Dwelling Uses\nSpecific Use: Multiple Dwelling\nPermit Category: New Build - Low Density Housing\nNeighbourhood: Victoria-Fraserview\nContractor: Singh Development Ltd",
       "progressSections": [
         {
           "taskDescription": "Application Created",
@@ -229449,7 +229415,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1789556235,
+      "lastUpdated": 1795690594,
       "relatedPermits": [
         {
           "relatedPermitID": "BP-2026-01579",
@@ -229463,6 +229429,7 @@
       "projectValue": 900000,
       "latitude": 49.229581,
       "longitude": -123.074769,
+      "minor": true,
       "approvalStatus": "Approved",
       "storeys": 3
     },
@@ -231466,8 +231433,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Vancouver",
-      "lastUpdated": 1786521600,
-      "relatedPermits": [],
+      "lastUpdated": 1795690594,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BP-2025-04777",
+          "relatedPermitType": "Building Permit"
+        }
+      ],
       "projectValue": 70000,
       "latitude": 49.265729,
       "longitude": -123.138902,
