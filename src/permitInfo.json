@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1795690314,
+  "dateRetrieved": 1795776723,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -88059,6 +88059,42 @@
       "approvalStatus": "Approved"
     },
     {
+      "primaryStreetName": "1062 Trillium Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD23-0150",
+      "applicationDate": 1685088000,
+      "addresses": [
+        "1062 Trillium Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Renovation/Addition\r\n\r\n; Additions and Alterations; Addition to existing building (structural extension) non-residential & residential; RL1",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1685088000,
+          "endDate": 1685088000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793692800,
+          "endDate": 1793692800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793692800,
+      "relatedPermits": [],
+      "latitude": 48.445050107390095,
+      "longitude": -123.5254567590071,
+      "projectValue": 750000
+    },
+    {
       "primaryStreetName": "2310 City Gate Blvd",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -88646,7 +88682,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0378",
@@ -88661,11 +88697,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -90036,6 +90072,42 @@
       "latitude": 48.46324267762345,
       "longitude": -123.49668137262404,
       "projectValue": 85000
+    },
+    {
+      "primaryStreetName": "1194 Kathlynn Ln",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD25-0312",
+      "applicationDate": 1757664000,
+      "addresses": [
+        "1194 Kathlynn Ln"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Change of Use - SFD to Childcare (Maple Pathway); Tenant Improvement; Alteration and improvements; R2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1757664000,
+          "endDate": 1757664000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793779200,
+          "endDate": 1793779200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793779200,
+      "relatedPermits": [],
+      "latitude": 48.440011498659366,
+      "longitude": -123.52851690004816,
+      "projectValue": 150000
     },
     {
       "primaryStreetName": "326 4342 West Shore Pkwy",
@@ -92091,7 +92163,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0174",
@@ -92106,11 +92178,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -92154,8 +92226,12 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0306",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BLD26-0240",
           "relatedPermitType": "Development Permit"
@@ -92345,13 +92421,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
-      "relatedPermits": [
-        {
-          "relatedPermitID": "BLD25-0313",
-          "relatedPermitType": "Development Permit"
-        }
-      ],
+      "lastUpdated": 1795776972,
+      "relatedPermits": [],
       "latitude": 48.43149106524777,
       "longitude": -123.54241368349606,
       "projectValue": 75000
@@ -93114,7 +93185,7 @@
         "3853 Olympian Way"
       ],
       "status": "ARCHIVED",
-      "purpose": "Duplex; New construction (built on-site); CD4",
+      "purpose": "Duplex; New construction (built on-site)",
       "progressSections": [
         {
           "taskDescription": "Application Received — Closed",
@@ -93139,7 +93210,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1791888919,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
       "latitude": 48.409779889184875,
       "longitude": -123.51637915160347,
@@ -93356,11 +93427,11 @@
       "addresses": [
         "3159 Glen Lake Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "legalize suite; Additions and Alterations; Alteration and improvements; RL1",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1769500800,
           "endDate": 1769500800
@@ -93370,13 +93441,19 @@
           "taskType": "",
           "startDate": 1783324800,
           "endDate": 1783324800
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1795593600,
+          "endDate": 1795593600
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "DVP25-0004",
@@ -93653,7 +93730,7 @@
       "purpose": "Landlord work for future play centre; Tenant Improvement; Alteration and improvements; C3",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1769587200,
           "endDate": 1769587200
@@ -93669,7 +93746,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD26-0061",
@@ -94634,18 +94711,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0031",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BLD26-0181",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BLD26-0134",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BLD26-0031",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -95359,12 +95436,8 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
-        {
-          "relatedPermitID": "DP24-0029",
-          "relatedPermitType": "Development Permit"
-        },
         {
           "relatedPermitID": "DP25-0052",
           "relatedPermitType": "Development Permit"
@@ -95545,7 +95618,7 @@
       "purpose": "Interior renovation - toilet room addition - Boardwalk Washrooms - The Vue; Additions and Alterations; Alteration and improvements; MU2",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1775548800,
           "endDate": 1775548800
@@ -95561,8 +95634,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
-      "relatedPermits": [],
+      "lastUpdated": 1795776972,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0289",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 48.44856031315227,
       "longitude": -123.50160165145891,
       "projectValue": 85000
@@ -96655,18 +96733,18 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0031",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BLD26-0061",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BLD26-0181",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BLD26-0031",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -97226,11 +97304,11 @@
       "addresses": [
         "105 3372 Luxton Rd"
       ],
-      "status": "ACTIVE",
-      "purpose": "TI - within existing industrial unit; Tenant Improvement; Alteration and improvements",
+      "status": "ARCHIVED",
+      "purpose": "TI - within existing industrial unit - Thermoproof; Tenant Improvement; Alteration and improvements",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1780300800,
           "endDate": 1780300800
@@ -97240,13 +97318,19 @@
           "taskType": "",
           "startDate": 1780560000,
           "endDate": 1780560000
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1794556800,
+          "endDate": 1794556800
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793098620,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD26-0048",
@@ -97465,6 +97549,47 @@
       "projectValue": 18938
     },
     {
+      "primaryStreetName": "956 Loch Glen Pl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0165",
+      "applicationDate": 1780992000,
+      "addresses": [
+        "956 Loch Glen Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Duplex; New construction (built on-site); R2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1780992000,
+          "endDate": 1780992000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794211200,
+          "endDate": 1794211200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794211200,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP26-0033",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.43652763074174,
+      "longitude": -123.51604692644901,
+      "projectValue": 2000000
+    },
+    {
       "primaryStreetName": "102 967 Whirlaway Cres",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -97602,8 +97727,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
-      "relatedPermits": [],
+      "lastUpdated": 1795776972,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0308",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 48.45544371440688,
       "longitude": -123.5043973247962,
       "projectValue": 70000
@@ -97936,11 +98066,11 @@
       "addresses": [
         "166 2945 Jacklin Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Tenant Improvement - Indoor Playground ; Tenant Improvement; Alteration and improvements; C3",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1782288000,
           "endDate": 1782288000
@@ -97950,24 +98080,30 @@
           "taskType": "",
           "startDate": 1782374400,
           "endDate": 1782374400
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1795593600,
+          "endDate": 1795593600
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0031",
+          "relatedPermitType": "Development Permit"
+        },
         {
           "relatedPermitID": "BLD26-0061",
           "relatedPermitType": "Development Permit"
         },
         {
           "relatedPermitID": "BLD26-0134",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "BLD26-0031",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -98009,6 +98145,42 @@
       "relatedPermits": [],
       "latitude": 48.46092286992889,
       "longitude": -123.5325442205137,
+      "projectValue": 1909524
+    },
+    {
+      "primaryStreetName": "1842 Selenite Pl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0183",
+      "applicationDate": 1782460800,
+      "addresses": [
+        "1842 Selenite Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "4 Unit Townhouse; Townhouse; New construction (built on-site); CD12",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1782460800,
+          "endDate": 1782460800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793865600,
+          "endDate": 1793865600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793865600,
+      "relatedPermits": [],
+      "latitude": 48.460417354351485,
+      "longitude": -123.53222389235485,
       "projectValue": 1909524
     },
     {
@@ -98108,11 +98280,11 @@
       "addresses": [
         "112 4342 West Shore Pkwy"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "Tenant Improvement - contractor service warehouse and office; Tenant Improvement; Alteration and improvements",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1782720000,
           "endDate": 1782720000
@@ -98122,13 +98294,19 @@
           "taskType": "",
           "startDate": 1785916800,
           "endDate": 1785916800
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1793952000,
+          "endDate": 1793952000
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD26-0005",
@@ -98359,7 +98537,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0174",
@@ -98374,11 +98552,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -98604,7 +98782,7 @@
       "purpose": "TI - water damage remediation to remove and reset fixtures and equipment; Tenant Improvement; Alteration and improvements",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Issued",
+          "taskDescription": "Application Received — Closed",
           "taskType": "",
           "startDate": 1784793600,
           "endDate": 1784793600
@@ -98620,11 +98798,47 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
       "latitude": 48.46433127539824,
       "longitude": -123.49956715023087,
       "projectValue": 60000
+    },
+    {
+      "primaryStreetName": "1015 Henry Eng Pl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0206",
+      "applicationDate": 1785139200,
+      "addresses": [
+        "1015 Henry Eng Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TI - Coldstar Storage Facility - Group F2 Medium Hazard Industrial (Sprinklered); Tenant Improvement; Alteration and improvements; BP7, M1, M2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1785139200,
+          "endDate": 1785139200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794902400,
+          "endDate": 1794902400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794902400,
+      "relatedPermits": [],
+      "latitude": 48.444222922843636,
+      "longitude": -123.51805272872059,
+      "projectValue": 470000
     },
     {
       "primaryStreetName": "1076 Deltana Ave",
@@ -98887,6 +99101,42 @@
       "latitude": 48.429096321613684,
       "longitude": -123.53065889855948,
       "projectValue": 1500
+    },
+    {
+      "primaryStreetName": "102 2146 Millstream Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0216",
+      "applicationDate": 1785916800,
+      "addresses": [
+        "102 2146 Millstream Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "3 Unit Townhouse; Townhouse; New construction (built on-site)",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1785916800,
+          "endDate": 1785916800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1795075200,
+          "endDate": 1795075200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1795075200,
+      "relatedPermits": [],
+      "latitude": 48.471753842898984,
+      "longitude": -123.50624445050715,
+      "projectValue": 545764
     },
     {
       "primaryStreetName": "1378 Sandstone Ln",
@@ -99264,6 +99514,78 @@
       "projectValue": 30000
     },
     {
+      "primaryStreetName": "1142 Deltana Ave",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0233",
+      "applicationDate": 1787126400,
+      "addresses": [
+        "1142 Deltana Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Duplex ; Duplex; New construction (built on-site)",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1787126400,
+          "endDate": 1787126400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794902400,
+          "endDate": 1794902400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794902400,
+      "relatedPermits": [],
+      "latitude": 48.41334141166775,
+      "longitude": -123.52034921231272,
+      "projectValue": 980677
+    },
+    {
+      "primaryStreetName": "105 739 McCallum Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0234",
+      "applicationDate": 1787126400,
+      "addresses": [
+        "105 739 McCallum Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Tenant Improvement - Fresh Slice; Tenant Improvement; Alteration and improvements; BP1",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1787126400,
+          "endDate": 1787126400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1795075200,
+          "endDate": 1795075200
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1795075200,
+      "relatedPermits": [],
+      "latitude": 48.45926142379987,
+      "longitude": -123.4981426683172,
+      "projectValue": 80000
+    },
+    {
       "primaryStreetName": "103 834 McCallum Rd",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -99349,6 +99671,47 @@
       "projectValue": 100000
     },
     {
+      "primaryStreetName": "3506 Fiesta Cl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0238",
+      "applicationDate": 1787558400,
+      "addresses": [
+        "3506 Fiesta Cl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling with Suite; SFD with Suite; New construction (built on-site); CD15",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1787558400,
+          "endDate": 1787558400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794556800,
+          "endDate": 1794556800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794556800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP26-0047",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.41927294176472,
+      "longitude": -123.52698294566791,
+      "projectValue": 771889
+    },
+    {
       "primaryStreetName": "101 777 Station Ave",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -99423,10 +99786,14 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793088000,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0379",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BLD26-0306",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -99505,6 +99872,42 @@
       "latitude": 48.40888184252699,
       "longitude": -123.53689791524637,
       "projectValue": 2000
+    },
+    {
+      "primaryStreetName": "1557 Marble Pl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0245",
+      "applicationDate": 1788249600,
+      "addresses": [
+        "1557 Marble Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Duplex; New construction (built on-site); CD12",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1788249600,
+          "endDate": 1788249600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794556800,
+          "endDate": 1794556800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794556800,
+      "relatedPermits": [],
+      "latitude": 48.46091909713805,
+      "longitude": -123.52408305336692,
+      "projectValue": 1047471
     },
     {
       "primaryStreetName": "1091 Brown Rd",
@@ -100129,6 +100532,40 @@
       "projectValue": 815880
     },
     {
+      "primaryStreetName": "",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0270",
+      "applicationDate": 1790582400,
+      "addresses": [],
+      "status": "ACTIVE",
+      "purpose": "Tenant Improvement - Change of Use\r\nto D-Office in A2 Level 1 area; Tenant Improvement; Alteration and improvements",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1790582400,
+          "endDate": 1790582400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793692800,
+          "endDate": 1793692800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793692800,
+      "relatedPermits": [],
+      "latitude": 0,
+      "longitude": -127.48874389716636,
+      "projectValue": 50000
+    },
+    {
       "primaryStreetName": "2971 Cosmos Bend",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -100273,6 +100710,42 @@
       "projectValue": 115000
     },
     {
+      "primaryStreetName": "3486 Merlot Terr",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0279",
+      "applicationDate": 1791878400,
+      "addresses": [
+        "3486 Merlot Terr"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling w/ Suite; SFD with Suite; New construction (built on-site); R2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1791878400,
+          "endDate": 1791878400
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1795420800,
+          "endDate": 1795420800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1795420800,
+      "relatedPermits": [],
+      "latitude": 48.42826132669276,
+      "longitude": -123.51941684942173,
+      "projectValue": 802117
+    },
+    {
       "primaryStreetName": "2018 Pebble Dr",
       "applicant": "",
       "cityApplicationType": "Building Permit",
@@ -100307,6 +100780,277 @@
       "latitude": 48.47466092695702,
       "longitude": -123.53697070600995,
       "projectValue": 200000
+    },
+    {
+      "primaryStreetName": "141 2401G Millstream Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0287",
+      "applicationDate": 1792569600,
+      "addresses": [
+        "141 2401G Millstream Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TI - Expansion of existing Dental Office ; Tenant Improvement; Alteration and improvements; RS1, BP1A",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1792569600,
+          "endDate": 1792569600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1793865600,
+          "endDate": 1793865600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1793865600,
+      "relatedPermits": [],
+      "latitude": 48.46103284946138,
+      "longitude": -123.49674799719364,
+      "projectValue": 1140000
+    },
+    {
+      "primaryStreetName": "101 2830 Peatt Rd",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0289",
+      "applicationDate": 1793001600,
+      "addresses": [
+        "101 2830 Peatt Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Tenant Improvement - Hair Salon; Tenant Improvement; Alteration and improvements; MU2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1793001600,
+          "endDate": 1793001600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794816000,
+          "endDate": 1794816000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794816000,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0091",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.44856031315227,
+      "longitude": -123.50160165145891,
+      "projectValue": 200000
+    },
+    {
+      "primaryStreetName": "105 Elroy Pl",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0305",
+      "applicationDate": 1793779200,
+      "addresses": [
+        "105 Elroy Pl"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Reno - Bathroom into ensuite, adding walls; Additions and Alterations; Alteration and improvements; R2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1793779200,
+          "endDate": 1793779200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794816000,
+          "endDate": 1794816000
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794816000,
+      "relatedPermits": [],
+      "latitude": 48.46494326251142,
+      "longitude": -123.49013272043221,
+      "projectValue": 10000
+    },
+    {
+      "primaryStreetName": "124 1488 Flint Ave",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0306",
+      "applicationDate": 1793865600,
+      "addresses": [
+        "124 1488 Flint Ave"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Tenant Improvement - Le Gers Office; Tenant Improvement; Alteration and improvements; CD12",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1793865600,
+          "endDate": 1793865600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1795420800,
+          "endDate": 1795420800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1795420800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD25-0379",
+          "relatedPermitType": "Development Permit"
+        },
+        {
+          "relatedPermitID": "BLD26-0240",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.45854984416661,
+      "longitude": -123.52492729525525,
+      "projectValue": 250000
+    },
+    {
+      "primaryStreetName": "102 947 Whirlaway Cres",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0308",
+      "applicationDate": 1793952000,
+      "addresses": [
+        "102 947 Whirlaway Cres"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TI - Island Chef Cafe & Deli; Tenant Improvement; Alteration and improvements",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1793952000,
+          "endDate": 1793952000
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1795420800,
+          "endDate": 1795420800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1795420800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0170",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
+      "latitude": 48.45544371440688,
+      "longitude": -123.5043973247962,
+      "projectValue": 275000
+    },
+    {
+      "primaryStreetName": "1227 Bramley Run",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0309",
+      "applicationDate": 1794211200,
+      "addresses": [
+        "1227 Bramley Run"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Single Family Dwelling with Suite; SFD with Suite; New construction (built on-site); R2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1794211200,
+          "endDate": 1794211200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794902400,
+          "endDate": 1794902400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794902400,
+      "relatedPermits": [],
+      "latitude": 48.41690961888491,
+      "longitude": -123.52252892193354,
+      "projectValue": 944459
+    },
+    {
+      "primaryStreetName": "202 2780 Veterans Memorial Pkwy",
+      "applicant": "",
+      "cityApplicationType": "Building Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "BLD26-0315",
+      "applicationDate": 1794556800,
+      "addresses": [
+        "202 2780 Veterans Memorial Pkwy"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TI - Re-establish Office Dividing Wall; Tenant Improvement; Alteration and improvements; C3",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Issued",
+          "taskType": "",
+          "startDate": 1794556800,
+          "endDate": 1794556800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794902400,
+          "endDate": 1794902400
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794902400,
+      "relatedPermits": [],
+      "latitude": 48.44825318174694,
+      "longitude": -123.4959894130484,
+      "projectValue": 10000
     },
     {
       "primaryStreetName": "2141 Caribou Dr",
@@ -101928,7 +102672,7 @@
         "2148 Millstream Rd"
       ],
       "status": "ARCHIVED",
-      "purpose": "Amendment to DP21-0073 - Change design of Block 5 from 2-story/3 bed units to 1-storey, 1 bed units. ; RT1",
+      "purpose": "Amendment to DP21-0073 - Change design of Block 5 from 2-story/3 bed units to 1-storey, 1 bed units. ",
       "progressSections": [
         {
           "taskDescription": "Application Received — Issued",
@@ -101953,10 +102697,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
-      "latitude": 48.47172933594265,
-      "longitude": -123.50676443350089,
+      "latitude": 48.47173768594893,
+      "longitude": -123.5066713741589,
       "storeys": 2
     },
     {
@@ -102085,17 +102829,17 @@
       "longitude": -123.50549113311396
     },
     {
-      "primaryStreetName": "794 Latoria Rd",
+      "primaryStreetName": "1118 Deltana Ave",
       "applicant": "",
       "cityApplicationType": "Development Permit",
       "applicationType": "Development Permit",
       "folderNumber": "DP24-0075",
       "applicationDate": 1734681600,
       "addresses": [
-        "794 Latoria Rd"
+        "1118 Deltana Ave"
       ],
       "status": "ARCHIVED",
-      "purpose": "Amendment to DP22-0092 - to add suites to 25 duplex units; R2",
+      "purpose": "Amendment to DP22-0092 - to add suites to 25 duplex units",
       "progressSections": [
         {
           "taskDescription": "Application Received — Issued",
@@ -102120,20 +102864,20 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
-      "latitude": 48.4140471196039,
-      "longitude": -123.5196753604068
+      "latitude": 48.4139231095552,
+      "longitude": -123.51994109042646
     },
     {
-      "primaryStreetName": "2165 Bellamy Rd",
+      "primaryStreetName": "540 Belford Pl",
       "applicant": "",
       "cityApplicationType": "Development Permit",
       "applicationType": "Development Permit",
       "folderNumber": "DP25-0001",
       "applicationDate": 1735891200,
       "addresses": [
-        "2165 Bellamy Rd"
+        "540 Belford Pl"
       ],
       "status": "ARCHIVED",
       "purpose": "To amend DP22-0025 to include secondary suites; RS1",
@@ -102161,10 +102905,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
-      "latitude": 48.46886831899218,
-      "longitude": -123.49176844015703
+      "latitude": 48.46857501258511,
+      "longitude": -123.49211513251858
     },
     {
       "primaryStreetName": "2576 Selwyn Rd",
@@ -104251,14 +104995,10 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD26-0085",
-          "relatedPermitType": "Development Permit"
-        },
-        {
-          "relatedPermitID": "DP24-0029",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -104595,8 +105335,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793098620,
-      "relatedPermits": [],
+      "lastUpdated": 1795776972,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DP26-0040",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 48.44148214250501,
       "longitude": -123.50408201721719
     },
@@ -105589,8 +106334,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793098620,
-      "relatedPermits": [],
+      "lastUpdated": 1795776972,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0165",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 48.43652763074174,
       "longitude": -123.51604692644901
     },
@@ -105775,21 +106525,33 @@
       "addresses": [
         "835 Langford Pkwy"
       ],
-      "status": "ACTIVE",
-      "purpose": "Application to place a Return-It Express atop existing parking stalls.; C3",
+      "status": "ARCHIVED",
+      "purpose": "To place a Return-It Express atop existing parking stalls; C3",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Under Review",
+          "taskDescription": "Application Received — Issued",
           "taskType": "",
           "startDate": 1784275200,
           "endDate": 1784275200
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1792137600,
+          "endDate": 1792137600
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1792137600,
+          "endDate": 1792137600
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1790564554,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "DP26-0008",
@@ -105896,21 +106658,33 @@
       "addresses": [
         "A 3088 Jacklin Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "6-storey building with approximately 76 rental units; R2",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Under Review",
+          "taskDescription": "Application Received — Issued",
           "taskType": "",
           "startDate": 1785225600,
           "endDate": 1785225600
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1794816000,
+          "endDate": 1794816000
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1794816000,
+          "endDate": 1794816000
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793098620,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
       "latitude": 48.43780121659434,
       "longitude": -123.51339167211626,
@@ -105983,8 +106757,13 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793098620,
-      "relatedPermits": [],
+      "lastUpdated": 1795776972,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "BLD26-0238",
+          "relatedPermitType": "Development Permit"
+        }
+      ],
       "latitude": 48.41927294176472,
       "longitude": -123.52698294566791
     },
@@ -106058,21 +106837,33 @@
       "addresses": [
         "2941 Irwin Rd"
       ],
-      "status": "ACTIVE",
+      "status": "ARCHIVED",
       "purpose": "26 stacked townhome units; RT1",
       "progressSections": [
         {
-          "taskDescription": "Application Received — Open",
+          "taskDescription": "Application Received — Issued",
           "taskType": "",
           "startDate": 1787212800,
           "endDate": 1787212800
+        },
+        {
+          "taskDescription": "Permit Issued",
+          "taskType": "",
+          "startDate": 1795075200,
+          "endDate": 1795075200
+        },
+        {
+          "taskDescription": "Completed",
+          "taskType": "",
+          "startDate": 1795075200,
+          "endDate": 1795075200
         }
       ],
       "documents": [],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793530712,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
       "latitude": 48.44478319796964,
       "longitude": -123.54512750393373
@@ -106514,7 +107305,7 @@
         "2948 Glen Lake Rd"
       ],
       "status": "ACTIVE",
-      "purpose": "Form & Character Garden Suite. ; R2",
+      "purpose": "Garden suite; R2",
       "progressSections": [
         {
           "taskDescription": "Application Received — Open",
@@ -106527,11 +107318,42 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793174400,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
       "latitude": 48.43937327135771,
       "longitude": -123.51889605824852,
       "minor": true
+    },
+    {
+      "primaryStreetName": "2770 Claude Rd",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "DP26-0065",
+      "applicationDate": 1794297600,
+      "addresses": [
+        "2770 Claude Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Demolition of 12-storey multi-family building; MU2",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Open",
+          "taskType": "",
+          "startDate": 1794297600,
+          "endDate": 1794297600
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1794297600,
+      "relatedPermits": [],
+      "latitude": 48.450032508755534,
+      "longitude": -123.4989556677879,
+      "major": true,
+      "storeys": 12
     },
     {
       "primaryStreetName": "2787 Lakeshore Pl",
@@ -106788,7 +107610,7 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1793703607,
+      "lastUpdated": 1795776972,
       "relatedPermits": [
         {
           "relatedPermitID": "BLD25-0174",
@@ -106803,11 +107625,11 @@
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0009",
+          "relatedPermitID": "DVP26-0003",
           "relatedPermitType": "Development Permit"
         },
         {
-          "relatedPermitID": "DVP26-0003",
+          "relatedPermitID": "DVP26-0009",
           "relatedPermitType": "Development Permit"
         }
       ],
@@ -108506,7 +109328,7 @@
         "1285 Glenshire Dr"
       ],
       "status": "ACTIVE",
-      "purpose": "Rezone from ; RR2",
+      "purpose": "Rezone to a new Comprehensive Development Zone to allow for approximately 800 residential units and approximately 6,000 m2 of commercial gross floor area.   Rezone to a new Comprehensive Development Zone to allow for approximately 800 residential units and approximately 6,000 m2 of commercial gross floor area. ; RR2",
       "progressSections": [
         {
           "taskDescription": "Application Received — Open",
@@ -108519,10 +109341,39 @@
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Langford-Tracker",
-      "lastUpdated": 1792656000,
+      "lastUpdated": 1795776972,
       "relatedPermits": [],
       "latitude": 48.4279645547661,
       "longitude": -123.542262809713
+    },
+    {
+      "primaryStreetName": "2681 Leigh Rd",
+      "applicant": "",
+      "cityApplicationType": "Rezoning",
+      "applicationType": "Rezoning",
+      "folderNumber": "Z26-0013",
+      "applicationDate": 1795420800,
+      "addresses": [
+        "2681 Leigh Rd"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Text amendment to the CD12 Zone; CD12",
+      "progressSections": [
+        {
+          "taskDescription": "Application Received — Open",
+          "taskType": "",
+          "startDate": 1795420800,
+          "endDate": 1795420800
+        }
+      ],
+      "documents": [],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Langford-Tracker",
+      "lastUpdated": 1795420800,
+      "relatedPermits": [],
+      "latitude": 48.45638582010162,
+      "longitude": -123.51768874826747
     },
     {
       "primaryStreetName": "642 Cromarty Ave",
@@ -117539,12 +118390,12 @@
           "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=A7D03C3B-81FA-4D07-81A3-9234C1563B2F&folderId=80475C260910133312690506"
         },
         {
-          "docName": "Zoning Bylaw No. 3531 1986 Amendment Bylaw No. 4986, 2026.docx",
-          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=84421C261020105342231872&folderId=80475C260910133312690506"
+          "docName": "Zoning Bylaw No. 3531, 1986, Amendment Bylaw No. 4986, 2026.pdf",
+          "docURL": "https://onlineservice.oakbay.ca/WebApps/OurCity/Prospero/FileDownload.aspx?fileId=88275C261126115225366021&folderId=80475C260910133312690506"
         }
       ],
       "city": "Oak Bay",
-      "lastUpdated": 1795603913,
+      "lastUpdated": 1795776725,
       "relatedPermits": []
     },
     {
@@ -128549,7 +129400,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1796626800,
           "endDate": null
         }
       ],
@@ -128572,7 +129423,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1784372007,
+      "lastUpdated": 1795776725,
       "relatedPermits": [
         {
           "relatedPermitID": "CBP00155",
@@ -129339,7 +130190,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1796626800,
           "endDate": null
         }
       ],
@@ -129358,7 +130209,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1795517521,
+      "lastUpdated": 1795776725,
       "relatedPermits": [
         {
           "relatedPermitID": "PLM26597",
@@ -138830,7 +139681,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1796626800,
           "endDate": null
         }
       ],
@@ -138849,7 +139700,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1792839202,
+      "lastUpdated": 1795776725,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00765",
@@ -141860,6 +142711,12 @@
           "endDate": 1786950000
         },
         {
+          "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
+          "taskType": "COUNCIL MEETING",
+          "startDate": 1795417200,
+          "endDate": 1795676400
+        },
+        {
           "taskDescription": "District departments require further information, revisions, or documentation from applicant",
           "taskType": "APPLICANT TO PROVIDE ADDITIONAL INFORMATION",
           "startDate": 1787036400,
@@ -141868,7 +142725,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": 1795417200,
+          "startDate": 1796626800,
           "endDate": null
         }
       ],
@@ -141895,7 +142752,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793184767,
+      "lastUpdated": 1795776725,
       "relatedPermits": [
         {
           "relatedPermitID": "REZ00794",
@@ -144534,7 +145391,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": 1795417200,
+          "startDate": 1796626800,
           "endDate": null
         }
       ],
@@ -144553,7 +145410,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1793271142,
+      "lastUpdated": 1795776725,
       "relatedPermits": []
     },
     {
@@ -151682,7 +152539,7 @@
         {
           "taskDescription": "Council meeting scheduled to review application.  Agenda can be viewed at www.saanich.ca/agendas",
           "taskType": "COUNCIL MEETING",
-          "startDate": null,
+          "startDate": 1796626800,
           "endDate": null
         },
         {
@@ -151703,7 +152560,7 @@
         }
       ],
       "city": "Saanich",
-      "lastUpdated": 1790938328,
+      "lastUpdated": 1795776725,
       "relatedPermits": [
         {
           "relatedPermitID": "RBP01056",
@@ -157420,7 +158277,7 @@
         "Note:"
       ],
       "status": "ACTIVE",
-      "purpose": "Zoning Amendment, Development Permit, and Development Variance Permit application for a four-storey 75-unit multi-family development.",
+      "purpose": "Zoning Amendment, Development Permit, and Development Variance Permit application for a four-storey 75-unit multi-family development.\n\nNote: The Zoning Amendment approved on September 28, 2026. The Development Permit and Development Variance Permit application is still under consideration.",
       "progressSections": [
         {
           "taskDescription": "Notice of New Development Application",
@@ -157465,10 +158322,10 @@
           "endDate": null
         },
         {
-          "taskDescription": ". Development Permit and Development Variance Permit application still under consideration.",
+          "taskDescription": "Notice of Development Variance Permit Application",
           "taskType": "",
-          "startDate": 1790578800,
-          "endDate": 1790578800
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -157483,12 +158340,44 @@
         {
           "docName": "Revised Plans (August 2025)",
           "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-Street-Plans-August-2025.pdf"
+        },
+        {
+          "docName": "Notice of New Development Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-St-Notice-of-New-Development-Application.pdf"
+        },
+        {
+          "docName": "September 2, 2025 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/50955/7c%20-%20RZ%20DV%20_%20DP%20-%209972%20Third%20Street%20-%20Staff%20Report.pdf"
+        },
+        {
+          "docName": "February 23, 2026 Council Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/55213/Zoning%20Amendment%20Application%20No.%20RZ100110_Devel.pdf"
+        },
+        {
+          "docName": "April 7, 2026 APC Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/57157#page=4"
+        },
+        {
+          "docName": "June 22, 2026 Council Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/58731/13a-%20Parks%20_%20Amenity%20Contributions%20-%20RZ10011009972.pdf"
+        },
+        {
+          "docName": "Notice of Zoning Amendment Bylaw",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-Street-Notice-of-Zoning-Amendment-Bylaw.pdf"
+        },
+        {
+          "docName": "Draft Zoning Amendment Bylaw No. 2317",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/Draft-Zoning-Amendment-Bylaw-2317-9972-Third-St.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/9972-Third-Street-DVP-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1794912986,
+      "lastUpdated": 1795776939,
       "relatedPermits": [],
       "storeys": 4
     },
@@ -158016,6 +158905,12 @@
           "taskType": "",
           "startDate": 1794812400,
           "endDate": 1794812400
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
         }
       ],
       "documents": [
@@ -158026,12 +158921,16 @@
         {
           "docName": "November 16, 2026 Committee of the Whole Meeting Staff Report",
           "docURL": "https://sidney.civicweb.net/document/61200/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/2328-Beacon-Ave-DVP-Notice.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Sidney",
-      "lastUpdated": 1794912986,
+      "lastUpdated": 1795776939,
       "relatedPermits": []
     },
     {
@@ -158542,6 +159441,52 @@
       "withApplicantDays": null,
       "city": "Sidney",
       "lastUpdated": 1765367910,
+      "relatedPermits": []
+    },
+    {
+      "primaryStreetName": "Unit C-2310 Beacon Avenue",
+      "applicant": "",
+      "cityApplicationType": "Development Permit",
+      "applicationType": "Development Permit",
+      "folderNumber": "95eeff33e8",
+      "applicationDate": 1795776939,
+      "addresses": [
+        "Unit C-2310 Beacon Avenue"
+      ],
+      "status": "ACTIVE",
+      "purpose": "Development Variance Permit application to permit an office use to front Beacon Avenue at the ground floor level.",
+      "progressSections": [
+        {
+          "taskDescription": "Committee of the Whole Meeting Staff Report",
+          "taskType": "",
+          "startDate": 1794812400,
+          "endDate": 1794812400
+        },
+        {
+          "taskDescription": "Notice of Development Variance Permit Application",
+          "taskType": "",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "Plans",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/2306-Beacon-Ave-Plans-2026.pdf"
+        },
+        {
+          "docName": "November 16, 2026 Committee of the Whole Meeting Staff Report",
+          "docURL": "https://sidney.civicweb.net/document/63099/Development%20Variance%20Permit%20Application%20No.%20DV1.pdf"
+        },
+        {
+          "docName": "Notice of Development Variance Permit Application",
+          "docURL": "https://www.sidney.ca/wp-content/uploads/C-2310-Beacon-Ave-DVP-Notice.pdf"
+        }
+      ],
+      "withDistrictDays": null,
+      "withApplicantDays": null,
+      "city": "Sidney",
+      "lastUpdated": 1795776939,
       "relatedPermits": []
     },
     {
@@ -327996,7 +328941,7 @@
         "520 MENZIES ST"
       ],
       "status": "ACTIVE",
-      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nVoice your opinion here. Your comments will be provided to the applicant, CALUC, and City.",
+      "purpose": "Applicants are required to complete Pre-Application Consultation with the neighbourhood Community Association Land Use Committee (CALUC) in advance of submitting a rezoning or OCP amendment application to the City.\n\nLooking for details?\n\nView the plans\nContact the applicant\nContact the appropriate CALUC\nContact City staff\nPlease note that the preliminary comment period for this proposal is now closed. You may submit feedback about this proposal directly to Mayor and Council at  mayorandcouncil@victoria.ca",
       "progressSections": [],
       "documents": [
         {
@@ -328009,7 +328954,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1792998000,
+      "lastUpdated": 1795776725,
       "relatedPermits": []
     },
     {
@@ -338174,6 +339119,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
           "taskType": "Development Permit Issued",
           "startDate": null,
@@ -338208,10 +339159,22 @@
         {
           "docName": "2026-11-09 - Revision List.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=89D4B299-BB12-4F95-817E-36CFE67BFB8B&folderId=59358C260514105051371975"
+        },
+        {
+          "docName": "2026-11-26 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=3540DAF1-ABFE-4B1A-A48F-5D595762DF66&folderId=59358C260514105051371975"
+        },
+        {
+          "docName": "2026-11-26 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=CE13EA2C-D705-4070-A3D1-DB81CFC2ED27&folderId=59358C260514105051371975"
+        },
+        {
+          "docName": "2026-11-26 - Revision List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=84C2BF8D-90C1-4A7B-B78E-7E7892C1AB22&folderId=59358C260514105051371975"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1795258329,
+      "lastUpdated": 1795776725,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00263",
@@ -340311,6 +341274,12 @@
           "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
           "taskType": "Staff Review Application",
           "startDate": 1792566000,
+          "endDate": 1794985200
+        },
+        {
+          "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
+          "taskType": "With Applicant",
+          "startDate": 1794985200,
           "endDate": null
         },
         {
@@ -340327,7 +341296,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1793098366,
+      "lastUpdated": 1795776725,
       "relatedPermits": []
     },
     {
@@ -340760,6 +341729,58 @@
           "relatedPermitApplicationDate": 1698134400,
           "relatedPermitStatus": "ARCHIVED",
           "relatedPermitDescription": "The City is considering a Development Permit with Variance application to install an awning over the existing patio."
+        }
+      ]
+    },
+    {
+      "primaryStreetName": "247 BELLEVILLE ST",
+      "applicant": "TIMOTHY KINDRAT",
+      "cityApplicationType": "DELEGATED DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DDP01195",
+      "applicationDate": 1795503600,
+      "addresses": [
+        "247 BELLEVILLE ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "The City is reviewing a Delegated Development Permit application to make revisions to an approved DDP.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed.",
+      "progressSections": [
+        {
+          "taskDescription": "This task tracks the time an application is being reviewed by staff.\nSTART DATE: Should indicate day 1 of staff review (mark as IN-PROGRESS).\nEND DATE: Should indicate the day review comments were sent to the applicant (COMPLETED).",
+          "taskType": "Staff Review Application",
+          "startDate": 1795503600,
+          "endDate": null
+        },
+        {
+          "taskDescription": "Applicant receives written confirmation signed by staff that delegated development permit has been approved and registered on Title\n\nStatus - Complete - Admin",
+          "taskType": "Development Permit Issued",
+          "startDate": null,
+          "endDate": null
+        }
+      ],
+      "documents": [
+        {
+          "docName": "2026-11-24 - Plan_Submission_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=B7790DAE-7B91-41B6-84D7-2374DE952FE2&folderId=OHF2Y2dRYUCuQbeQfzcJmQ"
+        },
+        {
+          "docName": "2026-11-24 - Plans - Submission.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=58C8BC6B-B147-49E1-B813-DBC0A3E828F7&folderId=OHF2Y2dRYUCuQbeQfzcJmQ"
+        },
+        {
+          "docName": "2026-11-24 - Revision List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=7057FEB8-3C84-4BED-A0A1-81CE0A454069&folderId=OHF2Y2dRYUCuQbeQfzcJmQ"
+        }
+      ],
+      "city": "Victoria",
+      "lastUpdated": 1795503600,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DDP01145",
+          "relatedPermitType": "DELEGATED DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1779696000,
+          "relatedPermitStatus": "ARCHIVED",
+          "relatedPermitDescription": "The City is reviewing a Delegated Development Permit application to install new deck pony wall with face mount glass guardrail.\n\nUnder the site’s existing zoning, the application may be permitted; however, it requires staff review against city policy/guidelines and a decision of the Director of Planning. This information is being shared to keep the community informed."
         }
       ]
     },
@@ -404899,6 +405920,12 @@
           "endDate": null
         },
         {
+          "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
+          "taskType": "Staff Review of Revised Plans",
+          "startDate": null,
+          "endDate": null
+        },
+        {
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": null,
@@ -404969,12 +405996,24 @@
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=79FC7BD0-3E78-458C-B439-FE30239EE695&folderId=92068C241122145630064084"
         },
         {
+          "docName": "2026-11-26 - Plans_Revisions.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=1CDE9E84-ABF3-4DB2-876B-0256D6D5BCCB&folderId=92068C241122145630064084"
+        },
+        {
+          "docName": "2026-11-26 - Plans_Revisions_Bubbled.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=00C83415-B6F9-4EBF-9024-5989E5C1476A&folderId=92068C241122145630064084"
+        },
+        {
+          "docName": "2026-11-26 - Revisions List.pdf",
+          "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=020E387E-8DE0-482A-BC01-5766C1307500&folderId=92068C241122145630064084"
+        },
+        {
           "docName": "ADP Report-reduced.pdf",
           "docURL": "https://tender.victoria.ca/webapps/ourcity/Prospero/FileDownload.aspx?fileId=16990C250213111151566230&folderId=92068C241122145630064084"
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1795517521,
+      "lastUpdated": 1795776725,
       "relatedPermits": [
         {
           "relatedPermitID": "DPV00298",
