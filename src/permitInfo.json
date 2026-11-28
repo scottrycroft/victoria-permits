@@ -1,5 +1,5 @@
 {
-  "dateRetrieved": 1795776723,
+  "dateRetrieved": 1795863120,
   "permits": [
     {
       "primaryStreetName": "7103 BRENTWOOD DR",
@@ -147755,6 +147755,53 @@
       "storeys": 6
     },
     {
+      "primaryStreetName": "3417 COOK ST",
+      "applicant": "ABSTRACT DEVELOPMENTS",
+      "cityApplicationType": "DEVELOPMENT PERMIT",
+      "applicationType": "Development Permit",
+      "folderNumber": "DPR01136",
+      "applicationDate": 1795590000,
+      "addresses": [
+        "3417 COOK ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM R-6/RD-1 TO TBD FOR A 6 STOREY 95 UNIT MULTI-FAMILY BUILDING.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1795762800,
+          "endDate": 1795762800
+        },
+        {
+          "taskDescription": "Application submission review for completeness",
+          "taskType": "APPLICATION REVIEW BY DISTRICT",
+          "startDate": 1795762800,
+          "endDate": 1795762800
+        },
+        {
+          "taskDescription": "File Manager review of application for completeness",
+          "taskType": "FILE MANAGER INTAKE",
+          "startDate": 1795762800,
+          "endDate": null
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1795762800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "REZ00825",
+          "relatedPermitType": "REZONING",
+          "relatedPermitApplicationDate": 1795766400,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "TO REZONE FROM R-6/RD-1 TO RA-11 FOR A 6 STOREY 95 UNIT MULTI-FAMILY BUILDING."
+        }
+      ],
+      "major": true,
+      "storeys": 6
+    },
+    {
       "primaryStreetName": "4115 QUADRA ST",
       "applicant": "",
       "cityApplicationType": "DEVELOPMENT VARIANCE PERMIT",
@@ -156780,6 +156827,47 @@
       "relatedPermits": []
     },
     {
+      "primaryStreetName": "3417 COOK ST",
+      "applicant": "ABSTRACT DEVELOPMENTS",
+      "cityApplicationType": "REZONING",
+      "applicationType": "Rezoning",
+      "folderNumber": "REZ00825",
+      "applicationDate": 1795762800,
+      "addresses": [
+        "3417 COOK ST"
+      ],
+      "status": "ACTIVE",
+      "purpose": "TO REZONE FROM R-6/RD-1 TO RA-11 FOR A 6 STOREY 95 UNIT MULTI-FAMILY BUILDING.",
+      "progressSections": [
+        {
+          "taskDescription": "Date when application is received",
+          "taskType": "APPLICATION RECEIVED",
+          "startDate": 1795762800,
+          "endDate": 1795762800
+        },
+        {
+          "taskDescription": "This folder has limited information, you will find more info, including council meetings, in the primary folder listed below under 'Related Permits'",
+          "taskType": "ASSOCIATED FOLDER - SEE RELATED PERMITS",
+          "startDate": 1795762800,
+          "endDate": 1795762800
+        }
+      ],
+      "documents": [],
+      "city": "Saanich",
+      "lastUpdated": 1795762800,
+      "relatedPermits": [
+        {
+          "relatedPermitID": "DPR01136",
+          "relatedPermitType": "DEVELOPMENT PERMIT",
+          "relatedPermitApplicationDate": 1795593600,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "TO REZONE FROM R-6/RD-1 TO TBD FOR A 6 STOREY 95 UNIT MULTI-FAMILY BUILDING."
+        }
+      ],
+      "major": true,
+      "storeys": 6
+    },
+    {
       "primaryStreetName": "434 Baker Road",
       "applicant": "",
       "cityApplicationType": "Development Variance Permit",
@@ -156796,12 +156884,104 @@
         {
           "docName": "SS_LTC2026-08-27_PLDVP20250460_SR.pdf",
           "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/1.%20Staff%20Reports/SS_LTC2026-08-27_PLDVP20250460_SR.pdf"
+        },
+        {
+          "docName": "SS-LTC-2025-08-14_PLDVP20250460_BKraft_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2025-08-14_PLDVP20250460_BKraft_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-10_PLDDVP20250460_DDunnison_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDDVP20250460_DDunnison_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-10_PLDVP20250460_HKuhrt_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDVP20250460_HKuhrt_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-10_PLDVP20250460_SBarclay_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-10_PLDVP20250460_SBarclay_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-11_PLDVP20250460_DMagnusson_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_DMagnusson_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-11_PLDVP20250460_JWagner_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-11_PLDVP20250460_JWagner_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-12_PLDVP20250460_MMcLeod_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_MMcLeod_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-12_PLDVP20250460_SHall_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_SHall_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-12_PLDVP20250460_TSanders_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-13_PLDVP20250460_CJohnson_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-13_PLDVP20250460_CJohnson_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-13_PLDVP20250460_TStafford_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-13_PLDVP20250460_TStafford_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-14_PLDVP20250460ApplicantLetterofSupport_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-14_PLDVP20250460ApplicantLetterofSupport_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-24_PLDVP20250460_BMilne-EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-24_PLDVP20250460_BMilne-EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08-24_PLDVP20250460_DThompson_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-08_13_PLDVP20250460_DCraig_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC-2026-8-26_PLDVP20260460_PRees_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC-2026-8-26_PLDVP20260460_PRees_EML_R.pdf"
+        },
+        {
+          "docName": "SS-LTC_2026-08-27_PLDVP20250460_GCherneff_Letter_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS-LTC_2026-08-27_PLDVP20250460_GCherneff_Letter_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-06_PLDVP20250460_PCourt_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-07_PLDVP20250460_HJang-EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-07_PLDVP20250460_HJang-EML_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-07_PLDVP20250460_JSpiers_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-07_PLDVP20250460_JSpiers_EML_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-10_PLDVP20250460_AEtt_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-10_PLDVP20250460_AEtt_EML_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026-08-13_PLDVP20250460_JGange_EML_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026-08-13_PLDVP20250460_JGange_EML_R.pdf"
+        },
+        {
+          "docName": "SS_LTC-2026_08-10_PLDVP20250460_JNowell_EMl_R.pdf",
+          "docURL": "https://webfiles.islandstrust.bc.ca/islands/local-trust-areas/salt-spring/current-applications/PLDVP20250460%20and%20PLDP20250452-%20434%20Baker%20Rd%20(S.Klaver)/3.%20Public%20Correspondence/SS_LTC-2026_08-10_PLDVP20250460_JNowell_EMl_R.pdf"
         }
       ],
       "withDistrictDays": null,
       "withApplicantDays": null,
       "city": "Salt Spring",
-      "lastUpdated": 1795690540,
+      "lastUpdated": 1795863302,
       "relatedPermits": []
     },
     {
@@ -339116,12 +339296,12 @@
           "taskDescription": "City requires further information, revisions or documentation from the Applicant\n\nStatus - In Progress - Planner / Admin - email is attached and events updated \nStatus - Complete - Planner / Admin - updated when plans are received",
           "taskType": "With Applicant",
           "startDate": 1795158000,
-          "endDate": null
+          "endDate": 1795676400
         },
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.\nStatus - In-Progress - Admin - email is sent out for staff reviews to be done\nStatus - Complete - Admin / Planner - full review is complete",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1795676400,
           "endDate": null
         },
         {
@@ -339174,7 +339354,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1795776725,
+      "lastUpdated": 1795863122,
       "relatedPermits": [
         {
           "relatedPermitID": "HAP00263",
@@ -365386,7 +365566,7 @@
         "1909 COOK ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Development Permit application to construct residential buildings. CONCURRENT WITH REZ00884 and HAP00267, SEE REZ00884 FOR PROJECT DETAILS.",
+      "purpose": "The City is considering a Development Permit application to construct residential buildings. Concurrent with REZ00884, HAP00267 and DVP00302. See REZ00884 for project details.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -365397,21 +365577,28 @@
       ],
       "documents": [],
       "city": "Victoria",
-      "lastUpdated": 1795517521,
+      "lastUpdated": 1795863122,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00302",
+          "relatedPermitType": "Development Variance Permit",
+          "relatedPermitApplicationDate": 1795680000,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Development Variance Permit application to subdivide property into two lots while retaining the church.\n\nSee REZ00884 for project details."
+        },
         {
           "relatedPermitID": "REZ00884",
           "relatedPermitType": "Rezoning Application",
           "relatedPermitApplicationDate": 1733212800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Rezoning application to subdivide to allow one residential rental building.\n\nConcurrent with DPV00298 and HAP00267."
+          "relatedPermitDescription": "The City is considering a Rezoning application to subdivide to allow one residential rental building.\n\nConcurrent with DPV00298, HAP00267, DVP00302."
         },
         {
           "relatedPermitID": "HAP00267",
           "relatedPermitType": "HERITAGE ALTERATION PERMIT",
           "relatedPermitApplicationDate": 1733212800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Heritage Alteration Permit application to construct residential buildings.\n\nCONCURRENT WITH REZ00884 AND DP000647, SEE REZ00884 FOR PROJECT DETAILS."
+          "relatedPermitDescription": "The City is considering a Heritage Alteration Permit application to construct residential buildings.\n\nConcurrent with REZ00884, DPV00298 and HAP00267. See REZ008884 for project details."
         },
         {
           "relatedPermitID": "DP000647",
@@ -405827,7 +406014,7 @@
         "1909 COOK ST"
       ],
       "status": "ACTIVE",
-      "purpose": "The City is considering a Rezoning application to subdivide to allow one residential rental building. Concurrent with DPV00298 and HAP00267.",
+      "purpose": "The City is considering a Rezoning application to subdivide to allow one residential rental building. Concurrent with DPV00298, HAP00267, DVP00302.",
       "progressSections": [
         {
           "taskDescription": "Application is received by the City",
@@ -405922,7 +406109,7 @@
         {
           "taskDescription": "Updated information and plans are recirculated for staff review\nReview Start and End Date on the permit tracker is based on this task start and end date.",
           "taskType": "Staff Review of Revised Plans",
-          "startDate": null,
+          "startDate": 1795676400,
           "endDate": null
         },
         {
@@ -406013,21 +406200,28 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1795776725,
+      "lastUpdated": 1795863122,
       "relatedPermits": [
+        {
+          "relatedPermitID": "DVP00302",
+          "relatedPermitType": "Development Variance Permit",
+          "relatedPermitApplicationDate": 1795680000,
+          "relatedPermitStatus": "ACTIVE",
+          "relatedPermitDescription": "The City is considering a Development Variance Permit application to subdivide property into two lots while retaining the church.\n\nSee REZ00884 for project details."
+        },
         {
           "relatedPermitID": "DPV00298",
           "relatedPermitType": "Development Permit with Variance",
           "relatedPermitApplicationDate": 1755244800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Development Permit application to construct residential buildings.\n\nCONCURRENT WITH REZ00884 and HAP00267, SEE REZ00884 FOR PROJECT DETAILS."
+          "relatedPermitDescription": "The City is considering a Development Permit application to construct residential buildings.\n\nConcurrent with REZ00884, HAP00267 and DVP00302. See REZ00884 for project details."
         },
         {
           "relatedPermitID": "HAP00267",
           "relatedPermitType": "HERITAGE ALTERATION PERMIT",
           "relatedPermitApplicationDate": 1733212800,
           "relatedPermitStatus": "ACTIVE",
-          "relatedPermitDescription": "The City is considering a Heritage Alteration Permit application to construct residential buildings.\n\nCONCURRENT WITH REZ00884 AND DP000647, SEE REZ00884 FOR PROJECT DETAILS."
+          "relatedPermitDescription": "The City is considering a Heritage Alteration Permit application to construct residential buildings.\n\nConcurrent with REZ00884, DPV00298 and HAP00267. See REZ008884 for project details."
         },
         {
           "relatedPermitID": "DP000647",
@@ -408145,14 +408339,14 @@
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
-          "taskType": "Committee of the Whole Meeting (COTW)",
-          "startDate": null,
+          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
+          "taskType": "Council Meeting - Bylaw Introduction",
+          "startDate": 1796281200,
           "endDate": null
         },
         {
-          "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
-          "taskType": "Council Meeting - Bylaw Introduction",
+          "taskDescription": "Meeting date of the Committee of the Whole (COTW)\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled COTW meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed COTW meeting\n2. Mark task as COMPLETED",
+          "taskType": "Committee of the Whole Meeting (COTW)",
           "startDate": null,
           "endDate": null
         },
@@ -408234,7 +408428,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1794567134,
+      "lastUpdated": 1795863122,
       "relatedPermits": [
         {
           "relatedPermitID": "DP000657",
@@ -409676,7 +409870,7 @@
           "taskDescription": "Meeting date for Council to Introduce Bylaw for 1st and 2nd Reading of Proposed Bylaw.\n\nSetting to SCHEDULED:\n1. Enter the actual start date as the date of scheduled Council meeting\n2. Enter your name as the resource\n3. Mark task as SCHEDULED\n\nMarking the task as SCHEDULED triggers:\n1. Auto email to OurCity Subscribers\n2. Auto email to applicant notifying them of the meeting\n(see events)\n\nSetting to COMPLETED:\n1. Enter the end date as the date of the completed Council meeting\n2. Mark task as COMPLETED",
           "taskType": "Council Meeting - Bylaw Introduction",
           "startDate": 1795676400,
-          "endDate": null
+          "endDate": 1795676400
         },
         {
           "taskDescription": "All City comments provided to the applicant",
@@ -409710,7 +409904,7 @@
         }
       ],
       "city": "Victoria",
-      "lastUpdated": 1795603913,
+      "lastUpdated": 1795863122,
       "relatedPermits": [
         {
           "relatedPermitID": "CLC00486",
